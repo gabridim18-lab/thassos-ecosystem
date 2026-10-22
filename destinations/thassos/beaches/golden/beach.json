@@ -1,0 +1,383 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-golden",
+  "slug": "golden",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Χρυσή Αμμουδιά",
+    "international_name": "Golden Beach",
+    "aliases": [
+      "Chrysi Ammoudia",
+      "Chrissi Ammoudia",
+      "Chrissi Ammoudia Beach",
+      "Golden Sand",
+      "Skala Panagia Beach"
+    ],
+    "entity_scope": "Extended bay beach between Skala Panagia and Skala Potamia; named sections may have their own POIs.",
+    "deduplication_warning": "Golden Beach, Chrysi Ammoudia and sections near Skala Potamia may appear separately in data sources. Do not count as independent beaches without manual geographic review."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "east / northeast",
+    "settlements": [
+      "Skala Panagia",
+      "Skala Potamia"
+    ],
+    "lat": 40.723493866471, "lng": 24.75804201746,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://maps.google.com/?daddr=40.723493866471%2C24.75804201746",
+    "coordinate_source_reference": "s_map",
+    "coordinate_type": "representative_beach_pin_not_specific_access",
+    "coordinate_review_status": "linked_reference_point_verified_from_map_link; exact preferred public navigation point pending owner review",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "fine_sand",
+    "seabed_near_shore": "mostly_sandy",
+    "water_entry": "generally_gradual",
+    "nearshore_depth": "generally_shallow_but_variable",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "wind_dependent",
+    "exposure": "open_east_coast_bay",
+    "natural_shade_on_sand": "limited",
+    "beach_length_m": null,
+    "length_note": "Published length estimates vary significantly by definition of the bay and beach section; no precise figure asserted.",
+    "backdrop": "Mount Ipsarion and green slopes",
+    "shoreline_type": "long_sandy_bay"
+  },
+  "visitor_experience": {
+    "organization": "mixed_organized_and_free",
+    "suitable_for": [
+      "families",
+      "couples",
+      "groups",
+      "swimming",
+      "beach_walks",
+      "relaxed_day"
+    ],
+    "notable_for": [
+      "fine_sand",
+      "gradual_entry",
+      "mountain_view",
+      "long_bay",
+      "food_options"
+    ],
+    "activities_possible": [
+      "swimming",
+      "walking",
+      "beach_volleyball",
+      "seasonal_water_sports"
+    ],
+    "estimated_crowd_peak": "popular_busy_in_high_summer",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Shallow water does not remove the need for supervision; conditions change with wind and weather."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "May belong to nearby operators, not public facilities along the full bay."
+    },
+    "showers": {
+      "available_in_some_sections": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": true,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": true,
+    "volleyball": true,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "May vary by section and season; not independently verified for every point of the bay.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Some near-level approaches are reported, but continuous accessibility and special equipment have not been independently verified.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Amenities depend on exact segment, season and operator."
+  },
+  "access_and_cost": {
+    "road_access": "paved_roads_to_nearby_settlements",
+    "public_transport": "seasonal_bus_service_reported",
+    "parking_type": "street_and_local_parking_areas",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Operators may charge a fee or require a minimum food/drink order; ask before use.",
+    "best_arrival_advice": "Earlier arrival is usually better for parking and finding a preferred spot during peak season.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Published estimates vary by chosen end of this long bay, so no single route distance is stored."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": 2026,
+      "verified_specific_section": "Chryssi Ammoudia / Golden Beach Camping",
+      "entire_beach_certified": null,
+      "season_end": "2026-09-30",
+      "source_ref": "s_official_blue_flag"
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Golden Beach (Chrisi Ammoudia)",
+      "tagline": "Nisip auriu, apă puțin adâncă și munți verzi în fundal",
+      "summary": "Un golf lung și nisipos de pe coasta estică a insulei Thassos, între Skala Panagia și Skala Potamia. Golden Beach este potrivită pentru zile relaxate la mare, mai ales pentru familiile care preferă intrarea lină în apă și facilitățile la îndemână.",
+      "description": "Golden Beach, cunoscută și ca Chrisi Ammoudia, se întinde de-a lungul unui golf amplu de pe coasta estică a insulei Thassos. Nisipul fin, apa de obicei limpede și versanții verzi ai muntelui Ipsarion creează unul dintre cele mai recognoscibile peisaje ale insulei. Plaja leagă zonele turistice Skala Panagia și Skala Potamia, astfel că poți alege între sectoare cu șezlonguri și umbrele sau porțiuni unde îți așezi propriul echipament. Intrarea în mare este în general lină, un avantaj pentru familiile cu copii, deși vântul poate forma valuri, iar adâncimea diferă de la un sector la altul. În apropiere se găsesc taverne, cafenele, unități de cazare și servicii de agrement, mai ales în sezonul estival. Pentru o experiență plăcută, alege dinainte zona golfului în care vrei să stai și nu te baza pe disponibilitatea unui loc de parcare chiar lângă nisip în zilele aglomerate.",
+      "practical_tips": "Vino mai devreme în lunile de vârf pentru a găsi mai ușor parcare și loc pe plajă. Umbrirea naturală de pe nisip este limitată, deci ia o umbrelă dacă nu folosești un sector amenajat. Accesul la toalete și dușuri depinde de porțiune și de operator; verifică local înainte să te instalezi. Condițiile pentru înot se pot schimba când bate vântul. Tarifele pentru șezlonguri și activități nu sunt fixe pentru întregul golf.",
+      "highlights": [
+        "Nisip fin și întindere amplă de plajă",
+        "Intrare în apă în general lină",
+        "Peisaj spre muntele Ipsarion",
+        "Taverne și beach baruri în apropiere",
+        "Sectoare amenajate și porțiuni libere"
+      ],
+      "seo_title": "Golden Beach Thassos – ghid de plajă, acces și facilități",
+      "seo_description": "Descoperă Golden Beach din Thassos: nisip fin, apă puțin adâncă, plajă între Skala Panagia și Skala Potamia, acces, facilități și sfaturi utile.",
+      "social_caption": "🏖️ Golden Beach, Thassos: un golf lung cu nisip fin, apă turcoaz și munții verzi în fundal. 🌊 Perfectă pentru o zi în care combini relaxarea cu o plimbare pe malul mării. Salveaz-o pentru următoarea vacanță! 🇬🇷 #Thassos #GoldenBeach #ExploreGreece",
+      "photo_alt": "Priveliște panoramică asupra golfului Golden Beach și localității Skala Potamia din Thassos."
+    },
+    "en": {
+      "name": "Golden Beach (Chrysi Ammoudia)",
+      "tagline": "Golden sand, gentle shallows and green mountain scenery",
+      "summary": "A long sandy bay on the eastern coast of Thassos, stretching between Skala Panagia and Skala Potamia. Golden Beach is a convenient choice for a relaxed beach day, particularly for families looking for a gradual sea entry and nearby facilities.",
+      "description": "Golden Beach, also known as Chrysi Ammoudia, follows a broad bay on the eastern coast of Thassos. Its soft sand, usually clear water and the green slopes of Mount Ipsarion create one of the island’s most recognizable seaside landscapes. The shoreline connects the resort areas of Skala Panagia and Skala Potamia, giving visitors a choice between serviced stretches with loungers and umbrellas and open areas for their own beach gear. The sea entry is generally gradual, which can suit families with children, although winds can bring waves and water depth varies from section to section. Tavernas, cafés, accommodation and seasonal activities are available near the beach. Rather than treating the whole bay as one small stop, choose the section that best matches your day: convenient facilities, room to spread out, or a walk along the coast. In busy summer periods, allow extra time for parking and reaching your preferred part of the shore.",
+      "practical_tips": "Arrive earlier in peak summer for easier parking and more choice of space. Natural shade on the sand is limited, so bring your own umbrella unless you plan to use a serviced section. Toilets and showers vary by location and operator. Wind can change swimming conditions, even where the shore is shallow. Lounger and activity prices are set locally and may vary.",
+      "highlights": [
+        "Long stretch of fine sand",
+        "Generally gradual entry into the sea",
+        "Views of Mount Ipsarion",
+        "Nearby tavernas and beach bars",
+        "Serviced and open sections"
+      ],
+      "seo_title": "Golden Beach Thassos – beach guide, access and facilities",
+      "seo_description": "Explore Golden Beach in Thassos: soft sand, shallow entry, Skala Panagia and Skala Potamia, nearby amenities, access and practical beach tips.",
+      "social_caption": "🏖️ Meet Golden Beach, Thassos: a sweeping sandy bay, inviting turquoise water and green mountains behind the shore. 🌊 Save this spot for a relaxed Greek island day! 🇬🇷 #Thassos #GoldenBeach #GreeceTravel",
+      "photo_alt": "Wide panoramic view of Golden Beach bay and Skala Potamia on Thassos island."
+    },
+    "el": {
+      "name": "Χρυσή Αμμουδιά (Golden Beach)",
+      "tagline": "Χρυσαφένια άμμος, ρηχά νερά και καταπράσινες πλαγιές",
+      "summary": "Μια μεγάλη αμμώδης ακτή στην ανατολική Θάσο, ανάμεσα στη Σκάλα Παναγίας και τη Σκάλα Ποταμιάς. Η Χρυσή Αμμουδιά προσφέρεται για χαλαρές στιγμές δίπλα στη θάλασσα, ιδιαίτερα για οικογένειες που αναζητούν ομαλή είσοδο στο νερό και κοντινές υπηρεσίες.",
+      "description": "Η Χρυσή Αμμουδιά απλώνεται σε έναν μεγάλο κόλπο στην ανατολική πλευρά της Θάσου. Η λεπτή άμμος, τα συνήθως καθαρά νερά και οι καταπράσινες πλαγιές του Υψάριου συνθέτουν ένα από τα πιο χαρακτηριστικά παραθαλάσσια τοπία του νησιού. Η ακτή συνδέει τη Σκάλα Παναγίας με τη Σκάλα Ποταμιάς, προσφέροντας τόσο οργανωμένα τμήματα με ξαπλώστρες και ομπρέλες όσο και ελεύθερο χώρο για τον δικό σας εξοπλισμό. Η είσοδος στη θάλασσα είναι γενικά ομαλή, στοιχείο που την κάνει ελκυστική για οικογένειες, όμως ο άνεμος μπορεί να δημιουργήσει κύματα και το βάθος διαφέρει ανά σημείο. Στην παραλιακή περιοχή λειτουργούν ταβέρνες, καφέ, καταλύματα και εποχικές δραστηριότητες. Επειδή ο κόλπος είναι εκτεταμένος, αξίζει να διαλέξετε από πριν το τμήμα που σας εξυπηρετεί καλύτερα. Τους μήνες με μεγάλη κίνηση, η στάθμευση κοντά στο σημείο που επιθυμείτε μπορεί να χρειαστεί περισσότερο χρόνο.",
+      "practical_tips": "Το καλοκαίρι προτιμήστε να φτάσετε νωρίς, ιδιαίτερα σε περιόδους αιχμής. Η φυσική σκιά πάνω στην άμμο είναι περιορισμένη, οπότε μια προσωπική ομπρέλα είναι χρήσιμη. Τουαλέτες και ντους δεν υπάρχουν απαραίτητα σε κάθε σημείο και εξαρτώνται από τις διαθέσιμες εγκαταστάσεις. Ελέγχετε πάντοτε τον άνεμο και τα κύματα. Οι χρεώσεις για ξαπλώστρες και δραστηριότητες διαφέρουν ανά επιχείρηση.",
+      "highlights": [
+        "Μεγάλη αμμώδης ακτή",
+        "Γενικά ομαλή είσοδος στη θάλασσα",
+        "Θέα προς το όρος Υψάριο",
+        "Ταβέρνες και beach bars κοντά στην παραλία",
+        "Οργανωμένα και ελεύθερα τμήματα"
+      ],
+      "seo_title": "Χρυσή Αμμουδιά Θάσος – πρόσβαση και παροχές παραλίας",
+      "seo_description": "Γνωρίστε τη Χρυσή Αμμουδιά στη Θάσο: άμμος, ρηχά νερά, πρόσβαση από Σκάλα Παναγίας και Σκάλα Ποταμιάς, παροχές και χρήσιμες συμβουλές.",
+      "social_caption": "🏖️ Χρυσή Αμμουδιά, Θάσος: απέραντη αμμουδιά, γαλαζοπράσινα νερά και καταπράσινο βουνό στο φόντο. 🌊 Μια υπέροχη ιδέα για την επόμενη εξόρμησή σας! 🇬🇷 #Θάσος #ΧρυσήΑμμουδιά #Ελλάδα",
+      "photo_alt": "Πανοραμική θέα στον κόλπο της Χρυσής Αμμουδιάς και τη Σκάλα Ποταμιάς στη Θάσο."
+    },
+    "de": {
+      "name": "Golden Beach (Chrysi Ammoudia)",
+      "tagline": "Goldener Sand, flach abfallendes Wasser und grüne Berge",
+      "summary": "Eine weitläufige Sandbucht an der Ostküste von Thassos zwischen Skala Panagia und Skala Potamia. Golden Beach eignet sich für einen entspannten Strandtag, besonders für Familien, die einen meist flachen Einstieg ins Meer und Angebote in der Nähe schätzen.",
+      "description": "Golden Beach, auch Chrysi Ammoudia genannt, erstreckt sich entlang einer großen Bucht an der Ostküste von Thassos. Feiner Sand, meist klares Wasser und die grünen Hänge des Ipsarion bilden eine eindrucksvolle Kulisse. Der Strand verbindet die Ferienorte Skala Panagia und Skala Potamia. Entlang der Küste gibt es bewirtschaftete Bereiche mit Liegen und Sonnenschirmen, aber auch freie Abschnitte für die eigene Strandausrüstung. Das Ufer fällt überwiegend sanft ab und ist deshalb bei Familien beliebt. Je nach Wind können jedoch Wellen auftreten, und die Wassertiefe ist nicht überall gleich. In Strandnähe befinden sich Tavernen, Cafés, Unterkünfte und verschiedene saisonale Freizeitangebote. Da die Bucht recht lang ist, lohnt es sich, vorab den passenden Strandabschnitt auszuwählen: mit vielen Einrichtungen, etwas mehr Platz oder einem schönen Küstenspaziergang. Im Hochsommer kann die Parkplatzsuche rund um den gewünschten Zugang länger dauern.",
+      "practical_tips": "In der Hochsaison möglichst früh ankommen, um leichter einen Parkplatz und einen guten Platz am Strand zu finden. Natürlicher Schatten auf dem Sand ist begrenzt; ein eigener Sonnenschirm ist daher sinnvoll. Toiletten und Duschen sind je nach Abschnitt und Betreiber verfügbar. Wind und Wellengang können die Badebedingungen verändern. Preise für Liegen und Aktivitäten vor Ort erfragen.",
+      "highlights": [
+        "Langer Strand mit feinem Sand",
+        "Meist sanfter Einstieg ins Meer",
+        "Blick auf den Berg Ipsarion",
+        "Tavernen und Strandbars in der Nähe",
+        "Bewirtschaftete und freie Abschnitte"
+      ],
+      "seo_title": "Golden Beach Thassos – Strandführer, Anfahrt und Ausstattung",
+      "seo_description": "Golden Beach auf Thassos entdecken: feiner Sand, flaches Wasser, Skala Panagia und Skala Potamia, Strandangebote, Anfahrt und praktische Tipps.",
+      "social_caption": "🏖️ Golden Beach auf Thassos: eine weite Sandbucht, türkisfarbenes Meer und grüne Berghänge. 🌊 Ein wunderbarer Ort für einen entspannten Inseltag! 🇬🇷 #Thassos #GoldenBeach #Griechenland",
+      "photo_alt": "Panoramablick auf die Bucht Golden Beach und Skala Potamia auf Thassos."
+    },
+    "bg": {
+      "name": "Голдън Бийч (Хриси Амудия)",
+      "tagline": "Златист пясък, плитки води и зелени планински склонове",
+      "summary": "Дълъг пясъчен залив на източния бряг на Тасос между Скала Панагия и Скала Потамия. Голдън Бийч е чудесен избор за спокоен ден край морето, особено за семейства, които търсят плавно навлизане във водата и удобства наблизо.",
+      "description": "Голдън Бийч, познат и като Хриси Амудия, се простира по широк залив на източния бряг на остров Тасос. Финият пясък, обикновено бистрата вода и зелените склонове на планината Ипсарион създават един от най-разпознаваемите крайбрежни пейзажи на острова. Плажът свързва курортните зони Скала Панагия и Скала Потамия. По протежението му има както организирани участъци с шезлонги и чадъри, така и свободни места за собствен плажен инвентар. Навлизането в морето обикновено е плавно, което е удобно за семейства с деца, но вятърът може да образува вълни, а дълбочината не е еднаква навсякъде. В близост ще откриете таверни, кафенета, места за настаняване и сезонни водни активности. Тъй като заливът е дълъг, най-добре предварително изберете коя част на плажа предпочитате. През натоварените летни месеци намирането на паркомясто близо до избрания вход може да отнеме време.",
+      "practical_tips": "През силния летен сезон пристигайте по-рано, за да намерите по-лесно място за паркиране и почивка. Естествената сянка върху пясъка е ограничена, затова носете чадър, ако няма да използвате организиран участък. Тоалетните и душовете зависят от конкретната зона и обекта. Следете вятъра и вълните. Цените за шезлонги и активности се различават според доставчика.",
+      "highlights": [
+        "Дълга ивица с фин пясък",
+        "Обикновено плавно навлизане в морето",
+        "Гледка към планината Ипсарион",
+        "Таверни и плажни барове наблизо",
+        "Организирани и свободни участъци"
+      ],
+      "seo_title": "Голдън Бийч, Тасос – плаж, достъп и удобства",
+      "seo_description": "Разгледайте Голдън Бийч на Тасос: фин пясък, плитки води, Скала Панагия и Скала Потамия, удобства, достъп и полезни съвети.",
+      "social_caption": "🏖️ Голдън Бийч, Тасос: дълъг пясъчен залив, тюркоазена вода и зелени планини на хоризонта. 🌊 Запазете го за следващата си почивка! 🇬🇷 #Тасос #GoldenBeach #Гърция",
+      "photo_alt": "Панорамна гледка към залива Голдън Бийч и Скала Потамия на остров Тасос."
+    },
+    "sr": {
+      "name": "Golden Beach (Hrisi Amudija)",
+      "tagline": "Zlatni pesak, plitka voda i zeleni planinski obronci",
+      "summary": "Duga peščana uvala na istočnoj obali Tasosa, između mesta Skala Panagija i Skala Potamija. Golden Beach je odličan izbor za opušten dan na moru, naročito za porodice koje traže postepen ulazak u vodu i sadržaje u blizini.",
+      "description": "Golden Beach, poznata i kao Hrisi Amudija, pruža se duž široke uvale na istočnoj obali Tasosa. Sitni pesak, uglavnom bistra voda i zeleni obronci planine Ipsarion stvaraju jedan od prepoznatljivih pejzaža ostrva. Plaža povezuje turistička mesta Skala Panagija i Skala Potamija. Duž obale postoje uređeni delovi sa ležaljkama i suncobranima, ali i slobodne površine za sopstvenu opremu. Ulazak u more je pretežno postepen, što je pogodno za porodice s decom, ali vetar može doneti talase, a dubina se razlikuje od jednog dela do drugog. U okolini su taverne, kafići, smeštajni objekti i sezonske aktivnosti na vodi. Pošto je uvala dugačka, dobro je unapred izabrati deo plaže koji vam najviše odgovara: sa više sadržaja, više slobodnog prostora ili za dužu šetnju uz more. U jeku sezone za parkiranje blizu željenog prilaza ponekad treba više vremena.",
+      "practical_tips": "Tokom najprometnijih letnjih nedelja dođite ranije da biste lakše pronašli parking i mesto na plaži. Prirodnog hlada na samom pesku nema mnogo, pa ponesite suncobran ako ne planirate uređeni deo. Toaleti i tuševi zavise od dela plaže i pružaoca usluge. Pratite vetar i talase jer se uslovi kupanja menjaju. Cene ležaljki i aktivnosti proverite na licu mesta.",
+      "highlights": [
+        "Duga plaža sa sitnim peskom",
+        "Uglavnom postepen ulazak u more",
+        "Pogled na planinu Ipsarion",
+        "Taverne i barovi na plaži u blizini",
+        "Uređeni i slobodni delovi"
+      ],
+      "seo_title": "Golden Beach Tasos – vodič, prilaz i sadržaji",
+      "seo_description": "Otkrijte Golden Beach na Tasosu: fini pesak, plitka voda, Skala Panagija i Skala Potamija, sadržaji, prilaz i praktični saveti.",
+      "social_caption": "🏖️ Golden Beach, Tasos: široka peščana uvala, tirkizno more i zelene planine u pozadini. 🌊 Sačuvajte je za sledeće letovanje! 🇬🇷 #Tasos #GoldenBeach #Grcka",
+      "photo_alt": "Panoramski pogled na zaliv Golden Beach i Skala Potamiju na Tasosu."
+    }
+  },
+  "media": {
+    "cover": null,
+    "gallery": [],
+    "expected_folder": "destinations/thassos/beaches/golden/images/",
+    "suggested_asset_names": [
+      "cover.webp",
+      "gallery_01.webp",
+      "gallery_02.webp"
+    ],
+    "image_policy": "Only user-supplied, owned or appropriately licensed photographs can become published assets; record provenance for each.",
+    "candidate_photographs": [
+      {
+        "slot": "cover_candidate",
+        "planned_filename": "cover.webp",
+        "commons_file": "Golden Beach and Skala Potamia (Thassos) . Viewed from Mount Ipsarion (Thassos).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Golden_Beach_and_Skala_Potamia_(Thassos)_._Viewed_from_Mount_Ipsarion_(Thassos).jpg",
+        "author": "Sli23121953",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "captured_year": 2023,
+        "visual_subject": "Panoramic view of bay from Mount Ipsarion",
+        "license_checked_on": "2026-10-22",
+        "status": "source_license_verified_asset_not_imported",
+        "local_path": null,
+        "rights_note": "Use with proper attribution, license link and indication of transformations; ShareAlike applies to adapted material."
+      },
+      {
+        "slot": "gallery_candidate_01",
+        "planned_filename": "gallery_01.webp",
+        "commons_file": "Golden Beach, Thassos.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Golden_Beach,_Thassos.JPG",
+        "author": "Rosa-Maria Rinkl",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "captured_year": 2014,
+        "visual_subject": "Golden Beach, sand and beach facilities",
+        "license_checked_on": "2026-10-22",
+        "status": "source_license_verified_asset_not_imported",
+        "local_path": null,
+        "rights_note": "Use with attribution and modification notice if converted or cropped."
+      },
+      {
+        "slot": "gallery_candidate_02",
+        "planned_filename": "gallery_02.webp",
+        "commons_file": "Thassos-golden-beach.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Thassos-golden-beach.jpg",
+        "author": "Edal Anton Lefterov",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "captured_year": 2011,
+        "visual_subject": "View of Golden Beach",
+        "license_checked_on": "2026-10-22",
+        "status": "source_license_verified_asset_not_imported",
+        "local_path": null,
+        "rights_note": "Use with attribution, license URL and transformation notice."
+      }
+    ]
+  },
+  "source_references": [
+    {
+      "id": "s_map",
+      "kind": "map_link",
+      "title": "MyThassos listing — Golden Beach directions to Google Maps",
+      "url": "https://mythassos.app/en/places/608",
+      "detail": "The page links to a Google Maps directions point at 40.723493866471, 24.75804201746. It is a reference pin on a long beach, not a verified parking entrance.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_official_blue_flag",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — Chryssi Ammoudia / Golden Beach Camping, 2026",
+      "url": "https://www.blueflag.gr/el/beach/hrysi-ammoydia-golden-beach-camping",
+      "detail": "Official award listing for a specifically named managed beach section through 30 September 2026; not evidence that the entire bay is certified.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_gothassos",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Golden Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/golden-beach",
+      "detail": "Lists facility types including toilets, showers, sunbeds, food, sports and parking, not guarantees for every beach segment.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_local_guide",
+      "kind": "travel_guide",
+      "title": "This Is Your Greece — Golden Beach visitor guide",
+      "url": "https://thisisyourgreece.com/beaches/golden-beach-thassos",
+      "detail": "Bay sections, sand, gradual entry, wind, bus, access, free areas and pricing caveats; page says last verified August 2026.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_visitgreece",
+      "kind": "national_tourism",
+      "title": "Greek National Tourism Organisation — Beaches on Thasos Island",
+      "url": "https://www.visitgreece.gr/en/experiences/culture/local-traditions/beaches-on-thasos-island",
+      "detail": "Describes Golden Sand beach as road-accessible and equipped for water sports with shallow water.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_travelfind",
+      "kind": "travel_guide",
+      "title": "Thasos TravelFind — Chrysi Ammoudia",
+      "url": "https://thasos.travelfind.gr/en/info/spot/chrysi-ammoudia",
+      "detail": "Location on eastern Thassos near Panagia, beach facilities and local services. Accessibility wording is not proof of accessible facilities along the whole bay.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_pending_images_and_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Exact Google Maps pin and access point selection",
+      "Choose and import photographs, or provide own imagery",
+      "Check photo attribution display before publishing",
+      "Current lifeguard coverage, wheelchair facilities and shower/toilet locations",
+      "Seasonal prices and operator availability",
+      "Read six-language copy with native speakers before final public release"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Dataset text original; candidate images not yet packaged/cleared as final deliverable.",
+    "photo_source_disclaimer": "References to Commons files are not yet local assets."
+  }
+}
