@@ -1,0 +1,25 @@
+THASSOS SOCIAL MEDIA STUDIO V2 - UPDATE LOCAL
+=============================================
+
+Ce aduce V2:
+- Textul mic VACANTA IN THASSOS se traduce automat in toate cele 6 limbi.
+- Textul de jos (THASSOS / GRECIA) se traduce de asemenea.
+- Titlul si subtitlul sunt coborate in flyer si pot fi pozitionate cu un cursor.
+- Detalii suplimentare, optional, extrase din JSON-ul original: capacitate, camere, dormitoare, bai, unele facilitati si highlights.
+- Poti alege pana la 3 detalii pe material si poti scrie un detaliu manual.
+- Sunt pastrate celelalte functionalitati existente: fotografii, PNG, text si ZIP pentru CapCut.
+
+CUM INSTALEZI (WINDOWS 11):
+1. Deschide GitHub Desktop > Repository > Show in Explorer.
+2. Extrage TOATE cele 3 fisiere ale acestui ZIP DIRECT in folderul thassos-ecosystem.
+   In acelasi folder trebuie sa existe deja folderul "studio".
+3. Dublu-click pe ACTUALIZEAZA_STUDIO_V2.bat.
+4. In fereastra neagra trebuie sa apara "SUCCESS: Studio V2 installed!".
+5. Daca serverul local ruleaza, deschide http://localhost:8000/studio/ si apasa Ctrl+F5.
+6. Daca vrei sa ai si in GitHub versiunea noua: in GitHub Desktop bifeaza si fa commit/push NUMAI pentru studio/index.html.
+   Nu trebuie publicate fisierele installer .bat / .py sau acest instructaj.
+
+PACHETUL NU MODIFICA JSON-URI, CATALOGUL SAU FOTOGRAFIILE.
+Face backup automat al vechiului Studio in folderul temporar Windows.
+
+NOTA: E un upgrade incremental de design, nu varianta finala a Studio.
