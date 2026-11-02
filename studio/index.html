@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Thassos Social Media Studio</title>
+  <style>
+    :root{color-scheme:light;--ink:#122c43;--muted:#667c8a;--sea:#087f9d;--sand:#f6f5ef;--line:#dbe6e9;--white:#fff;--soft:#eaf6f7;--shadow:0 12px 38px rgba(18,44,67,.08)}
+    *{box-sizing:border-box}body{margin:0;font:15px/1.5 system-ui,-apple-system,Segoe UI,sans-serif;background:var(--sand);color:var(--ink)}button,input,select,textarea{font:inherit}button{cursor:pointer}a{color:var(--sea)}
+    header{background:linear-gradient(120deg,#07304d,#007995);color:white;padding:24px clamp(16px,4vw,55px);display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}
+    header .tag{letter-spacing:.18em;font-size:11px;font-weight:700;color:#b6f0ef}header h1{margin:1px 0 3px;font-size:clamp(23px,3vw,32px);line-height:1.2}header p{margin:0;color:#ccebed}
+    main{max-width:1540px;padding:24px 20px 70px;margin:auto;display:grid;grid-template-columns:minmax(290px,.88fr) minmax(290px,1fr) minmax(290px,1.05fr);gap:18px;align-items:start}
+    .panel{background:#fff;border:1px solid var(--line);border-radius:17px;box-shadow:var(--shadow);padding:20px;min-width:0}.panel h2{font-size:18px;margin:0 0 14px}.panel h3{font-size:14px;margin:21px 0 10px}
+    label{display:block;font-size:12px;font-weight:750;color:#365063;margin-bottom:5px}input[type=search],input[type=text],select,textarea{width:100%;border:1px solid #cddde2;border-radius:9px;padding:11px 12px;background:white;color:var(--ink);outline-color:#0da1bd}textarea{resize:vertical;min-height:110px}
+    .filters{display:grid;grid-template-columns:1fr 1fr;gap:10px}.field{margin-bottom:13px}.full{grid-column:1/-1}.button{border:0;background:#087e98;color:#fff;border-radius:10px;padding:11px 14px;font-weight:750;display:inline-flex;align-items:center;justify-content:center;gap:7px}.button.alt{background:#e5f3f5;color:#125e72}.button.ghost{background:#f4f7f9;color:#1d465b;border:1px solid #dbe5e9}.button:disabled{cursor:wait;opacity:.6}.button:focus-visible{outline:3px solid #f7c66b;outline-offset:2px}
+    .header-actions{display:flex;align-items:center;gap:10px;flex-wrap:wrap}.pill{font-size:12px;padding:5px 9px;border-radius:99px;background:rgba(255,255,255,.13);color:white}
+    .status{font-size:12px;color:#466979;padding:10px;background:#f2f7f8;border-radius:9px;margin:12px 0}.status.error{background:#fff0ed;color:#a83e34}.status.ok{background:#e6f7ed;color:#246e43}
+    .catalog-list{display:grid;gap:7px;max-height:58vh;overflow:auto;padding:2px;scrollbar-color:#b9d1d8 transparent}.listing{width:100%;text-align:left;padding:10px 12px;border:1px solid #dfebee;border-radius:10px;background:#fff}.listing:hover,.listing[aria-selected=true]{background:#e8f7f8;border-color:#7dbcc7}.listing strong{font-size:13px;display:block}.listing small{display:block;color:#71848e;margin-top:2px}.tiny{font-size:12px;color:var(--muted)}.metrics{display:flex;flex-wrap:wrap;gap:7px;margin:10px 0}.metric{border-radius:99px;background:#ecf5f6;padding:4px 9px;font-size:11px;color:#376676}.metric.warn{background:#fff3df;color:#9c6622}
+    .photo-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.photo{border:1px solid #d8e3e7;border-radius:10px;overflow:hidden;background:#f1f5f6;position:relative;display:block;cursor:pointer}.photo img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block;background:#dae6e8}.photo .photo-name{font-size:11px;line-height:1.2;overflow-wrap:anywhere;padding:7px;display:block;min-height:39px}.photo input{position:absolute;z-index:2;left:9px;top:9px;width:18px;height:18px;accent-color:#138da4}.photo.missing{opacity:.55}.photo.missing img{filter:grayscale(1)}
+    .preview-panel{position:sticky;top:12px}.preview-wrap{background:#dfeaec;border:1px solid #d1e1e5;padding:16px;border-radius:14px;display:flex;justify-content:center;max-height:640px;overflow:auto}.preview-wrap canvas{display:block;width:auto;max-width:100%;max-height:600px;height:auto;box-shadow:0 12px 38px #082d3a30;background:#104c62}.download-buttons{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-top:13px}.download-buttons button:last-child{grid-column:1/-1}.notice{margin:13px 0 0;font-size:12px;color:#6f7e86}.copyright{background:#fff6e7;border-left:3px solid #d8a345;padding:10px 11px;margin-top:12px;border-radius:5px;font-size:12px}
+    .empty{font-size:13px;color:var(--muted);padding:14px;border:1px dashed var(--line);border-radius:10px}
+    footer{padding:20px;color:#667e8d;text-align:center;font-size:12px}@media(max-width:1200px){main{grid-template-columns:minmax(300px,1fr) minmax(300px,1fr)}.preview-panel{grid-column:2;grid-row:1/span 2}}@media(max-width:730px){main{grid-template-columns:1fr;padding:12px}.preview-panel{grid-column:auto;grid-row:auto;position:static}.catalog-list{max-height:340px}header{padding:20px 16px}}
+  </style>
+</head>
+<body>
+<header>
+  <div><div class="tag">VACANȚĂ ÎN THASSOS · CONTENT TOOLS</div><h1>Thassos Social Media Studio</h1><p>O singură bază de date. Postări, flyere și pachete video pentru toate categoriile.</p></div>
+  <div class="header-actions"><span class="pill" id="lastUpdate">Catalog neîncărcat</span><button class="button" type="button" id="refreshButton">↻ Actualizează baza de date</button></div>
+</header>
+<main>
+  <section class="panel" aria-label="Catalog">
+    <h2>1. Alege o locație sau un serviciu</h2>
+    <div class="filters"><div class="field"><label for="category">Categorie</label><select id="category"></select></div><div class="field"><label for="language">Limba materialului</label><select id="language"><option value="ro">Română</option><option value="en">English</option><option value="el">Ελληνικά</option><option value="de">Deutsch</option><option value="bg">Български</option><option value="sr">Srpski</option></select></div>
+    <div class="field full"><label for="search">Caută în catalog</label><input id="search" type="search" placeholder="Plajă, cazare, cafenea, croazieră..."></div></div>
+    <div class="status" id="catalogStatus" role="status">Se încarcă indexul locațiilor...</div>
+    <div id="catalogList" class="catalog-list" aria-label="Rezultatele căutării"></div>
+  </section>
+  <section class="panel" aria-label="Editor de conținut">
+    <h2>2. Personalizează materialul</h2>
+    <div class="field"><label for="format">Tip material</label><select id="format"><option value="post">Postare pătrată · 1080 × 1080</option><option value="flyer">Flyer vertical · 1080 × 1350</option><option value="story">Story / copertă video · 1080 × 1920</option></select></div>
+    <div class="field"><label for="headline">Titlu</label><input id="headline" type="text" maxlength="110" placeholder="Titlul materialului"></div>
+    <div class="field"><label for="subtitle">Text scurt pe imagine</label><textarea id="subtitle" rows="3" maxlength="360" placeholder="Un motiv pentru a descoperi acest loc..."></textarea></div>
+    <div class="field"><label for="caption">Text pentru Facebook / Instagram</label><textarea id="caption" rows="4" maxlength="2200" placeholder="Textul postării"></textarea></div>
+    <button class="button alt" id="copyCaption" type="button">Copiază textul postării</button>
+    <h3>Fotografii pentru material și video</h3>
+    <div class="tiny" id="photoSummary">Selectează o locație.</div>
+    <div id="photoList" class="photo-list" style="margin-top:10px"></div>
+    <div style="margin-top:15px"><label for="addPhotos">Adaugă fotografii WebP/JPG/PNG din calculator (temporar, fără upload pe GitHub)</label><input id="addPhotos" type="file" multiple accept="image/webp,image/jpeg,image/png" style="max-width:100%"></div>
+    <div class="copyright">Verifică drepturile de utilizare comercială și exactitatea informațiilor înainte de publicare. Fișele marcate draft pot fi folosite la pregătirea materialelor, nu ca informații verificate automat.</div>
+  </section>
+  <section class="panel preview-panel" aria-label="Previzualizare și export">
+    <h2>3. Previzualizează și exportă</h2>
+    <div class="preview-wrap"><canvas id="creativeCanvas" width="1080" height="1080" aria-label="Previzualizare imagine promoțională"></canvas></div>
+    <div class="download-buttons"><button id="downloadPng" type="button" class="button">Descarcă PNG</button><button id="downloadText" type="button" class="button alt">Descarcă text .txt</button><button id="downloadVideo" type="button" class="button ghost">Exportă ZIP pentru CapCut · fotografii + SRT + plan</button></div>
+    <p class="notice">Pachetul video include fotografii și subtitrări cu durate, pentru montaj în CapCut. <strong>Nu este un MP4 final.</strong> Imaginile de pe calculator sunt folosite doar în browserul tău.</p>
+    <div id="exportStatus" class="status" role="status">Pregătit pentru selecție.</div>
+  </section>
+</main>
+<footer>Thassos Social Media Studio · Sursă: gabridim18-lab/thassos-ecosystem · Fotografii cu denumirile originale</footer>
+<script>
+(() => { 'use strict';
+  const REPO='gabridim18-lab/thassos-ecosystem';
+  const RAW='https://raw.githubusercontent.com/'+REPO+'/main/';
+  const REMOTE_CATALOG=RAW+'catalog/thassos-catalog.json';
+  const LANGS=['ro','en','el','de','bg','sr'];
+  const LABELS={'accommodations':'Cazări','areas':'Localități','attractions':'Atracții','beach-bars':'Beach bar-uri','beaches':'Plaje','heritage':'Istorie & patrimoniu','local-eats-drinks':'Cafea, gustări & localuri','religious-sites':'Lăcașuri de cult','restaurants':'Restaurante','services':'Servicii & experiențe'};
+  const $=id=>document.getElementById(id);
+  const state={catalog:null,selectedId:null,localPhotos:[],checked:new Set(),photoUrls:new Map(),imageCache:new Map(),current:null,loadId:0};
+  const safe=s=>(s||'').toString();
+  const text=(a,b)=>safe(a).trim()||safe(b).trim();
+  const filename=s=>safe(s).split('/').pop();
+  const imageUrl=path=>RAW+path.split('/').map(encodeURIComponent).join('/');
+  const locale=item=>((item||{}).translations||{})[$('language').value]||((item||{}).translations||{}).en||{};
+  const photoKey=photo=>photo.local?'local:'+photo.name:photo.path;
+  const selected=()=>state.catalog?.items.find(i=>i.id===state.selectedId)||null;
+  function displayStatus(message,error=false){$('catalogStatus').textContent=message;$('catalogStatus').className='status'+(error?' error':' ok');}
+  function exportStatus(message,error=false){$('exportStatus').textContent=message;$('exportStatus').className='status'+(error?' error':' ok');}
+  function categories(){const counts=state.catalog?.counts||{};const old=$('category').value;$('category').replaceChildren();
+    const all=new Option('Toate categoriile · '+(state.catalog?.total||0),'all');$('category').add(all);
+    Object.keys(LABELS).forEach(cat=>{if(counts[cat])$('category').add(new Option(LABELS[cat]+' · '+counts[cat],cat));});
+    $('category').value=Object.keys(counts).includes(old)?old:'all';}
+  function renderListings(){const cat=$('category').value,q=$('search').value.trim().toLocaleLowerCase();const items=state.catalog?.items||[];
+    const filtered=items.filter(i=>(cat==='all'||i.category===cat)&&(!q||[i.name,i.slug,i.area_slug,...LANGS.map(l=>i.translations?.[l]?.name)].join(' ').toLocaleLowerCase().includes(q)));
+    const fragment=document.createDocumentFragment();for(const item of filtered){const b=document.createElement('button');b.type='button';b.className='listing';b.setAttribute('aria-selected',String(item.id===state.selectedId));
+      const title=document.createElement('strong');title.textContent=item.translations?.[$('language').value]?.name||item.name;const meta=document.createElement('small');meta.textContent=(LABELS[item.category]||item.category)+(item.area_slug?' · '+item.area_slug:'')+' · '+item.photos_available+' poze disponibile';b.append(title,meta);b.onclick=()=>selectListing(item.id);fragment.appendChild(b);}
+    $('catalogList').replaceChildren(fragment);if(!filtered.length)$('catalogList').innerHTML='<div class="empty">Niciun rezultat pentru filtrele selectate.</div>';}
+  function photoOptions(){const item=selected();if(!item)return[];const result=(item.images||[]).map(i=>({...i,local:false,name:i.filename||filename(i.path)}));return result.concat(state.localPhotos.map(p=>({...p,available:true,local:true})));}
+  function selectedPhotos(){return photoOptions().filter(p=>p.available&&state.checked.has(photoKey(p))).slice(0,8);}
+  function renderPhotos(){const photos=photoOptions(),usable=photos.filter(p=>p.available);const list=$('photoList');list.replaceChildren();
+    $('photoSummary').textContent=photos.length?`${usable.length} fotografii disponibile din ${photos.length} referințe. Selectează până la 8; prima este coperta.`:'Nu există imagini în această fișă. Poți adăuga fotografii locale.';
+    for(const p of photos){const box=document.createElement('label');box.className='photo'+(p.available?'':' missing');const ch=document.createElement('input');ch.type='checkbox';ch.disabled=!p.available;ch.checked=state.checked.has(photoKey(p));ch.onchange=()=>{if(ch.checked&&state.checked.size>=8){ch.checked=false;exportStatus('Maximum 8 fotografii pentru un material video.',true);return;}if(ch.checked)state.checked.add(photoKey(p));else state.checked.delete(photoKey(p));draw();};
+      const im=document.createElement('img');im.loading='lazy';im.alt=p.name;im.src=p.local?p.url:imageUrl(p.path);if(!p.available)im.removeAttribute('src');
+      const name=document.createElement('span');name.className='photo-name';name.textContent=p.name+(p.available?'':' · fișier absent');box.append(ch,im,name);list.append(box);}
+  }
+  function selectListing(id){state.selectedId=id;state.localPhotos.forEach(p=>URL.revokeObjectURL(p.url));state.localPhotos=[];$('addPhotos').value='';state.checked=new Set();const item=selected();const t=locale(item);
+    $('headline').value=text(t.name,item.name);$('subtitle').value=text(t.tagline,t.summary).slice(0,360);
+    $('caption').value=text(t.social_caption,t.description||t.summary).slice(0,2200);
+    const first=(item.images||[]).find(i=>i.available);if(first)state.checked.add(first.path);
+    renderListings();renderPhotos();draw();exportStatus(item.photos_available?'Locația este pregătită pentru editare.':'Nu există încă fotografii încărcate pentru această locație. Poți adăuga unele local.',false);
+  }
+  async function refresh(){const button=$('refreshButton');button.disabled=true;button.textContent='↻ Se actualizează…';displayStatus('Citesc catalogul de pe GitHub…');
+    let problem='';for(const url of ['../catalog/thassos-catalog.json',REMOTE_CATALOG]){
+      try{const r=await fetch(url+(url.includes('?')?'&':'?')+'refresh='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const data=await r.json();if(data.schema_version!=='thassos-social-catalog/v1'||!Array.isArray(data.items))throw Error('Catalog necompatibil');
+        state.catalog=data;categories();renderListings();const previous=selected();if(previous)selectListing(previous.id);else if(data.items.length)selectListing(data.items[0].id);
+        const tm=new Date(data.generated_at);$('lastUpdate').textContent=isNaN(tm)?'Catalog sincronizat':'Catalog: '+tm.toLocaleString('ro-RO');displayStatus(`${data.total} locații / ${Object.keys(data.counts||{}).length} categorii. Ultima generare: ${$('lastUpdate').textContent}.`);button.disabled=false;button.textContent='↻ Actualizează baza de date';return;
+      }catch(e){problem=String(e.message||e);}}
+    displayStatus('Catalog indisponibil ('+problem+'). Verifică dacă catalog/thassos-catalog.json există și este publicat pe GitHub.',true);button.disabled=false;button.textContent='↻ Actualizează baza de date';
+  }
+  async function loadImage(p){const key=photoKey(p);if(state.imageCache.has(key))return state.imageCache.get(key);
+    const src=p.local?p.url:imageUrl(p.path);const promise=new Promise((resolve,reject)=>{const img=new Image();img.crossOrigin='anonymous';img.onload=()=>resolve(img);img.onerror=()=>reject(Error('Imagine inaccesibilă: '+p.name));img.src=src;});
+    state.imageCache.set(key,promise);try{return await promise;}catch(e){state.imageCache.delete(key);throw e;}
+  }
+  const wrap=(ctx,str,maxWidth,maxLines)=>{const words=safe(str).split(/\s+/).filter(Boolean),lines=[];let line='';
+    for(const word of words){const test=line?line+' '+word:word;if(ctx.measureText(test).width>maxWidth&&line){lines.push(line);line=word;}else line=test;}
+    if(line)lines.push(line);if(lines.length>maxLines){const result=lines.slice(0,maxLines);let last=result[maxLines-1];while(last.length&&ctx.measureText(last+'…').width>maxWidth)last=last.slice(0,-1);result[maxLines-1]=last+'…';return result;}return lines;};
+  async function draw(){const current=++state.loadId,canvas=$('creativeCanvas'),ctx=canvas.getContext('2d'),format=$('format').value;
+    const w=1080,h=format==='story'?1920:format==='flyer'?1350:1080;canvas.width=w;canvas.height=h;
+    const bg=ctx.createLinearGradient(0,0,w,h);bg.addColorStop(0,'#0b6680');bg.addColorStop(1,'#062a45');ctx.fillStyle=bg;ctx.fillRect(0,0,w,h);
+    const p=selectedPhotos()[0];if(p){try{const img=await loadImage(p);if(current!==state.loadId)return;
+      const scale=Math.max(w/img.naturalWidth,h/img.naturalHeight);ctx.drawImage(img,(w-img.naturalWidth*scale)/2,(h-img.naturalHeight*scale)/2,img.naturalWidth*scale,img.naturalHeight*scale);
+    }catch(e){exportStatus(e.message,true);}}
+    if(current!==state.loadId)return;
+    const gradient=ctx.createLinearGradient(0,h*.25,0,h);gradient.addColorStop(0,'rgba(3,25,43,0)');gradient.addColorStop(.56,'rgba(3,29,47,.35)');gradient.addColorStop(1,'rgba(2,28,45,.93)');ctx.fillStyle=gradient;ctx.fillRect(0,0,w,h);
+    const pad=70;ctx.textAlign='left';ctx.fillStyle='rgba(255,255,255,.92)';ctx.font='700 27px system-ui';ctx.fillText('VACANȚĂ ÎN THASSOS',pad,90);
+    const name=$('headline').value||'Thassos';let font=format==='story'?77:68;ctx.font=`800 ${font}px system-ui`;while(ctx.measureText(name).width>w-pad*2&&font>40){font-=3;ctx.font=`800 ${font}px system-ui`;}
+    const lines=wrap(ctx,name,w-pad*2,3),textTop=h-(format==='story'?620:440);ctx.fillStyle='#fff';
+    lines.forEach((s,i)=>ctx.fillText(s,pad,textTop+i*(font+11)));ctx.font='400 36px system-ui';const desc=wrap(ctx,$('subtitle').value,w-pad*2,3);
+    const y=textTop+lines.length*(font+11)+20;desc.forEach((s,i)=>ctx.fillText(s,pad,y+i*49));ctx.fillStyle='#9ce6e9';ctx.font='600 26px system-ui';ctx.fillText('THASSOS  ·  GREECE',pad,h-76);
+  }
+  const slugify=s=>safe(s).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')||'thassos';
+  function download(blob,name){const u=URL.createObjectURL(blob),a=document.createElement('a');a.href=u;a.download=name;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),15000);}
+  const pad2=n=>String(n).padStart(2,'0');const srtTime=n=>{const h=Math.floor(n/3600),m=Math.floor(n%3600/60),s=Math.floor(n%60);return `${pad2(h)}:${pad2(m)}:${pad2(s)},000`;};
+  // Dependency-free, uncompressed ZIP writer. Keeps original WebP/JPG/PNG bytes and filenames.
+  const utf8=s=>new TextEncoder().encode(s);
+  const crcTable=(()=>{const t=[];for(let n=0;n<256;n++){let c=n;for(let k=0;k<8;k++)c=c&1?0xedb88320^(c>>>1):c>>>1;t.push(c>>>0);}return t;})();
+  function crc32(data){let c=0xffffffff;for(const n of data)c=crcTable[(c^n)&255]^(c>>>8);return(c^0xffffffff)>>>0;}
+  function zip(files){const chunks=[],central=[];let offset=0;const push=(parts,bytes)=>parts.push(bytes);const u16=(dv,off,n)=>dv.setUint16(off,n,true),u32=(dv,off,n)=>dv.setUint32(off,n>>>0,true);
+    for(const f of files){const name=utf8(f.name),data=f.bytes,crc=crc32(data);if(name.length>65535)throw Error('Nume de fișier prea lung');
+      const lh=new Uint8Array(30+name.length),dv=new DataView(lh.buffer);u32(dv,0,0x04034b50);u16(dv,4,20);u16(dv,6,2048);u16(dv,8,0);u32(dv,14,crc);u32(dv,18,data.length);u32(dv,22,data.length);u16(dv,26,name.length);lh.set(name,30);push(chunks,lh);push(chunks,data);
+      const ch=new Uint8Array(46+name.length),cd=new DataView(ch.buffer);u32(cd,0,0x02014b50);u16(cd,4,20);u16(cd,6,20);u16(cd,8,2048);u16(cd,10,0);u32(cd,16,crc);u32(cd,20,data.length);u32(cd,24,data.length);u16(cd,28,name.length);u32(cd,42,offset);ch.set(name,46);central.push(ch);offset+=lh.length+data.length;}
+    const start=offset;central.forEach(x=>{chunks.push(x);offset+=x.length;});const end=new Uint8Array(22),ed=new DataView(end.buffer);u32(ed,0,0x06054b50);u16(ed,8,files.length);u16(ed,10,files.length);u32(ed,12,offset-start);u32(ed,16,start);chunks.push(end);return new Blob(chunks,{type:'application/zip'});
+  }
+  async function exportVideo(){const button=$('downloadVideo');const pics=selectedPhotos();if(!selected()){exportStatus('Alege întâi o locație.',true);return;}if(!pics.length){exportStatus('Alege sau adaugă cel puțin o fotografie disponibilă.',true);return;}
+    button.disabled=true;try{exportStatus('Pregătesc fotografiile și subtitrările…');const item=selected(),files=[],scenes=[],seconds=5;let srt='';
+      for(let i=0;i<pics.length;i++){const p=pics[i];const r=await fetch(p.local?p.url:imageUrl(p.path));if(!r.ok)throw Error('Imagine indisponibilă: '+p.name);const bytes=new Uint8Array(await r.arrayBuffer());const ext=(p.name.split('.').pop()||'webp').toLowerCase();const file=`photos/scene-${pad2(i+1)}.${ext}`;
+        files.push({name:file,bytes});scenes.push({scene:i+1,original_filename:p.name,source_path:p.local?null:p.path,file,duration_seconds:seconds});
+        const textScene=i===0?$('headline').value:(i===pics.length-1?'Descoperă Thassos':$('subtitle').value||$('headline').value);
+        srt+=`${i+1}\n${srtTime(i*seconds)} --> ${srtTime((i+1)*seconds)}\n${textScene}\n\n`;}
+      const plan={source:item.source_file,record_id:item.id,language:$('language').value,category:item.category,orientation:'9:16',destination:'CapCut Desktop',total_seconds:pics.length*seconds,scenes};
+      files.push({name:'scene-plan.json',bytes:utf8(JSON.stringify(plan,null,2)+'\n')});files.push({name:'subtitles.srt',bytes:utf8(srt)});
+      files.push({name:'caption.txt',bytes:utf8($('caption').value+'\n')});files.push({name:'START-CapCut.txt',bytes:utf8('THASSOS SOCIAL MEDIA STUDIO\n1. Creează proiect 9:16 în CapCut.\n2. Importă imaginile din photos/ în ordinea scene-01, scene-02 etc.\n3. Fiecare imagine: 5 secunde.\n4. Importă subtitles.srt (subtitrări).\n5. Adaugă muzică licențiată, tranziții și exportă MP4.\n6. Verifică drepturile foto și informațiile înainte de publicare.\n\nFișierele păstrează original_filename în scene-plan.json.\nAcest ZIP nu este un MP4 și nu conține un proiect nativ CapCut.\n')});
+      download(zip(files),slugify(item.slug)+'-capcut-pack.zip');exportStatus(`ZIP creat: ${pics.length} fotografii, SRT și plan de montaj.`);
+    }catch(e){exportStatus('Eroare export: '+String(e.message||e),true);}finally{button.disabled=false;}}
+  $('refreshButton').onclick=refresh;$('category').onchange=renderListings;$('search').oninput=renderListings;
+  $('language').onchange=()=>{const item=selected();if(item){const t=locale(item);$('headline').value=text(t.name,item.name);$('subtitle').value=text(t.tagline,t.summary).slice(0,360);$('caption').value=text(t.social_caption,t.description||t.summary).slice(0,2200);}renderListings();draw();};
+  for(const id of ['format','headline','subtitle'])$(id).addEventListener(id==='format'?'change':'input',draw);
+  $('addPhotos').onchange=e=>{const files=Array.from(e.target.files||[]).filter(f=>['image/png','image/jpeg','image/webp'].includes(f.type)).slice(0,8);for(const f of files){const obj={name:f.name,url:URL.createObjectURL(f),file:f};state.localPhotos.push(obj);if(state.checked.size<8)state.checked.add(photoKey({...obj,local:true}));}renderPhotos();draw();};
+  $('copyCaption').onclick=async()=>{try{await navigator.clipboard.writeText($('caption').value);exportStatus('Textul postării a fost copiat.');}catch(e){$('caption').select();exportStatus('Selectează textul și apasă Ctrl+C.');}};
+  $('downloadPng').onclick=async()=>{await draw();$('creativeCanvas').toBlob(b=>{if(b){download(b,slugify(selected()?.slug||'thassos')+'-'+$('format').value+'.png');exportStatus('PNG descărcat.');}else exportStatus('Export PNG indisponibil.',true);},'image/png');};
+  $('downloadText').onclick=()=>{download(new Blob([$('caption').value+'\n'],{type:'text/plain;charset=utf-8'}),slugify(selected()?.slug||'thassos')+'-'+$('language').value+'.txt');exportStatus('Textul a fost descărcat.');};
+  $('downloadVideo').onclick=exportVideo;draw();refresh();
+})();
+</script>
+</body>
+</html>
