@@ -1,0 +1,364 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-etisies",
+  "slug": "etisies",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Ετησίες",
+    "international_name": "Etisies Beach",
+    "aliases": [
+      "Etisies",
+      "Etisies Beach",
+      "Etsies Beach",
+      "Etisies Beach Bar area",
+      "Παραλία Ετησίες",
+      "Ετησίες"
+    ],
+    "entity_scope": "Named coastal section in the Skala Prinos / Dasilio shoreline area, associated with Etisies Beach Bar; beach section rather than a proven geographically independent bay.",
+    "deduplication_warning": "Etisies overlaps the broader Skala Prinos–Dasilio coastal corridor in several guides. Keep this visitor-facing record, but do not add it as an independent geographic beach in island-level totals without reviewing mapped coastline boundaries. It is NOT the same business as Ilio Mare or nearby beach bars."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "west / northwest",
+    "settlements": [
+      "Skala Prinos",
+      "Ormos Prinou",
+      "Prinos"
+    ],
+    "lat": 40.7581366,
+    "lng": 24.5610694,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.7581366%2C24.5610694",
+    "coordinate_source_reference": "s_beachatlas_coordinates",
+    "coordinate_type": "approximate_beach_reference_point_not_verified_access",
+    "coordinate_review_status": "Coordinates independently published by BeachAtlas and corroborated approximately by Pame Paralia; Google Maps link built for manual review, NOT independently extracted or verified from Google Maps itself.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "sand_and_small_pebbles",
+    "seabed_near_shore": "mostly_sandy_with_stones_and_rocky_patches",
+    "water_entry": "generally_gradual_with_rocky_sections",
+    "nearshore_depth": "variable_by_section",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "often_sheltered_but_weather_dependent",
+    "exposure": "west_northwest_coast",
+    "natural_shade_on_sand": "variable_limited_in_exposed_parts",
+    "beach_length_m": null,
+    "length_note": "Length estimates vary with whether adjacent sections are included; avoid a precise figure until a polygon boundary is established.",
+    "backdrop": "Low coastal vegetation, scattered trees and views over the sea toward mainland Greece",
+    "shoreline_type": "extended_low_gradient_mixed_sand_pebble_coast"
+  },
+  "visitor_experience": {
+    "organization": "partly_organized_seasonally",
+    "suitable_for": [
+      "families",
+      "couples",
+      "relaxed_day",
+      "sunset_viewing",
+      "swimming",
+      "quiet_beach_day"
+    ],
+    "notable_for": [
+      "relaxed_atmosphere",
+      "western_coast_sunset",
+      "mixed_sand_pebbles",
+      "nearby_beach_bar",
+      "easy_road_access"
+    ],
+    "activities_possible": [
+      "swimming",
+      "short_shore_walks",
+      "snorkeling_where_conditions_allow",
+      "sunset_photography",
+      "seasonal_paddleboarding_if_offered"
+    ],
+    "estimated_crowd_peak": "often_quieter_than_major_resort_beaches_but_can_get_busy_seasonally",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Rock and stone patches may occur at the waterline; water shoes can help. Conditions, waves and water depth vary. Supervise children closely; do not assume lifeguard coverage."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Listed by some third-party beach directories; public accessibility and current operation not independently confirmed."
+    },
+    "showers": {
+      "available_in_some_sections": null
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "Some directories mention supervision, but no reliable, current confirmation of coverage or schedule was found.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Road access does not establish wheelchair access across sand, stones or into the sea; verify special facilities locally.",
+    "free_unserviced_space": null,
+    "facilities_scope": "Seasonal operator amenities differ from facilities available to all visitors; confirm current offering before publication."
+  },
+  "access_and_cost": {
+    "road_access": "local_roads_from_skala_prinos_to_coastal_sections",
+    "public_transport": "regional_transport_to_skala_prinos; exact_last_mile_stop_unverified",
+    "parking_type": "local_roadside_or_nearby_areas",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "No reliable island-wide or current operator rate confirmed. Ask the operator about lounger charges and any minimum consumption.",
+    "best_arrival_advice": "Arrive earlier during the peak season if you prefer a particular lounger or easy nearby parking; check sea-entry areas before settling.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Driving distance depends on selected access road and final confirmed entrance; avoid a single unverified figure."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not store live weather, sea temperature, prices, crowd level or season-specific opening hours as permanent beach facts."
+  },
+  "translations": {
+    "ro": {
+      "name": "Etisies Beach (Skala Prinos)",
+      "tagline": "Un colț liniștit pe coasta vestică, între nisip, pietricele și apusuri",
+      "summary": "Etisies este un sector de plajă din zona Skala Prinos, apreciat pentru atmosfera relaxată, porțiunile de nisip amestecat cu pietricele și apropierea de un beach bar. O opțiune pentru o zi de mare mai liniștită, cu priveliști frumoase spre apus.",
+      "description": "Pe coasta vestică a insulei Thassos, nu departe de Skala Prinos și de zona înverzită Dasilio, Etisies oferă un peisaj marin deschis și un ritm ceva mai liniștit decât marile plaje ale insulei. Țărmul îmbină nisipul deschis la culoare cu pietricele, iar în unele puncte apar pietre și zone mai stâncoase la intrarea în apă. Marea poate fi foarte limpede în zilele calme, dar adâncimea și condițiile pentru înot diferă de la un loc la altul. În sezon pot fi disponibile umbrele, șezlonguri și servicii de beach bar, fără ca întreaga linie de coastă să aibă aceleași dotări. Farmecul locului vine din spațiul mai aerisit, din plimbările scurte pe mal și mai ales din lumina serii, când soarele coboară spre orizontul mării. Etisies se potrivește familiilor, cuplurilor și celor care preferă o atmosferă relaxată, însă pentru copii este bine să alegeți cu atenție porțiunile fără pietre la intrare.",
+      "practical_tips": "Ia papuci de apă dacă te deranjează pietrele din apropierea malului. Verifică unde este intrarea cea mai comodă în mare înainte să alegi locul. Umbrelele și șezlongurile sunt servicii sezoniere, iar prețurile și condițiile de utilizare se confirmă la fața locului. Parcarea există în zonă, dar un loc liber nu este garantat. Pentru apus, rezervă puțin timp de plimbare pe țărm; verifică în aceeași zi vântul și valurile.",
+      "highlights": [
+        "Atmosferă relativ liniștită pe litoralul vestic",
+        "Nisip cu pietricele și zone cu pietre în apă",
+        "Apusuri peste mare",
+        "Beach bar și șezlonguri în sezon",
+        "Acces din zona Skala Prinos"
+      ],
+      "seo_title": "Etisies Beach Thassos – plajă, acces și sfaturi utile",
+      "seo_description": "Descoperă Etisies Beach lângă Skala Prinos: nisip și pietricele, intrare în apă, beach bar, parcare, apusuri și sfaturi pentru vizitare.",
+      "social_caption": "🌅 Etisies Beach, Thassos — un loc pentru cei care preferă zilele de mare fără grabă. Nisip, apă limpede, o atmosferă relaxată și apusuri de poveste pe coasta vestică. 🏖️ Salvează plaja pentru următoarea vacanță! #Thassos #EtisiesBeach #ExploreGreece",
+      "photo_alt": "Etisies Beach, lângă Skala Prinos, cu țărm nisipos, pietricele și mare albastră."
+    },
+    "en": {
+      "name": "Etisies Beach (Skala Prinos)",
+      "tagline": "A laid-back west-coast beach for sea views and sunsets",
+      "summary": "Etisies is a named beach section near Skala Prinos, known for its easy-going atmosphere, a mix of sand and small pebbles, and seasonal beach-bar facilities. It makes a pleasant option for a slower seaside day and sunset views.",
+      "description": "On the western coast of Thassos, close to Skala Prinos and the green Dasilio area, Etisies offers an open shoreline and a quieter pace than the island's best-known resort beaches. Pale sand mixes with small pebbles, while stones and occasional rocky patches appear at the waterline. The sea can look wonderfully clear on calm days, although the depth and ease of swimming vary along the shore. During the summer, visitors may find sunbeds, parasols and a beach bar, but amenities should not be assumed to extend along every section of the coast. Etisies appeals to those who enjoy a little more breathing room, a relaxed drink by the water or a gentle stroll before sunset. As the sun drops toward the sea, the west-facing setting becomes especially atmospheric. Families and couples can enjoy the beach, though visitors with young children should choose their swimming spot carefully and avoid the stonier entries where possible.",
+      "practical_tips": "Consider water shoes for the stony patches near the sea entry. Check the shoreline before choosing a place to swim, particularly with children. Loungers, umbrellas and beach-bar services operate seasonally, and pricing or minimum-order policies should be confirmed on site. Parking is available in the area but not guaranteed at your preferred point. Check the day's wind and waves, and stay for the late-afternoon light if you enjoy sunset photography.",
+      "highlights": [
+        "Relaxed atmosphere on the west coast",
+        "Sand and pebbles with some rocky water entries",
+        "Sea-facing sunset views",
+        "Seasonal beach bar and loungers",
+        "Access from the Skala Prinos area"
+      ],
+      "seo_title": "Etisies Beach Thassos – access, facilities and travel tips",
+      "seo_description": "Plan a visit to Etisies Beach near Skala Prinos: sandy-pebbly shore, water entry, seasonal beach bar, parking and memorable sunsets.",
+      "social_caption": "🌅 Meet Etisies Beach on the west coast of Thassos: a slower rhythm, clear-looking sea, relaxed beach moments and beautiful evening light. 🏖️ Save it for a quieter island day! #Thassos #EtisiesBeach #GreekIslands",
+      "photo_alt": "Etisies Beach near Skala Prinos, with sandy-pebbly shore and blue Aegean water."
+    },
+    "el": {
+      "name": "Παραλία Ετησίες (Σκάλα Πρίνου)",
+      "tagline": "Χαλαρή παραλία στη δυτική ακτή, με όμορφα ηλιοβασιλέματα",
+      "summary": "Οι Ετησίες είναι ένα γνωστό τμήμα ακτής κοντά στη Σκάλα Πρίνου, με ήρεμη ατμόσφαιρα, άμμο και βότσαλα, καθώς και εποχικές παροχές beach bar. Καλή επιλογή για μια πιο χαλαρή ημέρα δίπλα στη θάλασσα.",
+      "description": "Στη δυτική πλευρά της Θάσου, κοντά στη Σκάλα Πρίνου και στην καταπράσινη περιοχή του Δασυλλίου, η παραλία Ετησίες προσφέρει ανοιχτό ορίζοντα και έναν πιο ήρεμο ρυθμό από τις πολυσύχναστες παραλίες του νησιού. Η ανοιχτόχρωμη άμμος αναμειγνύεται με ψιλό βότσαλο, ενώ σε ορισμένα σημεία της εισόδου στη θάλασσα υπάρχουν πέτρες ή μικρές βραχώδεις ζώνες. Τα νερά μπορεί να είναι ιδιαίτερα διαυγή όταν ο καιρός είναι καλός, όμως το βάθος και οι συνθήκες διαφέρουν κατά μήκος της ακτής. Το καλοκαίρι λειτουργούν σε ορισμένα σημεία ξαπλώστρες, ομπρέλες και beach bar, χωρίς αυτό να σημαίνει ότι υπάρχουν οι ίδιες παροχές παντού. Η περιοχή ταιριάζει σε όσους προτιμούν πιο ήσυχες στιγμές, μια μικρή βόλτα δίπλα στο κύμα ή ένα δροσερό ποτό πριν από το ηλιοβασίλεμα. Η δυτική κατεύθυνση της ακτής κάνει τις απογευματινές ώρες ιδιαίτερα όμορφες. Οι οικογένειες καλό είναι να επιλέγουν προσεκτικά το σημείο κολύμβησης, αποφεύγοντας τις πιο πετρώδεις εισόδους.",
+      "practical_tips": "Παπούτσια θαλάσσης είναι χρήσιμα στα σημεία με πέτρες. Ελέγξτε την είσοδο στο νερό προτού εγκατασταθείτε, ιδιαίτερα αν ταξιδεύετε με παιδιά. Οι ξαπλώστρες, οι ομπρέλες και το beach bar λειτουργούν εποχικά· επιβεβαιώστε τυχόν χρεώσεις επιτόπου. Υπάρχουν δυνατότητες στάθμευσης στην περιοχή, αλλά η διαθεσιμότητα δεν είναι εγγυημένη. Παρακολουθήστε τον άνεμο και τον κυματισμό και, αν μπορείτε, απολαύστε το φως του δειλινού.",
+      "highlights": [
+        "Χαλαρή ατμόσφαιρα στη δυτική Θάσο",
+        "Άμμος και βότσαλο με πέτρες σε ορισμένα σημεία",
+        "Όμορφα ηλιοβασιλέματα",
+        "Εποχικό beach bar και ξαπλώστρες",
+        "Πρόσβαση από τη Σκάλα Πρίνου"
+      ],
+      "seo_title": "Παραλία Ετησίες Θάσος – πρόσβαση, παροχές και συμβουλές",
+      "seo_description": "Γνωρίστε την παραλία Ετησίες κοντά στη Σκάλα Πρίνου: άμμο, βότσαλο, είσοδο στη θάλασσα, beach bar, στάθμευση και ηλιοβασιλέματα.",
+      "social_caption": "🌅 Ετησίες, Θάσος: μια παραλία για όσους αγαπούν τη χαλαρή ατμόσφαιρα, τη θάλασσα και το φως του ηλιοβασιλέματος. 🏖️ Κρατήστε τη στη λίστα σας! #Θάσος #Ετησίες #ΕλληνικάΝησιά",
+      "photo_alt": "Η παραλία Ετησίες κοντά στη Σκάλα Πρίνου, με άμμο, βότσαλο και θέα στο Αιγαίο."
+    },
+    "de": {
+      "name": "Etisies Beach (Skala Prinos)",
+      "tagline": "Entspannter Westküstenstrand mit Meerblick und Sonnenuntergängen",
+      "summary": "Etisies ist ein benannter Strandabschnitt bei Skala Prinos, der für seine ruhige Atmosphäre, die Mischung aus Sand und Kieselsteinen und saisonale Strandangebote bekannt ist. Ein schönes Ziel für einen entspannten Tag am Meer.",
+      "description": "An der Westküste von Thassos, unweit von Skala Prinos und dem grünen Gebiet Dasilio, liegt Etisies mit einer offenen Küstenlinie und einer eher entspannten Atmosphäre. Heller Sand wechselt sich mit kleinen Kieselsteinen ab; am Wasserrand gibt es stellenweise Steine und felsige Bereiche. Bei ruhigem Wetter wirkt das Meer oft besonders klar, doch Wassertiefe und Einstieg sind nicht an jedem Abschnitt gleich. Im Sommer können Liegen, Sonnenschirme und eine Strandbar zur Verfügung stehen. Diese Angebote erstrecken sich jedoch nicht zwangsläufig über die gesamte Küste. Etisies eignet sich für Reisende, die sich etwas mehr Ruhe wünschen, einen gemütlichen Spaziergang am Wasser unternehmen oder den Nachmittag mit einem Getränk ausklingen lassen möchten. Die Lage auf der westlichen Seite der Insel bietet reizvolle Lichtstimmungen bei Sonnenuntergang. Auch Familien können hier einen angenehmen Strandtag verbringen, sollten aber besonders mit kleinen Kindern auf einen möglichst steinfreien Zugang zum Meer achten.",
+      "practical_tips": "Wasserschuhe sind an den steinigen Einstiegen sinnvoll. Vor dem Baden den Untergrund prüfen, besonders mit Kindern. Liegen, Sonnenschirme und die Strandbar sind saisonabhängig; mögliche Gebühren oder Mindestverzehr vor Ort erfragen. Parkmöglichkeiten gibt es in der Umgebung, freie Plätze sind jedoch nicht garantiert. Wind und Wellen können sich ändern. Für schöne Fotos lohnt sich ein Besuch am späten Nachmittag.",
+      "highlights": [
+        "Ruhigere Atmosphäre an der Westküste",
+        "Sand und Kiesel, stellenweise Steine im Wasser",
+        "Schöne Sonnenuntergänge über dem Meer",
+        "Saisonale Strandbar und Liegen",
+        "Zugang über Skala Prinos"
+      ],
+      "seo_title": "Etisies Beach Thassos – Anfahrt, Ausstattung und Tipps",
+      "seo_description": "Etisies Beach bei Skala Prinos entdecken: Sand und Kiesel, Einstieg ins Meer, saisonale Strandbar, Parken und Sonnenuntergänge.",
+      "social_caption": "🌅 Etisies Beach auf Thassos steht für entspannte Stunden am Meer, eine ruhige Atmosphäre und wunderschönes Abendlicht. 🏖️ Merke dir diesen Strand für deinen Inselurlaub! #Thassos #EtisiesBeach #Griechenland",
+      "photo_alt": "Etisies Beach nahe Skala Prinos mit sandigem Kieselstrand und blauem Meer."
+    },
+    "bg": {
+      "name": "Плаж Етисиес (Скала Принос)",
+      "tagline": "Спокойно място на западния бряг с красиви залези",
+      "summary": "Етисиес е плажна зона близо до Скала Принос, известна с по-спокойната си атмосфера, пясъка и дребните камъчета, както и със сезонните удобства на плажен бар. Подходящ избор за лежерен ден край морето.",
+      "description": "На западния бряг на остров Тасос, недалеч от Скала Принос и зелената местност Дасилио, плажът Етисиес предлага открит морски хоризонт и по-спокойно настроение от най-оживените курортни плажове. Светлият пясък се смесва с дребни камъчета, а на някои места при влизане във водата има камъни и скалисти участъци. В спокойни дни морето често изглежда много прозрачно, но дълбочината и удобството при къпане се различават по протежението на брега. През лятото в някои части могат да се намерят шезлонги, чадъри и плажен бар, без това да означава, че всички удобства са налични навсякъде. Етисиес е приятно място за тези, които обичат по-свободното пространство, кратките разходки покрай водата и спокойните следобеди. Западното изложение прави залезите особено красиви. Плажът може да е подходящ и за семейства, но при посещение с малки деца е важно внимателно да се избере участък с по-удобно влизане в морето.",
+      "practical_tips": "Носете обувки за вода за местата с камъни. Проверете дъното преди къпане, особено ако сте с деца. Шезлонгите, чадърите и плажният бар са сезонни; уточнете цените и условията на място. В района има възможности за паркиране, но свободно място не е гарантирано. Следете вятъра и вълните и останете до късния следобед за красивата светлина на залеза.",
+      "highlights": [
+        "По-спокойна атмосфера на западния бряг",
+        "Пясък и камъчета, на места камъни във водата",
+        "Красиви морски залези",
+        "Сезонен плажен бар и шезлонги",
+        "Достъп от района на Скала Принос"
+      ],
+      "seo_title": "Плаж Етисиес, Тасос – достъп, удобства и съвети",
+      "seo_description": "Открийте плаж Етисиес край Скала Принос: пясък и камъчета, влизане в морето, сезонен плажен бар, паркиране и залези.",
+      "social_caption": "🌅 Етисиес, Тасос — спокойна атмосфера, море и златна вечерна светлина на западния бряг. 🏖️ Запазете това място за следващата си почивка! #Тасос #EtisiesBeach #Гърция",
+      "photo_alt": "Плаж Етисиес край Скала Принос, с пясъчно-каменист бряг и синьо море."
+    },
+    "sr": {
+      "name": "Etisies Beach (Skala Prinos)",
+      "tagline": "Opuštena plaža na zapadnoj obali sa lepim zalascima sunca",
+      "summary": "Etisies je deo obale kod Skala Prinosa, poznat po mirnijoj atmosferi, mešavini peska i sitnog šljunka i sezonskoj ponudi bara na plaži. Prijatan izbor za lagan dan pored mora.",
+      "description": "Na zapadnoj obali Tasosa, nedaleko od Skala Prinosa i zelenog područja Dasilio, Etisies nudi otvoren pogled na more i opušteniji ritam nego najposećenije ostrvske plaže. Svetliji pesak smenjuje se sa sitnim šljunkom, a na pojedinim mestima pri ulasku u vodu ima kamenja i stenovitih delova. More može biti veoma bistro po mirnom vremenu, ali se dubina i pristupačnost ulaska menjaju duž obale. Tokom letnje sezone na pojedinim delovima dostupne su ležaljke, suncobrani i bar na plaži, dok sadržaji nisu isti duž cele obale. Ovo mesto prija posetiocima koji žele malo više prostora, kratku šetnju pored talasa ili opušteno popodne uz osveženje. Pošto je plaža okrenuta zapadu, predveče često donosi posebno lepe boje zalaska sunca. Etisies može odgovarati i porodicama, ali sa malom decom treba pažljivo izabrati deo sa što manje kamenja pri ulasku u more.",
+      "practical_tips": "Ponesite obuću za vodu zbog kamenitih delova pri ulasku u more. Proverite podlogu pre plivanja, naročito sa decom. Ležaljke, suncobrani i bar rade sezonski, a uslove korišćenja i cene treba proveriti na licu mesta. Parking postoji u okolini, ali slobodno mesto nije zagarantovano. Pratite vetar i talase, a za lepe fotografije ostanite do kasnog popodneva.",
+      "highlights": [
+        "Mirnija atmosfera na zapadnoj obali",
+        "Pesak i sitan šljunak, mestimično kamenje u vodi",
+        "Lepi zalasci sunca nad morem",
+        "Sezonski bar i ležaljke",
+        "Pristup iz oblasti Skala Prinos"
+      ],
+      "seo_title": "Etisies Beach Tasos – pristup, sadržaji i saveti",
+      "seo_description": "Istražite plažu Etisies kod Skala Prinosa: pesak i šljunak, ulazak u more, sezonski bar, parking i zalasci sunca.",
+      "social_caption": "🌅 Etisies Beach na Tasosu: mesto za mirniji dan, osveženje pored mora i prelepo večernje svetlo. 🏖️ Sačuvajte ovu plažu za naredni odmor! #Tasos #EtisiesBeach #Grcka",
+      "photo_alt": "Plaža Etisies blizu Skala Prinosa, sa peščano-šljunkovitom obalom i plavim morem."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/etisies/images/etisies1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/etisies/images/etisies2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/etisies/images/etisies3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/etisies/images/etisies4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/etisies/images/etisies5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/etisies/images/",
+    "suggested_asset_names": [
+      "etisies1.webp",
+      "etisies2.webp",
+      "etisies3.webp",
+      "etisies4.webp",
+      "etisies5.webp"
+    ],
+    "image_policy": "Use only images supplied or approved by the project owner, with verified rights for commercial publication. Image 1 is the cover; images 2–5 appear in numeric gallery order.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_pame",
+      "kind": "beach_guide_map",
+      "title": "Pame Paralia — Etisies beach (map, shore and access)",
+      "url": "https://pameparalia.com/beach/etisies-mainland",
+      "detail": "Places Etisies in Prinos at approximately 40.7581, 24.5611 and notes sand/pebbles, some rocky entry points, seasonal organisation and parking.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_beachatlas_coordinates",
+      "kind": "beach_guide_map",
+      "title": "BeachAtlas — Etisies Beach",
+      "url": "https://www.beachatlas.com/etisies",
+      "detail": "Publishes coordinate pair 40.7581366, 24.5610694, describes shore and visitors' experience; independently verify the map reference pin.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_beachsearch",
+      "kind": "beach_directory",
+      "title": "Beaches Searcher — Etisies beach",
+      "url": "https://beaches-searcher.com/en/beach/300207104/etisies-beach",
+      "detail": "Describes mixed shore, facilities attributed to area, beach bar, activities and nearby accommodation. Amenities and lifeguard claims are not independently confirmed.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_whichisland",
+      "kind": "travel_guide",
+      "title": "Which Greek Island — Skala Prinos Beach",
+      "url": "https://whichgreekisland.co.uk/islands/thassos/beaches/skala-prinos/",
+      "detail": "Notes connection from Skala Prinos toward the Etsies section; supports treatment as part of wider continuous shoreline.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_mapcarta_bar",
+      "kind": "openstreetmap_derived",
+      "title": "Mapcarta — Etisies Beach Bar",
+      "url": "https://mapcarta.com/N9933335877",
+      "detail": "Locates beach bar near 40.7572, 24.56142; these are the business coordinates, not the beach reference point.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_restaurantguru",
+      "kind": "business_directory",
+      "title": "Restaurant Guru — Etisies Beach Bar",
+      "url": "https://restaurantguru.com/Etisies-Beach-Bar-Prinos",
+      "detail": "Indicates a local beach bar in Dasilio/Prinos, but opening times, user reviews and minimum consumption cannot be taken as durable facts.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_discover_thassos",
+      "kind": "travel_guide",
+      "title": "Discover Thassos — Skala Prinos Beach",
+      "url": "https://www.discover-thassos.com/listing/skala-prinos-beach-thassos/",
+      "detail": "Regional context: forested coastal area near Dasilio, seasonal beach infrastructure and sunset orientation. Do not automatically attribute its listed facilities to Etisies itself.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_media_paths_configured_pending_asset_check_and_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm the precise Etisies pin and public access point in Google Maps, rather than relying only on independent mapped references.",
+      "Check whether this is marketed as an independent beach or a named sub-section of Dasilio / Skala Prinos; avoid duplicate geographic counts.",
+      "Verify the user-prepared etisies1.webp through etisies5.webp files are present in the expected images/ folder, depict the intended Etisies shoreline and have the necessary commercial publication rights.",
+      "Verify toilets, showers, changing rooms, lifeguard availability, beach access accessibility and operator activities on site.",
+      "Confirm current beach-bar opening period and sunbed pricing; no fixed amounts asserted.",
+      "Native-speaker editorial proofread of six language fields before final publication."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original written dataset; local image paths are configured from the owner-provided filenames. Actual image files and commercial publication rights were not independently inspected or verified.",
+    "photo_source_disclaimer": "Paths refer to five owner-prepared local WebP files shown in a folder screenshot; no third-party reference images are included. The files themselves and their rights have not been verified in this environment."
+  }
+}

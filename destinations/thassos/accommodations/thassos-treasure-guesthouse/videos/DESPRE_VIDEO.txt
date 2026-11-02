@@ -1,0 +1,3 @@
+Adaugă aici doar videoclipuri MP4/WebM reale, furnizate de proprietar și aprobate pentru publicare.
+La introducerea unui videoclip, completează referința sa în media.video în accommodation.json.
+Nu se generează videoclipuri fictive și nu se păstrează câmpuri goale pentru filme inexistente.

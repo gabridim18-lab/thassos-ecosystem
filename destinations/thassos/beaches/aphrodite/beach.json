@@ -1,0 +1,357 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-aphrodite",
+  "slug": "aphrodite",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Αφροδίτη",
+    "international_name": "Aphrodite Beach",
+    "aliases": [
+      "Afrodite Beach",
+      "Afroditi Beach",
+      "Παραλία Αφροδίτης",
+      "Aphrodite Beach Skala Prinos",
+      "Aphrodite Beach Thassos"
+    ],
+    "entity_scope": "Named part of the connected Skala Prinos shoreline near the ferry port; its exact boundary relative to Skala Prinos Beach requires local review.",
+    "deduplication_warning": "Do not count as a separate geographic beach from connected Skala Prinos shoreline without confirming segment boundaries. Not Giola (Aphrodite's Tear), not Aphrodite Thassos accommodation in Skala Maries, and not Aphrodite Beach in Halkidiki/Cyprus."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "northwest",
+    "settlements": [
+      "Skala Prinos",
+      "Ormos Prinou"
+    ],
+    "lat": 40.7608791,
+    "lng": 24.5691657,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aphrodite%20Beach%2C%20Skala%20Prinos%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_beachatlas",
+    "coordinate_type": "approximate_beach_reference_from_independent_sources_not_verified_google_maps_pin",
+    "coordinate_review_status": "provisional_external_coordinates_google_maps_pin_requires_manual_review",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mixed_sand_and_small_pebbles",
+    "seabed_near_shore": "some_rocky_patches",
+    "water_entry": "generally_gradual_but_stones_in_places",
+    "nearshore_depth": "variable_appears_gentle_in_some_sectors",
+    "water_clarity": "often_clear_weather_dependent",
+    "wave_conditions": "wind_dependent",
+    "exposure": "northwest_coastal_strip",
+    "natural_shade_on_sand": "limited_to_some_edge_areas",
+    "beach_length_m": null,
+    "length_note": "Different sources describe differently scoped stretches of the coast; no reliable unique length is asserted.",
+    "backdrop": "Skala Prinos shoreline and nearby harbour",
+    "shoreline_type": "connected_sandy_pebbly_coast"
+  },
+  "visitor_experience": {
+    "organization": "mixed_free_and_seasonally_serviced_sections",
+    "suitable_for": [
+      "couples",
+      "families_with_supervision",
+      "shore_walks",
+      "relaxed_day",
+      "sunset_views"
+    ],
+    "notable_for": [
+      "near_skala_prinos_ferry_port",
+      "sand_and_pebbles",
+      "quieter_coastal_setting",
+      "harbour_area_views"
+    ],
+    "activities_possible": [
+      "swimming",
+      "beach_walks",
+      "sunbathing"
+    ],
+    "estimated_crowd_peak": "variable_generally_quieter_than_major_resort_beaches",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Some seabed rocks are reported. Use water shoes when appropriate, watch children and check current sea conditions."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Not verified for the exact Aphrodite section; nearby operators may have customer facilities."
+    },
+    "showers": {
+      "available_in_some_sections": null
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No confirmed current lifeguard service for this exact sector.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "No verified accessibility equipment or continuous accessible route for the exact section.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Amenities vary along the connected Skala Prinos shore. A bar named Artemis was reported in a 2022 account, but its current operation is unverified."
+  },
+  "access_and_cost": {
+    "road_access": "through_skala_prinos_local_streets",
+    "public_transport": "ferry_port_and_local_transport_in_skala_prinos; check_current_services",
+    "parking_type": "nearby_local_parking_reported",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Do not assume historical drink-with-sunbed arrangements apply today; ask the operator.",
+    "best_arrival_advice": "Confirm the precise access point before visiting. In peak season arrive early if you need nearby parking.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Route distance depends on start point and chosen beach access; calculate live using directions."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Aphrodite Beach (Skala Prinos)",
+      "tagline": "Nisip și pietricele, priveliști spre port și o atmosferă liniștită",
+      "summary": "Aphrodite Beach este un sector de coastă din apropierea portului Skala Prinos, pe partea de nord-vest a insulei Thassos. Nisipul amestecat cu pietricele, intrarea în mare cu porțiuni pietroase și atmosfera de obicei liniștită o fac potrivită pentru o oprire relaxată, cu servicii în apropierea localității.",
+      "description": "Aphrodite Beach se află lângă Skala Prinos, în partea de nord-vest a insulei Thassos, la mică distanță de terminalul feriboturilor. Nu este un golf izolat, ci un sector al țărmului care continuă spre alte plaje din zona Prinos. Peisajul îmbină nisipul deschis la culoare cu pietricele fine, apă de obicei limpede și priveliști către litoralul din jurul portului. La intrarea în apă pot apărea pietre și porțiuni cu fund mai dur, așa că încălțămintea de apă este utilă, mai ales pentru copii. În zilele liniștite, locul se potrivește pentru înot, plimbări pe mal și o pauză fără agitația marilor beach cluburi. De-a lungul zonei există cazări și servicii turistice, iar unele sectoare au amenajări sezoniere; nu presupune însă că vei găsi șezlonguri, dușuri sau un beach bar funcțional exact în punctul ales. Apropierea de Skala Prinos înseamnă că poți combina câteva ore pe plajă cu o plimbare în zona portului sau cu masa la o tavernă. Pentru orientare, verifică punctul de acces din Google Maps înainte de plecare, deoarece denumirile Aphrodite și Skala Prinos Beach sunt uneori folosite pentru porțiuni apropiate ale aceleiași linii de coastă.",
+      "practical_tips": "Ia papuci de apă pentru zonele cu pietre la intrarea în mare. Verifică vântul și starea apei înainte de înot și supraveghează copiii. În sezon, condițiile pentru șezlonguri și serviciile beach barurilor pot diferi. Parcarea este raportată în apropierea plajei, însă disponibilitatea nu este garantată. Nu confunda această plajă cu Giola („Lacrima Afroditei”) sau cu alte locații Aphrodite din Grecia.",
+      "highlights": [
+        "Sector litoral liniștit, aproape de Skala Prinos",
+        "Nisip combinat cu pietricele fine",
+        "Priveliști spre zona portuară și coasta nord-vestică",
+        "Potrivită pentru plimbări și zile relaxate",
+        "Servicii și taverne în localitatea apropiată"
+      ],
+      "seo_title": "Aphrodite Beach Thassos – plajă lângă Skala Prinos, acces și sfaturi",
+      "seo_description": "Descoperă Aphrodite Beach din Thassos, lângă Skala Prinos: nisip și pietricele, intrare în mare, acces, servicii sezoniere și recomandări practice.",
+      "social_caption": "🏖️ Aphrodite Beach, Thassos — un colț liniștit lângă Skala Prinos, cu nisip, pietricele și priveliști spre mare. 🌊 Ia papucii de apă, explorează malul și descoperă o altă latură a insulei! 🇬🇷 #Thassos #AphroditeBeach #SkalaPrinos",
+      "photo_alt": "Țărmul cu nisip și pietricele de la Aphrodite Beach, în apropiere de Skala Prinos, Thassos."
+    },
+    "en": {
+      "name": "Aphrodite Beach (Skala Prinos)",
+      "tagline": "Sand and pebbles, harbour views and a laid-back setting",
+      "summary": "Aphrodite Beach is a named stretch of shoreline near Skala Prinos ferry port on the northwestern side of Thassos. Its mix of sand and small pebbles, occasional rocks near the waterline and relatively quiet atmosphere make it a pleasant option for an unhurried seaside stop.",
+      "description": "Aphrodite Beach lies beside Skala Prinos on the northwestern coast of Thassos, a short distance from the island’s ferry terminal. Rather than a secluded cove, it forms part of a connected coastal strip with other named stretches around Prinos. The shore combines light-coloured sand and fine pebbles, with generally clear-looking water and views towards the harbour coastline. Stones and harder seabed patches can occur at the sea entry, so water shoes may make swimming more comfortable, especially for children. On calmer days the area is suited to relaxed bathing, shoreline walks and time by the sea without the intensity of a large beach club. Accommodation and local visitor services are close at hand, and some parts of the wider coastline are serviced seasonally. However, sunbeds, showers and beach-bar operations should not be assumed to be available at every section or on every date. One of Aphrodite’s advantages is its proximity to Skala Prinos: a beach visit can easily be paired with a stroll by the port or a meal at a nearby taverna. Before setting out, confirm your preferred access point on Google Maps, as online listings sometimes distinguish Aphrodite and Skala Prinos Beach differently along this connected shore.",
+      "practical_tips": "Bring water shoes for rocky patches near the waterline. Check wind and sea conditions before swimming, and supervise children even when the water looks calm. Sunbed arrangements and nearby operators may change by season. Parking is reported near the beach, but spaces are not guaranteed. Do not confuse this location with Giola, sometimes called Aphrodite’s Tear, or similarly named places elsewhere in Greece.",
+      "highlights": [
+        "Quiet shoreline close to Skala Prinos",
+        "Mix of sand and fine pebbles",
+        "Views towards the ferry-port coastline",
+        "Good for relaxed seaside walks",
+        "Local food and visitor services nearby"
+      ],
+      "seo_title": "Aphrodite Beach Thassos – Skala Prinos beach guide and access",
+      "seo_description": "Explore Aphrodite Beach near Skala Prinos in Thassos: sand and pebbles, rocky patches, access, seasonal amenities and practical visitor tips.",
+      "social_caption": "🏖️ Discover Aphrodite Beach near Skala Prinos, Thassos: sand, small pebbles and an easy-going coastal atmosphere. 🌊 Bring your water shoes and enjoy a slower island day! 🇬🇷 #Thassos #AphroditeBeach #SkalaPrinos",
+      "photo_alt": "Sand-and-pebble shoreline at Aphrodite Beach near the Skala Prinos ferry port on Thassos."
+    },
+    "el": {
+      "name": "Παραλία Αφροδίτη (Σκάλα Πρίνου)",
+      "tagline": "Άμμος και βότσαλα, θέα προς το λιμάνι και ήρεμη ατμόσφαιρα",
+      "summary": "Η παραλία Αφροδίτη βρίσκεται κοντά στο λιμάνι της Σκάλας Πρίνου, στη βορειοδυτική Θάσο. Η ακτή συνδυάζει άμμο με μικρά βότσαλα και κατά τόπους πέτρες στην είσοδο της θάλασσας, αποτελώντας επιλογή για χαλαρή παραμονή δίπλα στο νερό.",
+      "description": "Η παραλία Αφροδίτη βρίσκεται στη βορειοδυτική πλευρά της Θάσου, κοντά στη Σκάλα Πρίνου και σε μικρή απόσταση από το λιμάνι των φέρι. Δεν πρόκειται για απομονωμένο όρμο, αλλά για ένα ονομασμένο τμήμα της συνεχόμενης ακτογραμμής της περιοχής. Η παραλία έχει ανοιχτόχρωμη άμμο αναμεμειγμένη με μικρά βότσαλα, ενώ στην είσοδο της θάλασσας συναντώνται κατά τόπους πέτρες και πιο σκληρός βυθός. Για τον λόγο αυτό, τα παπούτσια θαλάσσης μπορούν να κάνουν το μπάνιο πιο άνετο, ιδιαίτερα για οικογένειες με παιδιά. Όταν οι καιρικές συνθήκες το επιτρέπουν, η περιοχή προσφέρεται για ήρεμο κολύμπι και περιπάτους δίπλα στο κύμα. Σε κοντινή απόσταση υπάρχουν καταλύματα, ταβέρνες και άλλες υπηρεσίες της Σκάλας Πρίνου. Ορισμένα τμήματα της ευρύτερης ακτής οργανώνονται εποχικά, όμως η διαθεσιμότητα ξαπλωστρών, ντους και beach bar δεν είναι εξασφαλισμένη σε κάθε σημείο. Η γειτνίαση με το λιμάνι δίνει τη δυνατότητα να συνδυάσετε τη θάλασσα με μια βόλτα στον οικισμό. Πριν από την επίσκεψη, ελέγξτε το συγκεκριμένο σημείο πρόσβασης στον χάρτη, καθώς οι ονομασίες Αφροδίτη και Σκάλα Πρίνου χρησιμοποιούνται κάποιες φορές για γειτονικά κομμάτια της ίδιας παραλίας.",
+      "practical_tips": "Προτιμήστε παπούτσια θαλάσσης όπου υπάρχουν πέτρες στην είσοδο του νερού. Ελέγχετε τον άνεμο και τα κύματα και επιβλέπετε πάντα τα παιδιά. Οι ξαπλώστρες και οι υπηρεσίες των επιχειρήσεων εξαρτώνται από την εποχή. Υπάρχουν αναφορές για δυνατότητες στάθμευσης κοντά στην παραλία, όχι όμως εγγύηση θέσης. Η συγκεκριμένη παραλία δεν είναι η Γκιόλα, που αποκαλείται και «Δάκρυ της Αφροδίτης».",
+      "highlights": [
+        "Ήρεμο παραλιακό τμήμα κοντά στη Σκάλα Πρίνου",
+        "Άμμος και μικρά βότσαλα",
+        "Θέα προς την παραλιακή ζώνη του λιμανιού",
+        "Δυνατότητα για χαλαρούς περιπάτους",
+        "Ταβέρνες και υπηρεσίες στον κοντινό οικισμό"
+      ],
+      "seo_title": "Παραλία Αφροδίτη Θάσος – πρόσβαση από Σκάλα Πρίνου",
+      "seo_description": "Γνωρίστε την παραλία Αφροδίτη στη Θάσο: άμμος, βότσαλα, πρόσβαση από Σκάλα Πρίνου, κοντινές παροχές και χρήσιμες συμβουλές.",
+      "social_caption": "🏖️ Παραλία Αφροδίτη, Θάσος: άμμος, μικρά βότσαλα και μια ήσυχη ακτή δίπλα στη Σκάλα Πρίνου. 🌊 Μια όμορφη στάση για μια χαλαρή μέρα στο νησί! 🇬🇷 #Θάσος #ΠαραλίαΑφροδίτη #ΣκάλαΠρίνου",
+      "photo_alt": "Αμμώδης ακτή με βότσαλα στην παραλία Αφροδίτη κοντά στη Σκάλα Πρίνου της Θάσου."
+    },
+    "de": {
+      "name": "Aphrodite Beach (Skala Prinos)",
+      "tagline": "Sand und Kiesel, Hafenblick und entspannte Küstenatmosphäre",
+      "summary": "Aphrodite Beach ist ein Strandabschnitt nahe dem Fährhafen von Skala Prinos an der Nordwestküste von Thassos. Sand, kleine Kieselsteine und stellenweise Steine am Wassereinstieg prägen den Strand, der sich für eine ruhige Auszeit am Meer anbietet.",
+      "description": "Aphrodite Beach liegt an der Nordwestküste von Thassos, unweit des Fährhafens von Skala Prinos. Es handelt sich weniger um eine abgeschiedene Bucht als um einen benannten Abschnitt der zusammenhängenden Küste rund um Prinos. Heller Sand wechselt sich mit kleinen Kieselsteinen ab; am Einstieg ins Meer können zudem steinige Stellen auftreten. Badeschuhe sind daher eine sinnvolle Ergänzung, besonders für Familien mit Kindern. Bei ruhigen Wetterbedingungen lässt sich hier entspannt schwimmen oder am Ufer spazieren gehen, ohne die lebhafte Atmosphäre großer Strandclubs. Unterkünfte, Tavernen und weitere Einrichtungen des Ortes liegen in der Nähe. Einige Bereiche der umliegenden Küste werden saisonal bewirtschaftet, doch Liegen, Duschen oder geöffnete Strandbars sind nicht an jedem Strandabschnitt und zu jeder Zeit garantiert. Die Nähe zum Hafen macht den Strand zudem interessant für Besucher, die einen Strandaufenthalt mit einem kleinen Spaziergang oder einem Essen im Ort verbinden möchten. Vor dem Besuch sollte der gewünschte Zugang auf Google Maps überprüft werden, denn in Online-Verzeichnissen werden Aphrodite Beach und Skala Prinos Beach teils unterschiedlich abgegrenzt.",
+      "practical_tips": "An steinigen Abschnitten helfen Badeschuhe. Vor dem Schwimmen Wind und Wellengang prüfen und Kinder stets beaufsichtigen. Liegen und gastronomische Angebote sind saisonabhängig. Parkmöglichkeiten werden in Strandnähe erwähnt, freie Plätze sind jedoch nicht garantiert. Nicht mit Giola, dem sogenannten Tränenbecken der Aphrodite, verwechseln.",
+      "highlights": [
+        "Ruhiger Küstenabschnitt bei Skala Prinos",
+        "Sand mit kleinen Kieselsteinen",
+        "Blick in Richtung der Hafenküste",
+        "Geeignet für entspannte Spaziergänge",
+        "Tavernen und Dienstleistungen in der Nähe"
+      ],
+      "seo_title": "Aphrodite Beach Thassos – Strand bei Skala Prinos und Anfahrt",
+      "seo_description": "Aphrodite Beach auf Thassos entdecken: Sand und Kiesel, steinige Bereiche, Anfahrt über Skala Prinos, saisonale Angebote und praktische Tipps.",
+      "social_caption": "🏖️ Aphrodite Beach auf Thassos: Sand, kleine Kiesel und eine entspannte Atmosphäre nahe Skala Prinos. 🌊 Mit Badeschuhen und etwas Zeit lässt sich die Küste wunderbar erkunden! 🇬🇷 #Thassos #AphroditeBeach #SkalaPrinos",
+      "photo_alt": "Sand- und Kieselstrand Aphrodite Beach in der Nähe des Fährhafens Skala Prinos auf Thassos."
+    },
+    "bg": {
+      "name": "Плаж Афродита (Скала Принос)",
+      "tagline": "Пясък и камъчета, гледка към пристанището и спокойна атмосфера",
+      "summary": "Плаж Афродита е крайбрежен участък близо до фериботното пристанище на Скала Принос, в северозападната част на Тасос. Пясъкът е примесен с дребни камъчета, а на места при влизане в морето има камъни. Мястото е подходящо за спокойна почивка край водата.",
+      "description": "Плаж Афродита се намира в северозападната част на остров Тасос, недалеч от Скала Принос и фериботното пристанище. Това не е изолиран залив, а именуван участък от дългата крайбрежна ивица в района на Принос. Брегът съчетава светъл пясък и малки камъчета, а при влизане във водата на места има камъни и по-твърдо дъно. Затова обувките за вода са полезни, особено за семейства с деца. При спокойни метеорологични условия тук можете да плувате, да се разхождате по брега и да се насладите на по-тиха атмосфера от тази на големите плажни клубове. В близост има места за настаняване, таверни и други услуги в Скала Принос. Части от съседното крайбрежие са организирани през сезона, но шезлонги, душове и работещ бар не са гарантирани на всяко място. Близостта до пристанището позволява да съчетаете плажа с разходка или хранене в селото. Преди да тръгнете, проверете точния подход в Google Maps, тъй като в различните справочници имената Афродита и Скала Принос Бийч понякога се използват за съседни участъци от брега.",
+      "practical_tips": "Носете обувки за вода за участъците с камъни. Следете вятъра и вълните и не оставяйте децата без наблюдение. Шезлонгите и заведенията работят според сезона. Има сведения за паркиране наблизо, но свободните места не са гарантирани. Не бъркайте този плаж с Гиола, известна и като „Сълзата на Афродита“.",
+      "highlights": [
+        "Спокоен бряг до Скала Принос",
+        "Пясък, смесен с дребни камъчета",
+        "Гледка към крайбрежието край пристанището",
+        "Подходящ за спокойни разходки",
+        "Таверни и услуги в близост"
+      ],
+      "seo_title": "Плаж Афродита, Тасос – Скала Принос, достъп и съвети",
+      "seo_description": "Научете повече за плаж Афродита на Тасос: пясък, камъчета, подход от Скала Принос, сезонни услуги и полезни съвети за посещение.",
+      "social_caption": "🏖️ Плаж Афродита, Тасос — спокойна крайбрежна ивица с пясък и камъчета близо до Скала Принос. 🌊 Открийте по-тихата страна на острова! 🇬🇷 #Тасос #AphroditeBeach #СкалаПринос",
+      "photo_alt": "Пясъчен и каменист бряг на плаж Афродита край Скала Принос, остров Тасос."
+    },
+    "sr": {
+      "name": "Aphrodite Beach (Skala Prinos)",
+      "tagline": "Pesak i sitni obluci, pogled prema luci i mirna atmosfera",
+      "summary": "Aphrodite Beach je deo obale blizu trajektne luke Skala Prinos, na severozapadu Tasosa. Pesak pomešan sa sitnim oblucima i poneka kamenita zona pri ulasku u more čine je pogodnom za opušten boravak na obali.",
+      "description": "Aphrodite Beach nalazi se na severozapadnoj obali Tasosa, nedaleko od mesta Skala Prinos i njegove trajektne luke. To nije izdvojena uvala, već jedan od imenovanih delova povezane obale u oblasti Prinosa. Na plaži se smenjuju svetao pesak i sitni obluci, a pri ulasku u more mogu se naići na kamenje i tvrđe delove dna. Zato su patike za vodu koristan izbor, posebno ako dolazite sa decom. Kada su vremenski uslovi mirni, ovo je prijatno mesto za kupanje, šetnju duž obale i odmor bez velike gužve poznatih beach klubova. U blizini se nalaze smeštajni objekti, taverne i druge usluge u Skala Prinosu. Neki delovi šire obale uređuju se tokom sezone, ali ležaljke, tuševi ili otvoren bar nisu zagarantovani na svakom mestu. Blizina luke omogućava da nekoliko sati na plaži spojite sa šetnjom kroz naselje ili obrokom u obližnjoj taverni. Pre polaska proverite izabrani prilaz na Google Maps, jer se nazivi Aphrodite Beach i Skala Prinos Beach ponekad različito koriste za susedne delove obale.",
+      "practical_tips": "Ponesite obuću za vodu zbog kamenitih delova ulaska u more. Proverite vetar i talase i uvek nadgledajte decu. Ponuda ležaljki i ugostiteljskih usluga zavisi od sezone. Parking se pominje u blizini plaže, ali slobodno mesto nije zagarantovano. Ne mešajte ovu plažu sa Giolom, poznatom kao „Afroditina suza“.",
+      "highlights": [
+        "Miran deo obale kod Skala Prinosa",
+        "Pesak pomešan sa sitnim oblucima",
+        "Pogled prema obali kod trajektne luke",
+        "Prijatna za lagane šetnje i odmor",
+        "Taverne i druge usluge u blizini"
+      ],
+      "seo_title": "Aphrodite Beach Tasos – plaža kod Skala Prinosa i prilaz",
+      "seo_description": "Upoznajte Aphrodite Beach na Tasosu: pesak i obluci, kameniti delovi, pristup iz Skala Prinosa, sezonski sadržaji i korisni saveti.",
+      "social_caption": "🏖️ Aphrodite Beach, Tasos: pesak, sitni obluci i opuštena atmosfera kod Skala Prinosa. 🌊 Sačuvajte ovo mesto za miran dan na ostrvu! 🇬🇷 #Tasos #AphroditeBeach #SkalaPrinos",
+      "photo_alt": "Peščano-šljunkovita obala plaže Aphrodite Beach blizu trajektne luke Skala Prinos na Tasosu."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/aphrodite/images/aphrodite1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/aphrodite/images/aphrodite2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/aphrodite/images/aphrodite3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/aphrodite/images/aphrodite4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/aphrodite/images/aphrodite5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/aphrodite/images/",
+    "suggested_asset_names": [
+      "aphrodite1.webp",
+      "aphrodite2.webp",
+      "aphrodite3.webp",
+      "aphrodite4.webp",
+      "aphrodite5.webp"
+    ],
+    "image_policy": "Use only user-provided or user-approved images for Aphrodite Beach. The first numbered image is the cover and images 2–5 are the ordered gallery. Confirm publication and reuse rights for each image before release; do not add external candidate photographs.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_beachatlas",
+      "kind": "beach_directory",
+      "title": "BeachAtlas — Aphrodite Beach, Thasos",
+      "url": "https://www.beachatlas.com/aphrodite",
+      "detail": "Lists approximate Aphrodite Beach coordinates 40.7608791, 24.5691657; not a confirmed Google Maps access pin.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_grupabiwakowa",
+      "kind": "visitor_guide",
+      "title": "Grupa Biwakowa — Aphrodite Beach, Skala Prinou",
+      "url": "https://grupabiwakowa.pl/plaza-aphrodite-beach",
+      "detail": "2022 record reports sandy beach, small-pebble entry, shaded free parking, Artemis bar; coordinates 40.761560, 24.567871. Historical, not proof of 2026 facilities.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_staythassos",
+      "kind": "local_beach_guide",
+      "title": "Stay Thassos — Aphrodite Beach in a local beaches directory",
+      "url": "https://staythassos.gr/thassos-beaches/",
+      "detail": "Describes a narrow sand-and-pebble strip near Skala Prinos harbour with rocky seabed and water shoes recommended; another description lists some services.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_skala_prinos",
+      "kind": "local_beach_guide",
+      "title": "Which Greek Island — Skala Prinos Beach",
+      "url": "https://whichgreekisland.co.uk/islands/thassos/beaches/skala-prinos/",
+      "detail": "Describes Aphrodite Beach as connected to nearby Skala Prinos shoreline and Etisies; amenities vary by section.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_tripadvisor",
+      "kind": "visitor_listing",
+      "title": "Tripadvisor — Aphrodite Beach, Skala Prinou",
+      "url": "https://www.tripadvisor.com/Attraction_Review-g1788353-d26532620-Reviews-Aphrodite_Beach-Skala_Prinou_Thasos_Northeast_Aegean_Islands.html",
+      "detail": "Independent visitor listing confirms Aphrodite Beach near Skala Prinou; reviews are limited and are not copied.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_beachsearcher",
+      "kind": "beach_directory",
+      "title": "BeachSearcher — Aphrodite Beach, Ormos Prinou",
+      "url": "https://beaches-searcher.com/en/beach/300207102/aphrodite-beach",
+      "detail": "Places a beach under this name near Ormos Prinou and mentions nearby parking and connected beaches; possible broad extent differs across sources.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_artemis",
+      "kind": "local_beach_guide",
+      "title": "Nikana — Artemis Beach, Skala Prinos",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1940/artemis-beach",
+      "detail": "Identifies neighboring Artemis-serviced section, to be distinguished from the wider Aphrodite label.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_pending_images_and_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Validate Aphrodite Google Maps pin and precise usable beach access; present coordinates currently derive from independent directory, NOT Google Maps",
+      "Confirm boundary with Skala Prinos Beach and adjacent Artemis section; prevent duplicate geographic beach counts",
+      "Verify seasonal operator hours, sunbeds, toilets, showers and parking",
+      "Verify that aphrodite1.webp through aphrodite5.webp exist in the expected images folder, depict the intended beach and are approved for publication and reuse.",
+      "Check translations with native speakers before publishing"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text. Paths to five user-selected local images are configured, but image files and their publication/reuse rights have not been independently inspected.",
+    "photo_source_disclaimer": "The cover and gallery reference local files named in the user screenshot. No third-party image candidates are included; file existence, geographic match and usage permissions still require confirmation."
+  }
+}

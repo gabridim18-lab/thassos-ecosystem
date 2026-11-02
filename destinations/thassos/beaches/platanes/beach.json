@@ -1,0 +1,382 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-platanes",
+  "slug": "platanes",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Πλατάνες",
+    "international_name": "Platanes Beach",
+    "aliases": [
+      "Platanes",
+      "Platanas",
+      "Πλάτανα",
+      "Sunset Beach",
+      "Sunset Beach Skala Maries",
+      "Platanes Beach Skala Marion"
+    ],
+    "entity_scope": "Larger sandy bay at the Prinos-side entrance of Skala Maries, distinct from the central harbour beach and Atspas Beach.",
+    "deduplication_warning": "Do not merge with Platana Beach near Skala Rachoni (a different northern beach); also separate from Skala Maries city beach and Atspas. Sunset Beach here is an alias of Platanes, not another beach.",
+    "nearby_related_beach_ids": [
+      "gr-thassos-beach-skala-maries",
+      "gr-thassos-beach-atspas"
+    ],
+    "not_same_as_ids": [
+      "gr-thassos-beach-platana"
+    ]
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "west / southwest",
+    "settlements": [
+      "Skala Maries",
+      "Skala Marion"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://maps.google.com/maps?daddr=Platanes+Beach%2C+%CE%A3%CE%BA%CE%AC%CE%BB%CE%B1+%CE%9C%CE%B1%CF%81%CE%B9%CF%8E%CE%BD%2C+East+Macedonia+and+Thrace+640+02%2C+Greece",
+    "coordinate_source_reference": "s_google_maps_directory_link",
+    "coordinate_type": "pending_verified_google_maps_pin_for_actual_beach",
+    "coordinate_review_status": "Google Maps directions search link available; coordinates pending direct pin confirmation. Independent candidate: 40.645013,24.515037 (BeachAtlas); OSM polygon approximate centroid 40.64539,24.51492; do not imply Google-derived or verified access point.",
+    "coordinate_candidates_independent": [
+      {
+        "lat": 40.645013,
+        "lng": 24.515037,
+        "source_ref": "s_beachatlas"
+      },
+      {
+        "lat": 40.64539,
+        "lng": 24.51492,
+        "source_ref": "s_mapcarta"
+      }
+    ],
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mostly_sand_with_small_pebble_sections",
+    "seabed_near_shore": "mostly_sandy_with_local_pebble_patches",
+    "water_entry": "generally_gradual",
+    "nearshore_depth": "mostly_gently_deepening_conditions_vary",
+    "water_clarity": "generally_clear_weather_dependent",
+    "wave_conditions": "wind_dependent",
+    "exposure": "west_facing_bay",
+    "natural_shade_on_sand": "limited_in_open_sections",
+    "beach_length_m": null,
+    "length_note": "No reliably consistent length measurement from primary sources; avoid an exact length.",
+    "backdrop": "Skala Maries coastal settlement and low green hills",
+    "shoreline_type": "broad_sandy_village_bay"
+  },
+  "visitor_experience": {
+    "organization": "mixed_organized_and_free",
+    "suitable_for": [
+      "families",
+      "couples",
+      "groups",
+      "swimming",
+      "sunset_views",
+      "relaxed_beach_day"
+    ],
+    "notable_for": [
+      "mostly_sandy_shore",
+      "gradual_entry",
+      "wide_beach",
+      "west_coast_sunset",
+      "beach_bar_option"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunbathing",
+      "beach_games",
+      "seasonal_inflatable_water_park"
+    ],
+    "estimated_crowd_peak": "variable_can_get_busier_in_peak_summer",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "A gradual entry does not guarantee safe swimming; monitor children, wind and waves. Inflatable water attractions must be used only when operated and supervised appropriately."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "No independently confirmed permanent public toilet facility; check with operator."
+    },
+    "showers": {
+      "available_in_some_sections": true,
+      "seasonal": true,
+      "requires_site_check": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": true,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "seasonal_inflatable_water_park": {
+      "advertised_by_local_operator": true,
+      "current_operation_verified": false
+    },
+    "volleyball": {
+      "reported": true,
+      "permanent_equipment_verified": false
+    },
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "Beachwide lifeguard service not independently confirmed. The operator advertises supervision specifically for its inflatable water park, not necessarily the whole shoreline.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "No independent verification of continuous accessible beach route or assisted entry equipment.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Seasonal services belong to operators and may change; check before visit."
+  },
+  "access_and_cost": {
+    "road_access": "road_access_from_main_coastal_route_via_skala_maries",
+    "public_transport": null,
+    "parking_type": "local_parking_near_beach_and_village",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Older guide and operator marketing mention loungers with bar purchases; current minimum-spend or lounger terms are not independently confirmed.",
+    "best_arrival_advice": "For your preferred section and easier parking, arrive earlier in busy months; consider staying for sunset.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Route and point-of-entry distance not independently verified; avoid fixed travel times."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Platanes Beach (Sunset Beach)",
+      "tagline": "Un golf nisipos, apă cu intrare lină și seri cu apusuri spectaculoase",
+      "summary": "Platanes este cea mai întinsă dintre cele trei plaje din Skala Maries, pe coasta vestică a insulei Thassos. Are predominant nisip, porțiuni cu pietricele, intrare treptată în apă și zone cu șezlonguri, dar și spațiu pentru propriul prosop. Este apreciată pentru relaxare și apusuri.",
+      "description": "Platanes Beach, cunoscută și sub numele de Sunset Beach, se află la intrarea în Skala Maries dinspre Prinos, pe coasta vestică a insulei Thassos. Este cel mai mare dintre cele trei golfuri de plajă asociate satului, distinct de mica plajă din dreptul portului și de Atspas. Țărmul este predominant nisipos, cu porțiuni de pietricele fine, iar intrarea în mare este în general treptată. Acest lucru o face atractivă pentru familii și pentru cei care preferă înotul într-un golf deschis, însă adâncimea și valurile trebuie evaluate în ziua vizitei. Există sectoare amenajate cu șezlonguri și umbrele, precum și spații pentru echipamentul propriu. Un beach bar și activități estivale, inclusiv un parc gonflabil pe apă prezentat de operator, pot completa ziua de plajă, dar disponibilitatea lor se poate schimba de la un sezon la altul. Poziția vestică face din Platanes o alegere plăcută pentru lumina caldă a serii și fotografii la apus. Pentru taverne și o plimbare prin sat, centrul Skala Maries este aproape.",
+      "practical_tips": "Urmează drumul spre Skala Maries și caută golful de la intrarea dinspre Prinos, nu mica plajă de lângă port. Poți găsi porțiuni amenajate și porțiuni libere; întreabă la beach bar care sunt condițiile curente pentru șezlonguri. Dușurile, vestiarele, parcul gonflabil și supravegherea activităților pe apă pot funcționa sezonier. Există pietricele în unele sectoare, iar vremea poate schimba condițiile de înot. Pentru apus, merită să rămâi până seara; evită să presupui că locurile de parcare sunt garantate.",
+      "highlights": [
+        "Cea mai mare dintre cele trei plaje ale satului Skala Maries",
+        "Nisip cu porțiuni de pietricele fine",
+        "Intrare în mare în general treptată",
+        "Zone cu șezlonguri și spațiu liber",
+        "Apusuri frumoase de pe coasta vestică"
+      ],
+      "seo_title": "Platanes Beach Thassos – Sunset Beach, acces și facilități",
+      "seo_description": "Descoperă Platanes (Sunset Beach) din Skala Maries, Thassos: nisip, intrare treptată în apă, apusuri, facilități sezoniere și sfaturi de vizitare.",
+      "social_caption": "🌅 Platanes Beach, Thassos: o întindere de nisip lângă Skala Maries, apă albastră și apusuri care merită așteptate. 🏖️ Salvează locul pentru o după-amiază relaxată pe coasta vestică! 🇬🇷 #Thassos #PlatanesBeach #SkalaMaries",
+      "photo_alt": "Vedere de ansamblu asupra plajei nisipoase Platanes din Skala Maries, Thassos, cu șezlonguri și mare."
+    },
+    "en": {
+      "name": "Platanes Beach (Sunset Beach)",
+      "tagline": "A sandy bay with gentle sea entry and memorable west-coast sunsets",
+      "summary": "Platanes is the largest of the three beaches around Skala Maries on the west coast of Thassos. The shore is mainly sandy with some small pebbles, the water generally deepens gradually, and visitors can choose between serviced areas and space for their own beach gear.",
+      "description": "Platanes Beach, also known as Sunset Beach, lies at the Prinos-side entrance to Skala Maries on the western coast of Thassos. It is the largest of the village’s three beach bays and should not be confused with the small harbour beach or Atspas. The shoreline is mostly sandy, with some fine pebbles, and the seabed usually slopes gradually, making it a popular option for families and leisurely swimming. As anywhere by the sea, wind, waves and depth can change, so conditions should be checked on arrival. Serviced stretches provide loungers and umbrellas, while other parts offer room for visitors bringing their own towels and shade. A beach bar and seasonal leisure options may add to the atmosphere. An inflatable water-play area is advertised by a local operator, but its presence and operating conditions should be confirmed for the season of travel. Platanes is especially appealing later in the day, when the west-facing setting catches warm evening light and the sunset over the Aegean. The fishing-village atmosphere and tavernas of Skala Maries are also nearby.",
+      "practical_tips": "Approach Skala Maries from the direction of Prinos and look for the broad beach bay before the village harbour, rather than the smaller central beach. Both serviced and open sections have been reported; ask the operator about current lounger arrangements instead of assuming a fixed price. Showers, changing facilities, inflatable water activities and supervision may be seasonal. Expect occasional pebbles and check sea conditions before swimming. Allow time for a sunset visit, and do not assume parking is guaranteed next to the sand.",
+      "highlights": [
+        "Largest of the three Skala Maries beach bays",
+        "Mostly sandy shore with fine-pebble patches",
+        "Generally gradual entry into the sea",
+        "Serviced and open areas",
+        "West-facing Aegean sunsets"
+      ],
+      "seo_title": "Platanes Beach Thassos – Sunset Beach guide and facilities",
+      "seo_description": "Explore Platanes (Sunset Beach) in Skala Maries, Thassos: sandy shore, gradual entry, evening views, seasonal facilities and visitor tips.",
+      "social_caption": "🌅 Platanes Beach on Thassos pairs a broad sandy shore with relaxed swimming and sunset views. 🏖️ Save this Skala Maries spot for a laid-back evening by the Aegean! 🇬🇷 #Thassos #PlatanesBeach #SkalaMaries",
+      "photo_alt": "Wide view of sandy Platanes Beach near Skala Maries, Thassos, with sun loungers and the Aegean Sea."
+    },
+    "el": {
+      "name": "Παραλία Πλατάνες (Sunset Beach)",
+      "tagline": "Αμμώδης ακτή, ομαλή είσοδος στη θάλασσα και μαγευτικά ηλιοβασιλέματα",
+      "summary": "Οι Πλατάνες είναι η μεγαλύτερη από τις τρεις παραλίες της Σκάλας Μαριών στη δυτική Θάσο. Η ακτή είναι κυρίως αμμώδης με λίγα ψιλά βότσαλα, η είσοδος στο νερό είναι συνήθως ομαλή και υπάρχουν οργανωμένα αλλά και ελεύθερα τμήματα.",
+      "description": "Η παραλία Πλατάνες, γνωστή και ως Sunset Beach, βρίσκεται στην είσοδο της Σκάλας Μαριών από την πλευρά του Πρίνου, στη δυτική ακτή της Θάσου. Είναι η μεγαλύτερη από τις τρεις παραλίες του οικισμού και διαφέρει τόσο από τη μικρή παραλία στο λιμανάκι όσο και από τον Ατσπά. Η ακτή αποτελείται κυρίως από άμμο, με ορισμένα σημεία που έχουν ψιλό βότσαλο, ενώ η είσοδος στη θάλασσα είναι γενικά ομαλή. Γι’ αυτό είναι μια ευχάριστη επιλογή για οικογένειες και για χαλαρό κολύμπι, αν και το βάθος, ο άνεμος και ο κυματισμός απαιτούν πάντοτε προσοχή. Σε κάποια σημεία υπάρχουν ξαπλώστρες και ομπρέλες, ενώ σε άλλα μπορείτε να χρησιμοποιήσετε τον δικό σας εξοπλισμό. Το beach bar και οι εποχικές δραστηριότητες συμπληρώνουν την καλοκαιρινή εμπειρία. Τοπικός επαγγελματίας προβάλλει και φουσκωτό θαλάσσιο πάρκο, όμως η λειτουργία του πρέπει να επιβεβαιώνεται πριν από την επίσκεψη. Η δυτική θέση της παραλίας προσφέρει όμορφο απογευματινό φως και θέα στο ηλιοβασίλεμα. Σε κοντινή απόσταση βρίσκεται το γραφικό ψαροχώρι της Σκάλας Μαριών με τις ταβέρνες του.",
+      "practical_tips": "Κατευθυνθείτε προς τη Σκάλα Μαριών από τον Πρίνο και αναζητήστε τη μεγάλη παραλία πριν από το λιμανάκι. Υπάρχουν αναφορές για οργανωμένα και ελεύθερα τμήματα· ρωτήστε επιτόπου για τους ισχύοντες όρους χρήσης στις ξαπλώστρες. Τα ντους, οι καμπίνες αλλαγής, το θαλάσσιο πάρκο και η επιτήρηση των δραστηριοτήτων ενδέχεται να λειτουργούν εποχικά. Σε ορισμένα σημεία υπάρχουν βότσαλα. Ελέγξτε τις συνθήκες της θάλασσας και μην θεωρείτε δεδομένη τη στάθμευση δίπλα στην άμμο.",
+      "highlights": [
+        "Η μεγαλύτερη παραλία της Σκάλας Μαριών",
+        "Κυρίως άμμος με λίγα ψιλά βότσαλα",
+        "Γενικά ομαλή είσοδος στη θάλασσα",
+        "Οργανωμένα και ελεύθερα τμήματα",
+        "Θέα στο ηλιοβασίλεμα"
+      ],
+      "seo_title": "Παραλία Πλατάνες Θάσος – Sunset Beach, πρόσβαση και παροχές",
+      "seo_description": "Γνωρίστε την παραλία Πλατάνες στη Σκάλα Μαριών της Θάσου: άμμος, ομαλή είσοδος, ηλιοβασίλεμα, εποχικές παροχές και συμβουλές.",
+      "social_caption": "🌅 Πλατάνες, Θάσος: αμμουδιά, γαλάζια νερά και υπέροχο ηλιοβασίλεμα στη Σκάλα Μαριών. 🏖️ Κρατήστε την ιδέα για την επόμενη καλοκαιρινή εξόρμηση! 🇬🇷 #Θάσος #Πλατάνες #ΣκάλαΜαριών",
+      "photo_alt": "Γενική άποψη της αμμώδους παραλίας Πλατάνες στη Σκάλα Μαριών της Θάσου με ξαπλώστρες και θάλασσα."
+    },
+    "de": {
+      "name": "Platanes Beach (Sunset Beach)",
+      "tagline": "Sandstrand, meist sanfter Meereseinstieg und schöne Sonnenuntergänge",
+      "summary": "Platanes ist die größte der drei Strandbuchten bei Skala Maries an der Westküste von Thassos. Der Strand besteht überwiegend aus Sand mit einigen feinen Kieseln; das Wasser wird meist allmählich tiefer. Es gibt bewirtschaftete und freie Bereiche.",
+      "description": "Platanes Beach, auch Sunset Beach genannt, liegt am Ortseingang von Skala Maries aus Richtung Prinos an der Westküste von Thassos. Die Bucht ist der größte der drei Strände des Dorfes und nicht mit dem kleinen Hafenstrand oder Atspas zu verwechseln. Der Untergrund besteht überwiegend aus Sand mit einigen Bereichen aus feinem Kies; das Meer wird in der Regel langsam tiefer. Deshalb schätzen besonders Familien und Gäste, die entspannt schwimmen möchten, diesen Küstenabschnitt. Wind, Wellen und Wassertiefe können sich jedoch verändern und sollten vor Ort beachtet werden. An einem Teil des Strandes stehen Liegen und Sonnenschirme bereit, während andere Abschnitte Platz für die eigene Strandausrüstung bieten. Ein Beachbar-Angebot und saisonale Freizeitmöglichkeiten sorgen im Sommer für Abwechslung. Ein örtlicher Betreiber wirbt auch mit einem aufblasbaren Wasserpark, dessen aktueller Betrieb vor der Anreise überprüft werden sollte. Besonders schön ist Platanes am späten Nachmittag, wenn warmes Licht über der westlich ausgerichteten Küste liegt und die Sonne über der Ägäis untergeht. Das Fischerdorf Skala Maries mit seinen Tavernen ist nicht weit entfernt.",
+      "practical_tips": "Fahren Sie von Prinos kommend nach Skala Maries und suchen Sie die größere Bucht vor dem Hafen, nicht den kleinen Strand im Dorfzentrum. Es werden sowohl bewirtschaftete als auch freie Abschnitte beschrieben. Erfragen Sie die aktuellen Bedingungen für Liegen direkt beim Betreiber. Duschen, Umkleiden, Wasserspielgeräte und Betreuung können saisonabhängig sein. Auf manchen Abschnitten liegen kleine Kiesel. Beachten Sie Wind und Wellen; Parkplätze direkt am Strand sind nicht garantiert.",
+      "highlights": [
+        "Größte Strandbucht von Skala Maries",
+        "Überwiegend Sand mit etwas feinem Kies",
+        "Meist sanfter Einstieg ins Meer",
+        "Bewirtschaftete und freie Abschnitte",
+        "Sonnenuntergänge an der Westküste"
+      ],
+      "seo_title": "Platanes Beach Thassos – Sunset Beach, Anfahrt und Ausstattung",
+      "seo_description": "Platanes Beach bei Skala Maries entdecken: Sand, sanfter Meereseinstieg, Sonnenuntergang, saisonale Ausstattung und praktische Tipps.",
+      "social_caption": "🌅 Platanes Beach auf Thassos: ein breiter Sandstrand, entspannte Badestunden und Abendlicht über der Ägäis. 🏖️ Merkt euch diesen Ort bei Skala Maries! 🇬🇷 #Thassos #PlatanesBeach #Griechenland",
+      "photo_alt": "Blick auf den Sandstrand Platanes bei Skala Maries auf Thassos mit Liegen und dem Ägäischen Meer."
+    },
+    "bg": {
+      "name": "Плаж Платанес (Сънсет Бийч)",
+      "tagline": "Пясъчен залив с плавен вход в морето и красиви залези",
+      "summary": "Платанес е най-големият от трите плажа край Скала Мариес на западния бряг на Тасос. Брегът е предимно пясъчен, на места с дребни камъчета, а дълбочината обикновено нараства постепенно. Има както оборудвани, така и свободни участъци.",
+      "description": "Плаж Платанес, известен и като Сънсет Бийч, се намира на входа на Скала Мариес откъм Принос, на западния бряг на остров Тасос. Това е най-големият от трите плажни залива край селото и не бива да се бърка с малкия плаж до пристанището или с Атспас. Брегът е покрит предимно с пясък, но на места има и ситни камъчета. Навлизането в морето обикновено е плавно, което прави мястото привлекателно за семейства и за спокойни плувания. Все пак вятърът, вълните и дълбочината се променят и изискват внимание. На някои участъци се предлагат шезлонги и чадъри, а на други има място за собствена постелка и чадър. Плажен бар и сезонни занимания допълват лятната атмосфера. Местен оператор представя и надуваем воден парк, но дали работи през конкретния сезон трябва да се провери предварително. Западното изложение носи топла вечерна светлина и красива гледка към залеза над Егейско море. Рибарското селище Скала Мариес и неговите таверни са наблизо.",
+      "practical_tips": "Пристигайки откъм Принос, потърсете широкия плаж преди малкото пристанище на Скала Мариес. Има данни за оборудвани и свободни участъци; условията за шезлонгите трябва да се уточнят на място. Душовете, съблекалните, надуваемите водни атракции и надзорът могат да бъдат сезонни. На места има ситни камъчета. Проверявайте състоянието на морето и не разчитайте на гарантирано паркомясто непосредствено до пясъка.",
+      "highlights": [
+        "Най-големият плаж край Скала Мариес",
+        "Предимно пясък и малко дребни камъчета",
+        "Обикновено плавен вход в морето",
+        "Оборудвани и свободни участъци",
+        "Красиви залези над Егейско море"
+      ],
+      "seo_title": "Плаж Платанес, Тасос – Сънсет Бийч, достъп и удобства",
+      "seo_description": "Открийте Платанес край Скала Мариес на Тасос: пясък, плавен вход в морето, залези, сезонни удобства и практични съвети.",
+      "social_caption": "🌅 Платанес на Тасос: широк пясъчен бряг, синьо море и залези край Скала Мариес. 🏖️ Запазете това място за следващата си ваканция! 🇬🇷 #Тасос #PlatanesBeach #Гърция",
+      "photo_alt": "Общ изглед към пясъчния плаж Платанес край Скала Мариес на остров Тасос, с шезлонги и море."
+    },
+    "sr": {
+      "name": "Platanes Beach (Sunset Beach)",
+      "tagline": "Peščana uvala, postepen ulazak u more i lepi zalasci sunca",
+      "summary": "Platanes je najveća od tri plaže kod Skala Marijesa na zapadnoj obali Tasosa. Obala je uglavnom peščana, mestimično sa sitnim šljunkom, a dubina se obično postepeno povećava. Postoje uređeni delovi i slobodan prostor za sopstvenu opremu.",
+      "description": "Platanes Beach, poznata i kao Sunset Beach, nalazi se na ulazu u Skala Marijes iz pravca Prinosa, na zapadnoj obali Tasosa. To je najveća od tri plažne uvale ovog mesta i ne treba je mešati sa malom plažom kod luke niti sa plažom Atspas. Obala je uglavnom peščana, uz poneki deo sa sitnim kamenčićima, dok je ulazak u more najčešće postepen. Zato je prijatna za porodice i opušteno kupanje, ali vetar, talasi i dubina mogu da se promene, pa uslove treba proveriti na licu mesta. Na pojedinim delovima postavljene su ležaljke i suncobrani, a drugde ima prostora za sopstveni peškir i suncobran. Bar na plaži i sezonske aktivnosti upotpunjuju letnju ponudu. Lokalni operater najavljuje i vodeni park na naduvavanje, čiji rad i pravila treba proveriti za konkretnu sezonu. Plaža je naročito privlačna predveče, kada zapadna obala dobija toplu svetlost, a sunce zalazi nad Egejskim morem. U blizini je ribarsko mesto Skala Marijes, poznato po tavernama.",
+      "practical_tips": "Iz pravca Prinosa skrenite prema Skala Marijesu i potražite veću uvalu pre luke, a ne malu gradsku plažu. Pominju se uređeni i slobodni delovi; uslove za ležaljke proverite kod operatera. Tuševi, kabine, vodene igračke i nadzor mogu raditi samo tokom sezone. Na pojedinim delovima ima sitnog šljunka. Pre kupanja proverite vetar i talase, a parking tik uz pesak nemojte uzimati zdravo za gotovo.",
+      "highlights": [
+        "Najveća plaža kod Skala Marijesa",
+        "Pretežno pesak uz malo sitnog šljunka",
+        "Uglavnom postepen ulazak u more",
+        "Uređeni i slobodni delovi",
+        "Lepi zalasci sunca na zapadnoj obali"
+      ],
+      "seo_title": "Platanes Beach Tasos – Sunset Beach, prilaz i sadržaji",
+      "seo_description": "Upoznajte Platanes Beach kod Skala Marijesa na Tasosu: pesak, postepen ulazak u more, zalasci sunca, sezonski sadržaji i saveti.",
+      "social_caption": "🌅 Platanes Beach na Tasosu: široka peščana obala, miran odmor i zalazak sunca nad Egejskim morem. 🏖️ Sačuvajte za sledeće letovanje! 🇬🇷 #Tasos #PlatanesBeach #Grcka",
+      "photo_alt": "Širok pogled na peščanu plažu Platanes kod Skala Marijesa na Tasosu, sa ležaljkama i Egejskim morem."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/platanes/images/platanes1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/platanes/images/platanes2.webp",
+      "destinations/thassos/beaches/platanes/images/platanes3.webp",
+      "destinations/thassos/beaches/platanes/images/platanes4.webp",
+      "destinations/thassos/beaches/platanes/images/platanes5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/platanes/images/",
+    "suggested_asset_names": [
+      "platanes1.webp",
+      "platanes2.webp",
+      "platanes3.webp",
+      "platanes4.webp",
+      "platanes5.webp"
+    ],
+    "image_policy": "Five local WebP paths assigned from the user-provided folder screenshot (platanes1.webp–platanes5.webp). Before public or commercial use, individually verify that each image depicts Platanes/Sunset Beach near Skala Maries on Thassos (not Platana Beach near Skala Rachoniou), confirm ownership or commercial reuse rights, attribution where needed, and the actual presence of each file in the repository. Screenshots are not proof of geographic identity or image rights.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_go_thassos",
+      "kind": "local_destination_guide",
+      "title": "Go Thassos — Skala Maries and its three beaches",
+      "url": "https://www.go-thassos.com/about-thassos/places/skala-maries",
+      "detail": "Identifies Platanes as first and largest bay, separate from harbor Skala Maries Beach and Atspas.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide",
+      "title": "Nikana — Platanes Beach (former Sunset Beach)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1937/platanes-beach-former-sunset-beach",
+      "detail": "Shore sand, gradual entry, seasonal facilities, open areas and Prinos-side location; older published service terms are not assumed current.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_local_operator",
+      "kind": "operator_website",
+      "title": "Platanes Beach Bar — beach information",
+      "url": "https://www.platanesbeach.gr/en/platanes-beach/",
+      "detail": "Operator advertises loungers, umbrellas, changing facilities and water-park activities; seasonal operation and current terms need reconfirmation.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_discover_thassos",
+      "kind": "local_destination_guide",
+      "title": "Discover Thassos — Platanes Beach",
+      "url": "https://www.discover-thassos.com/listing/platanes-beach-thassos/",
+      "detail": "Distinguishes Platanes from northern Platana and describes sand, small pebbles and operator facilities.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_beachatlas",
+      "kind": "map_secondary",
+      "title": "BeachAtlas — Platanes Beach location",
+      "url": "https://www.beachatlas.com/platanes-3",
+      "detail": "Secondary candidate coordinates 40.645013,24.515037; not equivalent to a Google Maps pin or confirmed beach access.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_mapcarta",
+      "kind": "osm_based_geographic_reference",
+      "title": "Mapcarta — Πλάτανα, OSM way 792486057",
+      "url": "https://mapcarta.com/W792486057",
+      "detail": "OSM-based beach landform coordinate around 40.64539,24.51492; may be polygon centroid rather than route entrance.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_google_maps_directory_link",
+      "kind": "google_maps_search_directions_link",
+      "title": "Discover Thassos — external Google Maps directions for Platanes Beach",
+      "url": "https://www.discover-thassos.com/listing/platanes-beach-thassos/",
+      "detail": "Directory link leads to a Google Maps directions query for Platanes Beach in Skala Maries, but no individual Google Maps place pin/coordinates could be confirmed here.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_google_maps_pin_and_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm preferred Platanes Beach point and exact access in Google Maps; fill lat/lng only after verification",
+      "Confirm the five assigned platanes1.webp–platanes5.webp images are genuinely from Platanes/Sunset Beach near Skala Maries, not Platana Beach; verify files in repository, provenance, commercial publication/transfer rights and any required attribution.",
+      "Check current Platanes Beach Bar sunbed conditions, showers and changing facilities",
+      "Confirm whether the inflatable water park operates in the intended season",
+      "Verify accessible routes, public toilets and beach-wide lifeguard coverage",
+      "Native-language editorial proofread before full public publication"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial copy prepared; five local WebP image paths are referenced, but their geographic identity, provenance, commercial reuse and transferable rights have not been independently verified.",
+    "photo_source_disclaimer": "Five local image paths were assigned from the user-provided folder screenshot. No WebP binaries are embedded in the JSON; the actual files, depicted beach and commercial reuse permissions have not been independently verified."
+  }
+}

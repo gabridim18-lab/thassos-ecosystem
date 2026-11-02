@@ -1,0 +1,432 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-kazaviti",
+  "slug": "kazaviti",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Μεγάλος Πρίνος / Μικρός Πρίνος",
+    "international_name": "Kazaviti (Megalo & Mikro)",
+    "aliases": [
+      "Καζαβίτι",
+      "Μεγάλο Καζαβίτι",
+      "Μικρό Καζαβίτι",
+      "Μεγάλος Πρίνος",
+      "Μικρός Πρίνος",
+      "Megalo Kazaviti",
+      "Mikro Kazaviti",
+      "Megalos Prinos",
+      "Mikros Prinos",
+      "Kazavitia"
+    ],
+    "area_type": "traditional_inland_village_group",
+    "entity_scope": "One curated visitor area joining the two neighbouring heritage hamlets Megalos Prinos (Megalo Kazaviti) and Mikros Prinos (Mikro Kazaviti), about 0.5–1 km apart. The primary reference centre is Megalos Prinos; this point does NOT mark the middle of the two villages, an access road, a car park or any nearby coastal village.",
+    "deduplication_warning": "Kazaviti refers to two inland settlements, Megalos Prinos and Mikros Prinos. Do not confuse either with Prinos village (lower inland, larger settlement) or Skala Prinos / Ormos Prinou (coastal ferry port); do not create duplicate standalone area records for the two hamlets without reviewing the visitor-group policy. Mapcarta also identifies their OSM place=hamlet nodes separately: Megalos Prinos 40.72436,24.62462; Mikros Prinos 40.72178,24.61725.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": false,
+    "coast": null,
+    "part_of_island": "northwestern_inland_foothills",
+    "center": {
+      "lat": 40.72436,
+      "lng": 24.62462,
+      "coordinate_role": "OSM_place_hamlet_reference_for_Megalos_Prinos_not_a_visitor_arrival_or_centre_of_both_villages",
+      "coordinate_source": "Mapcarta / OpenStreetMap place=hamlet node 1477877633",
+      "coordinate_source_url": "https://mapcarta.com/13816180",
+      "verification_status": "OSM_hamlet_reference_verified_two_village_area_composite_arrival_not_verified",
+      "verified_on": "2026-10-28"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "Megalo Kazaviti (Megalos Prinos) reference 40.72436,24.62462; Mikro Kazaviti (Mikros Prinos) is separately mapped at 40.72178,24.61725 (Mapcarta / OSM node 1477877645). They sit on wooded northwestern inland slopes above Prinos, around half a kilometre to one kilometre apart depending on measurement and route. The area is not coastal, is not Skala Prinos, and contains no ferry port or its own beach. Exact access/parking GPS remains null pending local validation."
+  },
+  "overview": {
+    "settlement_character": "Two neighbouring historic mountain hamlets amid trees, vineyards and woodland, recognised for slate-roofed stone houses, wooden balconies, cobblestone lanes, old churches, a shaded traditional square, tavernas and cultural gatherings. Small permanent resident populations; meaningful as a combined heritage excursion, not as two commercial towns.",
+    "tourism_profile": [
+      "historic_inland_village_group",
+      "two_villages_one_visitor_area",
+      "megalo_kazaviti",
+      "mikro_kazaviti",
+      "traditional_stone_architecture",
+      "timber_balconies",
+      "slate_roofs",
+      "cobbled_lanes",
+      "plane_tree_square",
+      "tavernas_and_local_meat_dishes",
+      "vineyards_and_local_wine",
+      "traditional_culture",
+      "kazavitiana_summer_events",
+      "small_stone_theatre",
+      "churches",
+      "woodland",
+      "short_walks",
+      "heritage_photography"
+    ],
+    "best_time_to_visit": "Spring and autumn are pleasant for the streets and countryside; summer offers shaded squares and, subject to an announced programme, cultural events. Winter services and access may be limited. Schedule a short cultural stop or an unhurried lunch, not an assumed full-service resort day.",
+    "peak_season_notes": "Tavern opening times, performances, festivals, religious services and parking arrangements are seasonal and should be reconfirmed. No fixed Kazavitiana dates, public transport timetable or ticket availability are asserted in this static record."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "oldest_historic_thassian_inland_settlements_per_local_tourism_sources",
+      "traditional_macedonian_epirot_stone_masonry",
+      "slate_roofs_and_painted_ceiling_tradition",
+      "timber_balconies",
+      "village_square_and_plane_trees",
+      "historical_vineyards_and_wine",
+      "church_of_saint_george_mikro_kazaviti",
+      "church_of_twelve_apostles_megalo_kazaviti",
+      "zoodochos_pigi_chapel",
+      "rural_community_and_school_history",
+      "kazavitiana_cultural_events",
+      "small_outdoor_stone_theatre",
+      "agios_panteleimon_monastery_nearby_not_in_village"
+    ],
+    "local_traditions": [
+      "Kazavitiana cultural programme, traditionally summer (annual dates to verify)",
+      "traditional wine-growing and seasonal village food",
+      "local Orthodox church celebrations",
+      "social life around tavernas and the plane-tree village square",
+      "maintenance and restoration of stone-house architecture"
+    ],
+    "local_food_specialties": [
+      "slow-cooked and roasted goat or lamb when available",
+      "local wine (availability and producers vary)",
+      "rustic meat dishes and seasonal vegetables",
+      "olive oil, village preserves and produce according to tavern menu"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "architecture",
+      "culture_and_local_history",
+      "heritage_photography",
+      "traditional_food",
+      "couples",
+      "relaxed_day_trips",
+      "nature_lovers",
+      "curious_families",
+      "quiet_village_strolls"
+    ],
+    "experiences": [
+      "Walk through both historic hamlets, noting the restored and older stone houses, wooden balconies, slate roofs and narrow cobbled lanes.",
+      "Enjoy a meal or coffee under plane trees in Megalo Kazaviti square if a tavern is open.",
+      "Visit the exterior surroundings of the Church of Saint George in Mikro Kazaviti, respecting any access or service restrictions.",
+      "Seek out the Church of the Twelve Apostles and Zoodochos Pigi around Megalo Kazaviti; entry to interiors is not guaranteed.",
+      "See the open-air stone theatre between the settlements and consult the current Kazavitiana programme separately; no performance is assumed.",
+      "Appreciate vineyards, wooded slopes and a quieter side of the island; use suitable footwear and stay on accessible paths.",
+      "If time permits, combine the visit with nearby Prinos village and the coast at Skala Prinos as a separate outing.",
+      "Treat the Monastery of Saint Panteleimon as a separate mountain excursion, conditional on road conditions and actual visitor access."
+    ],
+    "points_of_interest_summary": [
+      "Megalo Kazaviti traditional square and plane trees",
+      "Mikro Kazaviti stone houses and Church of Saint George",
+      "Church of the Twelve Apostles in Megalo Kazaviti",
+      "Zoodochos Pigi chapel",
+      "Small outdoor stone theatre associated with Kazavitiana",
+      "Cobbled streets, slate-roofed architecture and wooden balconies",
+      "Surrounding forest and vineyards",
+      "Monastery of Saint Panteleimon nearby, separate from the settlement"
+    ],
+    "estimated_visit_duration": "Approximately 1.5–3 hours for a walk through both hamlets with a café stop; longer for a meal or any separate monastery or nature excursion.",
+    "family_suitability": "Suitable for families who enjoy slow village walks, but some lanes are steep or uneven; small children require supervision near roads and steps. No dedicated play facilities are guaranteed.",
+    "mobility_considerations": "Historic cobblestone lanes, slopes, steps and narrow street sections can make the villages challenging for wheelchairs and limited mobility. A step-free walking route has not been verified.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "Approach inland from the Prinos area on a narrow, climbing and curving road. Roads and local access should be checked before setting out, especially after poor weather. Do not use the OSM settlement node as an automatic vehicle-arrival instruction. Access to the separate Saint Panteleimon monastery route requires its own verification.",
+    "public_transport": "No dependable current scheduled bus service to both tiny inland hamlets has been verified. Do not imply frequent village buses. Ask the local transport operator about the nearest active stop, likely in the broader Prinos area, and plan onward travel independently.",
+    "parking_overview": "No legally designated public parking location and verified capacity were confirmed for both hamlets. Do not assign GPS to a guessed square, narrow lane or private space. Park only where allowed and leave emergency access clear.",
+    "pedestrian_access": "The historic villages are best explored on foot. Expect uneven cobbles, narrow lanes, steep portions, occasional steps and shared road surfaces; non-slip footwear recommended.",
+    "accessibility_note": "No independent accessibility audit or confirmed barrier-free route for the village square, churches or theatre. Confirm specific access needs with local providers.",
+    "general_amenities": {
+      "supermarket": null,
+      "pharmacy": null,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": null,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "In summer bring water, sun protection and suitable shoes despite tree shade; avoid entering unused buildings or private courtyards, and do not assume churches or monasteries are permanently open. Check wildfire restrictions for forest walks and weather for hill roads.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-skala-prinos",
+      "gr-thassos-area-skala-rachoniou"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-skala-prinos"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "Kazaviti is a combined inland cultural visitor area for Megalos and Mikros Prinos; the individual hamlets have separate OSM geographical points but one curated area record. Prinos village is an additional distinct settlement not yet represented by a verified area ID. Coastal Skala Prinos and its beach are separate nearby places; no monastery/church/theatre attraction IDs are invented until those objects are created. Beaches and POIs retain their own coordinates for real distance calculations.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "Kazaviti is inland and has no ferry pier. Skala Prinos / Ormos Prinou has a ferry connection handled by the separate, updateable ferry schedule module; never duplicate its changing timetable as a static Kazaviti fact."
+  },
+  "translations": {
+    "ro": {
+      "name": "Kazaviti (Mikro & Megalo)",
+      "tagline": "Două sate de piatră, tradiții și tihnă printre platani",
+      "summary": "Mikro și Megalo Kazaviti formează una dintre cele mai pitorești excursii culturale din Thassos: case din piatră, ulițe pietruite, o piață umbrită, biserici vechi și taverne.",
+      "description": "În interiorul verde al insulei Thassos, deasupra regiunii Prinos, se ascund două așezări cu un farmec aparte: Mikro Kazaviti și Megalo Kazaviti. Cunoscute și ca Mikros Prinos și Megalos Prinos, ele se află la mică distanță una de alta și merită descoperite împreună, într-o excursie dedicată satelor tradiționale, nu într-o zi de plajă. Aici peisajul se schimbă: marea rămâne în urmă, iar în față apar pădurile, versanții și casele construite cu grijă pe străzi înguste.\n\nPrimul lucru care atrage atenția este arhitectura. Zidurile groase de piatră, acoperișurile din lespezi, balcoanele de lemn și curțile ascunse păstrează imaginea unei alte epoci. Unele clădiri au fost restaurate, în timp ce altele amintesc de istoria satelor și de meșteșugarii care au lucrat aici. Merită să te plimbi încet, să observi detaliile caselor și să lași loc pentru fotografii, fără să intri pe proprietăți private.\n\nMikro Kazaviti întâmpină vizitatorii cu străduțe pietruite, vegetație bogată și Biserica Sfântul Gheorghe, unul dintre reperele sale religioase. În apropierea drumului dintre cele două sate se găsește un mic teatru în aer liber asociat cu manifestările culturale Kazavitiana. Festivalul face parte din viața culturală a zonei, dar evenimentele și datele concrete trebuie verificate pentru fiecare sezon; prezența teatrului nu înseamnă că există spectacole zilnic.\n\nMai sus, Megalo Kazaviti oferă imaginea clasică a satului grecesc de munte: o piață umbrită de platani, locuri unde poți sta la masă și poteci de piatră ce pornesc printre case. Atmosfera este deosebit de plăcută într-o zi călduroasă, când umbra copacilor și ritmul liniștit al satului te îndeamnă la un prânz fără grabă. În meniurile tavernelor se regăsesc adesea preparate tradiționale din carne și vin local, însă oferta depinde de sezon și de localurile deschise.\n\nPrintre obiectivele din Megalo Kazaviti se numără Biserica celor Doisprezece Apostoli și capela Zoodochos Pigi. Ele fac parte din patrimoniul comunității și trebuie vizitate cu respect pentru activitățile religioase; intrarea în interior nu poate fi presupusă. Pădurile, viile și aleile din jur completează experiența, fără ca traseele nemarcate să fie confundate cu rute turistice amenajate.\n\nÎn regiune se află și Mănăstirea Sfântul Pantelimon, menționată frecvent în itinerariile montane ale insulei. Este însă o excursie distinctă, pentru care trebuie verificate drumul și posibilitatea vizitării. Pentru descoperirea celor două Kazaviti, rezervă aproximativ două-trei ore dacă vrei să te plimbi și să iei masa.\n\nKazaviti nu este același loc cu Prinos sau cu Skala Prinos, portul de pe coastă. Cele două mici sate formează împreună un obiectiv cultural autentic, potrivit pentru călătorii interesați de arhitectură, gastronomie, tradiții și un Thassos diferit de stațiunile de pe litoral.",
+      "history_culture": "Kazaviti cuprinde două așezări istorice, Mikro și Megalo, cunoscute și drept Mikros și Megalos Prinos. Arhitectura tradițională reunește case de piatră cu acoperișuri de lespezi și balcoane de lemn; zona a fost legată de vii și vin. Bisericile Sfântul Gheorghe, Doisprezece Apostoli și Zoodochos Pigi, alături de teatrul în aer liber și manifestările Kazavitiana, păstrează dimensiunea comunitară și culturală. Mănăstirea Sfântul Pantelimon se află în împrejurimi, ca obiectiv separat.",
+      "local_character": "Două cătune istorice și liniștite, pe versant, cu ulițe pietruite, verdeață densă și o piață de sat umbrită de platani. Nu este o stațiune și nu se află la mare.",
+      "what_to_do": "Plimbă-te prin ambele Kazaviti, admiră casele de piatră și balcoanele de lemn, oprește-te în piața din Megalo Kazaviti și încearcă o tavernă deschisă. Descoperă bisericile din exterior și verifică programul Kazavitiana înainte de o eventuală vizită la teatru.",
+      "practical_tips": "Din zona Prinos se urcă pe un drum îngust și cu curbe. Nu folosi GPS-ul satului ca indicație de parcare. Alege încălțăminte potrivită pentru pavaj inegal și pante; verifică deschiderea tavernelor și a obiectivelor, mai ales în afara sezonului. Nu presupune existența unui autobuz direct.",
+      "highlights": [
+        "Piața cu platani din Megalo Kazaviti",
+        "Case tradiționale de piatră și balcoane de lemn",
+        "Biserica Sfântul Gheorghe din Mikro Kazaviti",
+        "Teatrul de piatră și tradiția Kazavitiana",
+        "Taverne, gastronomie și vin local"
+      ],
+      "seo_title": "Kazaviti Thassos – Mikro & Megalo, sate tradiționale",
+      "seo_description": "Descoperă Mikro și Megalo Kazaviti în Thassos: case de piatră, piață cu platani, biserici istorice, gastronomie și sfaturi de vizitare.",
+      "social_caption": "Kazaviti: două sate istorice, o plimbare printre case de piatră și un prânz la umbra platanilor.",
+      "photo_alt": "Uliță pietruită și case tradiționale din Kazaviti, sat montan din Thassos."
+    },
+    "en": {
+      "name": "Kazaviti (Mikro & Megalo)",
+      "tagline": "Twin stone villages, local traditions and plane-tree shade",
+      "summary": "Mikro and Megalo Kazaviti make a memorable cultural detour on Thassos, with stone houses, cobbled lanes, old churches, a shaded square and traditional tavernas.",
+      "description": "Above the Prinos area, among the green inland slopes of Thassos, two small historic villages invite travellers to slow down: Mikro Kazaviti and Megalo Kazaviti. Also known as Mikros Prinos and Megalos Prinos, they stand a short distance apart and are best explored together. The visit is about traditional architecture, food and village life rather than beaches or busy resort facilities.\n\nThe houses are part of the attraction. Thick stone walls, slate roofs, projecting wooden balconies and discreet courtyards recall generations of local building traditions. Some buildings have been lovingly restored, while others reveal the quieter, layered history of these hamlets. Follow the cobbled lanes at a relaxed pace and appreciate details from the public pathways, respecting residents and private entrances.\n\nMikro Kazaviti is the lower of the two on the usual approach from Prinos. Its leafy lanes lead past the Church of Saint George, a familiar village landmark. A small outdoor stone theatre near the route between the villages is associated with the Kazavitiana cultural gatherings. Summer performances and exhibitions may be arranged, but dates and events need checking each year; an empty theatre is not an advertised daily attraction.\n\nHigher up, Megalo Kazaviti centres on a characterful square shaded by mature plane trees. This is an appealing place for a coffee or an unhurried meal when the village tavernas are open. Traditional meat dishes, slow-cooked recipes and local wine are closely associated with the area, although menus, opening hours and availability vary by season. The square is also a natural starting point for discovering the surrounding narrow streets.\n\nAmong the historic religious landmarks are the Church of the Twelve Apostles and the Zoodochos Pigi chapel in Megalo Kazaviti, along with Saint George in Mikro Kazaviti. These are community and worship spaces; interior access should not be assumed. The wooded slopes and old vineyard landscape create a striking contrast with the island's seafront resorts, and any longer nature walk should follow an appropriate route.\n\nThe Monastery of Saint Panteleimon is often mentioned in connection with Kazaviti, but it lies beyond the villages and deserves separate planning. Check road conditions and current visitor access before making the additional journey. A leisurely visit to both hamlets normally fits into about two or three hours, with more time if you stop for lunch.\n\nKazaviti must not be confused with the larger inland settlement of Prinos or with Skala Prinos, the separate ferry-port area on the coast. Though tiny in population, these paired historic hamlets offer one of Thassos's most distinctive village experiences for visitors interested in heritage, photography, food and the island's quieter side.",
+      "history_culture": "The two Kazaviti hamlets, also called Mikros and Megalos Prinos, preserve an important piece of Thassian village architecture: slate-roofed stone houses, wooden balconies, cobbled lanes and a history associated with vineyards and wine. Saint George, the Twelve Apostles and Zoodochos Pigi are religious landmarks, while the outdoor theatre and Kazavitiana events express a continuing cultural tradition. Saint Panteleimon Monastery is a nearby but separate outing.",
+      "local_character": "Two small historic inland hamlets among trees and hills, with stone lanes and a traditional plane-tree square. They are heritage destinations, not seaside resorts.",
+      "what_to_do": "Explore both villages on foot, photograph the architectural details respectfully, have lunch or coffee at a tavern when open, see the historic churches from public areas and check the Kazavitiana programme if you hope to attend an event.",
+      "practical_tips": "Arrive via the rising, winding road from the Prinos area; the mapped settlement point is not a verified parking spot. Wear shoes suited to steep cobbles. Check seasonal food service, religious access and events, and do not assume regular buses reach both hamlets.",
+      "highlights": [
+        "Megalo Kazaviti plane-tree village square",
+        "Traditional stone houses with wooden balconies",
+        "Saint George Church in Mikro Kazaviti",
+        "Small stone theatre and Kazavitiana tradition",
+        "Local tavernas, hearty food and wine"
+      ],
+      "seo_title": "Kazaviti, Thassos – Mikro & Megalo historic villages",
+      "seo_description": "Visit Mikro and Megalo Kazaviti on Thassos: stone houses, shaded village square, historic churches, local tavernas and practical travel tips.",
+      "social_caption": "A different side of Thassos: stone lanes, mountain villages and a table beneath the plane trees in Kazaviti.",
+      "photo_alt": "Traditional stone houses and cobbled lane in Kazaviti on Thassos island."
+    },
+    "el": {
+      "name": "Καζαβίτι (Μικρό & Μεγάλο)",
+      "tagline": "Δύο παραδοσιακοί οικισμοί, πέτρινα σπίτια και πλατάνια",
+      "summary": "Το Μικρό και το Μεγάλο Καζαβίτι προσφέρουν μια ξεχωριστή πολιτιστική εκδρομή στη Θάσο, με λιθόστρωτα σοκάκια, πέτρινα σπίτια, εκκλησίες και παραδοσιακές ταβέρνες.",
+      "description": "Στις καταπράσινες πλαγιές πάνω από την περιοχή του Πρίνου βρίσκονται δύο μικροί ιστορικοί οικισμοί: το Μικρό και το Μεγάλο Καζαβίτι, γνωστοί και ως Μικρός και Μεγάλος Πρίνος. Η μικρή απόσταση ανάμεσά τους επιτρέπει μια κοινή επίσκεψη, ιδανική για όσους θέλουν να γνωρίσουν την παραδοσιακή πλευρά της Θάσου, μακριά από τη θάλασσα και την κίνηση των παραλιακών θερέτρων.\n\nΕδώ πρωταγωνιστούν τα παλιά σπίτια με τις πέτρινες τοιχοποιίες, τις στέγες από σχιστόπλακες, τα ξύλινα μπαλκόνια και τις ήσυχες αυλές. Πολλά κτίσματα έχουν αναστηλωθεί, ενώ άλλα θυμίζουν την ιστορική εξέλιξη των χωριών. Τα λιθόστρωτα καλντερίμια είναι το καλύτερο σημείο εκκίνησης για μια αργή βόλτα με φωτογραφίες, πάντα με σεβασμό στις κατοικίες και τους ιδιωτικούς χώρους.\n\nΣτο Μικρό Καζαβίτι, το πράσινο και οι στενοί δρόμοι πλαισιώνουν τον ναό του Αγίου Γεωργίου. Κοντά στη διαδρομή που συνδέει τους οικισμούς υπάρχει ένα μικρό υπαίθριο πέτρινο θέατρο, συνδεδεμένο με τις πολιτιστικές εκδηλώσεις Καζαβίτια. Οι ημερομηνίες και το πρόγραμμα αλλάζουν, επομένως η παρουσία θεάτρου δεν σημαίνει ότι υπάρχει παράσταση κάθε ημέρα.\n\nΛίγο ψηλότερα, το Μεγάλο Καζαβίτι ξεχωρίζει για την πλατεία του, που σκιάζεται από μεγάλα πλατάνια. Όταν λειτουργούν οι τοπικές ταβέρνες, είναι όμορφη επιλογή για καφέ ή φαγητό χωρίς βιασύνη. Παραδοσιακά πιάτα με κρέας, μαγειρευτές γεύσεις και κρασί της περιοχής συνδέονται με τη γαστρονομική φήμη του χωριού, αν και οι επιλογές διαφέρουν ανάλογα με την εποχή.\n\nΣτα αξιοθέατα περιλαμβάνονται ο ναός των Δώδεκα Αποστόλων και το παρεκκλήσι της Ζωοδόχου Πηγής στο Μεγάλο Καζαβίτι. Πρόκειται για χώρους λατρείας και η πρόσβαση στο εσωτερικό τους δεν είναι δεδομένη. Η γύρω φύση, τα δάση και οι παλιές καλλιέργειες προσφέρουν μια γαλήνια εικόνα του νησιού, αλλά για μεγαλύτερες πεζοπορίες χρειάζεται έλεγχος της διαδρομής.\n\nΗ Μονή Αγίου Παντελεήμονα βρίσκεται στην ευρύτερη περιοχή και αποτελεί ξεχωριστή εκδρομή. Πριν την επισκεφθείτε, ελέγξτε την κατάσταση του δρόμου και τη δυνατότητα πρόσβασης. Για μια χαλαρή γνωριμία με τους δύο οικισμούς και μια στάση για φαγητό, υπολογίστε περίπου δύο με τρεις ώρες.\n\nΤο Καζαβίτι δεν είναι ούτε το μεγαλύτερο χωριό του Πρίνου ούτε η παραλιακή Σκάλα Πρίνου με το λιμάνι. Είναι ένα ζευγάρι μικρών ιστορικών οικισμών με ιδιαίτερη αρχιτεκτονική, ζωντανές τοπικές μνήμες και αυθεντική ατμόσφαιρα.",
+      "history_culture": "Το Μικρό και το Μεγάλο Καζαβίτι, γνωστά και ως Μικρός και Μεγάλος Πρίνος, διατηρούν πέτρινα σπίτια, σχιστολιθικές στέγες, ξύλινα μπαλκόνια και καλντερίμια. Οι αμπελώνες και η τοπική οινοπαραγωγή ανήκουν στην ιστορία της περιοχής. Οι ναοί του Αγίου Γεωργίου, των Δώδεκα Αποστόλων και της Ζωοδόχου Πηγής, μαζί με τις εκδηλώσεις Καζαβίτια, συνθέτουν την πολιτιστική κληρονομιά.",
+      "local_character": "Δύο μικροί ορεινοί οικισμοί με πέτρα, πυκνή βλάστηση και πλατεία κάτω από πλατάνια. Ο τόπος προτείνεται για πολιτιστική βόλτα και όχι ως παραθαλάσσιο θέρετρο.",
+      "what_to_do": "Περπατήστε στα καλντερίμια και των δύο χωριών, παρατηρήστε την αρχιτεκτονική, σταματήστε στην πλατεία για φαγητό αν υπάρχει ανοικτή ταβέρνα και δείτε τους ναούς με σεβασμό. Ελέγξτε το πρόγραμμα των Καζαβιτίων για εκδηλώσεις.",
+      "practical_tips": "Η πρόσβαση γίνεται από τον Πρίνο μέσω ανηφορικού δρόμου με στροφές. Το σημείο GPS είναι αναφορά οικισμού, όχι επιβεβαιωμένος χώρος στάθμευσης. Προτιμήστε σταθερά παπούτσια και ελέγξτε ώρες λειτουργίας και μεταφορές, ιδιαίτερα εκτός καλοκαιριού.",
+      "highlights": [
+        "Πλατεία με πλατάνια στο Μεγάλο Καζαβίτι",
+        "Πέτρινα σπίτια και ξύλινα μπαλκόνια",
+        "Ναός Αγίου Γεωργίου στο Μικρό Καζαβίτι",
+        "Πέτρινο θέατρο και εκδηλώσεις Καζαβίτια",
+        "Παραδοσιακές ταβέρνες και τοπικό κρασί"
+      ],
+      "seo_title": "Καζαβίτι Θάσου – Μικρό & Μεγάλο, παραδοσιακά χωριά",
+      "seo_description": "Ανακαλύψτε το Μικρό και Μεγάλο Καζαβίτι στη Θάσο: πέτρινα σπίτια, πλατεία με πλατάνια, παλιές εκκλησίες, ταβέρνες και συμβουλές.",
+      "social_caption": "Δύο χωριά, πέτρινα καλντερίμια και δροσιά κάτω από τα πλατάνια: αυτό είναι το Καζαβίτι της Θάσου.",
+      "photo_alt": "Παραδοσιακό λιθόστρωτο σοκάκι και πέτρινα σπίτια στο Καζαβίτι Θάσου."
+    },
+    "de": {
+      "name": "Kazaviti (Mikro & Megalo)",
+      "tagline": "Zwei historische Bergdörfer mit Steinhäusern und Platanen",
+      "summary": "Mikro und Megalo Kazaviti sind ein reizvolles Ausflugsziel auf Thassos: gepflasterte Gassen, historische Steinhäuser, Dorfkirchen, schattige Plätze und Tavernen.",
+      "description": "Oberhalb der Region Prinos liegen in den grünen Berghängen von Thassos zwei kleine historische Siedlungen: Mikro und Megalo Kazaviti, auch Mikros und Megalos Prinos genannt. Weil sie nur ein kurzes Stück voneinander entfernt liegen, lassen sie sich gut gemeinsam erkunden. Es geht hier nicht um Strände oder das Programm eines Ferienortes, sondern um Architektur, lokale Küche, Dorfgeschichte und eine angenehm ruhige Atmosphäre.\n\nDie traditionellen Häuser prägen das Bild. Massive Steinmauern, Dächer aus Schieferplatten, hölzerne Balkone und kleine Innenhöfe erzählen von handwerklichem Können. Manche Gebäude wurden restauriert, andere bewahren sichtbare Spuren der Vergangenheit. Nehmen Sie sich Zeit für die schmalen gepflasterten Wege und fotografieren Sie Details von öffentlichen Bereichen aus, ohne Privatgrundstücke zu betreten.\n\nMikro Kazaviti erreicht man auf der üblichen Strecke von Prinos zuerst. Zwischen Bäumen und alten Gassen steht die Kirche Agios Georgios, ein wichtiger Bezugspunkt der Ortschaft. An der Verbindung zum Nachbarort liegt ein kleines steinernes Freilufttheater, das mit den Kulturveranstaltungen Kazavitiana verbunden ist. Aufführungen finden nicht automatisch täglich statt: Die aktuellen Termine müssen für jede Saison überprüft werden.\n\nWeiter bergauf empfängt Megalo Kazaviti die Besucher mit einem von großen Platanen beschatteten Dorfplatz. Dort lässt es sich, sofern Tavernen geöffnet sind, bei einem Kaffee oder einem gemütlichen Essen verweilen. Langsam gegarte Fleischgerichte und Wein aus der Region gehören zur kulinarischen Identität des Ortes. Welche Speisen erhältlich sind und wann geöffnet ist, hängt jedoch von der Jahreszeit ab.\n\nZu den religiösen Sehenswürdigkeiten gehören die Kirche der Zwölf Apostel und die Kapelle Zoodochos Pigi in Megalo Kazaviti. Die Gebäude sind Teil des Gemeindelebens; eine Besichtigung der Innenräume ist nicht jederzeit möglich. Wälder und Weinbauflächen umgeben die beiden Siedlungen und zeigen eine ganz andere Seite der Insel als die Strandorte. Für längere Wanderungen sollten Wege und Bedingungen vorher geprüft werden.\n\nDas Kloster Agios Panteleimon liegt in der weiteren Umgebung, gehört aber nicht zum Spaziergang durch die Dörfer. Prüfen Sie Zufahrt und Besuchsmöglichkeiten, bevor Sie die zusätzliche Strecke einplanen. Für einen gemütlichen Rundgang durch beide Orte mit einer Pause sind ungefähr zwei bis drei Stunden sinnvoll.\n\nKazaviti darf nicht mit dem größeren Dorf Prinos oder dem Hafenort Skala Prinos verwechselt werden. Obwohl die beiden Weiler klein sind, zählen sie zu den charaktervollen Kulturerlebnissen von Thassos – besonders für Reisende, die traditionelle Baukunst, Natur und regionale Gastfreundschaft schätzen.",
+      "history_culture": "Mikro und Megalo Kazaviti, auch Mikros und Megalos Prinos, bewahren traditionelle Steinarchitektur mit Schieferdächern, Holzveranden und Kopfsteinpflaster. Weinberge und Weinbau gehören zum historischen Landschaftsbild. Die Kirchen Agios Georgios, der Zwölf Apostel und Zoodochos Pigi sowie das kleine Theater und die Kazavitiana-Veranstaltungen spiegeln das religiöse und kulturelle Leben wider.",
+      "local_character": "Zwei historische Weiler in grüner Berglandschaft, mit schmalen Gassen und einem Dorfplatz unter alten Platanen. Ein Kulturziel, kein Badeort.",
+      "what_to_do": "Erkunden Sie beide Dörfer zu Fuß, achten Sie auf Steinhäuser und Holzbalkone und machen Sie eine Pause auf dem Platz von Megalo Kazaviti. Besichtigen Sie Kirchen von öffentlich zugänglichen Bereichen aus und prüfen Sie den Kalender der Kazavitiana-Veranstaltungen.",
+      "practical_tips": "Die Zufahrt von Prinos führt bergauf über kurvige Straßen. Der GPS-Ortspunkt ist kein bestätigter Parkplatz. Feste Schuhe sind für Pflaster und Steigungen sinnvoll. Prüfen Sie Öffnungszeiten der Tavernen, Veranstaltungen und mögliche Busverbindungen vor der Fahrt.",
+      "highlights": [
+        "Platanenplatz in Megalo Kazaviti",
+        "Steinhäuser mit traditionellen Holzbalkonen",
+        "Kirche Agios Georgios in Mikro Kazaviti",
+        "Freilufttheater und Kazavitiana-Kultur",
+        "Tavernen, Fleischgerichte und lokaler Wein"
+      ],
+      "seo_title": "Kazaviti Thassos – Mikro & Megalo, traditionelle Dörfer",
+      "seo_description": "Entdecken Sie Mikro und Megalo Kazaviti auf Thassos: historische Steinhäuser, Platanenplatz, Kirchen, Tavernen und praktische Tipps.",
+      "social_caption": "Steingassen, alte Balkone und eine Pause im Schatten der Platanen: Kazaviti zeigt Thassos von seiner ruhigen Seite.",
+      "photo_alt": "Steinhäuser und gepflasterte Dorfgasse in Kazaviti auf Thassos."
+    },
+    "bg": {
+      "name": "Казавити (Микро и Мегало)",
+      "tagline": "Две традиционни села с каменни къщи и вековни чинари",
+      "summary": "Микро и Мегало Казавити предлагат културна разходка из Тасос: каменни къщи, тесни калдъръмени улици, стари църкви, сенчест площад и таверни.",
+      "description": "Над района на Принос, сред зелените вътрешни склонове на Тасос, се намират две малки исторически селища: Микро и Мегало Казавити, известни също като Микрос и Мегалос Принос. Разстоянието между тях е малко и най-добре е да се разгледат заедно. Това е екскурзия за любителите на традициите и местния живот, а не посещение на морски курорт.\n\nОще при първата разходка впечатляват каменните къщи, покривите от каменни плочи, дървените балкони и тихите дворове. Част от сградите са възстановени, а други пазят следите от миналото. По тесните калдъръмени улички се откриват красиви архитектурни детайли, които могат да се снимат от обществените пространства, без да се нарушава спокойствието на жителите.\n\nМикро Казавити обикновено е първото село по пътя от Принос. Сред дърветата и старите улици се намира църквата „Свети Георги“, важна част от местното наследство. Близо до пътя между двете селища има малък открит каменен театър, свързан с културните прояви „Казавитиана“. Датите и програмата се променят всяка година и не бива да се приема, че представления има ежедневно.\n\nПо-нагоре Мегало Казавити посреща посетителите с традиционен площад, засенчен от високи чинари. Когато местните таверни работят, тук е приятно да се изпие кафе или да се обядва спокойно. Местната кухня се свързва с печени и бавно приготвени месни ястия, домашни рецепти и вино от района. Менютата и работното време зависят от сезона.\n\nСред историческите забележителности са църквата на Дванадесетте апостоли и параклисът „Живоносен източник“ в Мегало Казавити. Това са религиозни пространства и достъпът до вътрешността им не е гарантиран. Околните гори и стари лозя допълват живописния пейзаж, но по-дългите преходи изискват проверка на маршрута и условията.\n\nМанастирът „Свети Пантелеймон“ се намира в по-широкия район, но е отделна екскурзия. Проверете състоянието на пътя и възможността за посещение предварително. За спокойна разходка из двете села и кратка почивка са подходящи около два-три часа.\n\nКазавити не е същото място като по-голямото село Принос или крайбрежната Скала Принос с фериботното пристанище. Макар селищата да са малки, те предлагат ценна среща с архитектурата, традициите и тихата страна на острова.",
+      "history_culture": "Микро и Мегало Казавити, наричани и Микрос и Мегалос Принос, пазят традиционни каменни къщи с покриви от плочи и дървени балкони. Лозята и местното вино са част от историята на района. Църквите „Свети Георги“, „Дванадесетте апостоли“ и „Живоносен източник“, както и театърът и проявите „Казавитиана“, са важни културни елементи.",
+      "local_character": "Две тихи исторически селища в зелена планинска област, с калдъръмени улици и площад под чинари. Подходящи за културен туризъм, не за плажна почивка.",
+      "what_to_do": "Разгледайте двете села пеша, обърнете внимание на старите каменни къщи, направете почивка на площада в Мегало Казавити и посетете отворена таверна. Вижте църквите отвън и проверете програмата на „Казавитиана“.",
+      "practical_tips": "Пътят от Принос се изкачва по завои. GPS точката показва селище, а не потвърден паркинг. Носете удобни обувки за неравните улици и проверете работното време, събитията и транспорта, особено извън сезона.",
+      "highlights": [
+        "Площадът с чинари в Мегало Казавити",
+        "Каменни къщи и дървени балкони",
+        "Църквата „Свети Георги“ в Микро Казавити",
+        "Каменен театър и традицията „Казавитиана“",
+        "Местни таверни, храна и вино"
+      ],
+      "seo_title": "Казавити, Тасос – Микро и Мегало, традиционни села",
+      "seo_description": "Открийте Микро и Мегало Казавити на Тасос: каменни къщи, площад с чинари, стари църкви, таверни и съвети за посещение.",
+      "social_caption": "Другото лице на Тасос: каменни улици, зелени склонове и обяд под чинарите на Казавити.",
+      "photo_alt": "Каменни къщи и калдъръмена улица в село Казавити на остров Тасос."
+    },
+    "sr": {
+      "name": "Kazaviti (Mikro i Megalo)",
+      "tagline": "Dva stara planinska sela, kamene kuće i hlad platana",
+      "summary": "Mikro i Megalo Kazaviti su zanimljiv kulturni izlet na Tasosu: kamene kuće, kaldrmisane ulice, stare crkve, trg u hladu platana i tradicionalne taverne.",
+      "description": "Iznad oblasti Prinos, na zelenim obroncima u unutrašnjosti Tasosa, nalaze se dva mala istorijska naselja: Mikro i Megalo Kazaviti, poznata i kao Mikros i Megalos Prinos. Udaljena su jedno od drugog svega kratkom vožnjom ili šetnjom, pa je najbolje posetiti ih zajedno. Ovaj izlet je posvećen tradiciji, arhitekturi i lokalnoj kuhinji, a ne plažama i velikim letovalištima.\n\nStare kuće od kamena, krovovi od kamenih ploča, drveni balkoni i uske kaldrmisane ulice čuvaju prepoznatljiv izgled sela. Neke kuće su obnovljene, dok druge pokazuju tragove dugog života u planini. Najlepše je hodati polako, posmatrati detalje i fotografisati sa javnih staza uz poštovanje privatnih dvorišta i meštana.\n\nMikro Kazaviti je prvo selo na uobičajenom putu iz Prinosa. U zelenilu se nalazi crkva Svetog Đorđa, jedno od važnih obeležja naselja. Uz put prema drugom selu stoji malo otvoreno kameno pozorište povezano sa kulturnim manifestacijama Kazavitijana. Datumi događaja se razlikuju od godine do godine i nije opravdano očekivati predstave svakog dana.\n\nNešto više, Megalo Kazaviti ima tradicionalni trg u hladu visokih platana. Kada su taverne otvorene, prijatno je zastati na kafi ili ručku bez žurbe. Pečeno i sporo kuvano meso, domaća jela i vino iz ovog kraja deo su gastronomske tradicije, ali ponuda i radno vreme zavise od sezone. Sa trga počinju male ulice koje prolaze pored starih kamenih fasada i balkona.\n\nMeđu verskim znamenitostima su crkva Dvanaest apostola i kapela Živonosnog izvora u Megalo Kazavitiju, dok je crkva Svetog Đorđa u Mikro Kazavitiju. Njihova unutrašnjost nije uvek otvorena, jer su to prvenstveno mesta lokalne zajednice i bogosluženja. Šume i nekadašnji vinogradi oko sela pružaju miran kontrast prometnim obalskim delovima ostrva.\n\nManastir Svetog Pantelejmona nalazi se u široj okolini i zahteva poseban plan putovanja. Pre polaska proverite stanje puta i mogućnost posete. Za šetnju kroz oba sela i predah u taverni obično je dovoljno oko dva do tri sata, dok duža šetnja prirodom zahteva dodatnu pripremu.\n\nKazaviti ne treba mešati sa većim naseljem Prinos niti sa obalskom Skalom Prinos, gde se nalazi trajektna luka. Iako imaju malo stanovnika, ova dva istorijska sela nude autentično iskustvo Tasosa za putnike zainteresovane za tradiciju, fotografiju i mirniji ritam ostrva.",
+      "history_culture": "Mikro i Megalo Kazaviti, poznati i kao Mikros i Megalos Prinos, čuvaju tradicionalne kamene kuće, krovove od kamenih ploča, drvene balkone i stare kaldrmisane ulice. Vinogradi i vino deo su istorije kraja. Crkve Svetog Đorđa, Dvanaest apostola i Živonosnog izvora, kao i malo pozorište i manifestacije Kazavitijana, čine važnu kulturnu baštinu.",
+      "local_character": "Dva mala istorijska sela na zelenim obroncima, sa kamenim ulicama i trgom pod platanima. Kulturno odredište, ne primorsko letovalište.",
+      "what_to_do": "Prošetajte kroz oba naselja, pogledajte kamene kuće i drvene balkone, odmorite se na trgu Megalo Kazavitija i probajte domaću hranu ako je taverna otvorena. Crkve posmatrajte uz poštovanje, a program Kazavitijane proverite unapred.",
+      "practical_tips": "Od oblasti Prinos vodi uzbrdica sa krivinama. GPS oznaka naselja nije provereno parking mesto. Obujte čvrstu obuću za neravne staze i proverite radno vreme, događaje i prevoz, naročito van sezone.",
+      "highlights": [
+        "Trg sa platanima u Megalo Kazavitiju",
+        "Kamene kuće i drveni balkoni",
+        "Crkva Svetog Đorđa u Mikro Kazavitiju",
+        "Kameno pozorište i tradicija Kazavitijana",
+        "Domaće taverne, hrana i lokalno vino"
+      ],
+      "seo_title": "Kazaviti Tasos – Mikro i Megalo, tradicionalna sela",
+      "seo_description": "Otkrijte Mikro i Megalo Kazaviti na Tasosu: kamene kuće, trg u hladu platana, stare crkve, taverne i saveti za obilazak.",
+      "social_caption": "Kaldrma, stare kamene kuće i ručak u hladu platana: Kazaviti otkriva mirniji Tasos.",
+      "photo_alt": "Kamene kuće i kaldrmisana ulica u Kazavitiju na ostrvu Tasos."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/kazaviti/images/kazaviti1.webp",
+    "gallery": [
+      "destinations/thassos/areas/kazaviti/images/kazaviti2.webp",
+      "destinations/thassos/areas/kazaviti/images/kazaviti3.webp",
+      "destinations/thassos/areas/kazaviti/images/kazaviti4.webp",
+      "destinations/thassos/areas/kazaviti/images/kazaviti5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/kazaviti/images/",
+    "suggested_asset_names": [
+      "kazaviti1.webp",
+      "kazaviti2.webp",
+      "kazaviti3.webp",
+      "kazaviti4.webp",
+      "kazaviti5.webp"
+    ],
+    "image_policy": "Five genuine, commercially licensed landscape WebP images should document Kazaviti only: (1) village overview or Megalo Kazaviti main square, (2) cobbled street and slate-roofed stone homes, (3) Mikro Kazaviti / Saint George exterior, (4) plane-tree square and traditional tavernas, (5) stone theatre or woodland architecture. Do not mislabel Prinos village, Skala Prinos ferry harbour or nearby beaches as Kazaviti. Validate provenance, permissions, subject identity and local visibility. Paths are placeholders; no photos are supplied.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "mapcarta_megalos",
+      "kind": "osm_settlement",
+      "title": "Mapcarta / OpenStreetMap — Megalos Prinos",
+      "url": "https://mapcarta.com/13816180",
+      "detail": "OSM place=hamlet node 1477877633; 40.72436 N 24.62462 E; Megalo Kazaviti alias; not a car parking coordinate.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "mapcarta_mikros",
+      "kind": "osm_settlement",
+      "title": "Mapcarta / OpenStreetMap — Mikros Prinos",
+      "url": "https://mapcarta.com/13815898",
+      "detail": "OSM place=hamlet node 1477877645; 40.72178 N 24.61725 E; separate from Megalo Kazaviti.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "regional_tourism",
+      "kind": "regional_public_tourism",
+      "title": "East Macedonia and Thrace — Traditional settlement of Kazaviti",
+      "url": "https://www.emtgreece.com/ro/proorismos/asezarea-traditionala-kazaviti",
+      "detail": "Regional tourism guide: paired villages, old buildings, churches, cultural theatre, monastery in surroundings, food.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "national_tourism_villages",
+      "kind": "national_tourism",
+      "title": "Discover Greece — Mountain village-hopping in Thassos",
+      "url": "https://www.discovergreece.com/experiences/thassos-mountain-villages",
+      "detail": "Mikro/Megalo distinction, church landmarks, plane-tree square, cuisine, Kazavitiana, monastery.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "local_guide",
+      "kind": "local_tourism",
+      "title": "Go Thassos — Kazaviti",
+      "url": "https://www.go-thassos.gr/about-thassos/places/kazaviti",
+      "detail": "Architecture, half-kilometre relation, village square, traditional tavernas and cultural events.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "local_heritage",
+      "kind": "travel_reference",
+      "title": "Kazaviti — Nikana Travel Guide",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/places/1952/kazaviti",
+      "detail": "Old village identity, Prinos approach and mountain vegetation, tavernas; historical anecdotes not asserted as proven.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "explore_thassos_kazaviti",
+      "kind": "local_tourism",
+      "title": "Explore Thassos — Kazavitia: A village with a beautiful view",
+      "url": "https://explore-thassos.com/kazavitia/",
+      "detail": "Describes the two traditional mountain villages, 4 km Prinos approach, stone architecture, square, food and the nearby monastery; complex antiquity narratives are intentionally not claimed as proven.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "greek_antiquity_toponym",
+      "kind": "academic_toponym",
+      "title": "Ecole française d’Athènes — Prinos / Megalos Prinos",
+      "url": "https://chronique.efa.gr/?id=28950&r=topo_public",
+      "detail": "Historically documented Megalos Prinos / Mega Kazavition locality; polygon does not equal a user arrival point.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "tourism_guide_architecture",
+      "kind": "travel_reference",
+      "title": "Thasos TravelFind — Small & Big Kazaviti",
+      "url": "https://thasos.travelfind.gr/en/info/spot/small-big-kazaviti",
+      "detail": "Traditional houses, stone and wood, cuisine and village pair; uncertain ancient claims omitted.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "community_map",
+      "kind": "openstreetmap_derived_inventory",
+      "title": "Katatopisi — Thasos island places listing",
+      "url": "https://katatopisi.gr/en/island/thasos/",
+      "detail": "2026 OSM-derived inventory identifies Megalos and Mikros Prinos separately; note other coastal settlements distinct from the villages.",
+      "checked_on": "2026-10-28"
+    }
+  ],
+  "editorial": {
+    "status": "six_language_historic_village_group_profile_complete_pending_images_rights_and_vehicle_arrival_verification",
+    "facts_checked_on": "2026-10-28",
+    "translations_written_on": "2026-10-28",
+    "coverage": "10_source_urls_6_full_language_profiles_5_preset_WebP_paths_1_combined_visitor_area_for_two_separate_hamlets",
+    "requires_manual_review": [
+      "Kazaviti visitor group comprises separately mapped Megalos Prinos (40.72436,24.62462) and Mikros Prinos (40.72178,24.61725). Main center is ONLY Megalos Prinos, not midpoint or parking/arrival point.",
+      "Confirm whether to maintain the combined Kazaviti tourism profile rather than two separate hamlet profile records; municipality mapping retains separate OSM nodes.",
+      "Kastro excluded by user from area profile itinerary; do not reintroduce solely for its historic significance.",
+      "Prinos village is NOT the coastal ferry port Skala Prinos / Ormos Prinou and is NOT one of the two Kazaviti hamlets. Independently review missing relevant coastal villages such as Kalyvia, Ormos Prinou (already grouped with Skala Prinos), and Thymonia before adding as new areas.",
+      "Confirm legal vehicle arrival and public parking in the villages. No verified parking coordinates currently available.",
+      "Confirm current Kazavitiana programme and stone theatre event access before advertising dates or tickets.",
+      "Verify access and worship opening hours for Saint George, Twelve Apostles and Zoodochos Pigi; no guaranteed interiors.",
+      "Monastery of Saint Panteleimon is in the wider mountain area, not the Megalo or Mikro Kazaviti square. Validate its access separately if featured as a route.",
+      "Confirm fresh bus service information with local transport operator; no year-round direct service to both villages is asserted.",
+      "Obtain five real WebP photographs depicting Kazaviti, verify identity, licences, attribution and commercial reuse permissions.",
+      "Review source URLs and translations editorially before public release."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "No photographs are bundled, scraped or licensed by this JSON. The paths are preconfigured for user-supplied WebP images; copyright, attribution and rights must be independently cleared."
+  }
+}

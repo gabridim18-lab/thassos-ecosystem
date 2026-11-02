@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "id": "gr-thassos-beach-bar-anemos-beach-bar-restaurant",
+  "slug": "anemos-beach-bar-restaurant",
+  "category": "beach-bars",
+  "name": "Anemos Beach Bar & Restaurant",
+  "venueType": "beach_bar_and_restaurant",
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "areaSlug": "skala-sotiros",
+    "beachSlug": "skala-sotiros",
+    "address": "Σκάλα Σωτήρος 64004, Greece",
+    "latitude": 40.7273947517134,
+    "longitude": 24.54638756071436,
+    "coordinatesSource": "user_supplied_google_maps_coordinates",
+    "setting": [
+      "beachfront",
+      "seaside",
+      "sunset_views"
+    ]
+  },
+  "contact": {
+    "phone": "+30 697 234 3337",
+    "phoneUri": "tel:+306972343337"
+  },
+  "experience": {
+    "ambienceReported": [
+      "casual",
+      "cosy",
+      "quiet",
+      "romantic_at_sunset",
+      "family_friendly"
+    ],
+    "beachFeaturesVisibleInPhotos": [
+      "sun_loungers",
+      "straw_parasols",
+      "seaside_tables",
+      "shaded_terrace"
+    ],
+    "foodAndDrinksShownInPhotographedMenu": [
+      "greek_salads",
+      "traditional_appetizers",
+      "fish",
+      "seafood",
+      "grilled_meats",
+      "beer",
+      "wine",
+      "coffee"
+    ],
+    "visitorReviewThemes": [
+      "friendly_and_welcoming_staff",
+      "generous_food_portions",
+      "pleasant_seaside_setting",
+      "quiet_atmosphere",
+      "sunset_dining"
+    ],
+    "servicesReported": [
+      "dine_in",
+      "takeaway",
+      "table_service",
+      "dinner",
+      "dessert",
+      "bar_on_site",
+      "toilet"
+    ],
+    "goodForReported": [
+      "families_with_children",
+      "couples",
+      "groups",
+      "solo_dining"
+    ]
+  },
+  "beachService": {
+    "sunLoungersVisible": true,
+    "parasolsVisible": true,
+    "loungerPricingStatus": "not_confirmed",
+    "minimumConsumptionStatus": "not_confirmed",
+    "reservationPolicyStatus": "not_confirmed",
+    "note": "Photos show a beach setup. They do not establish whether loungers are free, paid or require minimum consumption."
+  },
+  "practical": {
+    "reservationListing": "accepts_reservations_reported_not_operator_verified",
+    "paymentMethodsReported": [
+      "credit_card",
+      "debit_card",
+      "NFC_contactless"
+    ],
+    "parkingReported": [
+      "free_parking_lot",
+      "visitor_review_mentions_plenty_of_spaces"
+    ],
+    "familyFriendlyReported": true,
+    "reportsProvenance": "Google Maps listing and visitor reviews supplied by user; operating conditions may change."
+  },
+  "openingHours": {
+    "listingClaim": "24_hours_daily",
+    "verifiedByOperator": false,
+    "publishAsConfirmedHours": false,
+    "timezone": "Europe/Athens",
+    "note": "Google Maps snapshot supplied by the user shows 24 hours every day. Seasonal operation and actual kitchen/bar hours must be confirmed."
+  },
+  "pricingGuide": {
+    "currency": "EUR",
+    "visitorReportedTypicalSpendMin": 15,
+    "visitorReportedTypicalSpendMax": 30,
+    "reportsCount": 78,
+    "notAnOfficialPrice": true,
+    "note": "Individual reviews mention different amounts, including EUR 25–40/person. The photographed menu is historical reference only."
+  },
+  "menu": {
+    "file": "menu.json",
+    "status": "historical_reference_unverified",
+    "publishAsCurrent": false
+  },
+  "translations": {
+    "ro": {
+      "tagline": "Gusturi grecești, mare și apusuri în Skala Sotiros",
+      "shortDescription": "Beach bar și restaurant chiar pe malul mării în Skala Sotiros, cu terasă umbrită, șezlonguri lângă apă și preparate grecești din pește, fructe de mare și carne la grătar.",
+      "description": "Anemos Beach Bar & Restaurant se află lângă mare, în Skala Sotiros, pe insula Thassos. Terasa cu mese umbrite de copaci, priveliștea către albastrul Mării Egee și zona de plajă cu umbrele din paie creează un loc plăcut pentru o pauză lungă la malul apei. Meniul fotografiat cuprinde salate grecești, aperitive tradiționale, pește, caracatiță, creveți, calamari și preparate la grătar, alături de vinuri, bere și cafea. Poți veni pentru o masă liniștită în familie, o după-amiază între prieteni sau o cină cu vedere spre apus. Vizitatorii au remarcat în recenzii ospitalitatea personalului, porțiile generoase și atmosfera relaxată. Întreabă personalul despre peștele zilei și verifică în avans programul, condițiile șezlongurilor și meniul actual.",
+      "seoTitle": "Anemos Beach Bar & Restaurant Skala Sotiros | Thassos",
+      "seoDescription": "Descoperă Anemos din Skala Sotiros, Thassos: terasă lângă mare, preparate grecești, pește, fructe de mare, șezlonguri și apusuri.",
+      "menuNote": "Meniul și prețurile din fotografii sunt de referință, neconfirmate ca actuale."
+    },
+    "en": {
+      "tagline": "Greek flavours, sea breezes and sunsets in Skala Sotiros",
+      "shortDescription": "A beachfront bar and restaurant in Skala Sotiros, Thassos, with shaded terrace seating, nearby loungers and Greek fish, seafood and grilled dishes.",
+      "description": "Anemos Beach Bar & Restaurant sits beside the water in Skala Sotiros on Thassos. Shaded tables beneath trees, wide views of the Aegean and a beach area with straw parasols make it a relaxing stop by the sea. The photographed menu features Greek salads and traditional appetizers as well as fish, octopus, shrimp, calamari and grilled meats, alongside wine, beer and coffee. It is an inviting setting for a family meal, an easy-going afternoon with friends or dinner as the sun sets. Visitor reviews particularly mention friendly hospitality, generous portions and a calm atmosphere. Ask the staff about the catch of the day and confirm seasonal hours, lounger terms and the latest menu before visiting.",
+      "seoTitle": "Anemos Beach Bar & Restaurant | Skala Sotiros, Thassos",
+      "seoDescription": "Explore Anemos in Skala Sotiros, Thassos: shaded seafront terrace, Greek cuisine, seafood, beach loungers and sunset dining.",
+      "menuNote": "The photographed menu and prices are historical reference information, not verified current offers."
+    },
+    "el": {
+      "tagline": "Ελληνικές γεύσεις, θαλασσινή αύρα και ηλιοβασίλεμα στη Σκάλα Σωτήρος",
+      "shortDescription": "Παραθαλάσσιο beach bar και εστιατόριο στη Σκάλα Σωτήρος της Θάσου, με σκιερή βεράντα, ξαπλώστρες και ελληνικά πιάτα με ψάρι, θαλασσινά και κρεατικά.",
+      "description": "Το Anemos Beach Bar & Restaurant βρίσκεται δίπλα στη θάλασσα, στη Σκάλα Σωτήρος της Θάσου. Τα τραπέζια στη σκιά των δέντρων, η θέα στο Αιγαίο και η παραλία με τις ψάθινες ομπρέλες δημιουργούν ένα ευχάριστο περιβάλλον για χαλάρωση. Στο φωτογραφημένο μενού περιλαμβάνονται ελληνικές σαλάτες και παραδοσιακοί μεζέδες, καθώς και ψάρια, χταπόδι, γαρίδες, καλαμάρια και ψητά κρεατικά, μαζί με κρασί, μπίρα και καφέ. Είναι μια όμορφη επιλογή για οικογενειακό γεύμα, παρέα με φίλους ή δείπνο την ώρα του ηλιοβασιλέματος. Στις κριτικές οι επισκέπτες αναφέρονται στη φιλική εξυπηρέτηση, τις γενναιόδωρες μερίδες και την ήρεμη ατμόσφαιρα. Ρωτήστε για το ψάρι ημέρας και επιβεβαιώστε το εποχικό ωράριο, τους όρους για τις ξαπλώστρες και το ισχύον μενού.",
+      "seoTitle": "Anemos Beach Bar & Restaurant | Σκάλα Σωτήρος, Θάσος",
+      "seoDescription": "Anemos στη Σκάλα Σωτήρος: παραθαλάσσια τραπέζια, ελληνική κουζίνα, θαλασσινά, ξαπλώστρες και ηλιοβασίλεμα.",
+      "menuNote": "Το φωτογραφημένο μενού και οι τιμές δεν έχουν επιβεβαιωθεί ως σημερινά."
+    },
+    "de": {
+      "tagline": "Griechische Küche, Meeresbrise und Sonnenuntergänge in Skala Sotiros",
+      "shortDescription": "Strandbar und Restaurant in Skala Sotiros auf Thassos mit schattiger Terrasse, Sonnenliegen am Meer sowie griechischen Fisch-, Meeresfrüchte- und Grillgerichten.",
+      "description": "Das Anemos Beach Bar & Restaurant liegt direkt am Meer in Skala Sotiros auf Thassos. Schattige Tische unter Bäumen, der weite Blick auf die Ägäis und der Strandbereich mit Strohschirmen laden zu einer entspannten Pause am Wasser ein. Auf der fotografierten Speisekarte stehen griechische Salate, traditionelle Vorspeisen, Fisch, Oktopus, Garnelen, Calamari und Grillgerichte sowie Wein, Bier und Kaffee. Ob Familienessen, ein gemütlicher Nachmittag mit Freunden oder Abendessen bei Sonnenuntergang – die Lage bietet einen schönen Rahmen. In Gästebewertungen werden besonders die freundliche Bedienung, großzügige Portionen und ruhige Atmosphäre hervorgehoben. Fragen Sie nach dem Tagesfisch und bestätigen Sie die saisonalen Öffnungszeiten, Liegenkonditionen und die aktuelle Speisekarte.",
+      "seoTitle": "Anemos Beach Bar & Restaurant | Skala Sotiros, Thassos",
+      "seoDescription": "Anemos auf Thassos: schattige Meeresterrasse, griechische Küche, Fisch, Meeresfrüchte, Sonnenliegen und Sonnenuntergänge.",
+      "menuNote": "Die fotografierte Speisekarte und Preise sind nicht als aktuell bestätigt."
+    },
+    "bg": {
+      "tagline": "Гръцки вкусове, морски бриз и залези в Скала Сотирос",
+      "shortDescription": "Плажен бар и ресторант в Скала Сотирос, Тасос, със сенчеста тераса, шезлонги край морето и гръцки рибни, морски и месни специалитети.",
+      "description": "Anemos Beach Bar & Restaurant се намира непосредствено до морето в Скала Сотирос на остров Тасос. Сенчестите маси под дърветата, гледката към Егейско море и плажната зона със сламени чадъри създават приятно място за почивка. В сниманото меню присъстват гръцки салати и традиционни предястия, риба, октопод, скариди, калмари и месни ястия на скара, както и вино, бира и кафе. Мястото е подходящо за семейно хранене, спокоен следобед с приятели или вечеря по залез. В отзивите посетителите споменават любезното обслужване, щедрите порции и спокойната атмосфера. Попитайте за рибата на деня и потвърдете сезонното работно време, условията за шезлонгите и актуалното меню.",
+      "seoTitle": "Anemos Beach Bar & Restaurant | Скала Сотирос, Тасос",
+      "seoDescription": "Anemos в Скала Сотирос: сенчеста тераса до морето, гръцка кухня, морски дарове, шезлонги и залези.",
+      "menuNote": "Сниманото меню и цените не са потвърдени като актуални."
+    },
+    "sr": {
+      "tagline": "Grčki ukusi, morski povetarac i zalasci sunca u Skali Sotiros",
+      "shortDescription": "Bar na plaži i restoran u Skali Sotiros na Tasosu, sa terasom u hladu, ležaljkama pored mora i grčkim ribljim, morskim i jelima sa roštilja.",
+      "description": "Anemos Beach Bar & Restaurant nalazi se uz samo more u Skali Sotiros na Tasosu. Stolovi u hladovini drveća, pogled na Egejsko more i plaža sa slamnatim suncobranima stvaraju prijatno mesto za odmor. Na fotografisanom meniju nalaze se grčke salate i tradicionalna predjela, riba, hobotnica, škampi, lignje i meso sa roštilja, kao i vino, pivo i kafa. Ambijent je pogodan za porodični obrok, opušteno popodne sa prijateljima ili večeru uz zalazak sunca. U utiscima posetilaca ističu se ljubazno osoblje, obilne porcije i mirna atmosfera. Pitajte za ribu dana i proverite sezonsko radno vreme, uslove korišćenja ležaljki i aktuelni meni.",
+      "seoTitle": "Anemos Beach Bar & Restaurant | Skala Sotiros, Tasos",
+      "seoDescription": "Anemos u Skali Sotiros: terasa uz more, grčka kuhinja, morski plodovi, ležaljke i zalasci sunca.",
+      "menuNote": "Fotografisani meni i cene nisu potvrđeni kao trenutno važeći."
+    }
+  },
+  "media": {
+    "cover": "images/Terasă de cafenea pe malul mării.webp",
+    "sunsetImage": "images/Apus peste stațiunea de plajă.webp",
+    "gallery": [
+      {
+        "order": 1,
+        "file": "Terasă de cafenea pe malul mării.webp",
+        "path": "images/Terasă de cafenea pe malul mării.webp",
+        "role": "hero",
+        "group": "terrace",
+        "altEn": "Shaded tables and straw parasols on the seafront"
+      },
+      {
+        "order": 2,
+        "file": "Pește la grătar cu salată crocantă pos_title_.webp",
+        "path": "images/Pește la grătar cu salată crocantă pos_title_.webp",
+        "role": "food",
+        "group": "food",
+        "altEn": "Grilled whole fish with salad"
+      },
+      {
+        "order": 3,
+        "file": "Apus peste stațiunea de plajă.webp",
+        "path": "images/Apus peste stațiunea de plajă.webp",
+        "role": "sunset",
+        "group": "beach",
+        "altEn": "Sunset over the seafront loungers"
+      },
+      {
+        "order": 4,
+        "file": "Prânz cu fructe de mare la malul mării.webp",
+        "path": "images/Prânz cu fructe de mare la malul mării.webp",
+        "role": "food",
+        "group": "food",
+        "altEn": "Seafood served on a table overlooking the beach"
+      },
+      {
+        "order": 5,
+        "file": "Calamari crocanți cu salată și lămâie.webp",
+        "path": "images/Calamari crocanți cu salată și lămâie.webp",
+        "role": "food",
+        "group": "food",
+        "altEn": "Fried calamari with salad and lemon"
+      },
+      {
+        "order": 6,
+        "file": "Apus peste masă la malul mării.webp",
+        "path": "images/Apus peste masă la malul mării.webp",
+        "role": "sunset",
+        "group": "dining",
+        "altEn": "Dinner table by the sea at sunset"
+      },
+      {
+        "order": 7,
+        "file": "Platou mixt de carne la grătar.webp",
+        "path": "images/Platou mixt de carne la grătar.webp",
+        "role": "food",
+        "group": "food",
+        "altEn": "Mixed grilled meat platter"
+      },
+      {
+        "order": 8,
+        "file": "Panoramă vibrantă a stațiunii tropicale.webp",
+        "path": "images/Panoramă vibrantă a stațiunii tropicale.webp",
+        "role": "beach",
+        "group": "beach",
+        "altEn": "Beachfront parasols and sea from an elevated terrace"
+      },
+      {
+        "order": 9,
+        "file": "Stațiune de litoral la apus.webp",
+        "path": "images/Stațiune de litoral la apus.webp",
+        "role": "exterior",
+        "group": "beach",
+        "altEn": "Seaside beach-bar setting seen from the sea"
+      },
+      {
+        "order": 10,
+        "file": "Terasa de plajă sub pin, lângă mare.webp",
+        "path": "images/Terasa de plajă sub pin, lângă mare.webp",
+        "role": "terrace",
+        "group": "terrace",
+        "altEn": "Outdoor seating shaded by a large pine tree"
+      }
+    ],
+    "galleryCount": 10,
+    "imagesAreLocalWebpReferences": true,
+    "photoRightsStatus": "not_verified_for_commercial_publication",
+    "videosDirectory": "videos/"
+  },
+  "publication": {
+    "publishReady": false,
+    "outstandingChecks": [
+      "image reuse rights",
+      "current seasonal hours",
+      "current menu and prices",
+      "sunbed usage terms",
+      "reservation method",
+      "permission to publish testimonials",
+      "official parking arrangement"
+    ]
+  }
+}

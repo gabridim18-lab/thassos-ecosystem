@@ -1,0 +1,370 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-agia-anna",
+  "slug": "agia-anna",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Αγία Άννα",
+    "international_name": "Agia Anna Beach",
+    "aliases": [
+      "Agia Anna",
+      "Aghia Anna",
+      "Santa Anna Beach",
+      "Santa Anna",
+      "Agia Anna Thassos"
+    ],
+    "entity_scope": "Small south-coast cove west of Psili Ammos and east of Notos; separate from beaches sharing the name Agia Anna on Naxos, Evia and other Greek islands.",
+    "deduplication_warning": "Do not merge with Psili Ammos or Notos, and never attach imagery or descriptions from Agia Anna beaches on Naxos, Evia or Amorgos."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south",
+    "settlements": [
+      "Potos",
+      "Astris"
+    ],
+    "lat": 40.586857598588,
+    "lng": 24.624328219542,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.58685759858798%2C24.62432821954218",
+    "coordinate_source_reference": "s_pame",
+    "coordinate_type": "representative_cove_reference_not_road_access_or_parking",
+    "coordinate_review_status": "coordinates_from_google_maps_link_on_thassos_beach_guide_crosschecked_against_osm_beach_geometry; Google Maps pin and preferred walking access need manual review",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "fine_sand_in_central_cove_with_rocky_edges",
+    "seabed_near_shore": "mostly_sandy_in_centre_rocks_at_edges",
+    "water_entry": "generally_gradual_on_sandy_centre_difficult_over_rocks",
+    "nearshore_depth": "locally_shallow_variable_with_location_and_conditions",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "weather_dependent",
+    "exposure": "small_south_coast_cove",
+    "natural_shade_on_sand": "limited_shade_near_edges",
+    "beach_length_m": null,
+    "length_note": "Very small cove; no reliable measured shoreline length asserted.",
+    "backdrop": "Mediterranean trees, coastal rock outcrops and low green slopes",
+    "shoreline_type": "small_sandy_rock_framed_cove"
+  },
+  "visitor_experience": {
+    "organization": "mostly_natural_with_seasonal_private_loungers_reported",
+    "suitable_for": [
+      "couples",
+      "quiet_beach_time",
+      "swimming_in_sandy_centre",
+      "snorkelling_when_conditions_allow",
+      "light_exploration"
+    ],
+    "notable_for": [
+      "small_hidden_cove",
+      "fine_sand",
+      "rocky_edges",
+      "clear_water",
+      "less_busy_than_nearby_major_beaches"
+    ],
+    "activities_possible": [
+      "swimming",
+      "snorkelling",
+      "relaxing",
+      "shoreline_photography"
+    ],
+    "estimated_crowd_peak": "small_capacity_may_fill_quickly",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "The narrow descending path and rocky margins require secure footing. Avoid jumping from rocks; slippery rock and sea urchins are possible. Children need close supervision; assess conditions at the time of visit."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": null,
+      "seasonal": true,
+      "note": "Past guides report a few loungers connected to nearby accommodation; current availability unconfirmed."
+    },
+    "umbrellas": {
+      "available_in_some_sections": null,
+      "seasonal": true,
+      "note": "Reported historically; do not assume they are available."
+    },
+    "toilets": {
+      "available_in_some_sections": false,
+      "note": "No public toilet facilities confirmed at the cove; neighbouring private accommodation does not imply public access."
+    },
+    "showers": {
+      "available_in_some_sections": false,
+      "note": "No public showers confirmed."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": null,
+    "cafes_nearby": null,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": false,
+    "volleyball": false,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No independently verified staffed lifeguard station.",
+    "wheelchair_beach_access": false,
+    "wheelchair_access_note": "Narrow descending footpath reported; no verified step-free route or beach mobility equipment.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Small cove with limited independently confirmed amenities; past operator-dependent sunbeds must be rechecked."
+  },
+  "access_and_cost": {
+    "road_access": "coastal_road_with_final_narrow_steep_footpath",
+    "public_transport": null,
+    "parking_type": "limited_roadside_space_reported_not_designated_or_guaranteed",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Seasonal loungers reported in older sources. Verify whether present, public eligibility and charges before visiting.",
+    "best_arrival_advice": "Choose an early visit due to the small shore and limited parking; bring own supplies.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Local descriptions place the cove around 4 km east of Potos; no independently verified driving route or precise distance given."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live conditions or infer bathing-water certification from neighbouring Psili Ammos."
+  },
+  "translations": {
+    "ro": {
+      "name": "Agia Anna Beach (Santa Anna)",
+      "tagline": "Un golfuleț ascuns, cu nisip fin și ape limpezi",
+      "summary": "O plajă mică și retrasă pe coasta sudică a insulei Thassos, între Notos și Psili Ammos. Nisipul fin și stâncile de pe margini îi dau un aer intim, însă accesul pe jos este mai dificil, iar facilitățile sunt limitate.",
+      "description": "Agia Anna, cunoscută și ca Santa Anna, este unul dintre golfulețele discrete de pe coasta sudică a insulei Thassos, între Notos și Psili Ammos. Ascunsă privirii de pe șosea, plaja surprinde prin întinderea mică de nisip fin, apa de obicei limpede și stâncile care închid golful. Apropierea vegetației creează un peisaj plăcut, însă umbra naturală se găsește mai ales la margini, nu pe nisip. În zona centrală intrarea în mare este în general mai lină, în timp ce stâncile laterale pot fi alunecoase și pot adăposti arici de mare. Este o alegere bună pentru cei care preferă un loc mai retras și vor să exploreze micile golfuri ale insulei, nu pentru cei care caută o plajă mare, complet amenajată. Dinspre șoseaua principală se ajunge pe o potecă îngustă și înclinată. Unele surse menționează șezlonguri sezoniere asociate unei proprietăți din apropiere, însă nu există confirmare actuală pentru servicii permanente precum toalete sau dușuri.",
+      "practical_tips": "Plaja nu se vede bine din șosea: verifică punctul de navigare și poteca înainte de coborâre. Poartă încălțăminte cu aderență pentru traseul pe jos și papuci de apă dacă explorezi marginile stâncoase. Spațiul este redus, astfel că merită să ajungi devreme; nu te baza pe un loc de parcare rezervat sau pe șezlonguri disponibile. Ia apă, protecție solară și tot ce îți trebuie pentru câteva ore, deoarece toaletele, dușurile și serviciile de alimentație nu sunt confirmate pe plajă. Copiii trebuie supravegheați permanent, mai ales în apropierea stâncilor.",
+      "highlights": [
+        "Golf mic, mai puțin vizibil de pe șosea",
+        "Nisip fin în centrul plajei",
+        "Stânci interesante pentru observarea vieții marine",
+        "Potecă de acces îngustă și înclinată",
+        "Puține dotări și spațiu limitat"
+      ],
+      "seo_title": "Agia Anna Beach Thassos – acces, nisip și sfaturi utile",
+      "seo_description": "Descoperă Agia Anna (Santa Anna), un golf mic între Notos și Psili Ammos, în Thassos. Acces pe potecă, nisip fin, stânci și informații practice.",
+      "social_caption": "🏝️ Agia Anna, Thassos: un golfuleț ascuns între Notos și Psili Ammos, cu nisip fin și apă limpede. 🌊 Un loc pentru cei care iubesc colțurile mai retrase ale insulei. Salvează-l pentru viitoarea vacanță! #Thassos #AgiaAnna #ExploreThassos",
+      "photo_alt": "Golfulețul nisipos Agia Anna de pe coasta sudică a insulei Thassos, cu stânci la margini."
+    },
+    "en": {
+      "name": "Agia Anna Beach (Santa Anna)",
+      "tagline": "A tucked-away sandy cove framed by rocks",
+      "summary": "A tiny, relatively secluded beach on the southern coast of Thassos, between Notos and Psili Ammos. Soft sand and rocky edges create a sheltered feel, though the footpath is awkward and facilities are limited.",
+      "description": "Agia Anna, also known as Santa Anna, is a small cove hidden along the southern coastline of Thassos between Notos and Psili Ammos. Easy to miss from the main road, it rewards visitors with a compact patch of soft sand, usually clear water and rocky edges that give the bay an intimate atmosphere. Trees grow above and around the shore, but most natural shade falls to the sides rather than across the sand itself. Entry into the sea is generally gentler from the sandy centre; the rocks at either side can be slippery and may have sea urchins. Agia Anna is best approached as a simple beach escape, not a fully serviced destination. A narrow, sloping footpath leads down from the coastal road, and space for parking nearby is limited. Some guides describe seasonal loungers associated with accommodation overlooking the cove, but reliable current confirmation of toilets, showers and other permanent services is lacking. Travellers who bring their own essentials and appreciate small coastal hideaways will enjoy it most.",
+      "practical_tips": "The cove is not obvious from the road, so check the location and walking route before setting off. Wear secure footwear on the narrow path and consider water shoes around the rocky edges. Arrive early if you want a spot on the small beach, and do not count on reserved parking or available loungers. Bring water, sun protection and essentials because toilets, showers and food service at the cove are not confirmed. Keep children close, especially by the rocks, and always assess sea conditions before swimming.",
+      "highlights": [
+        "Small cove concealed from the main road",
+        "Soft sand in the central bathing area",
+        "Rocky edges with potential snorkelling interest",
+        "Narrow sloping walking access",
+        "Limited space and uncertain services"
+      ],
+      "seo_title": "Agia Anna Beach Thassos – access, sand and beach tips",
+      "seo_description": "Explore Agia Anna (Santa Anna) on Thassos, a hidden sandy cove between Notos and Psili Ammos. Find out about the footpath, rocky edges and facilities.",
+      "social_caption": "🏝️ Hidden on the south coast of Thassos, Agia Anna is a tiny sandy cove framed by rocks and clear water. 🌊 Save this peaceful stop for your next island adventure! #Thassos #AgiaAnna #GreekIslands",
+      "photo_alt": "Small sandy cove of Agia Anna on southern Thassos, with rocky sides and clear water."
+    },
+    "el": {
+      "name": "Παραλία Αγία Άννα (Santa Anna)",
+      "tagline": "Ένας μικρός, κρυμμένος αμμώδης όρμος ανάμεσα σε βράχια",
+      "summary": "Μια μικρή και σχετικά ήσυχη παραλία στη νότια Θάσο, ανάμεσα στον Νότο και την Ψιλή Άμμο. Η λεπτή άμμος και οι βραχώδεις άκρες δημιουργούν όμορφο τοπίο, αλλά η πρόσβαση με τα πόδια είναι απαιτητική και οι παροχές περιορισμένες.",
+      "description": "Η Αγία Άννα, γνωστή και ως Santa Anna, είναι ένας μικρός όρμος στη νότια ακτή της Θάσου, ανάμεσα στις παραλίες Νότος και Ψιλή Άμμος. Δεν διακρίνεται εύκολα από τον κεντρικό δρόμο και γι’ αυτό διατηρεί την αίσθηση ενός πιο κρυμμένου σημείου. Στο κέντρο της υπάρχει λεπτή άμμος και συνήθως καθαρό νερό, ενώ στις άκρες εμφανίζονται βράχια που σχηματίζουν ένα ιδιαίτερο φυσικό περίγραμμα. Η βλάστηση προσφέρει σκιά κυρίως γύρω από την παραλία και όχι σε όλη την αμμώδη έκταση. Η είσοδος στη θάλασσα είναι κατά κανόνα πιο ομαλή στο αμμώδες τμήμα, όμως στα βράχια χρειάζεται προσοχή λόγω της ολισθηρότητας και της πιθανής παρουσίας αχινών. Η πρόσβαση γίνεται από ένα στενό, κατηφορικό μονοπάτι κοντά στον παραλιακό δρόμο. Σε παλαιότερες περιγραφές αναφέρονται εποχικές ξαπλώστρες που συνδέονται με γειτονικό κατάλυμα, χωρίς να υπάρχουν επιβεβαιωμένες μόνιμες εγκαταστάσεις υγιεινής. Είναι ιδανική για όσους αγαπούν τους μικρούς όρμους και ταξιδεύουν προετοιμασμένοι.",
+      "practical_tips": "Ελέγξτε τον χάρτη και το μονοπάτι πριν κατεβείτε, γιατί η παραλία δεν φαίνεται καθαρά από τον δρόμο. Προτιμήστε παπούτσια με καλή πρόσφυση για την κατάβαση και παπουτσάκια θαλάσσης κοντά στα βράχια. Ο χώρος είναι περιορισμένος, επομένως η έγκαιρη άφιξη βοηθά. Μην θεωρείτε δεδομένη τη στάθμευση ή τη διαθεσιμότητα ξαπλωστρών. Πάρτε νερό, αντηλιακή προστασία και τα απαραίτητα, καθώς δεν έχουν επιβεβαιωθεί τουαλέτες, ντους ή υπηρεσίες εστίασης στον όρμο. Προσέχετε ιδιαίτερα τα παιδιά κοντά στις βραχώδεις άκρες.",
+      "highlights": [
+        "Μικρός όρμος που δεν φαίνεται εύκολα από τον δρόμο",
+        "Λεπτή άμμος στο κεντρικό τμήμα",
+        "Βραχώδεις άκρες με ενδιαφέρον υποθαλάσσιο περιβάλλον",
+        "Στενό, κατηφορικό μονοπάτι",
+        "Περιορισμένος χώρος και αβέβαιες παροχές"
+      ],
+      "seo_title": "Αγία Άννα Θάσος – πρόσβαση, άμμος και συμβουλές",
+      "seo_description": "Ανακαλύψτε την παραλία Αγία Άννα στη Θάσο, ανάμεσα στον Νότο και την Ψιλή Άμμο. Πρόσβαση από μονοπάτι, άμμος, βράχια και χρήσιμες πληροφορίες.",
+      "social_caption": "🏝️ Αγία Άννα, Θάσος: ένας μικρός κρυμμένος όρμος με λεπτή άμμο, βράχια και καθαρά νερά. 🌊 Κρατήστε τον στα αγαπημένα σας για την επόμενη εξόρμηση! #Θάσος #ΑγίαΆννα #ΕλληνικάΝησιά",
+      "photo_alt": "Μικρός αμμώδης όρμος της Αγίας Άννας στη νότια Θάσο, με βραχώδεις άκρες."
+    },
+    "de": {
+      "name": "Agia Anna Beach (Santa Anna)",
+      "tagline": "Eine versteckte kleine Sandbucht zwischen Felsen",
+      "summary": "Eine sehr kleine, eher ruhige Bucht an der Südküste von Thassos zwischen Notos und Psili Ammos. Feiner Sand und felsige Ränder prägen das Bild; der Fußweg ist anspruchsvoll und die Ausstattung begrenzt.",
+      "description": "Agia Anna, auch Santa Anna genannt, ist eine kleine, etwas versteckte Bucht an der Südküste von Thassos zwischen Notos und Psili Ammos. Von der Küstenstraße ist sie kaum zu erkennen. Unten erwartet Besucher ein überschaubarer Sandstreifen mit meist klarem Wasser, eingefasst von Felsen. Bäume und mediterrane Vegetation sorgen vor allem an den Seiten für Schatten; auf dem eigentlichen Sandstrand ist natürliche Beschattung begrenzt. Im sandigen Mittelteil geht es gewöhnlich sanfter ins Meer, während die Felsen an den Rändern rutschig sein können und dort Seeigel vorkommen können. Die Bucht eignet sich vor allem für Urlauber, die kleine, wenig ausgebaute Badestellen mögen. Von der Straße führt ein schmaler, abschüssiger Pfad zum Ufer. Parkmöglichkeiten in Straßennähe sind begrenzt. Einige Beschreibungen erwähnen saisonale Liegen in Verbindung mit einer Unterkunft oberhalb des Strandes, doch feste Einrichtungen wie Toiletten und Duschen sind aktuell nicht zuverlässig bestätigt. Wer Getränke und Strandausrüstung selbst mitbringt, ist hier gut vorbereitet.",
+      "practical_tips": "Prüfen Sie den Standort und den Fußweg vor dem Besuch, da die Bucht von der Straße aus leicht übersehen wird. Für den schmalen Abstieg sind feste Schuhe hilfreich; an den felsigen Rändern empfehlen sich Badeschuhe. Wegen der kleinen Fläche lohnt sich eine frühe Ankunft. Rechnen Sie weder mit einem sicheren Parkplatz noch mit verfügbaren Liegen. Nehmen Sie Trinkwasser, Sonnenschutz und alles Nötige mit, da Toiletten, Duschen und Verpflegung vor Ort nicht bestätigt sind. Kinder sollten besonders an den Felsen beaufsichtigt werden.",
+      "highlights": [
+        "Kleine, von der Straße kaum sichtbare Bucht",
+        "Feiner Sand im zentralen Bereich",
+        "Felsige Seiten zum Beobachten der Unterwasserwelt",
+        "Schmaler, abschüssiger Zugangspfad",
+        "Wenig Platz und unsichere Ausstattung"
+      ],
+      "seo_title": "Agia Anna Thassos – Anfahrt, Strand und praktische Tipps",
+      "seo_description": "Agia Anna (Santa Anna) auf Thassos entdecken: versteckte Sandbucht zwischen Notos und Psili Ammos, Zugang über einen Pfad und Hinweise zu Ausstattung und Felsen.",
+      "social_caption": "🏝️ Agia Anna auf Thassos: eine kleine versteckte Sandbucht zwischen Felsen und klarem Meer. 🌊 Ein besonderer Stopp für alle, die ruhige Ecken lieben! #Thassos #AgiaAnna #Griechenland",
+      "photo_alt": "Kleine Sandbucht Agia Anna an der Südküste von Thassos mit Felsen an den Seiten."
+    },
+    "bg": {
+      "name": "Плаж Агия Анна (Санта Анна)",
+      "tagline": "Малък скрит пясъчен залив, обграден от скали",
+      "summary": "Малко и сравнително спокойно заливче на южния бряг на Тасос, между Нотос и Псили Амос. Финият пясък и скалистите краища създават уютна атмосфера, но пътеката за достъп е трудна, а удобствата са ограничени.",
+      "description": "Агия Анна, известен и като Санта Анна, е малък залив на южното крайбрежие на Тасос между плажовете Нотос и Псили Амос. Той почти не се вижда от крайбрежния път и затова запазва усещането за по-скрито място. В средата има фин пясък и обикновено бистра вода, а скалите от двете страни очертават красив естествен залив. Дърветата осигуряват сянка главно по краищата, но не и върху цялата пясъчна ивица. Влизането във водата в централната пясъчна част обикновено е по-плавно. Край скалите обаче трябва да се внимава за хлъзгави повърхности и възможни морски таралежи. До плажа се стига по тясна и наклонена пътека от главния път, а местата за паркиране са ограничени. В някои описания се споменават сезонни шезлонги, свързани с близко място за настаняване, но няма надеждно потвърждение за постоянни тоалетни, душове и други услуги. Агия Анна е по-подходящ за хора, които обичат малките естествени заливчета и носят необходимите си принадлежности.",
+      "practical_tips": "Проверете местоположението и пътеката предварително, защото заливът не се забелязва лесно от шосето. Носете стабилни обувки за слизането и водни обувки при скалистите краища. Плажът е малък, затова пристигането по-рано е разумно. Не разчитайте на гарантирано паркиране или свободни шезлонги. Вземете вода, слънцезащита и нужните вещи, тъй като тоалетни, душове и хранене на място не са потвърдени. Наблюдавайте децата внимателно, особено около скалите.",
+      "highlights": [
+        "Малък залив, скрит от главния път",
+        "Фин пясък в централната част",
+        "Скалисти краища с интересен подводен свят",
+        "Тясна и наклонена пътека",
+        "Ограничено пространство и неясни удобства"
+      ],
+      "seo_title": "Агия Анна, Тасос – достъп, пясък и полезни съвети",
+      "seo_description": "Открийте Агия Анна (Санта Анна) на Тасос – малък пясъчен залив между Нотос и Псили Амос, с пътека за достъп и скалисти краища.",
+      "social_caption": "🏝️ Агия Анна, Тасос: малко скрито заливче с фин пясък, скали и чиста вода. 🌊 Запазете това място за следващото си пътуване! #Тасос #АгияАнна #Гърция",
+      "photo_alt": "Малък пясъчен залив Агия Анна в южната част на Тасос, със скали от двете страни."
+    },
+    "sr": {
+      "name": "Plaža Agia Ana (Santa Ana)",
+      "tagline": "Mala skrivena peščana uvala među stenama",
+      "summary": "Mala i uglavnom mirna plaža na južnoj obali Tasosa, između Notosa i Psili Amosa. Fini pesak i stenoviti rubovi stvaraju prijatan ambijent, ali je pešački prilaz zahtevniji, a sadržaja ima malo.",
+      "description": "Agia Ana, poznata i kao Santa Ana, mala je uvala na južnoj obali Tasosa između plaža Notos i Psili Amos. Sa glavnog puta gotovo se ne vidi, pa deluje kao skriveni kutak ostrva. U središtu se nalazi fini pesak, more je obično bistro, a stene sa obe strane daju uvali poseban izgled. Drveće i mediteransko rastinje prave hlad uglavnom sa strane, dok je na samom pesku prirodna senka ograničena. Ulazak u vodu je uglavnom postepen u peščanom srednjem delu, ali uz stene treba paziti na klizave površine i moguće morske ježeve. Do uvale se sa obalskog puta stiže uskom i strmijom stazom, a prostor za parkiranje je ograničen. Stariji vodiči pominju sezonske ležaljke povezane sa obližnjim smeštajem, ali stalni toaleti, tuševi i druge usluge nisu pouzdano potvrđeni. Ova plaža najviše odgovara posetiocima koji vole male prirodne uvale i ne očekuju potpunu turističku opremljenost.",
+      "practical_tips": "Proverite lokaciju i pešačku stazu pre polaska jer je uvalu lako promašiti sa puta. Za silazak obujte stabilnu obuću, a za stenovite delove korisne su patike za vodu. Pošto je plaža mala, dolazak ranije daje više izbora. Ne računajte na siguran parking ili slobodne ležaljke. Ponesite vodu, zaštitu od sunca i neophodne stvari, jer toaleti, tuševi i usluge hrane nisu potvrđeni na samoj plaži. Decu naročito pazite u blizini stena.",
+      "highlights": [
+        "Mala uvala skrivena od glavnog puta",
+        "Fini pesak u središnjem delu",
+        "Stenovite ivice zanimljive za posmatranje podvodnog sveta",
+        "Uska i strmija pristupna staza",
+        "Malo prostora i neprovereni sadržaji"
+      ],
+      "seo_title": "Agia Ana Tasos – prilaz, plaža i korisni saveti",
+      "seo_description": "Otkrijte plažu Agia Ana (Santa Ana) na Tasosu, skrivenu između Notosa i Psili Amosa. Informacije o pešačkom prilazu, pesku, stenama i uslugama.",
+      "social_caption": "🏝️ Agia Ana na Tasosu: mala skrivena peščana uvala između stena i bistrog mora. 🌊 Sačuvajte je za sledeće letovanje! #Tasos #AgiaAna #Grcka",
+      "photo_alt": "Mala peščana uvala Agia Ana na južnoj obali Tasosa, sa stenama sa obe strane."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/agia-anna/images/agia-anna1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/agia-anna/images/agia-anna2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/agia-anna/images/agia-anna3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/agia-anna/images/agia-anna4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/agia-anna/images/agia-anna5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/agia-anna/images/",
+    "suggested_asset_names": [
+      "agia-anna1.webp",
+      "agia-anna2.webp",
+      "agia-anna3.webp",
+      "agia-anna4.webp",
+      "agia-anna5.webp"
+    ],
+    "image_policy": "Use the project owner's selected local images only. Preserve the numbered order: image 1 is the cover and images 2 onward are the gallery. Confirm ownership and publication rights before release.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_pame",
+      "kind": "map_and_beach_guide",
+      "title": "Pame Paralia — Agia Anna Thasos",
+      "url": "https://pameparalia.com/beach/agia-anna-mainland",
+      "detail": "Coordinates in a Google Maps search link (40.58685759858798, 24.62432821954218), sandy shore, difficult access and seasonal loungers; road access not confirmed.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_osm",
+      "kind": "open_geodata",
+      "title": "Mapcarta — Aghia Anna (OpenStreetMap way 725284253)",
+      "url": "https://mapcarta.com/W725284253",
+      "detail": "Independent geometry and neighbouring beaches; representative centre 40.58683, 24.62434. OpenStreetMap data subject to ODbL attribution.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_ro",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Plaja Santa Anna (RO)",
+      "url": "https://nikana.gr/ro/ghid/thassos/plaje/1901/plaja-santa-anna",
+      "detail": "Describes the narrow footpath, sandy centre, rocky edges, limited road parking, facilities; last update displayed 6 July 2024.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_en",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Santa Anna Beach (EN)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1901/santa-anna-beach",
+      "detail": "Second-language presentation of same source; not counted as independent corroboration.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover",
+      "kind": "tourism_guide",
+      "title": "Discover Greece — Ten best beaches in Thassos",
+      "url": "https://www.discovergreece.com/travel-ideas/best-of/10-best-beaches-thassos",
+      "detail": "Mentions Agia Anna west of Psili Ammos as a rocky/wild neighbouring swimming stop.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachatlas",
+      "kind": "travel_guide",
+      "title": "BeachAtlas — Agia Anna (Thasos)",
+      "url": "https://www.beachatlas.com/agia-anna-3",
+      "detail": "Sand, smaller hidden beach, parking limitations, loungers at nearby accommodation, cautions for children near rocks.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_area",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Beaches near Potos and Limenaria",
+      "url": "https://annapurna.nikana.gr/en/tourist-guide/thassos/beaches/2588/beaches-near-potos-and-limenaria",
+      "detail": "Describes access on steep footpath, small space, roadside parking and neighbouring Psili Ammos.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_pame_spatial",
+      "kind": "beach_index",
+      "title": "Pame Paralia — geographic beach neighbourhood",
+      "url": "https://pameparalia.com/beach/agia-anna-mainland",
+      "detail": "Lists Notos and Psili Ammos as distinct adjacent beaches; no photographs currently available on this page.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_pending_images_and_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm the Google Maps reference is on the intended sandy cove and locate actual trailhead and parking",
+      "Select own/licensed photographs expressly showing Agia Anna on Thassos, not Agia Anna elsewhere",
+      "Recheck whether sunbeds or private facilities are operating and under which access terms",
+      "Confirm access trail safety and possible seasonal restrictions",
+      "Native language proofreading before production and promotional publishing"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text drafted; no photographs imported or cleared for commercial transfer.",
+    "photo_source_disclaimer": "Research-gallery URLs are identification aids, not licensed local assets."
+  }
+}

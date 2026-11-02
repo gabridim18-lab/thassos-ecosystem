@@ -1,0 +1,1 @@
+Documente originale opționale (meniuri PDF, documente autorizate). Fotografiile de meniu furnizate în chat au fost transcrise în menu.json și NU sunt incluse.

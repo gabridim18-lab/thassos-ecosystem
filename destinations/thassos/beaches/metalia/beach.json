@@ -1,0 +1,363 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-metalia",
+  "slug": "metalia",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Μεταλλεία",
+    "international_name": "Metalia Beach",
+    "aliases": [
+      "Metalia",
+      "Metallia",
+      "Metalleia",
+      "Metalia Beach Limenaria",
+      "Metallia Beach",
+      "Παραλία Μεταλλεία"
+    ],
+    "entity_scope": "A distinct cove immediately east of Limenaria, below Palataki and the former mining facilities; not the town beach of Limenaria.",
+    "deduplication_warning": "Do not merge Metalia with Limenaria town beach, the west-of-town Limenaria beach, Tripiti or the separate small coves reached via the coastal rocks/tunnel."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southwest / south-facing cove",
+    "settlements": [
+      "Limenaria"
+    ],
+    "lat": 40.62374,
+    "lng": 24.58264,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.62374%2C24.58264",
+    "coordinate_source_reference": "s_map",
+    "coordinate_type": "map_view_center_reference_not_verified_access_point",
+    "coordinate_review_status": "Coordinates published by independent guide and used as center of linked Google Maps embedded view; verify Google Maps beach pin and arrival route before publication.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mixed_sand_fine_pebbles",
+    "seabed_near_shore": "rock_slabs_and_stones_with_localized_easier_entries",
+    "water_entry": "uneven_rocky_slippery_in_many_sections",
+    "nearshore_depth": "variable_not_consistently_shallow",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "weather_and_wind_dependent",
+    "exposure": "sheltered_small_cove_with_open_sea_aspect",
+    "natural_shade_on_sand": "limited",
+    "beach_length_m": null,
+    "length_note": "No reliably verified standard measurement of beach length.",
+    "backdrop": "Cliffs, trees, the Palataki hillside and historical iron-ore processing remains",
+    "shoreline_type": "small_mixed_sand_pebble_cove_with_rocky_edges"
+  },
+  "visitor_experience": {
+    "organization": "seasonally_organized_with_free_space",
+    "suitable_for": [
+      "couples",
+      "adults",
+      "scenic_photography",
+      "history_interests",
+      "snorkeling_with_care",
+      "quiet_beach_break"
+    ],
+    "notable_for": [
+      "historic_mining_landscape",
+      "rock_shelves",
+      "clear_water",
+      "palataki_view",
+      "distinctive_cove"
+    ],
+    "activities_possible": [
+      "swimming",
+      "snorkeling_with_care",
+      "photography",
+      "short_historical_walk",
+      "relaxation"
+    ],
+    "estimated_crowd_peak": "can_be_busy_in_high_summer; no live count",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Large submerged smooth stone slabs can be slippery; avoid assuming shallow water or an easy entry, wear water shoes if needed, and supervise children closely. Do not climb unstable industrial ruins or cross rocky passages in unsafe sea conditions."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Reported by some guides, but current operation and public access not independently confirmed."
+    },
+    "showers": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": false,
+    "cafes_nearby": false,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": true,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "A commercial guide reports seasonal coverage, but current authorized coverage is not verified.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Walking approach includes a steep slope; no verified step-free beach route or adapted equipment.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Beach-bar equipment, showers and other amenities depend on seasonal operation; no fee, opening hour or service level is guaranteed."
+  },
+  "access_and_cost": {
+    "road_access": "narrow_partly_paved_then_rough_access_road_reported; conditions_change",
+    "public_transport": "Limenaria can be reached by regional transport subject to current timetables; final approach to beach on foot",
+    "parking_type": "small_informal_or_local_parking_near_beach_reported",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Seasonal beach-bar terms may change; confirm whether loungers require a fee or minimum order.",
+    "best_arrival_advice": "From Limenaria, allow time for the hill/path descent near Palataki; if driving, check the narrow access lane and parking before attempting it.",
+    "distance_from_limenas_km": null,
+    "distance_note": "No independently measured road distance entered; calculate routes dynamically from verified origin and access point."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Metalia Beach (Metalleia)",
+      "tagline": "Apă turcoaz, stânci sculptate de mare și urmele vechilor mine",
+      "summary": "Un golf aparte, la est de Limenaria, unde plaja cu nisip și pietricele se întâlnește cu plăci stâncoase sub apă și cu vestigiile industriale de la Palataki. Metalia atrage prin peisaj și istorie, nu printr-o intrare în apă uniform de lină.",
+      "description": "Metalia Beach se află imediat la est de Limenaria, într-un golf încadrat de versanți și de rămășițele fostelor instalații de prelucrare a minereului. Priveliștea combină apa limpede, de nuanță turcoaz, cu pietre deschise la culoare și structuri industriale care amintesc de istoria insulei. Malul are porțiuni cu nisip și pietricele, dar în mare apar plăci mari de piatră, uneori alunecoase. De aceea, locul este mai potrivit celor interesați de fotografie, explorare și înot atent decât celor care caută peste tot o intrare nisipoasă și puțin adâncă. În sezon pot funcționa un beach bar, șezlonguri și umbrele; existența și programul lor nu sunt garantate. Se poate ajunge pe jos din Limenaria, prin zona Palataki și pe o coborâre în pantă, sau cu mașina pe un drum de acces îngust, a cărui stare trebuie verificată. Merită să privești și peisajul de sus, dar nu intra în clădiri deteriorate și nu te aventura pe stânci când marea este agitată.",
+      "practical_tips": "Ia încălțăminte pentru apă: plăcile netede de pe fund pot fi alunecoase. Verifică vremea și valurile înainte de înot. Pentru accesul pe jos, poartă încălțăminte comodă; coborârea este în pantă. Dacă vii cu mașina, nu presupune că drumul îngust sau parcarea sunt mereu practicabile. Umbra naturală direct pe nisip este limitată. Confirmă local șezlongurile, dușurile și eventualele condiții de consum înainte de instalare.",
+      "highlights": [
+        "Golf cu istorie minieră vizibilă",
+        "Apă de obicei limpede și peisaj stâncos",
+        "Plăci de piatră sub apă: atenție la alunecare",
+        "Acces pietonal din Limenaria, prin zona Palataki",
+        "Șezlonguri și beach bar în anumite perioade"
+      ],
+      "seo_title": "Metalia Beach Thassos – acces, istorie și facilități",
+      "seo_description": "Descoperă Metalia Beach lângă Limenaria: golf cu pietricele, apă limpede, plăci stâncoase, vestigii miniere, acces și sfaturi utile.",
+      "social_caption": "🏖️ Metalia Beach, Thassos: un golf în care apa turcoaz se întâlnește cu istoria vechilor mine. 📸 Peisaj spectaculos, dar intrare stâncoasă în mare — ia papuci de apă! 🇬🇷 #Thassos #MetaliaBeach #Limenaria",
+      "photo_alt": "Golfulețul Metalia din Thassos, cu apă turcoaz, țărm cu nisip și pietricele și ruine industriale în apropiere."
+    },
+    "en": {
+      "name": "Metalia Beach (Metalleia)",
+      "tagline": "Turquoise water, rocky shallows and the traces of old mines",
+      "summary": "A distinctive cove east of Limenaria where sand and fine pebbles meet submerged rock shelves and the historic mining remains beneath Palataki. Its appeal is the scenery and heritage rather than an effortlessly sandy sea entry.",
+      "description": "Metalia Beach sits just east of Limenaria in a compact cove framed by low hills and the remains of former ore-processing facilities. Clear, often turquoise water contrasts with pale shoreline stones, while the industrial structures above the bay tell a less familiar story of Thassos. The shore combines sand and small pebbles; underwater, broad smooth rock slabs occur in many places and can become slippery. It is therefore a rewarding stop for photography, history lovers and careful swimmers, but not the easiest choice for families expecting consistently shallow, sandy water. A beach bar, loungers and parasols have operated here in season, although availability and prices should always be checked locally. Visitors can walk from Limenaria via the Palataki hillside and a steep descent, or approach by a narrow access lane that may become rough. The higher viewpoint makes for striking photographs. Keep clear of unsafe industrial ruins and avoid exploring rocky passages in poor sea conditions.",
+      "practical_tips": "Pack water shoes for slippery rock shelves and watch changing depth and waves. The hillside walking route calls for secure footwear. Check the condition of the narrow access road before driving down and never rely on guaranteed parking. Natural shade directly on the beach is limited. Confirm seasonal loungers, showers and services on arrival; do not assume the entire cove is serviced.",
+      "highlights": [
+        "Beach beside historic mining remains",
+        "Clear water and dramatic rocky backdrop",
+        "Slippery submerged slabs: water shoes recommended",
+        "Walk from Limenaria past Palataki",
+        "Seasonal beach-bar and lounger areas"
+      ],
+      "seo_title": "Metalia Beach Thassos – access, history and facilities",
+      "seo_description": "Explore Metalia Beach near Limenaria, Thassos: pebbles, clear water, rocky seabed, historic mines, access tips and seasonal facilities.",
+      "social_caption": "🏖️ Metalia Beach, Thassos: a turquoise cove where island history meets the sea. 📸 Come for the scenery and old mining landscape; pack water shoes for the rocky entry. 🇬🇷 #Thassos #MetaliaBeach #Limenaria",
+      "photo_alt": "Metalia cove on Thassos, with turquoise water, sandy-pebbly shore and historic mining structures above the beach."
+    },
+    "el": {
+      "name": "Παραλία Μεταλλεία (Metalia)",
+      "tagline": "Τιρκουάζ νερά, βραχώδης βυθός και ίχνη της μεταλλευτικής ιστορίας",
+      "summary": "Ένας ιδιαίτερος όρμος ανατολικά των Λιμεναρίων, με άμμο, ψιλό βότσαλο, λείες πέτρινες πλάκες στον βυθό και κατάλοιπα των παλιών μεταλλείων κοντά στο Παλατάκι.",
+      "description": "Η παραλία Μεταλλεία βρίσκεται λίγο ανατολικά από τα Λιμενάρια, σε έναν μικρό όρμο κάτω από την περιοχή με τις παλιές μεταλλευτικές εγκαταστάσεις και το Παλατάκι. Τα συνήθως καθαρά, γαλαζοπράσινα νερά και τα βράχια δημιουργούν ένα ξεχωριστό τοπίο, όπου η φύση συναντά τη βιομηχανική ιστορία της Θάσου. Η ακτή έχει άμμο και ψιλό βότσαλο, όμως σε πολλά σημεία ο βυθός καλύπτεται από μεγάλες λείες πέτρινες πλάκες, οι οποίες μπορεί να γλιστρούν. Δεν είναι λοιπόν η πιο εύκολη επιλογή για όποιον αναζητά παντού αμμώδη, ρηχή είσοδο στη θάλασσα. Ταιριάζει περισσότερο σε όσους αγαπούν το ιδιαίτερο τοπίο, τη φωτογραφία, την ιστορία και το προσεκτικό κολύμπι. Κατά την τουριστική περίοδο μπορεί να λειτουργούν beach bar, ξαπλώστρες και ομπρέλες, χωρίς να είναι βέβαιη η διαθεσιμότητά τους κάθε μέρα. Η πρόσβαση γίνεται με τα πόδια από τα Λιμενάρια, μέσω της περιοχής του Παλατακίου και κατηφορικού μονοπατιού, ή οδικώς από στενό δρόμο που μπορεί να είναι ανώμαλος. Αποφύγετε τα φθαρμένα κτίσματα και τα επικίνδυνα βραχώδη περάσματα.",
+      "practical_tips": "Χρησιμοποιήστε παπούτσια θαλάσσης λόγω των ολισθηρών πλακών. Προσέχετε τον κυματισμό και τις αλλαγές στο βάθος. Για την πεζή διαδρομή χρειάζονται άνετα παπούτσια, καθώς υπάρχει κατηφόρα. Ελέγξτε την κατάσταση του δρόμου και τη στάθμευση πριν κατεβείτε με αυτοκίνητο. Η φυσική σκιά πάνω στην ακτή είναι περιορισμένη. Επιβεβαιώστε επιτόπου τις εποχικές παροχές και τις τυχόν χρεώσεις.",
+      "highlights": [
+        "Όρμος δίπλα σε παλιές μεταλλευτικές εγκαταστάσεις",
+        "Καθαρά νερά και εντυπωσιακό βραχώδες σκηνικό",
+        "Λείες πλάκες στον βυθό — προσοχή στην ολίσθηση",
+        "Πρόσβαση από τα Λιμενάρια μέσω Παλατακίου",
+        "Εποχικές ομπρέλες και υπηρεσίες beach bar"
+      ],
+      "seo_title": "Παραλία Μεταλλεία Θάσος – πρόσβαση, ιστορία και παροχές",
+      "seo_description": "Γνωρίστε την παραλία Μεταλλεία κοντά στα Λιμενάρια: βότσαλο, βραχώδης βυθός, παλιά μεταλλεία, πρόσβαση και χρήσιμες συμβουλές.",
+      "social_caption": "🏖️ Μεταλλεία, Θάσος: ένας τιρκουάζ όρμος με ξεχωριστή μεταλλευτική ιστορία. 📸 Υπέροχο τοπίο και πέτρινες πλάκες στη θάλασσα — πάρτε παπούτσια θαλάσσης! 🇬🇷 #Θάσος #Μεταλλεία #Λιμενάρια",
+      "photo_alt": "Ο όρμος Μεταλλεία στη Θάσο, με γαλαζοπράσινα νερά, μικτό αμμώδες και βοτσαλωτό τμήμα και παλιές μεταλλευτικές εγκαταστάσεις."
+    },
+    "de": {
+      "name": "Metalia Beach (Metalleia)",
+      "tagline": "Türkisblaues Wasser, Felsplatten und Spuren des alten Bergbaus",
+      "summary": "Eine besondere kleine Bucht östlich von Limenaria: Sand und feiner Kies, teils glatte Felsplatten im Wasser und ehemalige Bergbauanlagen unterhalb des Palataki.",
+      "description": "Metalia Beach liegt unmittelbar östlich von Limenaria in einer kleinen Bucht unterhalb des Palataki-Hügels. Klares, oft türkisfarbenes Wasser trifft hier auf einen Strand aus Sand und feinem Kies, eingerahmt von Felsen und den Überresten früherer Erzverarbeitungsanlagen. Gerade diese Verbindung von Küstenlandschaft und Industriegeschichte macht den Ort unverwechselbar. Im Wasser liegen über weite Bereiche glatte Steinplatten, die rutschig sein können; die Tiefe ist nicht überall gleich. Wer einen durchgehend sanften, sandigen Einstieg sucht, sollte das berücksichtigen. Für Fotofreunde, geschichtsinteressierte Besucher und vorsichtige Schwimmer ist Metalia dagegen ein spannender Halt. In der Sommersaison werden teils Liegen, Sonnenschirme und ein Strandbar-Angebot beschrieben, deren tatsächliche Verfügbarkeit vor Ort geprüft werden muss. Von Limenaria führt ein Fußweg über den Bereich beim Palataki mit steilerem Abstieg hinunter. Eine schmale, streckenweise holprige Zufahrt ist ebenfalls bekannt. Historische Bauten nur aus sicherer Entfernung betrachten und felsige Durchgänge bei Wellengang meiden.",
+      "practical_tips": "Badeschuhe sind wegen der glatten Steinplatten ratsam. Vor dem Schwimmen Wind, Wellen und Wassertiefe prüfen. Der Weg vom Palataki erfordert festes Schuhwerk. Wer mit dem Auto kommt, sollte Zustand und Befahrbarkeit der engen Zufahrt vorab kontrollieren; Parkplätze sind nicht garantiert. Natürlicher Schatten direkt am Strand ist begrenzt. Saisonale Angebote und Preise stets vor Ort erfragen.",
+      "highlights": [
+        "Bucht mit Spuren des historischen Bergbaus",
+        "Klares Meer und felsige Kulisse",
+        "Rutschige Felsplatten unter Wasser",
+        "Fußweg aus Limenaria über Palataki",
+        "Saisonale Liegen, Schirme und Strandbar"
+      ],
+      "seo_title": "Metalia Beach Thassos – Anfahrt, Geschichte und Ausstattung",
+      "seo_description": "Metalia Beach bei Limenaria entdecken: Sand und Kies, Felsplatten im Wasser, ehemalige Bergwerke, Anfahrt und Tipps für Besucher.",
+      "social_caption": "🏖️ Metalia Beach auf Thassos: türkisfarbenes Meer trifft auf faszinierende Bergbaugeschichte. 📸 Ein außergewöhnliches Fotomotiv – Badeschuhe nicht vergessen! 🇬🇷 #Thassos #MetaliaBeach #Limenaria",
+      "photo_alt": "Metalia-Bucht auf Thassos mit türkisfarbenem Wasser, Sand-Kies-Ufer und ehemaligen Bergbauanlagen an den Hängen."
+    },
+    "bg": {
+      "name": "Плаж Металия (Metalia Beach)",
+      "tagline": "Тюркоазена вода, скални плочи и следи от старите мини",
+      "summary": "Необичаен залив източно от Лименария с пясък, дребни камъчета, гладки скални плочи под водата и останки от минната дейност до Палатаки.",
+      "description": "Плаж Металия се намира непосредствено източно от Лименария, в малък залив под хълма с Палатаки и старите съоръжения за обработка на руда. Бистрата, често тюркоазена вода, светлите камъни и индустриалните руини създават пейзаж, който се различава от останалите плажове на Тасос. Брегът е смесица от пясък и дребни камъчета, но в морето на много места има широки, гладки скални плочи, които могат да бъдат хлъзгави. Дълбочината не е еднаква навсякъде, затова това не е най-лесният плаж за семейства, които търсят навсякъде плитко и пясъчно дъно. Металия е особено интересен за снимки, кратка разходка сред исторически останки и внимателно плуване. През летния сезон може да има плажен бар, шезлонги и чадъри, но наличността и условията трябва да се потвърдят на място. До плажа може да се стигне пеша от Лименария през района на Палатаки с по-стръмно спускане или по тесен път с неравни участъци. Не влизайте в опасни изоставени постройки и избягвайте скалистите проходи при силно вълнение.",
+      "practical_tips": "Носете обувки за вода заради хлъзгавите каменни плочи. Следете вятъра, вълните и промяната на дълбочината. Пешеходният път е наклонен, затова са нужни удобни обувки. Проверете състоянието на тесния автомобилен достъп и не разчитайте на гарантирано паркомясто. Естествената сянка върху самия плаж е ограничена. Потвърдете на място всички сезонни услуги и цени.",
+      "highlights": [
+        "Залив до исторически минни съоръжения",
+        "Чиста вода и впечатляващи скали",
+        "Хлъзгави каменни плочи под водата",
+        "Пешеходен достъп от Лименария през Палатаки",
+        "Сезонни шезлонги, чадъри и плажен бар"
+      ],
+      "seo_title": "Плаж Металия, Тасос – достъп, история и удобства",
+      "seo_description": "Разгледайте плаж Металия до Лименария: пясък и камъчета, скалисто дъно, стари мини, достъп и полезни съвети.",
+      "social_caption": "🏖️ Металия, Тасос: тюркоазен залив, в който морето среща историята на старите мини. 📸 Красиви гледки, но носете обувки за вода! 🇬🇷 #Тасос #Металия #Лименария",
+      "photo_alt": "Заливът Металия на Тасос с тюркоазено море, пясък и камъчета и останки от минни постройки в близост."
+    },
+    "sr": {
+      "name": "Metalia Beach (Metalija)",
+      "tagline": "Tirkizno more, stene pod vodom i tragovi starih rudnika",
+      "summary": "Neobična uvala istočno od Limenarije, sa peskom, sitnim šljunkom, glatkim kamenim pločama u vodi i ostacima rudarskih postrojenja ispod Palatakija.",
+      "description": "Plaža Metalia nalazi se odmah istočno od Limenarije, u maloj uvali ispod brda sa zdanjem Palataki i ostacima nekadašnjih postrojenja za preradu rude. Bistra, često tirkizna voda, svetle stene i industrijski ostaci stvaraju prepoznatljiv ambijent koji se razlikuje od mnogih drugih plaža na Tasosu. Na obali ima peska i sitnog šljunka, dok se u vodi na brojnim mestima nalaze velike, glatke kamene ploče koje mogu biti klizave. Dubina nije svuda ista, pa ovo nije idealan izbor za one koji očekuju potpuno peščan i postepen ulazak u more. Metalia je zanimljiva ljubiteljima fotografije, istorije i opuštenog boravka uz pažljivo kupanje. Tokom sezone mogu raditi bar na plaži i delovi sa ležaljkama i suncobranima, ali uslove treba proveriti na licu mesta. Do uvale se može peške iz Limenarije, preko oblasti Palataki i niz strmiju stazu, ili automobilom uskim putem koji ponegde može biti neravan. Ne ulazite u oronule objekte i ne prolazite kroz stenovite prolaze kada je more uzburkano.",
+      "practical_tips": "Ponesite obuću za vodu zbog klizavih kamenih ploča. Proverite vetar, talase i dubinu pre ulaska u more. Pešački prilaz preko Palatakija ima nizbrdicu, pa su potrebne udobne cipele. Ako dolazite automobilom, prethodno proverite stanje uskog puta i ne računajte na zagarantovan parking. Prirodnog hlada na samoj obali nema mnogo. Sezonske usluge i cene proverite na licu mesta.",
+      "highlights": [
+        "Uvala uz ostatke istorijskih rudarskih postrojenja",
+        "Bistra voda i upečatljiv stenoviti pejzaž",
+        "Klizave kamene ploče u moru",
+        "Pešački pristup iz Limenarije preko Palatakija",
+        "Sezonske ležaljke, suncobrani i bar"
+      ],
+      "seo_title": "Metalia Beach Tasos – prilaz, istorija i sadržaji",
+      "seo_description": "Otkrijte plažu Metalia kod Limenarije: pesak i šljunak, kamene ploče u moru, stare rudnike, prilaz i praktične savete.",
+      "social_caption": "🏖️ Metalia, Tasos: tirkizna uvala u kojoj se susreću more i istorija starih rudnika. 📸 Sjajan pogled, ali ne zaboravite obuću za vodu! 🇬🇷 #Tasos #MetaliaBeach #Limenaria",
+      "photo_alt": "Uvala Metalia na Tasosu sa tirkiznom vodom, peščano-šljunkovitom obalom i ostacima nekadašnjih rudarskih postrojenja."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/metalia/images/metalia1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/metalia/images/metalia2.webp",
+      "destinations/thassos/beaches/metalia/images/metalia3.webp",
+      "destinations/thassos/beaches/metalia/images/metalia4.webp",
+      "destinations/thassos/beaches/metalia/images/metalia5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/metalia/images/",
+    "suggested_asset_names": [
+      "metalia1.webp",
+      "metalia2.webp",
+      "metalia3.webp",
+      "metalia4.webp",
+      "metalia5.webp"
+    ],
+    "image_policy": "Only user-provided, owned or appropriately licensed photographs of Metalia Beach on Thassos may be published. Image paths are assigned from filenames visible in the supplied screenshot; verify the exact beach scene, provenance, reuse rights and any attribution requirements.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_map",
+      "kind": "map_link",
+      "title": "All Over Greece — Metalia, Google Maps embedded map center",
+      "url": "https://www.allovergreece.com/Beaches/Descr/44/1007/en",
+      "detail": "Page publishes GPS 40.62374,24.58264 and links Google Maps embed centered there; not verified beach entry or parking.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "local_tourism_guide",
+      "title": "Go Thassos — Metalia Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/metalia-beach",
+      "detail": "Lists sand, pebbles, rocks, rock shelf, showers, food/drink, sunbeds/umbrellas and parking.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide",
+      "title": "Nikana — Metalia Beach, updated April 2026",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1924/metalia-beach",
+      "detail": "Describes rocky underwater slabs, optional entry from left, access from Limenaria and seasonal bar/loungers; access road may be uneven.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_limenaria",
+      "kind": "local_tourism_guide",
+      "title": "Go Thassos — Limenaria overview",
+      "url": "https://www.go-thassos.gr/about-thassos/places/limenaria",
+      "detail": "Distinguishes Metalia on east side of Limenaria from long beach west of town.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_allover",
+      "kind": "tourism_guide",
+      "title": "All Over Greece — Metalia Beach",
+      "url": "https://www.allovergreece.com/Beaches/Descr/44/1007/en",
+      "detail": "Historic iron mine remains, Palataki, beach, slippery rocks and reported seasonal facilities; descriptive claims require contextual caution.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover",
+      "kind": "travel_guide",
+      "title": "Discover Thassos — Metalia Beach",
+      "url": "https://www.discover-thassos.com/listing/metalia-beach-thassos/",
+      "detail": "Historical setting, path/car access, water shoes and reported bar; promotional seasonal claims not adopted as fixed facts.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_osm",
+      "kind": "independent_cartography",
+      "title": "Mapcarta / OpenStreetMap — Metalia beach",
+      "url": "https://mapcarta.com/W205687536",
+      "detail": "OSM mapped beach geometry and approx centroid 40.62374,24.58257; this is independent cross-check, not Google Maps confirmation.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_catalog",
+      "kind": "photo_catalog",
+      "title": "Wikimedia Commons — Metallia Beach",
+      "url": "https://commons.wikimedia.org/wiki/Category:Metallia_Beach",
+      "detail": "20 photo candidates catalogued, file licensing must be verified individually.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm the exact Google Maps beach pin and parking/access route; current location is a mapped center, not entrance",
+      "Recheck whether the access road is suitable for the visitor vehicle and path is usable",
+      "Confirm 2027-season beach bar, showers, toilets and sunbed availability before future promotion",
+      "Verify entry, swimming conditions and any lifeguard provision in situ",
+      "Confirm that metalia1.webp–metalia5.webp depict Metalia Beach east of Limenaria, not a different beach or nearby cove; verify image provenance, reuse rights and any required attribution.",
+      "Review all six language texts before public publication"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; commercial reuse rights to the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local image paths assigned from filenames visible in the supplied screenshot. The actual WebP files, exact geographic subjects and commercial publication rights have not been independently checked."
+  }
+}

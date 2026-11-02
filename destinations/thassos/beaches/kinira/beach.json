@@ -1,0 +1,408 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-kinira",
+  "slug": "kinira",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Κοίνυρα",
+    "international_name": "Kinira Beach",
+    "aliases": [
+      "Kinira Beach",
+      "Koinira Beach",
+      "Koinyra Beach",
+      "Kinyra Beach",
+      "Kinira",
+      "Koinira",
+      "Koinyra",
+      "Κοίνυρα",
+      "Παραλία Κοίνυρα",
+      "Παραλίες Κοινύρων"
+    ],
+    "entity_scope": "Two adjacent, publicly described beach stretches along the coastal settlement of Kinira (Koinyra), separated by a small rocky cape on the eastern coast of Thassos. One stretch is predominantly pebbly with sand; another is sandier. Treated as a single locality-level beach record until precise independent sector names and boundaries are verified.",
+    "deduplication_warning": "Kinira/Koinira/Koinyra/Kinyra refer to the same settlement beach area. Do not create duplicate records based solely on romanization or split the two beach stretches without established names and verified boundaries. Paradise/Paradeisos Beach, about 2 km to the south, is a separate existing beach, not Kinira. Kiniriotiko/Koinyra islet offshore is not a beach sector and its photographs must not be misidentified as mainland beach views."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "eastern coast, Kinira (Koinyra) settlement",
+    "settlements": [
+      "Kinira (Koinyra)",
+      "Skala Potamia (north; regional reference)",
+      "Paradise Beach / Paradeisos (south; separate beach)"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kinira%20Beach%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_google_maps_search",
+    "coordinate_type": "unverified_representative_beach_pin_for_two_sectors",
+    "coordinate_review_status": "Mainland locality verified in multiple independent descriptions. CalmBeach publishes approximately 40.66699, 24.76379 for Kinyra beach, but this is NOT a verified Google Maps pin and does not describe both ends of the two beach stretches; lat/lng intentionally null until a specific representative Google Maps point is checked.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mixed_sand_pebbles_and_stones; one_sector_more_pebbly_another_more_sandy",
+    "seabed_near_shore": "rocky_or_stony_first_metres_at_some_points; sandy_bottom_further_out_and_in_selected_sections",
+    "water_entry": "varies_between_rocky_and_more_gradual_sandy_sections",
+    "nearshore_depth": "shallow_in_some_sandy_sections; depth_varies_by_entry_point",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "weather_and_east_coast_wind_dependent; calm_periods_possible",
+    "exposure": "east_facing_open_coastal_stretches_with_small_headland",
+    "natural_shade_on_sand": "limited_and_position_dependent; trees_behind_parts_of_shore",
+    "beach_length_m": null,
+    "length_note": "Local guides describe two village beach sections of different character, but no authoritative measurements or verified segment endpoints were found; no length claimed.",
+    "backdrop": "olive groves, green pine-clad hills and small coastal buildings, with views toward Kiniriotiko islet",
+    "shoreline_type": "two_narrow_village_beach_stretches_separated_by_small_rocky_cape"
+  },
+  "visitor_experience": {
+    "organization": "predominantly_unorganized_with_possible_accommodation_serviced_pockets",
+    "suitable_for": [
+      "couples",
+      "quiet_relaxation",
+      "nature_lovers",
+      "swimming",
+      "snorkeling_when_calm",
+      "photography",
+      "visitors_with_own_beach_gear",
+      "families_who_choose_a_sandy_entry_and_supervise_children"
+    ],
+    "notable_for": [
+      "two_different_village_beach_stretches",
+      "sand_and_pebble_mix",
+      "clear_water",
+      "kiniriotiko_islet_view",
+      "generally_quiet_atmosphere",
+      "rocky_entry_in_some_sections",
+      "green_hills_and_olive_groves"
+    ],
+    "activities_possible": [
+      "swimming",
+      "careful_snorkeling",
+      "sunbathing",
+      "shoreline_photography",
+      "relaxed_coastal_walks_where_passable"
+    ],
+    "estimated_crowd_peak": "often_quieter_than_popular_organized_beaches; local_variation_in_high_season",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Some entries have stones and uneven rock before the seabed becomes sandy; water shoes are advisable. Wind and waves may alter safety on the exposed eastern shoreline. Children require active supervision even in reportedly shallow sections. Do not assume lifeguard cover or safe access around every headland."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Local 2024 guide states no public beach toilets. Facilities of nearby accommodation operators must not be presumed publicly accessible; current provision not confirmed."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "No general beach showers in local descriptions; any operator shower and its public accessibility require on-site confirmation."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No reliable current operator or municipality confirmation of active lifeguard coverage on either stretch; treat as unverified.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Approaches from the village and parking exist, but no continuous barrier-free access or adapted sea-entry facilities independently verified.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Most of the shore is described as unorganized; scattered loungers/umbrellas may be associated with individual accommodation or café operators. There is no confirmed beach-wide public provision of toilets, showers, changing cabins or lifeguards. Amenities in the settlement are not necessarily beach facilities."
+  },
+  "access_and_cost": {
+    "road_access": "paved_east_coast_island_road_into_kinira; individual_shore_access_on_local_paths_or_short_walks_varies_by_sector",
+    "public_transport": "KTEL_bus_access_to_kinira_reported_by_local_guide; current_stop_position_frequency_and_timetable_unverified",
+    "parking_type": "limited_local_and_roadside_parking_near_village_beach_access_points; exact_legal_spaces_not_mapped",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Only some accommodation/café stretches may provide loungers or umbrellas. Public availability, requirements and current tariffs are not confirmed.",
+    "best_arrival_advice": "Choose which of the two village shores you want before setting out: one is more stony, another more sandy. Carry a beach mat, personal umbrella, drinking water, sun protection and water shoes. Check each entry on foot; do not park across driveways or assume hotel equipment is for general public use. Check bus times separately if not driving.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Local tourism sources place the Kinira settlement around 20–22 km from Limenas; the precise road distance to a chosen beach entrance remains unverified."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Kinira Beach (Koinyra)",
+      "tagline": "Două plaje liniștite, între dealuri verzi și insulița Kiniriotiko",
+      "summary": "Kinira este o zonă de plajă din estul insulei Thassos, în dreptul satului cu același nume. Două porțiuni de coastă, separate de un mic promontoriu, alternează nisipul cu pietricelele și oferă o atmosferă mai liniștită decât plajele mari amenajate.",
+      "description": "Pe coasta estică a insulei Thassos, Kinira este locul în care vacanța se desfășoară într-un ritm mai calm. De-a lungul satului se află două porțiuni de plajă despărțite de un mic promontoriu stâncos: una are mai multe pietricele și pietre netede, iar cealaltă oferă sectoare mai nisipoase. Nu trebuie confundate cu Paradise Beach, aflată mai la sud și cunoscută pentru aspectul său diferit și pentru amenajările turistice. La Kinira, apa este de obicei limpede, iar în anumite locuri primii metri ai intrării în mare sunt pietroși; mai departe se întâlnește și fund nisipos. Există sectoare cu intrare relativ lină, dar alegerea locului contează mai mult decât la o plajă uniform nisipoasă. Pinii, măslinii și casele discrete de la poalele dealurilor completează peisajul, în timp ce în larg se vede mica insulă Kiniriotiko. Tocmai caracterul predominant neamenajat atrage vizitatorii care preferă prosopul și umbrela proprie, înotul liniștit sau explorarea cu mască în zilele fără valuri. Unele unități de cazare din apropiere pot oferi sezonier șezlonguri, însă nu există un serviciu uniform pe toată lungimea țărmului. Restaurantele și cafenelele se găsesc în localitate, nu neapărat direct pe nisip. Kinira este potrivită pentru cine apreciază simplitatea și priveliștea, nu pentru cine caută un beach bar mare și facilități garantate.",
+      "practical_tips": "Alege cu atenție porțiunea de plajă: există diferențe vizibile între malurile cu pietricele și cele mai nisipoase. Ia încălțăminte de apă, deoarece în unele locuri intrarea este stâncoasă, plus umbrelă, apă și protecție solară; umbra copacilor nu acoperă tot țărmul. Nu presupune că vei găsi toalete, dușuri, vestiare sau salvamar. Șezlongurile vizibile pot aparține unor unități de cazare și pot avea condiții proprii. Parcarea se face în zonele permise din apropierea satului; verifică traseul pietonal înainte de a coborî cu bagajele. Dacă vii cu autobuzul, consultă separat orarul actual. Supraveghează copiii chiar și acolo unde apa pare puțin adâncă și urmărește vântul de pe coasta estică.",
+      "highlights": [
+        "Două sectoare de plajă separate de un mic promontoriu",
+        "Nisip, pietricele și apă în general limpede",
+        "Priveliște spre insulița Kiniriotiko",
+        "Atmosferă liniștită și țărm predominant neamenajat",
+        "Taverne și cazare în satul Kinira"
+      ],
+      "seo_title": "Kinira Beach Thassos – plaje liniștite, acces și sfaturi",
+      "seo_description": "Descoperă Kinira Beach din Thassos: două porțiuni cu nisip și pietricele, apă limpede, vedere spre Kiniriotiko, acces și sfaturi utile.",
+      "social_caption": "🌿 Kinira Beach, Thassos: două plaje tihnite, apă limpede și o insuliță verde la orizont. 🏖️ Ia încălțămintea de apă și descoperă partea mai liniștită a insulei. 🇬🇷 #Thassos #Kinira #GreekIslands",
+      "photo_alt": "Țărmul Kinira din estul insulei Thassos, cu nisip și pietricele, apă limpede și insulița Kiniriotiko în larg."
+    },
+    "en": {
+      "name": "Kinira Beach (Koinyra)",
+      "tagline": "Two peaceful village shores facing a small green islet",
+      "summary": "Kinira Beach refers to two coastal stretches beside the village of Kinira on eastern Thassos, divided by a small rocky headland. Sand, pebbles and clear water make this a quieter, largely unserviced alternative to the island’s busy beach resorts.",
+      "description": "On the eastern coast of Thassos, Kinira offers a gentler pace than the island’s better-known organised beaches. The village has two distinct shoreline stretches separated by a picturesque rocky headland: one is predominantly pebbly with patches of sand, while the other has sandier sections. Together they form the Kinira beach area, which should not be confused with Paradise Beach a little farther south. The sea is often clear enough to see the changing seabed. At some points stones and rock make the first steps awkward, before sand appears farther out; other sections have a more gradual, sandy entry. Finding your preferred swimming spot matters here more than on an even, sandy bay. Olive groves and pine-covered slopes rise behind the village, and the small green islet of Kiniriotiko adds a distinctive view offshore. Much of the waterfront remains naturally simple: visitors spread out with their own towels and parasols, swim, or explore the underwater edges with a mask when the water is calm. A few accommodation or café stretches may provide loungers or umbrellas in season, but there is no reliable beach-wide service. Tavernas, small food outlets and lodging are found in the village rather than at every point along the water. Kinira suits travellers who value space, an informal atmosphere and an attractive coastal outlook, while those needing guaranteed showers, toilets or extensive beach facilities should plan accordingly.",
+      "practical_tips": "Look at both village beaches before choosing your spot: the pebbly and sandier stretches offer different water entries. Bring water shoes for occasional rocky shallows, plus drinking water, sun protection, a mat and your own umbrella because tree shade is patchy. Do not rely on public toilets, showers, changing rooms or lifeguards. Any loungers near accommodation may be privately managed, with seasonal conditions. Use lawful local parking and check the short access walk before unloading. Bus services are reported for Kinira, but routes, stops and schedules need a fresh check. Children should be supervised even in shallow sections, and wind or waves can change conditions quickly on the open east coast.",
+      "highlights": [
+        "Two village beach stretches divided by a rocky point",
+        "A varied mix of sand, pebbles and clear seawater",
+        "Open views toward green Kiniriotiko islet",
+        "Predominantly unorganised and often peaceful shoreline",
+        "Village tavernas and accommodation nearby"
+      ],
+      "seo_title": "Kinira Beach Thassos – quiet coves, access & tips",
+      "seo_description": "Explore Kinira Beach on Thassos: two village beaches, sand and pebbles, clear water, Kiniriotiko islet views, access and practical advice.",
+      "social_caption": "🌿 Kinira Beach, Thassos: two peaceful village shores, clear Aegean water and a green islet offshore. 🏖️ Pack water shoes and your own beach gear for a quieter island day. 🇬🇷 #Thassos #KiniraBeach #GreeceTravel",
+      "photo_alt": "Kinira village shoreline on eastern Thassos, with sand and pebbles, clear sea and the green Kiniriotiko islet offshore."
+    },
+    "el": {
+      "name": "Παραλία Κοίνυρα",
+      "tagline": "Δύο ήσυχες ακτές με θέα στο καταπράσινο νησάκι",
+      "summary": "Στα Κοίνυρα, στην ανατολική Θάσο, υπάρχουν δύο παραλιακά τμήματα που χωρίζονται από ένα μικρό βραχώδες ακρωτήριο. Άμμος, βότσαλα και καθαρά νερά δημιουργούν ένα ήρεμο περιβάλλον, μακριά από την ένταση των μεγάλων οργανωμένων παραλιών.",
+      "description": "Στην ανατολική πλευρά της Θάσου, τα Κοίνυρα διατηρούν την ατμόσφαιρα ενός ήσυχου παραθαλάσσιου οικισμού. Κατά μήκος του χωριού σχηματίζονται δύο διαφορετικά τμήματα παραλίας, χωρισμένα από ένα μικρό βραχώδες ακρωτήριο. Το ένα έχει κυρίως βότσαλα με λίγη άμμο, ενώ στο άλλο συναντά κανείς πιο αμμώδη σημεία. Μαζί αποτελούν τις παραλίες των Κοινύρων και δεν πρέπει να συγχέονται με την ξεχωριστή παραλία Παράδεισος, λίγο νοτιότερα. Η θάλασσα είναι συνήθως διαυγής, αλλά ο βυθός αλλάζει από σημείο σε σημείο. Σε ορισμένα σημεία τα πρώτα βήματα γίνονται πάνω σε πέτρες ή βράχια και στη συνέχεια εμφανίζεται άμμος, ενώ αλλού η είσοδος είναι πιο ομαλή. Πίσω από την ακτή απλώνονται ελαιώνες, πεύκα και καταπράσινοι λόφοι, ενώ απέναντι διακρίνεται η μικρή νησίδα Κοίνυρα, γνωστή και ως Κοινυριώτικο. Η παραλία παραμένει στο μεγαλύτερο μέρος της χωρίς οργανωμένες υποδομές, κάτι που αρέσει σε όσους προτιμούν την ηρεμία, το μπάνιο και την εξερεύνηση με μάσκα σε ήρεμη θάλασσα. Σε ορισμένα σημεία κοντά σε καταλύματα ή καφέ μπορεί να υπάρχουν εποχικές ξαπλώστρες, αλλά οι παροχές δεν είναι ενιαίες ή εγγυημένες. Ταβέρνες και μικρά καταστήματα λειτουργούν στον οικισμό, όχι απαραίτητα επάνω στην ακτή. Τα Κοίνυρα είναι ιδιαίτερα ευχάριστα για απλές διακοπές δίπλα στη φύση, αρκεί να έρθετε προετοιμασμένοι για μια κυρίως μη οργανωμένη παραλία.",
+      "practical_tips": "Εξετάστε και τα δύο παραλιακά τμήματα πριν διαλέξετε πού θα καθίσετε, επειδή η άμμος, τα βότσαλα και η είσοδος στη θάλασσα διαφέρουν. Πάρτε παπούτσια θαλάσσης για τα πετρώδη σημεία, καθώς και νερό, αντηλιακό, ψάθα και δική σας ομπρέλα. Η σκιά από τα δέντρα δεν καλύπτει όλη την ακτή. Μην θεωρείτε δεδομένες δημόσιες τουαλέτες, ντους, αποδυτήρια ή ναυαγοσώστη. Οι ξαπλώστρες κοντά σε καταλύματα μπορεί να εξυπηρετούν μόνο συγκεκριμένους πελάτες. Σταθμεύστε σε επιτρεπόμενα σημεία και ελέγξτε τη διαδρομή με τα πόδια. Αν χρησιμοποιήσετε λεωφορείο, επιβεβαιώστε τα τρέχοντα δρομολόγια. Προσέχετε τα παιδιά και παρακολουθείτε τον άνεμο και τον κυματισμό.",
+      "highlights": [
+        "Δύο παραλίες του χωριού χωρισμένες από μικρό ακρωτήριο",
+        "Άμμος, βότσαλα και συνήθως διαυγή νερά",
+        "Θέα προς τη νησίδα Κοινυριώτικο",
+        "Ήσυχη ακτή κυρίως χωρίς οργανωμένες παροχές",
+        "Ταβέρνες και καταλύματα στον οικισμό"
+      ],
+      "seo_title": "Παραλία Κοίνυρα Θάσος – πρόσβαση, βυθός και συμβουλές",
+      "seo_description": "Γνωρίστε τις παραλίες των Κοινύρων στη Θάσο: άμμος, βότσαλα, καθαρά νερά, θέα στη νησίδα, πρόσβαση και χρήσιμες συμβουλές.",
+      "social_caption": "🌿 Κοίνυρα, Θάσος: δύο ήσυχες παραλίες, διάφανα νερά και ένα πράσινο νησάκι στον ορίζοντα. 🏖️ Με παπούτσια θαλάσσης και τη δική σας ομπρέλα, ανακαλύψτε μια πιο χαλαρή πλευρά του νησιού. 🇬🇷 #Θάσος #Κοίνυρα #Ελλάδα",
+      "photo_alt": "Η ακτή στα Κοίνυρα της ανατολικής Θάσου, με άμμο, βότσαλα, καθαρή θάλασσα και τη νησίδα Κοινυριώτικο στο βάθος."
+    },
+    "de": {
+      "name": "Kinira Beach (Koinyra)",
+      "tagline": "Zwei ruhige Dorfstrände mit Blick auf eine grüne Insel",
+      "summary": "An der Ostküste von Thassos liegen bei Kinira zwei Strandabschnitte, die durch eine kleine felsige Landzunge getrennt sind. Sand, Kiesel und klares Wasser prägen diese überwiegend naturbelassenen Ufer fernab großer Strandclubs.",
+      "description": "An der Ostküste von Thassos zeigt sich Kinira von einer angenehm ruhigen Seite. Entlang des kleinen Küstenortes erstrecken sich zwei Strandabschnitte, getrennt durch eine malerische felsige Landzunge. Einer besteht vor allem aus glatten Kieseln und etwas Sand, der andere besitzt sandigere Stellen. Beide gehören zum Strandgebiet von Kinira und sind nicht mit dem weiter südlich liegenden Paradise Beach gleichzusetzen. Das Meer ist meist klar, doch der Untergrund verändert sich innerhalb weniger Meter: Mancherorts führen die ersten Schritte über Steine oder Fels, bevor sandiger Boden beginnt; an anderen Stellen geht es gleichmäßiger ins Wasser. Es lohnt sich deshalb, den für die eigenen Bedürfnisse passenden Abschnitt zu wählen. Hinter dem Dorf steigen grüne Hänge mit Olivenhainen und Pinien auf. Vor der Küste liegt die kleine bewachsene Insel Kiniriotiko, die dem Blick aufs Meer einen besonderen Akzent verleiht. Der überwiegende Teil des Ufers ist nicht bewirtschaftet: Besucher bringen Handtücher und Sonnenschirme selbst mit und genießen das Schwimmen oder vorsichtige Schnorcheln bei ruhiger See. Bei einzelnen Unterkünften oder Cafés können im Sommer Liegen und Schirme bereitstehen, allerdings handelt es sich nicht um eine durchgehende Strandausstattung. Tavernen und Einkaufsmöglichkeiten findet man im Ort, nicht an jeder Stelle des Strandes. Wer Natur, Platz und eine entspannte Atmosphäre sucht, wird Kinira schätzen. Wer dagegen auf öffentliche Duschen, Umkleiden oder einen bewachten Strand angewiesen ist, sollte die aktuelle Ausstattung unbedingt vorab prüfen.",
+      "practical_tips": "Sehen Sie sich möglichst beide Strandabschnitte an: Der Einstieg wechselt zwischen steinigen und sandigeren Bereichen. Badeschuhe sind an manchen Stellen sehr hilfreich; nehmen Sie außerdem Wasser, Sonnenschutz, Strandmatte und einen eigenen Schirm mit, da Baumschatten nur punktuell vorhanden ist. Öffentliche Toiletten, Duschen, Umkleiden und Rettungsschwimmer sind nicht verlässlich bestätigt. Liegen vor Unterkünften können nur für deren Gäste bestimmt sein. Parken Sie ausschließlich an erlaubten Stellen im Dorf und prüfen Sie den kurzen Fußweg zum gewählten Abschnitt. Falls Sie mit dem Bus kommen, informieren Sie sich über aktuelle Linien und Haltestellen. Beaufsichtigen Sie Kinder auch in flach wirkendem Wasser und achten Sie auf Wind und Wellen.",
+      "highlights": [
+        "Zwei Dorfstrände mit kleiner felsiger Trennung",
+        "Abwechslungsreiche Sand- und Kiesufer mit klarem Meer",
+        "Blick auf die bewachsene Insel Kiniriotiko",
+        "Überwiegend naturbelassen und oft angenehm ruhig",
+        "Tavernen und Unterkünfte im Dorf Kinira"
+      ],
+      "seo_title": "Kinira Beach Thassos – ruhige Strände, Anfahrt und Tipps",
+      "seo_description": "Kinira Beach auf Thassos: zwei Dorfstrände mit Sand und Kieseln, klares Meer, Blick auf Kiniriotiko sowie Hinweise zu Anfahrt und Ausstattung.",
+      "social_caption": "🌿 Kinira Beach auf Thassos: zwei stille Dorfstrände, glasklares Wasser und eine grüne Insel vor der Küste. 🏖️ Badeschuhe und eigenen Sonnenschirm einpacken und die ruhige Seite der Insel genießen! 🇬🇷 #Thassos #Kinira #Griechenland",
+      "photo_alt": "Strandabschnitt bei Kinira im Osten von Thassos mit Sand und Kieseln, klarem Wasser und der grünen Insel Kiniriotiko im Hintergrund."
+    },
+    "bg": {
+      "name": "Плаж Кинира (Койнира)",
+      "tagline": "Два спокойни плажа с гледка към зелено островче",
+      "summary": "Кинира се намира на източния бряг на Тасос и включва две крайбрежни ивици край едноименното селище, разделени от малък скалист нос. Пясъкът, камъчетата и чистата вода създават приятна алтернатива на оживените организирани плажове.",
+      "description": "На източния бряг на Тасос Кинира предлага по-тиха атмосфера и красиви природни гледки. Край селото има две отделни плажни ивици, разделени от малък живописен скалист нос. Едната е предимно с обли камъчета и пясък, а другата има повече пясъчни участъци. И двете се разглеждат като плажната зона на Кинира и не бива да се смесват с близкия, но самостоятелен Парадайс Бийч на юг. Морската вода обикновено е прозрачна, но дъното се променя според мястото. На някои участъци първите метри са каменисти и след тях започва пясък, докато другаде навлизането е по-плавно. Затова изборът на точно място за плуване е важен, особено при посещение с деца. Зад брега се издигат зелени склонове с маслинови горички и борове, а в морето се вижда малкият остров Кинириотико, който придава особен чар на пейзажа. По-голямата част от плажа е неорганизирана и привлича хора, предпочитащи спокойствие, собствен чадър, плуване и разглеждане на подводните скали с маска при тихо море. Пред някои места за настаняване или заведения може сезонно да има шезлонги, но не и непрекъснато обслужване по цялата ивица. В селото има таверни, кафенета и квартири, без това да означава, че удобства ще има точно до избрания участък на плажа. Кинира е подходяща за почивка сред природата, когато носите необходимото и не очаквате големи плажни комплекси.",
+      "practical_tips": "Разгледайте двата участъка, преди да се настаните, тъй като единият е по-каменист, а другият предлага повече пясък. Вземете обувки за вода, питейна вода, слънцезащита, постелка и собствен чадър; естествената сянка не покрива целия бряг. Не разчитайте на обществени тоалетни, душове, съблекални или спасител без актуална проверка. Шезлонгите пред хотели и къщи за гости може да са предназначени само за определени клиенти. Паркирайте единствено на разрешените места и проверете пътеката до плажа. Ако използвате автобус, потвърдете разписанието и спирката. Наблюдавайте децата и следете вятъра и вълните по открития източен бряг.",
+      "highlights": [
+        "Две селски плажни ивици, разделени от скалист нос",
+        "Пясък, камъчета и обикновено бистра вода",
+        "Гледка към зеленото островче Кинириотико",
+        "Предимно див и спокоен морски бряг",
+        "Таверни и места за настаняване в селото"
+      ],
+      "seo_title": "Плаж Кинира, Тасос – спокойствие, достъп и съвети",
+      "seo_description": "Открийте Кинира на Тасос: две плажни ивици с пясък и камъчета, бистра вода, гледка към островчето и практични съвети.",
+      "social_caption": "🌿 Кинира, Тасос: два спокойни плажа, чисто море и зелено островче на хоризонта. 🏖️ Вземете обувки за вода и собствен чадър за един тих ден край морето. 🇬🇷 #Тасос #Кинира #Гърция",
+      "photo_alt": "Плажът в Кинира на източния бряг на Тасос, с пясък, камъчета, бистра вода и островчето Кинириотико в морето."
+    },
+    "sr": {
+      "name": "Plaža Kinira (Koinira)",
+      "tagline": "Dve mirne seoske plaže sa pogledom na zeleno ostrvce",
+      "summary": "Kinira se nalazi na istočnoj obali Tasosa. Uz istoimeno naselje pružaju se dva dela obale odvojena malim stenovitim rtom, sa peskom, oblucima i bistrom vodom, uglavnom bez velikih uređenih sadržaja.",
+      "description": "Na istočnoj obali Tasosa Kinira nudi drugačiji, mirniji doživljaj mora. Uz malo priobalno naselje nalaze se dva dela plaže, između kojih se pruža slikovit stenoviti rt. Jedan deo je pretežno šljunkovit, sa glatkim oblucima i ponešto peska, dok drugi ima više peščanih površina. Oba pripadaju području plaže Kinira i nisu isto što i poznata plaža Paradise koja se nalazi nešto južnije. More je najčešće bistro, ali se ulaz u vodu razlikuje od mesta do mesta. Negde prvih nekoliko koraka vodi preko kamenja ili stena, a zatim se dno pretvara u pesak; na drugim mestima ulazak je postepeniji. Zato vredi prošetati i izabrati deo koji najviše odgovara plivačima, posebno porodicama sa decom. Iznad obale uzdižu se zeleni brežuljci sa maslinjacima i borovima, a ispred sela vidi se malo zeleno ostrvo Kiniriotiko. Veći deo obale zadržao je prirodan izgled: posetioci donose sopstvene peškire i suncobrane, kupaju se ili pažljivo rone sa maskom pored kamenitih delova kada je more mirno. Kod pojedinih smeštajnih objekata ili kafića mogu se u sezoni pojaviti ležaljke, ali ne postoji jedinstvena usluga duž cele plaže. U selu ima taverni, manjih prodavnica i smeštaja, što ne znači da su svi sadržaji dostupni neposredno na svakom delu obale. Kinira je dobar izbor za one koji vole jednostavan dan pored mora, lepu prirodu i nešto više mira od velikih turističkih plaža.",
+      "practical_tips": "Pre nego što spustite stvari, pogledajte oba dela obale: negde preovlađuju obluci, a drugde ima više peska. Ponesite obuću za vodu zbog kamenitog ulaza na pojedinim mestima, kao i vodu, zaštitu od sunca, prostirku i sopstveni suncobran. Prirodna hladovina nije svuda dostupna. Ne oslanjajte se na javne toalete, tuševe, kabine ili spasioca bez prethodne provere. Ležaljke ispred smeštaja mogu imati posebna pravila. Parkirajte samo na dozvoljenim mestima i proverite pešački prilaz. Ako dolazite autobusom, proverite aktuelni red vožnje i stajalište. Decu nadgledajte i u plićaku, a pre kupanja obratite pažnju na vetar i talase.",
+      "highlights": [
+        "Dva dela obale razdvojena malim stenovitim rtom",
+        "Mešavina peska i oblutaka sa uglavnom bistrom vodom",
+        "Pogled na zeleno ostrvce Kiniriotiko",
+        "Pretežno neuređena i mirna plaža",
+        "Taverne i smeštaj u naselju Kinira"
+      ],
+      "seo_title": "Plaža Kinira Tasos – mirno more, prilaz i saveti",
+      "seo_description": "Otkrijte plažu Kinira na Tasosu: dva dela obale sa peskom i oblucima, bistro more, pogled na ostrvce i praktični saveti.",
+      "social_caption": "🌿 Kinira na Tasosu: dve mirne seoske plaže, bistro more i zeleno ostrvce na vidiku. 🏖️ Ponesite obuću za vodu i svoj suncobran i uživajte u tišoj strani ostrva. 🇬🇷 #Tasos #Kinira #Grčka",
+      "photo_alt": "Obala Kinire na istočnom Tasosu, sa peskom i oblucima, bistrom morskom vodom i ostrvcetom Kiniriotiko u daljini."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/kinira/images/kinira1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/kinira/images/kinira2.webp",
+      "destinations/thassos/beaches/kinira/images/kinira3.webp",
+      "destinations/thassos/beaches/kinira/images/kinira4.webp",
+      "destinations/thassos/beaches/kinira/images/kinira5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/kinira/images/",
+    "suggested_asset_names": [
+      "kinira1.webp",
+      "kinira2.webp",
+      "kinira3.webp",
+      "kinira4.webp",
+      "kinira5.webp"
+    ],
+    "image_policy": "Use only user-provided, owned or appropriately licensed photographs of Kinira Beach on Thassos. Paths are assigned from screenshot filenames; verify the images show mainland Kinira (not Paradise Beach or only the offshore islet), provenance and publication rights.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_gothassos_kinira",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Kinira village",
+      "url": "https://www.go-thassos.gr/about-thassos/places/kinira",
+      "detail": "Two beach stretches divided by small cape, one predominantly pebble and one sandy; settlement tavernas and green island views.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_gothassos_beach",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Kinira Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/kinira-beach",
+      "detail": "Mixed sand/pebbles/rocks/rock shelves, varying depths and parking listed; not a precise segment-by-segment accessibility guarantee.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_thassosview_el",
+      "kind": "local_travel_guide",
+      "title": "Thassos View (Greek) — Παραλία Κοίνυρα",
+      "url": "https://www.thassos-view.com/el/perioxes/paralies/kinira",
+      "detail": "Greek local name, two beaches along village, mixed beach surfaces and sandy seabed.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_beach",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Kinira beach (updated July 2024)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1931/kinira-beach",
+      "detail": "Narrow mostly unorganized shore, stones near entry, sandy portions farther out, seasonal accommodation loungers, no general toilets/showers/changing rooms reported.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_village",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Kinira settlement",
+      "url": "https://ns1.nikana.gr/en/tourist-guide/thassos/places/1947/kinira",
+      "detail": "Village amenities, green character and nearby distinct Paradise Beach; avoid interpreting broad geographical wording as beach boundaries.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_mythassos",
+      "kind": "local_tourism_guide",
+      "title": "MyThassos — Kinira",
+      "url": "https://mythassos.app/en/places/%CE%BA%CE%BF%CE%B9%CE%BD%CF%85%CF%81%CE%B1",
+      "detail": "Two sand-and-pebble village beaches, Paradise/Paradeisos separate ~2 km away, village tavernas, islet opposite, approximate village distance from Limenas.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover_thassos",
+      "kind": "local_travel_guide",
+      "title": "Discover Thassos — Kinira Beach",
+      "url": "https://www.discover-thassos.com/listing/kinira-beach-thassos/",
+      "detail": "Narrow quiet shore, sand/pebbles, occasional rocks and tree shade, village food options; season-dependent guide observations.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_staythassos",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Kinira Beach: local review",
+      "url": "https://staythassos.gr/kinira-beach/",
+      "detail": "Rocky entries with sandy patches, snorkelling, northern sandier points, islet view and low-key character.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_terrabook_el",
+      "kind": "regional_directory",
+      "title": "Terrabook (Greek) — Κοίνυρα",
+      "url": "https://greece.terrabook.com/el/thassos/page/koinira/",
+      "detail": "Independent Greek reference for two village beaches: longer pebble stretch and shorter sandier stretch.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_calmbeach",
+      "kind": "independent_beach_directory",
+      "title": "CalmBeach — Kinyra Beach",
+      "url": "https://calmbeach.gr/beaches/thasos/843-kinyra/",
+      "detail": "Directory coordinate near 40.66699,24.76379; NOT verified against Google Maps pin, so not inserted into lat/lng.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_islet",
+      "kind": "image_license",
+      "title": "Wikimedia Commons — 20080606 Kinira Island.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:20080606_Kinira_Island.jpg",
+      "detail": "Fod, 2008 islet photo, individual Commons listing CC BY 2.5 Denmark; context candidate only, not proof of beach-sector view.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_google_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Kinira Beach name search, unverified pin",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kinira%20Beach%2C%20Thassos%2C%20Greece",
+      "detail": "Search link is not a verified precise beach or parking coordinate; location lat/lng deliberately null.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages_two_kinira_village_beach_stretches_one_record",
+    "requires_manual_review": [
+      "Verify a representative Google Maps pin for the mainland Kinira Beach area and distinguish both beach segments; do not insert 40.66699,24.76379 merely on the strength of an external directory.",
+      "Map exact boundaries of the two village beach sections and small cape; keep one Kinira record unless distinct stable names and coordinates justify splitting.",
+      "Keep Paradise/Paradeisos Beach separate from Kinira and do not reuse photographs of Paradise as Kinira.",
+      "Verify seasonal loungers/umbrellas, cafe-operated segments, public toilet or shower access, beach entry arrangements and any beach-specific charges on site.",
+      "Check lawful parking points, latest KTEL routes/stop position and step-free accessibility for each section.",
+      "Confirm lifeguard arrangements and identify specific rocky or sandy swimming entrances before publishing accessibility/safety claims.",
+      "Confirm kinira1.webp–kinira5.webp depict the mainland Kinira beach area (not Paradise Beach or unrelated places) and document publication rights and any required attribution.",
+      "Proofread all six translations before public release, especially place-name transliterations and Greek locative forms.",
+      "Do not assert Blue Flag award, official water-quality classification, exact shoreline length or current prices without source confirmation."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original six-language editorial text; rights to use the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local image paths assigned from the user-provided screenshot of filenames; actual image files, photo location, provenance and reuse rights have not been independently verified."
+  }
+}

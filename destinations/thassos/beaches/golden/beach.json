@@ -26,7 +26,8 @@
       "Skala Panagia",
       "Skala Potamia"
     ],
-    "lat": 40.723493866471, "lng": 24.75804201746,
+    "lat": 40.723493866471,
+    "lng": 24.75804201746,
     "coordinate_source": "google_maps",
     "google_maps_url": "https://maps.google.com/?daddr=40.723493866471%2C24.75804201746",
     "coordinate_source_reference": "s_map",
@@ -256,62 +257,23 @@
     }
   },
   "media": {
-    "cover": null,
-    "gallery": [],
+    "cover": "destinations/thassos/beaches/golden/images/golden1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/golden/images/golden2.webp",
+      "destinations/thassos/beaches/golden/images/golden3.webp",
+      "destinations/thassos/beaches/golden/images/golden4.webp",
+      "destinations/thassos/beaches/golden/images/golden5.webp"
+    ],
     "expected_folder": "destinations/thassos/beaches/golden/images/",
     "suggested_asset_names": [
-      "cover.webp",
-      "gallery_01.webp",
-      "gallery_02.webp"
+      "golden1.webp",
+      "golden2.webp",
+      "golden3.webp",
+      "golden4.webp",
+      "golden5.webp"
     ],
     "image_policy": "Only user-supplied, owned or appropriately licensed photographs can become published assets; record provenance for each.",
-    "candidate_photographs": [
-      {
-        "slot": "cover_candidate",
-        "planned_filename": "cover.webp",
-        "commons_file": "Golden Beach and Skala Potamia (Thassos) . Viewed from Mount Ipsarion (Thassos).jpg",
-        "source_page": "https://commons.wikimedia.org/wiki/File:Golden_Beach_and_Skala_Potamia_(Thassos)_._Viewed_from_Mount_Ipsarion_(Thassos).jpg",
-        "author": "Sli23121953",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "captured_year": 2023,
-        "visual_subject": "Panoramic view of bay from Mount Ipsarion",
-        "license_checked_on": "2026-10-22",
-        "status": "source_license_verified_asset_not_imported",
-        "local_path": null,
-        "rights_note": "Use with proper attribution, license link and indication of transformations; ShareAlike applies to adapted material."
-      },
-      {
-        "slot": "gallery_candidate_01",
-        "planned_filename": "gallery_01.webp",
-        "commons_file": "Golden Beach, Thassos.JPG",
-        "source_page": "https://commons.wikimedia.org/wiki/File:Golden_Beach,_Thassos.JPG",
-        "author": "Rosa-Maria Rinkl",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "captured_year": 2014,
-        "visual_subject": "Golden Beach, sand and beach facilities",
-        "license_checked_on": "2026-10-22",
-        "status": "source_license_verified_asset_not_imported",
-        "local_path": null,
-        "rights_note": "Use with attribution and modification notice if converted or cropped."
-      },
-      {
-        "slot": "gallery_candidate_02",
-        "planned_filename": "gallery_02.webp",
-        "commons_file": "Thassos-golden-beach.jpg",
-        "source_page": "https://commons.wikimedia.org/wiki/File:Thassos-golden-beach.jpg",
-        "author": "Edal Anton Lefterov",
-        "license": "CC BY-SA 3.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-        "captured_year": 2011,
-        "visual_subject": "View of Golden Beach",
-        "license_checked_on": "2026-10-22",
-        "status": "source_license_verified_asset_not_imported",
-        "local_path": null,
-        "rights_note": "Use with attribution, license URL and transformation notice."
-      }
-    ]
+    "candidate_photographs": []
   },
   "source_references": [
     {
@@ -364,20 +326,19 @@
     }
   ],
   "editorial": {
-    "status": "researched_pending_images_and_final_review",
+    "status": "researched_images_assigned_pending_final_review",
     "facts_checked_on": "2026-10-22",
     "translations_written_on": "2026-10-22",
     "coverage": "full_initial_profile_six_languages",
     "requires_manual_review": [
       "Exact Google Maps pin and access point selection",
-      "Choose and import photographs, or provide own imagery",
-      "Check photo attribution display before publishing",
+      "Confirm the five locally assigned Golden Beach images match the beach and that publication rights and any required attributions are documented",
       "Current lifeguard coverage, wheelchair facilities and shower/toilet locations",
       "Seasonal prices and operator availability",
       "Read six-language copy with native speakers before final public release"
     ],
     "publish_ready": false,
-    "rights_cleared_for_sale": "Dataset text original; candidate images not yet packaged/cleared as final deliverable.",
-    "photo_source_disclaimer": "References to Commons files are not yet local assets."
+    "rights_cleared_for_sale": "Dataset text original; rights to use the five locally referenced images have not been independently verified.",
+    "photo_source_disclaimer": "Five local image paths assigned from the supplied filename list; file presence, provenance, licences and reuse rights remain to be confirmed."
   }
 }

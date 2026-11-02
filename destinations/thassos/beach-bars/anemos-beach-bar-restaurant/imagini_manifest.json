@@ -1,0 +1,89 @@
+{
+  "parentId": "gr-thassos-beach-bar-anemos-beach-bar-restaurant",
+  "slug": "anemos-beach-bar-restaurant",
+  "note": "Exact original Romanian filenames from uploads, with only extension changed to .webp to match local copies. No automatic rename, no images included.",
+  "imageCount": 10,
+  "hero": "images/Terasă de cafenea pe malul mării.webp",
+  "images": [
+    {
+      "order": 1,
+      "file": "Terasă de cafenea pe malul mării.webp",
+      "path": "images/Terasă de cafenea pe malul mării.webp",
+      "role": "hero",
+      "group": "terrace",
+      "altEn": "Shaded tables and straw parasols on the seafront"
+    },
+    {
+      "order": 2,
+      "file": "Pește la grătar cu salată crocantă pos_title_.webp",
+      "path": "images/Pește la grătar cu salată crocantă pos_title_.webp",
+      "role": "food",
+      "group": "food",
+      "altEn": "Grilled whole fish with salad"
+    },
+    {
+      "order": 3,
+      "file": "Apus peste stațiunea de plajă.webp",
+      "path": "images/Apus peste stațiunea de plajă.webp",
+      "role": "sunset",
+      "group": "beach",
+      "altEn": "Sunset over the seafront loungers"
+    },
+    {
+      "order": 4,
+      "file": "Prânz cu fructe de mare la malul mării.webp",
+      "path": "images/Prânz cu fructe de mare la malul mării.webp",
+      "role": "food",
+      "group": "food",
+      "altEn": "Seafood served on a table overlooking the beach"
+    },
+    {
+      "order": 5,
+      "file": "Calamari crocanți cu salată și lămâie.webp",
+      "path": "images/Calamari crocanți cu salată și lămâie.webp",
+      "role": "food",
+      "group": "food",
+      "altEn": "Fried calamari with salad and lemon"
+    },
+    {
+      "order": 6,
+      "file": "Apus peste masă la malul mării.webp",
+      "path": "images/Apus peste masă la malul mării.webp",
+      "role": "sunset",
+      "group": "dining",
+      "altEn": "Dinner table by the sea at sunset"
+    },
+    {
+      "order": 7,
+      "file": "Platou mixt de carne la grătar.webp",
+      "path": "images/Platou mixt de carne la grătar.webp",
+      "role": "food",
+      "group": "food",
+      "altEn": "Mixed grilled meat platter"
+    },
+    {
+      "order": 8,
+      "file": "Panoramă vibrantă a stațiunii tropicale.webp",
+      "path": "images/Panoramă vibrantă a stațiunii tropicale.webp",
+      "role": "beach",
+      "group": "beach",
+      "altEn": "Beachfront parasols and sea from an elevated terrace"
+    },
+    {
+      "order": 9,
+      "file": "Stațiune de litoral la apus.webp",
+      "path": "images/Stațiune de litoral la apus.webp",
+      "role": "exterior",
+      "group": "beach",
+      "altEn": "Seaside beach-bar setting seen from the sea"
+    },
+    {
+      "order": 10,
+      "file": "Terasa de plajă sub pin, lângă mare.webp",
+      "path": "images/Terasa de plajă sub pin, lângă mare.webp",
+      "role": "terrace",
+      "group": "terrace",
+      "altEn": "Outdoor seating shaded by a large pine tree"
+    }
+  ]
+}

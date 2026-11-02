@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "id": "gr-thassos-restaurant-napoleon-tavern",
+  "slug": "napoleon-tavern",
+  "category": "restaurants",
+  "name": "Napoleon Tavern",
+  "nameLocal": "Ταβέρνα Ναπολέων",
+  "restaurantType": "greek_taverna",
+  "cuisine": [
+    "greek",
+    "mediterranean",
+    "seafood",
+    "grilled_food"
+  ],
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "areaSlug": "skala-sotiros",
+    "address": "Σκάλα Σωτήρος 640 10, Greece",
+    "latitude": 40.7279729430993,
+    "longitude": 24.54668149199125,
+    "coordinatesSource": "user_supplied_google_maps_coordinates",
+    "beachSlug": "skala-sotiros",
+    "beachfront": true,
+    "setting": [
+      "seaside",
+      "beachside"
+    ]
+  },
+  "contact": {
+    "phone": "+30 694 537 7172",
+    "phoneUri": "tel:+306945377172"
+  },
+  "experience": {
+    "atmosphere": [
+      "casual",
+      "cosy",
+      "relaxed",
+      "romantic_at_sunset"
+    ],
+    "views": [
+      "sea",
+      "sunset"
+    ],
+    "diningAreas": [
+      "covered_terrace",
+      "outdoor_seating",
+      "indoor_seating"
+    ],
+    "popularFor": [
+      "lunch",
+      "dinner",
+      "groups",
+      "families",
+      "couples"
+    ],
+    "serviceTypes": [
+      "dine_in",
+      "takeaway",
+      "table_service"
+    ]
+  },
+  "foodAndDrink": {
+    "describedSpecialities": [
+      "fish",
+      "seafood",
+      "calamari",
+      "octopus",
+      "prawns",
+      "grilled_specialities",
+      "greek_salads"
+    ],
+    "drinksReported": [
+      "beer",
+      "wine",
+      "cocktails",
+      "coffee",
+      "spirits"
+    ],
+    "menuFile": "menu.json",
+    "menuPolicy": "Menu file is historical and not a confirmed current menu; no live item prices or allergen guarantees."
+  },
+  "openingHours": {
+    "timezone": "Europe/Athens",
+    "weeklyReported": {
+      "monday": "09:30-23:30",
+      "tuesday": "09:30-23:30",
+      "wednesday": "09:30-23:30",
+      "thursday": "09:30-23:30",
+      "friday": "09:30-23:30",
+      "saturday": "09:30-23:30",
+      "sunday": "09:30-23:30"
+    },
+    "status": "public_listing_snapshot_unconfirmed_seasonal",
+    "snapshotDate": "2026-11-01",
+    "seasonalHoursMustBeRechecked": true
+  },
+  "booking": {
+    "acceptsTableReservations": "reported_by_google_listing",
+    "recommendedMethod": "phone",
+    "reservationRequired": "not_generally_required_according_to_one_review",
+    "automaticConfirmation": false
+  },
+  "practical": {
+    "paymentMethodsReported": [
+      "credit_card",
+      "debit_card",
+      "contactless_NFC"
+    ],
+    "familyFriendlyReported": true,
+    "dogsAllowedReported": true,
+    "accessibilityReported": [
+      "wheelchair_accessible_entrance",
+      "wheelchair_accessible_seating"
+    ],
+    "parkingReported": [
+      "free_street_parking",
+      "free_parking_lot"
+    ],
+    "parkingCaution": "Parking may be difficult to find at busy times.",
+    "amenitiesReported": [
+      "toilet",
+      "bar_on_site"
+    ],
+    "beachAmenitiesObservedInPhotos": [
+      "sun_loungers",
+      "parasols"
+    ],
+    "beachAmenitiesTerms": "Operator, entitlement, pricing and minimum consumption not confirmed."
+  },
+  "pricingGuide": {
+    "currency": "EUR",
+    "minPerPerson": 15,
+    "maxPerPerson": 35,
+    "basis": "visitor_reported_price_range_not_official_menu",
+    "sampleReporters": 46,
+    "snapshotDate": "2026-11-01"
+  },
+  "reputation": {
+    "platform": "Google Maps",
+    "reviewCountReported": 669,
+    "ratingNotProvided": true,
+    "reviewInsightSamples": [
+      {
+        "reviewer": "Ani P",
+        "relativeDateAtSnapshot": "4 months ago",
+        "summaryEn": "Praised octopus and calamari and reported consistent dining experiences across repeat visits; group of eight."
+      },
+      {
+        "reviewer": "Ivana Tosic",
+        "relativeDateAtSnapshot": "2 months ago",
+        "summaryEn": "Described a welcoming team, relaxed seaside atmosphere and enjoyable food; no reservation required during their visit."
+      },
+      {
+        "reviewer": "oTkiguess",
+        "relativeDateAtSnapshot": "2 months ago",
+        "summaryEn": "Liked portions, pricing and the quiet traditional-music atmosphere; mentioned a complimentary ice cream on their visit."
+      },
+      {
+        "reviewer": "Zoran Vujadinovic",
+        "relativeDateAtSnapshot": "1 month ago",
+        "summaryEn": "Praised coffee, hot chocolate and the peaceful beach setting."
+      },
+      {
+        "reviewer": "Razvan Tamasanu",
+        "relativeDateAtSnapshot": "2 months ago",
+        "summaryEn": "Enjoyed the food and welcoming service with children; mentioned parking could be difficult."
+      }
+    ],
+    "insightsAreNotRestaurantVerifiedPolicies": true
+  },
+  "translations": {
+    "en": {
+      "tagline": "Authentic Greek flavours by the sea",
+      "shortDescription": "Beachfront Greek tavern in Skala Sotiros with shaded seating, views of the Aegean, seafood and grilled favourites.",
+      "description": "Located directly on the beachfront in the charming village of Skala Sotiros, Thassos, Napoleon Tavern brings together traditional Greek flavours and beautiful views of the Aegean Sea. With its relaxed atmosphere, shaded terraces, and stunning seaside setting, the tavern invites visitors to enjoy Mediterranean dining at its best. The menu features fish, seafood, calamari, octopus, prawns, grilled specialities, and fresh Greek salads, perfect for a leisurely lunch after the beach or a peaceful evening meal. One of the most memorable experiences at Napoleon Tavern is watching the sunset, as golden light spreads across the sea and creates a wonderfully romantic atmosphere. Whether you're enjoying a family meal, a romantic dinner, or simply relaxing by the water, Napoleon Tavern captures the easygoing charm of a Greek island holiday, where good food, sea breezes, and beautiful moments come together.",
+      "seoTitle": "Napoleon Tavern Skala Sotiros | Greek Seafood by the Beach",
+      "seoDescription": "Napoleon Tavern in Skala Sotiros, Thassos: seafood, grilled Greek dishes, beachside terrace and sunset views. See photos and restaurant details."
+    },
+    "ro": {
+      "tagline": "Gusturi grecești autentice, chiar lângă mare",
+      "shortDescription": "Tavernă grecească pe plaja din Skala Sotiros, cu terasă umbrită, priveliște spre Marea Egee, fructe de mare și preparate la grătar.",
+      "description": "Situată chiar pe plajă, în localitatea Skala Sotiros din Thassos, Napoleon Tavern îmbină aromele bucătăriei grecești tradiționale cu priveliștea deschisă spre Marea Egee. Terasele umbrite și atmosfera relaxată sunt potrivite pentru un prânz după plajă sau pentru o cină liniștită. Printre specialitățile asociate cu localul se numără peștele, calamarii, caracatița, creveții, preparatele la grătar și salatele grecești. Spre seară, lumina apusului transformă terasa într-un loc deosebit de plăcut pentru a lua masa. Fie că vii cu familia, cu prietenii sau în doi, aici poți descoperi farmecul unei taverne grecești de pe malul mării.",
+      "seoTitle": "Napoleon Tavern Skala Sotiros | Tavernă grecească pe plajă",
+      "seoDescription": "Descoperă Napoleon Tavern în Skala Sotiros, Thassos: pește, fructe de mare, grătar, terasă la mare și apusuri. Fotografii și informații utile."
+    },
+    "el": {
+      "tagline": "Αυθεντικές ελληνικές γεύσεις δίπλα στη θάλασσα",
+      "shortDescription": "Παραθαλάσσια ταβέρνα στη Σκάλα Σωτήρος με σκιερή βεράντα, θέα στο Αιγαίο, θαλασσινά και ψητά.",
+      "description": "Η ταβέρνα Napoleon βρίσκεται δίπλα στην παραλία της Σκάλας Σωτήρος στη Θάσο και συνδυάζει παραδοσιακές ελληνικές γεύσεις με όμορφη θέα στο Αιγαίο. Η χαλαρή ατμόσφαιρα και οι σκιερές βεράντες προσφέρονται για ένα μεσημεριανό γεύμα μετά τη θάλασσα ή για ένα ήρεμο δείπνο. Ψάρια, θαλασσινά, καλαμάρι, χταπόδι, γαρίδες, ψητά και ελληνικές σαλάτες χαρακτηρίζουν την εικόνα της κουζίνας του. Το ηλιοβασίλεμα χαρίζει στην παραθαλάσσια εμπειρία μια ιδιαίτερα όμορφη ατμόσφαιρα. Είναι μια ευχάριστη επιλογή για οικογένειες, παρέες και ζευγάρια.",
+      "seoTitle": "Napoleon Tavern Σκάλα Σωτήρος | Ελληνική ταβέρνα δίπλα στη θάλασσα",
+      "seoDescription": "Η ταβέρνα Napoleon στη Σκάλα Σωτήρος Θάσου: ψάρια, θαλασσινά, ψητά, βεράντα δίπλα στην παραλία και θέα στο ηλιοβασίλεμα."
+    },
+    "de": {
+      "tagline": "Authentische griechische Küche direkt am Meer",
+      "shortDescription": "Griechische Taverne am Strand von Skala Sotiros mit schattiger Terrasse, Blick auf die Ägäis, Meeresfrüchten und Grillgerichten.",
+      "description": "Die Napoleon Tavern liegt direkt am Strand von Skala Sotiros auf Thassos und verbindet traditionelle griechische Küche mit einem weiten Blick über die Ägäis. Die schattigen Terrassen und die entspannte Atmosphäre laden zu einem Mittagessen nach dem Strandbesuch oder einem gemütlichen Abendessen ein. Fisch, Meeresfrüchte, Calamari, Oktopus, Garnelen, Grillspezialitäten und griechische Salate gehören zu den Gerichten, die mit der Taverne verbunden werden. Besonders zum Sonnenuntergang bietet die Lage am Wasser eine stimmungsvolle Kulisse. Ob mit der Familie, mit Freunden oder zu zweit: Hier steht ein unbeschwerter Urlaubsmoment am Meer im Mittelpunkt.",
+      "seoTitle": "Napoleon Tavern Skala Sotiros | Griechische Taverne am Strand",
+      "seoDescription": "Napoleon Tavern auf Thassos: Fisch, Meeresfrüchte, Grillgerichte, schattige Strandterrasse und Sonnenuntergang in Skala Sotiros."
+    },
+    "bg": {
+      "tagline": "Автентични гръцки вкусове край морето",
+      "shortDescription": "Гръцка таверна на плажа в Скала Сотирос със сенчеста тераса, гледка към Егейско море, морски дарове и ястия на скара.",
+      "description": "Napoleon Tavern се намира непосредствено до плажа в Скала Сотирос на остров Тасос и съчетава традиционни гръцки вкусове с красиви гледки към Егейско море. Сенчестите тераси и спокойната атмосфера са подходящи както за обяд след плажа, така и за вечеря край водата. Сред ястията, с които заведението е известно, са риба, морски дарове, калмари, октопод, скариди, специалитети на скара и гръцки салати. По залез слънце крайбрежната обстановка става особено приятна. Таверната е подходяща за семейства, приятели и двойки, които търсят непринудена почивка край морето.",
+      "seoTitle": "Napoleon Tavern Скала Сотирос | Гръцка таверна на плажа",
+      "seoDescription": "Napoleon Tavern на Тасос: риба, морски дарове, грил, тераса край плажа и красив залез в Скала Сотирос."
+    },
+    "sr": {
+      "tagline": "Autentični grčki ukusi uz samo more",
+      "shortDescription": "Grčka taverna na plaži u Skali Sotiros sa terasom u hladu, pogledom na Egejsko more, morskim plodovima i jelima sa roštilja.",
+      "description": "Napoleon Tavern nalazi se direktno uz plažu u mestu Skala Sotiros na Tasosu i spaja tradicionalnu grčku kuhinju sa lepim pogledom na Egejsko more. Terase u hladu i opuštena atmosfera pogodne su za ručak posle kupanja ili prijatnu večeru uz more. Riba, morski plodovi, lignje, hobotnica, škampi, specijaliteti sa roštilja i grčke salate deo su kulinarske ponude po kojoj je lokal poznat. U vreme zalaska sunca pogled na obalu stvara posebno prijatan ambijent. Mesto je privlačno porodicama, društvu i parovima koji žele pravi mediteranski odmor.",
+      "seoTitle": "Napoleon Tavern Skala Sotiros | Grčka taverna na plaži",
+      "seoDescription": "Napoleon Tavern na Tasosu: riba, morski plodovi, roštilj, terasa uz plažu i zalazak sunca u Skali Sotiros."
+    }
+  },
+  "media": {
+    "imageFolder": "images/",
+    "cover": "images/Taverna Napoleon pe plaja mediteraneană.webp",
+    "gallery": {
+      "exterior": [
+        "images/Cafenea însorită pe terasa de la malul mării.webp",
+        "images/Cafenea mediteraneană pe plajă însorită.webp",
+        "images/Taverna Napoleon pe plaja mediteraneană.webp"
+      ],
+      "interior": [
+        "images/Cafenea mediteraneană cu mobilier turcoaz.webp"
+      ],
+      "food": [
+        "images/Pește prăjit cu cartofi și lămâie.webp",
+        "images/Frigărui la grătar cu salată și cartofi prăjiți.webp",
+        "images/Platou mediteranean cu fructe de mare prăjite.webp",
+        "images/Platou generos cu pește prăjit și garnituri.webp",
+        "images/Pește la grătar cu salată și cartofi.webp"
+      ],
+      "atmosphere": [
+        "images/Apus auriu la clubul de plajă.webp"
+      ]
+    },
+    "imageManifestFile": "imagini_manifest.json",
+    "videoFolder": "videos/",
+    "videoSupport": "optional; add actual media filenames when supplied"
+  },
+  "publication": {
+    "status": "draft",
+    "menuPublishedAsCurrent": false,
+    "pendingConfirmation": [
+      "permission to reuse photos from Google Maps or other third-party sources",
+      "current official menu and prices",
+      "seasonal opening hours",
+      "operator of beach loungers and conditions",
+      "accessibility and pet rules",
+      "licence for displaying reviewer names/quotes",
+      "reservation policy",
+      "copyright and permission for commercial use of supplied photos"
+    ],
+    "sourceNotes": [
+      "User-supplied business details and descriptive copy, 2026-11-01",
+      "User-supplied Google Maps snapshot: opening hours, facilities, review count, customer price estimates",
+      "User-supplied photos and historical menu images; current prices are not asserted"
+    ]
+  }
+}

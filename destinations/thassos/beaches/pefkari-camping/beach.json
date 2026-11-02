@@ -1,0 +1,420 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-pefkari-camping",
+  "slug": "pefkari-camping",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Πευκάρι",
+    "international_name": "Pefkari Camping Beach",
+    "aliases": [
+      "Pefkari campsite beach",
+      "Camping Pefkari Beach",
+      "Pefkari Beach Camping",
+      "Camping Beach Pefkari",
+      "Camping Pefkari shore",
+      "Pefkari camping sector",
+      "Παραλία κάμπινγκ Πευκαρίου",
+      "Παραλία μπροστά από το Camping Pefkari"
+    ],
+    "entity_scope": "Visitor-facing campsite-front sector of the second (Potos-side) Pefkari cove, locally described as the shore in front of Camping Pefkari. The official/local name is the broader Pefkari Beach; no independently official local name was established for the campsite sector. The cove extends towards Alexandra Beach, but the latter operator section is outside this record’s core scope. Treat as a sector/POI, not a geographically independent beach or the whole second cove.",
+    "deduplication_warning": "Pefkari Camping Beach is a descriptive tourism name for part of Pefkari Beach, not proof of a separately administered beach. Do not count as an extra geographic beach on top of Pefkari. Keep distinct from Pefkaria Beach near Skala Maries and from the Alexandra Beach / Pefkari 2 named Blue Flag sector toward Potos; never assign the Alexandra award to the campsite frontage. Exact ends of the campsite-facing section require map/on-site verification."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south / southwest coastline of Thassos, Pefkari settlement near Potos",
+    "settlements": [
+      "Pefkari",
+      "Potos",
+      "Limenaria"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Camping%20Pefkari%20Beach%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_google_maps_search",
+    "coordinate_type": "unverified_specific_beach_sector_pin_not_published",
+    "coordinate_review_status": "Camping Pefkari business coordinates 40.615581,24.599783 are published by Go Thassos; historical Commons campsite-shore photo viewpoint 40.615532,24.598346 is photo location, NOT a Google Maps verified beach pin. Exact beach frontage and public pedestrian entry need manual Google Maps and on-site confirmation. Both lat/lng intentionally null.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mixed_sand_small_pebbles_and_gravel",
+    "seabed_near_shore": "sand_gravel_and_small_stones_variable_by_microsection",
+    "water_entry": "variable_campsite_front_often_more_accessible_rocky_near_headland_and_eastward",
+    "nearshore_depth": "variable_no_consistently_shallow_profile_confirmed",
+    "water_clarity": "often_clear_weather_dependent",
+    "wave_conditions": "south_coast_conditions_vary_with_wind_and_weather",
+    "exposure": "open_southern_cove_with_rocky_headland_between_pefkari_sections",
+    "natural_shade_on_sand": "limited_on_open_shore_pine_and_olive_shade_primarily_behind_beach",
+    "beach_length_m": null,
+    "length_note": "Campsite frontage has no verified independent shoreline measurement; do not use published lengths for the entire Pefkari cove.",
+    "backdrop": "coastal camping area with mature pine and olive trees, neighbouring Pefkari accommodation, and sea views toward the southern Aegean",
+    "shoreline_type": "campsite_front_sector_of_pefkari_second_cove_not_independent_named_bay"
+  },
+  "visitor_experience": {
+    "organization": "partly_unserviced_campsite_front_section_neighbouring_seasonal_operator_sections",
+    "suitable_for": [
+      "couples",
+      "quiet_beach_time",
+      "swimming_with_care",
+      "beach_reading",
+      "snorkeling_when_calm",
+      "camping_guests",
+      "visitors_preferring_less_dense_loungers"
+    ],
+    "notable_for": [
+      "distinct_campsite_frontage_within_pefkari",
+      "pine_and_olive_tree_backdrop",
+      "mixed_sand_pebble_shore",
+      "variable_rocky_water_entry",
+      "adjacent_more_developed_alexandra_sector",
+      "quieter_space_reported_in_older_local_guide"
+    ],
+    "activities_possible": [
+      "swimming",
+      "snorkeling_in_calm_conditions",
+      "beach_relaxation",
+      "photography",
+      "walking_between_pefkari_sections_where_accessible"
+    ],
+    "estimated_crowd_peak": "historically_less_crowded_than_main_pefkari_but_season_and_campsite_occupancy_matter",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Pebbles, larger stones and rocky shelves differ along the same cove; sea urchins have been reported at Pefkari rocky areas. Wear water shoes, avoid stepping blindly on submerged rock, check wind and swell, and supervise children. Do not assume lifeguard cover or uninterrupted pedestrian crossing over the dividing rocks."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Camping Pefkari advertises toilets for its guests, but public beach access/use of campsite sanitary facilities has not been independently verified; do not promise public toilets on the beach."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "Showers are advertised as campsite amenities, not independently confirmed as public beach showers. Facilities toward Alexandra Beach belong to separate operators."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No verified season-specific staffing for this exact camping-front segment; do not conflate with Alexandra Beach lifeguard/Blue Flag management.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Camping facility listings mention accessible sanitary areas, but this is not proof of step-free public beach access or adaptive beach equipment.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Local guide (last revised 2022) describes much of the campsite-facing second Pefkari section as without organised loungers, while loungers are found near Oasis and Alexandra. Operators and spatial arrangement may change. Camping facilities (toilets, showers, parking, kitchen, Wi-Fi) are lodging amenities and not automatically public beach services."
+  },
+  "access_and_cost": {
+    "road_access": "paved_road_to_pefkari_settlement_and_camping_area_final_beach_foot_access_route_to_check",
+    "public_transport": "bus_stop_near_camping_reported_approx_100m_operator_claim_not_verified_for_2026_timetable",
+    "parking_type": "private_campsite_parking_reported_for_guests; nearby_public_parking_arrangements_not_confirmed",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Campsite frontage is partly unserviced in historical guide; lounger and drink policies near Oasis/Alexandra depend on individual operators and current season. No confirmed prices or third-party access rules.",
+    "best_arrival_advice": "Navigate to Pefkari settlement rather than treating the campground office GPS as an assured public beach entrance. Confirm a legal pedestrian approach and parking before walking to the shore. Carry water shoes for stones and possible urchins, sun protection and water; ask operators before using loungers or campsite facilities. Check current bus timetable and sea conditions.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Regional guides quote approximately 39 km from Limenas to Pefkari, not a verified route specifically to the camping-front shoreline; precise distance deliberately left null."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Pefkari Camping Beach (sectorul campingului)",
+      "tagline": "O porțiune mai liniștită din Pefkari, între pini și mare",
+      "summary": "Pefkari Camping Beach desemnează sectorul plajei aflat în fața Camping Pefkari, în golful estic al stațiunii, spre Potos. Face parte din ansamblul Pefkari, dar poate fi reperat separat de zona principală, mai animată, datorită promontoriului stâncos dintre cele două porțiuni.",
+      "description": "Dacă îți dorești să descoperi și partea mai discretă a stațiunii Pefkari, merită să cauți fâșia de țărm din fața Camping Pefkari. Aici, în sudul insulei Thassos, marea întâlnește un amestec de nisip, pietriș și pietricele, iar în spatele plajei se află pini și măslini care dau zonei o atmosferă de vacanță simplă, aproape de natură. Pefkari are două porțiuni principale de coastă, separate de un mic promontoriu stâncos: plaja principală, mai intens amenajată, și golful care începe în dreptul campingului și continuă spre Alexandra Beach, mai aproape de Potos. Denumirea Pefkari Camping Beach este utilă pentru identificarea acestui sector, dar nu reprezintă o a treia plajă geografică independentă. În relatările locale, porțiunea dinspre camping apare ca fiind mai aerisită decât plaja principală, cu locuri unde îți poți așeza propriul prosop, în timp ce spre Oasis și Alexandra se întâlnesc sectoare cu șezlonguri, administrate de operatori diferiți. Intrarea în apă nu este uniformă: în fața campingului sunt descrise porțiuni cu pietriș și acces relativ comod, dar lângă stânci sau mai departe către Alexandra pot apărea dale și pietre mai mari. Apa este adesea limpede, frumoasă pentru înot și snorkeling prudent când marea este calmă. Campingul oferă facilități pentru cei cazați acolo, însă acestea nu trebuie confundate cu toalete, dușuri sau parcare publică garantată pentru orice vizitator al plajei.",
+      "practical_tips": "Caută sectorul din dreptul Camping Pefkari, nu Pefkaria Beach de lângă Skala Maries și nici sectorul Alexandra Beach. Verifică traseul pietonal și parcarea permisă: coordonatele publicate pentru camping indică unitatea de cazare, nu o intrare publică verificată pe nisip. Încălțămintea de apă este utilă din cauza pietrelor și a posibililor arici de mare. Ia apă și protecție solară; umbra pinilor se găsește mai ales în spatele țărmului. Nu presupune că poți folosi dușurile sau parcarea campingului dacă nu ești oaspete și întreabă operatorul despre șezlonguri. Valurile, adâncimea și traseul peste stânci necesită atenție, mai ales cu copiii.",
+      "highlights": [
+        "Sectorul din dreptul Camping Pefkari, nu o plajă independentă",
+        "Golf secundar separat de plaja principală prin stânci",
+        "Nisip și pietricele, cu intrare variabilă în apă",
+        "Pini și măslini în spatele țărmului",
+        "Porțiuni libere și servicii sezoniere la operatorii din apropiere"
+      ],
+      "seo_title": "Pefkari Camping Beach Thassos – acces și sectorul campingului",
+      "seo_description": "Descoperă Pefkari Camping Beach din Thassos: sectorul campingului, nisip și pietricele, acces, zone cu șezlonguri și sfaturi pentru înot.",
+      "social_caption": "🌊 Pefkari Camping Beach, Thassos: un sector mai liniștit al golfului Pefkari, cu pietricele, apă limpede și pini în apropiere. 🌿 Ia încălțări de apă și descoperă și această parte a coastei! 🇬🇷 #Thassos #Pefkari #GreekIslands",
+      "photo_alt": "Sectorul de plajă din fața Camping Pefkari, cu țărm de nisip și pietricele, mare limpede și vegetație în spate."
+    },
+    "en": {
+      "name": "Pefkari Camping Beach (campsite sector)",
+      "tagline": "A quieter side of Pefkari beside the pine-shaded campsite",
+      "summary": "Pefkari Camping Beach is the campsite-front section of Pefkari’s second cove on the southern Thassos coast, toward Potos. A rocky divider separates it from the main Pefkari shore; this is a useful local beach sector, not a separate geographical beach.",
+      "description": "Beyond the better-known, busier strip of Pefkari lies a different stretch of coast in front of Camping Pefkari. Its shore mixes sand, gravel and small pebbles, backed by the pine and olive trees surrounding the campsite. Here the southern coastline feels more relaxed, with clear sea views and room to appreciate the landscape rather than a continuous line of organised sunbeds. Local beach guides describe two principal Pefkari sections separated by a rocky projection: the main western shore and a second cove running past the campsite toward Alexandra Beach on the Potos side. The name Pefkari Camping Beach refers to the campsite-front part of that second cove, rather than an independently recognised third beach. Older local accounts found much of this section open for visitors bringing their own towels, while services and loungers were concentrated nearer Oasis and Alexandra, managed by different operators. The seabed changes over a short distance. Around the campsite, pebble and sandy patches have been described as easier for entering the sea; near headlands and farther toward Alexandra, larger rocks and uneven stone shelves call for more care. On calm days the normally clear water lends itself to swimming and cautious snorkelling. The neighbouring campsite is a useful landmark, not a guarantee that everyone visiting the shore can use its showers, toilets or private parking. Treat those as accommodation facilities unless the operator confirms otherwise. This stretch appeals to visitors who prefer a comparatively natural atmosphere while remaining close to the restaurants and accommodation around Pefkari.",
+      "practical_tips": "Use Camping Pefkari as a landmark but confirm a public walking route and legal parking before arriving; published campsite coordinates are not a verified beach entrance. Water shoes are helpful for pebbles, uneven rock and possible sea urchins. Bring drinking water and sun protection because shade from the trees is mainly behind the beach. Loungers toward Oasis or Alexandra belong to individual seasonal operators, so check conditions and prices locally. Do not assume access to campsite toilets, showers, Wi-Fi or private parking as a non-guest. Swimming conditions and the rocky link between coves vary; supervise children carefully.",
+      "highlights": [
+        "Identifiable camping-front sector within Pefkari",
+        "Second cove separated from main Pefkari by rocks",
+        "Mixed sandy and pebbly shoreline",
+        "Pines and olive trees behind the beach",
+        "Open shore space with serviced areas elsewhere in the cove"
+      ],
+      "seo_title": "Pefkari Camping Beach Thassos – access and beach guide",
+      "seo_description": "Guide to the campsite-side Pefkari beach on Thassos: second cove, sand and pebbles, water entry, nearby operators, access and tips.",
+      "social_caption": "🌊 Discover Pefkari Camping Beach on Thassos, a calmer part of Pefkari’s second cove with clear water, pebbly sand and pine trees nearby. 🌿 Bring water shoes and explore at your own pace! 🇬🇷 #Thassos #PefkariBeach #GreeceTravel",
+      "photo_alt": "Campsite-front stretch of Pefkari Beach on Thassos, with a sandy-pebbly shore, clear sea and trees behind the beach."
+    },
+    "el": {
+      "name": "Παραλία Πευκάρι – μπροστά από το κάμπινγκ",
+      "tagline": "Μια πιο ήσυχη πλευρά του Πευκαρίου δίπλα στα πεύκα",
+      "summary": "Η παραλία μπροστά από το Camping Pefkari βρίσκεται στον δεύτερο όρμο του Πευκαρίου, προς την πλευρά του Ποτού. Ένα βραχώδες άκρο τη χωρίζει από την κύρια ακτή. Είναι αναγνωρίσιμο τμήμα του Πευκαρίου και όχι ανεξάρτητη γεωγραφικά παραλία.",
+      "description": "Λίγο πέρα από το πιο πολυσύχναστο κομμάτι της παραλίας του Πευκαρίου, η ακτή μπροστά από το Camping Pefkari προσφέρει διαφορετική αίσθηση. Η άμμος αναμειγνύεται με ψιλό χαλίκι και βότσαλα, ενώ στο πίσω μέρος υπάρχουν πεύκα και ελιές που χαρακτηρίζουν το τοπίο. Οι τοπικοί οδηγοί περιγράφουν δύο κύριους όρμους στο Πευκάρι, χωρισμένους από ένα βραχώδες ακρωτήριο: την κεντρική παραλία και τον δεύτερο όρμο που απλώνεται μπροστά από το κάμπινγκ προς την Alexandra Beach, στην πλευρά του Ποτού. Ο όρος «Pefkari Camping Beach» βοηθά στον εντοπισμό του συγκεκριμένου τμήματος και δεν δηλώνει τρίτη, ανεξάρτητη παραλία. Παλαιότερες περιγραφές αναφέρουν περισσότερο ελεύθερο χώρο για προσωπική πετσέτα κοντά στο κάμπινγκ, ενώ οι οργανωμένες ξαπλώστρες συγκεντρώνονται σε σημεία πιο κοντά στο Oasis και στην Alexandra, ανάλογα με τον εποχικό φορέα εκμετάλλευσης. Ο βυθός αλλάζει κατά μήκος της ακτής: κοντά στο κάμπινγκ υπάρχουν τμήματα με άμμο και μικρές πέτρες που είναι σχετικά πιο εύκολα για την είσοδο, αλλά προς τους βράχους και το ξενοδοχειακό τμήμα μπορεί να συναντήσετε μεγαλύτερες πέτρες και ανώμαλες πλάκες. Όταν η θάλασσα είναι ήρεμη, τα συνήθως διαυγή νερά προσφέρονται για κολύμπι και προσεκτική εξερεύνηση με μάσκα. Οι τουαλέτες, οι ντουζιέρες και η στάθμευση που αναφέρει το κάμπινγκ αφορούν τις εγκαταστάσεις διαμονής και δεν θεωρούνται αυτόματα δημόσιες παροχές της παραλίας.",
+      "practical_tips": "Χρησιμοποιήστε το Camping Pefkari ως σημείο αναφοράς, όχι ως δεδομένη δημόσια είσοδο στην ακτή. Ελέγξτε τη νόμιμη στάθμευση και την πεζή πρόσβαση. Παπούτσια θαλάσσης βοηθούν στα βότσαλα, τις πλάκες και τους πιθανούς αχινούς. Πάρτε μαζί νερό και αντηλιακή προστασία, γιατί η σκιά των δέντρων βρίσκεται κυρίως πίσω από την παραλία. Για ξαπλώστρες και ομπρέλες, ρωτήστε τον εκάστοτε διαχειριστή. Μην θεωρείτε δεδομένη τη χρήση ντους, τουαλετών ή ιδιωτικού πάρκινγκ του κάμπινγκ χωρίς άδεια. Να επιτηρείτε τα παιδιά και να ελέγχετε τον καιρό και τον κυματισμό.",
+      "highlights": [
+        "Παραλιακό τμήμα μπροστά από το Camping Pefkari",
+        "Δεύτερος όρμος με βραχώδες όριο από την κεντρική ακτή",
+        "Άμμος, χαλίκι και βότσαλα με μεταβλητό βυθό",
+        "Πεύκα και ελιές στο πίσω μέρος",
+        "Ελεύθερα σημεία και εποχικά οργανωμένες ζώνες πιο πέρα"
+      ],
+      "seo_title": "Παραλία Camping Pefkari Θάσος – πρόσβαση και συμβουλές",
+      "seo_description": "Οδηγός για την παραλία μπροστά από το Camping Pefkari στη Θάσο: δεύτερος όρμος, βότσαλα, πρόσβαση και χρήσιμες πληροφορίες.",
+      "social_caption": "🌊 Στο Πευκάρι της Θάσου, η ακτή μπροστά από το κάμπινγκ αποκαλύπτει μια πιο ήρεμη πλευρά του δεύτερου όρμου. 🌿 Βότσαλα, διάφανα νερά και πεύκα στο φόντο! 🇬🇷 #Θάσος #Πευκάρι #Ελλάδα",
+      "photo_alt": "Η ακτή μπροστά από το Camping Pefkari στη Θάσο, με άμμο, βότσαλα, καθαρή θάλασσα και δέντρα πίσω από την παραλία."
+    },
+    "de": {
+      "name": "Pefkari Camping Beach (Campingabschnitt)",
+      "tagline": "Die ruhigere Seite von Pefkari vor dem Campingplatz",
+      "summary": "Pefkari Camping Beach bezeichnet den Strandabschnitt vor dem Camping Pefkari in der zweiten Bucht des Ortes, in Richtung Potos. Eine felsige Landzunge trennt ihn vom Hauptstrand. Es handelt sich um einen erkennbaren Teilbereich, nicht um einen eigenständigen geografischen Strand.",
+      "description": "Wer Pefkari abseits des stärker besuchten Hauptstrandes erleben möchte, kann den Küstenabschnitt vor dem Camping Pefkari entdecken. Hier treffen Sand, Kies und kleine Steine auf oft klares Meerwasser; direkt hinter der Küste prägen Pinien und Olivenbäume das Umfeld des Campingplatzes. Ortskundige Strandführer unterscheiden in Pefkari zwei Hauptbuchten, zwischen denen eine felsige Landzunge liegt. Neben der zentralen Strandbucht gibt es die zweite Bucht beim Campingplatz, die sich in Richtung Alexandra Beach und Potos erstreckt. Die Bezeichnung Pefkari Camping Beach ist hilfreich, um die Uferzone unmittelbar vor dem Campingplatz zu finden, bedeutet aber nicht, dass hier ein dritter, geografisch eigenständiger Strand existiert. Ältere Beschreibungen nennen in diesem Bereich mehr Platz für das eigene Handtuch und weniger dicht gestellte Liegen als am Hauptstrand. In Richtung Oasis und Alexandra befinden sich dagegen bewirtschaftete Teilstücke, deren Angebot je nach Saison und Betreiber variiert. Der Einstieg ins Meer ist nicht überall gleich angenehm. Vor dem Campingplatz werden Abschnitte mit Sand, Kies und kleineren Steinen beschrieben, während an den Felsen und weiter in Richtung Alexandra größere Steine und unebene Felsplatten liegen können. Bei ruhiger See lädt das durchsichtige Wasser zum Schwimmen und vorsichtigen Schnorcheln ein. Der Campingplatz ist ein gutes Orientierungsmerkmal. Seine Duschen, Toiletten und privaten Stellplätze gehören jedoch zur Unterkunft und dürfen nicht automatisch als öffentlich nutzbare Strandeinrichtungen verstanden werden. So verbindet dieser Abschnitt eine naturnahe Stimmung mit den Angeboten des Ferienortes in der Nähe.",
+      "practical_tips": "Nutzen Sie den Campingplatz als Orientierung, klären Sie jedoch den öffentlichen Fußweg und erlaubte Parkmöglichkeiten vorab. Die veröffentlichten Campingplatz-Koordinaten sind kein bestätigter Strandzugang. Badeschuhe sind wegen Kies, Steinplatten und möglicher Seeigel ratsam. Nehmen Sie Wasser und Sonnenschutz mit; die Baumkronen spenden vor allem hinter dem Ufer Schatten. Liegen und Schirme gehören zu saisonalen Betrieben und können eigene Nutzungsbedingungen haben. Verlassen Sie sich als externer Gast nicht auf Campingduschen, Toiletten oder Privatparkplätze. Achten Sie auf Wellengang, Felsen und Kinder im Wasser.",
+      "highlights": [
+        "Campingnaher Abschnitt innerhalb der Pefkari-Bucht",
+        "Zweite Bucht, vom Hauptstrand durch Felsen getrennt",
+        "Sand-Kies-Gemisch und unterschiedlich steiniger Meeresboden",
+        "Pinien und Olivenbäume direkt hinter dem Strand",
+        "Freie Plätze sowie saisonale Angebote in benachbarten Bereichen"
+      ],
+      "seo_title": "Pefkari Camping Beach Thassos – Zugang und Strandtipps",
+      "seo_description": "Den Strand vor Camping Pefkari auf Thassos entdecken: zweite Bucht, Sand und Kies, Badebedingungen, Zugangswege und praktische Tipps.",
+      "social_caption": "🌊 Pefkari Camping Beach auf Thassos: ein ruhigerer Teil der zweiten Pefkari-Bucht mit Kies, klarem Wasser und Pinien im Hintergrund. 🌿 Badeschuhe nicht vergessen! 🇬🇷 #Thassos #Pefkari #Griechenland",
+      "photo_alt": "Strandabschnitt vor Camping Pefkari auf Thassos mit Sand, Kies, klarem Meer und Bäumen hinter dem Ufer."
+    },
+    "bg": {
+      "name": "Плаж Пефкари – секторът пред къмпинга",
+      "tagline": "По-спокойният бряг на Пефкари сред борове и маслинови дървета",
+      "summary": "Pefkari Camping Beach е участъкът пред Camping Pefkari във втория залив на курортното селище, по посока Потос. Скалист нос го отделя от основния плаж. Това е разпознаваем сектор на Пефкари, а не самостоятелен географски плаж.",
+      "description": "Наред с по-оживения основен плаж на Пефкари има и по-спокойно крайбрежие непосредствено пред Camping Pefkari. Тук пясъкът се смесва с чакъл и дребни камъчета, а зад плажната ивица растат борове и маслинови дървета, които създават приятно усещане за близост до природата. Местните пътеводители разграничават два основни залива на Пефкари, разделени от скалист нос: централния плаж и втория залив пред къмпинга, който продължава към Alexandra Beach по посока Потос. Названието Pefkari Camping Beach улеснява ориентирането към ивицата пред къмпинга, но не означава трети отделен плаж. Според по-стари описания голяма част от този участък остава по-свободна за посетители със собствени кърпи и чадъри, докато шезлонгите се срещат по-близо до Oasis и Alexandra и се управляват от различни сезонни оператори. Морското дъно не е еднакво навсякъде. В близост до къмпинга се описват по-удобни места с пясък и дребни камъчета, но край носа и към хотелската зона могат да се появят едри камъни и неравни скални плочи. Когато морето е спокойно, обикновено бистрите води са приятни за плуване и внимателно гмуркане с маска. Къмпингът е удобен ориентир, но неговите тоалетни, душове и частен паркинг са услуги на мястото за настаняване, а не непременно обществени удобства за всички плажуващи. Районът е подходящ за хора, които търсят спокойствие, без да се отдалечават от заведенията и местата за настаняване в Пефкари.",
+      "practical_tips": "Използвайте Camping Pefkari като ориентир, но предварително проверете пешеходния достъп и разрешените места за паркиране. Координатите на къмпинга не доказват обществен вход към плажа. Обувките за вода помагат при камъчета, скални плочи и възможни морски таралежи. Носете вода и слънцезащита, тъй като дърветата хвърлят сянка главно зад плажа. Проверявайте условията за шезлонги и чадъри при конкретния оператор. Не разчитайте на къмпинг душове, тоалетни или частен паркинг без разрешение. Следете вълните и наблюдавайте децата.",
+      "highlights": [
+        "Разпознаваем плажен сектор пред Camping Pefkari",
+        "Втори залив, отделен от основния с каменист нос",
+        "Пясък, чакъл и камъчета с променлив вход във водата",
+        "Борове и маслинови дървета зад плажа",
+        "По-свободни участъци и сезонно обслужване наблизо"
+      ],
+      "seo_title": "Pefkari Camping Beach, Тасос – достъп и съвети",
+      "seo_description": "Открийте плажната ивица пред Camping Pefkari на Тасос: втори залив, пясък и камъчета, вход в морето и полезни съвети.",
+      "social_caption": "🌊 Плажът пред Camping Pefkari на Тасос е по-спокойна част от втория залив на Пефкари: бистра вода, камъчета и борове наблизо. 🌿 🇬🇷 #Тасос #Пефкари #Гърция",
+      "photo_alt": "Участъкът пред Camping Pefkari на остров Тасос с пясък, камъчета, прозрачна вода и дървета зад брега."
+    },
+    "sr": {
+      "name": "Plaža Pefkari – deo ispred kampa",
+      "tagline": "Mirniji deo Pefkarija uz borove i masline",
+      "summary": "Pefkari Camping Beach označava deo obale ispred kampa Camping Pefkari u drugoj uvali mesta, prema Potosu. Stenoviti rt odvaja ga od glavne plaže. To je prepoznatljiv sektor Pefkarija, a ne posebna geografska plaža.",
+      "description": "Pored poznatije i življe glavne plaže Pefkari nalazi se mirniji deo obale ispred kampa Camping Pefkari. Ovde se pesak meša sa sitnim šljunkom i oblucima, dok borovi i masline iza obale daju ovom delu ostrva prirodniji izgled. Lokalni vodiči razlikuju dve glavne uvale u Pefkariju, razdvojene stenovitim rtom: centralnu plažu i drugu uvalu koja počinje kod kampa i nastavlja se prema plaži Alexandra, u pravcu Potosa. Naziv Pefkari Camping Beach pomaže da se pronađe deo ispred kampa, ali ne označava treću samostalnu plažu. U starijim opisima ovaj pojas se pominje kao prostraniji i mirniji od glavne plaže, sa mestima za sopstveni peškir, dok se ležaljke i suncobrani nalaze pre svega prema Oasis baru i hotelskom delu Alexandra, kod različitih sezonskih pružalaca usluga. Ulazak u more nije svuda isti. Neposredno ispred kampa opisani su delovi sa peskom i sitnijim kamenjem, dok se bliže stenama i prema hotelu mogu naći krupniji kamen i neravne kamene ploče. Kada je more mirno, voda je često bistra i pogodna za plivanje i pažljivo ronjenje s maskom. Kamp služi kao dobar orijentir, ali tuševi, toaleti i privatni parking koji se reklamiraju kao deo smeštaja nisu automatski dostupni svim posetiocima plaže. Ovaj deo Pefkarija odgovara putnicima koji žele manje gužve, a da im restorani i drugi sadržaji mesta ostanu blizu.",
+      "practical_tips": "Kamp Camping Pefkari koristite kao orijentir, ali pre dolaska proverite javni pešački prilaz i dozvoljen parking. Objavljene koordinate kampa nisu potvrđena tačka javnog ulaza na plažu. Obuća za vodu je korisna zbog šljunka, kamenih ploča i mogućih morskih ježeva. Ponesite vodu i zaštitu od sunca jer je hlad drveća uglavnom iza obale. Za ležaljke i suncobrane pitajte konkretnog operatera. Ne očekujte korišćenje kamperskih toaleta, tuševa ili privatnog parkinga bez dozvole. Pratite talase i pažljivo nadgledajte decu.",
+      "highlights": [
+        "Deo obale direktno ispred kampa Camping Pefkari",
+        "Druga uvala odvojena stenama od glavne plaže",
+        "Mešavina peska i šljunka sa promenljivim morskim dnom",
+        "Borovi i masline iza obale",
+        "Slobodniji prostor uz sezonske sadržaje u susednim delovima"
+      ],
+      "seo_title": "Pefkari Camping Beach Tasos – prilaz i saveti",
+      "seo_description": "Plaža ispred kampa Camping Pefkari na Tasosu: druga uvala, pesak i šljunak, ulazak u more, pristup i praktični saveti.",
+      "social_caption": "🌊 Pefkari Camping Beach na Tasosu: mirniji deo druge uvale, sa bistrom vodom, šljunkom i borovima u pozadini. 🌿 Ponesite obuću za vodu! 🇬🇷 #Tasos #Pefkari #Grčka",
+      "photo_alt": "Deo plaže Pefkari ispred kampa, sa peskom, šljunkom, bistrom vodom i drvećem iza obale."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/pefkari-camping/images/pefkari-camping1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/pefkari-camping/images/pefkari-camping2.webp",
+      "destinations/thassos/beaches/pefkari-camping/images/pefkari-camping3.webp",
+      "destinations/thassos/beaches/pefkari-camping/images/pefkari-camping4.webp",
+      "destinations/thassos/beaches/pefkari-camping/images/pefkari-camping5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/pefkari-camping/images/",
+    "suggested_asset_names": [
+      "pefkari-camping1.webp",
+      "pefkari-camping2.webp",
+      "pefkari-camping3.webp",
+      "pefkari-camping4.webp",
+      "pefkari-camping5.webp"
+    ],
+    "image_policy": "Publish only user-provided, owned or appropriately licensed photographs depicting the Camping Pefkari beachfront sector. The five local paths were assigned from filenames in the supplied screenshot. Confirm the exact geographic subject of each photo, including whether campsite buildings or other Pefkari sections are shown; document image authorship, commercial reuse/transfer permissions and attribution before publication.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_nikana_en",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Pefkari Beach (two separate coves)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1920/pefkari-beach",
+      "detail": "Describes left-hand/camping-front cove vs main Pefkari beach divided by reef; coarse gravel, clearer water, mixed organisation and nearby Oasis/Alexandra. Last updated August 2022.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_ro",
+      "kind": "local_travel_guide",
+      "title": "Nikana RO — Plaja Pefkari",
+      "url": "https://nikana.gr/ro/ghid/thassos/plaje/1920/plaja-pefkari",
+      "detail": "Romanian description of campsite-front beach and separate main section; amenity distinctions and swimming entry caveats. Historic observations, not 2026 inventory.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_alexandra",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Alexandra Beach in Pefkari",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1723/alexandra-beach-in-pefkari",
+      "detail": "Differentiates Alexandra part of second Pefkari cove and private operator/serviced areas from campsite frontage.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_camping_official",
+      "kind": "operator_official",
+      "title": "Camping Pefkari Beach — official Greek website",
+      "url": "https://www.camping-pefkari.gr/el",
+      "detail": "Beachside campground by Pefkari cape and two beaches; campsite offers guest showers, toilets, shade, private parking and proximity to sea, not verified public beach amenities.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "tourism_business_listing",
+      "title": "Go Thassos — Camping Pefkari Beach",
+      "url": "https://www.go-thassos.gr/visiting-thassos/hotels/camping-pefkari-beach",
+      "detail": "Business reference GPS 40.615581,24.599783, guest amenities and description of two nearby beaches. GPS is business location rather than verified beach pin.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_camping_greece",
+      "kind": "camping_directory",
+      "title": "Greece Camping — Pefkari",
+      "url": "https://greececamping.gr/directory/pefkari/",
+      "detail": "Independent campsite directory documents campsite close to Pefkari Cape and two beaches, pine and olive grove and camping facilities.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover_thassos",
+      "kind": "local_travel_guide",
+      "title": "Discover Thassos — Pefkari Beach",
+      "url": "https://www.discover-thassos.com/listing/pefkari-beach-thassos/",
+      "detail": "Pefkari seaside setting, camping and seasonal cafes, rocky vs sandy entry and water clarity; generic Pefkari coverage not definitive campsite-front facilities.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_campingmap",
+      "kind": "camping_directory",
+      "title": "Campingmap.gr — Pefkari Beach Camping",
+      "url": "https://www.campingmap.gr/en/Macedonia/Thasos/Pefkari_Beach_111_18",
+      "detail": "Camping location by famous Pefkari shore; campsite amenities must not be treated as public beach facilities.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_photo",
+      "kind": "image_license",
+      "title": "Wikimedia Commons — Pefkari campsite beach - panoramio.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Pefkari_campsite_beach_-_panoramio.jpg",
+      "detail": "Author arjenD, photograph taken 2008-07-28, CC BY-SA 3.0 independently verified, vintage view coordinates from camera not verified beach pin.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_category",
+      "kind": "image_collection",
+      "title": "Wikimedia Commons — Category Pefkari (Thasos)",
+      "url": "https://commons.wikimedia.org/wiki/Category:Pefkari_(Thasos)",
+      "detail": "Lists photo specifically named Pefkari campsite beach and separates broader Pefkari and Alexandra categories.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_360cities",
+      "kind": "image_reference_copyrighted",
+      "title": "360Cities — Summer morning on Pefkari camping beach",
+      "url": "https://www.360cities.net/en/image/pefkari-camping-beach-on-a-summer-morning-thassos-greece?pano_detail=true&portfolio_view=false",
+      "detail": "Distinct campsite beach label and historical panorama taken 2016; photographer Branimir Minkov copyright, separate paid license required.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_official",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — awarded beaches 2026",
+      "url": "https://www.blueflag.gr/el/awards/2026",
+      "detail": "Thassos lists Pefkari 2/Alexandra Beach but not Camping Pefkari as a separate awarded sector; never apply Alexandra certificate to campsite frontage.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_alexandra",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — Pefkari 2/Alexandra Beach",
+      "url": "https://www.blueflag.gr/el/beach/peykari-2-alexandra-beach",
+      "detail": "Specific award-holder is named Alexandra Beach, distinct from the campsite frontage. Its end-of-season data must not migrate to this sector.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_google_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Camping Pefkari Beach (search, not surveyed beach pin)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Camping%20Pefkari%20Beach%2C%20Thassos%2C%20Greece",
+      "detail": "Name-based search link. Neither beach point nor public entry/parking coordinates were verified in Google Maps. lat/lng intentionally null.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_sector_images_assigned_pending_geographic_access_and_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_sector_profile_six_languages",
+    "requires_manual_review": [
+      "Treat this as a visitor-facing sector of existing Pefkari Beach, not an additional independent geographic beach; reconcile with the existing Pefkari record and planned Alexandra Beach/Pefkari 2 record before map/count publication.",
+      "Verify actual west/east limits of the camping-front shoreline versus Oasis, Alexandra and the rocky separator on recent aerial maps/on site.",
+      "Locate a safe lawful public foot approach, public parking and exact Google Maps beach pin; do not copy Go Thassos campsite coordinates or historic Commons camera coordinates into beach lat/lng.",
+      "Confirm current distribution of unserviced shore, Oasis and Alexandra sunbeds and any 2026 rates or minimum-spend rules.",
+      "Ask operator whether showers, toilets, Wi-Fi and private parking are available to non-guest beach visitors; until then do not promise them.",
+      "Check rocky entry points, lifeguard presence and any accessibility measures; conditions change with weather.",
+      "Blue Flag 2026 applies to Pefkari 2/Alexandra Beach only; no independent award confirmed for camping frontage.",
+      "Confirm that pefkari-camping1.webp–pefkari-camping5.webp depict the Camping Pefkari beachfront sector (not a different Pefkari section or generic campsite image); document image source, commercial publication/transfer permission and required attribution.",
+      "Native-speaker proofreading of all six language versions before public release."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original six-language editorial text; commercial publication and transfer rights for the five locally referenced WebP images have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths were assigned from filenames visible in the user-provided screenshot. Image binaries are not embedded in this JSON; the exact photographed location and commercial rights have not been independently verified."
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-alyki",
+  "slug": "alyki",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Αλυκή",
+    "international_name": "Alyki (Aliki)",
+    "aliases": [
+      "Aliki",
+      "Alyki",
+      "Aliki Thassos",
+      "Alyki Thassos",
+      "Αλυκή Θάσου",
+      "Aliki Peninsula"
+    ],
+    "area_type": "coastal_historic_hamlet",
+    "entity_scope": "A small, real historic coastal hamlet and visitor area around Alyki’s sandy southwest-facing bay and archaeological peninsula on southeastern Thassos. Not a town, large resort, or synonym for all beaches or archaeological features nearby. Listed as a settlement/traditional settlement and archaeological site by Greek Travel Pages; preserved as an exception in the curated areas catalogue because of strong heritage value.",
+    "deduplication_warning": "Do not treat Alyki main sandy southern/western bay, northern archaeological/Ruins Beach bay, adjacent Gorgona cove or Skidia/Kekes shoreline as one beach POI. The settlement / archaeological peninsula is an area record, not an additional beach and not a town. Avoid counting a separate area under alias Aliki. The southern main Alyki Beach record is not available among the currently supplied local beach JSONs; do not invent an ID.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": true,
+    "coast": "southeast – Alyki peninsula, between Thimonia/Kekes to the southwest and Kinira direction to the northeast",
+    "part_of_island": "southeastern",
+    "center": {
+      "lat": 40.60509,
+      "lng": 24.74109,
+      "coordinate_role": "OSM_mapped_settlement_locality_reference_NOT_southern_beach_northern_beach_archaeological_site_or_parking_entrance",
+      "coordinate_source": "OpenStreetMap / Mapcarta named locality Alyki, independently consistent with GTP settlement coordinates expressed in DMS",
+      "coordinate_source_url": "https://mapcarta.com/13819526",
+      "verification_status": "OSM_locality_reference_corrob_GTP_settlement_position;_Google_Maps_arrival_and_walking_entry_unverified",
+      "verified_on": "2026-10-27"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "Reference point 40.60509,24.74109 denotes Alyki locality/hamlet as mapped, not the southern tavern-lined bay, northern Ruins Beach bay, protected ancient quarries, road junction, or a safe public parking/entrance. Archaeological-site mapping gives around 40.60285,24.74077 while the quarry extends toward the cape; individual POIs need separate exact map pins. The main south/west bay and northern archaeological bay must be navigated independently. No verified accessible public arrival route is supplied."
+  },
+  "overview": {
+    "settlement_character": "small_historic_fishing_hamlet_sandy_bay_with_restored_seafront_houses_seasonal_fish_tavernas_archaeological_peninsula_marble_quarry_landscape",
+    "tourism_profile": [
+      "historical_coastal_hamlet_not_town",
+      "sea_and_archaeology_together",
+      "two_separate_beach_bays",
+      "scenic_promenade_like_waterfront_not_formal_town_promenade",
+      "seasonal_tavernas_and_small_lodgings",
+      "walkable_peninsula_with_uneven_rocky_ground",
+      "popular_summer_daytrip_and_photography_spot"
+    ],
+    "best_time_to_visit": "Late spring and early autumn are typically pleasant for walking among the archaeological remains, subject to weather and site rules; summer is popular for swimming and seaside tavernas. Exact operation of businesses and protected site access must be confirmed for the chosen day.",
+    "peak_season_notes": "The compact sandy bay and roadside parking may become busy during peak summer hours. Restaurant opening and sunbed terms depend on seasonal operators. The north cove is often described as less crowded, but its rocky areas require care; do not promise low crowds or guaranteed facilities."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "ancient_Alyki_marble_quarry_and_coastal_loading_areas",
+      "sanctuary_and_two_ancient_temple_remains",
+      "early_Christian_basilicas_5th_6th_century",
+      "long_term_maritime_trade_and_quarrying",
+      "traditional_small_fishing_hamlet_and_seasonal_holiday_area",
+      "cultural_geological_significance_Thassos_marble"
+    ],
+    "local_traditions": [
+      "traditional_fishing_hamlet_context_careful_no_current_fishing_fleet_claim",
+      "island_style_seaside_tavernas",
+      "heritage_walks_and_landscape_appreciation_not_formal_guided_tour_guarantee"
+    ],
+    "local_food_specialties": [
+      "fish_and_seafood_options_at_seasonal_tavernas",
+      "Greek_meze_and_local_style_dishes_subject_to_menu",
+      "local_olive_oil_typical_of_Thassos_not_guaranteed_per_venue"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "beach_and_history_day_trips",
+      "couples",
+      "photography",
+      "history_and_archaeology_interests",
+      "scenic_coastal_walks_for_mobile_visitors",
+      "families_using_suitable_main_bay_section_with_supervision",
+      "taverna_lunch_by_the_sea"
+    ],
+    "experiences": [
+      "enjoy_southern_main_Alyki_sandy_bay_subject_to_swim_conditions",
+      "visit_the_separate_northern_Ruins_Beach_bay_without_conflating_them",
+      "follow_the_archaeological_peninsula_paths_where_public_entry_allowed",
+      "view_ancient_marble_quarry_rock_cuttings_from_safe_ground",
+      "visit_sanctuary_and_early_Christian_basilica_remains_without_climbing_ruins",
+      "photograph_seafront_traditional_houses_and_tavernas",
+      "enjoy_seasonal_fish_taverna_food_and_look_across_the_bay",
+      "connect_with_nearby_Thimonia_and_other_southeast_coast_beaches_using_valid_POIs"
+    ],
+    "points_of_interest_summary": [
+      "Alyki historic hamlet and seafront — a small settlement, not a town, with a few traditional houses and seasonal tavernas.",
+      "Main Alyki bay / Alyki Beach — small sandy and commonly serviced bathing bay; distinct from the archaeological north cove; beach POI ID must be verified before linking.",
+      "Ruins Beach — separate northern bathing cove adjacent to archaeological ruins; existing beach JSON gr-thassos-beach-ruins-beach.",
+      "Gorgona Beach — smaller separate cove near peninsula, not another name for the two Alyki bays; existing beach JSON gr-thassos-beach-gorgona.",
+      "Alyki archaeological site — ancient sanctuaries, early Christian basilicas and structures of historical interest; not yet assigned an attraction ID.",
+      "Ancient marble quarries on the cape — historically important cut rock and shoreline, distinct from bathing beaches; IUGS highlights Thassos marble heritage.",
+      "Thimonia Beach and Skidia — independent nearby coves with different access and shore conditions; do not merge with Alyki."
+    ],
+    "estimated_visit_duration": "Allow roughly one to two hours for a careful heritage walk and scenic views, excluding meal and swimming; a half or full day if combining beach time. These are editorial planning suggestions, not timed admission sessions.",
+    "family_suitability": "Families may prefer suitable sections of the main sandy bay when the sea is calm; supervise children continuously and check crowding and uneven stones. Archaeological paths, exposed rock platforms and the outer peninsula are less suitable for very young children without close assistance.",
+    "mobility_considerations": "The bay-side facilities and parts of the settlement may be reachable on foot, but the peninsula has uneven paths, exposed rocks, gradients and slippery surfaces. A continuous wheelchair-accessible trail to the antiquities or either sea entry has not been independently confirmed. Avoid guaranteeing access, beaches, toilets or parking for disabled visitors.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "Located off the paved island coastal road on the southeastern side of Thassos. There is a roadside approach to Alyki, followed by beach/archaeological walking routes, but exact public parking entrances, turn-offs and any vehicle restrictions require local verification. Do not navigate to the settlement coordinate as if it were a car park.",
+    "public_transport": "Tourism guides mention public-transport access to the Alyki area; the current KTEL stop, seasonal operating days, departure timetable and precise final pedestrian route have not been verified. Consult a current operator timetable; do not store departure times permanently in area.json.",
+    "parking_overview": "Visitor guides mention roadside bays and informal parking behind/near the main beach. Availability, free/paid conditions, restrictions and allowed spaces vary; summer congestion is possible. No dedicated free or accessible parking is guaranteed.",
+    "pedestrian_access": "Paths and short walking routes connect the seafront with the archaeological headland and the separate coves. Some sections are uneven, rocky, exposed and can become slick; follow legitimate marked or existing trails and respect protected-area barriers. Do not assume public access across private restaurant or lodging land.",
+    "accessibility_note": "There is no independently verified continuous step-free route across the archaeological peninsula, accessible beach ramp, equipped accessible bathing service or adapted public toilets. Assess the particular destination and entry route rather than relying on the area centre.",
+    "general_amenities": {
+      "supermarket": null,
+      "pharmacy": null,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": null,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "Treat ancient quarry ledges, loose marble, submerged stone and headland edges as hazards, not playgrounds. Avoid walking on wet rock at the sea line or climbing ancient remains. Summer beaches may be crowded and have operator-specific loungers; never assume a lifeguard is on duty. Bring water, sun protection and suitable footwear for archaeology walks. Respect heritage protections and do not remove stones or artefacts.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-astris",
+      "gr-thassos-area-kinira"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-ruins-beach",
+      "gr-thassos-beach-gorgona",
+      "gr-thassos-beach-thimonia",
+      "gr-thassos-beach-skidia"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "Alyki is a curated small historic coastal settlement/archaeological visitor area, not an urban town or a beach duplicate. Ruins Beach and Gorgona IDs refer to existing separate beach JSONs; the main southern Alyki Beach must receive its correct existing/created beach ID only after repository cross-check. Archaeological site, quarries and cultural features are curated textual highlights until real attraction JSON records are created; do not invent IDs. Other nearby areas are geographic/visitor suggestions, not automatically nearest-by-distance. Actual proximity and ETA require a guest position, each POI GPS and a legally usable access point; area centroid is NOT a routable entrance. Businesses and accommodations reference this area using area_id.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "Alyki is not a scheduled passenger-vehicle ferry port. Visitor access to Thassos ordinarily uses separate ferry route records (Keramoti–Limenas; Kavala–Skala Prinos) whose published schedules can change. Do not store departures as permanent Alyki area facts. Any island bus schedules also belong to a dated transport dataset with sources and validity windows."
+  },
+  "translations": {
+    "ro": {
+      "name": "Alyki (Aliki)",
+      "tagline": "Două golfuri, vestigii antice și istoria marmurei din Thassos",
+      "summary": "Alyki este o mică așezare istorică de pe coasta sud-estică a insulei Thassos, cunoscută pentru golful nisipos cu taverne și promontoriul arheologic. Aici poți combina o zi la mare cu o plimbare printre sanctuare antice, bazilici paleocreștine și urmele carierelor de marmură.",
+      "description": "Alyki, numită și Aliki, este unul dintre locurile în care natura și istoria insulei Thassos se întâlnesc într-un spațiu surprinzător de mic. Nu este un oraș sau o stațiune întinsă, ci o așezare istorică de coastă, organizată în jurul unui golf, al câtorva case și al tavernelor care funcționează mai ales în sezon. Privind dinspre șoseaua insulei, golful principal atrage prin apa în nuanțe de verde și turcoaz, nisipul de lângă mal și atmosfera unei zile liniștite la mare, chiar dacă vara locurile se pot ocupa repede. Însă adevărata personalitate a zonei se descoperă pe peninsula aflată alături. Aici se păstrează urme ale unui vechi sanctuar, fundații ale unor bazilici paleocreștine și vestigii ale carierelor din care era extrasă marmura folosită în lumea mediteraneeană. Blocurile tăiate în stâncă și suprafețele de piatră de lângă mare spun povestea unui loc în care exploatarea pietrei și navigația au fost legate timp de secole. Pe cealaltă parte a peninsulei se află un al doilea golf, apropiat de ruine, dar distinct de plaja principală, iar în zonă există și golfulețe separate precum Gorgona. O vizită reușită poate însemna înot într-un sector potrivit, un prânz la tavernă și o plimbare pe potecile arheologice, cu atenție la terenul neregulat și la suprafețele stâncoase. Alyki nu trebuie privită ca o localitate pentru cumpărături sau servicii urbane, ci ca o destinație de descoperit încet, pentru peisaj, patrimoniu și atmosfera litoralului grecesc.",
+      "history_culture": "Peninsula Alyki a fost folosită în Antichitate ca spațiu de cult, exploatare a marmurei și activitate maritimă. Vestigiile includ sanctuare, urme ale exploatării antice și două bazilici paleocreștine datate în secolele V–VI. Istoria marmurei albe din Thassos este un element esențial al patrimoniului local; peisajul actual păstrează tăieturi și platforme realizate de meșterii din trecut. Câteva case tradiționale și tavernele de la mare completează caracterul micii așezări.",
+      "local_character": "Alyki are ritmul unei mici așezări de pescari și al unei zone de excursii de o zi, nu al unui oraș. Golful principal poate fi animat vara, însă plimbarea printre ruine și priveliștile dinspre capul stâncos oferă o experiență foarte diferită de stațiunile comerciale.",
+      "what_to_do": "Începe cu golful principal Alyki, apoi urmează doar potecile permise către situl arheologic și vechile cariere. Descoperă separat golful nordic Ruins Beach, care nu este aceeași plajă cu golful cu taverne. Alege un loc sigur pentru fotografii asupra mării, bucură-te de un prânz la o tavernă sezonieră și, dacă ai timp, explorează într-o excursie separată Thimonia sau alte golfuri de pe coasta sud-estică.",
+      "practical_tips": "Vino mai devreme în lunile aglomerate dacă vrei să alegi mai ușor un loc pe nisip. Parcarea din vecinătate nu este garantată, iar regulile șezlongurilor depind de operator. Pentru peninsula arheologică ia încălțăminte cu talpă aderentă, apă și protecție solară. Nu te aventura pe stânci ude și nu urca pe zidurile antice. Nu confunda coordonatele centrului Alyki cu intrarea în sit, plaja nordică ori un loc de parcare. Programul obiectivelor și transportul se verifică pentru ziua vizitei.",
+      "highlights": [
+        "Două golfuri distincte în jurul peninsulei",
+        "Carierele antice de marmură din Thassos",
+        "Vestigii de sanctuar și bazilici paleocreștine",
+        "Taverne și peisaj marin în golful principal",
+        "Poteci panoramice pe teren natural și stâncos"
+      ],
+      "seo_title": "Alyki (Aliki), Thassos – plaje, ruine și cariere de marmură",
+      "seo_description": "Descoperă Alyki din Thassos: golfuri cu apă turcoaz, plaja cu taverne, cariere antice, bazilici, trasee scurte și sfaturi pentru vizitare.",
+      "social_caption": "🏝️ Alyki, Thassos: două golfuri spectaculoase și o peninsulă cu mii de ani de istorie. 🏛️ Plajă, taverne, bazilici antice și urmele carierelor de marmură într-un singur loc. 🇬🇷 #Thassos #Alyki #ExploreThassos",
+      "photo_alt": "Alyki în sud-estul insulei Thassos, cu golful cu apă turcoaz, casele de coastă și peninsula arheologică în apropiere."
+    },
+    "en": {
+      "name": "Alyki (Aliki)",
+      "tagline": "Two bays, ancient ruins and the marble heritage of Thassos",
+      "summary": "Alyki is a small historic seaside settlement on southeastern Thassos, where a sandy tavern-lined bay meets an archaeological peninsula. A beach visit can be paired with ancient sanctuary remains, early Christian basilicas and dramatic traces of marble quarrying.",
+      "description": "Alyki, also written Aliki, brings together several of the most memorable sides of Thassos within a compact stretch of coast. It is not a town or a major resort, but a small historic seaside settlement known for its attractive main bay, seasonal fish tavernas and an extraordinary archaeological headland. The main bathing cove offers sand, clear-looking turquoise water and an inviting seaside setting, although its limited space can feel busy in summer. The peninsula beside it tells a much older story. Remains of ancient worship sites, two early Christian basilicas and the marble quarries show how this landscape once combined sacred activity, stone extraction and maritime trade. Cuttings in the bright rock and the shape of the old quarrying grounds remain visible near the sea. On the other side of the peninsula is another separate bathing inlet beside the archaeological remains; it should not be mistaken for the more visited southern bay. Smaller coves nearby, including Gorgona, are separate geographical places as well. The pleasure of Alyki is in combining a swim in suitable conditions with a relaxed meal and a heritage walk along established paths, taking care on uneven, sun-exposed or slippery rock. It is a place to appreciate rather than rush through: visitors seeking bustling shopping streets or extensive urban services will find a very different experience from Limenas or Potos. Those drawn to archaeology, photography, and the meeting of nature and history have an unusually rewarding destination.",
+      "history_culture": "Alyki was a coastal centre for worship, marble quarrying and maritime exchange in antiquity. The peninsula preserves traces of sanctuaries, ancient stone extraction and two early Christian basilicas generally dated to the fifth and sixth centuries AD. Thassian marble travelled far beyond the island and remains central to the identity of the site. Historic houses near the shore recall the area’s small-settlement character rather than that of a large town.",
+      "local_character": "This is a small historic hamlet and day-trip destination, with a compact restaurant-facing sandy bay and an archaeological landscape beside it. It can be lively at lunchtime in peak season but has no large shopping centre or major urban infrastructure.",
+      "what_to_do": "Enjoy a swim at the main sandy Alyki bay after checking the actual conditions, then follow permitted paths to view the sanctuary remains, early Christian basilicas and ancient quarries. Explore the northern archaeological/Ruins Beach bay as a distinct coastal spot, photograph the marble landscape from safe ground, and stop for a seasonal seaside meal. A visit to nearby Thimonia is a separate outing, not part of the same beach.",
+      "practical_tips": "Arrive earlier during peak summer if you hope for a quieter place on the main beach. Roadside or nearby parking may be limited and must be checked locally. Lounger terms can change between businesses. Take sturdy shoes, water and sun protection for the archaeological paths, and avoid wet marble, unprotected edges and climbing on ruins. The mapped Alyki settlement centre is not a verified parking area or public trail entrance. Check the latest site access conditions and transport timetables for your travel date.",
+      "highlights": [
+        "Two separate scenic bathing bays",
+        "Ancient Thassian marble quarry remains",
+        "Sanctuary and early Christian basilica heritage",
+        "Seasonal tavernas beside the main sandy cove",
+        "Coastal archaeology walks and photography"
+      ],
+      "seo_title": "Alyki (Aliki), Thassos – bays, ancient ruins and marble quarries",
+      "seo_description": "Explore Alyki on Thassos: two bays, sandy beach tavernas, ancient marble quarries, early Christian basilicas, access and practical tips.",
+      "social_caption": "🏝️ Alyki, Thassos: two beautiful bays beside an archaeological peninsula. 🏛️ Discover turquoise water, seaside tavernas and ancient marble quarries in one unforgettable corner of the island. 🇬🇷 #Thassos #Alyki #GreekIslands",
+      "photo_alt": "Alyki historic hamlet on southeastern Thassos with its turquoise main bay and nearby archaeological peninsula."
+    },
+    "el": {
+      "name": "Αλυκή (Alyki)",
+      "tagline": "Δύο όρμοι, αρχαία μνημεία και η ιστορία του θασίτικου μαρμάρου",
+      "summary": "Η Αλυκή είναι ένας μικρός ιστορικός παραθαλάσσιος οικισμός στη νοτιοανατολική Θάσο, όπου ένας αμμώδης όρμος με ταβέρνες συναντά μια σημαντική αρχαιολογική χερσόνησο. Η επίσκεψη συνδυάζει θάλασσα, αρχαία ιερά, παλαιοχριστιανικές βασιλικές και παλιά λατομεία μαρμάρου.",
+      "description": "Η Αλυκή είναι ένας ιδιαίτερος τόπος στη νοτιοανατολική ακτή της Θάσου, όπου η φυσική ομορφιά συνυπάρχει με μια ιστορία πολλών αιώνων. Δεν πρόκειται για πόλη ή μεγάλο τουριστικό θέρετρο, αλλά για έναν μικρό ιστορικό παραθαλάσσιο οικισμό, με λίγα σπίτια, καταλύματα και εποχικές ταβέρνες δίπλα στη θάλασσα. Ο κεντρικός όρμος ξεχωρίζει για την άμμο και τα γαλαζοπράσινα νερά του· κατά τους θερινούς μήνες, όμως, ο περιορισμένος χώρος μπορεί να γεμίσει εύκολα. Δίπλα στην παραλία απλώνεται η χερσόνησος με τα αρχαιολογικά της κατάλοιπα. Τα ίχνη αρχαίων ιερών, οι παλαιοχριστιανικές βασιλικές και τα λατομεία λευκού μαρμάρου μαρτυρούν την εποχή κατά την οποία η περιοχή είχε σημαντικό ρόλο στη λατρεία, στην εξόρυξη και στο θαλάσσιο εμπόριο. Ακόμη και σήμερα οι λαξεμένες επιφάνειες του βράχου δείχνουν πώς οι άνθρωποι διαμόρφωσαν την ακτή. Στην άλλη πλευρά της χερσονήσου βρίσκεται ένας δεύτερος, ξεχωριστός όρμος κοντά στα ερείπια, διαφορετικός από την πιο γνωστή παραλία με τις ταβέρνες. Στην ευρύτερη περιοχή υπάρχουν και άλλοι μικροί όρμοι, όπως η Γοργόνα, που δεν πρέπει να συγχέονται μεταξύ τους. Μια ημέρα στην Αλυκή μπορεί να περιλαμβάνει κολύμπι σε κατάλληλες συνθήκες, φαγητό δίπλα στη θάλασσα και έναν περίπατο στα επιτρεπόμενα μονοπάτια της αρχαιολογικής περιοχής. Το έδαφος έχει πέτρες, ανωμαλίες και εκτεθειμένα σημεία, γι’ αυτό χρειάζεται κατάλληλη προετοιμασία. Η Αλυκή είναι πρωτίστως τόπος ιστορίας και τοπίου, όχι εμπορικό κέντρο.",
+      "history_culture": "Η χερσόνησος της Αλυκής συνδέεται από την αρχαιότητα με ιερούς χώρους, με την εξόρυξη του περίφημου θασίτικου μαρμάρου και με τη ναυσιπλοΐα. Διατηρούνται κατάλοιπα αρχαίων ιερών και δύο παλαιοχριστιανικών βασιλικών του 5ου–6ου αιώνα. Οι τομές στα πετρώματα και οι παλιές εγκαταστάσεις εξόρυξης αποτελούν σημαντικό τμήμα της πολιτιστικής κληρονομιάς του νησιού.",
+      "local_character": "Μικρός ιστορικός παραθαλάσσιος οικισμός με εποχικές ταβέρνες και φυσικό τοπίο. Το καλοκαίρι ο κύριος όρμος μπορεί να είναι πολυσύχναστος, ενώ η γειτονική αρχαιολογική χερσόνησος προσφέρει μια διαφορετική εμπειρία.",
+      "what_to_do": "Απολαύστε τον κύριο αμμώδη όρμο, εφόσον οι συνθήκες κολύμβησης είναι καλές, και στη συνέχεια ακολουθήστε τα επιτρεπόμενα μονοπάτια προς τα αρχαία ιερά, τις βασιλικές και τα λατομεία. Δείτε χωριστά τον βόρειο όρμο κοντά στα ερείπια και φωτογραφίστε τη μαρμάρινη ακτογραμμή από ασφαλή σημεία. Ολοκληρώστε την επίσκεψη με φαγητό σε κάποια από τις εποχικές παραθαλάσσιες ταβέρνες.",
+      "practical_tips": "Το καλοκαίρι φτάστε νωρίτερα για να βρείτε πιο εύκολα χώρο στον κύριο όρμο. Οι θέσεις στάθμευσης και οι όροι χρήσης ξαπλωστρών δεν είναι εγγυημένοι. Για τον αρχαιολογικό περίπατο χρειάζονται σταθερά παπούτσια, νερό και αντηλιακή προστασία. Μην περπατάτε σε βρεγμένα και ολισθηρά βράχια και μην ανεβαίνετε πάνω στα αρχαία κατάλοιπα. Οι συντεταγμένες του οικισμού δεν αποτελούν επιβεβαιωμένη είσοδο ή χώρο στάθμευσης.",
+      "highlights": [
+        "Δύο ξεχωριστοί όρμοι γύρω από τη χερσόνησο",
+        "Αρχαία λατομεία λευκού μαρμάρου",
+        "Ιερά και παλαιοχριστιανικές βασιλικές",
+        "Παραθαλάσσιες ταβέρνες στον κύριο όρμο",
+        "Περίπατος στο ιστορικό τοπίο με θέα στο Αιγαίο"
+      ],
+      "seo_title": "Αλυκή Θάσου – παραλίες, αρχαία λατομεία και βασιλικές",
+      "seo_description": "Ανακαλύψτε την Αλυκή της Θάσου: δύο όρμοι, ταβέρνες δίπλα στο κύμα, αρχαία λατομεία μαρμάρου, βασιλικές και χρήσιμες συμβουλές.",
+      "social_caption": "🏝️ Αλυκή, Θάσος: δύο όμορφοι όρμοι και μια χερσόνησος γεμάτη ιστορία. 🏛️ Γαλαζοπράσινα νερά, παραθαλάσσιες ταβέρνες και αρχαία λατομεία μαρμάρου. 🇬🇷 #Θάσος #Αλυκή #Ελλάδα",
+      "photo_alt": "Ο ιστορικός οικισμός της Αλυκής στη νοτιοανατολική Θάσο, με τον γαλαζοπράσινο όρμο και την αρχαιολογική χερσόνησο."
+    },
+    "de": {
+      "name": "Alyki (Aliki)",
+      "tagline": "Zwei Buchten, antike Ruinen und die Geschichte des Thassos-Marmors",
+      "summary": "Alyki ist eine kleine historische Küstensiedlung im Südosten von Thassos. Neben einer sandigen Bucht mit Tavernen liegt eine Halbinsel mit antiken Heiligtümern, frühchristlichen Basiliken und alten Marmorsteinbrüchen.",
+      "description": "Alyki, auch Aliki genannt, ist ein besonderer Küstenort im Südosten von Thassos, an dem Landschaft und Geschichte eng miteinander verbunden sind. Es handelt sich nicht um eine Stadt oder einen großen Ferienort, sondern um eine kleine historische Siedlung mit wenigen Häusern, Unterkünften und saisonalen Tavernen. Die bekannte Hauptbucht bietet einen Sandstrand, oft türkisfarbenes Wasser und ein angenehmes Ambiente für einen Tag am Meer. Wegen ihrer überschaubaren Größe kann sie im Hochsommer allerdings gut besucht sein. Gleich daneben beginnt die archäologische Halbinsel. Hier erinnern Spuren antiker Heiligtümer, frühchristliche Basiliken und große Marmorsteinbrüche an Zeiten, in denen die Küste als Kultort, Gewinnungsstätte und Umschlagplatz für wertvollen Stein genutzt wurde. Noch heute sind im hellen Fels alte Bearbeitungsspuren und Einschnitte zu erkennen. Auf der gegenüberliegenden Seite der Halbinsel liegt eine weitere Badebucht in der Nähe der Ruinen, die nicht mit dem bekannteren Strand bei den Tavernen verwechselt werden darf. Auch kleinere Buchten wie Gorgona sind eigenständige Orte. Ein Besuch lässt sich gut aus Badepause, einem Essen am Meer und einem Spaziergang entlang der erlaubten Wege verbinden. Dabei sollte man feste Schuhe tragen und auf unebenem Gelände, an Klippenrändern und auf feuchten Felsen vorsichtig sein. Alyki eignet sich besonders für Gäste, die Natur, antike Geschichte und ein ruhigeres Küstengefühl schätzen; ein umfangreiches Einkaufszentrum oder die Infrastruktur einer größeren Stadt darf man hier nicht erwarten.",
+      "history_culture": "Die Halbinsel von Alyki war über viele Jahrhunderte ein Ort für kultische Handlungen, Marmorabbau und den Seetransport der gewonnenen Steine. Zeugnisse sind antike Heiligtümer, Überreste großer Steinbrüche sowie zwei frühchristliche Basiliken des 5. bis 6. Jahrhunderts. Der weiße Thassos-Marmor wurde weit über die Insel hinaus verwendet; die Bearbeitungsspuren sind bis heute Teil des sichtbaren Kulturerbes.",
+      "local_character": "Ein kleiner historischer Küstenweiler mit Tavernen und wenigen Ferienunterkünften, kein eigenständiges urbanes Zentrum. Die Hauptbucht kann im Sommer belebt sein; die archäologische Halbinsel vermittelt eine andere, landschaftlich und kulturell geprägte Stimmung.",
+      "what_to_do": "Besuchen Sie zunächst die sandige Hauptbucht und folgen Sie danach den zugelassenen Wegen zu den Ruinen der Heiligtümer, den frühchristlichen Basiliken und den Marmorsteinbrüchen. Die nördliche Bucht bei den Ruinen ist ein gesonderter Badeort. Fotografieren Sie die besondere Küste von sicheren Standpunkten aus und genießen Sie bei geöffneter Saison eine Mahlzeit in einer Taverne am Wasser.",
+      "practical_tips": "Im Sommer lohnt sich eine frühere Ankunft, da der Sandstrand schnell voll werden kann. Parkplätze sowie Liegenbedingungen müssen vor Ort geprüft werden. Auf dem archäologischen Rundgang sind feste Schuhe, Trinkwasser und Sonnenschutz sinnvoll. Betreten Sie keine gesperrten Bereiche, klettern Sie nicht auf antike Mauern und vermeiden Sie nassen, glatten Marmor. Der Karteneintrag der Siedlung ist kein bestätigter Parkplatz oder barrierefreier Eingang.",
+      "highlights": [
+        "Zwei landschaftlich unterschiedliche Badebuchten",
+        "Antike Steinbrüche für weißen Thassos-Marmor",
+        "Heiligtümer und frühchristliche Basiliken",
+        "Saisonale Tavernen an der Hauptbucht",
+        "Küstenwege mit Ausblicken auf die Ägäis"
+      ],
+      "seo_title": "Alyki (Aliki) Thassos – Buchten, antike Ruinen und Marmor",
+      "seo_description": "Alyki auf Thassos entdecken: sandige Buchten, Tavernen, alte Marmorsteinbrüche, frühchristliche Basiliken und Tipps für Anfahrt und Besuch.",
+      "social_caption": "🏝️ Alyki auf Thassos vereint zwei Buchten mit einer faszinierenden archäologischen Halbinsel. 🏛️ Türkisfarbenes Meer, Tavernen und antike Marmorsteinbrüche. 🇬🇷 #Thassos #Alyki #Griechenland",
+      "photo_alt": "Historische Küstensiedlung Alyki auf Thassos mit türkisfarbener Bucht und archäologischer Halbinsel."
+    },
+    "bg": {
+      "name": "Алики (Alyki)",
+      "tagline": "Два залива, древни руини и историята на мрамора от Тасос",
+      "summary": "Алики е малко историческо крайбрежно селище в югоизточната част на Тасос. До пясъчния залив с таверни се намира археологически полуостров с древни светилища, раннохристиянски базилики и стари мраморни кариери.",
+      "description": "Алики е едно от най-интересните места по югоизточния бряг на Тасос, където морският пейзаж и античната история се срещат на малка територия. Това не е град или голям курорт, а малко историческо крайбрежно селище с няколко къщи, места за настаняване и сезонни таверни. Основният залив е известен с пясъчния си бряг и красивите тюркоазени оттенъци на водата, но през летните месеци пространството може бързо да се запълни с посетители. Непосредствено до него се простира археологическият полуостров. Там могат да се видят останки от древни светилища, раннохристиянски базилики и кариери, от които някога е бил добиван прочутият тасоски мрамор. По светлите скали и днес личат следи от човешката работа и от периода, когато камъкът е бил транспортиран по море към различни части на Средиземноморието. От другата страна на полуострова има втори, отделен залив в близост до руините, който не трябва да се смесва с основния плаж при таверните. Други малки заливчета в района, включително Горгона, също имат собствена географска идентичност. Денят тук може да съчетае къпане при подходящи условия, почивка край морето, обяд и разходка по разрешените пътеки сред историческите останки. Теренът около скалите е неравен и на места хлъзгав, затова са необходими удобни обувки и внимание. Алики е място за хора, които ценят природата, археологията и автентичната атмосфера, а не за тези, които търсят голяма търговска зона.",
+      "history_culture": "Полуостровът на Алики има дълга история като място на древни култове, добив на мрамор и морска търговия. Запазени са останки от светилища, големи мраморни кариери и две раннохристиянски базилики от V–VI век. Белият тасоски мрамор е достигал далеч отвъд острова, а следите от неговото извличане все още се виждат в скалистия ландшафт.",
+      "local_character": "Малко историческо крайбрежно селище с таверни и ограничено настаняване. Основният залив е оживен през летния сезон, докато археологическият полуостров привлича с разходки, история и гледки към морето.",
+      "what_to_do": "Отделете време за основния пясъчен залив, след което посетете разрешените пътеки към древните светилища, базиликите и кариерите. Северният залив до руините е отделно място за плажуване. Снимайте мраморните скали от безопасни позиции и се насладете на храна в някоя от работещите сезонни таверни край водата.",
+      "practical_tips": "През лятото пристигнете по-рано заради ограниченото място на плажа. Паркирането и условията за шезлонги не са гарантирани. За археологическите пътеки носете стабилни обувки, вода и слънцезащита. Не се качвайте по руините и не стъпвайте върху мокри, хлъзгави мраморни плочи. Координатите на селището не са потвърден автомобилен вход или паркинг; транспортът и достъпът се проверяват преди посещението.",
+      "highlights": [
+        "Два отделни морски залива",
+        "Антични кариери за тасоски мрамор",
+        "Древни светилища и раннохристиянски базилики",
+        "Сезонни таверни край основния залив",
+        "Красиви разходки сред история и природа"
+      ],
+      "seo_title": "Алики, Тасос – заливи, древни руини и мраморни кариери",
+      "seo_description": "Разгледайте Алики на остров Тасос: два залива, плажни таверни, антични кариери, базилики и полезни съвети за посещение.",
+      "social_caption": "🏝️ Алики, Тасос: два красиви залива до полуостров с хилядолетна история. 🏛️ Тюркоазено море, таверни и древни мраморни кариери! 🇬🇷 #Тасос #Алики #Гърция",
+      "photo_alt": "Малкото историческо селище Алики на Тасос с тюркоазен залив и археологически полуостров."
+    },
+    "sr": {
+      "name": "Aliki (Alyki)",
+      "tagline": "Dva zaliva, antički ostaci i istorija tasoskog mermera",
+      "summary": "Aliki je malo istorijsko primorsko naselje na jugoistoku Tasosa, gde se peščana uvala sa tavernama nalazi pored arheološkog poluostrva. Poseta može da spoji kupanje sa razgledanjem drevnih svetilišta, ranohrišćanskih bazilika i ostataka kamenoloma mermera.",
+      "description": "Aliki, poznat i kao Alyki, jedno je od mesta na jugoistočnoj obali Tasosa gde se priroda i bogata istorija sreću na veoma malom prostoru. Ovo nije grad niti veliko letovalište, već malo istorijsko priobalno naselje sa nekoliko kuća, smeštajnih objekata i sezonskih taverni. Glavni zaliv privlači peskom i tirkiznim morem, ali tokom leta njegova ograničena površina može brzo postati prometna. Odmah pored njega nalazi se arheološko poluostrvo, pravi razlog zbog kog je Aliki mnogo više od obične plaže. Ovde su sačuvani tragovi antičkih svetilišta, dve ranohrišćanske bazilike i nekadašnjih kamenoloma u kojima se vadio poznati tasoski mermer. Na svetlim stenama i danas se mogu uočiti tragovi obrade, a blizina mora podseća na vreme kada su kameni blokovi odavde otpremani brodovima. Sa druge strane poluostrva nalazi se drugi zaliv, bliže ruševinama, koji nije isto što i glavni peščani zaliv sa tavernama. U okolini postoje i manje, posebno imenovane uvale, poput Gorgone. Poseta ovde može da uključi kupanje u pogodnim uslovima, odmor uz more, obrok u taverni i šetnju postojećim, dozvoljenim stazama kroz arheološki lokalitet. Potrebno je biti oprezan zbog neravnog terena, kamenja i klizavih površina blizu vode. Aliki je mesto za sporije otkrivanje obale, istorije i pejzaža, a ne za gradski šoping ili očekivanje velikog izbora svakodnevnih usluga.",
+      "history_culture": "Poluostrvo Aliki je tokom antičkog doba bilo povezano sa kultnim mestima, eksploatacijom mermera i pomorskom trgovinom. Tu su ostaci svetilišta, istorijskih kamenoloma i dve ranohrišćanske bazilike iz V i VI veka. Mermer sa Tasosa koristio se na mnogo širem području Sredozemlja, a stari rezovi u steni deo su vidljive baštine lokaliteta.",
+      "local_character": "Malo istorijsko naselje i izletničko mesto, sa tavernama koje uglavnom rade u sezoni. Glavna uvala može biti puna leti, dok arheološko poluostrvo nudi drugačiju atmosferu i lepe vidikovce.",
+      "what_to_do": "Uživajte u glavnom peščanom zalivu ako su uslovi za kupanje dobri, a zatim krenite dozvoljenim stazama do ostataka svetilišta, ranohrišćanskih bazilika i mermernih kamenoloma. Severni zaliv kraj ruševina posmatrajte kao odvojeno kupalište. Fotografije pravite sa bezbednih mesta i svratite na obrok u otvorenu tavernu kraj mora.",
+      "practical_tips": "U letnjoj sezoni bolje je doći ranije jer je prostor na glavnoj plaži ograničen. Parking i uslovi za korišćenje ležaljki mogu da se menjaju. Za arheološke staze ponesite stabilnu obuću, vodu i zaštitu od sunca. Ne penjite se na stare zidove i ne hodajte po mokrim klizavim stenama. GPS tačka naselja nije potvrđen ulaz za automobile niti parking; raspored autobusa i uslove obilaska proverite za dan posete.",
+      "highlights": [
+        "Dva odvojena zaliva oko poluostrva",
+        "Drevni kamenolomi belog tasoskog mermera",
+        "Svetilišta i ranohrišćanske bazilike",
+        "Sezonske taverne pored glavnog zaliva",
+        "Šetnja među istorijskim ostacima i morskim vidicima"
+      ],
+      "seo_title": "Aliki (Alyki), Tasos – zalivi, drevne ruševine i mermer",
+      "seo_description": "Otkrijte Aliki na Tasosu: dva zaliva, peščanu plažu, taverne, antičke kamenolome, bazilike i korisne savete za posetu.",
+      "social_caption": "🏝️ Aliki, Tasos: dva zaliva kraj poluostrva punog istorije. 🏛️ Tirkizno more, primorske taverne i antički kamenolomi mermera. 🇬🇷 #Tasos #Aliki #Grcka",
+      "photo_alt": "Istorijsko primorsko naselje Aliki na Tasosu, sa tirkiznim zalivom i arheološkim poluostrvom."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/alyki/images/alyki1.webp",
+    "gallery": [
+      "destinations/thassos/areas/alyki/images/alyki2.webp",
+      "destinations/thassos/areas/alyki/images/alyki3.webp",
+      "destinations/thassos/areas/alyki/images/alyki4.webp",
+      "destinations/thassos/areas/alyki/images/alyki5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/alyki/images/",
+    "suggested_asset_names": [
+      "alyki1.webp",
+      "alyki2.webp",
+      "alyki3.webp",
+      "alyki4.webp",
+      "alyki5.webp"
+    ],
+    "image_policy": "Exactly five WebP references already configured (alyki1.webp–alyki5.webp): recommend (1) identifiable Alyki main-bay and settlement overview, (2) genuine seaside houses/tavernas, (3) archaeological sanctuary or basilica, (4) documented ancient marble quarry, (5) safe panoramic view of the archaeological peninsula or DISTINCT northern cove. Do not mislabel Gorgona, Ruins Beach or neighbouring Skidia as main Alyki bay. Image binaries are NOT included; before publishing verify genuine geography, source, copyright, commercial transfer permissions, required attribution and suitable alt text.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_osm_alyki",
+      "kind": "osm_mapped_locality",
+      "title": "Mapcarta / OpenStreetMap — Alyki locality",
+      "url": "https://mapcarta.com/13819526",
+      "detail": "Locality GPS 40.60509,24.74109: centre/reference for named hamlet. Not verified trailhead or car park. Distinct separate archaeological site centroid approx 40.60285,24.74077.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_gtp_alyki",
+      "kind": "greek_travel_location_directory",
+      "title": "Greek Travel Pages — ALYKI, Settlement, Thassos",
+      "url": "https://www.gtp.gr/LocPage.asp?id=10989",
+      "detail": "Classifies as beach, listed traditional settlement and archaeological site; provides historic settlement context and DMS position close to mapped OSM locality. Population number displayed for 1991 only and not used as current.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_regional_heritage",
+      "kind": "regional_cultural_tourism_portal",
+      "title": "Eastern Macedonia and Thrace regional digital tourism — Alyki Ancient Marble Quarry",
+      "url": "https://emtgreece.com/index.php/en/proorismos/alyki-ancient-marble-quarry",
+      "detail": "Documents protected archaeological peninsula, ancient sanctuaries, marble extraction, two early Christian basilicas and the separate coves. No current hours or fee independently verified.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_iugs_marble",
+      "kind": "international_geoheritage_reference",
+      "title": "International Union of Geological Sciences — Thassos Marble",
+      "url": "https://iugs-geoheritage.org/geoheritage_stones/thassos-marble/",
+      "detail": "Describes Alyki marble properties, regional historic quarrying and cultural importance in the Mediterranean; source for marble history, not an opening-hours authority.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_local_tourism",
+      "kind": "local_tourism_guide",
+      "title": "Go Thassos — Alyki",
+      "url": "https://www.go-thassos.com/about-thassos/places/alyki",
+      "detail": "Historic seaside hamlet, archaeological peninsula, coves, traditional seafront fish tavernas, small accommodations and trails. Seasonal amenities not treated as guaranteed.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_anaeth",
+      "kind": "regional_local_heritage_site",
+      "title": "Anaeth — Aliki, Thassos island villages",
+      "url": "https://anaeth.gr/en/thassos_to_nisi_mas/villages/aliki_en.html",
+      "detail": "Provides history of the peninsula, ancient settlement, sanctuary and early Christian remains. Used as heritage context, not as independently verified visit logistics.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_topostext_alyki",
+      "kind": "archaeological_gazetteer",
+      "title": "ToposText — Alyke (Thasos) sanctuary and settlement",
+      "url": "https://topostext.org/place/406247UAly",
+      "detail": "Archaic-to-late-antique sanctuary, settlement and quarry; distinct gazetteer location for archaeological material, not current visitor entry.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_topostext_quarry",
+      "kind": "archaeological_gazetteer",
+      "title": "ToposText — Alyke quarry",
+      "url": "https://topostext.org/place/406247QAly",
+      "detail": "Ancient quarry at cape; geographically distinct from residential/locality reference and bathing cove.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_nikana_alyki",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Aliki, Thassos places",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/places/1760/alyki",
+      "detail": "Distinguishes the popular main southern/road-facing sandy bay from the north archaeological bay. Reports tavernas, summer crowds and parking; pricing/parking subject to current on-site recheck.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_nikana_beach",
+      "kind": "beach_geography_reference",
+      "title": "Nikana — Alyki Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1941/alyki-beach",
+      "detail": "Names two adjacent bays called Alyki, main tourist beach and north rocky bay; source to prevent merging with separate existing Ruins Beach and Gorgona records.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_mapcarta_archaeology",
+      "kind": "osm_mapped_archaeological_site",
+      "title": "Mapcarta — Archaeological Site of Aliki (OSM way 1200022968)",
+      "url": "https://mapcarta.com/W1200022968",
+      "detail": "Separate archaeological point around 40.60285,24.74077; not the same as the village-centre or parking pin.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_visit_thassos",
+      "kind": "local_tourism_portal",
+      "title": "Visit Thassos — Aliki",
+      "url": "https://visit-thassos.com/en/places/alikes",
+      "detail": "Describes two historical coves, marble trade, early Christian remains and seasonal tavernas. Claimed public transport and facilities are not accepted as reliable live operating details.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_archeological_quarries",
+      "kind": "cultural_heritage_reference",
+      "title": "Golden Greece — Ancient Quarries of Alyki",
+      "url": "https://golden-greece.gr/en/archaeological/egeo/thasos/arxaia-latomeia-alykis",
+      "detail": "History and geography of the quarry peninsula, rocky salt deposits, bays and historic small settlement.",
+      "checked_on": "2026-10-27"
+    }
+  ],
+  "editorial": {
+    "status": "researched_six_languages_completed_5_image_paths_configured_pending_photo_rights_arrival_and_final_review",
+    "facts_checked_on": "2026-10-27",
+    "translations_written_on": "2026-10-27",
+    "coverage": "full_Alyki_small_historic_coastal_hamlet_profile_six_languages_13_documented_sources_genuine_archaeological_history_5_preset_WebP_paths",
+    "requires_manual_review": [
+      "Confirm correct record classification: Alyki is a small genuine historic coastal hamlet and archaeological visitor area, not a city or duplicate of Alyki Beach. It is a heritage exception among curated areas; do not count it as a major urban settlement.",
+      "Cross-check mapped hamlet/locality centre at 40.60509,24.74109 in Google Maps. This OSM locality point is NOT an approved parking area, vehicle entrance, accessible route, bathing beach, or archaeological-site entrance. Do not add invented arrival coordinates.",
+      "Confirm exact designated public trails, safe accessible entrance, conservation restrictions, any current entrance fees/hours or protected-area closures with the competent archaeological authority before declaring them available.",
+      "Validate the main south/west Alyki Beach JSON identifier against actual GitHub beach inventory before adding it to featured_beach_ids; existing supplied directory did not contain a matching dedicated main Alyki beach record. Existing Ruins Beach and Gorgona must not be conflated with it.",
+      "Verify summer tavernas/food suppliers and beach amenity availability, rental sunbed rules, parking restrictions and current KTEL stops/timetables for the specific intended season. No guaranteed parking or bus timetable is asserted.",
+      "Preserve archaeological structures and fragile coast: walking on wet marble, scrambling at quarry edges or climbing protected remains must not be promoted.",
+      "Confirm full consistency of featured_beach_ids with current repository and later connect independent archaeological POI IDs when those actual attraction records exist; no fabricated IDs.",
+      "Place genuine Alyki images alyki1.webp to alyki5.webp in the existing images folder and inspect every file for exact subject, rights owner, commercial and onward-transfer permission, and attribution.",
+      "Native-speaker review of complete RO, EN, EL, DE, BG and Serbian Latin texts, especially archaeology terminology, village classification and localization of SEO and photo alt text."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "Five stable local WebP paths are specified as cover and gallery; actual photo binaries and permission data are not bundled with this JSON. Third-party websites were used for fact-checking only; no photographs were copied, downloaded or licensed."
+  }
+}

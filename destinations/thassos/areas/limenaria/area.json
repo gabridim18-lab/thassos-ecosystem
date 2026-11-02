@@ -1,0 +1,440 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-limenaria",
+  "slug": "limenaria",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Λιμενάρια",
+    "international_name": "Limenaria",
+    "aliases": [
+      "Limenaria",
+      "Limenaria Thassos",
+      "Limenária",
+      "Λιμενάρια",
+      "Λιμενάρια Θάσου"
+    ],
+    "area_type": "seaside_town",
+    "entity_scope": "Limenaria coastal town, built around a seaside centre and working small-boat harbour on southwest Thassos; includes town promenades and neighbourhoods, not the entire geographically separate Tripiti or Metalia beach landscapes or the inland village Kastro.",
+    "deduplication_warning": "Limenaria town is distinct from Limenaria Beach as an individual beach POI, Metalia Beach on the east of the town, Tripiti Beach to the west, Pefkari eastwards and Potos farther southeast. Palataki is a historical industrial landmark, not a palace-hotel or confirmed publicly accessible indoor museum. Kalivia/Kalyvia is the adjoining settlement sector, not an alias for all of Limenaria. The small fishing/town harbour is NOT a ferry terminal; do not mix with Skala Prinos or Limenas scheduled ferries.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": true,
+    "coast": "southwest",
+    "part_of_island": "southwestern",
+    "center": {
+      "lat": 40.62744,
+      "lng": 24.57469,
+      "coordinate_role": "OSM_place_town_reference_point_not_the_Limenaria_Beach_bathing_site_harbour_entrance_public_car_park_or_road_arrival",
+      "coordinate_source": "Mapcarta / OpenStreetMap place=town node 280966271",
+      "coordinate_source_url": "https://mapcarta.com/13816514",
+      "verification_status": "OSM_named_town_reference_point_verified_against_mapped_feature;_Google_Maps_arrival_and_settlement_boundary_not_confirmed",
+      "verified_on": "2026-10-27"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "OSM place=town node 280966271 locates Limenaria centre 40.62744,24.57469 (WGS84); this is for town orientation, NOT an access/parking/navigation point. Limenaria Beach is a separate beach feature farther west (e.g. OSM node 6285722595 ~40.62590,24.56924), while designated bathing-water monitoring coordinates can differ again. Metalia Beach is east of the centre and Tripiti Beach west of the town. Precise closeness and travel time for tourists must use per-POI verified coordinates and routable access points, NOT the area centre. Google Maps address searches and local road turns need manual verification before navigation features."
+  },
+  "overview": {
+    "settlement_character": "lively_southwest_Thassos_seaside_town_with_seafront_promenade_beaches_small_harbour_and_mining_industrial_heritage",
+    "tourism_profile": [
+      "year_round_seaside_town_and_popular_summer_holiday_base",
+      "seafront_promenade_small_working_harbour_and_evening_dining",
+      "restaurants_cafes_shops_and_varied_accommodation",
+      "mixed_sand_pebble_town_beach_and_separate_metalia_tripiti_excursions",
+      "Palataki_former_mining_company_headquarters_overlooking_port",
+      "historic_metallurgical_buildings_and_cultural_exhibitions",
+      "folklore_collection_and_local_history",
+      "convenient_base_for_Potos_Pefkari_Kastro_and_Theologos_excursions",
+      "sensible_choice_for_evening_walks_and_independent_island_driving"
+    ],
+    "best_time_to_visit": "May to October for sightseeing and seafront walks; generally June to September for seaside swimming depending on actual water and weather conditions. July and August are usually busiest. Attractions and services may have shorter schedules outside the summer season.",
+    "peak_season_notes": "Promenade restaurants and central shops can be busy on summer evenings; parking near the harbour and waterfront may be limited. Sunbeds, tavernas, museum exhibitions and boat trips depend on the individual operator and season. No live traffic, beach crowd level or availability is inferred."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "historic_mineral_extraction_zinc_and_other_ores_on_southwestern_Thassos",
+      "early_20th_century_Speidel_company_and_industrial_urban_growth",
+      "Palataki_eclectic_architecture_constructed_1903_1904_as_company_headquarters",
+      "surviving_metallurgy_factory_structures_and_mining_remains_near_Metalia",
+      "resettlement_from_inland_Kastro_and_arrival_of_Asia_Minor_Greek_refugees",
+      "Limenaria_local_folklore_museum_and_seasonal_cultural_events",
+      "small_maritime_harbour_and_seaside_commerce"
+    ],
+    "local_traditions": [
+      "evening_volta_along_harbour_and_seafront_promenade",
+      "taverna_dining_meze_and_seafood_with_daily_variability",
+      "local_folklore_exhibitions_music_and_summer_cultural_activity_when_programmed",
+      "island_olive_products_honey_and_thassian_culinary_traditions",
+      "mining_industrial_memory_reflected_in_monuments_and_stories"
+    ],
+    "local_food_specialties": [
+      "grilled_fish_and_seafood_when_available",
+      "traditional_Greek_meze_saganaki_and_salads",
+      "olive_oil_and_Thassos_olives",
+      "local_honey_and_regional_products_where_sold",
+      "grilled_meats_and_Greek_cooked_dishes_in_tavernas"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "couples_and_friends_who_like_evening_waterfront_activity",
+      "families_seeking_a_town_base_with_services_and_multiple_beach_choices",
+      "travellers_interested_in_industrial_history_and_local_culture",
+      "visitors_planning_short_drives_to_south_and_west_coast_beaches",
+      "independent_travellers_who_prefer_a_walkable_seaside_centre",
+      "photographers_of_harbour_views_buildings_and_coastal_scenery"
+    ],
+    "experiences": [
+      "stroll_on_public_seafront_walkways_and_watch_small_boats_in_the_harbour",
+      "admire_Palataki_from_public_safe_viewpoints_without_promising_interior_access",
+      "explore_the_outside_of_historic_mining_and_metallurgical_buildings_where_public_access_is_allowed",
+      "visit_nearby_Metalia_Beach_separately_from_Limenaria_Beach_and_follow_its_own_entry_guidance",
+      "choose_a_suitable_section_of_Limenaria_Beach_for_swimming_after_checking_seabed_and_waves",
+      "make_a_separate_beach_trip_to_Tripiti_west_of_town",
+      "enjoy_an_evening_meal_or_cafe_along_the_waterfront",
+      "seek_out_the_folklore_collection_or_local_art_exhibitions_after_checking_current_opening",
+      "visit_nearby_Potos_Pefkari_or_traditional_inland_Kastro_Theologos_as_separate_excursions"
+    ],
+    "points_of_interest_summary": [
+      "Limenaria harbour and seafront promenade — town waterfront, fishing boats and seasonal eateries; NOT a passenger ferry port",
+      "Palataki — 1903–1904 former Speidel mining-company headquarters high above the harbour; do not promise interior entry",
+      "Former Metalleia / Metallurgy Factory — industrial heritage and cultural activity near Palataki; access and exhibition times need separate checks",
+      "Limenaria Folklore Museum — local traditional clothing, household and farming artifacts; current entrance and visiting hours to confirm",
+      "Limenaria Beach — own beach.json record, with mixed shore types and locally variable swim entry",
+      "Metalia Beach — distinct eastern bay with mining-industrial backdrop",
+      "Tripiti Beach — distinct western bay with a sea-carved rock opening; not part of the town beach",
+      "Pefkari and Potos — nearby but independent tourist settlements east/southeast of Limenaria"
+    ],
+    "estimated_visit_duration": "Allow one to three hours for a casual seafront and Palataki exterior walk; half or full day when adding a beach or local culture. Times depend on route, weather, mobility and opening restrictions, not a fixed attraction ticket.",
+    "family_suitability": "Town promenade, dining and suitable stretches of the main beach can suit families. Select each beach individually, check stones and changing depths, and supervise children near boats, roads and cliff edges. Palataki approach and abandoned mining structures are not play areas.",
+    "mobility_considerations": "Central streets and waterfront have some pedestrian-friendly sections, but slopes around Palataki and uneven pavement, cobbles and beach stones can be difficult. No fully step-free itinerary or adapted water entry is independently confirmed.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "Reached via the paved Thassos coastal ring road from both the Skala Maries/Skala Kallirachis side and the Potos side. Follow local signs into town; the OSM town point is not a validated parking/arrival destination.",
+    "public_transport": "Scheduled KTEL island buses serve Limenaria with links reported toward Limenas/Skala Prinos, Potos and Theologos; frequency, bus-stop positions, fares and service days vary by month. Consult the Municipality of Thassos / KTEL notices immediately before travel and avoid embedding a fixed timetable.",
+    "parking_overview": "Street parking and some local spaces serve the town, but availability and restrictions vary; the harbour/promenade can be busy and many lanes are narrow. Do not promise free parking or a confirmed vehicle entry until mapped and locally checked.",
+    "pedestrian_access": "Much of the waterfront and central commercial area can be explored on foot. A separate route climbs toward Palataki, where steps, slopes and uneven surfaces may occur; use only established public pathways.",
+    "accessibility_note": "Do not infer wheelchair access from the existence of a promenade. Beach entry, accessible toilets, kerb cuts, Palataki viewpoint route and adapted beach equipment require place-specific verification.",
+    "general_amenities": {
+      "supermarket": true,
+      "pharmacy": null,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": null,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "Small working harbour is for boats, not a swimming area or regular ferry boarding point. Historic mine structures, industrial ruins and cliff viewpoints can be unsafe, restricted or unstable; never enter derelict interiors, climb fences or approach unguarded edges. Check actual beach seabed, depth, wind and waves at each named bay. Shops, pharmacies, ATMs, medical services and fuel stations should be resolved as individually geolocated active businesses before display as verified nearby services.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-skala-maries",
+      "gr-thassos-area-pefkari",
+      "gr-thassos-area-potos",
+      "gr-thassos-area-kastro",
+      "gr-thassos-area-theologos"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-limenaria",
+      "gr-thassos-beach-metalia",
+      "gr-thassos-beach-tripiti",
+      "gr-thassos-beach-pefkari"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "Limenaria town is its own area: the urban shoreline, Metalia, Tripiti and Pefkari have separate beach records and geocoordinates; do not treat their features as equivalent or use the town centre for distances to them. Palataki, metallurgy factory and folklore museum are factual attraction leads but no dedicated attraction catalog IDs are linked until those records actually exist. Neighbouring areas are editorial connections, not a promise of walkability. Service and accommodation distances must use their own mapped point and a routable public entrance. Limenaria has a small harbour but is NOT an island ferry terminal.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "Limenaria waterfront harbour is not the scheduled car/passenger ferry arrival port. The regular island ferry links are Keramoti–Limenas and Kavala–Skala Prinos; show those only through a separate ferry-routes module with operator, dates, timestamp, time zone Europe/Athens and alert/cancellation validation. Current KTEL bus schedules also belong to a time-sensitive transport service and not to this static JSON."
+  },
+  "translations": {
+    "ro": {
+      "name": "Limenaria",
+      "tagline": "Promenadă la mare, plaje și istoria minelor din Thassos",
+      "summary": "Limenaria este unul dintre principalele orașe turistice din sud-vestul insulei Thassos. Promenada cu taverne, portul cu bărci mici, plajele din apropiere și clădirea istorică Palataki oferă un amestec atractiv de vacanță la mare și patrimoniu industrial.",
+      "description": "Limenaria este locul în care o vacanță la mare se îmbină firesc cu plimbările de seară și cu descoperirea unei pagini neobișnuite din istoria insulei Thassos. Orașul se desfășoară pe coasta sud-vestică, în jurul unei zone centrale animate, al unui mic port și al unei promenade cu restaurante, cafenele și magazine. Vara, după orele petrecute pe plajă, malul mării devine locul potrivit pentru o cină fără grabă, o înghețată sau o plimbare printre bărcile ancorate. Dincolo de atmosfera de stațiune, Limenaria păstrează urme ale exploatării miniere care i-a influențat dezvoltarea în secolul XX. Pe promontoriul de deasupra portului se vede Palataki, clădirea cu turnulețe construită în 1903–1904 pentru compania germană Speidel. Silueta sa este unul dintre simbolurile localității. Spre Metalia se păstrează elemente ale fostelor instalații metalurgice, un decor aparte pentru fotografii și pentru înțelegerea trecutului locului, dar clădirile și terenurile degradate nu trebuie explorate fără acces permis. Există și un muzeu de folclor dedicat vieții tradiționale din Thassos, pentru care programul trebuie verificat înainte de vizită. Limenaria are propria plajă, cu porțiuni de nisip și pietricele, însă golfurile Metalia, spre est, și Tripiti, spre vest, sunt plaje distincte, fiecare cu propriile condiții de intrare în apă. Orașul este și o bază convenabilă pentru excursii către Pefkari, Potos sau satele montane Kastro și Theologos. Limenaria se potrivește celor care vor să combine marea, serviciile unui oraș de vacanță și câteva descoperiri culturale fără să schimbe zilnic locul de cazare.",
+      "history_culture": "La începutul secolului XX, exploatarea mineralelor a transformat Limenaria într-un centru industrial important al insulei. Compania germană Speidel a construit ansamblul administrativ Palataki și instalații metalurgice; clădirea principală datează din 1903–1904. Dezvoltarea minelor a atras locuitori din satul montan Kastro, iar ulterior au sosit și refugiați greci din Asia Mică. Moștenirea este vizibilă în clădirile industriale, în poveștile locale și în colecțiile muzeale. Muzeul de folclor prezintă obiecte de uz casnic, costume și instrumente ale vieții cotidiene, în funcție de accesul și programul actual.",
+      "local_character": "Un oraș de coastă mai animat decât un sat pescăresc mic, dar care păstrează atmosfera grecească a serilor pe promenadă. Vei întâlni taverne, cafenele, mici magazine, cazări și străzi care pornesc de la mare spre cartierele din spate. Portul cu bărci mici și silueta Palataki îi dau o identitate aparte.",
+      "what_to_do": "Plimbă-te pe promenada din Limenaria și alege o tavernă pentru cină. Fotografiază portul și Palataki de pe aleile publice și admiră fostele instalații miniere doar din zonele unde accesul este permis. Dacă programul permite, vizitează colecția de folclor sau o expoziție locală. Pentru înot, alege un sector potrivit de pe Limenaria Beach ori planifică excursii separate la Metalia și Tripiti; către Pefkari și Potos poți continua explorarea coastei. Dacă vrei o zi diferită, pornește spre satele tradiționale Kastro sau Theologos.",
+      "practical_tips": "Nu folosi punctul GPS al centrului orașului ca adresă de parcare sau intrare la plajă. Centrul și promenada pot fi aglomerate în iulie–august, iar parcarea depinde de stradă și sezon. Verifică separat fundul mării și accesul la fiecare plajă; există zone cu pietre sau plăci alunecoase. Palataki poate fi admirat din exterior, dar nu presupune că interiorul este deschis. Evită clădirile miniere abandonate și marginile neprotejate ale promontoriului. Autobuzele KTEL deservesc localitatea, însă orele și stațiile trebuie verificate înainte de plecare. Portul din Limenaria nu este terminalul feriboturilor către continent.",
+      "highlights": [
+        "Promenadă animată și taverne lângă mare",
+        "Palataki și patrimoniul minier al insulei",
+        "Plaja Limenaria și excursii la Metalia și Tripiti",
+        "Port cu bărci mici și seri relaxate",
+        "Bază pentru Potos, Pefkari și satele din interior"
+      ],
+      "seo_title": "Limenaria, Thassos – plaje, Palataki, port și obiective",
+      "seo_description": "Descoperă Limenaria din Thassos: promenadă, restaurante, Palataki, istoria minelor, plajele Metalia și Tripiti, acces și recomandări.",
+      "social_caption": "🌊 Limenaria, Thassos: seri pe promenadă, taverne lângă mare și faimosul Palataki deasupra portului. 🏛️ O bază excelentă pentru plajele Metalia și Tripiti! 🇬🇷 #Thassos #Limenaria #ExploreThassos",
+      "photo_alt": "Panoramă a orașului Limenaria din Thassos, cu promenada, portul și clădirea istorică Palataki deasupra coastei."
+    },
+    "en": {
+      "name": "Limenaria",
+      "tagline": "Seafront evenings, beaches and Thassos mining heritage",
+      "summary": "Limenaria is one of the main seaside towns on southwestern Thassos. Its lively waterfront, small-boat harbour, neighbouring beaches and the historic Palataki building offer a rewarding combination of seaside relaxation and local industrial heritage.",
+      "description": "Limenaria is a Thassos destination where a relaxed beach holiday meets a lively waterfront and an unexpected chapter of island history. Set along the southwest coast, the town has a compact commercial centre, a small harbour and a seafront promenade lined with tavernas, cafés and shops. After a swim, summer evenings are often spent walking by the water, choosing somewhere for dinner and watching boats in the harbour. What gives Limenaria a character beyond that of a seaside resort is its mining past. High on the headland above the harbour stands Palataki, an elegant building with small towers, constructed in 1903–1904 for the German Speidel mining enterprise. It remains one of the town’s most recognisable landmarks. Toward Metalia, remnants of the former metallurgy operations recall an era when mineral extraction shaped the settlement’s growth. These remains make an intriguing backdrop for photographs and history, but abandoned buildings or unstable ground must not be explored without confirmed permitted access. Limenaria also has a folklore museum presenting aspects of everyday Thassian life, although visitors should verify current opening arrangements. The town offers its own beach, with sandy and pebbly stretches, while Metalia to the east and Tripiti to the west are separately identified beaches with different approaches and underwater conditions. The waterfront provides an enjoyable base for travellers who want restaurants and services close to their accommodation, while the surrounding coast invites outings to Pefkari and Potos. Historic inland villages such as Kastro and Theologos add another dimension to a stay. Rather than rushing from one attraction to another, Limenaria rewards a balance of swimming, exploring and long evenings beside the sea.",
+      "history_culture": "Mineral extraction transformed Limenaria during the early twentieth century. The German Speidel company established its administrative building, Palataki, in 1903–1904 alongside mining and metallurgy facilities. Industrial work drew people from the inland village of Kastro, and Greek refugees from Asia Minor later contributed to the developing community. Mining structures, local historical accounts and folklore collections preserve traces of that period. The local folklore museum includes traditional clothing, household and agricultural implements, subject to current access and opening arrangements.",
+      "local_character": "A working coastal town with a busy summer holiday atmosphere, restaurants and cafés along the waterfront, independent shops and accommodation in neighbouring streets. Its fishing boats, harbour views and distinctive Palataki building give the promenade a sense of place.",
+      "what_to_do": "Take an unhurried walk beside the harbour and eat at a waterfront taverna. Photograph Palataki from safe public viewpoints and observe historic industrial structures only from areas open to visitors. Look for a folklore exhibition when opening is confirmed. Spend time on a suitable section of Limenaria Beach or make separate outings to Metalia and Tripiti, checking each beach’s seabed and access. Explore Pefkari and Potos along the coast or visit inland Kastro and Theologos on another day.",
+      "practical_tips": "The mapped town centre is an orientation point, not a validated parking entrance or beach access point. Central roads and the harbour frontage can be crowded in high summer; do not expect guaranteed free parking. Check sea entry, stones and smooth rock slabs on each beach before swimming. Palataki is best regarded as an exterior landmark unless present indoor access is independently confirmed. Do not enter derelict mine buildings or approach unprotected cliff edges. KTEL buses serve Limenaria, but departures, stop positions and fares must be verified for the travel date. The small local harbour is not a scheduled mainland ferry terminal.",
+      "highlights": [
+        "Waterfront promenade and seaside tavernas",
+        "Palataki and the town’s mining heritage",
+        "Limenaria Beach plus separate Metalia and Tripiti outings",
+        "Small harbour and atmospheric evenings",
+        "Convenient base for Potos, Pefkari and inland villages"
+      ],
+      "seo_title": "Limenaria Thassos – beaches, Palataki and waterfront guide",
+      "seo_description": "Explore Limenaria on Thassos: seafront dining, Palataki and mining history, nearby Metalia and Tripiti beaches, transport and visitor tips.",
+      "social_caption": "🌊 Limenaria, Thassos: waterfront dinners, small fishing boats and the historic Palataki above town. 🏛️ Explore the coast from Metalia to Tripiti! 🇬🇷 #Thassos #Limenaria #GreekIslands",
+      "photo_alt": "View over Limenaria, Thassos, showing the seaside promenade, small harbour and historic Palataki building above the town."
+    },
+    "el": {
+      "name": "Λιμενάρια",
+      "tagline": "Παραθαλάσσιες βόλτες, παραλίες και η μεταλλευτική ιστορία της Θάσου",
+      "summary": "Τα Λιμενάρια είναι ένα από τα βασικά παραθαλάσσια κέντρα της νοτιοδυτικής Θάσου. Η ζωντανή προκυμαία, το μικρό λιμάνι, οι κοντινές παραλίες και το ιστορικό Παλατάκι συνδυάζουν τις διακοπές στη θάλασσα με την ιδιαίτερη βιομηχανική κληρονομιά του τόπου.",
+      "description": "Τα Λιμενάρια είναι ένας προορισμός της Θάσου όπου η χαλάρωση δίπλα στη θάλασσα συναντά τις ζωντανές βραδινές βόλτες και μια ξεχωριστή ιστορία. Στη νοτιοδυτική ακτή του νησιού, η κωμόπολη απλώνεται γύρω από το μικρό λιμάνι και την προκυμαία με ταβέρνες, καφέ, καταστήματα και καταλύματα. Το καλοκαίρι, μετά το μπάνιο, οι επισκέπτες απολαμβάνουν τον περίπατο δίπλα στις βάρκες, ένα γεύμα με θέα στο νερό ή έναν χαλαρό καφέ. Η εικόνα αυτή συμπληρώνεται από το μεταλλευτικό παρελθόν της περιοχής. Στον λόφο πάνω από το λιμάνι βρίσκεται το Παλατάκι, το χαρακτηριστικό κτίριο με τους μικρούς πύργους, που χτίστηκε το 1903–1904 για τη γερμανική εταιρεία μεταλλείων Speidel. Είναι ένα από τα πιο αναγνωρίσιμα σημεία των Λιμεναρίων. Προς τα Μεταλλεία διασώζονται κατάλοιπα των παλιών βιομηχανικών εγκαταστάσεων, που θυμίζουν την εποχή κατά την οποία η εξόρυξη μεταλλευμάτων επηρέασε τη ζωή και την ανάπτυξη του οικισμού. Οι χώροι αυτοί προσφέρονται για παρατήρηση από επιτρεπόμενα και ασφαλή σημεία, όχι για είσοδο σε εγκαταλειμμένα κτίρια. Στην περιοχή λειτουργεί επίσης λαογραφική συλλογή με αντικείμενα της καθημερινής ζωής, της οποίας το ωράριο πρέπει να ελέγχεται πριν από επίσκεψη. Τα Λιμενάρια έχουν δική τους παραλία, με άμμο και βότσαλα σε διαφορετικά σημεία. Η παραλία Μεταλλεία ανατολικά και η Τρυπητή δυτικά είναι ξεχωριστές ακτές και δεν πρέπει να συγχέονται με την κεντρική παραλία της κωμόπολης. Η θέση των Λιμεναρίων επιτρέπει ακόμη εξορμήσεις προς το Πευκάρι, τον Ποτό, το Κάστρο και τον Θεολόγο. Είναι μια ευχάριστη βάση για όσους θέλουν να συνδυάσουν θάλασσα, τοπικές γεύσεις και ανακαλύψεις χωρίς συνεχείς μετακινήσεις.",
+      "history_culture": "Η ανάπτυξη των μεταλλείων στις αρχές του 20ού αιώνα διαμόρφωσε καθοριστικά τα Λιμενάρια. Η γερμανική εταιρεία Speidel δημιούργησε μεταλλευτικές εγκαταστάσεις και το Παλατάκι, που χρονολογείται στο 1903–1904. Η εργασία στα μεταλλεία προσέλκυσε κατοίκους από το ορεινό Κάστρο, ενώ αργότερα εγκαταστάθηκαν στην περιοχή και Έλληνες πρόσφυγες από τη Μικρά Ασία. Η λαογραφική παράδοση διατηρείται σε συλλογές με ενδυμασίες, οικιακά αντικείμενα και εργαλεία, ενώ οι παλιές βιομηχανικές κατασκευές αποτελούν σημαντικά τεκμήρια της ιστορίας.",
+      "local_character": "Παραθαλάσσια κωμόπολη με ζωντανή καλοκαιρινή κίνηση, οικογενειακές ταβέρνες, καφέ, μαγαζιά και βόλτες στο μικρό λιμάνι. Το Παλατάκι στον λόφο δίνει στο τοπίο έναν ιδιαίτερο ιστορικό χαρακτήρα.",
+      "what_to_do": "Περπατήστε στην προκυμαία, δείτε τις βάρκες και απολαύστε φαγητό δίπλα στη θάλασσα. Φωτογραφίστε το Παλατάκι από ασφαλή δημόσια σημεία και παρατηρήστε τα παλιά μεταλλευτικά κτίρια μόνο από επιτρεπόμενους χώρους. Ενημερωθείτε για τη λειτουργία της λαογραφικής συλλογής. Για κολύμπι επιλέξτε κατάλληλο τμήμα της παραλίας Λιμεναρίων ή οργανώστε ξεχωριστή έξοδο στα Μεταλλεία και στην Τρυπητή. Ο Ποτός, το Πευκάρι, το Κάστρο και ο Θεολόγος είναι ιδέες για επόμενες εξορμήσεις.",
+      "practical_tips": "Οι συντεταγμένες του κέντρου αφορούν σημείο αναφοράς και όχι επιβεβαιωμένο χώρο στάθμευσης. Το καλοκαίρι η κίνηση στην προκυμαία είναι αυξημένη. Ελέγχετε το βυθό και το βάθος σε κάθε παραλία, καθώς υπάρχουν βότσαλα και πέτρινες πλάκες κατά τόπους. Μην θεωρείτε δεδομένη την πρόσβαση στο εσωτερικό του Παλατακίου και μην μπαίνετε σε εγκαταλειμμένες μεταλλευτικές κατασκευές. Τα δρομολόγια του ΚΤΕΛ αλλάζουν ανά περίοδο και πρέπει να επιβεβαιώνονται. Το τοπικό λιμανάκι δεν είναι λιμάνι τακτικών δρομολογίων φέρι προς την ηπειρωτική χώρα.",
+      "highlights": [
+        "Ζωντανή παραθαλάσσια βόλτα και ταβέρνες",
+        "Παλατάκι και μεταλλευτική κληρονομιά",
+        "Παραλία Λιμεναρίων, Μεταλλεία και Τρυπητή",
+        "Μικρό λιμάνι και όμορφα βράδια",
+        "Βάση για Ποτό, Πευκάρι και ορεινά χωριά"
+      ],
+      "seo_title": "Λιμενάρια Θάσος – παραλίες, Παλατάκι και αξιοθέατα",
+      "seo_description": "Γνωρίστε τα Λιμενάρια της Θάσου: παραλιακή βόλτα, Παλατάκι, μεταλλευτική ιστορία, παραλίες Μεταλλεία και Τρυπητή, πρόσβαση και συμβουλές.",
+      "social_caption": "🌊 Λιμενάρια Θάσου: βόλτα στην προκυμαία, ταβέρνες και το ιστορικό Παλατάκι πάνω από το λιμάνι. 🏛️ Ανακαλύψτε τα Μεταλλεία και την Τρυπητή! 🇬🇷 #Θάσος #Λιμενάρια #Ελλάδα",
+      "photo_alt": "Πανοραμική άποψη των Λιμεναρίων Θάσου με την προκυμαία, το λιμανάκι και το ιστορικό Παλατάκι στον λόφο."
+    },
+    "de": {
+      "name": "Limenaria",
+      "tagline": "Promenade am Meer, Strände und das Bergbauerbe von Thassos",
+      "summary": "Limenaria gehört zu den wichtigsten Küstenorten im Südwesten von Thassos. Seine lebendige Uferpromenade, der kleine Hafen, die nahegelegenen Strände und das historische Palataki verbinden Badeurlaub mit einem ungewöhnlichen Stück Industriegeschichte.",
+      "description": "Limenaria verbindet entspannte Tage am Meer mit einer lebhaften Uferpromenade und einer überraschenden Geschichte. Die Kleinstadt liegt an der Südwestküste von Thassos und besitzt ein kompaktes Zentrum mit Geschäften, Tavernen, Cafés und Unterkünften. Am kleinen Hafen liegen Boote, und am Abend wird die Promenade zum beliebten Treffpunkt für einen Spaziergang, ein gemütliches Essen oder einen Kaffee mit Meerblick. Doch Limenaria ist mehr als ein Badeort. Oberhalb des Hafens steht das Palataki, ein markantes Gebäude mit kleinen Türmen, das 1903–1904 für die deutsche Bergbaugesellschaft Speidel errichtet wurde. Die Silhouette gehört bis heute zu den bekanntesten Ansichten des Ortes. In Richtung Metalia erinnern Überreste ehemaliger metallurgischer Anlagen daran, dass Bergbau und Erzverarbeitung die Entwicklung Limenarias im 20. Jahrhundert stark beeinflussten. Die historischen Bauten lassen sich von zugänglichen, sicheren Stellen betrachten; verfallene oder abgesperrte Anlagen dürfen nicht auf eigene Faust betreten werden. Ein örtliches Volkskundemuseum widmet sich der Alltagskultur auf Thassos. Die aktuellen Öffnungszeiten und Zugangsmöglichkeiten sollten vorab geprüft werden. Auch am Wasser bietet die Gegend Abwechslung: Limenaria hat einen eigenen Strand mit unterschiedlichen Abschnitten aus Sand und Kies. Metalia im Osten und Tripiti im Westen sind eigenständige Strände mit jeweils anderen Bedingungen beim Einstieg ins Meer. Wer gern an der Küste unterwegs ist, kann weitere Ausflüge nach Pefkari und Potos unternehmen. Für einen Kontrast zum Strandleben bieten sich die Bergdörfer Kastro und Theologos an. Limenaria ist besonders für Reisende interessant, die Restaurants und Einkaufsmöglichkeiten in der Nähe schätzen und ihren Strandurlaub um Geschichte und kleine Entdeckungen ergänzen möchten.",
+      "history_culture": "Zu Beginn des 20. Jahrhunderts prägte der Bergbau die Entwicklung von Limenaria. Die deutsche Gesellschaft Speidel errichtete das Palataki 1903–1904 als Verwaltungsgebäude und betrieb Anlagen zur Förderung und Verarbeitung von Erzen. Arbeitsplätze zogen Einwohner aus dem Bergdorf Kastro an; später kamen auch griechische Flüchtlinge aus Kleinasien hinzu. Industriegebäude und die lokale Erinnerung erzählen von diesem Wandel. Ein Volkskundemuseum zeigt traditionelle Kleidung, Haushaltsgegenstände und Geräte des früheren Alltags, sofern es aktuell geöffnet ist.",
+      "local_character": "Eine lebendige Kleinstadt am Meer mit Tavernen, Cafés, Geschäften, Ferienunterkünften und einem Hafen voller kleiner Boote. Durch das Palataki auf dem Hügel besitzt die Uferansicht eine besonders markante Silhouette.",
+      "what_to_do": "Spazieren Sie entlang der Promenade und genießen Sie eine Mahlzeit am Wasser. Fotografieren Sie das Palataki von sicheren öffentlichen Standpunkten; betrachten Sie historische Bergbauanlagen nur von zugänglichen Wegen. Fragen Sie nach dem aktuellen Betrieb des Volkskundemuseums oder nach örtlichen Ausstellungen. Zum Baden eignen sich geeignete Abschnitte des Limenaria-Strandes; Metalia und Tripiti sind Ziele für eigene Ausflüge. Pefkari, Potos, Kastro und Theologos ergänzen das Programm.",
+      "practical_tips": "Der GPS-Punkt bezeichnet die Ortsmitte, keinen geprüften Parkplatz oder Zugang zum Meer. Im Hochsommer können Uferpromenade und Parkmöglichkeiten stark ausgelastet sein. Meeresboden und Wassertiefe vor dem Baden je Strandabschnitt prüfen. Eine Besichtigung des Palataki-Innenraums darf nicht vorausgesetzt werden; verfallene Bergbaugebäude und ungesicherte Felskanten meiden. Die KTEL-Busfahrpläne ändern sich saisonal, deshalb aktuelle Haltestellen und Abfahrten vor der Fahrt prüfen. Der kleine Hafen von Limenaria ist kein regulärer Fährhafen zum Festland.",
+      "highlights": [
+        "Lebhafte Promenade und Tavernen direkt am Meer",
+        "Palataki und Bergbaugeschichte",
+        "Limenaria-Strand sowie Metalia und Tripiti",
+        "Kleiner Hafen und gemütliche Sommerabende",
+        "Guter Ausgangspunkt für Potos, Pefkari und Bergdörfer"
+      ],
+      "seo_title": "Limenaria Thassos – Strände, Palataki und Sehenswürdigkeiten",
+      "seo_description": "Limenaria auf Thassos entdecken: Uferpromenade, Tavernen, Palataki, Bergbaugeschichte, die Strände Metalia und Tripiti sowie hilfreiche Reisetipps.",
+      "social_caption": "🌊 Limenaria auf Thassos: Abendspaziergänge am Meer, griechische Tavernen und das historische Palataki über dem Hafen. 🏛️ Entdecken Sie Metalia und Tripiti! 🇬🇷 #Thassos #Limenaria #Griechenland",
+      "photo_alt": "Panorama von Limenaria auf Thassos mit Uferpromenade, kleinem Hafen und dem historischen Palataki auf dem Hügel."
+    },
+    "bg": {
+      "name": "Лименария",
+      "tagline": "Крайбрежна алея, плажове и минното наследство на Тасос",
+      "summary": "Лименария е един от главните крайморски градчета в югозападната част на Тасос. Оживената алея, малкото пристанище, близките плажове и историческата сграда Палатаки съчетават морската почивка с интересното индустриално минало на острова.",
+      "description": "Лименария е място на Тасос, където почивката край морето се съчетава с приятни вечерни разходки и любопитна местна история. Градчето се намира по югозападния бряг и има оживен център с магазини, таверни, кафенета и места за настаняване. Край малкото пристанище са закотвени лодки, а през летните вечери крайбрежната алея привлича посетители за вечеря, сладолед и спокойна разходка с гледка към водата. Отличителна черта на Лименария е минното ѝ минало. Над пристанището се издига Палатаки — характерна сграда с малки кули, построена през 1903–1904 г. за германската минна компания Speidel. Тя остава един от най-разпознаваемите символи на местността. В посока към Металия могат да се видят останки от някогашни металургични съоръжения, които напомнят как добивът на руди е променил развитието на селището. Историческите структури трябва да се наблюдават само от безопасни и разрешени места; изоставените сгради не са свободна атракция за влизане. В района има и фолклорна музейна сбирка с предмети от традиционния живот на острова, но работното време се проверява предварително. Лименария има собствен плаж с участъци от пясък и камъчета. Металия на изток и Трипити на запад са отделни плажове, за които важат различни условия за достъп и къпане. За допълнителни разходки по крайбрежието са подходящи Пефкари и Потос, а във вътрешността на острова може да се посетят Кастро и Теологос. Лименария е добър избор за гости, които искат морето, ресторантите и ежедневните удобства да бъдат близо, но ценят и възможността да открият нещо ново.",
+      "history_culture": "В началото на XX век минната промишленост допринася значително за разрастването на Лименария. Германската компания Speidel построява Палатаки през 1903–1904 г. и развива добива и обработката на руди. Работата привлича жители от планинското село Кастро, а по-късно в района се заселват и гръцки бежанци от Мала Азия. Днес индустриалните останки и местните музейни колекции съхраняват спомена за това минало. Фолклорната сбирка представя облекла, домакински вещи и земеделски инструменти, когато е отворена за посещения.",
+      "local_character": "Оживено крайморско градче с малък пристан за лодки, много заведения, магазини и квартири. Вечерите край морето са част от атмосферата, а Палатаки на хълма придава на града запомнящ се силует.",
+      "what_to_do": "Разходете се по алеята и хапнете в таверна с морска гледка. Снимайте пристанището и Палатаки от безопасни обществени места. Разгледайте старите индустриални съоръжения само отвън и проверете дали фолклорният музей или местна изложба приема посетители. Изберете подходящ участък от плажа на Лименария или планирайте отделни посещения до Металия и Трипити. Пефкари, Потос и планинските села Кастро и Теологос са добри идеи за други дни.",
+      "practical_tips": "GPS точката е ориентир за градчето, а не проверен вход към паркинг или плаж. През юли и август алеята и централните улици може да са натоварени. Проверявайте морското дъно и дълбочината на всеки отделен плаж, защото има камъни и хлъзгави плочи. Не разчитайте на свободен достъп във вътрешността на Палатаки и не влизайте в изоставени минни постройки. Разписанията на автобусите KTEL са сезонни и трябва да се потвърждават за съответната дата. Пристанището на Лименария не е терминал за редовни фериботи към континента.",
+      "highlights": [
+        "Оживена крайбрежна алея с таверни",
+        "Палатаки и историческите мини",
+        "Плаж Лименария и близките Металия и Трипити",
+        "Малко пристанище и приятни вечери",
+        "Удобна база за Потос, Пефкари и планинските села"
+      ],
+      "seo_title": "Лименария, Тасос – плажове, Палатаки и забележителности",
+      "seo_description": "Открийте Лименария на Тасос: крайбрежна алея, таверни, Палатаки, минно наследство, плажовете Металия и Трипити, достъп и съвети.",
+      "social_caption": "🌊 Лименария, Тасос: вечерни разходки, таверни край морето и историческата сграда Палатаки над пристанището. 🏛️ Посетете Металия и Трипити! 🇬🇷 #Тасос #Лименария #Гърция",
+      "photo_alt": "Гледка към Лименария на Тасос с крайбрежната алея, малкото пристанище и историческата сграда Палатаки на хълма."
+    },
+    "sr": {
+      "name": "Limenarija (Limenaria)",
+      "tagline": "Šetalište uz more, plaže i rudarsko nasleđe Tasosa",
+      "summary": "Limenarija je jedan od glavnih primorskih gradića na jugozapadu Tasosa. Njeno živopisno šetalište, mala luka, obližnje plaže i istorijska zgrada Palataki spajaju odmor na moru sa zanimljivom industrijskom prošlošću ostrva.",
+      "description": "Limenarija je mesto na Tasosu u kome se dani na plaži prirodno nastavljaju večernjim šetnjama i upoznavanjem neobične lokalne istorije. Smeštena je na jugozapadnoj obali ostrva i ima živ centar sa prodavnicama, tavernama, kafićima i smeštajem. Uz malu luku nalaze se čamci, a šetalište kraj mora leti postaje omiljeno mesto za večeru, poslasticu ili opuštenu šetnju. Ipak, Limenarija nije samo klasično letovalište. Na uzvišenju iznad luke stoji Palataki, prepoznatljiva zgrada sa malim kulama, podignuta 1903–1904. godine za nemačko rudarsko preduzeće Speidel. Ona je i danas jedan od najpoznatijih simbola grada. U pravcu plaže Metalia nalaze se ostaci nekadašnjih metalurških pogona, koji podsećaju na vreme kada su rudnici oblikovali razvoj naselja. Ove građevine zanimljive su kao istorijski tragovi i motivi za fotografisanje, ali u napuštene objekte i na nebezbedan teren ne treba ulaziti bez odobrenja. U Limenariji se nalazi i folklorna zbirka posvećena svakodnevnom životu na Tasosu; trenutno radno vreme treba proveriti pre posete. Sam grad ima svoju plažu, na kojoj se smenjuju peščani i šljunkoviti delovi. Metalia na istoku i Tripiti na zapadu su zasebne plaže sa različitim ulazima u more i uslovima za kupanje. Limenarija je praktična baza za izlete do Pefkarija i Potosa, a za promenu ambijenta mogu se obići planinska sela Kastro i Teologos. Posebno će prijati putnicima koji žele da imaju more, restorane i prodavnice blizu smeštaja, a uz to vole šetnje, fotografisanje i upoznavanje ostrva.",
+      "history_culture": "Početkom 20. veka rudarstvo je snažno uticalo na razvoj Limenarije. Nemačko preduzeće Speidel izgradilo je Palataki 1903–1904. godine, zajedno sa industrijskim postrojenjima za eksploataciju i preradu rude. Poslovi u rudnicima privukli su stanovnike planinskog Kastra, a kasnije su došli i grčki izbeglice iz Male Azije. Tragovi rudarske prošlosti i lokalne folklorne zbirke danas svedoče o tim promenama. U zbirci se mogu videti tradicionalna odeća, kućni i poljoprivredni predmeti, ukoliko je otvorena za posetioce.",
+      "local_character": "Živahan primorski gradić sa tavernama, kafićima, prodavnicama, turističkim smeštajem i malom lukom. Večernje šetnje su deo svakodnevnog ritma, dok zgrada Palataki daje mestu posebnu panoramu.",
+      "what_to_do": "Prošetajte uz luku i sedite u tavernu sa pogledom na more. Fotografišite Palataki sa bezbednih javnih vidikovaca, a ostatke rudarskih objekata posmatrajte samo iz dozvoljenih zona. Proverite kada radi folklorni muzej ili da li postoji lokalna izložba. Za kupanje odaberite odgovarajući deo gradske plaže, ili planirajte zasebne izlete na plaže Metalia i Tripiti. Pefkari, Potos, Kastro i Teologos pružaju dodatne mogućnosti za obilazak.",
+      "practical_tips": "GPS koordinata označava centar naselja, ne provereni parking ili ulaz na plažu. Tokom jula i avgusta na šetalištu i okolnim ulicama može biti gužve. Pre plivanja proverite podlogu, dubinu i talase na svakoj plaži. Nemojte pretpostaviti da je unutrašnjost zgrade Palataki otvorena; izbegavajte napuštene rudarske zgrade i nezaštićene ivice stena. Red vožnje autobusa KTEL menja se u zavisnosti od sezone, pa ga proverite za dan putovanja. Mala luka u Limenariji nije terminal redovnih trajekata za kopno.",
+      "highlights": [
+        "Živo šetalište i taverne kraj mora",
+        "Palataki i istorija rudarstva",
+        "Gradska plaža, Metalia i Tripiti",
+        "Mala luka i prijatne letnje večeri",
+        "Baza za Potos, Pefkari i planinska sela"
+      ],
+      "seo_title": "Limenarija Tasos – plaže, Palataki i znamenitosti",
+      "seo_description": "Istražite Limenariju na Tasosu: šetalište, taverne, Palataki, rudarska istorija, plaže Metalia i Tripiti, prevoz i korisni saveti.",
+      "social_caption": "🌊 Limenarija na Tasosu: večernje šetnje uz more, taverne i istorijski Palataki iznad luke. 🏛️ Upoznajte obližnje plaže Metalia i Tripiti! 🇬🇷 #Tasos #Limenarija #Grcka",
+      "photo_alt": "Panorama Limenarije na Tasosu sa obalnim šetalištem, malom lukom i istorijskom zgradom Palataki iznad grada."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/limenaria/images/limenaria1.webp",
+    "gallery": [
+      "destinations/thassos/areas/limenaria/images/limenaria2.webp",
+      "destinations/thassos/areas/limenaria/images/limenaria3.webp",
+      "destinations/thassos/areas/limenaria/images/limenaria4.webp",
+      "destinations/thassos/areas/limenaria/images/limenaria5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/limenaria/images/",
+    "suggested_asset_names": [
+      "limenaria1.webp",
+      "limenaria2.webp",
+      "limenaria3.webp",
+      "limenaria4.webp",
+      "limenaria5.webp"
+    ],
+    "image_policy": "Five pre-named local WebP image paths: genuine Limenaria town/promenade overview, local harbour streets, Palataki exterior, visitor life and coast/landscape. Verify each image really depicts Limenaria and is not merely a Metalia or Tripiti beach shot, and check commercial rights, onward transfer and required attribution. Actual WebP files are not attached.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_osm_town",
+      "kind": "osm_mapped_settlement",
+      "title": "Mapcarta — Limenaria OSM place=town node 280966271",
+      "url": "https://mapcarta.com/13816514",
+      "detail": "Town coordinate 40.62744,24.57469. City reference point; not beach, vehicle arrival, ferry, or parking entrance.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_mindat_geo",
+      "kind": "independent_geographic_reference",
+      "title": "Mindat — Limenaria locality maps",
+      "url": "https://www.mindat.org/maps.php?id=1948",
+      "detail": "Independent approximate location around 40.62722,24.57472; locality approximation and not an access point.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_limenaria",
+      "kind": "local_tourism_guide",
+      "title": "Go Thassos — Limenaria",
+      "url": "https://www.go-thassos.gr/about-thassos/places/limenaria",
+      "detail": "Town seaside character, mining history, Palataki, refugee history, Kalivia neighbourhood and folklore culture.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_regional_palataki",
+      "kind": "regional_tourism_authority",
+      "title": "East Macedonia and Thrace tourism — Palataki Limenaria",
+      "url": "https://emtgreece.com/index.php/en/proorismos/palataki-limenaria",
+      "detail": "Palataki 1903–1904; administration of German Speidel enterprise; characteristic eclectic building over harbour.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_discover_museums",
+      "kind": "greek_tourism_guide",
+      "title": "Discover Greece — museums and cultural sights of Thassos",
+      "url": "https://www.discovergreece.com/travel-ideas/best-of/best-museums-and-cultural-sights-thassos",
+      "detail": "Palataki, historic metallurgy factory near Metalia and folklore tradition/collections; verify current visitor access.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_mythassos_palataki",
+      "kind": "tourism_portal",
+      "title": "MyThassos — Palataki",
+      "url": "https://mythassos.app/en/places/%CF%80%CE%B1%CE%BB%CE%B1%CF%84%CE%AC%CE%BA%CE%B9",
+      "detail": "Exterior visits/lookouts discussed; interior not currently public per tourism guide; access status season-dependent.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_folklore",
+      "kind": "local_tourism_guide",
+      "title": "Go Thassos — Museums",
+      "url": "https://www.go-thassos.gr/about-thassos/museums",
+      "detail": "Describes the Limenaria folklore museum and traditional clothing, tools, photos, household items; no guaranteed schedule.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_staythassos_limenaria",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Everything about Limenaria",
+      "url": "https://staythassos.gr/limenaria/",
+      "detail": "Limenaria waterfront, nearby beaches Metalia and Tripiti, and access context. Date and promotional details are not permanent guarantees.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_nikana_beaches",
+      "kind": "travel_guide",
+      "title": "Nikana — Beaches near Potos and Limenaria",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/2588/beaches-near-potos-and-limenaria",
+      "detail": "Separates Limenaria beach sections from independent Metalia and Tripiti; older information not used for changing prices or services.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_osm_limenaria_beach",
+      "kind": "osm_mapped_beach",
+      "title": "Mapcarta — Limenaria Beach OSM natural=beach",
+      "url": "https://mapcarta.com/N6285722595",
+      "detail": "Beach centre ~40.62590,24.56924, differs from town centre. Not a confirmed bathing access point.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_municipality_bus",
+      "kind": "municipality_transport",
+      "title": "Municipality of Thassos — Bus schedules",
+      "url": "https://www.thassos.gr/en/dromologia-ktel/",
+      "detail": "Official municipality links for KTEL updates; no static schedules embedded.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_bus_october",
+      "kind": "time_specific_bus_guide",
+      "title": "Go Thassos — October 2026 KTEL bus schedules",
+      "url": "https://www.go-thassos.gr/thassos-bus-schedules-prices",
+      "detail": "Shows Limenaria as a KTEL-served town; hours valid for 1–31 Oct 2026 only and deliberately not hard-coded.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_katatopisi_town",
+      "kind": "geographic_context",
+      "title": "Katatopisi — Limenaria town",
+      "url": "https://katatopisi.gr/en/place/limenaria-thasou/",
+      "detail": "Town identification and swimming-season context, location is a point, not navigation access.",
+      "checked_on": "2026-10-27"
+    }
+  ],
+  "editorial": {
+    "status": "researched_six_languages_completed_five_image_paths_configured_pending_photo_rights_arrival_and_final_review",
+    "facts_checked_on": "2026-10-27",
+    "translations_written_on": "2026-10-27",
+    "coverage": "full_Limenaria_coastal_town_profile_six_languages_thirteen_sources_distinct_beach_POIs_5_preset_WebP_paths",
+    "requires_manual_review": [
+      "Confirm town OSM centre node 280966271 40.62744,24.57469. Keep this strictly as geographic orientation; independently verify Google Maps town entry, public parking and pedestrian arrivals before enabling navigation.",
+      "Keep Limenaria Beach, Metalia Beach and Tripiti Beach as distinct geolocated beach records, and do not use their coordinates interchangeably. Check current POI details and swimming/access hazards separately.",
+      "Verify Palataki exact public grounds permissions and whether interior is closed at time of visit; do not advertise entry without a direct operator/cultural authority confirmation.",
+      "Validate safe and legal paths and any temporary fencing around Palataki and the former metallurgy / mining structures. Do not direct visitors into derelict installations.",
+      "Check exact folklore museum building, actual public opening hours, exhibition access and potential seasonal relocation/closures before offering route or visit tickets.",
+      "Confirm current bus stop(s), schedule and fare from KTEL or municipal source; do not treat a dated October 2026 schedule as a permanent timetable.",
+      "Audit live and seasonal presence of shops, supermarkets, pharmacy, ATMs, medical services, parking and fuel stations by separately geocoded providers; unknown amenities are intentionally null.",
+      "Confirm walking accessibility, coastal paths, beach entry safety and wheelchair facilities with locally verified route information rather than inferred from town description.",
+      "Add exactly five actual WebP photographs limenaria1.webp to limenaria5.webp; confirm each depicts Limenaria, verify photographer/owner, commercial use, derivative/transfer rights and attribution where required.",
+      "Native-speaker proofreading across Romanian, English, Greek, German, Bulgarian and Serbian Latin and review localized SEO/social captions."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "Five future local WebP files have been referenced by exact paths; image binaries, geographic authenticity, provenance and publication/commercial rights were not verified. No third-party images are copied or embedded."
+  }
+}

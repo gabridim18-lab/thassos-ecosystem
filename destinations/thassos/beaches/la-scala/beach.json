@@ -1,0 +1,372 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-la-scala",
+  "slug": "la-scala",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "La Scala Beach",
+    "international_name": "La Scala Beach",
+    "aliases": [
+      "La Scala",
+      "La Scala Thassos",
+      "La Skala",
+      "La Scala Beach Bar",
+      "La Scala Beach Thasos",
+      "Παραλία La Scala",
+      "Παραλία Λα Σκάλα"
+    ],
+    "entity_scope": "Short managed sandy shore and named beach club on the north coast west of Limenas; club amenities belong to its operator rather than to every nearby shoreline section.",
+    "deduplication_warning": "Do not merge La Scala Beach with Papalimani, Glyfada, Tarsanas, Makryammos or independent beach bars. Beach and restaurant/club are connected but should not generate duplicate physical beach records."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "north / northwest of Limenas",
+    "settlements": [
+      "Limenas (Thassos Town)",
+      "Agia Irini area"
+    ],
+    "lat": 40.7835117,
+    "lng": 24.6729408,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.7835117%2C24.6729408",
+    "coordinate_source_reference": "s_map",
+    "coordinate_type": "mapped_la_scala_poi_pin_not_verified_road_gate",
+    "coordinate_review_status": "Google Maps coordinates quoted by public directory; exact preferred arrival gate and parking entrance require manual map review",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "sand",
+    "seabed_near_shore": "mostly_sandy",
+    "water_entry": "generally_gradual",
+    "nearshore_depth": "generally_shallow_near_entry_but_variable",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "weather_and_wind_dependent",
+    "exposure": "north_coast_aegean",
+    "natural_shade_on_sand": "some_trees_and_operator_shade_structures",
+    "beach_length_m": null,
+    "length_note": "No reliable beach-only length independently confirmed; managed club area should not be confused with adjacent beaches.",
+    "backdrop": "Palm trees, wooden pergolas, garden landscaping and coastal vegetation",
+    "shoreline_type": "short_managed_sandy_shore"
+  },
+  "visitor_experience": {
+    "organization": "primarily_organized_beach_club",
+    "suitable_for": [
+      "couples",
+      "groups",
+      "friends",
+      "beach_club_experience",
+      "swimming",
+      "music_and_social_atmosphere",
+      "families_who_prefer_serviced_areas"
+    ],
+    "notable_for": [
+      "palm_landscaping",
+      "sunbeds",
+      "canopies",
+      "restaurant_and_bar",
+      "music",
+      "close_to_limenas"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunbathing",
+      "lounging",
+      "dining",
+      "seasonal_music_events"
+    ],
+    "estimated_crowd_peak": "popular_and_lively_in_peak_summer",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Generally gradual sea entry does not guarantee safety; supervise children and assess wind and wave conditions. Any club pool has separate access and supervision rules."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "canopies_or_daybeds": {
+      "reported_available": true,
+      "pricing_and_reservation_require_confirmation": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Reported as beach-club/operator facilities, not guaranteed municipal public amenities."
+    },
+    "showers": {
+      "available_in_some_sections": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No current verified lifeguard schedule for the managed beach strip.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Not independently verified; ask operator about steps, paths, restrooms and beach mobility.",
+    "free_unserviced_space": null,
+    "wifi": {
+      "reported_at_venue": true,
+      "service_and_availability_unverified": true
+    },
+    "children_pool": {
+      "reported_within_venue": true,
+      "not_public_beach_facility": true,
+      "current_operation_unverified": true
+    },
+    "facilities_scope": "Club-operated beach services and amenities; access, schedules and eligibility can change seasonally."
+  },
+  "access_and_cost": {
+    "road_access": "paved_main_coastal_road_from_limenas_towards_skala_prinos",
+    "public_transport": "not_independently_verified_for_exact_beach_stop",
+    "parking_type": "reported_venue_or_adjacent_parking_area",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "beach_access_note": "Do not equate access to the shoreline with paid access to club seating/services; confirm onsite policy.",
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Beach-club loungers, canopy seating and premium rows may be subject to minimum food/drink spend or other charges; conflicting 2025–2026 reports, so no fixed price stated.",
+    "best_arrival_advice": "Come early during busy summer days and confirm the minimum spend or seating policy before choosing a lounger; ask whether reservations are available.",
+    "distance_from_limenas_km": 4,
+    "distance_note": "Approximate location distance cited by Nikana along the Limenas–Skala Prinos road, not a verified door-to-door route."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Live weather, sea temperature, wind, wave conditions, availability and seating prices must not be hard-coded into the beach record."
+  },
+  "translations": {
+    "ro": {
+      "name": "La Scala Beach",
+      "tagline": "Nisip, palmieri și atmosferă de beach club lângă Limenas",
+      "summary": "Plajă amenajată de pe coasta nordică a insulei Thassos, la vest de Limenas, cunoscută pentru decorul său cu palmieri, șezlonguri, baldachine și servicii de restaurant. Este o alegere pentru cei care preferă o zi la mare cu muzică și facilități organizate, cu reguli de consumație ce trebuie confirmate înainte de ocuparea locului.",
+      "description": "La Scala Beach este o plajă nisipoasă de pe coasta nordică a insulei Thassos, la aproximativ patru kilometri vest de Limenas, pe drumul spre Skala Prinos. Spre deosebire de golfurile sălbatice ale insulei, aici experiența este legată de un beach club amenajat cu mult lemn, palmieri, umbrele și zone de relaxare. Nisipul se continuă în general și în apa de la mal, cu o intrare treptată în mare, dar condițiile pentru înot se schimbă în funcție de vânt. Vizitatorii vin atât pentru plajă, cât și pentru atmosfera animată, muzica, băuturile și mesele servite în zona clubului. Sunt disponibile șezlonguri și variante de ședere mai spațioase, iar serviciile de restaurant și bar sunt parte importantă a locului. În sezon, ocuparea anumitor locuri poate presupune o consumație minimă, diferită după amplasare sau categoria de șezlong; informațiile publicate despre tarife nu sunt consecvente. Întreabă personalul înainte să te așezi și verifică în ce condiții poți folosi facilitățile. La Scala este potrivită mai ales celor care își doresc confort și o atmosferă socială, nu celor care caută liniște deplină sau un golf neamenajat.",
+      "practical_tips": "În sezonul aglomerat, vino mai devreme sau verifică posibilitatea rezervării locurilor. Cere tariful actual și valoarea consumației minime pentru zona aleasă înainte să ocupi șezlongul; condițiile pot varia. Există informații despre parcare lângă club, dar locurile libere nu sunt garantate. Toaletele, dușurile, Wi-Fi-ul și piscina pentru copii, acolo unde funcționează, sunt facilități ale operatorului: confirmă accesul și regulile. Muzica poate fi prezentă pe tot parcursul zilei. Nu presupune că poți aduce alimente și băuturi din exterior în zona administrată.",
+      "highlights": [
+        "Plajă nisipoasă cu intrare de regulă treptată",
+        "Beach club cu palmieri, lemn și decor elaborat",
+        "Șezlonguri, umbrele și zone de relaxare",
+        "Restaurant, băuturi și atmosferă muzicală",
+        "Aproape de Limenas, cu acces rutier facil"
+      ],
+      "seo_title": "La Scala Beach Thassos – acces, șezlonguri și facilități",
+      "seo_description": "La Scala Beach, lângă Limenas în Thassos: plajă nisipoasă cu beach club, palmieri, restaurant, șezlonguri, parcare și sfaturi despre consumația minimă.",
+      "social_caption": "🌴🏖️ La Scala Beach, Thassos: palmieri, nisip, mare limpede și o atmosferă de beach club la câțiva kilometri de Limenas. 🍹 O alegere pentru cei care iubesc confortul și muzica de vară. ℹ️ Verifică regulile și consumația minimă înainte de a alege șezlongurile. #Thassos #LaScalaBeach #Greece",
+      "photo_alt": "Plaja La Scala din Thassos, cu șezlonguri, umbrele și palmieri lângă mare."
+    },
+    "en": {
+      "name": "La Scala Beach",
+      "tagline": "Sand, palm trees and a stylish beach-club atmosphere near Limenas",
+      "summary": "An organised beach on the northern coast of Thassos, west of Limenas, known for its palm-lined setting, loungers, shaded seating and restaurant service. Ideal for visitors who enjoy music and a serviced seaside day, while seating rules and minimum-spend requirements should be checked on arrival.",
+      "description": "La Scala Beach lies on the northern coast of Thassos, roughly four kilometres west of Limenas along the road towards Skala Prinos. Instead of a remote, natural cove, it offers a carefully designed beach-club setting, with wooden features, palms, parasols and comfortable areas for spending much of the day by the sea. The shoreline is sandy and the seabed generally slopes gently close to shore, although wind and sea conditions can change. People come for swimming and sunbathing, but also for the lively atmosphere, background music, drinks and food served at the adjoining beach club. Loungers and more spacious shaded seating arrangements are part of the experience, with a restaurant and bar nearby. During the summer season, certain seating categories may be subject to a minimum food-and-drink spend, and published prices vary considerably by date and section. Ask staff about the exact terms before settling in, including whether any extras are included. La Scala will particularly appeal to visitors seeking a social, service-oriented beach day rather than an isolated stretch of coastline or complete silence.",
+      "practical_tips": "Arrive early during the busiest summer weeks or ask whether seating can be reserved. Confirm the current price or minimum-spend rule for your chosen loungers before using them; do not rely on older online price lists. Parking is reported close to the venue, but spaces cannot be guaranteed. Toilets, showers, Wi-Fi and the children’s pool, when operating, belong to the beach-club facilities, so check access rules. Expect music, and verify the venue policy on bringing outside food or drinks.",
+      "highlights": [
+        "Sandy shore with a generally gradual sea entry",
+        "Palm-lined beach-club design",
+        "Loungers, parasols and shaded seating",
+        "Restaurant, refreshments and music",
+        "Easy road approach from Limenas"
+      ],
+      "seo_title": "La Scala Beach Thassos – access, loungers and visitor tips",
+      "seo_description": "Explore La Scala Beach near Limenas on Thassos: sandy shoreline, beach club, palms, sunbeds, restaurant, parking and important minimum-spend tips.",
+      "social_caption": "🌴🏖️ La Scala Beach, Thassos: sandy shoreline, swaying palms and a lively beach-club setting just outside Limenas. 🍹 A spot for a comfortable summer day by the sea. ℹ️ Check current seating and minimum-spend rules before you settle in! #Thassos #LaScalaBeach #GreekIslands",
+      "photo_alt": "La Scala Beach on Thassos, showing the palm-lined beach club, sunbeds and sea."
+    },
+    "el": {
+      "name": "Παραλία La Scala",
+      "tagline": "Άμμος, φοίνικες και ατμόσφαιρα beach club κοντά στον Λιμένα",
+      "summary": "Μια οργανωμένη παραλία στη βόρεια ακτή της Θάσου, δυτικά του Λιμένα, με φοίνικες, ξαπλώστρες, σκιερούς χώρους και υπηρεσίες εστίασης. Απευθύνεται σε όσους προτιμούν άνεση και μουσική δίπλα στη θάλασσα, αλλά οι όροι χρέωσης και ελάχιστης κατανάλωσης χρειάζονται επιβεβαίωση.",
+      "description": "Η παραλία La Scala βρίσκεται στη βόρεια πλευρά της Θάσου, περίπου τέσσερα χιλιόμετρα δυτικά του Λιμένα, στον δρόμο προς τη Σκάλα Πρίνου. Δεν πρόκειται για έναν απομονωμένο φυσικό όρμο, αλλά για έναν οργανωμένο παραθαλάσσιο χώρο με ξύλινες κατασκευές, φοίνικες, ομπρέλες και άνετες θέσεις χαλάρωσης. Η ακτή είναι αμμώδης και η είσοδος στο νερό είναι γενικά ομαλή κοντά στην παραλία, χωρίς αυτό να σημαίνει ότι οι συνθήκες κολύμβησης παραμένουν ίδιες όταν φυσάει. Εκτός από το μπάνιο, πολλοί επισκέπτες επιλέγουν το μέρος για την κοινωνική ατμόσφαιρα, τη μουσική, τα ποτά και το φαγητό του beach club. Υπάρχουν ξαπλώστρες και μεγαλύτεροι σκιεροί χώροι, καθώς και μπαρ και εστιατόριο. Κατά τη θερινή περίοδο ορισμένες θέσεις μπορεί να απαιτούν ελάχιστη κατανάλωση, η οποία αλλάζει ανάλογα με τη ζώνη και την εποχή. Επειδή οι δημοσιευμένες τιμές διαφέρουν, ρωτήστε το προσωπικό πριν επιλέξετε θέση. Η La Scala ταιριάζει περισσότερο σε όσους αναζητούν μια οργανωμένη, ζωντανή ημέρα στην παραλία παρά σε όσους προτιμούν απόλυτη ησυχία.",
+      "practical_tips": "Τις ημέρες αιχμής ελάτε νωρίς ή ρωτήστε αν γίνονται κρατήσεις θέσεων. Επιβεβαιώστε τις τρέχουσες χρεώσεις ή την ελάχιστη κατανάλωση πριν χρησιμοποιήσετε ξαπλώστρες. Αναφέρεται χώρος στάθμευσης κοντά στο κατάστημα, αλλά η διαθεσιμότητα δεν είναι εγγυημένη. Τουαλέτες, ντους, Wi-Fi και παιδική πισίνα, εφόσον λειτουργούν, αποτελούν παροχές της επιχείρησης και μπορεί να ισχύουν όροι χρήσης. Υπολογίστε ότι θα ακούγεται μουσική και ρωτήστε για την πολιτική εξωτερικών τροφίμων και ποτών.",
+      "highlights": [
+        "Αμμώδης ακτή με γενικά ομαλή είσοδο στο νερό",
+        "Beach club με φοίνικες και προσεγμένο σχεδιασμό",
+        "Ξαπλώστρες, ομπρέλες και σκιεροί χώροι",
+        "Εστιατόριο, ποτά και μουσική",
+        "Εύκολη οδική πρόσβαση από τον Λιμένα"
+      ],
+      "seo_title": "La Scala Θάσος – παραλία, πρόσβαση και ξαπλώστρες",
+      "seo_description": "Ανακαλύψτε τη La Scala κοντά στον Λιμένα Θάσου: αμμώδης παραλία, beach club, ξαπλώστρες, εστιατόριο, στάθμευση και πρακτικές συμβουλές.",
+      "social_caption": "🌴🏖️ La Scala στη Θάσο: άμμος, φοίνικες και ατμόσφαιρα beach club λίγο έξω από τον Λιμένα. 🍹 Για μια οργανωμένη καλοκαιρινή απόδραση δίπλα στο κύμα! ℹ️ Ελέγξτε την ελάχιστη κατανάλωση πριν επιλέξετε ξαπλώστρες. #Θάσος #LaScalaBeach #Ελλάδα",
+      "photo_alt": "Η παραλία La Scala στη Θάσο με φοίνικες, ξαπλώστρες και θάλασσα."
+    },
+    "de": {
+      "name": "La Scala Beach",
+      "tagline": "Sandstrand, Palmen und stilvolles Beachclub-Ambiente bei Limenas",
+      "summary": "Ein bewirtschafteter Strand an der Nordküste von Thassos westlich von Limenas, bekannt für Palmen, Liegen, schattige Sitzbereiche und Gastronomie. Passend für einen Strandtag mit Musik und Service; die geltenden Mindestverzehr-Regeln sollten vor Ort geprüft werden.",
+      "description": "La Scala Beach liegt an der Nordküste von Thassos, etwa vier Kilometer westlich von Limenas an der Straße Richtung Skala Prinos. Anstelle einer abgelegenen Naturbucht erwartet Besucher ein sorgfältig gestalteter Beachclub mit Holzelementen, Palmen, Sonnenschirmen und komfortablen Ruhebereichen. Der Strand ist sandig und das Wasser wird in Ufernähe meist allmählich tiefer. Wind und Wellengang können die Badebedingungen jedoch verändern. Neben Schwimmen und Sonnenbaden stehen hier vor allem die gesellige Atmosphäre, Musik sowie Speisen und Getränke im Mittelpunkt. Das Angebot umfasst Liegen, teils großzügigere schattige Plätze, eine Bar und ein Restaurant. In der Sommersaison kann für bestimmte Liege- oder Sitzbereiche ein Mindestverzehr gelten, dessen Höhe von der Platzkategorie und dem Zeitpunkt abhängt. Die im Internet genannten Preise weichen deutlich voneinander ab. Deshalb sollten Gäste die aktuellen Bedingungen vor dem Platznehmen beim Personal erfragen und prüfen, welche Leistungen enthalten sind. La Scala eignet sich besonders für alle, die einen bequemen und lebhaften Strandtag erleben möchten. Wer einen ruhigen, naturbelassenen Strand sucht, wird anderswo auf der Insel eher fündig.",
+      "practical_tips": "In der Hochsaison möglichst früh erscheinen oder nach einer Reservierung fragen. Vor Nutzung einer Liege den aktuellen Mindestverzehr und mögliche Zusatzgebühren klären. Ein Parkplatz in Strandnähe wird beschrieben, freie Plätze sind aber nicht garantiert. Toiletten, Duschen, WLAN und Kinderbecken gehören, soweit in Betrieb, zum Angebot des Betreibers; Nutzungsbedingungen prüfen. Mit Musik rechnen und die Regeln für mitgebrachte Speisen und Getränke erfragen.",
+      "highlights": [
+        "Sandstrand mit meist sanftem Meereseinstieg",
+        "Beachclub mit Palmen und Holzgestaltung",
+        "Liegen, Schirme und schattige Sitzbereiche",
+        "Restaurant, Getränke und Musik",
+        "Gut erreichbar von Limenas"
+      ],
+      "seo_title": "La Scala Beach Thassos – Liegen, Anfahrt und Ausstattung",
+      "seo_description": "La Scala Beach bei Limenas auf Thassos: Sandstrand mit Palmen, Beachclub, Liegen, Restaurant, Parken und Tipps zu Mindestverzehr und Zugang.",
+      "social_caption": "🌴🏖️ La Scala Beach auf Thassos: Sand, Palmen und entspanntes Beachclub-Ambiente nahe Limenas. 🍹 Ideal für einen Strandtag mit Komfort und Musik. ℹ️ Mindestverzehr und Liegenbedingungen vorher prüfen! #Thassos #LaScalaBeach #Griechenland",
+      "photo_alt": "La Scala Beach auf Thassos mit Palmen, Sonnenschirmen, Liegen und Meer."
+    },
+    "bg": {
+      "name": "Плаж Ла Скала (La Scala Beach)",
+      "tagline": "Пясък, палми и стилна атмосфера на бийч клуб близо до Лименас",
+      "summary": "Организиран плаж по северното крайбрежие на Тасос, западно от Лименас, известен с палмите, шезлонгите, сенчестите зони и ресторанта. Подходящ е за хора, които харесват музика и обслужване край морето, но правилата за минимална консумация трябва да се проверят на място.",
+      "description": "Плажът Ла Скала се намира на северния бряг на остров Тасос, на около четири километра западно от Лименас, по пътя към Скала Принос. Вместо отдалечен природен залив тук ще откриете поддържан бийч клуб с дървени конструкции, палми, чадъри и удобни кътове за почивка. Брегът е пясъчен, а навлизането във водата обикновено е постепенно, макар че вятърът и вълните могат да променят условията за къпане. Посетителите идват не само за море и слънце, но и за оживената атмосфера, музиката, напитките и храната, предлагани от заведението. Има шезлонги, по-просторни сенчести места, бар и ресторант. През летния сезон за някои зони може да се изисква минимална поръчка, която зависи от местоположението на шезлонга и периода. Публикуваните в интернет цени се различават, затова попитайте персонала за актуалните условия, преди да се настаните. Ла Скала е подходящ избор за почивка с повече комфорт и социална атмосфера, но не и за хора, които търсят напълно тих и див плаж.",
+      "practical_tips": "През натоварените летни дни пристигнете по-рано или попитайте за резервации. Преди да използвате шезлонг, уточнете текущата минимална консумация и евентуалните допълнителни такси. Има информация за паркинг близо до плажа, но свободни места не са гарантирани. Тоалетните, душовете, Wi-Fi и детският басейн, когато работят, са удобства на клуба и могат да имат правила за ползване. Очаквайте музика и проверете дали се допуска храна или напитки отвън.",
+      "highlights": [
+        "Пясъчен бряг с обикновено плавно навлизане",
+        "Бийч клуб с палми и характерен дизайн",
+        "Шезлонги, чадъри и сенчести места",
+        "Ресторант, напитки и музика",
+        "Удобен достъп от Лименас"
+      ],
+      "seo_title": "Ла Скала, Тасос – плаж, шезлонги и достъп",
+      "seo_description": "Разгледайте плажа Ла Скала до Лименас, Тасос: пясък, палми, бийч клуб, ресторант, паркинг и съвети за минималната консумация.",
+      "social_caption": "🌴🏖️ Ла Скала, Тасос: пясъчен бряг, палми и красива атмосфера на бийч клуб близо до Лименас. 🍹 За ден край морето с удобства и музика! ℹ️ Проверете правилата за шезлонгите предварително. #Тасос #LaScalaBeach #Гърция",
+      "photo_alt": "Плаж Ла Скала на Тасос с палми, чадъри, шезлонги и море."
+    },
+    "sr": {
+      "name": "La Scala Beach (La Skala)",
+      "tagline": "Pesak, palme i uređeni beach club nedaleko od Limenasa",
+      "summary": "Uređena plaža na severnoj obali Tasosa, zapadno od Limenasa, poznata po palmama, ležaljkama, mestima u hladu i restoranskoj ponudi. Odgovara gostima koji vole muziku i udobnost uz more, ali uslove minimalne potrošnje treba proveriti pre korišćenja ležaljki.",
+      "description": "La Scala Beach nalazi se na severnoj obali Tasosa, oko četiri kilometra zapadno od Limenasa, na putu ka Skali Prinos. Umesto izdvojene prirodne uvale, ovde vas čeka uređen beach club sa drvenim detaljima, palmama, suncobranima i udobnim prostorima za odmor. Obala je peščana, a ulazak u more uglavnom postepen, iako vetar i talasi mogu promeniti uslove za kupanje. Gosti dolaze zbog plivanja i sunčanja, ali i zbog življe atmosfere, muzike, pića i hrane koja se služi u sklopu kluba. Na raspolaganju su ležaljke, prostraniji natkriveni delovi, bar i restoran. Tokom leta za pojedine zone može važiti obavezna minimalna potrošnja, različita prema položaju i kategoriji mesta. Pošto se iznosi navedeni na internetu dosta razlikuju, najbolje je raspitati se kod osoblja pre nego što se smestite. La Scala je naročito privlačna onima koji žele udobnost, dobru organizaciju i društvenu atmosferu. Ako više volite tišinu, slobodan prostor i neuređene uvale, ova plaža možda neće biti vaš prvi izbor.",
+      "practical_tips": "U špicu letnje sezone dođite ranije ili proverite da li je moguće rezervisati mesto. Pre korišćenja ležaljki pitajte za aktuelnu minimalnu potrošnju i dodatne naknade. Pominje se parking blizu plaže, ali slobodna mesta nisu zagarantovana. Toaleti, tuševi, Wi-Fi i dečji bazen, kada rade, pripadaju objektu i imaju svoja pravila. Očekujte muziku i proverite pravila za unošenje hrane i pića sa strane.",
+      "highlights": [
+        "Peščana obala sa uglavnom postepenim ulaskom",
+        "Beach club sa palmama i drvenim detaljima",
+        "Ležaljke, suncobrani i mesta u hladu",
+        "Restoran, osveženje i muzika",
+        "Lako dostupan put iz Limenasa"
+      ],
+      "seo_title": "La Scala Beach Tasos – prilaz, ležaljke i sadržaji",
+      "seo_description": "La Scala Beach blizu Limenasa na Tasosu: peščana plaža, palme, beach club, ležaljke, restoran, parking i saveti o minimalnoj potrošnji.",
+      "social_caption": "🌴🏖️ La Scala Beach na Tasosu: pesak, palme i živahna atmosfera beach cluba blizu Limenasa. 🍹 Za leto uz more, muziku i udobnost! ℹ️ Proverite uslove i minimalnu potrošnju pre izbora ležaljki. #Tasos #LaScalaBeach #Grcka",
+      "photo_alt": "Plaža La Scala na Tasosu sa palmama, suncobranima, ležaljkama i morem."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/la-scala/images/la-scala1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/la-scala/images/la-scala2.webp",
+      "destinations/thassos/beaches/la-scala/images/la-scala3.webp",
+      "destinations/thassos/beaches/la-scala/images/la-scala4.webp",
+      "destinations/thassos/beaches/la-scala/images/la-scala5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/la-scala/images/",
+    "suggested_asset_names": [
+      "la-scala1.webp",
+      "la-scala2.webp",
+      "la-scala3.webp",
+      "la-scala4.webp",
+      "la-scala5.webp"
+    ],
+    "image_policy": "Only user-provided, owned or appropriately licensed photographs of La Scala Beach on Thassos may be published. Paths are assigned from the user-provided screenshot filenames; verify photo identity, provenance and publication rights.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_map",
+      "kind": "map_link",
+      "title": "Pawtale public location listing with Google Maps La Scala Beach coordinates",
+      "url": "https://pawtale.gr/%CE%BA%CE%B1%CF%84%CE%B1%CF%87%CF%8E%CF%81%CE%B7%CF%83%CE%B7/la-scala-beach/",
+      "detail": "Public listing embeds a Google Maps place URL with point 40.7835117, 24.6729408. Reference POI pin; not a verified car entrance.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_official",
+      "kind": "operator_official",
+      "title": "La Scala Beach — official website",
+      "url": "https://lascalabeach.com/",
+      "detail": "Confirms location near Limenas and beach-bar/restaurant/pool-bar positioning; does not set verified live seating prices.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_beachbar",
+      "kind": "operator_official",
+      "title": "La Scala Beach — official beach bar page",
+      "url": "https://lascalabeach.com/beach-bar/",
+      "detail": "Food, drinks, lounger service and club atmosphere. Avoid assuming listed services operate every day.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide",
+      "title": "Nikana — La Scala Beach, updated October 2026",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1930/la-scala-beach",
+      "detail": "Around 4 km from Limenas, sandy shore and entry, reported parking, loungers, canopies, Wi-Fi and children’s pool. Some offerings depend on season.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_local_ro",
+      "kind": "travel_guide",
+      "title": "Forum Thassos — La Scala Beach",
+      "url": "https://www.forumthassos.ro/recomandari/la-scala-beach/",
+      "detail": "Romanian local listing with Google Maps directions link and reported toilet/shower/parking facilities; seasonal status unconfirmed.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_travelplanner",
+      "kind": "travel_guide",
+      "title": "TravelPlanner — La Scala near Limenas",
+      "url": "https://travelplanner.ro/blog/la-scala-beach-thassos-plaja-eleganta-din-apropiere-de-limenas/",
+      "detail": "Description of landscaped beach club, decorative palms, wooden shade and seating types; older prices not treated as current.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_price_reporting",
+      "kind": "news_report",
+      "title": "Playtech — visitor-reported 2026 price variation at La Scala",
+      "url": "https://playtech.ro/2026/plaja-din-thassos-unde-o-zi-poate-costa-cat-un-city-break-romanii-spun-ca-preturile-au-explodat-dupa-o-ora-am-plecat/",
+      "detail": "Anecdotal pricing illustrates strong variability and should not be used as an official current price list.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_pending_images_and_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm the exact Google Maps POI and entrance/parking access point",
+      "Confirm la-scala1.webp–la-scala5.webp depict La Scala Beach on Thassos and document publication rights and any required attribution.",
+      "Verify current summer seating prices, minimum spend, outside-food policy and reservations with operator",
+      "Confirm the on-site status of parking, children’s pool, Wi-Fi, toilets, showers and accessibility",
+      "Confirm the rules separating beach access from reserved/private beach-club seating",
+      "Native-language review for public launch in all six languages"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; rights to use the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local image paths assigned from the user-provided screenshot of filenames; actual image files, photo location, provenance and reuse rights have not been independently verified."
+  }
+}

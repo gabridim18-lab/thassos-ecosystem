@@ -1,0 +1,392 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-dasilio",
+  "slug": "dasilio",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Δασύλλιο Πρίνου",
+    "international_name": "Dasilio Beach",
+    "aliases": [
+      "Dasyllio Beach",
+      "Dasylio Beach",
+      "Dasilio Prinos",
+      "Dasyllio Prinos",
+      "Paralia Dasilio",
+      "Δασύλλιο",
+      "Παραλία Δασυλλίου"
+    ],
+    "entity_scope": "Long forest-backed beach area west of the Skala Prinos ferry port. Includes locally named sections and nearby managed stretches; do not assume identical amenities throughout.",
+    "deduplication_warning": "Dasilio/Dasyllio is a broader coastal name. Skala Prinos Beach, Dasylio Thasou 1 and 2 monitoring sites, Ilio Mare, Artemis and camping-adjacent stretches may be mapped separately or overlap. Distinguish each named visitor point and do not count every commercial section as a geographically independent beach."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "northwest / west",
+    "settlements": [
+      "Skala Prinos",
+      "Prinos"
+    ],
+    "lat": 40.7609,
+    "lng": 24.56864,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps?q=40.7609,24.56864",
+    "coordinate_source_reference": "s_geographic_osm",
+    "coordinate_type": "representative_beach_pin_not_specific_access",
+    "coordinate_review_status": "approximate_point_from_OSM_mapping_cross_checked_with_independent_guides; Google Maps search link generated but exact Google Maps beach pin and preferred entrance not independently verified",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "predominantly_sand_with_some_stones_and_coarser_sections",
+    "seabed_near_shore": "sandy_in_many_areas_with_stones_and_irregular_patches_elsewhere",
+    "water_entry": "varies_from_gradual_in_sandy_sections_to_faster_drop_in_others",
+    "nearshore_depth": "variable_by_exact_section",
+    "water_clarity": "often_clear_but_affected_by_conditions_and_bottom",
+    "wave_conditions": "wind_dependent",
+    "exposure": "northwest_coast",
+    "natural_shade_on_sand": "pine_shade_present_in_sections_and_behind_shore",
+    "beach_length_m": null,
+    "length_note": "Guides describe a long beach area but disagree on limits between Dasilio, Skala Prinos and named beach-club or hotel sections. No single reliable length assigned.",
+    "backdrop": "Extensive pine grove, shaded coastal paths and some accommodation or camping areas",
+    "shoreline_type": "long_mixed_sandy_coastal_strip_by_pine_grove"
+  },
+  "visitor_experience": {
+    "organization": "mixed_organized_and_free_sections",
+    "suitable_for": [
+      "families_in_gradual_sandy_sections",
+      "couples",
+      "shade_seekers",
+      "relaxed_day",
+      "swimming",
+      "walking",
+      "cycling_on_nearby_paths",
+      "sunset_watching"
+    ],
+    "notable_for": [
+      "dense_pine_grove",
+      "natural_shade",
+      "long_shoreline",
+      "mix_of_serviced_and_free_space",
+      "near_skala_prinos",
+      "west_coast_evening_light"
+    ],
+    "activities_possible": [
+      "swimming",
+      "shoreline_walks",
+      "cycling_on_accessible_paths",
+      "sunset_photography",
+      "relaxing_under_pines",
+      "seasonal_local_events"
+    ],
+    "estimated_crowd_peak": "often_quieter_than_major_resort_beaches_but_managed_sections_can_be_busy",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Water entry is not uniformly shallow. Some sections have rocks or patches of muddy seabed, and eastern parts may deepen faster. Check the exact section and supervise children; conditions change with wind."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Usually linked to nearby beach operators, hotels or campsite; availability, public access and opening hours may vary."
+    },
+    "showers": {
+      "available_in_some_sections": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": true,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No current lifeguard schedule confirmed for the complete shoreline; specific managed sections may differ.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "A local directory mentions assisted sea access on an eastern Dasilio/Skala Prinos section. Exact location, operation and accessibility of the remaining pathway need current verification.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Amenities and seabed conditions differ substantially by section; Ilio Mare and other managed areas should not stand in for the entire Dasilio shoreline."
+  },
+  "access_and_cost": {
+    "road_access": "paved_roads_to_skala_prinos_with_local_access_to_dasilio_grove",
+    "public_transport": "bus_services_to_skala_prinos; timetable_and_last_mile_depend_on_season",
+    "parking_type": "roadside_and_local_parking_near_pine_grove_in_some_sections",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Some operators may associate loungers with food or drink orders or separate charges. Rates and conditions vary by business and season.",
+    "best_arrival_advice": "Choose your preferred stretch before navigating. From Skala Prinos port the Dasilio area lies westward along the coast; allow time to walk and locate the exact sandy entry point.",
+    "distance_from_limenas_km": null,
+    "distance_note": "A published walking estimate of about 2 km refers to Skala Prinos ferry port and a Dasilio visitor point, not the full forest-backed shoreline."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": 2026,
+      "verified_specific_section": "Prinos Dasylio 2 / Ilio Mare Beach",
+      "entire_beach_certified": false,
+      "season_end": null,
+      "source_ref": "s_blueflag_official",
+      "note": "2026 award is listed for the named Ilio Mare sector only; do not label all of Dasilio Blue Flag."
+    },
+    "water_quality_classification": {
+      "specific_monitoring_site": "Dasyllio Thasou 2",
+      "rating": "Excellent",
+      "season": 2024,
+      "source_ref": "s_quality",
+      "note": "Classification applies to the monitoring station, not an assertion about current real-time conditions across the whole shoreline."
+    }
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Retrieve live weather and sea conditions from a current service; never hardcode forecasts or real-time beach occupancy into a static JSON."
+  },
+  "translations": {
+    "ro": {
+      "name": "Dasilio Beach (Skala Prinos)",
+      "tagline": "O plajă lungă, cu pini aproape de apă și o atmosferă relaxată",
+      "summary": "Dasilio se întinde în apropiere de Skala Prinos, pe coasta nord-vestică a insulei Thassos. Pădurea de pini, sectoarele de nisip și spațiile amenajate alternate cu porțiuni libere o fac atractivă pentru cei care caută umbră naturală și o zi liniștită la mare.",
+      "description": "Dasilio este una dintre zonele de plajă în care vegetația din Thassos ajunge foarte aproape de țărm. La vest de portul Skala Prinos, o fâșie lungă de coastă este însoțită de pini înalți, alei umbrite și locuri de relaxare. În unele sectoare nisipul și intrarea treptată în apă sunt potrivite pentru familii, însă plaja nu este uniformă: se întâlnesc și porțiuni cu pietre sau fund marin neregulat, iar adâncimea crește mai repede în anumite puncte. Există zone cu șezlonguri și beach baruri, dar și spații unde îți poți așeza propriul prosop sau umbrela. Apropierea de camping, de cazări și de tavernele din Skala Prinos face ca o zi aici să poată include o plimbare printre pini sau o pauză la masă. Spre seară, lumina de pe coasta vestică oferă un cadru plăcut pentru fotografii și apus. Alege sectorul înainte să pornești: zona Dasilio include mai multe puncte de acces, iar facilitățile diferă de la unul la altul.",
+      "practical_tips": "Nu presupune că apa este puțin adâncă de-a lungul întregii plaje; verifică intrarea în mare, mai ales cu copii. Papucii de apă pot fi utili în sectoarele cu pietre. Pinii oferă umbră, dar nu acoperă tot nisipul. Dușurile, toaletele și șezlongurile pot aparține unor operatori și pot fi disponibile numai sezonier. Nu confunda plaja Dasilio cu Skala Prinos sau cu sectorul Ilio Mare; certificarea Blue Flag 2026 este confirmată numai pentru sectorul Ilio Mare.",
+      "highlights": [
+        "Pădure de pini și umbră naturală",
+        "Sectoare cu nisip și spații libere",
+        "Alei potrivite pentru plimbări",
+        "Taverne și beach baruri în apropiere",
+        "Apusuri și atmosferă relaxată"
+      ],
+      "seo_title": "Dasilio Beach Thassos – pini, acces și facilități",
+      "seo_description": "Explorează Dasilio Beach lângă Skala Prinos, Thassos: pădure de pini, nisip, sectoare amenajate, acces, umbră naturală și sfaturi practice.",
+      "social_caption": "🌲🏖️ Dasilio Beach, Thassos: aici pinii coboară aproape de mare, iar o plimbare la umbră poate completa perfect o zi de plajă. 🌅 Descoperă partea mai liniștită a insulei! 🇬🇷 #Thassos #Dasilio #ExploreGreece",
+      "photo_alt": "Plaja Dasilio din Thassos, cu nisip, pini aproape de țărm și apă albastră."
+    },
+    "en": {
+      "name": "Dasilio Beach (Skala Prinos)",
+      "tagline": "Pine-shaded shoreline and an easygoing west-coast atmosphere",
+      "summary": "Near Skala Prinos on the northwestern coast of Thassos, Dasilio combines a long beach area with an extensive pine grove. Sandy stretches, natural shade and a mix of serviced and open sections make it appealing for relaxed seaside days.",
+      "description": "Dasilio is where the wooded character of Thassos comes right down to the shoreline. West of the Skala Prinos ferry harbour, a long coastal stretch is backed by tall pine trees, shaded paths and places to stop and unwind. Some sandy sections have a gradual sea entry that can suit families, but conditions are not identical everywhere: stones, uneven seabed and sections where the water deepens more quickly are also reported. You will find loungers and beach bars in managed areas, together with open space for visitors bringing their own beach gear. The nearby campsite, accommodation and tavernas around Skala Prinos make it easy to combine swimming with a walk through the pines or a leisurely meal. Later in the day, the western setting can be especially attractive for softer light and sunsets. Rather than treating Dasilio as a single small cove, choose a particular access point or section to suit your plans, since amenities and seabed conditions change along the coast.",
+      "practical_tips": "Do not assume shallow water everywhere, especially when visiting with children. Water shoes may help in stony sections. Pine shade is plentiful in places but not continuous across the whole beach. Showers, toilets and loungers can be managed by nearby businesses and may be seasonal. Dasilio is not interchangeable with Skala Prinos Beach or Ilio Mare; the official 2026 Blue Flag listing applies specifically to the Ilio Mare section.",
+      "highlights": [
+        "Tall pines and natural shade",
+        "Sandy places and free beach space",
+        "Pleasant paths for shaded walks",
+        "Nearby tavernas and beach bars",
+        "West-coast sunset atmosphere"
+      ],
+      "seo_title": "Dasilio Beach Thassos – pine shade, access and facilities",
+      "seo_description": "Discover Dasilio Beach near Skala Prinos, Thassos: pine trees, sandy areas, serviced stretches, natural shade, access and helpful visitor tips.",
+      "social_caption": "🌲🏖️ Dasilio Beach, Thassos: take a shaded stroll among the pines, then find your own spot beside the Aegean. 🌅 Save this peaceful west-coast idea for your island trip! 🇬🇷 #Thassos #Dasilio #GreeceTravel",
+      "photo_alt": "Dasilio Beach on Thassos with sandy shore, tall pine trees and blue sea."
+    },
+    "el": {
+      "name": "Παραλία Δασύλλιο (Σκάλα Πρίνου)",
+      "tagline": "Πευκόφυτη ακτή, φυσική σκιά και χαλαρή ατμόσφαιρα",
+      "summary": "Κοντά στη Σκάλα Πρίνου, στη βορειοδυτική Θάσο, το Δασύλλιο συνδυάζει μια εκτεταμένη παραλιακή ζώνη με πυκνό πευκοδάσος. Οι αμμώδεις περιοχές, η φυσική σκιά και τα οργανωμένα ή ελεύθερα τμήματα προσφέρονται για χαλαρές στιγμές δίπλα στη θάλασσα.",
+      "description": "Το Δασύλλιο είναι μια γωνιά της Θάσου όπου τα πεύκα φτάνουν σχεδόν μέχρι τη θάλασσα. Δυτικά από το λιμάνι της Σκάλας Πρίνου, η παραλιακή ζώνη απλώνεται μπροστά από ψηλά δέντρα, σκιερά μονοπάτια και σημεία για ξεκούραση. Σε ορισμένα αμμώδη τμήματα η είσοδος στο νερό είναι ομαλή και μπορεί να εξυπηρετεί οικογένειες. Ωστόσο, η ακτή δεν έχει παντού τα ίδια χαρακτηριστικά: υπάρχουν σημεία με πέτρες, ανομοιόμορφο βυθό ή πιο απότομη αύξηση του βάθους. Κατά μήκος της παραλίας συναντά κανείς οργανωμένες περιοχές με ξαπλώστρες και beach bars, αλλά και ελεύθερο χώρο για προσωπικό εξοπλισμό. Το κοντινό κάμπινγκ, τα καταλύματα και οι ταβέρνες της Σκάλας Πρίνου επιτρέπουν να συνδυάσετε το μπάνιο με μια βόλτα στα πεύκα ή ένα χαλαρό γεύμα. Το απόγευμα το δυτικό φως προσφέρει όμορφες εικόνες προς τη θάλασσα. Επειδή το Δασύλλιο καλύπτει μεγάλη ακτογραμμή, επιλέξτε εκ των προτέρων το τμήμα που σας ταιριάζει.",
+      "practical_tips": "Μην θεωρείτε ότι τα νερά είναι ρηχά σε κάθε σημείο, ιδιαίτερα αν έχετε παιδιά. Παπούτσια θαλάσσης είναι χρήσιμα όπου υπάρχουν πέτρες. Η σκιά των πεύκων δεν καλύπτει όλη την άμμο. Ντους, τουαλέτες και ξαπλώστρες μπορεί να ανήκουν σε εποχικούς επαγγελματικούς χώρους. Μην συγχέετε το Δασύλλιο με την παραλία της Σκάλας Πρίνου ή το τμήμα Ilio Mare: η Γαλάζια Σημαία του 2026 αφορά ειδικά το τελευταίο.",
+      "highlights": [
+        "Πεύκα και φυσική σκιά",
+        "Αμμώδη και ελεύθερα τμήματα",
+        "Σκιεροί περίπατοι δίπλα στην ακτή",
+        "Ταβέρνες και beach bars κοντά",
+        "Όμορφο απογευματινό φως και ηλιοβασίλεμα"
+      ],
+      "seo_title": "Παραλία Δασύλλιο Θάσος – πρόσβαση και παροχές",
+      "seo_description": "Γνωρίστε το Δασύλλιο κοντά στη Σκάλα Πρίνου στη Θάσο: πευκοδάσος, αμμουδιά, οργανωμένα τμήματα, φυσική σκιά και χρήσιμες συμβουλές.",
+      "social_caption": "🌲🏖️ Δασύλλιο, Θάσος: πεύκα δίπλα στο κύμα, σκιεροί περίπατοι και ηρεμία στη δυτική πλευρά του νησιού. 🌅 Κρατήστε την ιδέα για τις διακοπές σας! 🇬🇷 #Θάσος #Δασύλλιο #Ελλάδα",
+      "photo_alt": "Παραλία Δασύλλιο στη Θάσο με αμμουδιά, πεύκα δίπλα στο κύμα και γαλάζια θάλασσα."
+    },
+    "de": {
+      "name": "Dasilio Beach (Skala Prinos)",
+      "tagline": "Pinien am Strand, natürlicher Schatten und entspannte Westküstenstimmung",
+      "summary": "Nahe Skala Prinos an der Nordwestküste von Thassos erstreckt sich das Strandgebiet Dasilio vor einem ausgedehnten Pinienhain. Sandige Abschnitte, natürlicher Schatten und eine Mischung aus bewirtschafteten und freien Bereichen laden zu ruhigen Stunden am Meer ein.",
+      "description": "Dasilio zeigt die grüne Seite von Thassos direkt am Wasser. Westlich des Fährhafens von Skala Prinos zieht sich ein längerer Küstenabschnitt entlang hoher Pinien, schattiger Wege und kleiner Ruheplätze. Manche Sandabschnitte fallen sanft ins Meer ab und sind damit auch für Familien interessant. Der Strand ist allerdings nicht überall gleich: stellenweise gibt es Steine, unebenen Meeresboden oder Bereiche, in denen das Wasser schneller tief wird. Einige Abschnitte bieten Liegen, Sonnenschirme und Strandbars; daneben gibt es freien Platz für die eigene Ausrüstung. Der nahe Campingplatz, Unterkünfte und Tavernen rund um Skala Prinos machen es leicht, einen Badetag mit einem Spaziergang im Schatten oder einer gemütlichen Mahlzeit zu verbinden. Besonders am späten Nachmittag sorgt die westliche Lage für stimmungsvolles Licht bis zum Sonnenuntergang. Da Dasilio ein längeres Strandgebiet bezeichnet, lohnt es sich, vorher den passenden Zugang auszuwählen. Einrichtungen und Badebedingungen unterscheiden sich je nach Abschnitt.",
+      "practical_tips": "Nicht überall ist das Wasser flach, besonders mit Kindern sollte man den Einstieg prüfen. In steinigen Bereichen können Badeschuhe helfen. Pinien spenden stellenweise Schatten, jedoch nicht auf der gesamten Sandfläche. Duschen, Toiletten und Liegen werden teils von saisonalen Betrieben angeboten. Dasilio darf nicht mit Skala Prinos Beach oder Ilio Mare gleichgesetzt werden: Die Blaue Flagge 2026 ist ausdrücklich für den Abschnitt Ilio Mare verzeichnet.",
+      "highlights": [
+        "Pinienwald und natürlicher Schatten",
+        "Sandige und freie Strandabschnitte",
+        "Schattige Wege zum Spazieren",
+        "Tavernen und Strandbars in der Nähe",
+        "Atmosphäre an der Westküste bei Sonnenuntergang"
+      ],
+      "seo_title": "Dasilio Beach Thassos – Pinien, Anfahrt und Ausstattung",
+      "seo_description": "Dasilio Beach bei Skala Prinos auf Thassos: Pinienwald, sandige Strandbereiche, Liegen, freie Plätze, natürlicher Schatten und Tipps.",
+      "social_caption": "🌲🏖️ Dasilio Beach auf Thassos: zwischen Pinien spazieren und anschließend einen Platz am Meer genießen. 🌅 Eine entspannte Idee für die Westküste! 🇬🇷 #Thassos #Dasilio #Griechenland",
+      "photo_alt": "Dasilio Beach auf Thassos mit Sand, Pinienbäumen nahe der Küste und blauem Meer."
+    },
+    "bg": {
+      "name": "Плаж Дасилио (Скала Принос)",
+      "tagline": "Борове край морето, естествена сянка и спокойна атмосфера",
+      "summary": "Край Скала Принос, на северозападния бряг на Тасос, Дасилио съчетава дълга плажна ивица и борова горичка. Пясъчни участъци, естествена сянка и редуване на организирани и свободни зони го правят приятно място за спокоен ден.",
+      "description": "Дасилио е едно от местата на Тасос, където боровете се приближават почти до морето. Западно от фериботното пристанище на Скала Принос крайбрежната зона се простира покрай високи дървета, сенчести пътеки и места за почивка. На някои пясъчни участъци влизането във водата е плавно и удобно за семейства, но плажът не е еднакъв навсякъде. Срещат се камъни, неравно морско дъно и места, където дълбочината нараства по-бързо. По брега има организирани части с шезлонги и плажни барове, както и свободни пространства за собствен чадър и хавлия. Близкият къмпинг, местата за настаняване и таверните на Скала Принос позволяват да съчетаете плуването с разходка под боровете или спокоен обяд. Късният следобед предлага приятна светлина и гледки към залеза. Тъй като Дасилио обозначава по-обширна крайбрежна зона, добре е предварително да изберете къде точно искате да отидете: удобствата и условията за къпане се различават.",
+      "practical_tips": "Не приемайте, че навсякъде водата е плитка, особено ако сте с деца. На каменистите места обувките за вода може да са полезни. Боровете осигуряват сянка само в части от плажа. Душовете, тоалетните и шезлонгите често зависят от сезонните обекти. Не бъркайте Дасилио с плажа Скала Принос или участъка Илио Маре: отличието Син флаг за 2026 г. се отнася конкретно за Илио Маре.",
+      "highlights": [
+        "Борове и естествена сянка",
+        "Пясъчни и свободни участъци",
+        "Сенчести пътеки за разходки",
+        "Таверни и плажни барове наблизо",
+        "Приятни залези на западния бряг"
+      ],
+      "seo_title": "Плаж Дасилио, Тасос – достъп и удобства",
+      "seo_description": "Открийте Дасилио край Скала Принос на Тасос: борова горичка, пясъчни зони, естествена сянка, достъп и съвети за посещение.",
+      "social_caption": "🌲🏖️ Дасилио, Тасос: борове почти до водата, сенчести разходки и спокоен следобед край морето. 🌅 Запазете го за следващата ваканция! 🇬🇷 #Тасос #Дасилио #Гърция",
+      "photo_alt": "Плаж Дасилио на Тасос с пясък, високи борове и синьо море."
+    },
+    "sr": {
+      "name": "Dasilio Beach (Skala Prinos)",
+      "tagline": "Borovi uz obalu, prirodan hlad i opuštena atmosfera",
+      "summary": "Dasilio se nalazi blizu Skala Prinosa, na severozapadnoj obali Tasosa. Dugačka priobalna zona sa borovima, peščanim delovima i uređenim i slobodnim površinama privlači goste koji žele odmor u prirodnom hladu.",
+      "description": "Dasilio je deo Tasosa gde borovi dolaze gotovo do same obale. Zapadno od trajektne luke Skala Prinos, duži pojas plaže prati gusta borova šuma sa stazama u hladu i mestima za odmor. U nekim peščanim delovima ulazak u more je postepen i može odgovarati porodicama, ali uslovi nisu svuda isti. Ponegde ima kamenja, neravnog morskog dna i mesta gde se voda brže produbljuje. Duž obale nalaze se uređeni delovi sa ležaljkama, suncobranima i barovima, kao i prostor za sopstvenu opremu. Obližnji kamp, smeštaj i taverne oko Skala Prinosa omogućavaju da kupanje spojite sa šetnjom kroz borove ili opuštenim ručkom. Kasno popodne zapadna obala pruža meko svetlo i lep pogled pred zalazak sunca. Pošto Dasilio obuhvata dužu obalu, najbolje je unapred izabrati odgovarajući prilaz i deo plaže. Sadržaji i uslovi za kupanje mogu se razlikovati od mesta do mesta.",
+      "practical_tips": "Nemojte pretpostaviti da je voda plitka duž cele obale, posebno kada dolazite s decom. Obuća za vodu može pomoći na kamenitim delovima. Borovi pružaju hlad samo na određenim mestima. Tuševi, toaleti i ležaljke često pripadaju sezonskim ugostiteljskim objektima. Ne mešajte Dasilio sa Skala Prinos Beach ili delom Ilio Mare: Plava zastava za 2026. odnosi se posebno na Ilio Mare.",
+      "highlights": [
+        "Borovi i prirodan hlad",
+        "Peščani delovi i slobodan prostor",
+        "Staze za šetnju u hladu",
+        "Taverne i barovi na plaži u blizini",
+        "Prijatna atmosfera tokom zalaska sunca"
+      ],
+      "seo_title": "Dasilio Beach Tasos – borovi, pristup i sadržaji",
+      "seo_description": "Upoznajte Dasilio Beach blizu Skala Prinosa na Tasosu: borovu šumu, peščane delove, hlad, uređene zone i savete za posetu.",
+      "social_caption": "🌲🏖️ Dasilio Beach, Tasos: šetnja kroz hlad borova, pa odmor uz Egejsko more. 🌅 Sačuvajte ovu ideju za mirniji dan na ostrvu! 🇬🇷 #Tasos #Dasilio #Grcka",
+      "photo_alt": "Plaža Dasilio na Tasosu, sa peskom, visokim borovima blizu obale i plavim morem."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/dasilio/images/dasilio1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/dasilio/images/dasilio2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/dasilio/images/dasilio3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/dasilio/images/dasilio4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/dasilio/images/dasilio5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/dasilio/images/",
+    "suggested_asset_names": [
+      "dasilio1.webp",
+      "dasilio2.webp",
+      "dasilio3.webp",
+      "dasilio4.webp",
+      "dasilio5.webp"
+    ],
+    "image_policy": "Use only images supplied or approved by the project owner, with verified rights for commercial publication. Image 1 is the cover; images 2–5 appear in numeric gallery order.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_geographic_osm",
+      "kind": "geographic_data",
+      "title": "Mapcarta / OpenStreetMap — Δασύλλιο geographic beach feature",
+      "url": "https://mapcarta.com/W725325731",
+      "detail": "Represents Dasyllio beach around 40.7609, 24.56864. Basis for provisional pin; Google Maps destination must be visually checked independently.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_discover",
+      "kind": "travel_guide",
+      "title": "Discover Thassos — Dasilio Beach",
+      "url": "https://www.discover-thassos.com/listing/dasilio-beach-thassos/",
+      "detail": "Pine grove west of Skala Prinos port, long beach area, family-friendly sandy shallows in some locations, beach clubs and open areas.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide",
+      "title": "Nikana — Dasilio Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1936/dasilio-beach",
+      "detail": "Reports mixed sandy and stony or muddy seabed, forest walks, shade, varying amenities and overlapping named hotel sections; not an up-to-the-minute facility inventory.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Skala Prinos and Dasilio context",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-prinos",
+      "detail": "Dasilio pine grove, recreation, municipal campsite, swimming areas and sunsets; older Blue Flag generalization is not used to certify entire shoreline.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_blueflag_official",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — official 2026 awarded beaches",
+      "url": "https://www.blueflag.gr/el/awards/2026",
+      "detail": "2026 list explicitly names Prinos Dasylio 2 / Ilio Mare Beach; award must not be applied to whole Dasilio area.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_quality",
+      "kind": "bathing_water_monitoring",
+      "title": "Katatopisi — Dasyllio Thasou 2, EEA bathing-water class",
+      "url": "https://katatopisi.gr/en/beach/dasyllio-thasoy-2/",
+      "detail": "Site near 40.7625, 24.5637; Excellent in 2024; historic monitoring information only, not real-time water or whole-coast classification.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_east_section",
+      "kind": "beach_section_guide",
+      "title": "Pame Paralia — Dasyllio East",
+      "url": "https://pameparalia.com/beach/dasyllio-east-mainland",
+      "detail": "Notes sand/pebble and relatively rapid depth in an eastern sector; does not represent western sandy shallows. Assisted access noted, actual operational status requires checking.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_west_section",
+      "kind": "beach_section_guide",
+      "title": "Pame Paralia — Dasylio West",
+      "url": "https://pameparalia.com/beach/dasylio-west-mainland",
+      "detail": "Reports sandy shallow western section, managed areas and sunset orientation. Confirms beach characteristics vary geographically.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_other_beach",
+      "kind": "travel_guide",
+      "title": "Discover Thassos — Skala Prinos Beach",
+      "url": "https://www.discover-thassos.com/listing/skala-prinos-beach-thassos/",
+      "detail": "Neighbouring shoreline context, useful to prevent duplicate geographic listings and misplaced amenities.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_media_paths_configured_pending_asset_check_and_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm exact Google Maps pin and preferred access point; coordinates currently cross-checked from mapping references, not a verified Google Maps place pin",
+      "Check boundaries and relationships between Dasilio, Skala Prinos, Ilio Mare, Artemis and monitoring sites Dasyllio 1/2",
+      "Confirm exact facilities and accessibility arrangements in the selected sector, including toilets, showers, lifeguard and assisted sea access",
+      "Inspect water entry locally: shallow sandy sections do not represent every point of the beach",
+      "Check seasonal conditions of beach clubs, campsite and parking before promotion",
+      "Verify that dasilio1.webp through dasilio5.webp exist in destinations/thassos/beaches/dasilio/images/, depict Dasilio Beach, and are authorized for commercial publication.",
+      "Native-speaker proofreading of translations before public release"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original descriptive content drafted; local paths for five user-selected WebP images are configured. Image files and commercial publication rights have not been independently verified.",
+    "photo_source_disclaimer": "Photo paths correspond to filenames supplied in the screenshot by the project owner; no third-party candidate links or external images were imported. Image files and publication rights require final verification."
+  }
+}

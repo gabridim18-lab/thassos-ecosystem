@@ -1,0 +1,506 @@
+{
+  "schemaVersion": 1,
+  "venueId": "gr-thassos-beach-bar-gossip-beach-bar",
+  "status": "historical_reference_not_current_menu",
+  "currency": "EUR",
+  "publicPricesEnabled": false,
+  "pricesAreHistorical": true,
+  "note": "Items and historical prices transcribed from user-provided photos of printed menus. Dates and current prices are not confirmed. Never use historicalPriceEUR as live menu price.",
+  "categories": [
+    {
+      "id": "coffee",
+      "titleEn": "Coffee & hot drinks",
+      "items": [
+        {
+          "id": "freddo-espresso",
+          "name": {
+            "en": "Freddo espresso"
+          },
+          "historicalPriceEUR": 3.5
+        },
+        {
+          "id": "freddo-cappuccino",
+          "name": {
+            "en": "Freddo cappuccino"
+          },
+          "historicalPriceEUR": 4
+        },
+        {
+          "id": "freddo-cappuccino-latte",
+          "name": {
+            "en": "Freddo cappuccino latte"
+          },
+          "historicalPriceEUR": 4
+        },
+        {
+          "id": "affogato",
+          "name": {
+            "en": "Affogato"
+          },
+          "historicalPriceEUR": 5
+        },
+        {
+          "id": "frapp",
+          "name": {
+            "en": "Frappé"
+          },
+          "historicalPriceEUR": 3.5
+        },
+        {
+          "id": "cold-chocolate",
+          "name": {
+            "en": "Cold chocolate"
+          },
+          "historicalPriceEUR": 4.5
+        },
+        {
+          "id": "greek-coffee-single",
+          "name": {
+            "en": "Greek coffee (single)",
+            "el": "Ελληνικός μονός"
+          },
+          "historicalPriceEUR": 2.5
+        },
+        {
+          "id": "greek-coffee-double",
+          "name": {
+            "en": "Greek coffee (double)",
+            "el": "Ελληνικός διπλός"
+          },
+          "historicalPriceEUR": 3.5
+        },
+        {
+          "id": "espresso",
+          "name": {
+            "en": "Espresso"
+          },
+          "historicalPriceEUR": 3
+        },
+        {
+          "id": "double-espresso",
+          "name": {
+            "en": "Double espresso"
+          },
+          "historicalPriceEUR": 3.5
+        },
+        {
+          "id": "espresso-ristretto",
+          "name": {
+            "en": "Espresso ristretto"
+          },
+          "historicalPriceEUR": 3.5
+        },
+        {
+          "id": "cappuccino",
+          "name": {
+            "en": "Cappuccino"
+          },
+          "historicalPriceEUR": 4
+        },
+        {
+          "id": "americano",
+          "name": {
+            "en": "Americano"
+          },
+          "historicalPriceEUR": 3.5
+        },
+        {
+          "id": "hot-chocolate",
+          "name": {
+            "en": "Hot chocolate"
+          },
+          "historicalPriceEUR": 4.5
+        }
+      ]
+    },
+    {
+      "id": "soft_drinks",
+      "titleEn": "Refreshments",
+      "items": [
+        {
+          "id": "coca-cola-coca-cola-zero",
+          "name": {
+            "en": "Coca-Cola / Coca-Cola Zero"
+          },
+          "historicalPriceEUR": 3.5
+        },
+        {
+          "id": "orange-soft-drink",
+          "name": {
+            "en": "Orange soft drink"
+          },
+          "historicalPriceEUR": 3.5
+        },
+        {
+          "id": "lemonade",
+          "name": {
+            "en": "Lemonade"
+          },
+          "historicalPriceEUR": 3.5
+        },
+        {
+          "id": "schweppes-soda",
+          "name": {
+            "en": "Schweppes soda"
+          },
+          "historicalPriceEUR": 3.5
+        },
+        {
+          "id": "schweppes-tonic-water",
+          "name": {
+            "en": "Schweppes tonic water"
+          },
+          "historicalPriceEUR": 3.5
+        },
+        {
+          "id": "red-bull",
+          "name": {
+            "en": "Red Bull"
+          },
+          "historicalPriceEUR": 6
+        }
+      ]
+    },
+    {
+      "id": "pancakes",
+      "titleEn": "Pancakes",
+      "items": [
+        {
+          "id": "savory-pancakes",
+          "name": {
+            "en": "Savory pancakes"
+          },
+          "historicalPriceEUR": 8.5
+        },
+        {
+          "id": "praline-pancakes",
+          "name": {
+            "en": "Praline pancakes"
+          },
+          "historicalPriceEUR": 9
+        },
+        {
+          "id": "honey-and-walnut-pancakes",
+          "name": {
+            "en": "Honey and walnut pancakes"
+          },
+          "historicalPriceEUR": 7.5
+        }
+      ]
+    },
+    {
+      "id": "starters",
+      "titleEn": "Starters",
+      "items": [
+        {
+          "id": "pastourma-pie",
+          "name": {
+            "en": "Pastourma pie"
+          },
+          "historicalPriceEUR": 8.5
+        },
+        {
+          "id": "fried-zucchini-balls",
+          "name": {
+            "en": "Fried zucchini balls"
+          },
+          "historicalPriceEUR": 7
+        },
+        {
+          "id": "fried-zucchini",
+          "name": {
+            "en": "Fried zucchini"
+          },
+          "historicalPriceEUR": 7
+        },
+        {
+          "id": "feta-cheese",
+          "name": {
+            "en": "Feta cheese"
+          },
+          "historicalPriceEUR": 5
+        },
+        {
+          "id": "grilled-hot-pepper",
+          "name": {
+            "en": "Grilled hot pepper"
+          },
+          "historicalPriceEUR": 3.5
+        },
+        {
+          "id": "cheese-croquettes",
+          "name": {
+            "en": "Cheese croquettes"
+          },
+          "historicalPriceEUR": 7
+        }
+      ]
+    },
+    {
+      "id": "spreads",
+      "titleEn": "Spreads",
+      "items": [
+        {
+          "id": "tzatziki",
+          "name": {
+            "en": "Tzatziki"
+          },
+          "historicalPriceEUR": 5
+        },
+        {
+          "id": "cheese-spread",
+          "name": {
+            "en": "Cheese spread"
+          },
+          "historicalPriceEUR": 5
+        },
+        {
+          "id": "eggplant-salad-spread",
+          "name": {
+            "en": "Eggplant salad spread"
+          },
+          "historicalPriceEUR": 5
+        }
+      ]
+    },
+    {
+      "id": "meze",
+      "titleEn": "Meze platters",
+      "items": [
+        {
+          "id": "small-cold-cuts-and-cheese-platter",
+          "name": {
+            "en": "Small cold cuts and cheese platter"
+          },
+          "historicalPriceEUR": 10
+        },
+        {
+          "id": "large-cold-cuts-and-cheese-platter",
+          "name": {
+            "en": "Large cold cuts and cheese platter"
+          },
+          "historicalPriceEUR": 18
+        }
+      ]
+    },
+    {
+      "id": "salads",
+      "titleEn": "Salads",
+      "items": [
+        {
+          "id": "tomato-and-cucumber-salad",
+          "name": {
+            "en": "Tomato and cucumber salad"
+          },
+          "historicalPriceEUR": 8
+        },
+        {
+          "id": "greek-salad",
+          "name": {
+            "en": "Greek salad"
+          },
+          "historicalPriceEUR": 9.5
+        },
+        {
+          "id": "caesar-salad",
+          "name": {
+            "en": "Caesar salad"
+          },
+          "historicalPriceEUR": 11
+        },
+        {
+          "id": "gossip-salad",
+          "name": {
+            "en": "Gossip salad"
+          },
+          "historicalPriceEUR": 12
+        }
+      ]
+    },
+    {
+      "id": "traditional",
+      "titleEn": "Traditional dishes",
+      "items": [
+        {
+          "id": "moussaka",
+          "name": {
+            "en": "Moussaka"
+          },
+          "historicalPriceEUR": 8
+        },
+        {
+          "id": "pastitsio",
+          "name": {
+            "en": "Pastitsio"
+          },
+          "historicalPriceEUR": 8
+        },
+        {
+          "id": "stuffed-peppers-and-tomatoes-gemista",
+          "name": {
+            "en": "Stuffed peppers and tomatoes (Gemista)"
+          },
+          "historicalPriceEUR": 8
+        }
+      ]
+    },
+    {
+      "id": "mains",
+      "titleEn": "Main dishes",
+      "items": [
+        {
+          "id": "chicken-nuggets",
+          "name": {
+            "en": "Chicken nuggets"
+          },
+          "historicalPriceEUR": 10
+        },
+        {
+          "id": "pork-gyros",
+          "name": {
+            "en": "Pork gyros"
+          },
+          "historicalPriceEUR": 10
+        },
+        {
+          "id": "chicken-gyros",
+          "name": {
+            "en": "Chicken gyros"
+          },
+          "historicalPriceEUR": 11
+        },
+        {
+          "id": "pork-souvlaki",
+          "name": {
+            "en": "Pork souvlaki"
+          },
+          "historicalPriceEUR": 8.5
+        },
+        {
+          "id": "chicken-souvlaki",
+          "name": {
+            "en": "Chicken souvlaki"
+          },
+          "historicalPriceEUR": 9
+        },
+        {
+          "id": "pork-tomahawk-steak",
+          "name": {
+            "en": "Pork tomahawk steak"
+          },
+          "historicalPriceEUR": 15
+        },
+        {
+          "id": "french-fries",
+          "name": {
+            "en": "French fries"
+          },
+          "historicalPriceEUR": 5
+        }
+      ]
+    },
+    {
+      "id": "other_documented",
+      "titleEn": "Additional menu items",
+      "items": [
+        {
+          "id": "chicken-burger",
+          "name": {
+            "en": "Chicken burger"
+          }
+        },
+        {
+          "id": "cheeseburger",
+          "name": {
+            "en": "Cheeseburger"
+          }
+        },
+        {
+          "id": "club-sandwich-classic",
+          "name": {
+            "en": "Club sandwich (classic)"
+          }
+        },
+        {
+          "id": "club-sandwich-chicken",
+          "name": {
+            "en": "Club sandwich (chicken)"
+          }
+        },
+        {
+          "id": "pizza-margherita",
+          "name": {
+            "en": "Pizza Margherita"
+          }
+        },
+        {
+          "id": "gyros-pizza",
+          "name": {
+            "en": "Gyros pizza"
+          }
+        },
+        {
+          "id": "greek-pizza",
+          "name": {
+            "en": "Greek pizza"
+          }
+        },
+        {
+          "id": "fruit-salad",
+          "name": {
+            "en": "Fruit salad"
+          }
+        },
+        {
+          "id": "toast",
+          "name": {
+            "en": "Toast"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cocktails",
+      "titleEn": "Cocktails",
+      "items": [
+        {
+          "id": "cosmopolitan",
+          "name": {
+            "en": "Cosmopolitan"
+          }
+        },
+        {
+          "id": "negroni",
+          "name": {
+            "en": "Negroni"
+          }
+        },
+        {
+          "id": "margarita",
+          "name": {
+            "en": "Margarita"
+          }
+        },
+        {
+          "id": "pi-a-colada",
+          "name": {
+            "en": "Piña colada"
+          }
+        },
+        {
+          "id": "mojito",
+          "name": {
+            "en": "Mojito"
+          }
+        },
+        {
+          "id": "aperol-spritz",
+          "name": {
+            "en": "Aperol Spritz"
+          }
+        }
+      ]
+    }
+  ],
+  "sourceImagesNotRenamed": "Original filenames of the three menu screenshot files were not provided as user local filenames, so they are deliberately not referenced here."
+}

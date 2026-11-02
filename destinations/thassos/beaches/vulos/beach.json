@@ -1,0 +1,354 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-vulos",
+  "slug": "vulos",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Βούλος",
+    "international_name": "Vulos Beach",
+    "aliases": [
+      "Voulos Beach",
+      "Voulou Beach",
+      "Βούλος",
+      "Vulos"
+    ],
+    "entity_scope": "Small wild pebbly cove immediately beyond Agios Antonios / San Antonio Beach on the Cape Potos headland; geographically distinct from the organized San Antonio shoreline.",
+    "related_beach_ids": [
+      "gr-thassos-beach-san-antonio",
+      "gr-thassos-beach-potos"
+    ],
+    "deduplication_warning": "Do not merge with Agios Antonios / San Antonio or Potos Beach. Some beach directories distinguish Vulos Beach and Vulos Beach II; boundaries and separate-entity status of the latter must be reviewed before adding another record."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south / Cape Potos",
+    "settlements": [
+      "Potos"
+    ],
+    "lat": 40.6011,
+    "lng": 24.6088,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.6011%2C24.6088",
+    "coordinate_source_reference": "s_pameparalia",
+    "coordinate_type": "approximate_reference_cove_pin_not_access",
+    "coordinate_review_status": "third_party_coordinate_approximate_pending_direct_google_maps_confirmation",
+    "coordinate_provenance_note": "Coordinates 40.6011, 24.6088 obtained from Pame Paralia, NOT independently verified as a native Google Maps place pin. Google Maps URL opens these coordinates for manual verification. coordinate_source field follows existing repo validator convention; source_references gives the factual provenance.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "predominantly_pebbles_with_rocky_sections",
+    "seabed_near_shore": "stones_rocks_and_pebbles",
+    "water_entry": "rocky_uneven_use_caution",
+    "nearshore_depth": "varies_unverified_by_section",
+    "water_clarity": "usually_clear_turquoise_in_calm_conditions",
+    "wave_conditions": "weather_dependent_unprotected_rocky_cove",
+    "exposure": "small_south_coast_cove_beneath_headland",
+    "natural_shade_on_sand": "some_shade_possible_near_cliffs_and_vegetation_unreliable",
+    "beach_length_m": null,
+    "length_note": "Short, narrow cove; approximate length estimates by commercial beach directories are not adopted without consistent shoreline definition.",
+    "backdrop": "Rocky Cape Potos slopes with Mediterranean vegetation",
+    "shoreline_type": "small_wild_rocky_pebble_cove"
+  },
+  "visitor_experience": {
+    "organization": "unorganized_wild",
+    "suitable_for": [
+      "experienced_independent_travelers",
+      "nature_lovers",
+      "coastal_photography",
+      "quiet_retreat",
+      "cautious_snorkeling_in_safe_conditions"
+    ],
+    "not_recommended_for": [
+      "small_children",
+      "people_with_reduced_mobility",
+      "visitors_seeking_easy_access",
+      "visitors_needing_on_site_services"
+    ],
+    "notable_for": [
+      "secluded_cove_feeling",
+      "clear_water",
+      "rocky_coastline",
+      "pebbles",
+      "cape_potos_scenery"
+    ],
+    "activities_possible": [
+      "scenic_observation",
+      "swimming_when_safe",
+      "snorkeling_when_safe",
+      "coastal_photography"
+    ],
+    "estimated_crowd_peak": "usually_quieter_than_nearby_organized_beaches_not_private",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Steep unsafe land descent reported; do not recommend unassisted scrambling or sea access by swimming as a general visitor route. Rock and sea-urchin hazards may be present. No lifeguard or rescue services verified."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": false,
+      "seasonal": false
+    },
+    "umbrellas": {
+      "available_in_some_sections": false,
+      "seasonal": false
+    },
+    "toilets": {
+      "available_in_some_sections": false,
+      "note": "No toilets at Vulos itself; services at nearby San Antonio are distinct."
+    },
+    "showers": {
+      "available_in_some_sections": false
+    },
+    "changing_rooms": {
+      "available_in_some_sections": false,
+      "requires_site_check": false
+    },
+    "beach_bars": false,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": null,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": false,
+    "volleyball": false,
+    "accommodation_nearby": true,
+    "lifeguard": false,
+    "lifeguard_note": "No lifeguard service identified for this unorganized cove; reconfirm before publication.",
+    "wheelchair_beach_access": false,
+    "wheelchair_access_note": "Steep and irregular terrain is not suitable for accessible beach entry.",
+    "free_unserviced_space": true,
+    "facilities_scope": "No organized facilities at the cove. Nearby amenities belong to San Antonio / Potos and should not be represented as on-site."
+  },
+  "access_and_cost": {
+    "road_access": "rough_gravel_road_on_headland_no_safe_direct_road_to_beach_confirmed",
+    "public_transport": "to_potos_area_only_no_direct_service_to_cove_verified",
+    "parking_type": "no_dedicated_parking_confirmed",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "No sunbed service reported at Vulos.",
+    "best_arrival_advice": "Assess safe access on site in daylight; do not attempt the steep slope without an established safe route. Choose San Antonio for an easily accessible alternative.",
+    "distance_from_limenas_km": null,
+    "distance_note": "No exact driving route: a map pin to the cove is not a verified pedestrian or vehicle approach.",
+    "access_safety_warning": "Some sources mention descending with ropes or swimming from San Antonio; these are NOT recommended routine access methods and are potentially hazardous."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, waves, UV or occupancy into records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Vulos Beach (Voulos)",
+      "tagline": "Un golf sălbatic, cu apă turcoaz, ascuns lângă Potos",
+      "summary": "Un golf mic și neamenajat, pe promontoriul de lângă San Antonio Beach, în apropiere de Potos. Vulos atrage prin pietricele, stânci și apă limpede, dar coborârea dificilă și lipsa facilităților îl fac mai potrivit pentru vizitatorii experimentați.",
+      "description": "Vulos Beach este un mic golf sălbatic de pe coasta sudică a insulei Thassos, la marginea promontoriului care începe după San Antonio Beach, lângă Potos. În contrast cu plajele amenajate din apropiere, aici peisajul este dominat de pietricele, stânci, vegetație mediteraneană și nuanțe intense de turcoaz. Țărmul este îngust, iar sub apă pot apărea pietre și bolovani, astfel încât încălțămintea de apă este o alegere practică. Tocmai caracterul neamenajat oferă locului o atmosferă diferită, potrivită pentru admirarea peisajului și, atunci când condițiile permit, pentru înot sau explorare cu mască. Totuși, Vulos nu este o plajă la care ajungi simplu de pe șosea: accesul pe uscat presupune o coborâre abruptă și nesigură în anumite puncte, fără un traseu oficial confirmat. Nu sunt disponibile servicii pe plajă, iar vizitatorii trebuie să își aducă apă și celelalte lucruri necesare. Dacă preferi un loc cu acces comod, facilități sau o intrare în apă mai prietenoasă pentru copii, San Antonio este alternativa apropiată. Vulos merită privită ca o mică descoperire naturală, nu ca o plajă obișnuită de familie.",
+      "practical_tips": "Nu presupune că poți coborî în siguranță de pe drumul de deasupra golfului: terenul este abrupt și poate fi alunecos sau instabil. Nu încerca scurtături pe stânci ori traversări înot fără pregătire, însoțitor și condiții maritime sigure. Poartă încălțăminte de apă și ia apă potabilă; nu există șezlonguri, dușuri, toalete sau punct de vânzare pe plajă. Verifică vântul și valurile înainte de orice activitate în mare și evită locul dacă ești cu copii mici sau ai mobilitate redusă.",
+      "highlights": [
+        "Golf mic și neamenajat lângă San Antonio",
+        "Pietricele, stânci și apă turcoaz",
+        "Peisaj natural cu vegetație pe versant",
+        "Atmosferă mai retrasă decât pe plajele organizate",
+        "Acces dificil și lipsa facilităților"
+      ],
+      "seo_title": "Vulos Beach Thassos – golf sălbatic lângă Potos, acces și sfaturi",
+      "seo_description": "Descoperă Vulos Beach din Thassos: golf cu pietricele și apă limpede lângă San Antonio, acces dificil, fără facilități și recomandări de siguranță.",
+      "social_caption": "🌊 Vulos Beach, Thassos: un mic golf sălbatic cu pietricele și apă turcoaz, ascuns lângă San Antonio. 🪨 Spectaculos pentru iubitorii de natură, dar accesul este dificil și nu există facilități. Salvează-l pentru documentarea viitoarei vacanțe! 🇬🇷 #Thassos #VulosBeach #HiddenThassos",
+      "photo_alt": "Golful sălbatic Vulos Beach de lângă Potos, cu țărm de pietricele, stânci și apă turcoaz."
+    },
+    "en": {
+      "name": "Vulos Beach (Voulos)",
+      "tagline": "A tiny wild cove of turquoise water beyond San Antonio",
+      "summary": "A small, unserviced cove on the headland beside San Antonio Beach near Potos. Its pebbles, rocky scenery and clear water are appealing, but the difficult descent and lack of amenities make it better suited to experienced visitors.",
+      "description": "Vulos Beach is a small, wild cove on the southern coast of Thassos, tucked into the headland just beyond San Antonio Beach near Potos. Unlike the organized stretches nearby, its appeal lies in a narrow pebbly shore, rocky edges, Mediterranean vegetation and remarkably clear-looking turquoise water. Stones and submerged rocks can make entering the sea less comfortable, so water shoes are sensible. This is a place for enjoying a quieter natural setting and, when conditions are suitable, swimming or looking beneath the surface with a mask. Its remote feeling should not be mistaken for easy access, however: reaching the cove from the land above involves a steep, potentially unsafe descent, and no established safe public access route has been independently confirmed. There are no loungers, beach bars or beachside services, so bring drinking water and anything else you require. Visitors looking for easy entry, facilities or a child-friendly beach day should consider nearby San Antonio instead. Vulos is best appreciated as a striking natural coastal spot rather than a conventional, fully equipped beach.",
+      "practical_tips": "Do not assume that the slope above the cove is safe to descend: it can be steep, slippery or unstable. Avoid improvised scrambling and do not attempt to swim to the cove without suitable ability, accompaniment and verified safe sea conditions. Wear water shoes, bring drinking water and do not expect toilets, showers, loungers or food service. Check wind and waves before entering the water. This location is not a good choice for small children or visitors with limited mobility.",
+      "highlights": [
+        "Small natural cove near San Antonio",
+        "Pebbles, rocks and turquoise water",
+        "Mediterranean vegetation on the headland",
+        "Quieter atmosphere than organized beaches",
+        "Difficult access and no on-site amenities"
+      ],
+      "seo_title": "Vulos Beach Thassos – wild cove near Potos, access and tips",
+      "seo_description": "Explore Vulos Beach in Thassos: a wild pebbly cove near San Antonio, turquoise water, difficult access, no facilities and essential safety advice.",
+      "social_caption": "🌊 Vulos Beach, Thassos: a tiny wild cove of pebbles, rocks and turquoise water near San Antonio. 🪨 Beautiful but not an easy-access beach—there are no facilities and the descent is difficult. Save it for your island research! 🇬🇷 #Thassos #VulosBeach #ExploreThassos",
+      "photo_alt": "Wild Vulos Beach cove near Potos on Thassos, with pebbles, rocky edges and turquoise water."
+    },
+    "el": {
+      "name": "Παραλία Βούλος (Vulos)",
+      "tagline": "Ένας μικρός άγριος κολπίσκος με τιρκουάζ νερά κοντά στον Ποτό",
+      "summary": "Μικρός, μη οργανωμένος όρμος στο ακρωτήρι δίπλα στην παραλία Άγιος Αντώνιος, κοντά στον Ποτό. Τα βότσαλα, τα βράχια και τα διαυγή νερά ξεχωρίζουν, όμως η δύσκολη κατάβαση και η απουσία παροχών απαιτούν ιδιαίτερη προσοχή.",
+      "description": "Η παραλία Βούλος είναι ένας μικρός φυσικός κολπίσκος στη νότια ακτή της Θάσου, στο ακρωτήρι αμέσως μετά την παραλία του Αγίου Αντωνίου, κοντά στον Ποτό. Σε αντίθεση με τις οργανωμένες παραλίες της περιοχής, εδώ κυριαρχούν τα βότσαλα, τα βραχώδη σημεία, η μεσογειακή βλάστηση και οι γαλαζοπράσινες αποχρώσεις της θάλασσας. Η ακτή είναι στενή και στον βυθό υπάρχουν πέτρες και βράχια, γι’ αυτό τα παπούτσια θαλάσσης είναι χρήσιμα. Το τοπίο προσφέρεται για ήρεμη παρατήρηση της φύσης και, εφόσον οι συνθήκες είναι ασφαλείς, για κολύμπι ή εξερεύνηση με μάσκα. Η πρόσβαση, ωστόσο, δεν είναι εύκολη: η κατάβαση από την πλευρά της ξηράς είναι απότομη και σε ορισμένα σημεία μπορεί να είναι επικίνδυνη, ενώ δεν έχει επαληθευτεί επίσημη ασφαλής διαδρομή για το κοινό. Στην παραλία δεν υπάρχουν ξαπλώστρες, καντίνα ή άλλες οργανωμένες υπηρεσίες. Όσοι επιθυμούν πιο άνετη πρόσβαση και εγκαταστάσεις μπορούν να επιλέξουν τον κοντινό Άγιο Αντώνιο. Ο Βούλος είναι μια όμορφη φυσική γωνιά, αλλά όχι μια συμβατική παραλία κατάλληλη για κάθε επισκέπτη.",
+      "practical_tips": "Μην θεωρείτε δεδομένο ότι η πλαγιά προς τον όρμο είναι ασφαλής για κατάβαση: το έδαφος μπορεί να είναι απότομο, γλιστερό ή ασταθές. Αποφύγετε αυτοσχέδιες καταβάσεις και κολύμπι προς τον όρμο χωρίς τις απαραίτητες δεξιότητες, συνοδεία και κατάλληλες συνθήκες. Φορέστε παπούτσια θαλάσσης και πάρτε νερό. Δεν υπάρχουν τουαλέτες, ντους, ξαπλώστρες ή φαγητό. Ελέγχετε τον άνεμο και τα κύματα. Δεν ενδείκνυται για μικρά παιδιά ή άτομα με περιορισμένη κινητικότητα.",
+      "highlights": [
+        "Μικρός φυσικός όρμος κοντά στον Άγιο Αντώνιο",
+        "Βότσαλα, βράχια και γαλαζοπράσινα νερά",
+        "Μεσογειακή βλάστηση στο ακρωτήρι",
+        "Πιο ήσυχη ατμόσφαιρα από τις οργανωμένες παραλίες",
+        "Δύσκολη πρόσβαση χωρίς οργανωμένες παροχές"
+      ],
+      "seo_title": "Παραλία Βούλος Θάσος – άγριος όρμος, πρόσβαση και συμβουλές",
+      "seo_description": "Γνωρίστε τον Βούλο στη Θάσο: φυσικός όρμος με βότσαλα κοντά στον Ποτό και τον Άγιο Αντώνιο, δύσκολη πρόσβαση και χρήσιμες πληροφορίες.",
+      "social_caption": "🌊 Βούλος, Θάσος: ένας μικρός άγριος κολπίσκος με βότσαλα, βράχια και τιρκουάζ νερά κοντά στον Άγιο Αντώνιο. 🪨 Η πρόσβαση είναι απαιτητική και δεν υπάρχουν παροχές. 🇬🇷 #Θάσος #Βούλος #ΠαραλίεςΘάσου",
+      "photo_alt": "Ο φυσικός όρμος Βούλος κοντά στον Ποτό της Θάσου, με βότσαλα, βραχώδεις άκρες και τιρκουάζ νερά."
+    },
+    "de": {
+      "name": "Vulos Beach (Voulos)",
+      "tagline": "Eine kleine naturbelassene Bucht mit türkisfarbenem Wasser bei Potos",
+      "summary": "Eine kleine, unbewirtschaftete Bucht auf der Landzunge neben dem Strand Agios Antonios bei Potos. Kiesel, Felsen und klares Wasser prägen den Ort; der schwierige Abstieg und die fehlende Ausstattung erfordern jedoch Erfahrung und Vorsicht.",
+      "description": "Vulos Beach ist eine kleine naturbelassene Bucht an der Südküste von Thassos, auf der Landzunge gleich hinter Agios Antonios bei Potos. Statt der organisierten Liegebereiche der Nachbarstrände findet man hier einen schmalen Kieselstreifen, Felsen, mediterrane Vegetation und eindrucksvoll türkisfarbenes Wasser. Im Meer liegen Steine und teilweise größere Felsen, weshalb Badeschuhe empfehlenswert sind. Die ruhige, ursprüngliche Umgebung eignet sich zum Genießen der Küstenlandschaft und bei passenden Bedingungen auch zum Schwimmen oder Schnorcheln. Der Zugang ist jedoch nicht unkompliziert: Von der Landseite führt ein steiler, stellenweise möglicherweise gefährlicher Abstieg zur Bucht. Ein offiziell gesicherter öffentlicher Zugang konnte nicht unabhängig bestätigt werden. Vor Ort gibt es weder Liegen noch Strandbar oder andere Dienstleistungen. Besucher sollten Trinkwasser und alles Nötige selbst mitnehmen. Wer mit Kindern unterwegs ist oder einen bequem erreichbaren Strand mit Einrichtungen sucht, ist am benachbarten Agios Antonios besser aufgehoben. Vulos ist ein besonderes Naturziel, aber kein klassischer Familienstrand.",
+      "practical_tips": "Die Böschung oberhalb der Bucht kann steil, rutschig oder instabil sein. Nicht ohne sichere Wegkenntnis über Felsen absteigen und nicht ohne ausreichende Erfahrung, Begleitung und günstige Seebedingungen zur Bucht schwimmen. Badeschuhe und Trinkwasser mitnehmen; Toiletten, Duschen, Sonnenliegen und Gastronomie gibt es nicht. Vor dem Baden Wind und Wellengang prüfen. Für kleine Kinder und Menschen mit eingeschränkter Mobilität nicht geeignet.",
+      "highlights": [
+        "Kleine naturbelassene Bucht bei Agios Antonios",
+        "Kiesel, Felsen und türkisfarbenes Wasser",
+        "Mediterrane Vegetation am Kap",
+        "Ruhiger als die bewirtschafteten Nachbarstrände",
+        "Schwieriger Zugang ohne Ausstattung"
+      ],
+      "seo_title": "Vulos Beach Thassos – wilde Bucht bei Potos und Zugang",
+      "seo_description": "Vulos Beach auf Thassos: kleine Kieselbucht bei Agios Antonios, klares Wasser, anspruchsvoller Zugang, keine Strandservices und praktische Hinweise.",
+      "social_caption": "🌊 Vulos Beach auf Thassos: eine kleine wilde Bucht mit Kieseln, Felsen und türkisfarbenem Wasser nahe Agios Antonios. 🪨 Der Zugang ist schwierig und es gibt keine Ausstattung. 🇬🇷 #Thassos #VulosBeach #Griechenland",
+      "photo_alt": "Naturbelassene Bucht Vulos bei Potos auf Thassos mit Kieseln, Felsen und türkisfarbenem Meer."
+    },
+    "bg": {
+      "name": "Плаж Вулос (Vulos)",
+      "tagline": "Малък див залив с тюркоазена вода край Потос",
+      "summary": "Малък, неорганизиран залив на носа до плажа Агиос Антониос, близо до Потос. Камъчетата, скалите и прозрачната вода са красиви, но трудното спускане и липсата на удобства изискват повишено внимание.",
+      "description": "Плаж Вулос е малък див залив по южния бряг на Тасос, скрит на носа непосредствено след плажа Агиос Антониос, близо до Потос. За разлика от съседните организирани плажове, тук преобладават тесен бряг с камъчета, скални участъци, средиземноморска растителност и наситено тюркоазена вода. По дъното има камъни и скали, затова обувките за вода са добра идея. Мястото предлага по-спокойно и естествено усещане, подходящо за любителите на красиви крайбрежни гледки, а при безопасни условия и за плуване или наблюдение на подводния свят с маска. Достъпът по суша обаче не е лесен: към брега се слиза по стръмен склон, който на места може да е опасен, а официален безопасен обществен маршрут не е потвърден. Няма шезлонги, плажен бар или обслужване, така че трябва да носите вода и всички необходими принадлежности. За семейства с малки деца и за хора, които предпочитат лесен достъп и удобства, близкият Агиос Антониос е по-подходящ избор. Вулос е красиво природно кътче, но не и стандартен оборудван плаж.",
+      "practical_tips": "Не приемайте, че спускането от пътя е безопасно: склонът е стръмен и може да бъде хлъзгав или нестабилен. Избягвайте импровизирано катерене и плуване до залива без опит, придружител и проверени безопасни морски условия. Носете обувки за вода, питейна вода и всичко необходимо; няма тоалетни, душове, шезлонги или заведение. Проверявайте вятъра и вълните. Мястото не е подходящо за малки деца или хора с ограничена подвижност.",
+      "highlights": [
+        "Малък естествен залив до Агиос Антониос",
+        "Камъчета, скали и тюркоазена вода",
+        "Средиземноморска растителност",
+        "По-спокойно от организираните плажове",
+        "Труден достъп и липса на удобства"
+      ],
+      "seo_title": "Плаж Вулос, Тасос – див залив край Потос и достъп",
+      "seo_description": "Открийте Вулос на Тасос: малък каменист залив близо до Агиос Антониос, бистра вода, труден достъп и важни практически съвети.",
+      "social_caption": "🌊 Плаж Вулос, Тасос: малък див залив с камъчета, скали и тюркоазена вода близо до Агиос Антониос. 🪨 Достъпът е труден, а удобства няма. 🇬🇷 #Тасос #VulosBeach #Гърция",
+      "photo_alt": "Дивият залив Вулос край Потос на остров Тасос, с камъчета, скали и прозрачна тюркоазена вода."
+    },
+    "sr": {
+      "name": "Vulos Beach (Vulos plaža)",
+      "tagline": "Mala divlja uvala sa tirkiznom vodom blizu Potosa",
+      "summary": "Mala neuređena uvala na rtu pored plaže Agios Antonios, blizu Potosa. Šljunak, stene i bistra voda čine je upečatljivom, ali strm prilaz i odsustvo sadržaja zahtevaju poseban oprez.",
+      "description": "Plaža Vulos je mala, divlja uvala na južnoj obali Tasosa, na rtu odmah iza plaže Agios Antonios, nedaleko od Potosa. Za razliku od uređenih plaža u okolini, ovde dominiraju uzak šljunkoviti pojas, stene, mediteransko rastinje i intenzivne tirkizne nijanse mora. Na morskom dnu ima kamenja i većih stena, pa su patike za vodu praktične. Ambijent je mirniji i prirodniji, pogodan za uživanje u priobalnom pejzažu, a kada su uslovi bezbedni i za plivanje ili posmatranje podvodnog sveta maskom. Međutim, prilaz sa kopna nije jednostavan: spuštanje do uvale je strmo i na pojedinim mestima može biti opasno, a zvanično obezbeđena javna staza nije nezavisno potvrđena. Na samoj plaži nema ležaljki, barova ni drugih usluga. Potrebno je poneti pijaću vodu i sve što vam treba. Ako putujete sa malom decom ili želite udoban prilaz i sadržaje, obližnja plaža Agios Antonios je prikladniji izbor. Vulos je atraktivno prirodno mesto, ali ne i klasična porodična plaža.",
+      "practical_tips": "Nemojte pretpostaviti da je spuštanje niz padinu bezbedno: teren može biti strm, klizav i nestabilan. Izbegavajte improvizovano spuštanje preko stena i plivanje do uvale bez odgovarajućeg iskustva, pratnje i proverenih bezbednih uslova na moru. Ponesite obuću za vodu i pijaću vodu; nema toaleta, tuševa, ležaljki ni hrane. Proverite vetar i talase. Nije preporučljivo za malu decu i osobe sa otežanim kretanjem.",
+      "highlights": [
+        "Mala prirodna uvala pored Agios Antoniosa",
+        "Šljunak, stene i tirkizna voda",
+        "Mediteransko rastinje na rtu",
+        "Mirnija od organizovanih susednih plaža",
+        "Težak prilaz i bez sadržaja"
+      ],
+      "seo_title": "Vulos Beach Tasos – divlja uvala kraj Potosa i prilaz",
+      "seo_description": "Upoznajte plažu Vulos na Tasosu: šljunkovita uvala pored Agios Antoniosa, bistra voda, težak prilaz, bez sadržaja i praktični saveti.",
+      "social_caption": "🌊 Vulos Beach na Tasosu: mala divlja uvala sa šljunkom, stenama i tirkiznom vodom kraj Agios Antoniosa. 🪨 Prilaz je zahtevan i nema uređenih sadržaja. 🇬🇷 #Tasos #VulosBeach #Grcka",
+      "photo_alt": "Mala prirodna uvala Vulos kod Potosa na Tasosu, sa šljunkom, stenama i tirkiznom vodom."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/vulos/images/vulos1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/vulos/images/vulos2.webp",
+      "destinations/thassos/beaches/vulos/images/vulos3.webp",
+      "destinations/thassos/beaches/vulos/images/vulos4.webp",
+      "destinations/thassos/beaches/vulos/images/vulos5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/vulos/images/",
+    "suggested_asset_names": [
+      "vulos1.webp",
+      "vulos2.webp",
+      "vulos3.webp",
+      "vulos4.webp",
+      "vulos5.webp"
+    ],
+    "image_policy": "Five local user-designated WebP paths are configured from filenames visible in the provided screenshot. Before publication, verify that every image depicts the exact Vulos cove near Cape Potos (not nearby San Antonio or another rocky inlet), document its provenance, confirm commercial publication and transfer rights, and include attribution where required. The image binaries were not supplied with this JSON.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_staythassos",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos – Best Quiet Beaches in Thassos (Vulos)",
+      "url": "https://staythassos.gr/best-quiet-beaches-in-thassos/",
+      "detail": "Locates Vulos next to San Antonio near Potos; identifies pebbles, turquoise water, steep descent or access by sea and absence of organized amenities. Published May 23, 2026.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_pameparalia",
+      "kind": "geographic_beach_guide",
+      "title": "Pame Paralia – Vulos, location and features",
+      "url": "https://pameparalia.com/beach/vulos-mainland",
+      "detail": "Map location 40.6011 N, 24.6088 E, rocky shore, difficult approach, no facilities. Source of the approximate coordinates, NOT Google Maps itself.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachsearcher",
+      "kind": "beach_directory",
+      "title": "BeachSearcher – Vulos Beach",
+      "url": "https://beaches-searcher.com/en/beach/300207137/vulos-beach",
+      "detail": "Small pebbly/rocky cove, water shoes, cliffs and natural conditions; difficulties of final approach; on-page photo references are not licensed assets.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_gigaplaces",
+      "kind": "travel_report",
+      "title": "Gigaplaces – Walk to Cape Potos",
+      "url": "https://www.gigaplaces.com/en/article-walk-to-cape-potos/",
+      "detail": "Firsthand walk with overview of Vulos, describing steep descent and scenery beyond San Antonio. Photos are copyright-protected unless permission granted.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover_san_antonio",
+      "kind": "travel_guide",
+      "title": "Discover Thassos – Agios Antonios Beach",
+      "url": "https://www.discover-thassos.com/listing/agios-antonios-beach-thassos/",
+      "detail": "Positions San Antonio adjacent to Vulos; organized San Antonio facilities should not be assigned to Vulos.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_gigaplaces_list",
+      "kind": "travel_guide",
+      "title": "Gigaplaces – Most beautiful beaches on Thassos",
+      "url": "https://www.gigaplaces.com/en/gigalist-the-most-beautiful-beaches-on-thassos/",
+      "detail": "Lists Vulos separately, describes access as very difficult from land, small coastal rock cave nearby. Do not treat cave as safe visitor attraction.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm the exact cove and Google Maps pin; map coordinates are from Pame Paralia",
+      "Verify whether any safe public land access exists before recommending directions",
+      "Check status of possible secondary Vulos II cove to prevent duplicate records",
+      "Verify vulos1.webp through vulos5.webp depict the precise Vulos cove (not San Antonio or Vulos II), and confirm original image ownership, geographic provenance, commercial reuse/transfer rights and required attribution.",
+      "Confirm no seasonal equipment or access changes",
+      "Native-speaker review of all translations before public release"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial content retained; five local image references configured, but image files, geographic provenance and commercial/transfer rights have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths were assigned based on the user screenshot; this JSON does not embed the images. Exact beach identity and publication rights have not been independently verified."
+  }
+}

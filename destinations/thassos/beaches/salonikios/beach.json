@@ -1,0 +1,420 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-salonikios",
+  "slug": "salonikios",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Σαλονικιός",
+    "international_name": "Salonikios Beach",
+    "aliases": [
+      "Saloníkios",
+      "Salonikios",
+      "Salonikios Beach Thassos",
+      "Salonikios Beach Astris",
+      "Σαλονικιός",
+      "Παραλία Σαλονικιού",
+      "Akti Salonikiou (Thassos)"
+    ],
+    "entity_scope": "One small beach cove on the southern/south-western tip of Thassos near Astris (Astrida); beach facilities and rocky flanks are parts of the same beach, not additional beach records.",
+    "deduplication_warning": "Do not confuse Salonikios Beach on Thassos with Salonikiou/Salonikiou Beach in Sithonia, Halkidiki, or with a similarly named restaurant in Skala Potamia. Astris Beach and Psili Ammos remain separate records; bar names within Salonikios are service POIs, not different beaches."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south / southwest-facing small cove",
+    "settlements": [
+      "Astris (Astrida)",
+      "Potos"
+    ],
+    "lat": 40.5717111628413,
+    "lng": 24.643530745831747,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.5717111628413%2C24.643530745831747",
+    "coordinate_source_reference": "s_google_directions",
+    "coordinate_type": "beach_area_reference_not_road_entrance_or_parking",
+    "coordinate_review_status": "Google Maps destination URL extracted from a cited beach-guide directions link and concordant with independent mapped beach coordinates; a separate MyThassos directions link points approximately 0.4 km north; physically verify chosen beach and vehicle-access pins before publishing navigation.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "coarse_golden_reddish_sand_and_small_pebbles",
+    "seabed_near_shore": "mixed_sand_pebbles_rock_plates_and_stones_variable_by_section",
+    "water_entry": "varies_shallower_in_sections_rocky_in_others",
+    "nearshore_depth": "variable_shallow_to_moderate_locally_steeper_near_rocks",
+    "water_clarity": "often_clear_weather_dependent",
+    "wave_conditions": "exposed_to_wind_and_weather; calm_periods_more_sheltered",
+    "exposure": "small_south_to_southwest_facing_cove_with_rocky_edges",
+    "natural_shade_on_sand": "partial_from_pine_trees_at_back_and_ends_not_guaranteed_everywhere",
+    "beach_length_m": null,
+    "length_note": "An older guide reports around 90 m of beach, but mapping boundaries and visitor guides differ; no definitive measured length stored.",
+    "backdrop": "pine_tree_covered_hillside_light_colored_rocks_and_boulder_outcrops",
+    "shoreline_type": "small_secluded_mixed_sand_pebble_cove"
+  },
+  "visitor_experience": {
+    "organization": "mixed_seasonally_organized_and_free_space",
+    "suitable_for": [
+      "couples",
+      "swimmers",
+      "snorkelers",
+      "nature_lovers",
+      "photographers",
+      "sunset_watching",
+      "families_with_appropriate_supervision_and_footwear"
+    ],
+    "notable_for": [
+      "reddish_golden_sand",
+      "pine_shade",
+      "rocky_snorkeling",
+      "clear_water",
+      "westward_sunset_views",
+      "remote_feel",
+      "unpaved_access"
+    ],
+    "activities_possible": [
+      "swimming",
+      "snorkeling",
+      "sunbathing",
+      "coastal_photography",
+      "sunset_watching",
+      "short_rocky_shore_exploration"
+    ],
+    "estimated_crowd_peak": "often_quieter_than_major_resort_beaches_but_small_cove_and_seasonal_bar_can_get_busy",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Mixed rock and pebble seabed may be slippery; sea urchins can occur around rocks. Water shoes and careful entry are sensible. Depth and waves change by spot and weather. Check the unpaved access road before driving; do not assume family, wheelchair or emergency-vehicle access."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Listed by Go Thassos and MyThassos, likely provided by seasonal operators; opening/current availability not verified."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "Go Thassos and MyThassos list showers, while the 2026 Nikana guide says none; inspect current setup before representing as confirmed."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": null,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No independently verified continuous lifeguard staffing or specific operating dates.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Unpaved and possibly rough access road plus beach terrain; verified accessible entry or beach equipment not found.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Small cove with seasonal operator services, not a standardized municipal amenity package. Contradictory published reports on shower availability and road condition; reconfirm on site in season."
+  },
+  "access_and_cost": {
+    "road_access": "turn_from_astris_area_to_unpaved_dirt_road_conditions_variable",
+    "public_transport": "no_direct_beach_bus_service_verified; public bus would not bypass dirt road",
+    "parking_type": "informal_open_area_near_beach_reported; spaces_limited_and_unverified",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "No current, verifiable standard price for loungers. Seasonal operators may apply fees or minimum orders; ask on arrival.",
+    "best_arrival_advice": "Check whether the dirt road suits your vehicle, avoid attempting it in poor conditions, bring water and suitable footwear, and arrive earlier during busy summer days. Sunset is a scenic option if you have a safe way back after dark.",
+    "distance_from_limenas_km": null,
+    "distance_note": "MyThassos estimates about 7 km from Potos and about 46 km from Limenas. Dirt-road length is described differently across sources (about 0.8–3 km), and depends on the chosen turnoff; verify route rather than relying on one fixed figure."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Salonikios Beach (Σαλονικιός)",
+      "tagline": "Nisip roșcat, pini până la mare și apusuri peste un golf ascuns",
+      "summary": "Un golfuleț retras în sudul insulei Thassos, în zona Astris, unde nisipul auriu-roșcat se întâlnește cu pietricele, stânci deschise la culoare și pini. Salonikios atrage mai ales pentru apă limpede, snorkeling și atmosfera mai intimă, dar accesul presupune un drum de pământ.",
+      "description": "Salonikios este una dintre acele plaje din Thassos pentru care drumul face parte din experiență. Ascunsă dincolo de zona Astris, în apropierea extremității sudice a insulei, mica întindere de nisip auriu cu nuanțe roșcate este încadrată de stânci deschise la culoare și de pini care coboară aproape până la apă. Golful are un farmec natural aparte: apa este adesea limpede, iar pe lângă marginile stâncoase se pot observa detalii interesante ale fundului marin cu mască de snorkeling. Țărmul nu este uniform. Nisipul mai grunjos și pietricelele alternează, iar în apă apar pietre și plăci de rocă; de aceea este bine să alegi atent locul de intrare și să folosești încălțăminte de apă. În sezon pot funcționa un beach bar și sectoare cu umbrele și șezlonguri, rămânând și spațiu pentru propriul prosop. Atmosfera poate fi liniștită dimineața și mai animată în apropierea muzicii de la bar. Pinilor le datorăm unele pete de umbră naturală, fără ca întreaga plajă să fie umbrită. Un motiv special să rămâi până spre seară este priveliștea la apus, când lumina caldă scoate în evidență culorile nisipului și ale stâncilor.",
+      "practical_tips": "Din zona Astris, urmează indicatoarele și un drum neasfaltat; lungimea și starea lui diferă după traseu și condițiile recente. Verifică dacă mașina ta este potrivită, mai ales după ploi, și nu presupune că există o rută de transport public până pe nisip. Ajungi mai confortabil cu încălțăminte rezistentă și îți vor fi utili papucii de apă pentru pietrele din mare. Ia apă, protecție solară și, pentru zonele fără servicii, umbrela proprie. Toaletele și dușurile nu trebuie considerate garantate: informațiile despre ele sunt contradictorii și depind de sezon. Pentru fotografii și apus, planifică întoarcerea pe lumină sau pregătește o deplasare sigură pe drumul de pământ.",
+      "highlights": [
+        "Nisip cu nuanțe aurii și roșcate",
+        "Pini și umbră naturală în unele zone",
+        "Stânci și apă limpede pentru snorkeling",
+        "Plajă mică, parțial amenajată sezonier",
+        "Apusuri deosebite spre mare"
+      ],
+      "seo_title": "Salonikios Beach Thassos – acces, snorkeling și apus",
+      "seo_description": "Descoperă Salonikios Beach, lângă Astris în Thassos: nisip roșcat, pini, snorkeling, drum de pământ, facilități sezoniere și sfaturi practice.",
+      "social_caption": "🌅 Salonikios, Thassos: nisip roșcat, pini aproape de mare și stânci perfecte pentru explorat cu mască. 🌊 Drumul de pământ cere puțină atenție, dar peisajul de la apus merită descoperit. 🇬🇷 #Thassos #Salonikios #DiscoverThassos",
+      "photo_alt": "Golful Salonikios din Thassos, cu nisip roșcat, pini la marginea plajei, stânci și mare limpede."
+    },
+    "en": {
+      "name": "Salonikios Beach",
+      "tagline": "Reddish sand, seaside pines and sunsets in a hidden cove",
+      "summary": "A small and secluded beach near Astris on the southern tip of Thassos. Salonikios combines warm-toned sand, pebbles, rocky edges and pine trees, drawing visitors for clear-water snorkeling and sunset views. Reaching the shore involves an unpaved access road.",
+      "description": "Salonikios is the kind of Thassos beach where getting there is part of the adventure. Tucked away beyond Astris near the island’s southern tip, this compact cove brings together golden-reddish sand, small pebbles, pale coastal rocks and pines that reach almost to the water. The backdrop feels especially natural, while the often clear sea invites a closer look at the rocky edges with a snorkel mask. The shoreline is not uniformly soft or shallow: coarse sand and pebbles mix underfoot, and submerged stones or rock shelves can make entry awkward in places. Choose your swimming spot carefully and consider water shoes, especially if you want to explore near the rocks. During the summer, a beach bar and serviced areas with loungers and umbrellas may be available, alongside some open space for visitors who bring their own equipment. At quieter times the cove can feel far removed from the large resort beaches; when music is playing near the bar, the atmosphere changes. Pine trees provide partial natural shade toward the back and sides, but not over every part of the sand. Salonikios is also known for its lovely sunset aspect, when warm light intensifies the color of the shore and stone.",
+      "practical_tips": "Follow the marked turnoff from the Astris area onto an unpaved track. Guides disagree about its exact length and quality, so check current conditions and whether your vehicle is suitable, especially after rain. No direct public bus access to the beach has been verified. Pack drinking water, sun protection and sturdy shoes, as well as water shoes if you plan to snorkel around the rocks. Toilet and shower information conflicts between published guides; do not rely on either being available on your visit. Lounger services and prices are seasonal. If you plan to enjoy the sunset, arrange a safe return along the dirt road after dark.",
+      "highlights": [
+        "Distinctive golden-red sand and small pebbles",
+        "Pines offering partial natural shade",
+        "Rocky edges for snorkeling in clear water",
+        "Small cove with seasonal beach service",
+        "Beautiful sea-facing sunsets"
+      ],
+      "seo_title": "Salonikios Beach Thassos – access, snorkeling and sunset guide",
+      "seo_description": "Explore Salonikios Beach near Astris, Thassos: reddish sand, seaside pines, snorkeling, an unpaved access road and practical seasonal facility tips.",
+      "social_caption": "🌅 Salonikios, Thassos: a pocket-sized cove with reddish sand, pines by the water and rocky corners made for snorkeling. 🌊 Check the dirt-road access, and stay for the golden light at sunset. 🇬🇷 #Thassos #Salonikios #GreekIslands",
+      "photo_alt": "Salonikios Beach cove on Thassos with reddish sand, pine trees, light-colored rocks and clear blue sea."
+    },
+    "el": {
+      "name": "Παραλία Σαλονικιού (Σαλονικιός)",
+      "tagline": "Κοκκινωπή άμμος, πεύκα δίπλα στο κύμα και όμορφα ηλιοβασιλέματα",
+      "summary": "Ένας μικρός και σχετικά απομονωμένος όρμος κοντά στην Αστρίδα, στο νότιο άκρο της Θάσου. Ο Σαλονικιός ξεχωρίζει για τη χρυσοκόκκινη άμμο, τα βότσαλα, τους βράχους και τα πεύκα, ενώ προσελκύει όσους αγαπούν το κολύμπι, το snorkeling και το ηλιοβασίλεμα. Η πρόσβαση γίνεται από χωματόδρομο.",
+      "description": "Ο Σαλονικιός είναι μια από τις παραλίες της Θάσου όπου η διαδρομή αποτελεί μέρος της εμπειρίας. Κρυμμένος πέρα από την περιοχή της Αστρίδας, κοντά στο νότιο άκρο του νησιού, ο μικρός όρμος συνδυάζει χρυσοκόκκινη άμμο, λεπτά βότσαλα, ανοιχτόχρωμα βράχια και πεύκα που φτάνουν σχεδόν μέχρι τη θάλασσα. Το φυσικό τοπίο δημιουργεί μια διαφορετική αίσθηση από τις μεγάλες, πολυσύχναστες παραλίες. Τα νερά είναι συχνά διαυγή και τα βραχώδη άκρα προσφέρονται για εξερεύνηση με μάσκα. Ωστόσο, ο βυθός δεν είναι παντού ίδιος: ανάμεσα στην άμμο υπάρχουν πέτρες και επίπεδοι βράχοι, επομένως χρειάζεται προσοχή στην είσοδο και είναι χρήσιμα τα παπούτσια θαλάσσης. Το καλοκαίρι μπορεί να λειτουργούν beach bar και οργανωμένα τμήματα με ξαπλώστρες και ομπρέλες, ενώ υπάρχουν και σημεία για προσωπικό εξοπλισμό. Η μουσική κοντά στο μπαρ δίνει κατά περιόδους πιο ζωντανό χαρακτήρα στον όρμο. Τα πεύκα προσφέρουν φυσική σκιά σε ορισμένες θέσεις, όχι όμως σε ολόκληρη την ακτή. Αξίζει να μείνετε μέχρι αργά το απόγευμα για να απολαύσετε το ηλιοβασίλεμα πάνω από τη θάλασσα.",
+      "practical_tips": "Από την περιοχή της Αστρίδας ακολουθήστε τη σχετική σήμανση και στη συνέχεια χωματόδρομο. Οι πηγές διαφωνούν για το ακριβές μήκος και την κατάστασή του, γι’ αυτό ελέγξτε αν είναι κατάλληλος για το όχημά σας, ειδικά μετά από βροχή. Δεν έχει επιβεβαιωθεί απευθείας συγκοινωνία μέχρι την ακτή. Πάρτε μαζί νερό, αντηλιακό, άνετα παπούτσια και παπούτσια θαλάσσης για τα βράχια. Οι πληροφορίες για ντους και τουαλέτες δεν συμφωνούν απόλυτα και οι υπηρεσίες είναι εποχικές. Ρωτήστε επιτόπου για τη χρέωση ξαπλώστρας. Αν μείνετε για το ηλιοβασίλεμα, σχεδιάστε με προσοχή την επιστροφή στον χωματόδρομο.",
+      "highlights": [
+        "Χρυσοκόκκινη άμμος και μικρά βότσαλα",
+        "Πεύκα με φυσική σκιά σε ορισμένα σημεία",
+        "Καθαρά νερά και βράχια για snorkeling",
+        "Μικρός όρμος με εποχική οργάνωση",
+        "Θέα στο ηλιοβασίλεμα πάνω από τη θάλασσα"
+      ],
+      "seo_title": "Σαλονικιός Θάσος – πρόσβαση, snorkeling και ηλιοβασίλεμα",
+      "seo_description": "Γνωρίστε την παραλία Σαλονικιού κοντά στην Αστρίδα Θάσου: κοκκινωπή άμμος, πεύκα, βράχια, snorkeling, πρόσβαση από χωματόδρομο και πρακτικές συμβουλές.",
+      "social_caption": "🌅 Σαλονικιός, Θάσος: ένας μικρός όρμος με χρυσοκόκκινη άμμο, πεύκα δίπλα στο κύμα και βράχια για εξερεύνηση με μάσκα. 🌊 Ελέγξτε τον χωματόδρομο και απολαύστε το ηλιοβασίλεμα! 🇬🇷 #Θάσος #Σαλονικιός #Ελλάδα",
+      "photo_alt": "Ο μικρός όρμος του Σαλονικιού στη Θάσο με κοκκινωπή άμμο, πεύκα, ανοιχτόχρωμα βράχια και καθαρή θάλασσα."
+    },
+    "de": {
+      "name": "Salonikios Beach",
+      "tagline": "Rötlicher Sand, Kiefern am Meer und Sonnenuntergänge in einer stillen Bucht",
+      "summary": "Eine kleine, abgeschiedene Bucht bei Astris an der Südspitze von Thassos. Salonikios ist für goldrot schimmernden Sand, Kiesel, felsige Ufer und Kiefern bekannt. Besucher kommen zum Schnorcheln, Baden und wegen der Sonnenuntergänge; die Zufahrt führt über einen unbefestigten Weg.",
+      "description": "Salonikios gehört zu den Stränden auf Thassos, bei denen bereits die Anfahrt zum Erlebnis zählt. Abseits des Ortes Astris, nahe der Südspitze der Insel, liegt eine kleine Bucht mit goldrötlichem Sand, feinen Kieseln, hellen Felsen und Kiefern, die bis fast ans Wasser reichen. Die natürliche Kulisse unterscheidet sich deutlich von den großen Ferienstränden. Das Meer ist häufig klar und besonders an den felsigen Rändern gibt es beim Schnorcheln einiges zu entdecken. Der Untergrund ist allerdings nicht überall weich oder flach: Zwischen Sand und Kieseln liegen Steine und flache Felsplatten. Ein vorsichtiger Einstieg und Badeschuhe sind deshalb sinnvoll, vor allem nahe den Felsen. Im Sommer können eine Strandbar sowie bewirtschaftete Bereiche mit Liegen und Sonnenschirmen geöffnet sein; daneben bleibt Platz für mitgebrachte Strandausrüstung. Morgens wirkt die Bucht oft angenehm ruhig, während Musik an der Bar zeitweise für eine lebhaftere Stimmung sorgt. Die Kiefern spenden an bestimmten Stellen natürlichen Schatten, nicht jedoch auf dem gesamten Strand. Besonders schön ist das warme Licht am späten Nachmittag, wenn die Sonne über dem Meer untergeht und der Sand seine rötlichen Farbtöne zeigt.",
+      "practical_tips": "Folgen Sie von Astris aus der Beschilderung zur unbefestigten Zufahrt. Länge und Zustand der Schotterstrecke werden je nach Quelle unterschiedlich beschrieben; prüfen Sie vorab, ob Ihr Fahrzeug geeignet ist, besonders nach Regen. Eine direkte Busverbindung bis zur Bucht ist nicht bestätigt. Nehmen Sie Wasser, Sonnenschutz, feste Schuhe und für felsige Badebereiche Badeschuhe mit. Angaben zu Duschen und Toiletten widersprechen sich; rechnen Sie nicht fest mit diesen Einrichtungen. Liegen und Gastronomie sind saisonabhängig und die Preise vor Ort zu erfragen. Nach einem Sonnenuntergang kann die Rückfahrt auf dem unbeleuchteten Weg anspruchsvoll sein.",
+      "highlights": [
+        "Goldrötlicher Sand mit kleinen Kieseln",
+        "Kiefern und stellenweise natürlicher Schatten",
+        "Felsige Ufer zum Schnorcheln",
+        "Kleine Bucht mit saisonaler Strandbar",
+        "Stimmungsvolle Sonnenuntergänge über dem Meer"
+      ],
+      "seo_title": "Salonikios Beach Thassos – Anfahrt, Schnorcheln, Sonnenuntergang",
+      "seo_description": "Salonikios Beach bei Astris auf Thassos: rötlicher Sand, Kiefern, klares Wasser, Schnorcheln, Schotterweg, Strandservice und praktische Hinweise.",
+      "social_caption": "🌅 Salonikios auf Thassos: rötlicher Sand, Kiefern direkt am Meer und felsige Ecken zum Schnorcheln. 🌊 Die Schotterpiste vorher prüfen und den Sonnenuntergang genießen! 🇬🇷 #Thassos #Salonikios #Griechenland",
+      "photo_alt": "Kleine Bucht Salonikios auf Thassos mit rötlichem Sand, Kiefern, hellen Felsen und klarem Meer."
+    },
+    "bg": {
+      "name": "Плаж Салоникиос (Salonikios)",
+      "tagline": "Червеникав пясък, борове до морето и красиви залези",
+      "summary": "Малък и сравнително уединен залив край Астрис, в южната част на Тасос. Салоникиос съчетава златисто-червеникав пясък, дребни камъчета, скални участъци и борове. Подходящ е за плуване, шнорхелинг и наблюдение на залеза, но се достига по черен път.",
+      "description": "Салоникиос е от онези плажове на Тасос, при които пътят до морето е част от приключението. Скрит отвъд района на Астрис, близо до южния край на острова, малкият залив впечатлява със златисто-червеникав пясък, дребни камъчета, светли скали и борове, които достигат почти до водата. Тази естествена картина е различна от оживените плажове в големите курорти. Морето често е много бистро, а скалистите краища на залива предлагат интересни места за разглеждане с маска. Дъното обаче не е еднакво навсякъде: между пясъка има камъни и плоски скали, затова изберете внимателно място за влизане и помислете за обувки за вода. През летния сезон може да работи плажен бар, както и организирани части с шезлонги и чадъри. Обикновено остава и свободно пространство за собствена постелка. По-тихите часове носят усещане за усамотение, а музиката около бара може да направи атмосферата по-оживена. Боровете осигуряват естествена сянка само на някои места. Особено красив е залезът, когато топлата светлина подчертава червеникавия пясък и крайбрежните скали.",
+      "practical_tips": "От района на Астрис следвайте табелите и продължете по неасфалтиран път. Източниците посочват различна дължина и състояние на отсечката, затова предварително проверете дали е подходяща за автомобила ви, особено след дъжд. Не е потвърден автобус до самия плаж. Вземете питейна вода, слънцезащита, удобни обувки и обувки за вода, ако ще плувате край скалите. Информацията за душове и тоалетни е противоречива; услугите зависят от сезона. Цените за шезлонги се уточняват на място. Ако останете за залеза, планирайте безопасно връщане по черния път.",
+      "highlights": [
+        "Златисто-червеникав пясък и дребни камъчета",
+        "Борове и частична естествена сянка",
+        "Бистро море и скали за шнорхелинг",
+        "Малък залив със сезонни услуги",
+        "Красиви залези над морето"
+      ],
+      "seo_title": "Салоникиос, Тасос – достъп, шнорхелинг и залези",
+      "seo_description": "Открийте плаж Салоникиос край Астрис, Тасос: червеникав пясък, борове, шнорхелинг, черен път, удобства и полезни съвети.",
+      "social_caption": "🌅 Салоникиос, Тасос: малък залив с червеникав пясък, борове и скалисти места за шнорхелинг. 🌊 Проверете черния път и останете за красивия залез! 🇬🇷 #Тасос #Салоникиос #Гърция",
+      "photo_alt": "Малкият залив Салоникиос на Тасос с червеникав пясък, борове, скали и бистра морска вода."
+    },
+    "sr": {
+      "name": "Plaža Salonikios (Σαλονικιός)",
+      "tagline": "Crvenkasti pesak, borovi uz more i zalasci sunca u skrivenoj uvali",
+      "summary": "Mala i izdvojena uvala blizu Astrisa, na južnom delu Tasosa. Salonikios se ističe zlatnocrvenkastim peskom, sitnim šljunkom, stenama i borovima. Posetioci dolaze zbog bistrog mora, ronjenja sa maskom i zalazaka sunca, dok pristup vodi preko zemljanog puta.",
+      "description": "Salonikios je jedna od onih plaža na Tasosu do kojih je putovanje deo doživljaja. Skrivena iza područja Astrisa, blizu južnog kraja ostrva, ova mala uvala spaja zlatnocrvenkasti pesak, sitan šljunak, svetle stene i borove koji se pružaju gotovo do mora. Prirodno okruženje donosi drugačiji ugođaj od velikih, prometnih letovališta. More je često bistro, a stene na obodima uvale zanimljive su za istraživanje sa maskom i disaljkom. Međutim, podloga nije svuda ista: između peska i šljunka nalaze se kamenje i ravne stenske ploče. Zato pažljivo birajte mesto ulaska u vodu i razmislite o obući za more, posebno ako plivate kraj stena. Tokom letnje sezone mogu raditi bar na plaži i uređeni delovi sa ležaljkama i suncobranima, uz slobodan prostor za sopstvenu opremu. U mirnijim satima uvala deluje izdvojeno, dok muzika u blizini bara povremeno stvara življu atmosferu. Borovi pružaju prirodan hlad samo u pojedinim delovima plaže. Poseban trenutak je zalazak sunca, kada topla svetlost ističe crvenkaste nijanse peska i obalnih stena.",
+      "practical_tips": "Iz pravca Astrisa pratite putokaze i zatim zemljani put do obale. Vodiči različito opisuju njegovu dužinu i stanje, pa proverite da li je pogodan za vaše vozilo, naročito posle kiše. Direktna autobuska linija do same plaže nije potvrđena. Ponesite vodu, zaštitu od sunca, udobnu obuću i obuću za vodu zbog kamenja. Podaci o tuševima i toaletima nisu usaglašeni, a sezonske usluge mogu biti zatvorene. Cena ležaljki se proverava na licu mesta. Za uživanje u zalasku sunca unapred isplanirajte bezbedan povratak neosvetljenim putem.",
+      "highlights": [
+        "Zlatnocrvenkasti pesak i sitan šljunak",
+        "Borovi i prirodan hlad na pojedinim mestima",
+        "Bistro more i stene za snorkeling",
+        "Mala uvala sa sezonskim sadržajima",
+        "Lepi zalasci sunca nad morem"
+      ],
+      "seo_title": "Salonikios Tasos – pristup, snorkeling i zalazak sunca",
+      "seo_description": "Otkrijte plažu Salonikios kod Astrisa na Tasosu: crvenkasti pesak, borovi, stene, snorkeling, zemljani put i praktični saveti.",
+      "social_caption": "🌅 Salonikios, Tasos: mala uvala sa crvenkastim peskom, borovima kraj mora i stenama za snorkeling. 🌊 Proverite prilaz zemljanim putem i uživajte u zalasku sunca! 🇬🇷 #Tasos #Salonikios #Grcka",
+      "photo_alt": "Mala uvala Salonikios na Tasosu sa crvenkastim peskom, borovima, svetlim stenama i bistrom morskom vodom."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/salonikios/images/salonikios1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/salonikios/images/salonikios2.webp",
+      "destinations/thassos/beaches/salonikios/images/salonikios3.webp",
+      "destinations/thassos/beaches/salonikios/images/salonikios4.webp",
+      "destinations/thassos/beaches/salonikios/images/salonikios5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/salonikios/images/",
+    "suggested_asset_names": [
+      "salonikios1.webp",
+      "salonikios2.webp",
+      "salonikios3.webp",
+      "salonikios4.webp",
+      "salonikios5.webp"
+    ],
+    "image_policy": "Five local WebP image paths were assigned based on filenames visible in the user-provided screenshot. Before publication, confirm each image depicts Salonikios Beach near Astris on Thassos, not Salonikiou Beach in Sithonia or another cove. Use only original, user-owned, or properly commercially licensed photos, retaining provenance, attribution and permission records. The screenshot confirms filenames only, not binary contents, geographic identity or usage rights.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_google_directions",
+      "kind": "maps_link",
+      "title": "Pame Paralia — Salonikios Google Maps directions",
+      "url": "https://pameparalia.com/beach/salonikios-mainland",
+      "detail": "Directions hyperlink resolves to Google Maps search of 40.5717111628413,24.643530745831747. Matches independent mapping but is only a beach reference point, not confirmed road access.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_map_osm",
+      "kind": "openstreetmap_derived",
+      "title": "Mapcarta — Salonikios mapped beach",
+      "url": "https://mapcarta.com/W347737314",
+      "detail": "OpenStreetMap way 347737314, map-center ~40.57188,24.64354; independent location cross-check.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_mythassos",
+      "kind": "regional_tourism_guide",
+      "title": "MyThassos — Salonikios beach",
+      "url": "https://mythassos.app/en/places/%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%B9%CE%BA%CE%B9%CE%BF%CF%82",
+      "detail": "Reddish sand, rocks, pines, mixed facilities, seasonal bar, free area; estimates 46 km from Limenas and 7 km from Potos. Note its Google directions link points north of mapped beach center.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_gothassos",
+      "kind": "local_tourism_guide",
+      "title": "Go Thassos — Salonikios Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/salonikios-beach",
+      "detail": "Facility listing: WC, shower, food, music, loungers, umbrellas, volleyball and parking; services vary by season and guide conflicts with Nikana on showers.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "regional_tourism_guide",
+      "title": "Nikana — Salonikios Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1909/salonikios-beach",
+      "detail": "Coarse reddish sand, submerged rock, natural shade, sunsets and unpaved road; its 2026 text says no showers, in contrast with other sources. Exclude its stray Kassandra geographic typo.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_routes",
+      "kind": "regional_tourism_guide",
+      "title": "Nikana — Beaches on Thassos, how to get there",
+      "url": "https://nikana.gr/en/tourist-guide/blog/beaches/1676/beaches-on-thassos-description-and-how-to-get-there",
+      "detail": "Astris-area turning and reported roughly 3 km dusty road; details differ from other guide estimates.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_pame_paralia",
+      "kind": "coastal_guide",
+      "title": "Pame Paralia — Salonikios Beach",
+      "url": "https://pameparalia.com/beach/salonikios-mainland",
+      "detail": "Mapped coordinates, stone/sea-urchin caution, snorkeling, access limitations, partial pine shade; tidal and dynamic widget features not used as hardcoded facts.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_ethasos",
+      "kind": "regional_tourism_guide",
+      "title": "Explore Thassos — Salonikios Beach",
+      "url": "https://e-thasos.gr/explore/beaches/isolated-beaches/salonikios-beach.html?print=1&tmpl=component",
+      "detail": "Small cove near Astris, south orientation, sand and small pebbles with rocks for snorkeling; 90 m figure not adopted due to scope uncertainty.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_terrabook",
+      "kind": "regional_tourism_guide",
+      "title": "Terrabook — Σαλονικιός",
+      "url": "https://greece.terrabook.com/el/thassos/page/salonikios/",
+      "detail": "Greek-language source for coastal pines, golden-red sand, clear water, rocky snorkeling and dirt-road access.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_thassoslines",
+      "kind": "regional_tourism_guide",
+      "title": "Thassos Lines — Παραλία Σαλονικιός",
+      "url": "https://www.thassoslines.gr/2022/07/Thassos-paralia-Salonikios.html",
+      "detail": "Seasonal beach bar and serviced sections, access from Astris, and statement that no public transport runs directly to beach.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachatlas",
+      "kind": "beach_guide",
+      "title": "BeachAtlas — Salonikios Beach",
+      "url": "https://www.beachatlas.com/salonikios",
+      "detail": "Independent geographic reference around 40.5715969,24.643553 and traveler notes about sunsets and rough road.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_greek_travel",
+      "kind": "travel_feature",
+      "title": "Travel.gr — Thassos beaches and Salonikios",
+      "url": "https://www.travel.gr/the_guides/diakopes-sti-thaso-mpanio-se-galazopra/",
+      "detail": "Greek editorial account mentioning road via Astris, pale rocks, refreshments, music and sunset.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_photo_de",
+      "kind": "image_research_only",
+      "title": "Thassos-greece.de — Salonikios visual reference",
+      "url": "https://www.thassos-greece.de/straende/salonikios-beach.html",
+      "detail": "Visual reference only; copyright and commercial reuse not verified.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_photo_trecator",
+      "kind": "image_research_only",
+      "title": "Trecator — Plaja Salonikios gallery",
+      "url": "https://photos.trecator.ro/plaja-salonikios-thassos-galerie-foto/",
+      "detail": "Aerial scouting reference only; no image reuse rights verified.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm the intended Google Maps beach marker and separate entry to the dirt road; MyThassos points north of independent beach maps.",
+      "Inspect dirt-road surface and choose safe routing for normal cars and lower-clearance vehicles, especially after rain.",
+      "Check current beach operators, toilet and shower status (published sources conflict), access hours, public free space and parking.",
+      "Check whether any 2026/2027 Blue Flag certification specifically applies; none asserted here.",
+      "Verify sea entry, depth, submerged rock and lifeguard presence by season and exact shoreline segment.",
+      "Verify wheelchair access and any official accessible facilities before adding a positive claim.",
+      "Five local paths salonikios1.webp–salonikios5.webp are assigned; verify each file actually depicts Salonikios Beach on Thassos and document commercial publication/transfer permissions, provenance and required attribution before publishing.",
+      "Confirm whether any sunset-oriented visit needs a night-driving warning on the dirt road.",
+      "Review all six languages with native speakers before publication."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "Five local WebP file paths are referenced from the user screenshot; image binaries were not uploaded with this JSON and their subject matter, source and commercial-use rights have not been independently verified. External research images were not imported."
+  }
+}

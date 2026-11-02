@@ -1,0 +1,1 @@
+Copiază aici cele 10 imagini .webp cu exact aceleași nume ca în imagini_manifest.json. Nu e nevoie să le redenumești. Nu sunt în arhivă.

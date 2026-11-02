@@ -1,0 +1,384 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-emerald",
+  "slug": "emerald",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Σμαραγδένια Παραλία",
+    "international_name": "Emerald Beach",
+    "aliases": [
+      "Emerald Beach Thassos",
+      "Emerald beach Skala Maries",
+      "Emerald beach Skala Marion",
+      "Smaragdenia Paralia",
+      "Σμαραγδένια Παραλία",
+      "Plaja Emerald (Skala Maries)"
+    ],
+    "entity_scope": "Small separately named rocky and pebbly pocket cove near Skala Maries on the south-western coast of Thassos; describes Emerald Beach only, not Fari, Atspas or the central Skala Maries beach. Landward access is disputed and needs field verification.",
+    "deduplication_warning": "Do not confuse this Skala Maries cove with Fari Beach or Atspas Beach (nearby but separately indexed), with descriptive use of emerald-coloured water at La Scala/Glyfoneri, or with the unrelated accommodation name Emerald Beach Resort in Skala Potamia. Published descriptions disagree on exact length (roughly 20 m versus roughly 100 m) and public land access; do not infer new independent coves from those discrepancies."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south-west / Skala Maries vicinity",
+    "settlements": [
+      "Skala Maries (Skala Marion)",
+      "Maries (inland locality)"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Emerald%20Beach%2C%20Skala%20Maries%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_google_maps_search",
+    "coordinate_type": "unverified_pin_coordinates_not_published",
+    "coordinate_review_status": "Independently identified by Stay Thassos, BeachSearcher and BeachPilot near Skala Maries and between the nearby named Atspas/Fari beaches, but an exact Google Maps beach pin, public foot entrance and accessible vehicle point have not been independently verified. Do not substitute hotel or neighbouring beach coordinates.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mixed_sand_small_pebbles_and_gravel",
+    "seabed_near_shore": "rocky_and_stony; sea_urchins_reported",
+    "water_entry": "uneven_stones_and_rocks; water_shoes_advised",
+    "nearshore_depth": "variable_and_not_independently_measured",
+    "water_clarity": "typically_clear_turquoise_per_local_guides_and_visitor_reports",
+    "wave_conditions": "weather_dependent; shelter_should_not_be_assumed",
+    "exposure": "small_cove_on_south_western_coast_with_rocky_edges",
+    "natural_shade_on_sand": "unverified_or_limited",
+    "beach_length_m": null,
+    "length_note": "Published measurements conflict: Stay Thassos describes an approximately 20 m pocket beach, while BeachSearcher/BeachPilot describe a larger shore around 100 m; boundaries/methodology are not comparable. No precise length adopted.",
+    "backdrop": "rocky headlands, hillside vegetation and newer villas near the cove",
+    "shoreline_type": "small_distinct_pocket_cove_not_fari_or_atspas"
+  },
+  "visitor_experience": {
+    "organization": "minimally_serviced_cove_access_restricted_or_uncertain",
+    "suitable_for": [
+      "coastal_scenery",
+      "photography",
+      "confident_swimmers_only_when_access_and_conditions_allow",
+      "experienced_snorkelers_only_on_calm_days",
+      "visitors_willing_to_verify_legitimate_access_before_departure"
+    ],
+    "notable_for": [
+      "clear_turquoise_water",
+      "small_rocky_cove",
+      "stones_and_sea_urchins",
+      "lack_of_confirmed_public_amenities",
+      "land_access_disputed_due_to_nearby_villas",
+      "distinct_from_fari_and_atspas"
+    ],
+    "activities_possible": [
+      "viewing_coastal_landscape",
+      "nature_photography",
+      "cautious_swimming_if_safe_access_verified",
+      "snorkeling_if_calm_and_safe",
+      "observing_from_authorized_boat_stop_if_available"
+    ],
+    "estimated_crowd_peak": "small_shore_capacity; crowds_cannot_be_reliably_predicted; access_may_be_restricted",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Rocky seabed and sea urchins have been reported. Do not follow paths through villas or fences without permission, assume a public right of way, or recommend swimming from another beach to bypass access restrictions. Boat access is reported geographically but landing safety, operator permission and local rules require checking. No confirmed lifeguard, rescue facilities or accessible pathway."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": null,
+      "seasonal": null
+    },
+    "umbrellas": {
+      "available_in_some_sections": null,
+      "seasonal": null
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "No public toilet facility independently established for this cove; nearby villa facilities must not be treated as public."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "No independently verified public showers; do not treat neighbouring properties as beach amenities."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": false,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": null,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": false,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No independently confirmed lifeguard presence at Emerald Beach; do not promise supervised swimming.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Continuous legal and step-free land access is not verified; do not advertise wheelchair access.",
+    "free_unserviced_space": null,
+    "facilities_scope": "Directories describe an unserviced natural beach, while buildings/villas stand immediately nearby. Amenities shown for nearby private villas or the settlement of Skala Maries are NOT guaranteed public facilities on Emerald Beach. Current access, public services and available shore space require on-site confirmation."
+  },
+  "access_and_cost": {
+    "road_access": "road_network_near_cove_reported_but_public_final_pedestrian_entry_unconfirmed; reports_of_access_through_new_villas_or_by_sea",
+    "public_transport": "no_confirmed_bus_stop_or_pedestrian_route_to_this_specific_cove",
+    "parking_type": "nearby_road_or_private_property_reported_in_directories; legal_public_spaces_and_pedestrian_connection_unverified",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "No verified public lounger rental or fixed usage policy for this cove; private villa equipment must not be treated as available to beachgoers.",
+    "best_arrival_advice": "Before travelling, confirm an open and legitimate public pedestrian approach with local authorities or the current property operators. A map showing a road nearby is not proof of beach access. Do not cross private villa land or fences without permission and never use swimming around rocky headlands as a presumed shortcut. If access is confirmed, wear grippy shoes and water shoes, bring drinking water and sun protection, and check sea conditions. Otherwise choose the nearby already documented Atspas or Fari beaches.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Published distances to Skala Maries and point-to-point walks are inconsistent and do not establish an open route to Emerald Beach; navigated route from Limenas not confirmed."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Emerald Beach (Skala Maries)",
+      "tagline": "Un golf turcoaz spectaculos, cu acces terestru de verificat",
+      "summary": "Emerald Beach este un golf mic de lângă Skala Maries, în sud-vestul insulei Thassos, separat de Fari și Atspas. Apa limpede și cadrul stâncos sunt atrăgătoare, dar pietrele, aricii de mare și accesul prin zona unor vile fac vizita dificil de planificat.",
+      "description": "Emerald Beach se ascunde într-un colț al coastei sud-vestice a insulei Thassos, în apropiere de satul pescăresc Skala Maries. Deși numele sugerează o plajă generoasă cu nisip fin, locul este mai degrabă un golf foarte mic, cu nisip amestecat cu pietricele și o margine stâncoasă. Apa poate avea nuanțe frumoase de verde și turcoaz, iar peisajul este încadrat de versanți și stânci. Tocmai caracterul redus al golfului îl deosebește de plajele mai cunoscute din zonă: Atspas și Fari sunt puncte vecine, dar nu reprezintă aceeași întindere de țărm. Pe fundul mării sunt raportate pietre mai mari și arici de mare, astfel că intrarea în apă necesită atenție, iar încălțămintea de apă este recomandată. Cel mai important lucru de știut înainte de a pleca nu ține însă de înot, ci de acces. Un ghid local relatează că noile vile construite lângă golf au făcut dificil accesul de pe uscat și menționează apropierea pe mare, în timp ce unele directoare încă indică un drum în vecinătate. Aceste informații nu dovedesc existența unui traseu pietonal public liber. Din acest motiv, Emerald nu ar trebui tratată ca o oprire sigură în itinerar fără verificarea prealabilă a căii de intrare. Nu sunt confirmate bar, șezlonguri publice, dușuri sau salvamar. Pentru cei care pot ajunge legal și în siguranță, farmecul stă în peisaj și apa clară, nu în confortul unei plaje amenajate.",
+      "practical_tips": "Verifică în ziua vizitei dacă există acces pietonal public permis până la golf. Nu traversa curțile, porțile sau terenurile vilelor fără acord, chiar dacă o aplicație de navigație marchează plaja aproape de drum. Nu folosi înotul din Atspas sau Fari drept scurtătură; stâncile, valurile și ambarcațiunile pot crea pericole. Dacă accesul este clar și sigur, ia pantofi cu talpă aderentă, încălțăminte de apă pentru pietre și arici, apă potabilă și protecție solară. Nu te baza pe parcare, toaletă, duș ori salvamar. Pentru familiile cu copii mici sau persoanele cu mobilitate redusă, alege o plajă cu acces confirmat.",
+      "highlights": [
+        "Golf mic lângă Skala Maries, distinct de Fari și Atspas",
+        "Apă limpede cu nuanțe de smarald și turcoaz",
+        "Nisip și pietricele, fund cu pietre și arici de mare",
+        "Acces pietonal public neconfirmat în zona vilelor",
+        "Fără facilități publice verificate"
+      ],
+      "seo_title": "Emerald Beach Thassos – acces, pietre și sfaturi utile",
+      "seo_description": "Emerald Beach lângă Skala Maries: golf turcoaz cu pietricele, arici de mare și acces terestru incert. Detalii și sfaturi înainte de vizită.",
+      "social_caption": "💚 Emerald Beach, Thassos: un golf mic, cu apă turcoaz, aproape de Skala Maries. 🪨 Atenție la pietre și arici de mare! 🚶 Accesul terestru poate fi restricționat: verifică traseul înainte de plecare. 🇬🇷 #Thassos #EmeraldBeach",
+      "photo_alt": "Micul golf Emerald Beach din zona Skala Maries, cu apă turcoaz, țărm cu pietricele și margini stâncoase."
+    },
+    "en": {
+      "name": "Emerald Beach (Skala Maries)",
+      "tagline": "A striking turquoise pocket cove with uncertain land access",
+      "summary": "Emerald Beach is a small cove near Skala Maries on southwest Thassos, distinct from nearby Fari and Atspas. Clear water and rocky scenery are its appeal, but uneven seabed, sea urchins and reported access difficulties beside new villas complicate a visit.",
+      "description": "Emerald Beach lies in a small indentation of the southwestern Thassos coastline, close to the fishing village of Skala Maries. Despite its inviting name, it should not be imagined as a long sandy resort beach. Local descriptions show a compact shore of sand, pebbles and gravel bordered by rocky ground, with clear water that can glow green and turquoise in the sun. This named cove is indexed separately from Fari and Atspas, which are nearby but different beaches. The seabed is not uniformly sandy: larger stones and sea urchins have been reported, making careful footing and water shoes more sensible than a barefoot dash into the sea. What most distinguishes Emerald from other attractive little coves on the island is the uncertainty surrounding access. A local beach guide says new villas beside the shoreline have made land access difficult and describes reaching it through the villa area or from the sea. By contrast, a beach directory still describes a road and parking close to the cove. The latter does not establish that visitors can legally or practically walk the final section. For that reason, this is a place to research before setting out, not a reliable spontaneous stop for every traveller. There are no independently verified public beach bars, showers, lifeguards or lounger rentals on the small shore. If a legitimate route and safe sea conditions are confirmed, the reward is the scenery and transparent water rather than the amenities of a developed beach.",
+      "practical_tips": "Check whether an open, lawful public foot route exists before travelling to Emerald Beach. Do not pass through villa grounds, gates or fences without permission, even if maps show the shore a short distance from the road. Swimming around the headland from Atspas or Fari is not a safe assumed shortcut; rocks, changing waves and boats may be hazards. If legitimate access is confirmed, bring grippy walking shoes, water shoes for stones and urchins, drinking water and sun protection. Do not rely on parking, toilets, showers or a lifeguard. Choose an easier, verified beach if travelling with very young children or anyone with limited mobility.",
+      "highlights": [
+        "Small named cove near Skala Maries, separate from Fari and Atspas",
+        "Clear emerald-turquoise water framed by rocks",
+        "Sand and pebbles with a stony, urchin-prone entry",
+        "Public land access uncertain near newly built villas",
+        "No verified on-beach public services"
+      ],
+      "seo_title": "Emerald Beach Thassos – access, rocky entry and tips",
+      "seo_description": "Discover Emerald Beach near Skala Maries, Thassos: turquoise pocket cove, stones and sea urchins, disputed land access and practical visitor advice.",
+      "social_caption": "💚 Emerald Beach, Thassos: a tiny turquoise cove near Skala Maries. 🪨 Expect rocks and possible sea urchins. 🚶 Land access may be restricted, so check the route before visiting. 🇬🇷 #Thassos #EmeraldBeach",
+      "photo_alt": "Emerald Beach pocket cove near Skala Maries, Thassos, with turquoise water, pebbles and rocky edges."
+    },
+    "el": {
+      "name": "Σμαραγδένια Παραλία (Emerald Beach)",
+      "tagline": "Μικρός τιρκουάζ όρμος με αβέβαιη πρόσβαση από τη στεριά",
+      "summary": "Η Emerald Beach είναι ένας μικρός όρμος κοντά στη Σκάλα Μαριών, στη νοτιοδυτική Θάσο, διαφορετικός από το Φαρί και τον Άτσπα. Τα διάφανα νερά και τα βράχια αποτελούν το κύριο θέλγητρο, αλλά οι αχινοί και οι δυσκολίες πρόσβασης κοντά στις νεόδμητες βίλες απαιτούν προετοιμασία.",
+      "description": "Η Emerald Beach, γνωστή και ως Σμαραγδένια Παραλία, βρίσκεται σε έναν μικρό όρμο της νοτιοδυτικής Θάσου, κοντά στον παραθαλάσσιο οικισμό Σκάλα Μαριών. Παρά την ελκυστική ονομασία της, δεν πρόκειται για μεγάλη αμμώδη παραλία με οργανωμένες εγκαταστάσεις. Η στενή ακτή συνδυάζει άμμο, ψιλό χαλίκι και βότσαλα, ενώ τα βράχια στις άκρες πλαισιώνουν νερά που συχνά αποκτούν τιρκουάζ και σμαραγδένιες αποχρώσεις. Είναι ξεχωριστός, καταγεγραμμένος όρμος και δεν πρέπει να συγχέεται με το γειτονικό Φαρί ή τον Άτσπα. Στον βυθό έχουν αναφερθεί μεγάλες πέτρες και αχινοί, επομένως τα παπούτσια θαλάσσης είναι χρήσιμα και χρειάζεται προσοχή κατά την είσοδο στο νερό. Το σημαντικότερο ζήτημα για τον επισκέπτη είναι η πρόσβαση. Τοπικός οδηγός αναφέρει ότι η κατασκευή νέων επαύλεων κοντά στην ακτή δυσκολεύει πλέον την προσέγγιση από τη στεριά και περιγράφει διαδρομή μέσω της περιοχής των επαύλεων ή από τη θάλασσα. Αντίθετα, ορισμένοι διαδικτυακοί κατάλογοι εμφανίζουν κοντινό δρόμο και δυνατότητα στάθμευσης. Η εγγύτητα του δρόμου δεν αποδεικνύει ότι υπάρχει ελεύθερο και νόμιμο δημόσιο μονοπάτι μέχρι την παραλία. Πριν οργανώσετε επίσκεψη, επιβεβαιώστε επιτόπου τον επιτρεπόμενο τρόπο πρόσβασης. Δεν έχει τεκμηριωθεί η λειτουργία δημόσιου beach bar, ντους, ναυαγοσώστη ή οργανωμένων ξαπλωστρών στον ίδιο τον όρμο. Η αξία του μέρους βρίσκεται κυρίως στο φυσικό τοπίο και στα καθαρά νερά, για όσους μπορούν να το επισκεφθούν νόμιμα και με ασφάλεια.",
+      "practical_tips": "Ελέγξτε πριν ξεκινήσετε αν υπάρχει νόμιμη και ανοιχτή δημόσια πρόσβαση πεζών στην ακτή. Μην περνάτε μέσα από ιδιωτικούς χώρους, αυλές ή περιφράξεις χωρίς άδεια, ακόμη κι αν στον χάρτη ο δρόμος φαίνεται κοντά. Η κολύμβηση από τον Άτσπα ή το Φαρί δεν πρέπει να θεωρείται ασφαλής παράκαμψη εξαιτίας βράχων, κυμάτων και πιθανών σκαφών. Αν επιβεβαιωθεί η πρόσβαση, φορέστε σταθερά παπούτσια και παπούτσια θαλάσσης για τις πέτρες και τους αχινούς. Πάρτε νερό, αντηλιακή προστασία και όλα τα απαραίτητα. Μην υπολογίζετε σε δημόσια στάθμευση, τουαλέτες, ντους ή ναυαγοσώστη.",
+      "highlights": [
+        "Μικρός ξεχωριστός όρμος κοντά στη Σκάλα Μαριών",
+        "Διάφανα τιρκουάζ νερά και βραχώδες τοπίο",
+        "Άμμος και βότσαλα με πέτρες και πιθανούς αχινούς",
+        "Μη επιβεβαιωμένη δημόσια πρόσβαση λόγω γειτονικών επαύλεων",
+        "Χωρίς επιβεβαιωμένες δημόσιες παροχές"
+      ],
+      "seo_title": "Emerald Beach Θάσος – πρόσβαση και συμβουλές",
+      "seo_description": "Μάθετε για την Emerald Beach κοντά στη Σκάλα Μαριών: μικρός τιρκουάζ όρμος, πέτρες, αχινοί, αβέβαιη πρόσβαση από στεριά και πρακτικές οδηγίες.",
+      "social_caption": "💚 Emerald Beach, Θάσος: ένας μικρός τιρκουάζ όρμος κοντά στη Σκάλα Μαριών. 🪨 Προσοχή στις πέτρες και στους αχινούς. 🚶 Ελέγξτε την πρόσβαση πριν ξεκινήσετε! 🇬🇷 #Θάσος #EmeraldBeach",
+      "photo_alt": "Μικρός όρμος Emerald Beach κοντά στη Σκάλα Μαριών της Θάσου, με τιρκουάζ νερά, βότσαλα και βραχώδεις άκρες."
+    },
+    "de": {
+      "name": "Emerald Beach (Skala Maries)",
+      "tagline": "Eine kleine türkisfarbene Bucht mit ungeklärtem Landzugang",
+      "summary": "Emerald Beach ist eine kleine Bucht bei Skala Maries an der Südwestküste von Thassos, getrennt von Fari und Atspas. Klare Wasserfarben und Felsen prägen den Ort, doch Steine, Seeigel und mögliche Zugangsbeschränkungen nahe neuer Villen erschweren die Planung.",
+      "description": "Emerald Beach liegt in einer kleinen Einbuchtung der südwestlichen Küste von Thassos, unweit des Fischerdorfes Skala Maries. Der verheißungsvolle Name darf nicht mit einem ausgedehnten, ausgestatteten Sandstrand verwechselt werden. Die schmale Uferzone besteht aus einer Mischung von Sand, Kieseln und feinem Schotter. Felsen rahmen das Wasser ein, das bei passenden Lichtverhältnissen in Türkis- und Smaragdgrün schimmert. Die Bucht wird als eigener Ort geführt und ist weder mit Fari noch mit Atspas gleichzusetzen. Beim Baden ist Vorsicht angebracht: Auf dem Meeresboden liegen größere Steine, und Besucherberichte erwähnen Seeigel. Badeschuhe und ein langsamer Einstieg sind daher sinnvoll. Die eigentliche Herausforderung ist allerdings die Erreichbarkeit. Ein örtlicher Strandführer berichtet, dass der Bau neuer Villen den Zugang vom Land aus stark erschwert hat und nennt Wege durch das Villengelände beziehungsweise vom Meer aus. Andere Strandverzeichnisse zeigen weiterhin eine Straße und Parkplätze in der Nähe. Eine nahe Straße bedeutet jedoch nicht automatisch, dass ein freier öffentlicher Fußweg zum Ufer existiert. Vor dem Besuch sollte deshalb geklärt werden, welcher Zugang tatsächlich offen und erlaubt ist. Öffentliche Duschen, Toiletten, Rettungsschwimmer, eine Strandbar oder frei nutzbare Liegen sind an dieser kleinen Bucht nicht zuverlässig belegt. Wer einen rechtmäßigen Zugang und sichere Badebedingungen vorfindet, entdeckt einen landschaftlich reizvollen Küstenabschnitt, keinen komfortablen Familienstrand mit Service.",
+      "practical_tips": "Klären Sie vor der Anfahrt, ob ein legaler öffentlicher Fußweg zum Emerald Beach offen ist. Durchqueren Sie weder private Grundstücke noch Tore oder umzäunte Villenanlagen ohne Erlaubnis, auch wenn die Karte eine nahe Straße zeigt. Das Umschwimmen der Felsen von Fari oder Atspas ist wegen Steinen, Wellengang und möglichem Bootsverkehr keine empfehlenswerte Abkürzung. Bei bestätigtem Zugang sind feste Schuhe für den Weg und Badeschuhe gegen Steine und Seeigel ratsam. Packen Sie Trinkwasser und Sonnenschutz ein; öffentliche Parkplätze, Toiletten, Duschen und Rettungsschwimmer sind nicht bestätigt. Für Kleinkinder und mobilitätseingeschränkte Reisende ist ein sicher erschlossener Strand die bessere Wahl.",
+      "highlights": [
+        "Kleine eigenständige Bucht bei Skala Maries",
+        "Smaragdgrünes Wasser vor felsiger Kulisse",
+        "Sand und Kies mit steinigem, seeigelgefährdetem Einstieg",
+        "Öffentlicher Landzugang bei neueren Villen ungeklärt",
+        "Keine nachgewiesenen öffentlichen Strandeinrichtungen"
+      ],
+      "seo_title": "Emerald Beach Thassos – Zugang, Felsen und Tipps",
+      "seo_description": "Emerald Beach nahe Skala Maries auf Thassos: kleine türkisfarbene Bucht, Steine und Seeigel, ungeklärter Zugang vom Land sowie wichtige Tipps.",
+      "social_caption": "💚 Emerald Beach auf Thassos: eine kleine Bucht mit türkisfarbenem Wasser bei Skala Maries. 🪨 Auf Steine und Seeigel achten! 🚶 Den Landzugang vorab unbedingt prüfen. 🇬🇷 #Thassos #EmeraldBeach",
+      "photo_alt": "Die kleine Bucht Emerald Beach bei Skala Maries auf Thassos mit türkisfarbenem Wasser, Kieseln und felsigen Uferkanten."
+    },
+    "bg": {
+      "name": "Плаж Емералд (Скала Мариес)",
+      "tagline": "Малък тюркоазен залив с неясен достъп откъм сушата",
+      "summary": "Емералд Бийч е малък залив край Скала Мариес на югозападния бряг на Тасос, различен от Фари и Ацпас. Бистрата вода и скалите са привлекателни, но каменистото дъно, морските таралежи и съобщенията за затруднен достъп покрай нови вили изискват внимание.",
+      "description": "Емералд Бийч е малко заливче на югозападния бряг на Тасос, недалеч от рибарското селище Скала Мариес. Името обещава изумруден пейзаж, но не бива да създава представа за дълъг пясъчен плаж с удобства. Брегът е тесен и съчетава пясък, дребни камъчета и чакъл, а скалите оформят красива рамка около прозрачната тюркоазена вода. Това е отделно обозначено заливче, което не трябва да се смесва със съседните плажове Фари и Ацпас. Дъното не е равномерно пясъчно: описани са по-големи камъни и морски таралежи, затова обувките за вода са разумна предпазна мярка. Най-сериозният въпрос за посетителите обаче е достъпът. Местен пътеводител съобщава, че построените наблизо нови вили са затруднили преминаването откъм сушата и споменава достигане през района на вилите или по море. Други онлайн каталози все още отбелязват близък път и паркиране. Това противоречие не доказва наличието на свободен, законен обществен пешеходен маршрут до самия бряг. Затова е важно да проверите възможността за достъп, преди да планирате посещение. Няма надеждно потвърждение за обществени шезлонги, душове, тоалетни, плажен бар или спасител на този малък плаж. Ако достъпът е разрешен и условията са безопасни, мястото впечатлява с природната си гледка и чистата вода, а не с туристическа инфраструктура.",
+      "practical_tips": "Проверете предварително дали има отворен и законен обществен пешеходен подход към плажа. Не преминавайте през частни дворове, огради или терени на вили без разрешение, дори когато картата показва близък път. Плуването около скалите от Ацпас или Фари не е безопасен заместител на пешеходния достъп заради вълни, камъни и възможни лодки. Ако подходът е потвърден, носете стабилни обувки и обувки за вода срещу камъните и морските таралежи. Вземете вода, слънцезащита и всичко необходимо; не разчитайте на обществен паркинг, душове, тоалетни или спасител. За малки деца и хора с ограничена подвижност изберете плаж с проверен достъп.",
+      "highlights": [
+        "Малък самостоятелно обозначен залив край Скала Мариес",
+        "Кристална тюркоазена вода и скални брегове",
+        "Пясък и камъчета, каменисто дъно с възможни таралежи",
+        "Неясен обществен достъп покрай новопостроени вили",
+        "Без потвърдени обществени удобства"
+      ],
+      "seo_title": "Емералд Бийч, Тасос – достъп, скали и съвети",
+      "seo_description": "Вижте Емералд Бийч край Скала Мариес: малък тюркоазен залив, каменисто дъно, морски таралежи и непотвърден достъп от сушата.",
+      "social_caption": "💚 Емералд Бийч, Тасос: малък тюркоазен залив до Скала Мариес. 🪨 Внимавайте за камъни и морски таралежи. 🚶 Проверете достъпа преди посещение! 🇬🇷 #Тасос #EmeraldBeach",
+      "photo_alt": "Малкият залив Емералд Бийч до Скала Мариес на Тасос с тюркоазена вода, камъчета и скалисти брегове."
+    },
+    "sr": {
+      "name": "Plaža Emerald (Skala Marijes)",
+      "tagline": "Mala tirkizna uvala sa neproverenim prilazom sa kopna",
+      "summary": "Emerald Beach je mala uvala blizu Skala Marijesa na jugozapadu Tasosa, odvojena od plaža Fari i Atspas. Bistra voda i stenoviti pejzaž privlače pažnju, ali kamenito dno, morski ježevi i otežan pristup kraj novih vila zahtevaju prethodnu proveru.",
+      "description": "Plaža Emerald nalazi se u maloj uvali na jugozapadnoj obali Tasosa, u blizini ribarskog mesta Skala Marijes. Iako ime asocira na predivno zelenoplavo more, ovde ne treba očekivati dugu uređenu peščanu plažu. Obala je uska, sa mešavinom peska, sitnog šljunka i kamenčića, dok je uvala okružena stenama koje naglašavaju providnu tirkiznu vodu. Emerald je zasebno označena uvala, a ne drugi naziv za obližnje plaže Fari i Atspas. Prvi metri ulaska u more mogu biti neprijatni zbog krupnijeg kamenja; u lokalnim opisima i iskustvima posetilaca pominju se i morski ježevi, pa su patike za vodu preporučljive. Najvažnije pitanje nije samo kakvo je more nego kako se do plaže dolazi. Jedan lokalni vodič navodi da je izgradnja novih vila u blizini otežala pristup sa kopna i da se do obale prilazi kroz područje vila ili sa mora. Nasuprot tome, neki internet katalozi i dalje označavaju put i parking nedaleko od uvale. Blizina puta, međutim, ne znači da postoji otvoren i dozvoljen javni pešački prilaz. Zato pre polaska treba proveriti aktuelno stanje i poštovati granice privatnih poseda. Na samoj plaži nisu pouzdano potvrđeni javni tuševi, toaleti, ležaljke, bar ni spasilac. Ako je zakonit pristup moguć i more mirno, najlepši deo doživljaja su čista voda i mali stenoviti zaliv, a ne usluge organizovanog kupališta.",
+      "practical_tips": "Pre puta proverite da li postoji otvorena, legalna javna pešačka staza do plaže. Ne prolazite kroz dvorišta vila, kapije ili ograđene privatne parcele bez dozvole, čak i ako mapa prikazuje obližnji put. Plivanje oko stena sa Atspasa ili Farija nije bezbedna prečica zbog talasa, kamenja i mogućeg prolaska čamaca. Ako je pristup potvrđen, ponesite obuću sa dobrim đonom, obuću za vodu zbog kamenja i morskih ježeva, vodu za piće i zaštitu od sunca. Ne računajte na parking, toalete, tuševe ili spasioca. Za malu decu ili osobe sa otežanim kretanjem bolji je pristupačniji, provereni deo obale.",
+      "highlights": [
+        "Mala izdvojena uvala blizu Skala Marijesa",
+        "Providna smaragdno-tirkizna voda i stene",
+        "Pesak i obluci uz kamenito dno i moguće ježeve",
+        "Neproveren javni prilaz sa kopna kraj novih vila",
+        "Nema potvrđenih javnih sadržaja na obali"
+      ],
+      "seo_title": "Plaža Emerald Tasos – prilaz, stene i korisni saveti",
+      "seo_description": "Upoznajte plažu Emerald blizu Skala Marijesa na Tasosu: tirkizna mala uvala, kamenje, morski ježevi i neizvestan pristup sa kopna.",
+      "social_caption": "💚 Emerald Beach na Tasosu: mala tirkizna uvala kod Skala Marijesa. 🪨 Pazite na kamenje i morske ježeve. 🚶 Pre polaska proverite pristup sa kopna! 🇬🇷 #Tasos #EmeraldBeach",
+      "photo_alt": "Mala uvala Emerald kod Skala Marijesa na Tasosu sa tirkiznom vodom, oblucima i stenovitim rubovima."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/emerald/images/emerald1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/emerald/images/emerald2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/emerald/images/emerald3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/emerald/images/emerald4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/emerald/images/emerald5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/emerald/images/",
+    "suggested_asset_names": [
+      "emerald1.webp",
+      "emerald2.webp",
+      "emerald3.webp",
+      "emerald4.webp",
+      "emerald5.webp"
+    ],
+    "image_policy": "Use only images supplied or approved by the project owner, with commercial publication rights confirmed. emerald1.webp is the cover; emerald2.webp through emerald5.webp appear in numeric gallery order. Verify each photograph depicts Emerald Beach on Thassos, not nearby Fari or Atspas.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_staythassos_em",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Complete List of 56 Thassos Beaches / Emerald Beach",
+      "url": "https://staythassos.gr/thassos-beaches/",
+      "detail": "Local April 2026 guide: Emerald Beach tiny sand/pebble cove, rocky seabed and urchins; newer villas make pedestrian access difficult and guide describes villa-side or sea approach. Approximate 20 m length is unverified against other source methods. Its favourable general promo blurbs are not enough to infer ease of access.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachsearcher_en",
+      "kind": "beach_directory_and_visitor_reports",
+      "title": "BeachSearcher — Emerald beach, Skala Marion (English)",
+      "url": "https://beaches-searcher.com/en/beach/300207119/emerald-beach",
+      "detail": "Independently indexed next to Atspas and Fari; gravel/rock shoreline, no public services listed, road proximity. Visitor reports from 2019 to 2025 describe urchins, large stones and privately blocked approach; directory general parking/access notes conflict with local guide and reviews. Some size descriptions conflict internally.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachsearcher_ro",
+      "kind": "beach_directory_translation",
+      "title": "BeachSearcher — Emerald beach, Skala Marion (Romanian)",
+      "url": "https://beachsearcher.com/ro/beach/300207119/emerald-beach",
+      "detail": "Romanian-language version of the same underlying beach directory; identifies a named cove in Skala Maries, includes nearby beaches and translated traveller review of claimed blocked access. Not independent of English version.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachpilot",
+      "kind": "coastal_geography_directory",
+      "title": "BeachPilot — Beaches and anchorages of Thasos",
+      "url": "https://beachpilot.gr/greece/islands/thasos/thasos-regional-unit",
+      "detail": "Indexes Σμαραγδένια Παραλία / Emerald Beach as an identifiable coastal segment near Skala Marion, with rocky/gravel surroundings, no organised facilities; approximate ~100 m measure and road-access statement not adopted as authoritative because sources conflict.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_maistrali",
+      "kind": "nearby_accommodation_guide",
+      "title": "Pension Maistrali — local Skala Maries points of interest",
+      "url": "https://maistrali-thassos.gr/en/point-of-interest/",
+      "detail": "Lists Emerald Beach and Fari Beach separately as nearby points of interest; hotel-based distances do not indicate public path accessibility or an exact beach entrance.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_2026",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — 2026 Greek beach awards",
+      "url": "https://www.blueflag.gr/el/awards/2026",
+      "detail": "Thassos list names five awarded sections and does not include Emerald Beach. Do not infer a Blue Flag award, or an official water classification, for Emerald.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_gothassos_places",
+      "kind": "local_tourism_directory",
+      "title": "Go Thassos — Villages and beaches",
+      "url": "https://www.go-thassos.gr/gr/about-thassos/places",
+      "detail": "Common major beach list omits smaller Emerald cove, showing that omission from a curated guide does not disprove existence; use dedicated beach sources for identity.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_google_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Emerald Beach, Skala Maries (search link only)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Emerald%20Beach%2C%20Skala%20Maries%2C%20Thassos%2C%20Greece",
+      "detail": "Name-based search URL, not a verified map pin. Do not assign lat/lng, road endpoint, parking or public right of way from this search.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_emerald_photo_guide",
+      "kind": "photo_reference_not_license",
+      "title": "Stay Thassos — Emerald Beach images/footage references",
+      "url": "https://staythassos.gr/thassos-beaches/",
+      "detail": "Photograph/footage candidates labelled Emerald; no independent third-party commercial reuse permission verified.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_media_paths_configured_pending_asset_check_access_verification_and_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm precise Emerald Beach location and pin on Google Maps without confusing nearby Fari Beach, Atspas Beach or the Emerald Beach Resort accommodation in Skala Potamia.",
+      "Check legal and currently open public pedestrian access to the shoreline; local guide and traveller reports say new villas impede the land approach, while directories still label road access.",
+      "Confirm whether any public parking and an unobstructed path exist. Do not recommend traversing private villa property, gates or fences without permission.",
+      "Reconcile shoreline size discrepancy (about 20 m versus about 100 m) using a consistent mapped definition before inserting a length.",
+      "Verify public services on site; nearby villa equipment is not proof of public loungers, showers, toilets or food service.",
+      "Inspect actual shoreline and nearshore rocks/urchins, posted warnings, rescue coverage, wave exposure and suitability for families or disabled visitors.",
+      "Confirm whether a safe and permitted boat landing is possible; do not recommend swimming around headlands as an alternative access route.",
+      "Verify that owner-supplied emerald1.webp through emerald5.webp are present in destinations/thassos/beaches/emerald/images/, correctly depict Emerald Beach, and have rights cleared for commercial publication.",
+      "Proofread Greek, German, Bulgarian and Serbian translations with native reviewers before publishing.",
+      "No 2026 Blue Flag award verified for Emerald Beach; do not borrow certificates from other beaches."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial copy supplied; local media paths are configured from the filenames shown by the project owner. Photograph ownership and commercial publication rights have not been independently verified, and the image binaries were not provided for inspection.",
+    "photo_source_disclaimer": "Media references now point only to five project-owner-selected local filenames (emerald1.webp–emerald5.webp); no external research-photo candidates are imported. Actual file presence, exact depicted shoreline and publication rights remain to be checked."
+  }
+}

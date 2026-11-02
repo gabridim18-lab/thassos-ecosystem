@@ -1,0 +1,383 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-potos",
+  "slug": "potos",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Ποτού",
+    "international_name": "Potos Beach",
+    "aliases": [
+      "Potos",
+      "Paralia Potou",
+      "Παραλία Ποτού",
+      "Potos Village Beach",
+      "Potos Town Beach"
+    ],
+    "entity_scope": "Central beachfront of Potos village; coastline connects toward Agios Antonios but that beach is managed as a separate editorial entry.",
+    "deduplication_warning": "Do not merge with Pefkari, San Antonio / Agios Antonios, Alexandra Beach or Vulos. Geographic continuity with Agios Antonios does not imply a single editorial beach record."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south / southwest",
+    "settlements": [
+      "Potos"
+    ],
+    "lat": 40.6096,
+    "lng": 24.6057,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Potos%20Beach%2C%20Thassos",
+    "coordinate_source_reference": "s_pame_north",
+    "coordinate_type": "approximate_central_potos_beach_reference_not_confirmed_google_maps_pin",
+    "coordinate_review_status": "secondary_cartographic_reference; direct_google_maps_pin_selection_pending",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "predominantly_sand_with_local_pebbles",
+    "seabed_near_shore": "mostly_sandy_some_pebbles_and_rocky_patches",
+    "water_entry": "generally_gradual",
+    "nearshore_depth": "generally_shallow_near_shore_but_variable",
+    "water_clarity": "often_clear_conditions_dependent",
+    "wave_conditions": "wind_dependent",
+    "exposure": "southwest_facing_bay",
+    "natural_shade_on_sand": "limited",
+    "beach_length_m": null,
+    "length_note": "Descriptions of the connected Potos–San Antonio shoreline differ by included sections. No precise beach-only length assigned.",
+    "backdrop": "Potos waterfront and green southern Thassos hills",
+    "shoreline_type": "village_front_sandy_beach"
+  },
+  "visitor_experience": {
+    "organization": "mixed_organized_and_free",
+    "suitable_for": [
+      "families",
+      "couples",
+      "groups",
+      "swimming",
+      "waterfront_dining",
+      "evening_strolls"
+    ],
+    "notable_for": [
+      "village_central_location",
+      "fine_sand",
+      "nearby_food_options",
+      "beach_bars",
+      "sunset_views"
+    ],
+    "activities_possible": [
+      "swimming",
+      "beach_relaxation",
+      "walking",
+      "seasonal_water_sports",
+      "waterfront_dining"
+    ],
+    "estimated_crowd_peak": "often_busy_in_july_august_near_central_waterfront",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Some rocks and pebbles occur locally. Wind and water depth vary; supervise children and follow local safety advice."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Often affiliated with waterfront cafés, beach bars or nearby establishments; not guaranteed across the whole beach."
+    },
+    "showers": {
+      "available_in_some_sections": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": true,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "Lifeguard operation and hours not independently verified for the full shore.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Access to village waterfront does not prove continuous step-free passage or specialized sea access.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Availability and access depend on beachfront section, season and operator."
+  },
+  "access_and_cost": {
+    "road_access": "paved_roads_into_potos; beach_access_via_local_streets_and_walkways",
+    "public_transport": "regional_bus_to_potos; seasonal_timetables_must_be_checked",
+    "parking_type": "street_and_local_parking_areas_away_from_central_waterfront",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Rates and minimum-order policies vary by operator and season; ask locally.",
+    "best_arrival_advice": "Morning arrival may make it easier to find space; staying in Potos allows convenient walking access.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Road distance depends on start and chosen entrance; no unverified exact number stored."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": {
+      "classification": "Excellent",
+      "assessment_year": 2024,
+      "site_code": "GRBW129011024101",
+      "source_ref": "s_bathing",
+      "warning": "Historical EEA season classification, not a live 2026 measurement."
+    }
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code weather, sea temperature, UV, wave or real-time beach availability in static JSON."
+  },
+  "translations": {
+    "ro": {
+      "name": "Potos Beach",
+      "tagline": "Plajă nisipoasă, taverne la doi pași și apusuri peste Marea Egee",
+      "summary": "Plaja centrală a stațiunii Potos, pe coasta sudică a insulei Thassos, îmbină nisipul și accesul ușor la mare cu restaurante, cafenele și o atmosferă animată. Spre est, țărmul continuă către sectorul Agios Antonios, documentat separat.",
+      "description": "Potos Beach se află chiar în dreptul localității Potos, una dintre cele mai animate stațiuni de pe coasta sudică a insulei Thassos. Plaja centrală are în principal nisip, cu pietricele și câteva porțiuni stâncoase în apropierea capetelor, iar intrarea în mare este în general graduală. În spatele nisipului se găsesc cafenele, taverne, mici magazine și spații de cazare, astfel încât poți petrece o zi întreagă la mare fără să depinzi de mașină. În sezon, o parte din țărm este ocupată de șezlonguri și umbrele administrate de operatori, dar există și locuri în care vizitatorii își pot instala propriul echipament. Zona centrală este populară și poate deveni aglomerată în iulie și august, mai ales lângă terase. Dacă preferi un ritm mai liniștit, explorează sectoarele spre Agios Antonios, pe care îl tratăm ca plajă distinctă pentru orientare. Spre seară, Potos oferă o combinație plăcută între plimbarea pe malul mării, restaurante și lumina apusului, fără să fie nevoie să pleci din stațiune.",
+      "practical_tips": "În vârful sezonului, ajungi mai ușor la plajă pe jos din Potos decât cu mașina; parcarea aproape de faleză poate fi limitată. Verifică înainte condițiile pentru șezlonguri: tarifele și eventuala consumație minimă diferă între operatori. Intrarea este în general lină, însă există pietricele, pietre și variații de adâncime; supraveghează copiii și verifică starea mării. Toaletele și dușurile sunt legate în mare parte de unitățile din apropiere și pot avea acces condiționat. Pentru mai mult spațiu, încearcă orele dimineții.",
+      "highlights": [
+        "Plajă centrală, ușor accesibilă din Potos",
+        "Nisip și intrare în apă în general graduală",
+        "Taverne, cafenele și magazine imediat în apropiere",
+        "Șezlonguri sezoniere și unele porțiuni libere",
+        "Atmosferă animată și apusuri spre mare"
+      ],
+      "seo_title": "Potos Beach Thassos – plajă, facilități, acces și sfaturi",
+      "seo_description": "Ghid pentru Potos Beach în Thassos: plaja nisipoasă din stațiune, șezlonguri, restaurante, parcare, apă și recomandări pentru vacanță.",
+      "social_caption": "🏖️ Potos Beach, Thassos: nisip, mare albastră și taverne la doar câțiva pași de apă. 🌅 Rămâi până la apus și descoperă atmosfera sudului insulei! 🇬🇷 #Thassos #Potos #GreeceTravel",
+      "photo_alt": "Plaja nisipoasă Potos din Thassos, cu șezlonguri și localitatea în apropierea mării."
+    },
+    "en": {
+      "name": "Potos Beach",
+      "tagline": "Sandy shores, seaside tavernas and beautiful Aegean sunsets",
+      "summary": "The main beach in the lively resort of Potos on southern Thassos combines an easy-to-reach sandy shore with cafés, tavernas and beach services. The coastline continues east toward Agios Antonios, which is recorded separately.",
+      "description": "Potos Beach stretches directly in front of Potos, one of the liveliest resorts on the southern coast of Thassos. The central shoreline is predominantly sandy, with some pebbles and rocky patches toward certain ends, while entry into the sea is generally gradual. Cafés, tavernas, shops and accommodation sit close behind the waterfront, making it easy to spend a full day here without relying on a car. During the summer season, several sections offer loungers and parasols managed by local businesses, alongside some space for visitors bringing their own beach equipment. The central area can get busy in July and August, particularly near the seafront cafés and restaurants. Those looking for a different pace can walk farther along the coast toward Agios Antonios, treated as a separate beach entry for clarity. Potos also works well beyond swimming: stay for a relaxed waterfront stroll, a meal by the sea and the changing light of the evening sky. It is an accessible, social beach rather than a remote hidden cove.",
+      "practical_tips": "If staying in Potos, walking is usually easier than driving to the busy central beach; parking near the waterfront may be limited. Check lounger charges or minimum-spend policies with the operator before settling in. The sea entry is usually gentle, but scattered stones, pebbles and changes in depth call for care, particularly with children. Toilets and showers may belong to nearby operators rather than being available everywhere. Arrive in the morning for a wider choice of space.",
+      "highlights": [
+        "Central beach within walking distance of Potos",
+        "Predominantly sandy shoreline and generally gentle sea entry",
+        "Tavernas, cafés and shops close to the water",
+        "Seasonal lounger areas and some unserviced space",
+        "Lively seaside atmosphere and sunset views"
+      ],
+      "seo_title": "Potos Beach Thassos – beach guide, access and amenities",
+      "seo_description": "Explore Potos Beach on Thassos: sandy shoreline, facilities, tavernas, parking tips, swimming conditions and practical advice.",
+      "social_caption": "🏖️ Potos Beach, Thassos brings the sea right to the village: golden sand, waterfront cafés and an easy-going evening scene. 🌅 Save it for a southern Thassos beach day! 🇬🇷 #Thassos #PotosBeach #VisitGreece",
+      "photo_alt": "Sandy shoreline of Potos Beach on Thassos with beach umbrellas and waterfront buildings."
+    },
+    "el": {
+      "name": "Παραλία Ποτού",
+      "tagline": "Αμμουδιά, παραθαλάσσιες ταβέρνες και όμορφα ηλιοβασιλέματα",
+      "summary": "Η κεντρική παραλία του Ποτού, στη νότια Θάσο, συνδυάζει εύκολη πρόσβαση, αμμώδη ακτή και καταστήματα εστίασης σε μικρή απόσταση. Η ακτογραμμή συνεχίζεται προς τον Άγιο Αντώνιο, που καταγράφεται χωριστά.",
+      "description": "Η παραλία του Ποτού βρίσκεται μπροστά στον ομώνυμο οικισμό, έναν από τους πιο ζωντανούς παραθαλάσσιους προορισμούς της νότιας Θάσου. Στο μεγαλύτερο μέρος της έχει άμμο, ενώ σε ορισμένα σημεία εμφανίζονται μικρά βότσαλα ή πέτρες. Η είσοδος στη θάλασσα είναι γενικά ομαλή, χωρίς αυτό να σημαίνει ότι το βάθος είναι ίδιο παντού. Πολύ κοντά στην ακτή λειτουργούν καφέ, ταβέρνες, μικρά καταστήματα και καταλύματα, οπότε μπορεί κανείς να περάσει όλη την ημέρα εδώ χωρίς αυτοκίνητο. Το καλοκαίρι υπάρχουν οργανωμένα τμήματα με ξαπλώστρες και ομπρέλες, αλλά και σημεία για προσωπικό εξοπλισμό. Τον Ιούλιο και τον Αύγουστο η κεντρική περιοχή γίνεται συχνά πολυσύχναστη, ιδιαίτερα μπροστά στα καταστήματα. Προς τα ανατολικά η παραλία συνεχίζεται προς τον Άγιο Αντώνιο, τον οποίο παρουσιάζουμε χωριστά για καλύτερο προσανατολισμό. Ο Ποτός είναι ιδανικός για όσους θέλουν να συνδυάσουν κολύμπι, βόλτα δίπλα στη θάλασσα, φαγητό και τη ζεστή ατμόσφαιρα του ηλιοβασιλέματος.",
+      "practical_tips": "Αν μένετε στον Ποτό, η πρόσβαση με τα πόδια είναι συνήθως ευκολότερη από την αναζήτηση θέσης στάθμευσης κοντά στην παραλία. Ρωτήστε για τις χρεώσεις ή την ελάχιστη κατανάλωση στις ξαπλώστρες πριν καθίσετε. Το νερό βαθαίνει γενικά σταδιακά, αλλά υπάρχουν κατά τόπους πέτρες και διαφορές στο βάθος· τα παιδιά χρειάζονται πάντοτε επίβλεψη. Τουαλέτες και ντους μπορεί να ανήκουν σε κοντινές επιχειρήσεις. Ελάτε νωρίς για περισσότερες επιλογές θέσης.",
+      "highlights": [
+        "Κεντρική παραλία με εύκολη πρόσβαση από τον Ποτό",
+        "Κυρίως αμμώδης ακτή και γενικά ομαλή είσοδος",
+        "Ταβέρνες, καφέ και καταστήματα κοντά στη θάλασσα",
+        "Οργανωμένα και ορισμένα ελεύθερα τμήματα",
+        "Ζωντανή ατμόσφαιρα και όμορφο ηλιοβασίλεμα"
+      ],
+      "seo_title": "Παραλία Ποτού Θάσος – πρόσβαση, παροχές και συμβουλές",
+      "seo_description": "Γνωρίστε την παραλία του Ποτού στη Θάσο: αμμουδιά, ξαπλώστρες, ταβέρνες, πρόσβαση, στάθμευση και πρακτικές πληροφορίες.",
+      "social_caption": "🏖️ Παραλία Ποτού, Θάσος: θάλασσα δίπλα στον οικισμό, αμμουδιά και ταβέρνες μια ανάσα από το νερό. 🌅 Μείνετε μέχρι το ηλιοβασίλεμα! 🇬🇷 #Θάσος #Ποτός #Ελλάδα",
+      "photo_alt": "Η αμμώδης παραλία του Ποτού στη Θάσο με ομπρέλες και κτίρια του οικισμού κοντά στη θάλασσα."
+    },
+    "de": {
+      "name": "Potos Beach (Strand von Potos)",
+      "tagline": "Sandstrand, Tavernen am Meer und stimmungsvolle Sonnenuntergänge",
+      "summary": "Der Ortsstrand von Potos an der Südküste von Thassos verbindet einen leicht erreichbaren Sandstrand mit Cafés, Tavernen und vielen Angeboten in unmittelbarer Nähe. Richtung Osten geht die Küste in den gesondert erfassten Abschnitt Agios Antonios über.",
+      "description": "Der Strand von Potos liegt unmittelbar vor dem gleichnamigen Ferienort an der Südküste von Thassos. Die zentrale Küste besteht überwiegend aus Sand, an einigen Stellen finden sich kleinere Kiesel und felsige Bereiche. Der Einstieg ins Meer ist meist sanft abfallend, wobei sich Tiefe und Untergrund je nach Abschnitt ändern können. Direkt hinter dem Strand befinden sich Cafés, Tavernen, Geschäfte und Unterkünfte. So lässt sich hier ein ganzer Urlaubstag verbringen, ohne auf das Auto angewiesen zu sein. In der Sommersaison gibt es bewirtschaftete Bereiche mit Liegen und Sonnenschirmen sowie einzelne freie Flächen für den eigenen Strandbedarf. Besonders im Juli und August kann es nahe der Promenade recht voll werden. Wer etwas weiter spazieren möchte, erreicht die Küstenabschnitte in Richtung Agios Antonios, die wir zur besseren Orientierung separat beschreiben. Auch am Abend lohnt sich ein Besuch: Ein Spaziergang am Wasser, ein Essen in einer Taverne und der Blick auf den Sonnenuntergang gehören zum Erlebnis. Potos ist vor allem ein lebendiger Strand mit kurzen Wegen und vielen Möglichkeiten rundherum.",
+      "practical_tips": "Wer in Potos wohnt, erreicht den zentralen Strand meist am bequemsten zu Fuß. Parkplätze am Wasser können knapp sein. Vor der Nutzung von Liegen nach Preisen und eventuellem Mindestverzehr fragen. Der Einstieg ist überwiegend flach, dennoch können Steine, Kies und wechselnde Tiefen vorkommen. Kinder immer beaufsichtigen und den Wellengang beachten. Toiletten und Duschen gehören teilweise zu Betrieben in Strandnähe und sind nicht an jedem Abschnitt verfügbar. Morgens ist die Platzwahl meist größer.",
+      "highlights": [
+        "Zentraler, gut zu Fuß erreichbarer Ortsstrand",
+        "Überwiegend Sand und meist sanfter Einstieg ins Meer",
+        "Tavernen, Cafés und Geschäfte direkt in der Nähe",
+        "Saisonale Liegenbereiche und einzelne freie Abschnitte",
+        "Lebendige Atmosphäre und schöne Sonnenuntergänge"
+      ],
+      "seo_title": "Potos Beach Thassos – Strandführer, Anfahrt und Ausstattung",
+      "seo_description": "Potos Beach auf Thassos entdecken: Sandstrand, Liegen, Tavernen, Parkmöglichkeiten, Badebedingungen und praktische Tipps.",
+      "social_caption": "🏖️ Potos Beach auf Thassos: Sand, blaues Meer und Tavernen nur wenige Schritte vom Wasser entfernt. 🌅 Bleibt bis zum Sonnenuntergang! 🇬🇷 #Thassos #Potos #Griechenland",
+      "photo_alt": "Sandstrand von Potos auf Thassos mit Sonnenschirmen und Gebäuden direkt hinter der Küste."
+    },
+    "bg": {
+      "name": "Плаж Потос",
+      "tagline": "Пясък, таверни край морето и красиви залези",
+      "summary": "Централният плаж на оживения курорт Потос в южен Тасос предлага удобен достъп до морето, пясъчна ивица и множество заведения наблизо. На изток брегът продължава към Агиос Антониос, който е описан отделно.",
+      "description": "Плаж Потос се намира непосредствено пред едноименния курорт на южния бряг на остров Тасос. Основната част от ивицата е пясъчна, а на отделни места има дребни камъчета и скалисти участъци. Навлизането във водата обикновено е плавно, макар че дълбочината и дъното се променят според мястото. Зад плажа се намират кафенета, таверни, магазини и места за настаняване, така че тук лесно може да прекарате цял ден без автомобил. През лятото част от пясъка е организирана с шезлонги и чадъри, но има и места за собствена плажна екипировка. През юли и август централната част често е оживена, особено в близост до крайбрежните заведения. На изток брегът продължава към Агиос Антониос, който представяме като отделна плажна зона за по-ясна ориентация. Вечер Потос е приятен избор за разходка край морето, вечеря и наблюдаване на залеза. Това е плаж за хора, които харесват удобствата на курорта и живата атмосфера.",
+      "practical_tips": "Ако сте отседнали в Потос, най-удобно е да стигнете пеша; паркирането близо до морето може да е затруднено. Уточнете цената на шезлонгите и евентуалната минимална консумация предварително. Влизането в морето обикновено е плавно, но има места с камъчета, скали и различна дълбочина. Наблюдавайте децата и проверявайте условията за къпане. Тоалетни и душове може да принадлежат на близките заведения, а не да са достъпни по цялата ивица. Сутрин е по-лесно да изберете място.",
+      "highlights": [
+        "Централен плаж на пешеходно разстояние от Потос",
+        "Предимно пясък и обикновено плавен вход във водата",
+        "Таверни, кафенета и магазини наблизо",
+        "Сезонни шезлонги и свободни участъци",
+        "Оживена атмосфера и красиви залези"
+      ],
+      "seo_title": "Плаж Потос, Тасос – достъп, удобства и съвети",
+      "seo_description": "Разгледайте плаж Потос на Тасос: пясък, шезлонги, заведения, паркиране, условия за плуване и практични съвети.",
+      "social_caption": "🏖️ Плаж Потос, Тасос: пясък, синьо море и таверни на крачки от водата. 🌅 Останете до залез слънце! 🇬🇷 #Тасос #Потос #Гърция",
+      "photo_alt": "Пясъчният плаж Потос на остров Тасос с чадъри и сгради край брега."
+    },
+    "sr": {
+      "name": "Potos Beach (Plaža Potos)",
+      "tagline": "Peščana obala, taverne uz more i prelepi zalasci sunca",
+      "summary": "Gradska plaža letovališta Potos na jugu Tasosa spaja pristupačnu peščanu obalu sa tavernama, kafićima i sadržajima u neposrednoj blizini. Istočno se obala nastavlja ka plaži Agios Antonios, koja ima zaseban zapis.",
+      "description": "Plaža Potos nalazi se neposredno ispred istoimenog letovališta na južnoj obali Tasosa. Centralni deo obale uglavnom je peščan, dok na pojedinim mestima ima sitnog šljunka i kamenitih delova. Ulazak u more je najčešće postepen, ali se dubina i podloga razlikuju od dela do dela. Odmah iza plaže nalaze se kafići, taverne, prodavnice i smeštaj, pa ovde možete provesti čitav dan bez potrebe za automobilom. Tokom leta pojedini delovi imaju ležaljke i suncobrane koje izdaju lokalni ugostitelji, a postoji i prostor za sopstvenu opremu. U julu i avgustu centralna zona ume da bude puna, naročito ispred lokala na obali. Istočno se obala nastavlja ka Agios Antoniosu, koji je radi lakšeg snalaženja opisan posebno. Potos nije skrivena uvala za potpunu osamu, već živahna plaža uz samo mesto, pogodna za kombinaciju kupanja, šetnje i večere uz more. Predveče je posebno prijatno uživati u svetlosti zalaska sunca.",
+      "practical_tips": "Ako boravite u Potosu, do centralne plaže je najlakše doći peške; parking blizu obale može biti ograničen. Pre korišćenja ležaljki pitajte za cenu i eventualnu minimalnu potrošnju. Ulazak u vodu je uglavnom postepen, ali ima kamenčića, stena i promene dubine. Decu uvek nadgledajte i pratite talase. Toaleti i tuševi često pripadaju obližnjim lokalima i nisu dostupni svuda. Dođite ranije za lakši izbor mesta.",
+      "highlights": [
+        "Gradska plaža na pešačkoj udaljenosti od centra Potosa",
+        "Pretežno peščana obala i uglavnom postepen ulazak u more",
+        "Taverne, kafići i prodavnice odmah uz obalu",
+        "Sezonske ležaljke i poneki slobodan deo",
+        "Živa atmosfera i lep pogled na zalazak sunca"
+      ],
+      "seo_title": "Potos Beach Tasos – vodič, pristup i sadržaji",
+      "seo_description": "Istražite plažu Potos na Tasosu: pesak, ležaljke, taverne, parking, uslovi za kupanje i korisni saveti.",
+      "social_caption": "🏖️ Potos Beach, Tasos: pesak, plavo more i taverne na nekoliko koraka od vode. 🌅 Sačuvajte vreme i za zalazak sunca! 🇬🇷 #Tasos #Potos #Grcka",
+      "photo_alt": "Peščana plaža Potos na Tasosu sa suncobranima i naseljem odmah iza obale."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/potos/images/potos1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/potos/images/potos2.webp",
+      "destinations/thassos/beaches/potos/images/potos3.webp",
+      "destinations/thassos/beaches/potos/images/potos4.webp",
+      "destinations/thassos/beaches/potos/images/potos5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/potos/images/",
+    "suggested_asset_names": [
+      "potos1.webp",
+      "potos2.webp",
+      "potos3.webp",
+      "potos4.webp",
+      "potos5.webp"
+    ],
+    "image_policy": "Use the five user-selected local WebP photographs only after confirming that they depict Potos Beach in Thassos and that ownership or commercial publishing and redistribution permissions (and any necessary attribution) have been documented. Paths are assigned from the user-provided screenshot; image binaries and licensing documents were not provided with this JSON.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_gothassos",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Potos Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/potos-beach",
+      "detail": "Lists mixed substrate and facilities such as WC, showers, dining, music, loungers, watersports and parking. Does not guarantee availability in every section.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover_thassos",
+      "kind": "local_travel_guide",
+      "title": "Discover Thassos — Potos Beach",
+      "url": "https://www.discover-thassos.com/listing/potos-beach-thassos/",
+      "detail": "Village location, sandy shore, seasonal services, dining, access, crowds and family use.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Beaches near Potos and Limenaria",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/2588/beaches-near-potos-and-limenaria",
+      "detail": "Separates village beach from San Antonio and a smaller rocky cove; mentions seasonal busy waterfront, gradual depth and beach continuity.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_bathing",
+      "kind": "bathing_quality_data_summary",
+      "title": "Katatopisi — official bathing site Potos and historical EEA quality",
+      "url": "https://katatopisi.gr/en/beach/potos/",
+      "detail": "Lists 2024 Excellent classification for official bathing-water site GRBW129011024101, with location 40.6067,24.6075 that may not represent central beachfront.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_pame_north",
+      "kind": "geographic_secondary",
+      "title": "Pame Paralia — Potos North",
+      "url": "https://pameparalia.com/beach/potos-north-mainland",
+      "detail": "Approximate central-village beach reference 40.6096,24.6057, requiring direct Google Maps point confirmation before public navigation.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_pame_south",
+      "kind": "geographic_secondary",
+      "title": "Pame Paralia — Potos South",
+      "url": "https://pameparalia.com/beach/potos-south-mainland",
+      "detail": "Different nearby sector reference 40.6037,24.6094 shows ambiguity of naming along continuous coastline.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_mythassos",
+      "kind": "local_tourism_guide",
+      "title": "MyThassos — Potos",
+      "url": "https://mythassos.app/en/places/%CF%80%CE%BF%CF%84%CE%BF%CF%82",
+      "detail": "Potos description, central beach, cafés, tavernas and sunset; neighboring beaches listed.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons",
+      "kind": "photo_directory",
+      "title": "Wikimedia Commons — Potos Beach (Thasos)",
+      "url": "https://commons.wikimedia.org/wiki/Category:Potos_Beach_(Thasos)",
+      "detail": "Directory of three visual candidates; licensing is attached to individual file pages.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_cover",
+      "kind": "photo_rights",
+      "title": "Commons — Nice Potos Beach",
+      "url": "https://commons.wikimedia.org/wiki/File:Nice_Potos_Beach_-_panoramio.jpg",
+      "detail": "Author spaceman117, CC BY 3.0; image 2014.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_village",
+      "kind": "photo_rights",
+      "title": "Commons — Potos pogled sa brda",
+      "url": "https://commons.wikimedia.org/wiki/File:Potos_pogled_sa_brda.jpg",
+      "detail": "Author Cveleglg, author-dedicated public domain; image 2013.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Select exact central Potos Beach Google Maps coordinate and safe public access point; current coordinates come from secondary geographic reference",
+      "Five local paths potos1.webp through potos5.webp are assigned based on a user screenshot; confirm they depict the intended central Potos Beach sector and verify each photo’s provenance, commercial publishing/transfer rights and attribution before release.",
+      "Confirm current seasonal operator services, toilets, showers and water-sports availability",
+      "Check parking conditions and lounger pricing with local providers",
+      "Native-language proofreading for six texts before publishing",
+      "Do not transfer official 2024 bathing-water rating to 2026 or as Blue Flag claim"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text preserved. Five local WebP photo paths have been assigned, but ownership, commercial reuse and transferable rights for these photographs have not been independently verified.",
+    "photo_source_disclaimer": "The five local WebP paths are based on user-supplied filenames visible in a screenshot. No actual WebP binaries or photo licensing documents are embedded in this JSON, and geographic identity/rights have not been independently verified."
+  }
+}

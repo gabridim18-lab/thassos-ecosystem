@@ -1,0 +1,372 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-atspas",
+  "slug": "atspas",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Ατσπάς",
+    "international_name": "Atspas Beach",
+    "aliases": [
+      "Sugar Beach",
+      "Atspas",
+      "Atsapas Beach",
+      "Paralia Atspas",
+      "Παραλία Ατσπάς",
+      "Skala Maries Sugar Beach"
+    ],
+    "entity_scope": "Small distinct sandy cove at the southern edge of Skala Maries / Skala Marion, southwest Thassos.",
+    "deduplication_warning": "Do not merge with Skala Maries village/harbour beach, or with Platanes (Sunset Beach); they are different coves around the same village. Beach bar POIs at Atspas are operators, not independent beaches."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southwest / west",
+    "settlements": [
+      "Skala Maries",
+      "Skala Marion"
+    ],
+    "lat": 40.6392994,
+    "lng": 24.5157897,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.6392994%2C24.5157897",
+    "coordinate_source_reference": "s_map",
+    "coordinate_type": "representative_beach_pin_not_parking_or_stairs",
+    "coordinate_review_status": "Google Maps place coordinates resolved from a linked maps shortcut on local Greek guide; beach access point not independently field-checked",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "fine_sand",
+    "seabed_near_shore": "predominantly_sandy_with_rocks_at_cove_edges",
+    "water_entry": "generally_gradual",
+    "nearshore_depth": "very_shallow_for_considerable_distance",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "relatively_sheltered_but_weather_dependent",
+    "exposure": "small_southwest_facing_cove",
+    "natural_shade_on_sand": "limited; shadow depends on position and time of day",
+    "beach_length_m": null,
+    "length_note": "Small beach; published size estimates have not been independently measured, so exact dimensions are omitted.",
+    "backdrop": "green slopes and rocky headlands",
+    "shoreline_type": "compact_sandy_cove"
+  },
+  "visitor_experience": {
+    "organization": "seasonally_organized_with_some_free_space",
+    "suitable_for": [
+      "families",
+      "couples",
+      "swimming",
+      "relaxed_afternoon",
+      "sunsets",
+      "photography",
+      "careful_snorkeling"
+    ],
+    "notable_for": [
+      "fine_sand",
+      "long_shallow_entry",
+      "small_cove",
+      "sunset_views",
+      "sheltered_setting"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunset_watching",
+      "photography",
+      "snorkeling_near_rocks",
+      "seasonal_beach_volleyball"
+    ],
+    "estimated_crowd_peak": "small_cove_can_get_busy_in_july_august",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Water is often shallow, but depth and weather conditions vary; children need supervision. Use caution near rocks and in any boat traffic."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Reported at/through local operators; public access and opening times not confirmed."
+    },
+    "showers": {
+      "available_in_some_sections": true,
+      "note": "Reported operator-managed shower(s); operation or fees may change."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": false,
+    "volleyball": true,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No current independent confirmation of lifeguard service.",
+    "wheelchair_beach_access": false,
+    "wheelchair_access_note": "Descent includes steps; level barrier-free beach access not established.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Facilities are seasonal and tied to specific nearby operators, not a guaranteed year-round public provision."
+  },
+  "access_and_cost": {
+    "road_access": "paved_road_into_skala_maries_then_short_descent_with_steps",
+    "public_transport": "buses_to_skala_maries_reported; current season timetable not verified",
+    "parking_type": "limited_roadside_and_nearby_village_parking",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Charges and minimum-consumption policies vary by operator; ask before using equipment.",
+    "best_arrival_advice": "Arrive early for a preferred spot in peak summer; late afternoon is attractive for photos and sunset but parking and space are not assured.",
+    "distance_from_limenas_km": null,
+    "distance_note": "No single route length stored without a verified access-point route."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Live weather, UV, sea temperature and wave conditions are fetched at display time, not stored as beach facts."
+  },
+  "translations": {
+    "ro": {
+      "name": "Atspas Beach (Sugar Beach)",
+      "tagline": "Un golf intim cu nisip fin, apă mică și apusuri spectaculoase",
+      "summary": "Atspas, numită și Sugar Beach, este o plajă mică de lângă Skala Maries, pe coasta sud-vestică a insulei Thassos. Nisipul fin, intrarea foarte lină în apă și priveliștea spre apus o fac atractivă pentru familii și pentru zilele relaxate la mare.",
+      "description": "Atspas Beach se ascunde într-un golf mic, mărginit de versanți verzi și stânci, la marginea satului Skala Maries. Plaja mai este cunoscută drept Sugar Beach, un nume potrivit pentru nisipul ei fin și deschis la culoare. Intrarea în mare este în general lină, iar apa rămâne puțin adâncă pe o distanță apreciabilă, ceea ce atrage familiile cu copii. Golful este relativ adăpostit, dar condițiile de înot depind întotdeauna de vreme. O parte din nisip este ocupată sezonier de șezlonguri și umbrele, în timp ce în apropiere funcționează servicii de băuturi și gustări. Atspas este mică și poate deveni aglomerată în iulie și august; de aceea merită să ajungi devreme dacă vrei un loc anume. Pe marginea golfului se văd stânci potrivite pentru a explora cu mască, cu atenție la fundul apei. Spre seară, lumina apusului transformă plaja într-unul dintre cele mai plăcute locuri din zona Skala Maries.",
+      "practical_tips": "Accesul se face din zona Skala Maries, cu un coborâș scurt și trepte către nisip. Parcarea este limitată în vecinătatea drumului, iar în sezonul de vârf se ocupă repede. Nu presupune că vei găsi spațiu liber pentru prosop în fața apei: plaja este îngustă și unele sectoare sunt amenajate. Toaletele, dușurile și eventualele costuri țin de operatorii locali și se verifică la fața locului. Nisipul este blând la intrare, dar supraveghează copiii și verifică întotdeauna vântul și valurile. Spre apus lumina este excelentă pentru fotografii.",
+      "highlights": [
+        "Golf mic cu nisip fin",
+        "Apă de regulă puțin adâncă la mal",
+        "Apusuri frumoase spre vest",
+        "Beach bar și șezlonguri sezoniere",
+        "Aproape de satul Skala Maries"
+      ],
+      "seo_title": "Atspas Beach Thassos – Sugar Beach, acces și facilități",
+      "seo_description": "Descoperă Atspas (Sugar Beach) lângă Skala Maries, Thassos: nisip fin, apă puțin adâncă, acces, facilități sezoniere și apusuri.",
+      "social_caption": "🏖️ Atspas sau Sugar Beach este un golf mic din Thassos, cu nisip fin, apă limpede și apusuri memorabile. 🌅 Salvează locul pentru o după-amiază relaxată lângă Skala Maries! 🇬🇷 #Thassos #AtspasBeach #SugarBeach",
+      "photo_alt": "Vedere asupra golfului nisipos Atspas, cu apă turcoaz și dealuri verzi lângă Skala Maries, Thassos."
+    },
+    "en": {
+      "name": "Atspas Beach (Sugar Beach)",
+      "tagline": "A sheltered sandy cove with gentle shallows and beautiful sunsets",
+      "summary": "Atspas, often called Sugar Beach, is a compact sandy cove near Skala Maries on the southwestern coast of Thassos. Its fine sand, gently sloping seabed and west-facing sunsets make it popular for relaxed afternoons and family beach days.",
+      "description": "Atspas Beach sits in a small cove framed by green slopes and rocky edges just outside the village of Skala Maries. The nickname Sugar Beach reflects the fine, pale sand that extends into the sea. The entry is generally gentle and the water stays shallow for a considerable distance, making the bay appealing to families with children. The sheltered setting often feels calm, although swimmers should always judge the weather and conditions on the day. During summer, part of the limited beach space is occupied by loungers and umbrellas, and nearby operators provide drinks and snacks. This is not an expansive beach: it can become crowded in July and August, and the most desirable spots fill early. Rocky edges add variety for careful snorkeling, while the soft sandy shallows are a highlight in their own right. In the late afternoon, Atspas becomes particularly photogenic as the sun sinks toward the western horizon. It is a lovely choice when you want a scenic swim and an unhurried sunset close to Skala Maries.",
+      "practical_tips": "Reach Atspas from Skala Maries and expect a short descent, including steps, to the beach. Roadside parking is limited and may be difficult at busy times. Because the cove is small and sections are furnished with loungers, free space by the water cannot be guaranteed. Toilets, showers and any service charges depend on seasonal operators; check locally before settling in. Gentle shallows still require child supervision, and wind and sea conditions may change. Late afternoon offers attractive light for photographs.",
+      "highlights": [
+        "Small cove with fine sand",
+        "Generally shallow water near shore",
+        "West-facing sunsets",
+        "Seasonal loungers and beach-bar service",
+        "Short distance from Skala Maries"
+      ],
+      "seo_title": "Atspas Beach Thassos – Sugar Beach guide and access",
+      "seo_description": "Explore Atspas, or Sugar Beach, near Skala Maries in Thassos: sandy shallows, seasonal facilities, access, parking advice and sunsets.",
+      "social_caption": "🏖️ Meet Atspas, the little Sugar Beach near Skala Maries on Thassos. Soft sand, clear shallows and a golden sunset make this cove unforgettable. 🌅 Save it for your island itinerary! 🇬🇷 #Thassos #AtspasBeach #SugarBeach",
+      "photo_alt": "Atspas sandy cove and turquoise water surrounded by green hills near Skala Maries, Thassos."
+    },
+    "el": {
+      "name": "Παραλία Ατσπάς (Sugar Beach)",
+      "tagline": "Μικρός αμμώδης όρμος με ρηχά νερά και μαγευτικά ηλιοβασιλέματα",
+      "summary": "Ο Ατσπάς, γνωστός και ως Sugar Beach, είναι μια μικρή αμμώδης παραλία κοντά στη Σκάλα Μαριών, στη νοτιοδυτική Θάσο. Η λεπτή άμμος, η ομαλή είσοδος στη θάλασσα και το ηλιοβασίλεμα προσελκύουν οικογένειες και ταξιδιώτες που αναζητούν χαλάρωση.",
+      "description": "Η παραλία Ατσπάς βρίσκεται σε έναν μικρό κόλπο με καταπράσινες πλαγιές και βραχώδη άκρα, λίγο έξω από τη Σκάλα Μαριών. Το παρατσούκλι Sugar Beach ταιριάζει στη λεπτή, ανοιχτόχρωμη άμμο που συνεχίζεται και μέσα στο νερό. Η είσοδος στη θάλασσα είναι γενικά ομαλή και τα νερά παραμένουν ρηχά για αρκετή απόσταση, κάτι που την κάνει δημοφιλή στις οικογένειες με παιδιά. Ο κόλπος είναι σχετικά προστατευμένος, αλλά οι συνθήκες κολύμβησης εξαρτώνται πάντα από τον καιρό. Το καλοκαίρι μέρος της μικρής παραλίας καταλαμβάνεται από ξαπλώστρες και ομπρέλες, ενώ σε κοντινή απόσταση προσφέρονται ροφήματα και ελαφριά γεύματα. Τον Ιούλιο και τον Αύγουστο μπορεί να έχει αρκετό κόσμο, γι’ αυτό αξίζει να φτάσετε νωρίς. Οι βραχώδεις άκρες προσφέρονται για προσεκτική εξερεύνηση με μάσκα. Αργά το απόγευμα, το φως του ήλιου χαρίζει στον Ατσπά ιδιαίτερα όμορφα χρώματα και ένα αξέχαστο ηλιοβασίλεμα.",
+      "practical_tips": "Η πρόσβαση γίνεται από τη Σκάλα Μαριών, με μια σύντομη κατάβαση και σκαλοπάτια προς την ακτή. Οι θέσεις στάθμευσης κοντά στον δρόμο είναι περιορισμένες, ιδιαίτερα στην υψηλή περίοδο. Ο χώρος για δική σας πετσέτα μπορεί να είναι μικρός όταν λειτουργούν οι οργανωμένες ζώνες. Τουαλέτες, ντους και τυχόν χρεώσεις εξαρτώνται από τις εποχικές επιχειρήσεις και χρειάζονται τοπική επιβεβαίωση. Επιβλέπετε τα παιδιά ακόμη και στα ρηχά νερά και ελέγχετε τον άνεμο πριν μπείτε στη θάλασσα.",
+      "highlights": [
+        "Μικρός κόλπος με λεπτή άμμο",
+        "Συνήθως ρηχά νερά στην ακτή",
+        "Όμορφα ηλιοβασιλέματα",
+        "Εποχικές ξαπλώστρες και beach bar",
+        "Κοντά στη Σκάλα Μαριών"
+      ],
+      "seo_title": "Παραλία Ατσπάς Θάσος – Sugar Beach, πρόσβαση και παροχές",
+      "seo_description": "Ανακαλύψτε τον Ατσπά (Sugar Beach) κοντά στη Σκάλα Μαριών: λεπτή άμμος, ρηχά νερά, εποχικές παροχές, πρόσβαση και ηλιοβασίλεμα.",
+      "social_caption": "🏖️ Ατσπάς ή Sugar Beach: ένας μικρός όρμος στη Θάσο με λεπτή άμμο, διάφανα νερά και υπέροχο ηλιοβασίλεμα. 🌅 Κρατήστε τον για την επόμενη βόλτα σας! 🇬🇷 #Θάσος #Ατσπάς #SugarBeach",
+      "photo_alt": "Ο αμμώδης όρμος του Ατσπά με τιρκουάζ νερά και πράσινες πλαγιές κοντά στη Σκάλα Μαριών στη Θάσο."
+    },
+    "de": {
+      "name": "Atspas Beach (Sugar Beach)",
+      "tagline": "Kleine Sandbucht mit flachem Wasser und stimmungsvollen Sonnenuntergängen",
+      "summary": "Atspas, auch Sugar Beach genannt, liegt in einer kleinen Bucht nahe Skala Maries an der Südwestküste von Thassos. Feiner Sand, ein sanfter Einstieg ins Meer und Sonnenuntergänge machen den Strand besonders für Familien und entspannte Nachmittage attraktiv.",
+      "description": "Der Atspas Beach liegt in einer kleinen, von grünen Hängen und Felsen eingerahmten Bucht unweit von Skala Maries. Seinen Beinamen Sugar Beach verdankt er dem feinen, hellen Sand, der sich bis ins Meer fortsetzt. Der Einstieg ist meist sanft, und das Wasser bleibt über eine längere Strecke flach. Deshalb ist die Bucht bei Familien mit Kindern beliebt. Durch die geschützte Lage wirkt das Meer häufig ruhig, dennoch sollten die aktuellen Wind- und Wellenverhältnisse immer beachtet werden. Im Sommer stehen in Teilen der kleinen Bucht Liegen und Sonnenschirme, während Anbieter in der Nähe Getränke und Snacks anbieten. Gerade weil der Strand nicht groß ist, wird es im Juli und August schnell voll. Wer einen bestimmten Platz sucht, sollte früh kommen. An den felsigen Rändern lässt sich die Unterwasserwelt vorsichtig mit Schnorchel und Maske erkunden. Am späten Nachmittag zeigt sich Atspas von seiner besonders schönen Seite: Das warme Licht und der Sonnenuntergang über dem Meer sorgen für eine stimmungsvolle Kulisse.",
+      "practical_tips": "Von Skala Maries führt ein kurzer Abstieg mit Stufen zur Bucht. Parkplätze entlang der Straße sind begrenzt, besonders in der Hauptsaison. Da Teile des Strandes bewirtschaftet werden, ist ein freier Platz direkt am Wasser nicht immer verfügbar. Toiletten, Duschen und mögliche Gebühren hängen von den saisonalen Betreibern ab und sollten vor Ort erfragt werden. Auch im flachen Wasser benötigen Kinder Aufsicht. Prüfen Sie vor dem Baden Wind und Wellengang.",
+      "highlights": [
+        "Kleine Bucht mit feinem Sand",
+        "Meist flaches Wasser am Ufer",
+        "Sonnenuntergänge über dem Meer",
+        "Saisonale Liegen und Strandbar",
+        "Nahe dem Ort Skala Maries"
+      ],
+      "seo_title": "Atspas Beach Thassos – Sugar Beach, Anfahrt und Ausstattung",
+      "seo_description": "Atspas oder Sugar Beach auf Thassos entdecken: feiner Sand, flaches Wasser, saisonale Angebote, Parken und Sonnenuntergänge bei Skala Maries.",
+      "social_caption": "🏖️ Atspas, auch Sugar Beach genannt, ist eine kleine Sandbucht auf Thassos. Glasklares Wasser, sanfte Untiefen und ein wunderschöner Sonnenuntergang warten auf euch. 🌅 #Thassos #AtspasBeach #Griechenland",
+      "photo_alt": "Kleine Sandbucht Atspas mit türkisfarbenem Wasser und grünen Hügeln bei Skala Maries auf Thassos."
+    },
+    "bg": {
+      "name": "Атспас (Sugar Beach)",
+      "tagline": "Малък пясъчен залив с плитка вода и красиви залези",
+      "summary": "Атспас, известен и като Sugar Beach, е малък пясъчен залив край Скала Мариес на югозападния бряг на Тасос. Финият пясък, плавното навлизане в морето и залезите го правят чудесен избор за семейства и спокоен следобед.",
+      "description": "Плажът Атспас е сгушен в малък залив, обграден от зелени склонове и скалисти краища, близо до селцето Скала Мариес. Прякорът Sugar Beach идва от финия светъл пясък, който продължава и под водата. Навлизането в морето обикновено е плавно, а плитката зона се простира на значително разстояние, затова плажът е привлекателен за семейства с деца. Заливът е относително защитен, но условията за къпане винаги зависят от времето. През лятото част от ограниченото пространство е заето от шезлонги и чадъри, а наблизо се предлагат напитки и леки храни. Тъй като плажът е малък, през юли и август може да бъде многолюден. За предпочитано място е добре да пристигнете по-рано. Скалистите краища създават възможности за внимателно гмуркане с маска. В късния следобед топлата светлина и залезът над морето превръщат Атспас в особено красиво място за снимки и почивка.",
+      "practical_tips": "До плажа се стига от Скала Мариес по кратък спускащ се път със стъпала. Паркирането край улицата е ограничено, особено в пиковия сезон. Свободното място за собствена кърпа до водата не е гарантирано, когато работят организираните зони. Тоалетни, душове и евентуални такси зависят от сезонните оператори и трябва да се проверят на място. Наблюдавайте децата дори в плитката вода и следете вятъра и вълните.",
+      "highlights": [
+        "Малък залив с фин пясък",
+        "Обикновено плитка вода край брега",
+        "Красиви морски залези",
+        "Сезонни шезлонги и плажен бар",
+        "Близо до Скала Мариес"
+      ],
+      "seo_title": "Атспас, Тасос – Sugar Beach, достъп и удобства",
+      "seo_description": "Открийте Атспас (Sugar Beach) край Скала Мариес: фин пясък, плитка вода, сезонни удобства, паркиране и незабравими залези.",
+      "social_caption": "🏖️ Атспас, или Sugar Beach, е малък залив на Тасос с фин пясък, прозрачна вода и прекрасни залези. 🌅 Запазете го за следващото си пътуване! 🇬🇷 #Тасос #Atspas #SugarBeach",
+      "photo_alt": "Пясъчният залив Атспас с тюркоазена вода и зелени хълмове близо до Скала Мариес на Тасос."
+    },
+    "sr": {
+      "name": "Atspas Beach (Sugar Beach)",
+      "tagline": "Mala peščana uvala sa plićakom i prelepim zalascima sunca",
+      "summary": "Atspas, poznat i kao Sugar Beach, mala je peščana uvala pored Skala Marijesa na jugozapadu Tasosa. Fini pesak, postepen ulazak u more i zalasci sunca čine je privlačnom za porodice i opuštene popodnevne sate.",
+      "description": "Plaža Atspas nalazi se u maloj uvali okruženoj zelenim padinama i stenovitim obodima, nedaleko od Skala Marijesa. Nadimak Sugar Beach povezan je sa veoma sitnim, svetlim peskom koji se nastavlja i pod vodom. Ulazak u more uglavnom je postepen, a plićak se proteže na znatnoj udaljenosti, pa je plaža omiljena među porodicama sa decom. Uvala je relativno zaklonjena, ali uslovi za kupanje uvek zavise od vetra i vremena. Tokom leta deo male plaže zauzimaju ležaljke i suncobrani, dok se u blizini mogu pronaći piće i lagani obroci. Pošto nema mnogo prostora, u julu i avgustu ume da bude gužva; za željeno mesto najbolje je doći ranije. Uz stenovite ivice zanimljivo je pažljivo istraživati morski svet maskom za ronjenje. Predveče se Atspas posebno ističe toplom svetlošću i pogledom na zalazak sunca. Ovo je odličan izbor za kratko kupanje koje se pretvara u mirno ostrvsko veče.",
+      "practical_tips": "Iz Skala Marijesa do plaže vodi kratak silazak sa stepenicama. Parkiranje pored puta je ograničeno, naročito tokom glavne sezone. Slobodnog prostora za sopstveni peškir uz more možda neće biti kada rade uređeni delovi. Toaleti, tuševi i moguće naknade zavise od sezonskih operatera i treba ih proveriti na licu mesta. I u plićaku nadgledajte decu i pre ulaska u more proverite vetar i talase.",
+      "highlights": [
+        "Mala uvala sa finim peskom",
+        "Uglavnom plitko more uz obalu",
+        "Prelepi zalasci sunca",
+        "Sezonske ležaljke i bar",
+        "Blizu Skala Marijesa"
+      ],
+      "seo_title": "Atspas Beach Tasos – Sugar Beach, prilaz i sadržaji",
+      "seo_description": "Otkrijte Atspas (Sugar Beach) kod Skala Marijesa: fini pesak, plićak, sezonske sadržaje, parking i zalaske sunca.",
+      "social_caption": "🏖️ Atspas, poznat i kao Sugar Beach, mala je uvala na Tasosu sa sitnim peskom, bistrim morem i prelepim zalascima sunca. 🌅 Sačuvajte je za sledeći odmor! 🇬🇷 #Tasos #AtspasBeach #SugarBeach",
+      "photo_alt": "Mala peščana uvala Atspas sa tirkiznim morem i zelenim padinama kod Skala Marijesa na Tasosu."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/atspas/images/atspas1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/atspas/images/atspas2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/atspas/images/atspas3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/atspas/images/atspas4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/atspas/images/atspas5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/atspas/images/",
+    "suggested_asset_names": [
+      "atspas1.webp",
+      "atspas2.webp",
+      "atspas3.webp",
+      "atspas4.webp",
+      "atspas5.webp"
+    ],
+    "image_policy": "Use only images supplied or approved by the project owner, with verified rights for commercial publication. Image 1 is the cover; images 2–5 appear in numeric gallery order.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_map",
+      "kind": "map_link",
+      "title": "ThassosLines — Atspas Google Maps reference",
+      "url": "https://www.thassoslines.gr/2022/07/Thassos-paralia-Atspas.html",
+      "detail": "Local guide links to Google Maps place at 40.6392994, 24.5157897; the point represents Atspas beach, not a verified parking place or stair entry.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_gothassos",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Atspas Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/atspas-beach",
+      "detail": "Beach facilities including seasonal loungers, drinks, toilets, showers, volleyball and parking; do not generalize to year-round public amenities.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide",
+      "title": "Nikana — Atspas (Sugar Beach)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1938/atspas-sugar-beach",
+      "detail": "Long sandy shallows, sunsets, crowding, rocky sides, parking and service notes; source updated October 2026, exact operator terms may change.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_discover",
+      "kind": "travel_guide",
+      "title": "Discover Thassos — Atspas Beach",
+      "url": "https://www.discover-thassos.com/listing/atspas-beach-thassos/",
+      "detail": "Distinguishes Atspas from village Skala Maries Beach and Platanes; described as sandy, shallow and road accessible.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_village",
+      "kind": "local_tourism",
+      "title": "Go Thassos — Skala Maries village and its three bays",
+      "url": "https://www.go-thassos.com/about-thassos/places/skala-maries",
+      "detail": "Skala Maries comprises Platanes, harbour beach and Atspas as three different bays.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_greek_guide",
+      "kind": "local_greek_guide",
+      "title": "ThassosLines — Παραλία Ατσπάς",
+      "url": "https://www.thassoslines.gr/2022/07/Thassos-paralia-Atspas.html",
+      "detail": "Small sheltered cove, fine sand, shallow water, access by steps and beach equipment.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_map_crosscheck",
+      "kind": "geographic_reference",
+      "title": "Mapcarta / OpenStreetMap — Atspas Beach",
+      "url": "https://mapcarta.com/W692616793",
+      "detail": "Independent OpenStreetMap beach polygon around 40.63924,24.51579; supports place identification but is not the source of stored Google Maps coordinates.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_operator",
+      "kind": "local_business",
+      "title": "Go Thassos — Kavos Café-Bar near Atspas",
+      "url": "https://www.go-thassos.gr/visiting-thassos/drinks-and-dining/kavos-caf%C3%A9-bar",
+      "detail": "Nearby operator and a separate 40.639854,24.516055 business pin; not the beach-center coordinate.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_media_paths_configured_pending_asset_check_and_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm that atspas1.webp–atspas5.webp exist in the stated images folder, accurately show Atspas Beach and are cleared for publication.",
+      "Confirm exact beach entry and nearest legal parking on the ground",
+      "Recheck seasonal beach bar, showers, toilets and sunbed terms",
+      "Confirm current accessibility and lifeguard arrangements",
+      "Native review of six-language publication copy"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; commercial-use rights for the five local image assets must be verified separately.",
+    "photo_source_disclaimer": "Local image paths configured from the five filenames provided in a screenshot; image files and publication rights have not been independently inspected."
+  }
+}

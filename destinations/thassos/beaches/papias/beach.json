@@ -1,0 +1,428 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-papias",
+  "slug": "papias",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Παπίας",
+    "international_name": "Papias Beach",
+    "aliases": [
+      "Papias",
+      "Papias Beach",
+      "Papia Beach",
+      "Papias Thassos",
+      "Παραλία Παπίας",
+      "Παπίας",
+      "Παραλία Παπιάς"
+    ],
+    "entity_scope": "Named Papias bathing locality on the western/northwestern Limenas waterfront: generally sandy sections near the Agios Vasilios/Vournelis-to-Tarsanas coastal corridor. A Greek local-news report explicitly refers to the Papias marine area as part of Agios Vasilios Beach, while travel guides also index Papias separately and differ about Tarsanas. Papias is a named locality / possibly a subsection, NOT independently proven to be a geographically separate beach. Do not publish an additional independent beach count or nonoverlapping map polygon until verified.",
+    "deduplication_warning": "HIGH PRIORITY: Greek local news (Kavala News, May 2026) says \"θαλάσσια περιοχή Παπίας στην παραλία του Αγίου Βασιλείου\", so Papias may be a named subsection of the already indexed Agios Vasilios/Vournelis rather than a separate physical beach. Stay Thassos describes Tarsanas as essentially part of Papias, while TravelPlanner lists it as a nearby separate stop. Preserve this candidate record for researched terminology but suppress from independent beach counts/publication until site/map boundary verification. Avoid overlap with Agios Vasilios/Vournelis, Tarsanas, Limanaki, and Papalimani."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "northern / northwestern Limenas waterfront, west of the ferry port",
+    "settlements": [
+      "Limenas (Thassos Town)",
+      "Agios Vasilios/Vournelis vicinity",
+      "Tarsanas vicinity"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Papias%20Beach%2C%20Limenas%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_google_maps_search",
+    "coordinate_type": "unverified_named_beach_pin_coordinates_not_published",
+    "coordinate_review_status": "Third-party BeachAtlas maps Papias around 40.7768284,24.6937875, close to the Tarsanas map point 40.77744,24.69353. A local Greek news report explicitly places the marine area named Papias within Agios Vasilios Beach; geographic boundaries may overlap existing record. Neither published point is verified as a Google Maps Papias-specific beach or entrance. Latitude, longitude and access coordinates deliberately left null until site verification.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "predominantly_sand_with_scattered_pebbly_sections",
+    "seabed_near_shore": "mostly_sandy_in_described_papias_section; local_stones_possible_at_edges",
+    "water_entry": "generally_gradual_in_main_sandy_section",
+    "nearshore_depth": "relatively_shallow_for_some_distance; varies_by_exact_section",
+    "water_clarity": "often_clear_when_calm; weather_and_runoff_can_change_conditions",
+    "wave_conditions": "usually_quiet_in_sheltered_weather; wind_and_boat_wakes_can_alter_conditions",
+    "exposure": "north_or_northwest_facing_town_edge_coast; locally_sheltered_segments",
+    "natural_shade_on_sand": "some_trees_near_upper_shore; shade_location_and_hours_vary",
+    "beach_length_m": null,
+    "length_note": "Papias may be a local subsection of Agios Vasilios and overlap Tarsanas naming. No standalone shoreline length or beach polygon can be established reliably; do not count a distinct measured stretch.",
+    "backdrop": "low coastal greenery, seafront accommodation, modest beach facilities and the built-up edge of Limenas",
+    "shoreline_type": "narrow_urban_fringe_sandy_beach_with_possible_transition_to_adjacent_named_sections"
+  },
+  "visitor_experience": {
+    "organization": "partially_organized_seasonal_mixed_serviced_and_personal_setup",
+    "suitable_for": [
+      "families_with_supervised_children",
+      "couples",
+      "low_key_swimming",
+      "short_beach_visit",
+      "limenas_visitors_without_car",
+      "relaxation"
+    ],
+    "notable_for": [
+      "proximity_to_limenas",
+      "narrow_sandy_shore",
+      "generally_gradual_water_entry",
+      "local_low_key_atmosphere",
+      "nearby_beach_service_sections",
+      "greenery_along_shore"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunbathing",
+      "relaxed_wading",
+      "shoreline_walks",
+      "casual_photography"
+    ],
+    "estimated_crowd_peak": "can_be_busy_on_serviced_sections_in_peak_summer; quieter_periods_and_sections_reported; no_verified_density",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Shallow nearshore water is not a swimming safety guarantee. Supervise children, assess waves, wind, stones and any boat activity on arrival. Rocky patches and possible urchins become more relevant toward the nearby Tarsanas end; do not assume every access point has the same sandy seabed. No current beach-specific lifeguard patrol independently verified."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Some aggregators list toilets at Papias, but publicly accessible, current and exact-sector provision has not been independently established. Operator facilities may be for patrons only."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "Listed by a beach directory but not reliably confirmed for the specific named Papias section and current season."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "A beach aggregator mentions lifeguards, but no independent season-specific confirmation for Papias; nearby Limanaki has different reported supervision. Do not copy Limanaki lifeguard claims to Papias.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Roadside proximity does not establish an accessible ramp, beach mat or continuous wheelchair route; verify the actual public entry.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Guides describe seasonal loungers and umbrellas and at least one refreshment/café operation, alongside some places for visitors with their own gear. Availability, operator ownership, minimum consumption, WC and shower access vary and must not be promised for all of Papias. Hotel or operator amenities are not automatically public."
+  },
+  "access_and_cost": {
+    "road_access": "local_paved_roads_from_limenas_to_western_waterfront; last_turnoff_and_public_pedestrian_entry_need_verification",
+    "public_transport": "limenas_town_bus_services_exist; no_verified_bus_stop_at_papias_beach",
+    "parking_type": "roadside_or_small_local_spots_near_beach_reported; no_confirmed_public_dedicated_car_park",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Older visitor reports describe lounger use linked to a drink or minimum consumption; other sources describe rentals. No current operator-specific 2026 price or minimum order confirmed.",
+    "best_arrival_advice": "From Limenas, follow the westward waterfront roads and confirm the pedestrian entry rather than treating a search-result pin as a car route. Arrive earlier for limited roadside parking and shade in peak summer. Carry sun protection, drinking water and water shoes for unfamiliar rocky edges. Ask beach operators about current lounger terms before sitting down.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Papias is within walking reach of parts of Limenas; exact distance varies by starting point (old town, ferry terminal or accommodation) and the correct public entrance has not been fixed."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Papias Beach (Limenas)",
+      "tagline": "Un colț de nisip liniștit, la câțiva pași de oraș",
+      "summary": "Papias este o plajă relativ îngustă de pe litoralul nord-vestic al orașului Limenas, apreciată pentru zonele nisipoase, apa de obicei puțin adâncă și accesul comod din localitate. Unele porțiuni au șezlonguri și servicii sezoniere, iar delimitarea față de Tarsanas și Vournelis nu este uniformă în ghidurile locale.",
+      "description": "Papias Beach oferă o alternativă plăcută la plajele aglomerate ale insulei pentru cei care sunt cazați în Limenas sau vor să combine o baie în mare cu o plimbare prin oraș. Se află pe fâșia de coastă din partea vestică a localității, dincolo de zona portului de feribot, într-un peisaj cu vegetație, mici unități de cazare și amenajări de plajă fără aspectul unei stațiuni întinse. Malul este relativ îngust și predominant nisipos, cu pietricele în anumite zone. În sectorul descris de obicei ca Papias, intrarea în mare este în general lină, iar fundul nisipos și adâncimea redusă în apropierea țărmului pot fi atractive pentru familiile care supraveghează permanent copiii. Apa este adesea limpede în zilele liniștite, însă valurile și condițiile de înot se pot schimba în funcție de vânt. În sezon pot exista șezlonguri, umbrele și un bar sau o cafenea de plajă; tarifele și regulile de consum trebuie întrebate la fața locului. Unele porțiuni permit și folosirea echipamentului propriu, deși spațiul poate deveni limitat. Numele Papias este folosit pentru un sector apropiat de Agios Vasilios/Vournelis și Tarsanas, iar delimitarea exactă diferă între surse: unele descriu Tarsanas ca o continuare a Papias, în timp ce altele le prezintă separat. În acest ghid, Papias este un punct de vizitare propriu, nu o promisiune că întregul litoral vecin îi aparține. Este un loc potrivit mai ales pentru o dimineață liniștită la mare, cu avantajul că serviciile orașului rămân la îndemână. O relatare locală grecească folosește numele Papias pentru o zonă din dreptul plajei Agios Vasilios, ceea ce explică de ce hărțile și ghidurile nu trasează întotdeauna aceleași limite.",
+      "practical_tips": "Dacă stai în Limenas, verifică pe hartă traseul pietonal spre sectorul Papias; poziția exactă a intrării publice și limitele față de plajele vecine trebuie confirmate. În iulie și august, ajungi mai ușor la un loc bun dacă vii devreme, mai ales când vrei parcare. Ia umbrelă și apă, deoarece umbra copacilor nu acoperă uniform nisipul. Chiar dacă apa este de obicei puțin adâncă, supraveghează copiii și verifică fundul mării înainte de intrare: spre sectoarele vecine pot apărea pietre. Nu te baza pe existența unui salvamar, duș sau toalete publice. Întreabă operatorul dacă șezlongurile sunt contra cost sau presupun o consumație minimă.",
+      "highlights": [
+        "Plajă îngustă, în principal nisipoasă, aproape de Limenas",
+        "Intrare în mare în general lină în sectorul principal",
+        "Șezlonguri și băuturi disponibile în anumite sezoane",
+        "Acces posibil pe jos din zona orașului",
+        "Delimitare de clarificat față de Tarsanas și Vournelis"
+      ],
+      "seo_title": "Papias Beach Thassos – nisip, acces din Limenas și sfaturi",
+      "seo_description": "Ghid Papias Beach, Thassos: plajă nisipoasă aproape de Limenas, apă puțin adâncă, șezlonguri sezoniere, acces și delimitarea față de Tarsanas.",
+      "social_caption": "🏖️ Papias Beach, Thassos: o plajă mai discretă, cu nisip și apă limpede, aproape de Limenas. 🌿 O idee bună pentru o baie fără drum lung cu mașina! 🇬🇷 #Thassos #PapiasBeach #Limenas",
+      "photo_alt": "Plaja Papias de lângă Limenas, Thassos, cu nisip deschis la culoare, mare limpede, umbrele și vegetație în spatele țărmului."
+    },
+    "en": {
+      "name": "Papias Beach (Limenas)",
+      "tagline": "A relaxed sandy shoreline within reach of Thassos Town",
+      "summary": "Papias is a relatively narrow beach on the western side of Limenas, with mainly sandy stretches, usually gradual shallows and easy proximity to town. Seasonal loungers and refreshments are reported, while its precise boundary with neighbouring Vournelis and Tarsanas varies across local guides.",
+      "description": "Papias Beach is a convenient choice for visitors staying in Limenas who would rather enjoy the sea without travelling far around Thassos. It lies along the town’s westward waterfront beyond the ferry-port area, where low coastal greenery, small accommodation buildings and modest beach facilities create a less formal atmosphere than at the island’s larger resort beaches. The shore is comparatively narrow and mainly sandy, although some patches contain pebbles. In the area usually identified as Papias, the sea entry tends to be gradual, with a sandy seabed and a stretch of relatively shallow water. This can appeal to families with children, provided adults supervise them continuously and check conditions on the day. On calmer days the water is often clear, but wind and waves may change the experience. Part of the beach is described as serviced in summer, with umbrellas, sun loungers and a café or beach bar; other spots may accommodate a towel and personal umbrella. These options are not guaranteed everywhere, and any rental charge or minimum drink order needs checking with the current operator. The geography deserves a little care: Papias, Agios Vasilios/Vournelis and Tarsanas are names applied to nearby portions of a coastal strip. Some guides portray Tarsanas as a continuation of Papias, while others treat them as separate beach stops. Here Papias means the named, generally sandier beach locality, not the whole waterfront and not the old-harbour Limanaki town beach. It works especially well for a simple morning swim, a short beach break or a relaxed afternoon close to Limenas restaurants and shops. A contemporary Greek local report also places the Papias marine area at Agios Vasilios Beach, helping explain why nearby beach names and mapped boundaries can overlap.",
+      "practical_tips": "Follow the western waterfront from Limenas, but check the current pedestrian entrance rather than relying on an unverified navigation pin. Arriving early can help with roadside parking and finding a comfortable position in high summer. Trees provide some shade near the upper shore, not reliable cover across the sand, so pack sun protection and water. Check for stones before wading in, especially as you approach neighbouring sections; water shoes are useful if you explore along the edges. Never assume a lifeguard, public shower or toilet is operating. Ask the seasonal beach operator whether loungers are rented separately or require a minimum purchase. Keep watch over children even where the water looks shallow and calm.",
+      "highlights": [
+        "Narrow, mainly sandy beach within easy reach of Limenas",
+        "Generally gradual sea entry in the principal sandy stretch",
+        "Some seasonal loungers and refreshments",
+        "Low-key setting with coastal greenery",
+        "Distinct visitor name, with boundary overlap near Tarsanas"
+      ],
+      "seo_title": "Papias Beach Thassos – Limenas access, sand and facilities",
+      "seo_description": "Discover Papias Beach near Limenas, Thassos: sandy shallows, seasonal loungers, walking access, practical tips and how it relates to nearby Tarsanas.",
+      "social_caption": "🏖️ Papias Beach, Thassos: a small, relaxed sandy stop just outside the busy heart of Limenas. 🌊 Clear-water swims and an easy-going island afternoon. 🇬🇷 #Thassos #PapiasBeach #Limenas",
+      "photo_alt": "Papias Beach near Limenas on Thassos, showing a narrow sandy shore, clear blue water, sun umbrellas and green trees behind the beach."
+    },
+    "el": {
+      "name": "Παραλία Παπίας (Λιμένας)",
+      "tagline": "Μια ήρεμη αμμουδιά σε μικρή απόσταση από τον Λιμένα",
+      "summary": "Η παραλία Παπίας βρίσκεται στη δυτική παραλιακή ζώνη του Λιμένα και χαρακτηρίζεται από σχετικά στενή αμμώδη ακτή, κατά τόπους βότσαλα και συνήθως ομαλή είσοδο στη θάλασσα. Υπάρχουν αναφορές για εποχικές ξαπλώστρες και αναψυκτήριο, ενώ τα ακριβή όρια με τον Άγιο Βασίλειο/Βουρνέλη και τον Ταρσανά χρειάζονται επιβεβαίωση.",
+      "description": "Η παραλία Παπίας είναι μια πρακτική επιλογή για όσους μένουν στον Λιμένα και θέλουν να απολαύσουν τη θάλασσα χωρίς μεγάλη μετακίνηση. Βρίσκεται στη δυτική παραλιακή πλευρά της πόλης, πέρα από την περιοχή του λιμανιού των φέρι, σε μια ακτογραμμή με χαμηλή βλάστηση, μικρά καταλύματα και διακριτικές εγκαταστάσεις αναψυχής. Η ακτή είναι σχετικά στενή και κυρίως αμμώδης, με βότσαλα σε ορισμένα τμήματα. Στο σημείο που συνήθως αναφέρεται ως Παπίας, ο βυθός είναι κατά βάση αμμώδης και η είσοδος στο νερό γίνεται συνήθως ομαλά, με ρηχά νερά κοντά στην ακτή. Έτσι μπορεί να εξυπηρετήσει οικογένειες, αρκεί τα παιδιά να βρίσκονται πάντα υπό επίβλεψη και να ελέγχονται οι συνθήκες της θάλασσας. Όταν επικρατεί ηρεμία, το νερό είναι συχνά διαυγές, αλλά ο άνεμος μπορεί να αλλάξει τον κυματισμό. Κατά την τουριστική περίοδο αναφέρονται ξαπλώστρες, ομπρέλες και κάποιο καφέ ή beach bar, ενώ σε ορισμένα σημεία οι επισκέπτες μπορούν να χρησιμοποιήσουν δικό τους εξοπλισμό. Οι υπηρεσίες, οι τιμές και τυχόν ελάχιστη κατανάλωση πρέπει να επιβεβαιώνονται επί τόπου. Χρειάζεται επίσης προσοχή στις ονομασίες: ο Παπίας βρίσκεται κοντά στις ακτές του Αγίου Βασιλείου/Βουρνέλη και του Ταρσανά. Κάποιοι οδηγοί θεωρούν τον Ταρσανά προέκταση του Παπία, άλλοι τον περιγράφουν χωριστά. Η παρούσα εγγραφή αφορά την τοποθεσία που είναι γνωστή ως Παπίας και όχι ολόκληρη τη συνεχόμενη παραλία ούτε το Λιμανάκι δίπλα στο παλιό λιμάνι. Είναι ένα όμορφο σημείο για ένα χαλαρό μπάνιο, με τον Λιμένα και τις καθημερινές του υπηρεσίες κοντά. Τοπικό ελληνικό δημοσίευμα τοποθετεί μάλιστα τη θαλάσσια περιοχή Παπίας στην παραλία του Αγίου Βασιλείου, γεγονός που εξηγεί γιατί οι ονομασίες και τα όρια ενδέχεται να επικαλύπτονται.",
+      "practical_tips": "Από τον Λιμένα κατευθυνθείτε προς τη δυτική παραλιακή ζώνη, αλλά επιβεβαιώστε τη σωστή πεζή πρόσβαση και μην βασιστείτε σε ανεπιβεβαίωτο στίγμα χάρτη. Το καλοκαίρι αξίζει να έρθετε νωρίς, επειδή οι κοντινές θέσεις στάθμευσης μπορεί να είναι περιορισμένες. Η σκιά από τα δέντρα δεν καλύπτει όλη την άμμο, οπότε πάρτε αντηλιακή προστασία και νερό. Ελέγξτε για πέτρες κοντά στα γειτονικά τμήματα και χρησιμοποιήστε παπούτσια θαλάσσης αν χρειάζεται. Δεν έχει επιβεβαιωθεί μόνιμη παρουσία ναυαγοσώστη ούτε δημόσιες τουαλέτες ή ντους. Ρωτήστε τον εκάστοτε επαγγελματία για τη χρήση ξαπλωστρών και τις χρεώσεις. Επιβλέπετε πάντοτε τα παιδιά, ακόμη και στα ρηχά.",
+      "highlights": [
+        "Στενή κυρίως αμμώδης ακτή κοντά στον Λιμένα",
+        "Συνήθως ομαλή είσοδος στη θάλασσα",
+        "Εποχικές ξαπλώστρες και σημεία αναψυχής",
+        "Πρόσβαση από την πόλη χωρίς μεγάλη διαδρομή",
+        "Γειτονική αλλά όχι πλήρως οριοθετημένη σε σχέση με τον Ταρσανά"
+      ],
+      "seo_title": "Παραλία Παπίας Θάσος – πρόσβαση από Λιμένα και παροχές",
+      "seo_description": "Γνωρίστε την παραλία Παπίας κοντά στον Λιμένα Θάσου: αμμώδης ακτή, ρηχά νερά, εποχικές ξαπλώστρες, πρόσβαση και χρήσιμες πληροφορίες.",
+      "social_caption": "🏖️ Παραλία Παπίας, Θάσος: μια χαλαρή γωνιά με άμμο και καθαρά νερά κοντά στον Λιμένα. 🌿 Ιδανική για μια μικρή καλοκαιρινή απόδραση! 🇬🇷 #Θάσος #Παπίας #Λιμένας",
+      "photo_alt": "Η παραλία Παπίας κοντά στον Λιμένα της Θάσου, με στενή αμμώδη ακτή, καθαρή γαλάζια θάλασσα, ομπρέλες και δέντρα στο βάθος."
+    },
+    "de": {
+      "name": "Papias Beach (Limenas)",
+      "tagline": "Ein entspannter Sandstrand ganz in der Nähe von Thassos-Stadt",
+      "summary": "Papias ist ein vergleichsweise schmaler Strand westlich von Limenas, mit überwiegend sandigen Bereichen, meist flach abfallendem Wasser und guter Nähe zum Ort. Saisonale Liegen und Getränkeangebote werden beschrieben; die genaue Grenze zu Vournelis und Tarsanas ist in Reiseführern nicht einheitlich.",
+      "description": "Papias Beach eignet sich besonders für Gäste, die in Limenas wohnen und ohne längere Autofahrt ans Meer möchten. Der Strand liegt an der westlichen Küstenlinie des Ortes, hinter dem Bereich des Fährhafens. Hier prägen niedrige Küstenvegetation, kleinere Unterkünfte und eher zurückhaltende Strandangebote das Bild. Anders als an den großen Badebuchten der Insel ist das Ufer relativ schmal. Es besteht überwiegend aus Sand, wobei stellenweise Kiesel auftreten. Im meist als Papias bezeichneten Abschnitt ist auch der Meeresboden größtenteils sandig. Der Einstieg fällt häufig sanft ab, und das Wasser bleibt in Ufernähe ein Stück weit flach. Für Familien kann das angenehm sein, ersetzt aber weder die Aufsicht über Kinder noch die Prüfung von Wind und Wellen. Bei ruhigem Wetter wirkt das Meer oft sehr klar. Während der Sommersaison werden an einigen Stellen Sonnenschirme, Liegen und eine kleine Bar oder ein Café angeboten. Daneben soll es Bereiche geben, in denen man den eigenen Sonnenschirm aufstellen kann. Preise, Mindestverzehr und die tatsächliche Verfügbarkeit hängen vom Betreiber und der Saison ab. Wichtig ist außerdem die genaue Einordnung: Papias liegt an einer Küstenstrecke nahe Agios Vasilios/Vournelis und Tarsanas. Manche lokalen Beschreibungen sehen Tarsanas als Fortsetzung von Papias, andere behandeln die Strandnamen getrennt. Dieser Eintrag bezeichnet deshalb den als Papias bekannten Badeplatz, keine amtlich vermessene Gesamtfläche und nicht den Stadtstrand Limanaki am alten Hafen. Für einen unkomplizierten Morgen am Wasser oder eine kurze Erholungspause mit Stadtnähe ist Papias eine reizvolle Möglichkeit. Ein aktueller griechischer Lokalbericht bezeichnet Papias zudem als Meeresbereich am Strand Agios Vasilios; das erklärt, warum sich die Namen und Grenzziehungen überschneiden können.",
+      "practical_tips": "Von Limenas aus die westliche Küstenstraße nutzen und den tatsächlichen öffentlichen Fußzugang vor Ort prüfen; der Suchpunkt auf der Karte ist nicht als genauer Parkplatz oder Eingang bestätigt. In der Hauptsaison empfiehlt sich frühes Ankommen, da Stellplätze und schattige Plätze knapp werden können. Bäume spenden nur punktuell Schatten, daher Sonnenschutz und Trinkwasser mitnehmen. An den Rändern Richtung der Nachbarabschnitte auf Steine achten; Badeschuhe können hilfreich sein. Weder Rettungsschwimmer noch öffentlich nutzbare Duschen und Toiletten sind aktuell sicher nachgewiesen. Vor Nutzung der Liegen nach Mietpreis oder Mindestbestellung fragen. Kinder auch im flachen Wasser beaufsichtigen.",
+      "highlights": [
+        "Überwiegend sandiger, schmaler Strand bei Limenas",
+        "Häufig sanfter Einstieg und flaches Uferwasser",
+        "Saisonale Liegen und Erfrischungen",
+        "Einfacher Strandbesuch von der Stadt aus",
+        "Übergang zu Tarsanas und Vournelis noch nicht exakt abgegrenzt"
+      ],
+      "seo_title": "Papias Beach Thassos – Anfahrt ab Limenas und Strandtipps",
+      "seo_description": "Papias Beach bei Limenas auf Thassos: schmaler Sandstrand, flaches Wasser, saisonale Liegen, Parkmöglichkeiten und Hinweise zu Tarsanas.",
+      "social_caption": "🏖️ Papias Beach auf Thassos: ein ruhiger, sandiger Strandabschnitt ganz in der Nähe von Limenas. 🌊 Perfekt für eine kleine Auszeit am Meer! 🇬🇷 #Thassos #PapiasBeach #Limenas",
+      "photo_alt": "Schmaler Sandstrand Papias bei Limenas auf Thassos mit klarem Meer, Sonnenschirmen und grüner Küstenvegetation."
+    },
+    "bg": {
+      "name": "Плаж Папиас (Лименас)",
+      "tagline": "Спокойна пясъчна ивица близо до град Тасос",
+      "summary": "Папиас е сравнително тесен плаж западно от Лименас с предимно пясъчен бряг, обикновено плавно навлизане във водата и удобна близост до града. През сезона се съобщава за шезлонги и заведение, но точната граница със съседните Вурнелис и Тарсанас не е еднакво описана във всички източници.",
+      "description": "Плаж Папиас е удобен избор за туристите, които са отседнали в Лименас и искат да плуват, без да пътуват далеч из остров Тасос. Той се намира по крайбрежната ивица западно от фериботното пристанище, сред ниска зеленина, малки места за настаняване и сравнително непретенциозни плажни съоръжения. Плажът не е широк, а настилката е предимно пясъчна с отделни участъци от дребни камъчета. В зоната, която най-често се нарича Папиас, морското дъно обикновено е пясъчно и навлизането във водата е плавно. Близо до брега водата остава плитка на известно разстояние, което може да е удобно за семейства с деца, стига те да бъдат постоянно наблюдавани. В спокойни дни морето често е бистро, но вятърът и вълните могат да променят условията. През летния сезон на отделни места се предлагат чадъри, шезлонги и напитки от малък бар или кафене. Някои части позволяват използване на собствена плажна екипировка. Наличието на услуги и условията за наемане или минимална консумация не са еднакви навсякъде и трябва да се проверят на място. Важно е и разграничаването на имената: Папиас е близо до бреговете Агиос Василиос/Вурнелис и Тарсанас. Някои местни пътеводители приемат Тарсанас за продължение на Папиас, докато други ги описват като отделни места. Тук Папиас се разглежда като самостоятелна позната зона за посещение, без да се твърдят точни географски граници. Не бива да се бърка и с градския плаж Лиманаки при старото пристанище. Това е приятно място за кратка почивка край морето, съчетана с разходка в Лименас. Актуална местна гръцка публикация определя морската зона Папиас като част от плажа Агиос Василиос, което обяснява защо названията и границите в пътеводителите може да се припокриват.",
+      "practical_tips": "От Лименас се насочете към западната крайбрежна част, но проверете къде е действителният обществен пешеходен достъп; точката от търсачката на картата не е потвърден вход или паркинг. През активния летен сезон пристигайте по-рано, защото близките места за паркиране са ограничени. Дърветата не засенчват целия пясък, затова носете вода и слънцезащита. Проверете дали има камъни на входа към морето, особено към съседните участъци; обувки за вода може да са полезни. Не разчитайте на постоянно присъствие на спасител или на обществени душове и тоалетни без проверка. Попитайте за актуалните условия за ползване на шезлонгите. Наблюдавайте децата и в плитчините.",
+      "highlights": [
+        "Тесен, предимно пясъчен бряг близо до Лименас",
+        "Обикновено плавно влизане в морето",
+        "Сезонни шезлонги и напитки",
+        "Възможност за посещение пеша от града",
+        "Границите с Тарсанас и Вурнелис се нуждаят от проверка"
+      ],
+      "seo_title": "Плаж Папиас, Тасос – достъп от Лименас и удобства",
+      "seo_description": "Открийте плаж Папиас край Лименас, Тасос: пясъчен бряг, плитка вода, сезонни шезлонги, достъп и полезни съвети за посещение.",
+      "social_caption": "🏖️ Папиас, Тасос: спокойно пясъчно кътче близо до Лименас, с бистра морска вода и приятна атмосфера. 🌿 🇬🇷 #Тасос #Папиас #Лименас",
+      "photo_alt": "Плаж Папиас край Лименас на Тасос с тясна пясъчна ивица, чиста синя вода, чадъри и крайбрежна зеленина."
+    },
+    "sr": {
+      "name": "Plaža Papias (Limenas)",
+      "tagline": "Mirna peščana obala nadomak grada Tasosa",
+      "summary": "Papias je relativno uska plaža zapadno od Limenasa, sa pretežno peščanim delovima, uglavnom postepenim ulaskom u more i dobrom povezanošću sa gradom. Tokom sezone pominju se ležaljke i osveženje, dok tačna granica sa susednim Vurnelisom i Tarsanasom nije usaglašena u vodičima.",
+      "description": "Plaža Papias je praktičan izbor za goste koji borave u Limenasu i žele da uživaju u moru bez duže vožnje po Tasosu. Nalazi se na zapadnom obalnom potezu grada, iza zone trajektne luke, gde nisko zelenilo, manji smeštajni objekti i jednostavniji sadržaji stvaraju prijatnu, nenametljivu atmosferu. Obala je relativno uska, uglavnom prekrivena peskom, uz poneki deo sa sitnim oblucima. U delu koji se najčešće naziva Papias morsko dno je pretežno peščano, a ulazak u vodu obično postepen. More je blizu obale na pojedinim mestima plitko, pa ovakva plaža može prijati porodicama, ali deca uvek moraju biti pod neposrednim nadzorom odraslih. Kada nema vetra, voda je često bistra, dok talasi mogu promeniti uslove za kupanje. U letnjoj sezoni na pojedinim mestima dostupne su ležaljke, suncobrani i osveženje u kafiću ili baru na plaži. Postoje i delovi gde posetioci mogu da koriste sopstvenu opremu, ali prostor nije neograničen. Cene ležaljki, eventualna minimalna porudžbina i dostupnost sadržaja moraju se proveriti na licu mesta. Posebnu pažnju zaslužuju nazivi okolnih plaža: Papias se nalazi blizu obalnih delova Agios Vasilios/Vurnelis i Tarsanas. Neki lokalni vodiči navode Tarsanas kao nastavak Papiasa, dok ga drugi predstavljaju kao zasebnu plažu. Ovaj zapis odnosi se na poznatu lokaciju Papias, bez tvrdnje da su granice duž cele obale precizno utvrđene. Ne treba je mešati ni sa gradskom plažom Limanaki kod stare luke. Papias je odlična ideja za jednostavno jutarnje kupanje ili kratku pauzu na moru pre povratka u grad. U jednom novijem grčkom lokalnom izveštaju područje Papias se čak navodi kao deo plaže Agios Vasilios, što objašnjava zašto se nazivi i granice susednih delova obale ponekad preklapaju.",
+      "practical_tips": "Iz Limenasa pratite put ka zapadnom delu obale, ali prethodno proverite stvarni pešački prilaz: oznaka u rezultatima pretrage nije potvrđen ulaz niti parking. Leti dođite ranije ako želite lakše parkiranje i više izbora mesta. Drveće pravi hlad samo u pojedinim delovima, zato ponesite zaštitu od sunca i vodu. Proverite dno pre ulaska u more, naročito prema susednim delovima, gde može biti kamenja; obuća za vodu može pomoći. Ne podrazumevajte da rade spasilac, javni tuševi ili toaleti. Pre korišćenja ležaljki pitajte za cenu i pravila naručivanja. Nadzor nad decom je neophodan i kada more izgleda sasvim plitko.",
+      "highlights": [
+        "Pretežno peščana i uska obala blizu Limenasa",
+        "Uglavnom postepen ulazak u more",
+        "Ležaljke i osveženje tokom dela sezone",
+        "Jednostavan dolazak iz grada",
+        "Granice prema Tarsanasu i Vurnelisu treba dodatno potvrditi"
+      ],
+      "seo_title": "Plaža Papias Tasos – dolazak iz Limenasa i saveti",
+      "seo_description": "Papias plaža na Tasosu kod Limenasa: pesak, plitko more, sezonske ležaljke, pristup, parking i korisne informacije za posetu.",
+      "social_caption": "🏖️ Papias, Tasos: mirniji peščani kutak nadomak Limenasa, sa bistrim morem i opuštenom atmosferom. 🌊 🇬🇷 #Tasos #PapiasBeach #Limenas",
+      "photo_alt": "Uska peščana plaža Papias pored Limenasa na Tasosu sa bistrom plavom vodom, suncobranima i zelenilom iza obale."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/papias/images/papias1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/papias/images/papias2.webp",
+      "destinations/thassos/beaches/papias/images/papias3.webp",
+      "destinations/thassos/beaches/papias/images/papias4.webp",
+      "destinations/thassos/beaches/papias/images/papias5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/papias/images/",
+    "suggested_asset_names": [
+      "papias1.webp",
+      "papias2.webp",
+      "papias3.webp",
+      "papias4.webp",
+      "papias5.webp"
+    ],
+    "image_policy": "Publish only user-provided, owned or appropriately licensed photos of Papias Beach on Thassos. The five local paths are assigned from filenames shown in the supplied screenshot; confirm that each photo actually depicts the Papias section rather than nearby Agios Vasilios/Vournelis or Tarsanas, and verify provenance, commercial reuse rights and required attribution before release.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_kavalanews_papias_agios",
+      "kind": "local_news",
+      "title": "Kavala News — Papias marine area at Agios Vasilios Beach, 10 May 2026",
+      "url": "https://kavalanews.gr/59430-ploti-pisina-limena-ena-ergo-anakoinothike-megala-logia-kostise-dimo-35000eu-rimazei-paralia",
+      "detail": "Contemporaneous Greek local report explicitly calls Papias a marine area of the Agios Vasilios beach in Limenas (\"στη θαλάσσια περιοχή Παπίας στην παραλία του Αγίου Βασιλείου\"). Strong evidence of name/territory overlap; no distinct geographic beach boundary established. Floating pool details are NOT repurposed as visitor facilities.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_villa_laskaridis_greek",
+      "kind": "local_accommodation_guide",
+      "title": "Villa Laskaridis — Παραλία Παπίας and Παραλία Ταρσανάς",
+      "url": "https://villalaskaridis.gr/gr/index.html",
+      "detail": "Local Greek-language accommodation guide writes Παπίας (without stress on alpha), describes Papias sand and shallows and lists Tarsanas separately. Supports name spelling and tourist use, not administrative independence.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_staythassos",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Complete List of Thassos Beaches, Papias and Tarsanas",
+      "url": "https://staythassos.gr/thassos-beaches/",
+      "detail": "2026 local guide: Papias sand and some pebbles, gentle shallows, close to Limenas; calls Tarsanas essentially part of Papias while distinguishing its rocky/urchin-prone entry. Exact boundary unresolved.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_travelplanner_tarsanas",
+      "kind": "travel_guide",
+      "title": "TravelPlanner.ro — Tarsanas Beach and nearby Papias",
+      "url": "https://travelplanner.ro/blog/tarsanas-beach-o-plaja-de-incercat-in-nordul-insulei-thassos/",
+      "detail": "Describes Papias as a separate nearby named beach roughly 400 m from Tarsanas, with loungers and a place for meals; distance is a guide approximation, not a navigated official measurement.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_trecator",
+      "kind": "travel_gallery",
+      "title": "Trecător.ro — Plaja Papias, Limenas, Thassos",
+      "url": "https://photos.trecator.ro/plaja-papias-thassos-galerie-foto/",
+      "detail": "Photo gallery with a 2026-updated Papias summary: sandy gradually sloping shore, greenery, easy access from Limenas and seasonal loungers/umbrellas/bar; photo copyrights remain unlicensed for this project.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachatlas",
+      "kind": "beach_directory",
+      "title": "BeachAtlas — Papias Beach",
+      "url": "https://www.beachatlas.com/papias",
+      "detail": "Distinct Papias named entry; site describes loungers and notes greater rocks/urchin issues at nearby Tarsanas. Publishes approximately 40.7768284,24.6937875 but not a Google Maps verified beach pin.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachsearcher",
+      "kind": "beach_directory",
+      "title": "BeachSearcher — Papias Beach, Thasos",
+      "url": "https://beachsearcher.com/ro/beach/300207087/papias-beach",
+      "detail": "Papias identified near Limenas with detailed visitor photos and amenity claims. Some such claims (lifeguard, showers, SUP, dimensions) could not be independently corroborated and are deliberately not presented as confirmed.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_luminous_local",
+      "kind": "local_accommodation_guide",
+      "title": "Luminous Luxury Apartments — Best Beaches of Thassos, Papias",
+      "url": "https://www.luminousluxuryapartments.com/thassos-island/beaches",
+      "detail": "Locally based property guide: Papias is nearby, sandy, calm/shallow in common conditions, seasonal café and loungers, some self-setup space and limited roadside parking; guide mixes information for different beaches and should be corroborated.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_vournelis",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Agios Vasilios (Vournelis) Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1897/agios-vasilios-vournelis-beach",
+      "detail": "Identifies neighbouring Agios Vasilios/Vournelis/Africa coastline with mixed pebbles and sand, sandier further from port; used for overlap warning and differentiation.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_tarsanas",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Tarsanas Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1902/tarsanas-beach",
+      "detail": "Tarsanas is described as a named, hotel-frontage beach close to Limenas. Helpful for delimitation, though some sources treat it as connected with Papias.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_around_limenas",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Beaches around Limenas",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/2347/beaches-around-limenas",
+      "detail": "Places Vournelis, Tarsanas and Nisteri in the sequence of western Limenas coastline and separates the old-town beach.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_thassos_limenas",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Limenas",
+      "url": "https://www.go-thassos.gr/about-thassos/places/limenas",
+      "detail": "Geographic context for northern town beaches, transport and the separation of Limanaki, Agios Vasilios, Tarsanas and Nisteri.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachflag_2026",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — Official 2026 Awarded Beaches",
+      "url": "https://www.blueflag.gr/el/awards/2026",
+      "detail": "Official list identifies five Thassos award sections, including Limanaki, but not Papias; no Papias Blue Flag certification may be asserted for 2026.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_inventory",
+      "kind": "image_collection",
+      "title": "Wikimedia Commons — Beaches of Thasos",
+      "url": "https://commons.wikimedia.org/wiki/Category:Beaches_of_Thasos",
+      "detail": "No clearly Papias-specific downloadable photo category/file verified in checked collection. Do not relabel nearby Tarsanas or Limenas images as Papias.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_google_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Papias Beach, Limenas (name search, not verified pin)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papias%20Beach%2C%20Limenas%2C%20Thassos%2C%20Greece",
+      "detail": "Only a name-based search link; not a verified Google coordinate pin, parking location or validated access route. Coordinates remain null.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_geographic_dedup_pending_final_review_images_assigned",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "BLOCKER FOR SEPARATE PUBLIC BEACH LISTING: Greek May 2026 report states Papias marine area is at Agios Vasilios Beach, probably overlapping the existing Agios Vasilios/Vournelis record. Verify whether Papias is an identifiable non-overlapping subsection or merely an alias/sector. Until then leave publish_ready=false and do not count as an independent beach or publish a duplicate record.",
+      "Determine accurate beach bounds and pin for Papias vs Agios Vasilios/Vournelis and Tarsanas; some guides treat Tarsanas as continuation. Do not draw overlapping polygons or double count a continuous shore.",
+      "Verify the exact Google Maps beach pin, safe public pedestrian entrance, and access restrictions; only a name search and approximate non-Google third-party location were located.",
+      "Check actual seasonal beach-bar operation, owner access, loungers, umbrellas, possible self-setup space and current minimum consumption or rental rates.",
+      "Check existence and public accessibility of toilets, showers, changing facilities, and wheelchair access; directory claims are not sufficient.",
+      "Check road/parking availability and restrictions: locally reported street spots are not a guaranteed public car park.",
+      "Verify shoreline mix and urchin/stone conditions at the Papias-to-Tarsanas transition, especially for advice concerning small children.",
+      "Verify local lifeguard provision; do not transfer claims about Limanaki city beach or generic beach-directory checkmarks.",
+      "Papias is not listed under its name among the five Thassos Blue Flag 2026 awards; do not assert that an adjacent award covers it.",
+      "Confirm that papias1.webp–papias5.webp show Papias itself (not adjacent Agios Vasilios/Vournelis or Tarsanas), and document each local image’s source, ownership, commercial use rights and any attribution before publication.",
+      "Native-language review for all six translations, especially Greek local naming and Serbian Latin, before production release."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; publication and commercial reuse rights for the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths were assigned from filenames in the user-provided screenshot. Original WebP files, exact photo subjects and publication rights have not been independently verified."
+  }
+}

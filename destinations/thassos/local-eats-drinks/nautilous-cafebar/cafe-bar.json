@@ -1,0 +1,416 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "gr-thassos-local-eats-drinks-nautilous-cafebar",
+  "slug": "nautilous-cafebar",
+  "name": "Nautilous Cafebar",
+  "category": "local-eats-drinks",
+  "subcategory": "cafe-bar",
+  "venueTypes": [
+    "coffee-shop",
+    "cocktail-bar",
+    "harbourfront-cafe"
+  ],
+  "brandSpellingObservedOnSign": "NAUTILUS COFFEE BAR",
+  "identityNote": "The user-provided Google Maps listing spells the name Nautilous Cafebar; the photographed sign and menu use Nautilus. Confirm preferred public brand spelling with the operator before publishing.",
+  "location": {
+    "country": "Greece",
+    "island": "Thassos",
+    "areaSlug": "skala-sotiros",
+    "beachSlug": "skala-sotiros",
+    "latitude": 40.729130611398666,
+    "longitude": 24.547217765186375,
+    "address": "Σκάλα Σωτήρος 640 10, Greece",
+    "setting": [
+      "harbourfront",
+      "waterfront-promenade"
+    ],
+    "gpsSource": "user-provided Google Maps listing",
+    "beachService": "not evidenced; this is a café-bar by the small harbour, not classified as a beach bar"
+  },
+  "contact": {
+    "phone": "+30 697 661 8522",
+    "callUri": "tel:+306976618522"
+  },
+  "customerExperience": {
+    "knownFromPhotos": [
+      "Outdoor tables by the small harbour",
+      "Shaded patio/terrace",
+      "Harbour and boat views",
+      "Coffee and drinks served at tables",
+      "Evening outdoor seating"
+    ],
+    "reportedHighlights": [
+      "Coffee with a glass of water",
+      "Calm setting and harbour view",
+      "Cocktail selection",
+      "Friendly staff"
+    ],
+    "reportedFromReviews": true,
+    "occasionTags": [
+      "morning-coffee",
+      "afternoon-break",
+      "sunset-drinks",
+      "evening-cocktails",
+      "harbour-view"
+    ],
+    "diningStyle": [
+      "outdoor-seating",
+      "table-service",
+      "takeaway"
+    ],
+    "primaryMenuTypes": [
+      "coffee",
+      "cocktails",
+      "smoothies",
+      "refreshments",
+      "beer",
+      "wine",
+      "snacks",
+      "ice-cream"
+    ]
+  },
+  "amenitiesAndPolicies": {
+    "wheelchairAccessibleSeating": {
+      "reported": true
+    },
+    "outdoorSeating": {
+      "reported": true
+    },
+    "takeaway": {
+      "reported": true
+    },
+    "wifi": {
+      "status": "not_confirmed"
+    },
+    "toilet": {
+      "reported": true
+    },
+    "barOnSite": {
+      "reported": true
+    },
+    "highChairs": {
+      "reported": true
+    },
+    "kidFriendly": {
+      "reported": true
+    },
+    "dogsAllowed": {
+      "reported": true
+    },
+    "parking": {
+      "freeStreetReported": true,
+      "freeLotReported": true,
+      "plentyReported": true
+    },
+    "paymentMethodsReported": [
+      "credit-card",
+      "debit-card",
+      "contactless-nfc"
+    ],
+    "reservations": {
+      "status": "not_required_according_to_visitor_review",
+      "officialPolicyConfirmed": false
+    }
+  },
+  "openingHours": {
+    "listingSaysClosesAtLocal": "03:00",
+    "openingTimeConfirmed": false,
+    "seasonalScheduleConfirmed": false,
+    "timezone": "Europe/Athens",
+    "publishAsOfficialSchedule": false
+  },
+  "pricingGuide": {
+    "currency": "EUR",
+    "minPerPerson": 5,
+    "maxPerPerson": 10,
+    "origin": "user-supplied Google Maps price range",
+    "notAnOfficialOffer": true
+  },
+  "reputation": {
+    "platform": "Google Maps",
+    "reviewCountAtUserSnapshot": 213,
+    "numericRatingProvided": false,
+    "visitorReviewThemes": [
+      "harbour views",
+      "coffee",
+      "cocktails",
+      "quiet atmosphere",
+      "friendly service"
+    ],
+    "reviewCountCanChange": true
+  },
+  "menu": {
+    "path": "menu.json",
+    "status": "historical_photographed_menu",
+    "pricesCurrent": false,
+    "publishCurrentPrices": false,
+    "sourcePhotoCount": 3
+  },
+  "content": {
+    "ro": {
+      "short": "Cafenea și bar cu terasă lângă portul din Skala Sotiros, cu vedere spre ambarcațiuni, cafea, smoothie-uri și cocktailuri într-o atmosferă relaxată.",
+      "long": "Pe promenada micului port din Skala Sotiros, Nautilous Cafebar este locul în care diminețile încep cu o cafea savurată aproape de apă, iar serile continuă cu un cocktail și priveliștea bărcilor ancorate. Mesele de pe terasă, umbra copacilor și atmosfera liniștită invită la o pauză fără grabă. Meniurile fotografiate prezintă cafele grecești și reci, smoothie-uri, băuturi, gustări și cocktailuri; oferta și tarifele actuale trebuie confirmate la local. Este o oprire plăcută pentru cupluri, prieteni și familii care explorează coasta vestică a insulei Thassos.",
+      "tagline": "O cafea lângă port. Un cocktail la apus.",
+      "hero": "Cafea, cocktailuri și priveliști spre portul Skala Sotiros.",
+      "seoTitle": "Nautilous Cafebar, Skala Sotiros | Cafea și cocktailuri lângă port",
+      "seoDescription": "Descoperă Nautilous Cafebar în Skala Sotiros, Thassos: terasă la port, cafele, cocktailuri, smoothie-uri și o atmosferă relaxată lângă mare.",
+      "videoHook": "Pauză de cafea cu vedere la port",
+      "videoCta": "Descoperă Nautilous în Skala Sotiros"
+    },
+    "en": {
+      "short": "A relaxed café-bar beside the small harbour in Skala Sotiros, offering waterfront seating, coffee, smoothies and cocktails with views of the moored boats.",
+      "long": "Along the promenade of Skala Sotiros’s little harbour, Nautilous Cafebar invites you to slow down and enjoy island life. Start the day with Greek coffee or a chilled freddo, watch the boats from the terrace, or settle in for a cocktail as evening arrives. Shaded seating and a friendly, laid-back feel make it an easy stop for couples, friends and families exploring western Thassos. Photographed menus show coffees, smoothies, refreshments, light snacks and cocktails, although current availability and prices should be checked with the venue.",
+      "tagline": "Coffee by the harbour. Cocktails as the sun goes down.",
+      "hero": "Coffee, cocktails and harbour views in Skala Sotiros.",
+      "seoTitle": "Nautilous Cafebar | Coffee & Cocktails in Skala Sotiros, Thassos",
+      "seoDescription": "Explore Nautilous Cafebar by the Skala Sotiros harbour: seaside terrace, Greek coffee, smoothies, cocktails and a relaxed Thassos atmosphere.",
+      "videoHook": "Harbour views with your morning coffee",
+      "videoCta": "Find Nautilous in Skala Sotiros"
+    },
+    "el": {
+      "short": "Ένα χαλαρό café-bar δίπλα στο μικρό λιμάνι της Σκάλας Σωτήρος, με τραπεζάκια στο παραλιακό μέτωπο, καφέδες, smoothies και κοκτέιλ.",
+      "long": "Στην παραλιακή βόλτα του μικρού λιμανιού της Σκάλας Σωτήρος, το Nautilous Cafebar προσφέρει μια όμορφη στάση δίπλα στη θάλασσα. Απολαύστε έναν ελληνικό καφέ ή έναν δροσερό freddo κοιτάζοντας τα σκάφη, χαλαρώστε στη σκιερή βεράντα ή επιλέξτε ένα κοκτέιλ το απόγευμα. Η ήρεμη ατμόσφαιρα ταιριάζει σε ζευγάρια, παρέες και οικογένειες. Τα φωτογραφημένα μενού περιλαμβάνουν καφέδες, smoothies, αναψυκτικά, μικρά σνακ και κοκτέιλ· η τρέχουσα διαθεσιμότητα και οι τιμές χρειάζονται επιβεβαίωση.",
+      "tagline": "Καφές δίπλα στο λιμάνι. Κοκτέιλ το σούρουπο.",
+      "hero": "Καφές, κοκτέιλ και θέα στο λιμάνι της Σκάλας Σωτήρος.",
+      "seoTitle": "Nautilous Cafebar | Καφές & κοκτέιλ στη Σκάλα Σωτήρος, Θάσος",
+      "seoDescription": "Ανακαλύψτε το Nautilous Cafebar στο λιμανάκι της Σκάλας Σωτήρος: παραθαλάσσια τραπεζάκια, καφές, smoothies και κοκτέιλ.",
+      "videoHook": "Καφές με θέα το λιμάνι",
+      "videoCta": "Ανακαλύψτε το Nautilous στη Σκάλα Σωτήρος"
+    },
+    "de": {
+      "short": "Entspanntes Café und Bar direkt am kleinen Hafen von Skala Sotiros mit Terrasse am Wasser, Kaffee, Smoothies und Cocktails.",
+      "long": "An der Promenade des kleinen Hafens von Skala Sotiros lädt das Nautilous Cafebar zu einer gemütlichen Pause am Wasser ein. Ob griechischer Kaffee oder kühler Freddo am Morgen, ein Platz auf der schattigen Terrasse mit Blick auf die Boote oder ein Cocktail am Abend – hier steht das entspannte Inselleben im Mittelpunkt. Das ruhige Ambiente ist für Paare, Freunde und Familien gleichermaßen angenehm. Auf älteren Menüfotos sind Kaffee, Smoothies, Erfrischungen, kleine Snacks und Cocktails zu sehen; aktuelle Angebote und Preise sollten vor Ort bestätigt werden.",
+      "tagline": "Kaffee am Hafen. Cocktails zum Sonnenuntergang.",
+      "hero": "Kaffee, Cocktails und Hafenblick in Skala Sotiros.",
+      "seoTitle": "Nautilous Cafebar | Kaffee & Cocktails in Skala Sotiros, Thassos",
+      "seoDescription": "Nautilous Cafebar am Hafen von Skala Sotiros: entspannte Terrasse direkt am Wasser, Kaffee, Smoothies und Cocktails auf Thassos.",
+      "videoHook": "Kaffee mit Hafenblick",
+      "videoCta": "Entdecke Nautilous in Skala Sotiros"
+    },
+    "bg": {
+      "short": "Спокойно кафене и бар до малкото пристанище в Скала Сотирос, с маси край водата, кафе, смутита и коктейли.",
+      "long": "На крайбрежната алея до малкото пристанище на Скала Сотирос Nautilous Cafebar е приятно място за почивка с гледка към лодките. Започнете деня с гръцко кафе или студено freddo, поседнете на сенчестата тераса или се насладете на коктейл вечер. Непринудената атмосфера е подходяща за двойки, приятели и семейства. На снимките на менюто се виждат кафета, смутита, безалкохолни напитки, леки закуски и коктейли, но актуалните предложения и цени трябва да бъдат потвърдени на място.",
+      "tagline": "Кафе край пристанището. Коктейли по залез.",
+      "hero": "Кафе, коктейли и гледка към пристанището на Скала Сотирос.",
+      "seoTitle": "Nautilous Cafebar | Кафе и коктейли в Скала Сотирос, Тасос",
+      "seoDescription": "Посетете Nautilous Cafebar до пристанището в Скала Сотирос: крайбрежна тераса, кафе, смутита, коктейли и спокойна атмосфера.",
+      "videoHook": "Кафе с гледка към пристанището",
+      "videoCta": "Открийте Nautilous в Скала Сотирос"
+    },
+    "sr": {
+      "short": "Opušten kafe-bar pored male luke u Skali Sotiros, sa stolovima uz obalu, kafom, smutijima i koktelima.",
+      "long": "Uz šetalište male luke u Skali Sotiros, Nautilous Cafebar je prijatno mesto za predah pored mora. Započnite dan grčkom kafom ili hladnim freddom uz pogled na čamce, uživajte na terasi u hladu ili svratite na koktel predveče. Mirna, neformalna atmosfera odgovara parovima, prijateljima i porodicama. Na fotografijama menija nalaze se kafe, smutiji, osvežavajuća pića, lagane užine i kokteli, ali aktuelnu ponudu i cene treba proveriti u lokalu.",
+      "tagline": "Kafa uz luku. Kokteli uz zalazak sunca.",
+      "hero": "Kafa, kokteli i pogled na luku Skala Sotiros.",
+      "seoTitle": "Nautilous Cafebar | Kafa i kokteli u Skali Sotiros, Tasos",
+      "seoDescription": "Otkrijte Nautilous Cafebar pored luke u Skali Sotiros: terasa uz more, grčka kafa, smutiji, kokteli i opuštena atmosfera.",
+      "videoHook": "Kafa s pogledom na luku",
+      "videoCta": "Posetite Nautilous u Skali Sotiros"
+    }
+  },
+  "seo": {
+    "ro": {
+      "title": "Nautilous Cafebar, Skala Sotiros | Cafea și cocktailuri lângă port",
+      "description": "Descoperă Nautilous Cafebar în Skala Sotiros, Thassos: terasă la port, cafele, cocktailuri, smoothie-uri și o atmosferă relaxată lângă mare.",
+      "suggestedCanonicalPath": "/thassos/local-eats-drinks/nautilous-cafebar/"
+    },
+    "en": {
+      "title": "Nautilous Cafebar | Coffee & Cocktails in Skala Sotiros, Thassos",
+      "description": "Explore Nautilous Cafebar by the Skala Sotiros harbour: seaside terrace, Greek coffee, smoothies, cocktails and a relaxed Thassos atmosphere.",
+      "suggestedCanonicalPath": "/thassos/local-eats-drinks/nautilous-cafebar/"
+    },
+    "el": {
+      "title": "Nautilous Cafebar | Καφές & κοκτέιλ στη Σκάλα Σωτήρος, Θάσος",
+      "description": "Ανακαλύψτε το Nautilous Cafebar στο λιμανάκι της Σκάλας Σωτήρος: παραθαλάσσια τραπεζάκια, καφές, smoothies και κοκτέιλ.",
+      "suggestedCanonicalPath": "/thassos/local-eats-drinks/nautilous-cafebar/"
+    },
+    "de": {
+      "title": "Nautilous Cafebar | Kaffee & Cocktails in Skala Sotiros, Thassos",
+      "description": "Nautilous Cafebar am Hafen von Skala Sotiros: entspannte Terrasse direkt am Wasser, Kaffee, Smoothies und Cocktails auf Thassos.",
+      "suggestedCanonicalPath": "/thassos/local-eats-drinks/nautilous-cafebar/"
+    },
+    "bg": {
+      "title": "Nautilous Cafebar | Кафе и коктейли в Скала Сотирос, Тасос",
+      "description": "Посетете Nautilous Cafebar до пристанището в Скала Сотирос: крайбрежна тераса, кафе, смутита, коктейли и спокойна атмосфера.",
+      "suggestedCanonicalPath": "/thassos/local-eats-drinks/nautilous-cafebar/"
+    },
+    "sr": {
+      "title": "Nautilous Cafebar | Kafa i kokteli u Skali Sotiros, Tasos",
+      "description": "Otkrijte Nautilous Cafebar pored luke u Skali Sotiros: terasa uz more, grčka kafa, smutiji, kokteli i opuštena atmosfera.",
+      "suggestedCanonicalPath": "/thassos/local-eats-drinks/nautilous-cafebar/"
+    }
+  },
+  "media": {
+    "folder": "images",
+    "hero": "images/Promenadă însorită la marina turcoaz.webp",
+    "gallery": [
+      {
+        "file": "images/Promenadă însorită la marina turcoaz.webp",
+        "role": "cover",
+        "galleryCategory": "harbour",
+        "altEn": "Panoramic marina promenade with boats and waterfront café seating",
+        "sortOrder": 1,
+        "existsInPackage": false,
+        "publicationRights": "requires_confirmation"
+      },
+      {
+        "file": "images/Seară la mal cu chipsuri și băuturi.webp",
+        "role": "drinks",
+        "galleryCategory": "evening",
+        "altEn": "Beer, soft drink and crisps by the harbour at dusk",
+        "sortOrder": 2,
+        "existsInPackage": false,
+        "publicationRights": "requires_confirmation"
+      },
+      {
+        "file": "images/Terasă de cafenea lângă mare.webp",
+        "role": "terrace",
+        "galleryCategory": "seating",
+        "altEn": "Shaded wooden seating with a view of the harbour",
+        "sortOrder": 3,
+        "existsInPackage": false,
+        "publicationRights": "requires_confirmation"
+      },
+      {
+        "file": "images/Fațada tropicală a Nautilus Coffee Bar.webp",
+        "role": "exterior",
+        "galleryCategory": "branding",
+        "altEn": "Nautilus Coffee Bar sign and entrance",
+        "sortOrder": 4,
+        "existsInPackage": false,
+        "publicationRights": "requires_confirmation"
+      },
+      {
+        "file": "images/Scenă la cafenea pe marina însorită.webp",
+        "role": "coffee",
+        "galleryCategory": "harbour",
+        "altEn": "Coffee drinks at a table by moored boats",
+        "sortOrder": 5,
+        "existsInPackage": false,
+        "publicationRights": "requires_confirmation"
+      },
+      {
+        "file": "images/Cafenea de noapte pe malul portului.webp",
+        "role": "atmosphere",
+        "galleryCategory": "night",
+        "altEn": "Outdoor harbourfront seating at night",
+        "sortOrder": 6,
+        "existsInPackage": false,
+        "publicationRights": "requires_confirmation"
+      },
+      {
+        "file": "images/Cafea cu gheață și mesaj iconic.webp",
+        "role": "coffee",
+        "galleryCategory": "food-drinks",
+        "altEn": "Iced coffee in a glass on a wooden table",
+        "sortOrder": 7,
+        "existsInPackage": false,
+        "publicationRights": "requires_confirmation"
+      },
+      {
+        "file": "images/Cappuccino cu scorțișoară la cafenea.webp",
+        "role": "coffee",
+        "galleryCategory": "food-drinks",
+        "altEn": "Cappuccino with cinnamon",
+        "sortOrder": 8,
+        "existsInPackage": false,
+        "publicationRights": "requires_confirmation"
+      },
+      {
+        "file": "images/Promenadă însorită la cafeneaua de pe mal.webp",
+        "role": "exterior",
+        "galleryCategory": "harbour",
+        "altEn": "Long view of the café terraces along the marina",
+        "sortOrder": 9,
+        "existsInPackage": false,
+        "publicationRights": "requires_confirmation"
+      },
+      {
+        "file": "images/Cocktail cu mentă la cafenea marină.webp",
+        "role": "cocktails",
+        "galleryCategory": "harbour",
+        "altEn": "Mint cocktail in front of the harbour",
+        "sortOrder": 10,
+        "existsInPackage": false,
+        "publicationRights": "requires_confirmation"
+      }
+    ],
+    "galleryCount": 10,
+    "imageFormatExpected": "webp",
+    "imagesIncludedInArchive": false,
+    "originalFilenameRule": "Preserve exact basename, spaces, diacritics and case; only replace PNG extension with WebP after actual conversion.",
+    "photoRightsConfirmed": false,
+    "videosFolder": "videos",
+    "videos": []
+  },
+  "videoStoryboard": {
+    "format": "external_mp4_generator",
+    "orientation": "vertical_9_16",
+    "languageCodes": [
+      "ro",
+      "en",
+      "el",
+      "de",
+      "bg",
+      "sr"
+    ],
+    "sceneDurationSeconds": 4,
+    "scenes": [
+      {
+        "scene": 1,
+        "image": "images/Promenadă însorită la marina turcoaz.webp",
+        "subject": "Marina and shaded tables",
+        "text": {
+          "ro": "Pauză de cafea cu vedere la port",
+          "en": "Harbour views with your morning coffee",
+          "el": "Καφές με θέα το λιμάνι",
+          "de": "Kaffee mit Hafenblick",
+          "bg": "Кафе с гледка към пристанището",
+          "sr": "Kafa s pogledom na luku"
+        }
+      },
+      {
+        "scene": 2,
+        "image": "images/Cappuccino cu scorțișoară la cafenea.webp",
+        "subject": "Coffee by the water",
+        "text": {
+          "ro": "Cafeaua are alt gust lângă mare",
+          "en": "Coffee tastes better by the sea",
+          "el": "Ο καφές δίπλα στη θάλασσα",
+          "de": "Kaffee direkt am Meer",
+          "bg": "Кафе край морето",
+          "sr": "Kafa kraj mora"
+        }
+      },
+      {
+        "scene": 3,
+        "image": "images/Cocktail cu mentă la cafenea marină.webp",
+        "subject": "Mint cocktail and harbour views",
+        "text": {
+          "ro": "Descoperă Nautilous în Skala Sotiros",
+          "en": "Find Nautilous in Skala Sotiros",
+          "el": "Ανακαλύψτε το Nautilous στη Σκάλα Σωτήρος",
+          "de": "Entdecke Nautilous in Skala Sotiros",
+          "bg": "Открийте Nautilous в Скала Сотирос",
+          "sr": "Posetite Nautilous u Skali Sotiros"
+        }
+      }
+    ]
+  },
+  "publication": {
+    "publishReady": false,
+    "requiresVerification": [
+      "Official brand spelling Nautilous vs Nautilus",
+      "Current menu prices and available products",
+      "Opening hours and seasonal operation",
+      "Image copyright / commercial reuse authorization",
+      "Official reservation policy",
+      "Any claimed access and parking services"
+    ],
+    "dataProvenance": [
+      "User-provided Google Maps details and reviews",
+      "Three historic photographed menu pages provided in chat",
+      "Ten supplied image assets, referenced by original filenames"
+    ]
+  }
+}

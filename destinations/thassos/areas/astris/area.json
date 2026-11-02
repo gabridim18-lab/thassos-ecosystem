@@ -1,0 +1,415 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-astris",
+  "slug": "astris",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Αστρίς",
+    "international_name": "Astris (Astrida)",
+    "aliases": [
+      "Astrida",
+      "Αστρίδα",
+      "Astrís",
+      "Astrida Thassos",
+      "Astris Thassos"
+    ],
+    "area_type": "coastal_hamlet",
+    "entity_scope": "Genuine, small, dispersed rural hamlet/place named Astris or Astrida and its associated southern Thassos coastal holiday area; OSM place=hamlet lies inland from the beaches. Not a town or an organized urban resort; separately named beaches and Giola are independent geographical features.",
+    "deduplication_warning": "Astris and Astrida are aliases, not two towns. Do not conflate OSM hamlet node 1477905043 (40.58923,24.65552, inland) with the separate Astris Beach mapped at ~40.5831,24.63894, Psili Ammos, Salonikios, Kalami or Giola. Do not list Pefkari, Pachis or named beaches as separate towns merely because tourism directories use settlement-like labels.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": true,
+    "coast": "south / south-southeast coastal visitor area",
+    "part_of_island": "southern",
+    "center": {
+      "lat": 40.58923,
+      "lng": 24.65552,
+      "coordinate_role": "OSM_place_hamlet_centre_rural_Astris_approx_97m_elevation_NOT_beach_not_entrance_not_coastal_arrival",
+      "coordinate_source": "Mapcarta / OpenStreetMap place=hamlet node 1477905043; cross-check independent georeferenced place listing",
+      "coordinate_source_url": "https://mapcarta.com/13819058",
+      "verification_status": "mapped_OSM_hamlet_place_confirmed;_local_Google_Maps_arrival_and_actual_area_polygon_NOT_verified",
+      "verified_on": "2026-10-27"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "The named hamlet is a sparse inland/rural settlement within a coastal tourism zone, rather than a compact village square at the beach. OSM records a distinct Astris Beach feature (way 208159696) at approx 40.5831,24.63894; Psili Ammos, Salonikios and Kalami are separate beaches with their own coordinates, not equivalent to the hamlet point. Exact settlement boundaries, legal pedestrian links, turn-offs, bus stops and parking remain unverified. Giola is a separate natural attraction requiring a walk, not a beach or the village centre."
+  },
+  "overview": {
+    "settlement_character": "very_small_spread_out_agricultural_hamlet_and_coastal_holiday_area_olive_groves_scattered_accommodation_several_small_bays_limited_local_centre",
+    "tourism_profile": [
+      "authentic_small_rural_hamlet_not_a_town_or_compact_resort",
+      "quiet_southern_coastland_with_olive_groves_and_scattered_accommodation",
+      "good_area_base_for_visiting_Psili_Ammos_Salonikios_Kalami_and_Astris_coast",
+      "near_Giola_natural_rock_pool_as_a_separate_demanding_experience",
+      "local_tavernas_and_some_seasonal_services_depend_on_specific_establishment",
+      "car_or_other_reliable_transport_helpful_between_spread_out_destinations",
+      "associated_with_starry_sky_name_and_olive_harvest_story_in_local_guides",
+      "not_a_substitute_for_more_serviced_town_Potos"
+    ],
+    "best_time_to_visit": "Late spring to early autumn is suitable for enjoying the coast and accommodation area; July and August bring more beach visitors and heat. Quieter shoulder-season visits can suit walks and views, but restaurant and transport availability can be reduced.",
+    "peak_season_notes": "Psili Ammos and Giola can attract many visitors in high season, although Astris hamlet itself is small and spread out. Beach equipment, dining hours, parking conditions and boat/transport options vary by venue and date; no fixed prices or openings are stored."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "agricultural_olive_growing_community_historically_linked_to_inland_Theologos",
+      "name_Astris_Astrida_associated_in_local_tradition_with_clear_starry_skies",
+      "reported_historic_vinegrowing_and_winepress_remains_in_wider_area_unverified_individual_POI",
+      "traditional_south_Thassos_rural_landscape_not_an_urban_monument_centre",
+      "nearby_Astriotiko_Panagia_islet_has_local_Sirens_legend_not_confirmed_archaeology"
+    ],
+    "local_traditions": [
+      "olive_growing_and_harvest_in_the_landscape_around_the_hamlet",
+      "modest_agricultural_and_coastal_hospitality",
+      "Greek_taverna_meals_and_family_run_seasonal_hospitality",
+      "traditional_account_of_Theologos_workers_travelling_to_olive_groves_under_stars"
+    ],
+    "local_food_specialties": [
+      "Thassos_olives_and_local_olive_oil_in_regional_cuisine",
+      "Greek_meze_and_seasonal_vegetables",
+      "grilled_fish_or_seafood_when_listed_and_available_at_individual_tavernas",
+      "regional_honey_and_Greek_salads_without_claim_of_Astris_only_specialty"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "travellers_seeking_quiet_south_coast_stays",
+      "couples_valuing_rural_scenery_and_cove_hopping",
+      "visitors_with_reliable_transport_for_distributed_places",
+      "photographers_of_sea_cliffs_olive_groves_and_night_sky",
+      "beach_explorers_aware_of_uneven_access"
+    ],
+    "experiences": [
+      "discover_separate_Psili_Ammos_sandy_cove_with_season_dependent_facilities",
+      "visit_Astris_coastal_beach_feature_as_a_distinct_location_not_hamlet_centre",
+      "explore_Salonikios_cove_and_surrounding_southern_coast_on_appropriate_access_routes",
+      "enjoy_Kalami_small_rocky_cove_only_when_sea_and_access_are_safe",
+      "visit_Giola_rock_lagoon_as_a_separate_excursion_with_sturdy_shoes_water_and_care",
+      "observe_olive_groves_and_low_mediterranean_vegetation_from_public_roads_and_paths",
+      "admire_south_coast_sunset_or_night_sky_where_weather_lighting_and_safe_access_allow",
+      "eat_at_a_local_taverna_if_open_and_access_permitted",
+      "combine_visit_with_Potos_or_the_traditional_village_Theologos_as_separate_destinations"
+    ],
+    "points_of_interest_summary": [
+      "Astris/Astrida hamlet — a small mapped rural settlement, not the same point as Astris Beach",
+      "Psili Ammos — separate sandy beach popular for swimming, with facilities that vary seasonally",
+      "Salonikios — separate southern cove and beach, not the Astris settlement itself",
+      "Kalami — separate rocky/swimming beach sector with uneven access in places",
+      "Astris Beach — separate OSM beach feature; its catalogue record has not yet been created and therefore no ID is assigned here",
+      "Giola — famous natural rock lagoon in the Astris area, a separate attraction whose approach and swim safety need care",
+      "Astriotiko/Panagia islet — offshore landmark associated with local tradition; do not assert public landing access",
+      "Potos — more service-rich neighbouring coastal village, distinct from Astris"
+    ],
+    "estimated_visit_duration": "For the hamlet and quiet rural surroundings a short stop is sufficient; beaches and Giola are distinct trips requiring individual access, conditions and time.",
+    "family_suitability": "Accommodation choice and each beach determine suitability. Psili Ammos can have a gentler entry in selected areas, while rock ledges and the Giola trail/pool demand more care; never call the entire Astris area child-safe.",
+    "mobility_considerations": "Scattered development, slopes, unverified pavement and path continuity; beach entries and Giola walk may be rocky. No independently verified universally accessible public route, ramp or sea-entry facility.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "The southern Thassos ring road passes through the Astris/Astrida visitor area between Potos and the southeast coast. Scattered lodging and individual beaches have separate driveways/turn-offs; the inland hamlet point must not be used as a navigation destination for a coastal beach, Giola or a property.",
+    "public_transport": "Seasonal island buses may serve the southern coast and points labelled Psili Ammos/Astris/Giola, but the actual stop near any accommodation or cove and the timetable for the travel date require direct confirmation from KTEL. The currently published October 2026 schedule does not guarantee a stop in Astris or a year-round service.",
+    "parking_overview": "Some accommodations and individual beach operators may offer parking, but public parking locations, legal access, free/paid status and capacity have not been independently verified. Giola access involves a separate approach and walk; do not infer car access to the water.",
+    "pedestrian_access": "Astris is spread over rural roads, tracks and shore approaches rather than a contiguous walkable town centre. Route surfaces and road shoulders can be irregular; do not assume that the hamlet, Psili Ammos, Salonikios, Kalami and Giola can be reached safely on foot from one another.",
+    "accessibility_note": "No confirmed continuous step-free route linking accommodation, beach entrances and services. The Giola coastal approach uses a footpath/rocks and is not suitable to describe as universally accessible.",
+    "general_amenities": {
+      "supermarket": null,
+      "pharmacy": null,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": null,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "Carry drinking water, shade and appropriate footwear when visiting undeveloped coast and Giola; exposed sun, rough surfaces, submerged rock and wave conditions create hazards. Do not encourage jumping into Giola or from coastal ledges. Check sea depth and conditions independently at each beach. No beach-wide lifeguard provision is guaranteed.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-potos",
+      "gr-thassos-area-alyki",
+      "gr-thassos-area-theologos"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-psili-ammos",
+      "gr-thassos-beach-salonikios",
+      "gr-thassos-beach-kalami"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "Astris is a true OSM mapped hamlet (not a town) and a broader coast-region label. Its centre is inland. Never use that point as proxy for beach, restaurant, hotel or Giola coordinates. Psili Ammos, Salonikios and Kalami IDs link to existing dedicated beach JSONs; an Astris Beach entry is not in the currently uploaded beach catalogue, and Giola has no dedicated attraction entry yet, so DO NOT invent IDs. Nearness and ETA require the user location, each POI GPS and safe/legal routable access. Facility availability requires a current provider record. Adjacent Potos and Alyki are distinct visitor destinations; Theologos is the historic inland village.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "Astris is not a ferry terminal. Main connections to Thassos are Keramoti–Limenas and Kavala–Skala Prinos. Keep ferry timetable and operating status in a separate dated transport service, not static area JSON. Bus schedules likewise require current operator verification."
+  },
+  "translations": {
+    "ro": {
+      "name": "Astris (Astrida)",
+      "tagline": "Livezi de măslini, golfuri ascunse și liniștea sudului insulei",
+      "summary": "Astris, cunoscut și ca Astrida, este un cătun rural din sudul insulei Thassos, înconjurat de livezi de măslini și o zonă de coastă presărată cu golfuri. Nu este o stațiune compactă, ci o bază liniștită pentru explorarea plajelor Psili Ammos, Salonikios și Kalami, precum și a lagunei naturale Giola.",
+      "description": "Astris sau Astrida dezvăluie una dintre laturile mai tihnite ale sudului insulei Thassos. Aici nu vei găsi un oraș cu centru aglomerat și faleză continuă, ci o așezare rurală mică, locuințe răsfirate, livezi de măslini, unități de cazare și drumuri care coboară spre golfuri diferite. Regiunea este potrivită pentru turiștii care preferă să-și organizeze vacanța în propriul ritm și să exploreze mai multe locuri de pe coastă. Psili Ammos atrage prin nisip și porțiunile amenajate sezonier; mai departe, Salonikios și Kalami oferă peisaje cu vegetație mediteraneană și țărmuri diferite, unde accesul și intrarea în apă trebuie evaluate separat. În aceeași regiune se găsește Giola, o lagună săpată în stâncă de mare. Este o atracție naturală aparte, dar nu trebuie confundată cu o plajă obișnuită: drumul final include mers pe jos, suprafețe neregulate și roci care pot fi alunecoase. O parte din farmecul locului este contrastul dintre câmpurile de măslini și marea albastră, la care se adaugă serile liniștite, potrivite pentru a admira cerul senin. Totuși, Astris nu are facilitățile concentrate ale unei localități precum Potos; restaurantele și serviciile depind de amplasare și sezon, iar o mașină poate fi utilă pentru deplasările dintre golfuri. Astris și Astrida sunt două denumiri ale aceleiași așezări, iar centrul cartografic al cătunului nu reprezintă intrarea pe plajă.",
+      "history_culture": "Tradiția locală leagă numele Astris de cerul înstelat care îi călăuzea pe locuitorii din Theologos atunci când coborau spre plantațiile de măslini. Ghidurile locale descriu o așezare agricolă modestă, cu livezi și vechi legături cu satul montan. În zonă sunt menționate urme ale cultivării viței-de-vie și ale prelucrării vinului, dar acestea nu sunt prezentate aici drept un sit arheologic cu acces public verificat. Insulița Astriotiko, din larg, este asociată și cu legende locale, fără ca acestea să fie tratate ca fapte istorice.",
+      "local_character": "O atmosferă rurală, cu gospodării și cazări răsfirate printre măslini. Atracția principală este apropierea de golfuri, nu existența unui centru urban animat. Pentru cumpărături și o ofertă mai bogată de servicii, Potos este o destinație separată.",
+      "what_to_do": "Descoperă Psili Ammos, alege o zi cu mare calmă pentru Salonikios sau Kalami și rezervă o vizită separată pentru Giola, cu încălțăminte potrivită. Bucură-te de peisajele cu măslini, oprește-te la o tavernă când este deschisă și explorează Potos ori Theologos într-o altă excursie. Fiecare loc are propriul acces și propriile condiții.",
+      "practical_tips": "Verifică amplasarea exactă a cazării: punctul GPS al cătunului nu este pe malul mării. Un vehicul este adesea util, fiindcă plajele și serviciile sunt răsfirate. Nu presupune că găsești farmacie, bancomat sau parcare publică la câțiva pași. Confirmă local orarul autobuzelor și facilitățile sezoniere. Pentru Giola, ia apă, protecție solară și încălțăminte stabilă; evită săriturile de pe stânci și intrarea în apă când condițiile sunt nesigure.",
+      "highlights": [
+        "Cătun rural autentic, nu oraș sau stațiune compactă",
+        "Livezi de măslini și atmosferă liniștită",
+        "Acces către Psili Ammos, Salonikios și Kalami",
+        "Giola, atracție naturală distinctă, cu acces pe jos",
+        "Punct de plecare pentru explorarea sudului insulei"
+      ],
+      "seo_title": "Astris (Astrida), Thassos – plaje, Giola și sfaturi de vizită",
+      "seo_description": "Descoperă Astris (Astrida) din Thassos: cătun liniștit printre măslini, lângă Psili Ammos, Salonikios, Kalami și Giola. Acces, atmosferă și sfaturi.",
+      "social_caption": "🌿 Astris (Astrida), Thassos: măslini, golfuri albastre și liniștea sudului insulei. 🌊 Explorează Psili Ammos, Salonikios și Kalami, iar pentru Giola pregătește încălțăminte bună! 🇬🇷 #Thassos #Astris #ExploreThassos",
+      "photo_alt": "Peisajul rural și de coastă din zona Astris, Thassos, cu măslini, dealuri joase și golfuri cu apă albastră."
+    },
+    "en": {
+      "name": "Astris (Astrida)",
+      "tagline": "Olive groves, quiet coves and the unhurried south coast",
+      "summary": "Astris, also known as Astrida, is a tiny rural hamlet in southern Thassos surrounded by olive groves and a coastline of distinct bays. Rather than a compact resort town, it makes a peaceful base for visiting Psili Ammos, Salonikios, Kalami and the separate Giola rock lagoon.",
+      "description": "Astris, or Astrida, offers a quieter side of southern Thassos. This is not a town with a busy central square and a continuous seafront promenade. It is a small mapped rural hamlet within a wider landscape of olive groves, scattered houses and holiday accommodation, with individual roads leading to different parts of the coast. The setting appeals to people who enjoy planning their own days and visiting several beaches rather than staying in one busy resort. Psili Ammos is a notable sandy bay with seasonal serviced areas; Salonikios and Kalami offer different shorelines and Mediterranean scenery, with their own access and swimming conditions. Giola, the natural sea-carved rock pool, is another memorable destination in the wider Astris area. It is a separate landmark, not a normal beach: reaching it involves a walk and uneven rocky ground, so it deserves care and suitable footwear. Olive-growing countryside, rocky coastal views and comparatively dark, peaceful evenings give the area much of its character. The name is traditionally linked to the starry skies that once guided people travelling down from the inland village of Theologos for the olive harvest. Visitors should nevertheless plan realistically. Services are dispersed, some tavernas operate seasonally, and there is no guarantee of a pharmacy, ATM or public car park near a particular accommodation. A vehicle can be useful for exploring, and the hamlet’s map reference point must not be mistaken for any beach entrance or driving destination. Astris and Astrida refer to the same small settlement, not two separate towns.",
+      "history_culture": "Local accounts associate the name Astris with the clear star-filled skies seen by people travelling from Theologos to work the olive groves. The area has an agricultural history rather than a large urban monument district. Guides also refer to traces of earlier wine production and to local stories about the offshore Astriotiko islet; neither should be presented as a currently accessible excavated attraction or established historical fact without further evidence.",
+      "local_character": "Small-scale rural Thassos: olive trees, dispersed homes and accommodation, quieter evenings and separate small coastal destinations. For a compact cluster of shops and nightlife, the nearby village of Potos is a different place.",
+      "what_to_do": "Explore the sandy bay at Psili Ammos, visit Salonikios or Kalami when sea and access conditions are suitable, and make a separate trip to the Giola rock lagoon with water and sturdy shoes. Enjoy the olive-growing landscape and a meal at a local taverna if open. Potos and historic Theologos also make different outings.",
+      "practical_tips": "Check the exact location of your accommodation: the mapped hamlet centre is inland, not a shoreline arrival point. Spread-out bays and services make personal transport useful. Do not assume a pharmacy, ATM, roadside parking or bus stop is close by. Check current KTEL times and seasonal beach services locally. For Giola, take drinking water, sun protection and shoes with grip; avoid cliff-jumping or unsafe entry into the water.",
+      "highlights": [
+        "A genuine small rural hamlet rather than a resort town",
+        "Olive groves, scenery and an unhurried atmosphere",
+        "Separate nearby beaches Psili Ammos, Salonikios and Kalami",
+        "Giola rock lagoon as a distinct walk-in attraction",
+        "A quiet base for discovering southern Thassos"
+      ],
+      "seo_title": "Astris (Astrida), Thassos – beaches, Giola and visitor tips",
+      "seo_description": "Explore Astris (Astrida) in Thassos: a peaceful olive-growing hamlet near Psili Ammos, Salonikios, Kalami and Giola, with practical access tips.",
+      "social_caption": "🌿 Astris (Astrida), Thassos: olive groves, turquoise coves and the calmer south coast. 🌊 Explore Psili Ammos, Salonikios and Kalami, and take sturdy shoes for Giola! 🇬🇷 #Thassos #Astris #GreekIslands",
+      "photo_alt": "Rural and coastal scenery in Astris, Thassos, with olive groves, low hills and blue-water bays."
+    },
+    "el": {
+      "name": "Αστρίς (Αστρίδα)",
+      "tagline": "Ελαιώνες, ήσυχοι όρμοι και ο χαλαρός ρυθμός της νότιας Θάσου",
+      "summary": "Η Αστρίς, γνωστή και ως Αστρίδα, είναι ένας μικρός αγροτικός οικισμός στη νότια Θάσο, ανάμεσα σε ελαιώνες και διάσπαρτους παραθαλάσσιους όρμους. Δεν είναι συμπαγές τουριστικό θέρετρο, αλλά μια ήσυχη βάση για επισκέψεις στην Ψιλή Άμμο, τον Σαλονικιό, το Καλάμι και τη φυσική λιμνοθάλασσα Γκιόλα.",
+      "description": "Η Αστρίς, ή Αστρίδα, παρουσιάζει μια πιο ήρεμη πλευρά της νότιας Θάσου. Δεν πρόκειται για πόλη με πολυσύχναστο κέντρο και ενιαίο παραλιακό πεζόδρομο, αλλά για μικρό αγροτικό οικισμό μέσα σε μια ευρύτερη περιοχή με ελαιώνες, διάσπαρτα σπίτια, καταλύματα και δρόμους που οδηγούν σε διαφορετικούς όρμους. Το τοπίο ταιριάζει σε επισκέπτες που προτιμούν να εξερευνούν κάθε μέρα μια άλλη γωνιά του νησιού. Η Ψιλή Άμμος είναι γνωστή για την αμμώδη ακτή της και τις εποχικές οργανωμένες ζώνες, ενώ ο Σαλονικιός και το Καλάμι προσφέρουν διαφορετικές παράκτιες εικόνες, με πρόσβαση και συνθήκες κολύμβησης που χρειάζονται ξεχωριστό έλεγχο. Στην ευρύτερη περιοχή βρίσκεται και η Γκιόλα, η φυσική βραχώδης πισίνα που έχει διαμορφώσει η θάλασσα. Αποτελεί ξεχωριστό αξιοθέατο και όχι συνηθισμένη παραλία: η προσέγγιση απαιτεί περπάτημα σε ανώμαλο έδαφος και προσοχή πάνω στους βράχους. Οι ελιές, η μεσογειακή βλάστηση, οι θέες προς το πέλαγος και η γαλήνη των βραδινών ωρών είναι σημαντικά στοιχεία της ταυτότητας του τόπου. Σύμφωνα με τοπική παράδοση, η ονομασία συνδέεται με τον έναστρο ουρανό που οδηγούσε τους κατοίκους του Θεολόγου προς τις καλλιέργειές τους. Οι υπηρεσίες δεν συγκεντρώνονται όλες σε ένα κέντρο: η λειτουργία των ταβερνών είναι εποχική και το αυτοκίνητο συχνά διευκολύνει τις μετακινήσεις. Το χαρτογραφικό σημείο του οικισμού βρίσκεται πιο μέσα από την ακτή και δεν είναι σημείο πρόσβασης σε συγκεκριμένη παραλία. Αστρίς και Αστρίδα είναι δύο ονομασίες του ίδιου τόπου.",
+      "history_culture": "Η τοπική αφήγηση συνδέει την Αστρίδα με τους κατοίκους του Θεολόγου, οι οποίοι κατέβαιναν στους ελαιώνες και προσανατολίζονταν με βάση τον καθαρό έναστρο ουρανό. Η περιοχή έχει κυρίως αγροτικό χαρακτήρα. Σε τοπικές περιγραφές υπάρχουν αναφορές σε παλαιότερη αμπελοκαλλιέργεια και εγκαταστάσεις επεξεργασίας κρασιού, χωρίς αυτό να τεκμηριώνει συγκεκριμένο επισκέψιμο αρχαιολογικό χώρο. Οι παραδόσεις για το αντικρινό Αστριώτικο νησάκι παραμένουν μέρος της τοπικής αφήγησης.",
+      "local_character": "Ένας μικρός και αραιοχτισμένος αγροτικός οικισμός με ελαιώνες, καταλύματα και ήσυχη ατμόσφαιρα. Οι παραλίες της περιοχής είναι ξεχωριστοί προορισμοί και όχι μια ενιαία πλαζ μπροστά στο κέντρο του χωριού.",
+      "what_to_do": "Επισκεφθείτε την Ψιλή Άμμο, ανακαλύψτε τον Σαλονικιό ή το Καλάμι με κατάλληλες συνθήκες στη θάλασσα και προγραμματίστε χωριστή εξόρμηση στη Γκιόλα με σωστά παπούτσια και νερό. Απολαύστε το τοπίο των ελαιώνων ή ένα γεύμα σε ταβέρνα εφόσον λειτουργεί. Ο Ποτός και ο παραδοσιακός Θεολόγος αποτελούν διαφορετικές εκδρομές.",
+      "practical_tips": "Ελέγξτε πού βρίσκεται ακριβώς το κατάλυμά σας: το κέντρο του οικισμού στον χάρτη δεν είναι είσοδος παραλίας. Οι παραθαλάσσιες τοποθεσίες είναι διάσπαρτες, επομένως ένα όχημα είναι συχνά χρήσιμο. Μην θεωρείτε δεδομένα κοντινό ΑΤΜ, φαρμακείο, δημόσιο πάρκινγκ ή στάση λεωφορείου. Επιβεβαιώστε τα δρομολόγια των ΚΤΕΛ και τη λειτουργία των εποχικών επιχειρήσεων. Για τη Γκιόλα πάρτε νερό, αντηλιακή προστασία και σταθερά παπούτσια· αποφύγετε τις βουτιές από βράχους.",
+      "highlights": [
+        "Μικρός αυθεντικός αγροτικός οικισμός, όχι πόλη",
+        "Ελαιώνες και γαλήνιο μεσογειακό τοπίο",
+        "Κοντινές ξεχωριστές παραλίες Ψιλή Άμμος, Σαλονικιός και Καλάμι",
+        "Η Γκιόλα ως ιδιαίτερο φυσικό αξιοθέατο",
+        "Βάση για εξερεύνηση της νότιας Θάσου"
+      ],
+      "seo_title": "Αστρίς – Αστρίδα Θάσος | Παραλίες, Γκιόλα και πρόσβαση",
+      "seo_description": "Γνωρίστε την Αστρίδα στη Θάσο: ήσυχο αγροτικό οικισμό με ελαιώνες κοντά στην Ψιλή Άμμο, τον Σαλονικιό, το Καλάμι και τη Γκιόλα.",
+      "social_caption": "🌿 Αστρίς ή Αστρίδα: ελαιώνες, υπέροχοι όρμοι και χαλαρές ημέρες στη νότια Θάσο. 🌊 Ψιλή Άμμος, Σαλονικιός, Καλάμι και μια ξεχωριστή επίσκεψη στη Γκιόλα! 🇬🇷 #Θάσος #Αστρίς #Αστρίδα",
+      "photo_alt": "Αγροτικό και παραθαλάσσιο τοπίο της Αστρίδας στη Θάσο, με ελαιώνες, χαμηλούς λόφους και γαλάζιους όρμους."
+    },
+    "de": {
+      "name": "Astris (Astrida)",
+      "tagline": "Olivenhaine, stille Buchten und die entspannte Südküste von Thassos",
+      "summary": "Astris, auch Astrida genannt, ist ein kleiner ländlicher Weiler im Süden von Thassos, umgeben von Olivenhainen und mehreren Buchten. Statt eines geschlossenen Urlaubsortes erwartet Reisende ein ruhiger Ausgangspunkt für Psili Ammos, Salonikios, Kalami und die separate Felsenlagune Giola.",
+      "description": "Astris beziehungsweise Astrida zeigt die ruhige Seite des südlichen Thassos. Hier gibt es keine größere Stadt mit belebtem Zentrum und durchgehender Strandpromenade. Es handelt sich um einen kleinen, verstreut bebauten ländlichen Weiler in einer Landschaft aus Olivenhainen, Häusern und Ferienunterkünften. Verschiedene Straßen führen von dort zu einzelnen Küstenabschnitten. Wer gerne unabhängig unterwegs ist und mehrere Buchten entdecken möchte, findet hier eine passende, naturnahe Umgebung. Psili Ammos ist eine bekannte Sandbucht mit saisonal bewirtschafteten Abschnitten. Salonikios und Kalami bieten ein anderes Küstenbild; Zugangswege, Meereseinstieg und Ausstattung müssen für jeden Strand einzeln geprüft werden. Ein besonderes Ausflugsziel ist Giola, das natürliche vom Meer geformte Felsenbecken in der weiteren Umgebung von Astris. Es ist keine gewöhnliche Badebucht: Der letzte Abschnitt wird zu Fuß über unebenen, stellenweise felsigen Boden zurückgelegt. Auch das ruhige Hinterland mit Olivenbäumen und der Blick auf das Meer prägen die Atmosphäre. Der Name des Ortes wird in der lokalen Überlieferung mit dem klaren Sternenhimmel verbunden, an dem sich Menschen aus dem Bergdorf Theologos bei der Olivenernte orientiert haben sollen. Für die Reiseplanung ist wichtig, dass Astris keine kompakte Infrastruktur wie Potos bietet. Tavernen und Dienstleistungen liegen verstreut und können saisonabhängig sein; ein eigenes Fahrzeug ist oft hilfreich. Der Karteneintrag des Weilers liegt landeinwärts und ist weder ein Strandzugang noch ein verifizierter Parkplatz. Astris und Astrida sind zwei Namen für denselben Ort.",
+      "history_culture": "Der Überlieferung nach geht der Ortsname auf die sternklaren Nächte zurück, in denen Bewohner von Theologos zu den Olivenhainen unterwegs waren. Landwirtschaft, Olivenanbau und die umliegende Natur bestimmen die Geschichte stärker als städtische Bauwerke. Regionale Beschreibungen erwähnen Spuren früheren Weinbaus; ein konkret öffentlich zugängliches archäologisches Denkmal wird daraus nicht abgeleitet. Geschichten über die vorgelagerte Insel Astriotiko gehören zur örtlichen Tradition.",
+      "local_character": "Wenig Bebauung, Olivenhaine, einzelne Unterkünfte und eine ruhige Atmosphäre. Es gibt keinen großen touristischen Ortskern direkt am Meer; die einzelnen Strände bilden separate Ausflugsziele.",
+      "what_to_do": "Besuchen Sie die Sandbucht Psili Ammos, erkunden Sie Salonikios oder Kalami bei passenden Bedingungen und planen Sie Giola als eigenständigen Ausflug mit gutem Schuhwerk. Spazieren Sie dort, wo öffentliche Wege geeignet sind, durch die Landschaft oder kehren Sie in eine geöffnete Taverne ein. Auch Potos und Theologos sind lohnende Ziele für andere Tage.",
+      "practical_tips": "Prüfen Sie die genaue Lage Ihrer Unterkunft: Der Kartenmittelpunkt des Weilers liegt nicht am Strand. Für die verstreuten Buchten und Angebote ist ein Fahrzeug häufig sinnvoll. Ein Geldautomat, eine Apotheke, öffentliche Parkplätze oder eine Bushaltestelle in direkter Nähe sind nicht bestätigt. Fahrpläne und saisonale Öffnungszeiten vorab prüfen. Für Giola Trinkwasser, Sonnenschutz und feste Schuhe einpacken; Sprünge von den Felsen vermeiden.",
+      "highlights": [
+        "Echter kleiner Weiler, keine Stadt oder kompakte Ferienanlage",
+        "Olivenhaine und ruhige mediterrane Landschaft",
+        "Nahe separate Strände Psili Ammos, Salonikios und Kalami",
+        "Giola als eigenständiges Naturziel mit Fußweg",
+        "Guter Ausgangspunkt für die Südküste"
+      ],
+      "seo_title": "Astris (Astrida), Thassos – Strände, Giola und Reisetipps",
+      "seo_description": "Astris auf Thassos entdecken: ruhiger Weiler zwischen Olivenhainen, nahe Psili Ammos, Salonikios, Kalami und Giola. Hinweise zu Anfahrt und Umgebung.",
+      "social_caption": "🌿 Astris (Astrida) auf Thassos: Olivenhaine, türkise Buchten und Ruhe im Süden. 🌊 Psili Ammos, Salonikios und Kalami entdecken – für Giola feste Schuhe einpacken! 🇬🇷 #Thassos #Astris #Griechenland",
+      "photo_alt": "Ländliche Küstenlandschaft von Astris auf Thassos mit Olivenhainen, grünen Hügeln und blauen Buchten."
+    },
+    "bg": {
+      "name": "Астрис (Астрида)",
+      "tagline": "Маслинови горички, тихи заливи и спокойният юг на Тасос",
+      "summary": "Астрис, известен и като Астрида, е малко селско селище в южната част на Тасос сред маслинови горички и крайбрежни заливи. То не е голям курорт с компактен център, а спокойна отправна точка за плажовете Псили Амос, Салоникиос, Калами и отделния природен скален басейн Гиола.",
+      "description": "Астрис, наричан още Астрида, е едно от по-спокойните места в южната част на остров Тасос. Тук няма градски център с оживена крайбрежна алея, а малко селско селище сред маслинови насаждения, разпръснати къщи и места за настаняване. Различни пътища водят към отделни участъци от крайбрежието. Районът е подходящ за туристи, които обичат да откриват повече от един плаж и не търсят непременно шумен курорт. Псили Амос е известен с пясъчния си бряг и някои сезонно организирани зони. Салоникиос и Калами предлагат различни природни гледки, но подходът и условията за плуване трябва да се проверяват за всеки плаж поотделно. В по-широката околност се намира Гиола — естествен скален басейн, оформен от морето. Тя е отделна природна забележителност, а не обикновен плаж: последната част от достъпа изисква ходене пеша по неравен и скалист терен. Маслиновите горички и гледките към Егейско море създават характерната тиха атмосфера. Според местно предание името на селището е свързано със звездното небе, по което хората от Теологос се ориентирали на път към маслиновите насаждения. Удобствата не са събрани на едно място, таверните може да работят сезонно и автомобилът често улеснява придвижването между заливите. Картографската точка на селището е навътре от брега и не трябва да се използва като вход към плаж или паркинг. Астрис и Астрида обозначават едно и също място.",
+      "history_culture": "Местната традиция свързва названието с ясното звездно небе и пътуванията на жители от Теологос към маслиновите градини. Историята на района е предимно селскостопанска. Пътеводители споменават следи от по-старо лозарство и производство на вино, но това не означава, че има потвърден и свободно достъпен археологически обект. Разказите за близкия остров Астриотико са част от местния фолклор.",
+      "local_character": "Малко и разпръснато селище с маслинови горички, отделни къщи и места за настаняване. Привлекателността е в пейзажа и близките заливи, а не в голям търговски център или крайбрежна пешеходна зона.",
+      "what_to_do": "Посетете пясъчния Псили Амос, разгледайте Салоникиос или Калами при подходящо време и отделете специална екскурзия за Гиола със стабилни обувки и вода. Насладете се на маслиновите насаждения и местна таверна, ако е отворена. Потос и традиционният Теологос са отделни дестинации за разходка.",
+      "practical_tips": "Проверете точното местоположение на мястото за настаняване: точката на селището в картата не е на плажа. Поради разпръснатите заливи автомобилът често е полезен. Не разчитайте без проверка на близка аптека, банкомат, обществен паркинг или автобусна спирка. Проверявайте актуалните автобусни разписания и сезонните услуги. За Гиола носете вода, слънцезащита и стабилни обувки; не скачайте от скалите.",
+      "highlights": [
+        "Истинско малко селско селище, не град",
+        "Маслинови насаждения и тиха природна среда",
+        "Близо до отделните плажове Псили Амос, Салоникиос и Калами",
+        "Природният скален басейн Гиола с пешеходен достъп",
+        "Подходящо за опознаване на южен Тасос"
+      ],
+      "seo_title": "Астрис (Астрида), Тасос – плажове, Гиола и достъп",
+      "seo_description": "Открийте Астрис на Тасос: тихо селско селище сред маслинови горички, близо до Псили Амос, Салоникиос, Калами и Гиола.",
+      "social_caption": "🌿 Астрис (Астрида), Тасос: маслинови горички, сини заливи и спокойствие. 🌊 Псили Амос, Салоникиос и Калами ви очакват, а за Гиола вземете стабилни обувки! 🇬🇷 #Тасос #Астрис #Гърция",
+      "photo_alt": "Селски и морски пейзаж в района на Астрис на Тасос с маслинови горички, хълмове и сини заливи."
+    },
+    "sr": {
+      "name": "Astris (Astrida)",
+      "tagline": "Maslinjaci, mirne uvale i opušteni jug Tasosa",
+      "summary": "Astris, poznat i kao Astrida, malo je seosko naselje na jugu Tasosa, okruženo maslinjacima i brojnim uvalama. Nije zbijeno turističko mesto već mirna baza za obilazak plaža Psili Amos, Salonikios, Kalami i posebnog prirodnog kamenog bazena Đola.",
+      "description": "Astris, odnosno Astrida, otkriva mirniju stranu južnog Tasosa. Ovo nije grad sa živim trgom i dugim obalskim šetalištem, već malo seosko naselje okruženo maslinjacima, razbacanim kućama, smeštajem i putevima koji vode do različitih delova obale. Namenjeno je putnicima koji vole da sami organizuju dan i obilaze više plaža umesto da ostanu u jednom velikom letovalištu. Psili Amos poznat je po peščanoj obali i pojedinim sezonski uređenim delovima, dok Salonikios i Kalami nude drugačije uvale i mediteranski pejzaž; prilaz i bezbednost ulaska u more razlikuju se od mesta do mesta. U široj okolini nalazi se i Đola (Giola), prirodni bazen u steni koji je oblikovalo more. To je zasebna prirodna znamenitost, a ne obična plaža: dolazak podrazumeva pešačenje po neravnom terenu i pažljivo kretanje po stenama. Maslinjaci, nisko rastinje, vidici prema moru i tiše večeri daju Astrisu poseban karakter. Lokalno predanje povezuje ime mesta sa vedrim zvezdanim nebom koje je nekada pomagalo stanovnicima Teologosa da se orijentišu na putu ka berbi maslina. Usluge su raspoređene na više lokacija, pojedine taverne rade samo tokom sezone i automobil je često koristan za obilaske. Kartografska tačka naselja nalazi se dalje od obale i nije pouzdan prilaz nijednoj plaži niti parking. Astris i Astrida su dva imena za isto mesto.",
+      "history_culture": "Prema lokalnoj priči, naziv Astris potiče od zvezdanog neba pod kojim su ljudi iz Teologosa odlazili do maslinjaka. Naselje ima skromnu poljoprivrednu istoriju. Vodiči pominju tragove ranijeg vinogradarstva i prerade vina, ali to ne potvrđuje postojanje posebno uređenog i dostupnog arheološkog lokaliteta. Priče o ostrvcetu Astriotiko ostaju deo lokalnog predanja.",
+      "local_character": "Malo razuđeno seosko naselje sa maslinjacima, pojedinačnim kućama i turističkim smeštajem. Najveća vrednost su prirodni pejzaž i zasebne obližnje uvale, a ne veliki centar sa prodavnicama.",
+      "what_to_do": "Posetite Psili Amos, istražite Salonikios ili Kalami kada su morski uslovi dobri i isplanirajte posebnu posetu Đoli sa vodom i dobrim cipelama. Uživajte u krajoliku maslinjaka ili svratite u tavernu ako radi. Potos i tradicionalni Teologos mogu biti zasebni izleti.",
+      "practical_tips": "Proverite tačnu lokaciju smeštaja: tačka naselja na mapi nije na plaži. Zbog razuđenih uvala automobil često olakšava kretanje. Ne podrazumevajte da u blizini postoje apoteka, bankomat, javni parking ili autobusko stajalište. Red vožnje i sezonske usluge proverite pre polaska. Za Đolu ponesite vodu, zaštitu od sunca i stabilnu obuću; izbegavajte skakanje sa stena.",
+      "highlights": [
+        "Stvarno malo seosko naselje, a ne grad",
+        "Maslinjaci i mirna mediteranska atmosfera",
+        "Obližnje zasebne plaže Psili Amos, Salonikios i Kalami",
+        "Prirodni kameni bazen Đola, uz pešački prilaz",
+        "Mirna baza za otkrivanje juga Tasosa"
+      ],
+      "seo_title": "Astris (Astrida), Tasos – plaže, Đola i korisni saveti",
+      "seo_description": "Otkrijte Astris na Tasosu: malo mirno naselje među maslinjacima, blizu Psili Amosa, Salonikiosa, Kalamija i prirodnog bazena Đola.",
+      "social_caption": "🌿 Astris (Astrida), Tasos: maslinjaci, tirkizne uvale i mirnije leto. 🌊 Posetite Psili Amos, Salonikios i Kalami, a za Đolu obujte stabilne cipele! 🇬🇷 #Tasos #Astris #Grcka",
+      "photo_alt": "Seoski i primorski pejzaž Astrisa na Tasosu sa maslinjacima, niskim brdima i uvalama plavog mora."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/astris/images/astris1.webp",
+    "gallery": [
+      "destinations/thassos/areas/astris/images/astris2.webp",
+      "destinations/thassos/areas/astris/images/astris3.webp",
+      "destinations/thassos/areas/astris/images/astris4.webp",
+      "destinations/thassos/areas/astris/images/astris5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/astris/images/",
+    "suggested_asset_names": [
+      "astris1.webp",
+      "astris2.webp",
+      "astris3.webp",
+      "astris4.webp",
+      "astris5.webp"
+    ],
+    "image_policy": "Exactly five preassigned local WebP paths; propose images (1) a genuinely identifiable Astris/Astrida agricultural hamlet or broad olive-grove/coastal panorama, (2) authentic rural/olive grove detail, (3) south-coast view geographically confirmed as Astris (not arbitrary island beach), (4) area ambience or actual local buildings, (5) distinctive nearby coastline with accurate subject caption. Do not treat a Psili Ammos, Salonikios, Kalami or Giola photo as the hamlet itself. Rights for publication, derivatives, commercial use and transfer must be verified per source. Image files are not part of this package.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_osm_hamlet",
+      "kind": "openstreetmap_derived_mapping",
+      "title": "Mapcarta – Astris hamlet (OpenStreetMap node 1477905043)",
+      "url": "https://mapcarta.com/13819058",
+      "detail": "Maps Astris as OSM place=hamlet (not town) at 40.58923,24.65552, reported elevation 97m; also Astrida alias. It is a settlement centre reference rather than any beach or entry point.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_osm_beach",
+      "kind": "openstreetmap_derived_mapping",
+      "title": "Mapcarta – Astris Beach (OSM way 208159696)",
+      "url": "https://mapcarta.com/W208159696",
+      "detail": "Separate mapped beach feature at approx 40.5831,24.63894, materially different from the Astris hamlet centre; nearby Psili Ammos and Salonikios are also distinct.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_website_villages",
+      "kind": "local_island_village_index",
+      "title": "Thassos Island – Our Villages (Astris listing)",
+      "url": "https://www.thassos-island.gr/en/villages1.html?start=12",
+      "detail": "Greek island guide explicitly calls Astrida a small rural settlement in the southeast, with name traditionally explained by starry skies during the olive harvest by Theologos farmers.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_visit_thassos",
+      "kind": "local_destination_guide",
+      "title": "Visit Thassos – Astris / Αστρίς",
+      "url": "https://mail.visit-thassos.com/places/astris",
+      "detail": "Identifies agricultural/administrative connection to Theologos, olive groves, reported historic vine and wine-press traces, Astriotiko islet traditions and small accommodation/taverna scene. Folklore not treated as verified archaeology.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_thassos_astris",
+      "kind": "local_destination_guide",
+      "title": "Go Thassos – Astris",
+      "url": "https://www.go-thassos.gr/about-thassos/places/astris",
+      "detail": "Astris and Astrida are one place; olive groves, rural landscape, scattered accommodations and coastal access to Psili Ammos, Kalami, Salonikios and Giola. Individual on-beach service claims should be checked by beach.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_discover_astris",
+      "kind": "regional_destination_guide",
+      "title": "Discover Thassos – Astris",
+      "url": "https://www.discover-thassos.com/listing/astris-thassos/",
+      "detail": "Discusses nearby Psili Ammos, Astris Beach, Salonikios, Giola and Potos, plus general transport/food; distance figures not adopted as fixed routing facts.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_discover_greece_giola",
+      "kind": "national_tourism_guide",
+      "title": "Discover Greece – A day at Giola Lagoon",
+      "url": "https://www.discovergreece.com/experiences/day-mythical-giola-lagoon-thassos",
+      "detail": "Giola is a separate natural rock pool near Astrida with a dirt-road approach followed by a footpath; limited on-site services. Route length/time and opening conditions may vary.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_local_giola_safety",
+      "kind": "local_guide_safety_reference",
+      "title": "Nikana – Giola natural swimming pool",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/what-to-see/1888/giola-natural-swimming-pool",
+      "detail": "Reports uneven access, variable road quality, submerged rock dangers and warns against diving. 2026 update; avoid prescribing a single parking or walking entrance as verified.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_mythassos_giola",
+      "kind": "regional_guide",
+      "title": "MyThassos – Giola",
+      "url": "https://mythassos.app/en/places/%CE%B3%CE%BA%CE%B9%CE%BF%CE%BB%CE%B1",
+      "detail": "Describes rugged access, lack of on-site beach facilities and hazards for younger visitors. No live access status claimed.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_ktel_official",
+      "kind": "municipality_transport_index",
+      "title": "Municipality of Thassos – Bus schedules",
+      "url": "https://www.thassos.gr/en/dromologia-ktel/",
+      "detail": "Directs travellers to authoritative updated KTEL announcements and schedules; does not verify a specific hamlet bus stop or year-round regular service.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_ktel_seasonal",
+      "kind": "date_scoped_timetable_reference",
+      "title": "Go Thassos – Bus schedules and prices, October 2026",
+      "url": "https://www.go-thassos.gr/thassos-bus-schedules-prices",
+      "detail": "Timetable explicitly applies to 1–31 October 2026 and routes vary by weekday; no fixed trip time, fare or confirmed Astris hamlet stop is stored in JSON.",
+      "checked_on": "2026-10-27"
+    }
+  ],
+  "editorial": {
+    "status": "researched_hamlet_identity_confirmed_six_languages_completed_five_image_paths_configured_pending_arrival_rights_final_review",
+    "facts_checked_on": "2026-10-27",
+    "translations_written_on": "2026-10-27",
+    "coverage": "complete_astris_astrida_small_rural_hamlet_profile_six_languages_11_source_references_3_existing_beach_ids_5_preset_WebP_paths",
+    "requires_manual_review": [
+      "Keep Astris classified as OSM place=hamlet and authentic small rural settlement, not a full service town; check whether user wishes to surface it as a main area versus a secondary quiet-coast destination (Pachis/Pefkari policy).",
+      "Confirm OSM mapped point 40.58923,24.65552 (node 1477905043) locally and in Google Maps. The point is inland at about 97m above sea level and NOT an address, car arrival, village beach, pharmacy or parking pin.",
+      "Confirm exact coastal visitor area limits and individual entrances to Astris Beach, Psili Ammos, Salonikios, Kalami and Giola before enabling nearby/routing. Do not invent Astris Beach or Giola entity IDs until dedicated records exist.",
+      "Validate all referenced existing beach IDs against the destination GitHub repo at deployment. Psili Ammos, Salonikios and Kalami are separate mapped beaches; do not merge them under the Astris area title.",
+      "Confirm local access, public parking and current KTEL stop locations and schedules. October 2026 bus listings are date-scoped and cannot establish year-round service.",
+      "Do not promise pharmacies, ATMs, fuel stations, medical services or public accessible beach facilities without individually confirmed current provider/place records.",
+      "Check legal access and route to Giola, safe walking conditions and current operator facilities; never encourage cliff jumping or guarantee that Giola is safe for children.",
+      "Verify historically described winemaking traces and Astriotiko/Sirens legends before turning them into public archaeological POIs or statements of fact.",
+      "Supply five real photographs astris1.webp through astris5.webp; verify each depicts the claimed subject and geographic area and confirm commercial/transfer rights and required attribution.",
+      "Proofread every RO, EN, EL, DE, BG and Serbian Latin translation and editorial/SEO character counts with native speakers before publishing."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "Five local WebP filenames are configured, but image binaries and usage/transfer rights have not been supplied or independently verified. No third-party images are embedded or approved."
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-glykadi",
+  "slug": "glykadi",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Γλυκάδι",
+    "international_name": "Glykadi Beach",
+    "aliases": [
+      "Glikadi Beach",
+      "Glycadi Beach",
+      "Glykadi",
+      "Glikadi",
+      "Paralia Glykadi",
+      "Παραλία Γλυκάδι"
+    ],
+    "entity_scope": "Distinct north-west coast beach between Limenas and Skala Prinos, near the Glikadi area; not the same as Glyfada or Papalimani.",
+    "deduplication_warning": "Glykadi/Glikadi/Glycadi are spelling variants for this beach. Nearby Glyfada and Papalimani are separate locations; do not merge on approximate Limenas address."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "northwest",
+    "settlements": [
+      "Limenas",
+      "Skala Prinos"
+    ],
+    "lat": 40.7930825,
+    "lng": 24.657636,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Glikadi%20Beach%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_map",
+    "coordinate_type": "representative_beach_point_not_confirmed_entrance",
+    "coordinate_review_status": "coordinates_cross_checked_in_independent_geographic_references; direct_google_maps_point_confirmation_pending",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mostly_fine_sand",
+    "seabed_near_shore": "flat_rock_slabs_first_metres_then_sand",
+    "water_entry": "generally_gradual_with_rock_slab",
+    "nearshore_depth": "generally_shallow_but_variable",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "weather_dependent",
+    "exposure": "northwest_coast_cove",
+    "natural_shade_on_sand": "partial_near_pine_tree_line",
+    "beach_length_m": null,
+    "length_note": "Different sites vary on measured beach length; no precise figure confirmed.",
+    "backdrop": "Pine trees and green low coastal hills; views out toward the north-west sea",
+    "shoreline_type": "sandy_cove_with_rocky_edges"
+  },
+  "visitor_experience": {
+    "organization": "partly_serviced_seasonally_with_free_space",
+    "suitable_for": [
+      "couples",
+      "families_with_care_at_water_entry",
+      "quiet_day",
+      "reading",
+      "swimming",
+      "independent_beach_visits"
+    ],
+    "notable_for": [
+      "pine_forest_backdrop",
+      "sandy_shore",
+      "clear_turquoise_water",
+      "flat_stone_slabs_at_entry",
+      "relative_quiet"
+    ],
+    "activities_possible": [
+      "swimming",
+      "relaxing",
+      "photography",
+      "light_snorkeling_near_rocky_parts"
+    ],
+    "estimated_crowd_peak": "often_less_busy_but_weekends_and_high_season_can_be_popular",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "The stone slabs at the waterline require care; the presence of sea urchins may vary. Supervise children and check current conditions."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Listed by some guides; actual availability and whether public or operator-only need confirmation."
+    },
+    "showers": {
+      "available_in_some_sections": null
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": null,
+    "cafes_nearby": null,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No confirmed current lifeguard operating schedule.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Dedicated accessibility, continuous step-free access and special equipment not confirmed.",
+    "free_unserviced_space": true,
+    "facilities_scope": "A small seasonal canteen/snack stand and loungers are reported; services and hotel amenities should not be treated as public year-round facilities."
+  },
+  "access_and_cost": {
+    "road_access": "via_main_coastal_road_between_limenas_and_skala_prinos_with_local_turnoff",
+    "public_transport": "bus_service_reported_on_coastal_route; stop_proximity_and_schedule_need_confirmation",
+    "parking_type": "roadside_or_small_area_behind_beach",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Prices and purchasing conditions depend on seasonal operator; no verified current tariff.",
+    "best_arrival_advice": "On busy days arrive earlier to have more choice of parking and shade; check entry conditions before setting up.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Local sources use approximately 4–6 km depending on route and reference point; no single verified driving distance stored."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, wind, UV, waves or service availability into the beach record."
+  },
+  "translations": {
+    "ro": {
+      "name": "Glykadi Beach (Glikadi)",
+      "tagline": "Un golf nisipos, apă limpede și pini aproape de țărm",
+      "summary": "Glykadi este o plajă din nord-vestul insulei Thassos, la vest de Limenas, apreciată pentru nisip, apa puțin adâncă și peisajul verde. La intrarea în mare există porțiuni cu plăci de piatră, astfel că încălțămintea de apă poate fi utilă.",
+      "description": "Glykadi Beach se află pe coasta nord-vestică a insulei Thassos, pe traseul dintre Limenas și Skala Prinos. Este un golf plăcut, mărginit de pini, în care nisipul deschis la culoare contrastează cu apa în nuanțe de turcoaz și verde. Atmosfera este de obicei mai liniștită decât pe plajele foarte cunoscute din insulă, iar în spatele țărmului se găsesc locuri de parcare. Nisipul de pe plajă nu trebuie confundat cu substratul de la intrarea în apă: pe primii metri apar plăci întinse de piatră, după care fundul devine mai nisipos. Apa este în general puțin adâncă aproape de mal, însă condițiile variază odată cu vremea. În sezon au fost semnalate o mică unitate cu băuturi și gustări și șezlonguri cu umbrele; disponibilitatea lor nu este garantată în fiecare perioadă. Glykadi este potrivită pentru o zi de înot, relaxare și citit, cu suficient timp pentru a te bucura de vegetația din jur și de priveliștea spre mare. Este o alegere interesantă pentru familii, cu condiția să se țină seama de pietrele de la intrarea în apă și de supravegherea permanentă a copiilor.",
+      "practical_tips": "Parcarea se află în apropierea plajei, dar numărul locurilor poate varia în zilele aglomerate. Pentru intrarea în apă, ia în calcul papuci de înot din cauza plăcilor de piatră. Pinii oferă umbră doar în anumite porțiuni, deci o umbrelă proprie poate fi utilă. Nu conta pe funcționarea permanentă a barului, toaletelor sau dușurilor: acestea pot depinde de sezon și de operator. Verifică înainte orarul autobuzelor și condițiile mării.",
+      "highlights": [
+        "Golf nisipos încadrat de pini",
+        "Apă limpede, de regulă puțin adâncă lângă mal",
+        "Plăci de piatră la primii metri de intrare",
+        "Atmosferă adesea liniștită",
+        "Parcare în apropiere și servicii sezoniere"
+      ],
+      "seo_title": "Glykadi Beach, Thassos – nisip, acces și sfaturi utile",
+      "seo_description": "Descoperă Glykadi Beach lângă Limenas, Thassos: pini, nisip, apă limpede, intrare cu plăci de piatră, parcare, facilități sezoniere și sfaturi.",
+      "social_caption": "🌿🏖️ Glykadi Beach, Thassos: nisip, pini aproape de mal și apă cu reflexe turcoaz. Un loc potrivit pentru relaxare, dar ține minte că la intrarea în apă sunt porțiuni cu piatră. Salvează-l pentru o zi liniștită pe insulă! 🇬🇷 #Thassos #Glykadi #ExploreGreece",
+      "photo_alt": "Vedere spre Glykadi Beach, un mic golf nisipos din Thassos, înconjurat de pini și apă turcoaz."
+    },
+    "en": {
+      "name": "Glykadi Beach (Glikadi)",
+      "tagline": "A sandy cove, clear water and pine trees by the shore",
+      "summary": "Glykadi is a beach on the north-western coast of Thassos, west of Limenas, known for its sand, generally shallow nearshore water and green surroundings. Flat stone shelves occur at the waterline, so water shoes can be helpful.",
+      "description": "Glykadi Beach sits on the north-west coast of Thassos, along the road between Limenas and Skala Prinos. This inviting cove is framed by pine trees, with pale sand meeting sea water that often takes on turquoise and green tones. It tends to feel more relaxed than some of the island’s busiest beaches, and parking areas can be found behind the shore. One important detail is easy to overlook: the sandy beach does not mean the first steps into the sea are entirely sandy. Broad, flat rock slabs lie beneath the water for the first few metres before giving way to a sandier seabed. The water is generally shallow near the shoreline, although swimming conditions still change with the wind and weather. A small seasonal snack stand and some loungers with umbrellas have been reported, but they should not be assumed to operate every day or throughout the year. Glykadi is a lovely option for swimming, reading and slowing down in a greener coastal setting. Families may enjoy the gradual water depth while taking extra care on the stony entry and supervising children at all times.",
+      "practical_tips": "Parking is usually available near the beach, but spaces can become limited at busier times. Consider water shoes for the flat stone slabs at the sea entrance. Pine trees provide some shade in selected areas, not over the entire sand. Bring essentials instead of relying on a snack stand, toilets or showers being open. Check local bus timetables and current sea conditions before travelling.",
+      "highlights": [
+        "Sandy cove surrounded by pines",
+        "Generally shallow, clear nearshore water",
+        "Flat stone slabs at the water entry",
+        "Often quieter atmosphere",
+        "Nearby parking and seasonal services"
+      ],
+      "seo_title": "Glykadi Beach Thassos – sand, access and practical tips",
+      "seo_description": "Visit Glykadi Beach near Limenas on Thassos: pine trees, sand, clear water, rocky entry, parking, seasonal amenities and useful beach advice.",
+      "social_caption": "🌿🏖️ Meet Glykadi Beach, Thassos: a sandy shore beneath pine trees and beautifully clear green-blue water. Bring water shoes for the flat rocks at the shoreline and enjoy a slower island day. 🇬🇷 #Thassos #GlykadiBeach #GreekIslands",
+      "photo_alt": "View of Glykadi Beach, a sandy pine-fringed cove on Thassos with clear turquoise water."
+    },
+    "el": {
+      "name": "Παραλία Γλυκάδι (Glykadi)",
+      "tagline": "Αμμώδης ακτή, καθαρά νερά και πεύκα δίπλα στη θάλασσα",
+      "summary": "Το Γλυκάδι βρίσκεται στη βορειοδυτική ακτή της Θάσου, δυτικά του Λιμένα. Ξεχωρίζει για την άμμο, τα συνήθως ρηχά νερά κοντά στην ακτή και το πράσινο τοπίο. Στην είσοδο της θάλασσας υπάρχουν επίπεδες πέτρινες πλάκες.",
+      "description": "Η παραλία Γλυκάδι βρίσκεται στη βορειοδυτική πλευρά της Θάσου, στον παραλιακό δρόμο από τον Λιμένα προς τη Σκάλα Πρίνου. Πρόκειται για έναν όμορφο μικρό κόλπο, πλαισιωμένο από πεύκα, όπου η ανοιχτόχρωμη άμμος συναντά νερά με γαλαζοπράσινες αποχρώσεις. Η ατμόσφαιρα είναι συχνά πιο ήρεμη από εκείνη των πιο πολυσύχναστων παραλιών του νησιού και πίσω από την ακτή υπάρχουν χώροι όπου μπορεί κανείς να σταθμεύσει. Χρειάζεται όμως προσοχή στην είσοδο στη θάλασσα: παρότι η παραλία είναι αμμώδης, στα πρώτα μέτρα του βυθού υπάρχουν πλατιές, επίπεδες πέτρινες πλάκες, ενώ πιο μέσα ο βυθός γίνεται περισσότερο αμμώδης. Τα νερά είναι γενικά ρηχά κοντά στην ακτή, αλλά ο καιρός και ο άνεμος επηρεάζουν τις συνθήκες κολύμβησης. Κατά την τουριστική περίοδο έχουν αναφερθεί ένα μικρό σημείο για ποτά και σνακ, καθώς και ξαπλώστρες με ομπρέλες, χωρίς να είναι βέβαιη η καθημερινή λειτουργία τους. Το Γλυκάδι είναι ιδανικό για ένα ήσυχο μπάνιο και χαλάρωση στη φύση. Οι οικογένειες μπορούν να απολαύσουν την παραλία, αρκεί να προσέχουν τις πέτρες και να επιβλέπουν διαρκώς τα παιδιά.",
+      "practical_tips": "Υπάρχουν δυνατότητες στάθμευσης κοντά στην ακτή, αλλά οι θέσεις μπορεί να είναι περιορισμένες σε ημέρες αιχμής. Παπούτσια θαλάσσης βοηθούν στις επίπεδες πλάκες της εισόδου. Η φυσική σκιά από τα πεύκα καλύπτει μόνο ορισμένα σημεία. Μην θεωρείτε δεδομένη τη λειτουργία καντίνας, τουαλετών ή ντους. Ελέγξτε τα δρομολόγια λεωφορείων και τις συνθήκες της θάλασσας.",
+      "highlights": [
+        "Αμμώδης κόλπος με πεύκα",
+        "Συνήθως ρηχά και καθαρά νερά κοντά στην ακτή",
+        "Επίπεδες πέτρινες πλάκες στην είσοδο",
+        "Συχνά ήσυχη ατμόσφαιρα",
+        "Στάθμευση κοντά και εποχικές υπηρεσίες"
+      ],
+      "seo_title": "Παραλία Γλυκάδι Θάσος – πρόσβαση και χρήσιμες συμβουλές",
+      "seo_description": "Γνωρίστε το Γλυκάδι κοντά στον Λιμένα Θάσου: άμμο, πεύκα, καθαρά νερά, πέτρες στην είσοδο, στάθμευση και εποχικές παροχές.",
+      "social_caption": "🌿🏖️ Γλυκάδι, Θάσος: αμμουδιά κάτω από πεύκα και υπέροχα γαλαζοπράσινα νερά. Προσοχή στις επίπεδες πέτρες στην είσοδο της θάλασσας — και μετά, μόνο χαλάρωση! 🇬🇷 #Θάσος #Γλυκάδι #ΕλληνικάΝησιά",
+      "photo_alt": "Άποψη της αμμώδους παραλίας Γλυκάδι στη Θάσο, με πεύκα και γαλαζοπράσινη θάλασσα."
+    },
+    "de": {
+      "name": "Glykadi Beach (Glikadi)",
+      "tagline": "Sandbucht mit klarem Wasser und Pinien am Ufer",
+      "summary": "Glykadi liegt an der Nordwestküste von Thassos westlich von Limenas. Der Strand bietet Sand, meist flaches Wasser in Ufernähe und eine grüne Umgebung. Direkt am Einstieg ins Meer befinden sich flache Steinplatten.",
+      "description": "Der Strand Glykadi liegt an der Nordwestküste von Thassos an der Straße zwischen Limenas und Skala Prinos. Die kleine, reizvolle Bucht ist von Pinien umgeben; heller Sand und türkisgrün schimmerndes Wasser prägen das Bild. Häufig geht es hier ruhiger zu als an den bekanntesten Stränden der Insel. Hinter dem Strand gibt es Möglichkeiten, das Auto abzustellen. Beim Baden sollte man allerdings einen wichtigen Unterschied beachten: Obwohl der Strand selbst sandig ist, liegen in den ersten Metern im Wasser breite, flache Steinplatten. Weiter draußen wird der Meeresboden wieder sandiger. Das Wasser ist in Ufernähe meist relativ flach, doch Wind und Wetter können die Bedingungen verändern. In der Sommersaison wurden ein kleiner Imbissstand sowie einige Liegen und Sonnenschirme angeboten; eine durchgehende Verfügbarkeit ist nicht garantiert. Glykadi eignet sich gut für einen entspannten Badetag, ein Buch unter den Bäumen und eine Pause abseits des größten Trubels. Familien schätzen das meist seichte Wasser, sollten jedoch auf die Steinplatten achten und Kinder immer beaufsichtigen.",
+      "practical_tips": "Parkmöglichkeiten befinden sich in Strandnähe, können an stärker besuchten Tagen jedoch knapp werden. Badeschuhe sind wegen der flachen Steinplatten am Wassereinstieg sinnvoll. Die Pinien spenden nur stellenweise Schatten; ein eigener Sonnenschirm kann nützlich sein. Verlasse dich nicht darauf, dass Imbiss, Toiletten oder Duschen geöffnet sind. Prüfe Busfahrpläne und aktuelle Badebedingungen.",
+      "highlights": [
+        "Sandige, von Pinien gesäumte Bucht",
+        "Meist klares, flaches Wasser am Ufer",
+        "Flache Steinplatten beim Einstieg",
+        "Häufig entspannte Atmosphäre",
+        "Parkmöglichkeiten und saisonale Angebote"
+      ],
+      "seo_title": "Glykadi Beach Thassos – Strand, Anfahrt und Tipps",
+      "seo_description": "Glykadi Beach bei Limenas auf Thassos: Sand, Pinien, klares Wasser, steiniger Einstieg, Parkmöglichkeiten, saisonale Angebote und praktische Tipps.",
+      "social_caption": "🌿🏖️ Glykadi Beach auf Thassos: heller Sand, duftende Pinien und türkisgrünes Meer. Mit Badeschuhen für die flachen Steine am Ufer wird daraus ein entspannter Inseltag. 🇬🇷 #Thassos #Glykadi #Griechenland",
+      "photo_alt": "Sandbucht Glykadi auf Thassos mit Pinien am Ufer und türkisfarbenem Meer."
+    },
+    "bg": {
+      "name": "Плаж Гликади (Glykadi)",
+      "tagline": "Пясъчен залив, бистра вода и борове край брега",
+      "summary": "Гликади се намира на северозападния бряг на Тасос, западно от Лименас. Плажът е известен с пясъка, сравнително плитката вода край брега и зеленината. В първите метри навътре в морето има плоски каменни плочи.",
+      "description": "Плажът Гликади се намира на северозападното крайбрежие на остров Тасос, по пътя между Лименас и Скала Принос. Това е уютен залив, обграден от борове, където светлият пясък среща прозрачна вода с тюркоазени и зелени оттенъци. Обстановката често е по-спокойна, отколкото на най-популярните плажове на острова, а зад брега има възможности за паркиране. Има обаче една важна особеност: въпреки че плажната ивица е пясъчна, в първите метри на морето се намират широки, плоски каменни плочи. След тях дъното отново става по-пясъчно. Водата близо до брега обикновено е плитка, но вятърът и времето могат да променят условията за плуване. През летния сезон са предлагани напитки и леки закуски от малък обект, както и ограничен брой шезлонги и чадъри, но не бива да се разчита на постоянната им наличност. Гликади е приятно място за плуване, четене и почивка сред природата. Семействата могат да се насладят на спокойната атмосфера, като внимават при влизане във водата и наблюдават децата непрекъснато.",
+      "practical_tips": "В близост има места за паркиране, но в натоварени дни те могат да са ограничени. Обувки за вода са полезни за преминаването по плоските каменни плочи. Борчетата осигуряват естествена сянка само на определени места. Не разчитайте, че павилионът, тоалетните или душовете работят постоянно. Проверете автобусните разписания и условията в морето.",
+      "highlights": [
+        "Пясъчен залив, обграден от борове",
+        "Обикновено бистра и плитка вода край брега",
+        "Плоски каменни плочи при влизане",
+        "Често спокойна атмосфера",
+        "Паркиране наблизо и сезонни услуги"
+      ],
+      "seo_title": "Плаж Гликади, Тасос – достъп и полезни съвети",
+      "seo_description": "Открийте Гликади до Лименас на Тасос: пясък, борове, прозрачна вода, каменист вход, паркиране, сезонни удобства и съвети.",
+      "social_caption": "🌿🏖️ Гликади, Тасос: пясък под боровете и прозрачно тюркоазено море. Вземете обувки за вода за плоските камъни при влизане и се насладете на спокойствието. 🇬🇷 #Тасос #Гликади #Гърция",
+      "photo_alt": "Пясъчният плаж Гликади на Тасос, с борове и прозрачна тюркоазена вода."
+    },
+    "sr": {
+      "name": "Glykadi Beach (Glikadi)",
+      "tagline": "Peščana uvala, čisto more i borovi uz obalu",
+      "summary": "Glikadi se nalazi na severozapadnoj obali Tasosa, zapadno od Limenasa. Plaža je poznata po pesku, uglavnom plitkoj vodi blizu obale i zelenom okruženju. Na samom ulasku u more nalaze se ravne kamene ploče.",
+      "description": "Plaža Glikadi nalazi se na severozapadnoj obali Tasosa, uz put između Limenasa i Skale Prinosa. Ova prijatna uvala okružena je borovima, a svetao pesak i prozirno more u tirkiznim i zelenim nijansama stvaraju lep prizor. Atmosfera je često mirnija nego na najpoznatijim plažama ostrva, a iza plaže postoji prostor za parkiranje. Važno je ipak znati da peščana obala ne znači da je i prvih nekoliko metara morskog dna peskovito: pri ulasku se nailazi na široke, ravne kamene ploče, dok dalje dno postaje mekše i peskovitije. Voda je uglavnom plitka blizu obale, ali vetar i vremenski uslovi mogu da promene uslove za kupanje. Tokom letnje sezone pominju se mali kiosk sa pićem i užinom, kao i izvestan broj ležaljki i suncobrana; njihova svakodnevna dostupnost nije zagarantovana. Glikadi je dobar izbor za plivanje, čitanje i odmor u zelenom okruženju. Porodice mogu uživati u uglavnom plitkoj vodi, uz dodatnu pažnju na kamen pri ulasku i stalan nadzor dece.",
+      "practical_tips": "Parking postoji blizu plaže, ali broj mesta može biti ograničen u prometnijim danima. Obuća za vodu može pomoći pri prelasku preko ravnih kamenih ploča. Borovi pružaju prirodan hlad samo na pojedinim delovima. Nemojte računati da kiosk, toaleti ili tuševi rade tokom cele sezone. Proverite red vožnje autobusa i trenutne uslove na moru.",
+      "highlights": [
+        "Peščana uvala sa borovima",
+        "Uglavnom bistra i plitka voda uz obalu",
+        "Ravne kamene ploče pri ulasku u more",
+        "Često mirnija atmosfera",
+        "Parking i sezonski sadržaji u blizini"
+      ],
+      "seo_title": "Plaža Glikadi, Tasos – prilaz, sadržaji i saveti",
+      "seo_description": "Otkrijte Glikadi blizu Limenasa na Tasosu: pesak, borove, čisto more, kamene ploče pri ulasku, parking i praktične savete.",
+      "social_caption": "🌿🏖️ Glikadi, Tasos: pesak ispod borova i bistro, tirkizno more. Ponesite obuću za vodu zbog ravnih kamenih ploča na ulasku i uživajte u mirnijem danu na ostrvu! 🇬🇷 #Tasos #Glikadi #Grcka",
+      "photo_alt": "Peščana plaža Glikadi na Tasosu, sa borovima uz obalu i tirkiznim morem."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/glykadi/images/glykadi1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/glykadi/images/glykadi2.webp",
+      "destinations/thassos/beaches/glykadi/images/glykadi3.webp",
+      "destinations/thassos/beaches/glykadi/images/glykadi4.webp",
+      "destinations/thassos/beaches/glykadi/images/glykadi5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/glykadi/images/",
+    "suggested_asset_names": [
+      "glykadi1.webp",
+      "glykadi2.webp",
+      "glykadi3.webp",
+      "glykadi4.webp",
+      "glykadi5.webp"
+    ],
+    "image_policy": "Only properly licensed or user-supplied photographs may become published media. Keep original source and license/proof of permission per photo; visual research links alone are not commercial reuse rights.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_map",
+      "kind": "map_link",
+      "title": "Discover Thassos — Get Directions (Google Maps)",
+      "url": "https://www.discover-thassos.com/listing/glikadi-beach-thassos/",
+      "detail": "The page includes a Google Maps directions link for Glikadi Beach; exact coordinate pair is not read directly from Google Maps.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_beachatlas",
+      "kind": "geographic_reference",
+      "title": "BeachAtlas — Glikadi",
+      "url": "https://www.beachatlas.com/glikadi",
+      "detail": "Published representative beach coordinates 40.7930825, 24.657636, corroborated by independent beach listings.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_pame",
+      "kind": "beach_guide",
+      "title": "Pame Paralia — Glikadi",
+      "url": "https://pameparalia.com/beach/glikadi-mainland",
+      "detail": "Published approximate coordinates 40.7931, 24.6576; describes shallow water, stone slab at sea entrance, shade and seasonal facilities.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_discover",
+      "kind": "local_tourism_guide",
+      "title": "Discover Thassos — Glikadi Beach",
+      "url": "https://www.discover-thassos.com/listing/glikadi-beach-thassos/",
+      "detail": "Sandy beach, stone slabs, shallow water, occasional sea urchins, seasonal snack bar and sun loungers, nearby parking and free beach space.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "regional_travel_guide",
+      "title": "Nikana — Glykadi Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1772/glykadi-beach",
+      "detail": "Describes sandy beach and flat stone plates on entry, parking and canteen with umbrella and loungers since 2022; page updated December 2023.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "regional_tourism_directory",
+      "title": "Go Thassos — Glikadi Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/glikadi-beach",
+      "detail": "Lists several facility types; not proof that each remains open or publicly accessible throughout the season.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_visit_thassos",
+      "kind": "regional_tourism_guide",
+      "title": "Visit Thassos — Παραλία Γλυκάδι",
+      "url": "https://www.visit-thassos.com/places/paralia-glikadi",
+      "detail": "Greek beach guide describing shallow water, sandy shore, loungers, parking and views toward Thassopoula.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_glikadi_hotel",
+      "kind": "operator_official",
+      "title": "Glikadi Hotel — Location",
+      "url": "https://www.glikadi-hotel.gr/en/location.html",
+      "detail": "Corroborates nearby pinewood environment and coastal setting; hotel amenities do not automatically count as public beach amenities.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_hotel_facilities",
+      "kind": "operator_official",
+      "title": "Glikadi Hotel — Facilities",
+      "url": "https://www.glikadi-hotel.gr/en/facilities.html",
+      "detail": "Hotel-provided loungers are for customers; do not describe them as free public beach facilities.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_beachsearcher",
+      "kind": "beach_guide",
+      "title": "BeachSearcher — Glikadi",
+      "url": "https://beachsearcher.com.tr/tr/beach/300207094/glikadi-beach",
+      "detail": "Visual research reference for beach appearance; image licensing unverified.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm exact Google Maps point and preferred beach entrance; the stored coordinates are independently corroborated but not directly copied from Maps",
+      "Confirm the five locally assigned Glykadi images match the beach and that publication rights and any required attributions are documented",
+      "Check which snack stand, sunbeds, toilets and showers actually operate in target season",
+      "Confirm current parking, public transport stop and accessibility conditions",
+      "Review local safety wording, seasonal details and translations before publication"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text only; rights to use the five local images have not been independently verified. Verify source-data reuse conditions before commercial use.",
+    "photo_source_disclaimer": "Five local image paths assigned from the supplied filename list; file presence, provenance, licences and reuse rights remain to be confirmed."
+  }
+}

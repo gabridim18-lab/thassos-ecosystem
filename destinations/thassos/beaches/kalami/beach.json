@@ -1,0 +1,395 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-kalami",
+  "slug": "kalami",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Καλάμι",
+    "international_name": "Kalami Beach",
+    "aliases": [
+      "Kalami",
+      "Kalami Beach Thassos",
+      "Kalami Beach Astris",
+      "Παραλία Καλάμι",
+      "Kalami Astrida"
+    ],
+    "entity_scope": "Single small pebble-and-rock cove in the Astris area on the south coast of Thassos, near Giola. Not the Astris village beach, Salonikios or Giola natural swimming pool.",
+    "deduplication_warning": "There are beaches named Kalami elsewhere in Greece (Corfu, Chania/Crete, Kythira, Euboea). Restrict media and content to Kalami beach at approximately 40.5828,24.6674 on Thassos. Do not merge with Astris or Giola."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south / southeast-facing cove near Astris",
+    "settlements": [
+      "Astris",
+      "Potos"
+    ],
+    "lat": 40.582834,
+    "lng": 24.667384,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&destination=40.582834%2C24.667384",
+    "coordinate_source_reference": "s_map_google",
+    "coordinate_type": "third_party_google_maps_directions_reference_near_beach_not_verified_parking_or_official_place_pin",
+    "coordinate_review_status": "Referenced Google Maps destination from park4night, corroborated by OpenStreetMap and BeachAtlas. Preferred public road entrance, formal Google place pin and navigable route require manual verification.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "pale_pebbles_and_stones",
+    "seabed_near_shore": "rocky_with_slippery_stones_and_possible_sea_urchins",
+    "water_entry": "uneven_stony_entry",
+    "nearshore_depth": "variable_shallow_rocky_entry_then_deeper_water",
+    "water_clarity": "often_very_clear",
+    "wave_conditions": "wind_dependent",
+    "exposure": "small_open_south_coast_cove",
+    "natural_shade_on_sand": "limited_no_guaranteed_tree_shade",
+    "beach_length_m": null,
+    "length_note": "Do not assert exact length: sources vary in their measurement of the small cove.",
+    "backdrop": "low rocky headlands and Mediterranean scrub above the cove",
+    "shoreline_type": "small_pebbly_rocky_cove"
+  },
+  "visitor_experience": {
+    "organization": "mostly_natural_with_some_seasonal_hotel_linked_loungers",
+    "suitable_for": [
+      "confident_swimmers",
+      "couples",
+      "quiet_seaside_days",
+      "snorkeling_enthusiasts",
+      "nature_lovers"
+    ],
+    "notable_for": [
+      "small_pebble_cove",
+      "clear_water",
+      "rocky_seabed",
+      "snorkeling",
+      "low_development",
+      "remote_atmosphere"
+    ],
+    "activities_possible": [
+      "swimming",
+      "snorkeling",
+      "underwater_observation",
+      "shore_photography",
+      "relaxing"
+    ],
+    "estimated_crowd_peak": "typically_quieter_than_major_sandy_beaches_but_varies_seasonally",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Stone and uneven underwater terrain: slippery submerged rocks and possible sea urchins; depth changes beyond entry zone. Swimming shoes and supervision recommended. Access path may be steep; check weather before swimming."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Independent reports conflict. Do not promise public toilets; some accounts specifically report none."
+    },
+    "showers": {
+      "available_in_some_sections": null
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": null,
+    "cafes_nearby": null,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No lifeguard service verified for this small rocky cove. Never promise supervised swimming.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Steep, irregular final approach and stony shore are not accessible-looking; no certified accessible beach access verified.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Mostly natural cove; limited loungers may be associated with nearby hotels. Presence, entitlement, pricing, public WC, showers, and any refreshments vary and require site inspection."
+  },
+  "access_and_cost": {
+    "road_access": "paved_island_road_then_steep_uneven_dirt_track_or_footpath",
+    "public_transport": "regional_bus_may_reach_Astris_but_no_verified_bus_stop_at_cove",
+    "parking_type": "small_unformalized_pull_in_near_cove_with_difficult_access",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Any loungers may be hotel-linked and subject to seasonal use rules. Old claims of free use or drink minimum cannot be assumed current.",
+    "best_arrival_advice": "Assess the dirt track before entering, especially in low-clearance vehicles; allow for a walk. Carry water, food, shade and water shoes. Do not block narrow turnarounds.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Travel guides give approximately 43 km from Limenas, but actual road distance and duration depend on the route; no single route value asserted."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Kalami Beach (Καλάμι)",
+      "tagline": "Un golfuleț pietros, apă limpede și liniște aproape de Giola",
+      "summary": "Kalami este o plajă mică și retrasă din zona Astris, în sudul insulei Thassos. Pietricelele deschise la culoare, stâncile joase și apa transparentă o recomandă mai ales celor care preferă snorkelingul și locurile naturale, fără agitația stațiunilor.",
+      "description": "Kalami Beach este ascunsă într-un golf mic de pe coasta sudică a insulei Thassos, în zona Astris, nu departe de atracția naturală Giola. Spre deosebire de marile plaje nisipoase, aici peisajul este dominat de pietricele albicioase, bolovani netezi, stânci și versanți cu vegetație mediteraneeană. Apa este adesea foarte limpede, iar zonele cu piatră de sub suprafață creează un cadru interesant pentru observarea peștilor cu mască și snorkel. Intrarea în mare nu este uniformă: la margine pot exista porțiuni pietroase mai puțin adânci, urmate de zone cu apă mai adâncă. Unele pietre sunt alunecoase și pot exista arici de mare, astfel că încălțămintea de apă este utilă. Kalami atrage prin liniște și prin caracterul aproape sălbatic, nu printr-o gamă mare de servicii. În anumite sezoane au fost semnalate câteva șezlonguri legate de unitățile de cazare din apropiere, însă acestea nu trebuie considerate facilități publice garantate. Accesul rutier final se poate face pe o pistă neasfaltată, cu porțiuni abrupte și denivelări; unele trasee de la hotelurile situate mai sus presupun coborâre pe jos. Priveliștea dintre promontoriile stâncoase este principala recompensă pentru cei pregătiți să vină cu apă, gustări și echipament propriu.",
+      "practical_tips": "Alege Kalami dacă îți plac golfurile pietroase și înoți încrezător; pentru copii mici și cărucioare nu este alegerea cea mai comodă. Ia papuci de apă, apă potabilă, gustări, protecție solară și, dacă dorești, mască de snorkeling. Nu presupune că vei găsi toaletă, duș, bar sau șezlong disponibil. Verifică starea drumului de pământ înainte de a coborî cu un automobil cu gardă mică; posibilitățile de întoarcere și parcare sunt limitate. Nu călca pe arici de mare și evită rocile ude. Dacă vrei să vizitezi și Giola, trateaz-o ca obiectiv distinct, cu acces și riscuri proprii. Înainte de înot, verifică vântul și valurile din ziua vizitei.",
+      "highlights": [
+        "Golf mic și retras, cu pietricele deschise la culoare",
+        "Apă de regulă limpede și locuri pentru snorkeling",
+        "Promontorii stâncoase și peisaj natural",
+        "Acces final pe drum neasfaltat ori pe jos",
+        "Facilități foarte limitate și variabile sezonier"
+      ],
+      "seo_title": "Kalami Beach Thassos – acces, snorkeling și sfaturi utile",
+      "seo_description": "Descoperă Kalami Beach lângă Astris și Giola, Thassos: golf pietros, apă limpede, snorkeling, acces pe drum neasfaltat și recomandări practice.",
+      "social_caption": "🌊 Kalami, Thassos: un golf mic, cu pietricele albe, stânci și apă limpede. 🤿 Pentru iubitorii de snorkeling și de locuri liniștite — ia papuci de apă și tot ce ai nevoie pentru o zi la mare. 🇬🇷 #Thassos #KalamiBeach #ExploreGreece",
+      "photo_alt": "Golfulețul pietros Kalami Beach din Astris, Thassos, cu apă albastră limpede și promontorii stâncoase."
+    },
+    "en": {
+      "name": "Kalami Beach (Καλάμι)",
+      "tagline": "A quiet, pebbly cove with clear water near Giola",
+      "summary": "Kalami is a small, secluded beach in the Astris area on the southern coast of Thassos. Pale pebbles, smooth rocks and transparent water appeal to visitors who enjoy snorkelling and a less developed seaside setting.",
+      "description": "Kalami Beach occupies a compact cove on the southern coast of Thassos, near Astris and within the wider area of the well-known Giola natural pool. Rather than a broad expanse of fine sand, it offers pale pebbles, smooth stones, rocky edges and low Mediterranean vegetation on the surrounding slopes. The water is often remarkably clear, with a rocky underwater landscape that can be rewarding for snorkelling and watching small fish. The entry is not equally comfortable everywhere: shallow stony patches may be followed by deeper water, and some submerged rocks are slippery. Sea urchins have also been reported, making suitable water shoes a sensible precaution. Kalami is valued for its peaceful, relatively untouched atmosphere rather than a full range of beach services. A small number of loungers associated with nearby accommodation have appeared in some seasons, but their use and availability should never be assumed. The final approach may involve a steep, uneven dirt track, while paths from accommodation above the cove can also require a walk down and back up. It is best enjoyed by independent visitors who are comfortable around rocks and arrive prepared with drinking water, a snack, sun protection and their own beach gear. Its intimate setting and the view framed by stone headlands make the extra planning worthwhile.",
+      "practical_tips": "Bring water shoes for pebbles, slippery rock and possible sea urchins, plus your own drinking water, snacks and sun protection. Do not rely on toilets, showers, a staffed bar or publicly available loungers. Check the condition of the dirt-road approach before taking a low-clearance car; parking and turning space may be tight. Children need close supervision because entry conditions and depth vary. The path may not suit strollers or visitors with reduced mobility. Giola is a separate attraction with its own access considerations; do not confuse it with a beach facility. Check local wind and sea conditions before swimming.",
+      "highlights": [
+        "Small and relatively secluded pebble cove",
+        "Often-clear water with rocky snorkelling areas",
+        "Natural headlands and Mediterranean vegetation",
+        "Rough final approach by dirt road or on foot",
+        "Very limited, season-dependent services"
+      ],
+      "seo_title": "Kalami Beach Thassos – access, snorkelling and tips",
+      "seo_description": "Plan a visit to Kalami Beach near Astris and Giola on Thassos: pebbles, clear water, rocky snorkelling, dirt-road access and useful advice.",
+      "social_caption": "🌊 Discover Kalami on Thassos: pale pebbles, rocky headlands and clear blue water. 🤿 A lovely option for confident swimmers and snorkellers who prefer a quieter cove. Pack water shoes! 🇬🇷 #Thassos #KalamiBeach #GreeceTravel",
+      "photo_alt": "Small pebbly cove of Kalami Beach near Astris on Thassos, with clear blue water and rocky headlands."
+    },
+    "el": {
+      "name": "Παραλία Καλάμι (Kalami Beach)",
+      "tagline": "Ήσυχος βοτσαλωτός όρμος με καθαρά νερά κοντά στη Γκιόλα",
+      "summary": "Το Καλάμι είναι μια μικρή και σχετικά απομονωμένη παραλία στην περιοχή της Αστρίδας, στη νότια Θάσο. Τα ανοιχτόχρωμα βότσαλα, τα βράχια και τα διαυγή νερά την κάνουν ελκυστική για όσους αγαπούν το κολύμπι με μάσκα και τις πιο φυσικές ακτές.",
+      "description": "Η παραλία Καλάμι βρίσκεται σε έναν μικρό όρμο στη νότια ακτή της Θάσου, στην περιοχή της Αστρίδας, σχετικά κοντά στη φυσική λιμνοθάλασσα Γκιόλα. Αντί για μια μεγάλη αμμώδη ακτή, εδώ κυριαρχούν τα ανοιχτόχρωμα βότσαλα, οι λείες πέτρες, τα βραχώδη άκρα και η χαμηλή μεσογειακή βλάστηση στις γύρω πλαγιές. Η θάλασσα είναι συχνά ιδιαίτερα καθαρή και ο πετρώδης βυθός προσφέρει ενδιαφέρον για παρατήρηση της θαλάσσιας ζωής με μάσκα. Η είσοδος στο νερό δεν είναι ίδια σε όλα τα σημεία: αρχικά υπάρχουν ρηχές πετρώδεις ζώνες, αλλά στη συνέχεια το βάθος μπορεί να αυξηθεί. Ορισμένες υποβρύχιες πέτρες γλιστρούν, ενώ έχουν αναφερθεί και αχινοί, επομένως συνιστώνται παπούτσια θαλάσσης. Το Καλάμι ξεχωρίζει για την ηρεμία του και όχι για τις οργανωμένες παροχές. Κατά καιρούς υπάρχουν λίγες ξαπλώστρες που συνδέονται με κοντινά καταλύματα, χωρίς να είναι βέβαιη η διαθεσιμότητα ή η χρήση τους από το κοινό. Η τελική πρόσβαση μπορεί να γίνει από ανώμαλο χωματόδρομο με κλίση ή από μονοπάτια των καταλυμάτων που βρίσκονται ψηλότερα. Πρόκειται για μια επιλογή για επισκέπτες που απολαμβάνουν τα βότσαλα, προετοιμάζονται με νερό και προμήθειες και αναζητούν μια πιο ήσυχη πλευρά του νησιού.",
+      "practical_tips": "Πάρτε παπούτσια θαλάσσης, πόσιμο νερό, ένα μικρό σνακ και προστασία από τον ήλιο. Μην θεωρείτε δεδομένη την ύπαρξη τουαλέτας, ντους, καντίνας ή διαθέσιμης ξαπλώστρας. Ελέγξτε την κατάσταση του χωματόδρομου πριν κατεβείτε με χαμηλό αυτοκίνητο, καθώς οι χώροι στάθμευσης και αναστροφής μπορεί να είναι περιορισμένοι. Να προσέχετε τις γλιστερές πέτρες και τους αχινούς. Η παραλία δεν είναι η πιο άνετη επιλογή για μικρά παιδιά, καρότσια ή άτομα με δυσκολία στην κίνηση. Η Γκιόλα είναι ξεχωριστό αξιοθέατο και χρειάζεται δικό της σχεδιασμό πρόσβασης. Ελέγχετε πάντα τον καιρό και τον κυματισμό.",
+      "highlights": [
+        "Μικρός και ήσυχος όρμος με ανοιχτόχρωμα βότσαλα",
+        "Διαυγή νερά και βραχώδης βυθός για μάσκα",
+        "Φυσικό τοπίο με βραχώδη ακρωτήρια",
+        "Πρόσβαση από χωματόδρομο ή με τα πόδια",
+        "Ελάχιστες και εποχικά μεταβαλλόμενες παροχές"
+      ],
+      "seo_title": "Παραλία Καλάμι Θάσος – πρόσβαση και συμβουλές",
+      "seo_description": "Ανακαλύψτε το Καλάμι κοντά στην Αστρίδα και τη Γκιόλα: βότσαλα, καθαρά νερά, βραχώδης βυθός, χωματόδρομος και πρακτικές οδηγίες.",
+      "social_caption": "🌊 Καλάμι, Θάσος: ένας μικρός όρμος με λευκά βότσαλα, βράχια και διάφανα νερά. 🤿 Για όσους αγαπούν την ησυχία και την εξερεύνηση με μάσκα. Μην ξεχάσετε τα παπούτσια θαλάσσης! 🇬🇷 #Θάσος #Καλάμι #Ελλάδα",
+      "photo_alt": "Ο μικρός βοτσαλωτός όρμος της παραλίας Καλάμι στην Αστρίδα της Θάσου, με καθαρά νερά και βραχώδη άκρα."
+    },
+    "de": {
+      "name": "Kalami Beach (Καλάμι)",
+      "tagline": "Eine ruhige Kieselbucht mit klarem Wasser nahe Giola",
+      "summary": "Kalami ist eine kleine, abgelegene Bucht bei Astris an der Südküste von Thassos. Helle Kieselsteine, glatte Felsen und durchsichtiges Wasser machen diesen Ort vor allem für Schnorchelfans und Liebhaber naturbelassener Strände interessant.",
+      "description": "Kalami Beach liegt in einer kleinen Bucht an der Südküste von Thassos, im Gebiet von Astris und nicht weit vom bekannten Naturbecken Giola. Statt eines breiten Sandstrandes findet man hier helle Kiesel, glatte Steine, felsige Uferbereiche und mediterrane Vegetation an den Hängen. Das Meer ist häufig besonders klar, und die Unterwasserfelsen machen das Beobachten von Fischen mit Maske und Schnorchel interessant. Der Einstieg ist jedoch nicht an jeder Stelle gleich: Auf flachere, steinige Zonen können Bereiche mit größerer Tiefe folgen. Unter Wasser sind manche Steine rutschig; auch Seeigel wurden gemeldet. Badeschuhe sind deshalb sehr zu empfehlen. Die Stärke von Kalami ist die Ruhe und die natürliche Atmosphäre, nicht die touristische Infrastruktur. In manchen Sommern werden wenige Liegen angeboten, die zu nahe gelegenen Unterkünften gehören; daraus lässt sich aber kein allgemeiner Anspruch auf freie Nutzung ableiten. Die letzte Anfahrt führt möglicherweise über einen steilen, unebenen Schotterweg. Wer von einer Unterkunft oberhalb der Bucht kommt, muss unter Umständen einen Fußweg mit entsprechendem Rückweg bergauf einplanen. Mit Trinkwasser, einem Snack, Sonnenschutz und eigener Ausrüstung eignet sich die Bucht für Besucher, die lieber eine stille Felsküste als eine lebhafte Strandbar erleben möchten. Der Blick zwischen den Felsvorsprüngen ist besonders reizvoll.",
+      "practical_tips": "Badeschuhe wegen Kies, glatten Steinen und möglicher Seeigel einpacken. Trinkwasser, Snacks und Sonnenschutz selbst mitbringen; Toiletten, Duschen, Strandbar und öffentlich nutzbare Liegen sind nicht verlässlich vorhanden. Den Zustand der Schotterzufahrt prüfen, bevor man mit einem tief liegenden Auto hinunterfährt. Wende- und Parkmöglichkeiten können knapp sein. Wegen des uneinheitlichen Meeresgrunds Kinder besonders aufmerksam beaufsichtigen. Für Kinderwagen und Menschen mit eingeschränkter Mobilität ist der Zugang wenig geeignet. Giola ist eine getrennte Sehenswürdigkeit mit eigenen Zugangsbedingungen. Wind und Wellengang vor dem Baden kontrollieren.",
+      "highlights": [
+        "Kleine, ruhige Bucht mit hellen Kieselsteinen",
+        "Klares Wasser und Felsen zum Schnorcheln",
+        "Mediterrane Hänge und Felsvorsprünge",
+        "Unbefestigte Zufahrt oder Fußweg",
+        "Kaum Infrastruktur, saisonale Unterschiede"
+      ],
+      "seo_title": "Kalami Beach Thassos – Anfahrt, Schnorcheln und Tipps",
+      "seo_description": "Kalami Beach bei Astris und Giola auf Thassos: heller Kies, klares Wasser, Felsen zum Schnorcheln, Schotterzufahrt und praktische Hinweise.",
+      "social_caption": "🌊 Kalami auf Thassos: eine stille Bucht mit hellen Kieseln, Felsen und klarem Meer. 🤿 Ideal für Fans kleiner Naturstrände und zum Schnorcheln. Badeschuhe nicht vergessen! 🇬🇷 #Thassos #KalamiBeach #Griechenland",
+      "photo_alt": "Kleine Kieselbucht Kalami Beach nahe Astris auf Thassos mit blauem Wasser und felsigen Landzungen."
+    },
+    "bg": {
+      "name": "Плаж Калами (Kalami Beach)",
+      "tagline": "Тих каменист залив с прозрачна вода близо до Гьола",
+      "summary": "Калами е малък и сравнително уединен плаж край Астрис на южния бряг на Тасос. Светлите камъчета, гладките скали и чистата вода са привлекателни за любителите на гмуркането с маска и естествените, по-слабо развити плажове.",
+      "description": "Плаж Калами се намира в малък залив на южното крайбрежие на остров Тасос, в района на Астрис и сравнително близо до природния басейн Гьола. Вместо широка пясъчна ивица тук ще откриете светли камъчета, гладки камъни, скалисти краища и средиземноморска растителност по околните склонове. Морето често е много прозрачно, а скалистото дъно е интересно за наблюдение на риби с маска и шнорхел. Влизането във водата не е еднакво навсякъде: след плитки каменисти участъци може да последва по-голяма дълбочина. Някои подводни камъни са хлъзгави, а на места са забелязвани морски таралежи, затова обувките за вода са разумен избор. Очарованието на Калами е в спокойствието и естествения пейзаж, а не в богатите удобства. През определени сезони има няколко шезлонга, свързани с близки места за настаняване, но достъпът до тях не е гарантиран за всички посетители. Последната отсечка с автомобил може да бъде по стръмен и неравен черен път, а пътеките от хотелите над залива включват слизане и последващо изкачване. Плажът е подходящ за самостоятелни туристи, които харесват каменистите брегове и идват подготвени с вода, храна и лични принадлежности. Гледката между скалните носове допълва усещането за уединение.",
+      "practical_tips": "Носете обувки за вода, питейна вода, лека храна и слънцезащита. Не разчитайте на тоалетни, душове, работещ бар или свободни шезлонги. Проверете състоянието на черния път, преди да слезете с ниска кола; местата за паркиране и обръщане са ограничени. Внимавайте за хлъзгавите камъни и морските таралежи. Малките деца се нуждаят от постоянен надзор, а достъпът не е удобен за детски колички и хора с намалена подвижност. Гьола е отделна природна забележителност със собствени условия за достъп. Преди плуване проверете вятъра и вълните.",
+      "highlights": [
+        "Малък и тих залив със светли камъчета",
+        "Чиста вода и скалисто дъно за шнорхел",
+        "Естествен пейзаж със скалисти носове",
+        "Достъп по черен път или пеша",
+        "Много ограничени и сезонни удобства"
+      ],
+      "seo_title": "Плаж Калами, Тасос – достъп, шнорхел и съвети",
+      "seo_description": "Посетете Калами край Астрис и Гьола на Тасос: камъчета, чиста вода, скалисто дъно, черен път и полезни препоръки.",
+      "social_caption": "🌊 Калами, Тасос: тих залив със светли камъчета, скали и прозрачна вода. 🤿 Идеално за любителите на спокойните плажове и шнорхела. Не забравяйте обувките за вода! 🇬🇷 #Тасос #KalamiBeach #Гърция",
+      "photo_alt": "Малък каменист залив на плаж Калами край Астрис на Тасос с чиста синя вода и скалисти носове."
+    },
+    "sr": {
+      "name": "Plaža Kalami (Καλάμι)",
+      "tagline": "Mirna šljunkovita uvala sa bistrom vodom blizu Giole",
+      "summary": "Kalami je mala, izdvojena plaža u oblasti Astris, na južnoj obali Tasosa. Svetli obluci, glatke stene i prozirno more privlače ljubitelje ronjenja s maskom i onih koji više vole prirodne, mirnije plaže.",
+      "description": "Plaža Kalami smeštena je u maloj uvali na južnoj obali Tasosa, u oblasti Astris, relativno blizu prirodnog bazena Giola. Umesto široke peščane obale, ovde preovlađuju svetli obluci, glatko kamenje, stenoviti rubovi i mediteransko rastinje na okolnim padinama. More je često veoma bistro, a stenovito dno zanimljivo za posmatranje ribica uz masku i disaljku. Ulaz u vodu nije svuda isti: posle plićih kamenitih delova mogu se pojaviti dublje zone. Pojedine stene pod vodom su klizave, a mogu se naći i morski ježevi, pa su patike za vodu veoma korisne. Kalami se ističe tišinom i prirodnim izgledom, a ne bogatom turističkom ponudom. Tokom pojedinih sezona postavljeno je nekoliko ležaljki povezanih sa obližnjim smeštajima, ali njihova dostupnost nije zagarantovana svim posetiocima. Poslednji deo prilaza automobilom može da vodi strmim, neravnim makadamskim putem, dok prilaz od hotela na uzvišenju podrazumeva spuštanje peške i povratak uzbrdo. Ovo je pravo mesto za samostalne putnike koji vole kamenite uvale i dolaze opremljeni vodom, užinom, zaštitom od sunca i sopstvenom opremom. Pogled između stenovitih rtova pruža poseban osećaj skrovitosti.",
+      "practical_tips": "Ponesite obuću za vodu zbog šljunka, klizavih stena i mogućih morskih ježeva, kao i vodu za piće, užinu i zaštitu od sunca. Nemojte računati na toalet, tuš, bar ili slobodne ležaljke. Pre spuštanja autom sa malim klirensom proverite stanje makadamskog puta; parking i mogućnost okretanja mogu biti ograničeni. Decu neprestano nadgledajte zbog neravnog dna i promenljive dubine. Prilaz nije naročito pogodan za kolica i osobe otežanog kretanja. Giola je posebna atrakcija sa sopstvenim pravilima pristupa. Pre kupanja proverite vetar i talase.",
+      "highlights": [
+        "Mala i mirna uvala sa svetlim oblucima",
+        "Bistra voda i stenovito dno za ronjenje s maskom",
+        "Priroda i stenoviti rtovi",
+        "Makadamski prilaz ili pešačka staza",
+        "Minimalni sadržaji koji zavise od sezone"
+      ],
+      "seo_title": "Plaža Kalami Tasos – prilaz, ronjenje i saveti",
+      "seo_description": "Otkrijte Kalami blizu Astrisa i Giole na Tasosu: šljunak, bistro more, stenovito dno, makadamski prilaz i praktični saveti.",
+      "social_caption": "🌊 Kalami na Tasosu: mirna uvala sa svetlim oblucima, stenama i bistrom vodom. 🤿 Sjajan izbor za ljubitelje prirode i ronjenja s maskom. Ponesite obuću za vodu! 🇬🇷 #Tasos #KalamiBeach #Grčka",
+      "photo_alt": "Mala šljunkovita uvala plaže Kalami kod Astrisa na Tasosu, sa bistrom plavom vodom i stenovitim rtovima."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/kalami/images/kalami1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/kalami/images/kalami2.webp",
+      "destinations/thassos/beaches/kalami/images/kalami3.webp",
+      "destinations/thassos/beaches/kalami/images/kalami4.webp",
+      "destinations/thassos/beaches/kalami/images/kalami5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/kalami/images/",
+    "suggested_asset_names": [
+      "kalami1.webp",
+      "kalami2.webp",
+      "kalami3.webp",
+      "kalami4.webp",
+      "kalami5.webp"
+    ],
+    "image_policy": "Only user-provided, owned or appropriately licensed photographs of Kalami Beach on Thassos may be published. Paths are assigned from screenshot filenames; verify photo location, provenance and publication rights.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_map_google",
+      "kind": "map_link",
+      "title": "park4night — Google Maps route point for Kalami",
+      "url": "https://park4night.com/en/place/151762",
+      "detail": "External listing links to Google Maps route destination 40.582834,24.667384, near this cove. It does not confirm formal Google place pin, safe parking or a public road.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_osm",
+      "kind": "cartography",
+      "title": "Mapcarta / OpenStreetMap — Καλάμι, way 204558366",
+      "url": "https://mapcarta.com/W204558366",
+      "detail": "OSM beach geometry center around 40.58272, 24.66736, independently corroborates area; beach is separate from Astris and Giola.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover",
+      "kind": "local_travel_guide",
+      "title": "Discover Thassos — Kalami Beach",
+      "url": "https://www.discover-thassos.com/listing/kalami-beach-thassos/",
+      "detail": "Pebbles and rocks, slippery underwater stones, snorkelling, limited hotel-linked loungers, difficult access and bring supplies; one account of seasonal services.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_greek_discover",
+      "kind": "local_travel_guide",
+      "title": "Discover Thassos Greek — Παραλία Καλάμι",
+      "url": "https://www.discover-thassos.com/el/listing/paralia-kalami/",
+      "detail": "Greek-language corroboration of cove in Astris and limited amenities.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_thassos_view",
+      "kind": "local_travel_guide",
+      "title": "Thassos View — Kalami Beach",
+      "url": "https://www.thassos-view.com/places/beaches/kalami-beach",
+      "detail": "Small quiet rocky-pebbly beach south of island suitable for snorkelling and fishing.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Beaches near Potos and Limenaria",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/2588/beaches-near-potos-and-limenaria",
+      "detail": "Mentions Kalami beyond Astris, dirt road and isolated rocky shore; source updated 2020, use only durable observations.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_pame",
+      "kind": "independent_beach_database",
+      "title": "Pame Paralia — Kalami Astrida",
+      "url": "https://pameparalia.com/beach/kalami-mainland-astrida",
+      "detail": "Coordinates close to OSM and description of pebbles, rocky underwater areas, relative quiet. States no amenities, conflicting with hotel-lounger sources.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_ro_guide",
+      "kind": "travel_guide",
+      "title": "Grecia de Weekend — Plaja Kalami",
+      "url": "https://grecia.de-weekend.ro/plaja-kalami-thassos/",
+      "detail": "Romanian account of rocky entry, snorkelling, seasonal modest lounger/bar service, parking; older information not a guarantee for 2026.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_ro_thassos",
+      "kind": "travel_guide",
+      "title": "Thassos Online — Kalami Beach",
+      "url": "https://thassos.online/plaje/kalami-beach",
+      "detail": "Reports clear water, rocks, water shoes, no toilets and nearby hotel-linked seasonal loungers.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_guest_reports",
+      "kind": "visitor_reports",
+      "title": "BeachSearcher — Kalami Thassos",
+      "url": "https://beaches-searcher.com/en/beach/300207151/kalami-beach",
+      "detail": "Photos and individual accounts, some conflicting amenity information; for context rather than verified current business availability.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_approach",
+      "kind": "visitor_reports",
+      "title": "park4night — Kalami Beach, 2026 approach reports",
+      "url": "https://park4night.com/en/place/151762",
+      "detail": "Reports steep uneven track and restricted turning; visitor-reported conditions may change after storms or works.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachatlas",
+      "kind": "cartographic_directory",
+      "title": "BeachAtlas — Kalami Beach Thasos",
+      "url": "https://www.beachatlas.com/kalami-3",
+      "detail": "Independent beach coordinates 40.5828041,24.6673221; confirm separate beach location.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm exact Kalami beach Google Maps place pin and safe vehicle entrance; route link not proof of parking",
+      "Inspect steep dirt road condition and last walking segment after rain or local changes",
+      "Check beach services, permission to use any hotel loungers, WC/showers and snack service in actual travel season",
+      "Verify whether lifeguard and accessibility facilities exist",
+      "Confirm that kalami1.webp–kalami5.webp depict this exact Kalami Beach near Astris and document their publication rights and any required attribution",
+      "Review beach classification and water-quality status only using primary official data",
+      "Native-language review of all six translations before final public launch"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; rights to use the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local image paths assigned from the user-provided screenshot of filenames; actual image files, photo location, provenance and reuse rights have not been independently verified."
+  }
+}

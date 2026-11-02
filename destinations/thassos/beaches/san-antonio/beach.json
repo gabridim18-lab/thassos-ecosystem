@@ -1,0 +1,368 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-san-antonio",
+  "slug": "san-antonio",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Αγίου Αντωνίου",
+    "international_name": "San Antonio Beach",
+    "aliases": [
+      "Agios Antonios Beach",
+      "Agios Antoniou Beach",
+      "Agiou Antoniou Beach",
+      "Άγιος Αντώνιος",
+      "Άγιος Αντώνης",
+      "San Antonios Beach",
+      "Potos South Beach"
+    ],
+    "entity_scope": "Eastern / southeastern named section of the connected Potos shoreline, extending away from central Potos. San Antonio Beach is a distinct editorial area, not a geographically detached cove.",
+    "deduplication_warning": "The shoreline connects physically with Potos Beach; keep both editorial records but avoid counting San Antonio as an entirely independent coastline. Do not confuse with Vulos Beach farther along the coast or with San Antonio Beach Restaurant, an operator within the area.",
+    "related_beach_id": "gr-thassos-beach-potos",
+    "relation_to_parent": "named_continuation_of_potos_shoreline"
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south / southwest",
+    "settlements": [
+      "Potos"
+    ],
+    "lat": 40.60429,
+    "lng": 24.60983,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.60429%2C24.60983",
+    "coordinate_source_reference": "s_nikana_map",
+    "coordinate_type": "embedded_google_maps_reference_on_nikana_beach_page_not_verified_access_point",
+    "coordinate_review_status": "coordinates extracted from Google Maps embed on travel guide page; direct place pin, exact public beach entry and parking pending visual Google Maps review",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "predominantly_fine_sand_with_occasional_pebbles",
+    "seabed_near_shore": "mostly_sandy_with_local_pebbles",
+    "water_entry": "generally_gradual",
+    "nearshore_depth": "often_shallow_near_shore_but_varies_by_section_and_conditions",
+    "water_clarity": "typically_clear_in_calm_weather",
+    "wave_conditions": "wind_dependent_not_permanently_calm",
+    "exposure": "south_facing_open_bay",
+    "natural_shade_on_sand": "limited",
+    "beach_length_m": null,
+    "length_note": "Some sources describe a 400 m named sector while others include the connected Potos coastline; measurements are definition-dependent and not set as verified.",
+    "backdrop": "Low hills and Potos resort area beyond the broad sandy shore",
+    "shoreline_type": "wide_sandy_section_of_connected_potos_bay"
+  },
+  "visitor_experience": {
+    "organization": "mixed_organized_and_free",
+    "suitable_for": [
+      "families",
+      "couples",
+      "groups",
+      "swimming",
+      "relaxed_day",
+      "seaside_dining",
+      "sunset_views"
+    ],
+    "notable_for": [
+      "fine_sand",
+      "gradual_entry",
+      "wide_beach",
+      "food_options",
+      "sunset_views",
+      "walking_from_potos"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunbathing",
+      "beach_walks",
+      "seasonal_water_sports",
+      "seaside_dining",
+      "sunset_photography"
+    ],
+    "estimated_crowd_peak": "popular_in_peak_summer; occupancy_varies_by_sector",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Shallow water is not universally guaranteed; wind, waves and seabed depth vary. Children require active supervision. Beach operators set their own rules."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Reported by local guide; often associated with beach operators or restaurants, rather than uninterrupted public facilities."
+    },
+    "showers": {
+      "available_in_some_sections": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": true,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "Coverage not independently verified; do not assume a lifeguard is present.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Easy road access to the area does not establish continuous step-free beach access or accessible sea-entry equipment.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Amenities, seating arrangements and free areas vary by beach section, operator and season; verify on arrival."
+  },
+  "access_and_cost": {
+    "road_access": "paved_access_through_potos_to_beachside_streets",
+    "public_transport": "regional_bus_service_to_potos; walk_from_village; schedules_seasonal",
+    "parking_type": "roadside_and_local_parking_spaces_near_segments",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "May involve rental charges or a minimum order, depending on operator and season. No single price applies across San Antonio.",
+    "best_arrival_advice": "In peak summer arrive in the morning for more choice of parking and space, or walk from accommodation in Potos when practical.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Exact road distance depends on route and entrance; coastal distance from central Potos varies by section and is not fixed here."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Fetch weather and sea conditions separately; never embed dynamic values as static beach facts."
+  },
+  "translations": {
+    "ro": {
+      "name": "San Antonio Beach (Agios Antonios)",
+      "tagline": "Nisip fin, apă cu intrare lină și apusuri aproape de Potos",
+      "summary": "La marginea estică a golfului Potos, San Antonio oferă o întindere generoasă de nisip, apă de obicei puțin adâncă lângă mal și posibilitatea de a combina relaxarea cu o masă la malul mării.",
+      "description": "San Antonio Beach, numită și Agios Antonios, continuă plaja din Potos spre partea estică a golfului, însă are propria atmosferă și propria zonă de amenajări. Țărmul este în mare parte lat, cu nisip fin, iar intrarea în apă este în general lină, motiv pentru care multe familii aleg această porțiune. Pe alocuri pot apărea pietricele, iar condițiile se schimbă odată cu vântul. De-a lungul plajei întâlnești sectoare organizate cu șezlonguri și umbrele, dar și spații în care poți veni cu echipamentul propriu. Restaurantele, cafenelele și beach barurile din apropiere îți permit să prelungești ziua fără să pleci de la mare. La sfârșitul după-amiezii, lumina caldă peste golf creează un cadru plăcut pentru o plimbare sau o cină cu vedere spre apă. Poți ajunge ușor pe jos din Potos, iar dacă vii cu mașina este bine să alegi din timp sectorul dorit și să nu presupui că vei găsi mereu loc liber chiar lângă nisip.",
+      "practical_tips": "Pentru mai multă liniște și alegere de locuri, vino dimineața în lunile aglomerate. Verifică înainte de a folosi șezlongurile dacă se aplică tarif sau consumație minimă. Toaletele și dușurile pot aparține operatorilor din apropiere. Umbra naturală este limitată, așa că o umbrelă proprie poate fi utilă. Chiar dacă apa este adesea puțin adâncă, supraveghează copiii și ține cont de vânt și valuri.",
+      "highlights": [
+        "Nisip fin și sector de plajă mai lat decât cel central din Potos",
+        "Intrare în mare în general graduală",
+        "Șezlonguri și locuri pentru echipament propriu",
+        "Restaurante și beach baruri aproape de apă",
+        "Plimbări de seară și lumină frumoasă la apus"
+      ],
+      "seo_title": "San Antonio Beach Thassos – nisip, acces și facilități",
+      "seo_description": "Descoperă plaja San Antonio (Agios Antonios), lângă Potos: nisip fin, apă puțin adâncă, șezlonguri, restaurante, acces și sfaturi utile.",
+      "social_caption": "🏖️ San Antonio Beach, Thassos: nisip fin, un golf generos și seri cu lumină aurie aproape de Potos. 🌅 Salvează locul pentru o zi de mare fără grabă! 🇬🇷 #Thassos #SanAntonioBeach #Potos",
+      "photo_alt": "Sectorul nisipos San Antonio Beach de lângă Potos, cu umbrele și Marea Egee în fundal."
+    },
+    "en": {
+      "name": "San Antonio Beach (Agios Antonios)",
+      "tagline": "Soft sand, a gentle sea entry and sunset views beside Potos",
+      "summary": "On the eastern side of Potos Bay, San Antonio offers a broad sandy shoreline, generally shallow water near the edge and easy access to beachfront restaurants and cafés.",
+      "description": "San Antonio Beach, also called Agios Antonios, continues eastward from the village beach of Potos. Although the shoreline is connected, this stretch has its own character, with a wider expanse of fine sand and several distinct places to settle for the day. Entry into the sea is generally gradual and the water can remain relatively shallow near shore, making the area appealing to families; occasional pebbles and changing sea conditions are still worth remembering. Serviced sections offer loungers and umbrellas, while other spaces can accommodate visitors bringing their own gear. Beach bars, tavernas and cafés sit close to the sand, so a morning swim can easily lead into a long lunch beside the Aegean. As the day winds down, the south-facing bay becomes an inviting place for an unhurried shoreline walk and warm evening views. San Antonio is accessible on foot from Potos, but those driving should choose their preferred section in advance and allow extra time to park during the busiest weeks.",
+      "practical_tips": "Arrive earlier during peak summer for a wider choice of beach space and parking. Check lounger fees or minimum-spend rules with each operator before using the equipment. Toilets and showers may belong to nearby businesses rather than being available across the whole shore. Natural shade on the sand is limited, so bring sun protection. Children need supervision even where the sea entry feels gentle, and wind may change swimming conditions.",
+      "highlights": [
+        "Broad stretch of fine sand near Potos",
+        "Generally gentle entry into the sea",
+        "Serviced and open beach sections",
+        "Nearby waterfront restaurants and beach bars",
+        "Pleasant evening strolls and sunset light"
+      ],
+      "seo_title": "San Antonio Beach Thassos – sand, access and facilities",
+      "seo_description": "Visit San Antonio (Agios Antonios) near Potos: sandy beach, shallow entry, sunbeds, nearby restaurants, access and helpful beach tips.",
+      "social_caption": "🏖️ San Antonio Beach, Thassos: soft sand, inviting shallows and beautiful evening light just beyond Potos. 🌅 Save this spot for a relaxed island day! 🇬🇷 #Thassos #Potos #SanAntonioBeach",
+      "photo_alt": "Sandy San Antonio Beach near Potos, with straw umbrellas and the Aegean Sea beyond."
+    },
+    "el": {
+      "name": "Παραλία Αγίου Αντωνίου (San Antonio Beach)",
+      "tagline": "Λεπτή άμμος, ομαλή είσοδος στη θάλασσα και όμορφα ηλιοβασιλέματα κοντά στον Ποτό",
+      "summary": "Στην ανατολική πλευρά του κόλπου του Ποτού, η παραλία του Αγίου Αντωνίου προσφέρει μεγάλη αμμουδιά, συνήθως ρηχά νερά κοντά στην ακτή και επιλογές για φαγητό δίπλα στη θάλασσα.",
+      "description": "Η παραλία του Αγίου Αντωνίου, γνωστή και ως San Antonio Beach, αποτελεί τη συνέχεια της παραλίας του Ποτού προς την ανατολική πλευρά του κόλπου. Παρότι η ακτογραμμή είναι ενιαία, αυτό το τμήμα ξεχωρίζει για το μεγαλύτερο πλάτος της αμμουδιάς και τους διαφορετικούς χώρους χαλάρωσης. Η άμμος είναι κυρίως λεπτή και η είσοδος στη θάλασσα συνήθως ομαλή, κάτι που την κάνει ελκυστική για οικογένειες. Ωστόσο, σε ορισμένα σημεία υπάρχουν μικρά βότσαλα, ενώ ο άνεμος μπορεί να αλλάξει τις συνθήκες κολύμβησης. Θα βρείτε οργανωμένα τμήματα με ξαπλώστρες και ομπρέλες, αλλά και χώρους για τον δικό σας εξοπλισμό. Κοντινές ταβέρνες, καφέ και beach bars προσφέρουν τη δυνατότητα να συνδυάσετε το μπάνιο με ένα γεύμα δίπλα στο κύμα. Προς το απόγευμα, το ζεστό φως πάνω από τον κόλπο δίνει μια ξεχωριστή ατμόσφαιρα για περίπατο. Η πρόσβαση με τα πόδια από τον Ποτό είναι εύκολη, ενώ όσοι έρχονται με αυτοκίνητο καλό είναι να προβλέπουν επιπλέον χρόνο για στάθμευση στην υψηλή περίοδο.",
+      "practical_tips": "Τους μήνες αιχμής προτιμήστε να φτάσετε νωρίς για περισσότερες επιλογές στάθμευσης και χώρου. Ρωτήστε κάθε επιχείρηση για τη χρέωση ή την ελάχιστη κατανάλωση στις ξαπλώστρες. Τουαλέτες και ντους δεν υπάρχουν υποχρεωτικά σε όλο το μήκος της παραλίας. Η φυσική σκιά πάνω στην άμμο είναι περιορισμένη. Επιβλέπετε πάντα τα παιδιά και ελέγχετε τις συνθήκες ανέμου και κυματισμού.",
+      "highlights": [
+        "Ευρύχωρη αμμουδιά με λεπτή άμμο",
+        "Συνήθως ομαλή είσοδος στη θάλασσα",
+        "Οργανωμένα και ελεύθερα τμήματα",
+        "Ταβέρνες και beach bars κοντά στην ακτή",
+        "Όμορφο απογευματινό φως και βόλτες δίπλα στο κύμα"
+      ],
+      "seo_title": "Παραλία Αγίου Αντωνίου Θάσος – πρόσβαση και παροχές",
+      "seo_description": "Ανακαλύψτε την παραλία Αγίου Αντωνίου κοντά στον Ποτό: άμμος, ρηχά νερά, ξαπλώστρες, φαγητό δίπλα στη θάλασσα και χρήσιμες συμβουλές.",
+      "social_caption": "🏖️ Άγιος Αντώνιος, Θάσος: απαλή άμμος, ρηχά νερά και υπέροχο απογευματινό φως δίπλα στον Ποτό. 🌅 Κρατήστε την παραλία για την επόμενη εξόρμησή σας! 🇬🇷 #Θάσος #Ποτός #ΆγιοςΑντώνιος",
+      "photo_alt": "Αμμώδης παραλία Αγίου Αντωνίου κοντά στον Ποτό, με ομπρέλες και θέα στο Αιγαίο."
+    },
+    "de": {
+      "name": "San Antonio Beach (Agios Antonios)",
+      "tagline": "Feiner Sand, sanfter Einstieg ins Meer und Abendlicht bei Potos",
+      "summary": "Östlich von Potos bietet der Strand San Antonio eine breite Sandfläche, meist flaches Wasser in Ufernähe und Restaurants sowie Cafés nur wenige Schritte vom Meer entfernt.",
+      "description": "Der San Antonio Beach, auch Agios Antonios genannt, schließt sich östlich an den Ortsstrand von Potos an. Obwohl die Küstenlinie durchgehend ist, wirkt dieser Abschnitt durch den breiteren, feinsandigen Strand und die verschiedenen Ruhebereiche eigenständig. Das Meer fällt überwiegend sanft ab und ist in Ufernähe häufig recht flach, weshalb sich viele Familien für diesen Bereich entscheiden. Stellenweise können jedoch kleine Kiesel vorkommen, und Wind verändert die Badebedingungen. Entlang des Strandes gibt es bewirtschaftete Bereiche mit Liegen und Sonnenschirmen sowie Platz für die eigene Strandausrüstung. Strandbars, Tavernen und Cafés liegen in unmittelbarer Nähe und laden dazu ein, den Badetag mit einem ausgedehnten Essen direkt am Wasser zu verbinden. Am späten Nachmittag sorgt das warme Licht über der Bucht für eine besonders schöne Atmosphäre bei einem Spaziergang. Von Potos aus ist der Strand gut zu Fuß erreichbar. Wer mit dem Auto kommt, sollte sich im Sommer frühzeitig für einen Abschnitt entscheiden und genügend Zeit für die Parkplatzsuche einplanen.",
+      "practical_tips": "In der Hochsaison möglichst früh ankommen, um leichter einen Parkplatz und einen guten Platz zu finden. Preise oder Mindestverzehr für Liegen bitte vor Ort beim jeweiligen Betreiber erfragen. Toiletten und Duschen gehören teilweise zu Strandbetrieben und sind nicht überall verfügbar. Natürlicher Schatten auf dem Sand ist begrenzt. Kinder stets beaufsichtigen und die aktuellen Wind- und Wellenbedingungen beachten.",
+      "highlights": [
+        "Breiter Strand mit feinem Sand",
+        "Meist sanfter Einstieg ins Meer",
+        "Bewirtschaftete und freie Bereiche",
+        "Tavernen und Strandbars direkt in der Nähe",
+        "Schönes Abendlicht und Spaziergänge am Meer"
+      ],
+      "seo_title": "San Antonio Beach Thassos – Anfahrt und Ausstattung",
+      "seo_description": "San Antonio Beach bei Potos: feiner Sand, flaches Wasser, Sonnenliegen, Strandrestaurants, Anfahrt und hilfreiche Tipps für Thassos.",
+      "social_caption": "🏖️ San Antonio Beach auf Thassos: feiner Sand, sanft abfallendes Wasser und stimmungsvolles Abendlicht bei Potos. 🌅 Merkt euch diesen Strand für einen entspannten Urlaubstag! 🇬🇷 #Thassos #Potos #SanAntonioBeach",
+      "photo_alt": "Breiter Sandstrand von San Antonio bei Potos mit Sonnenschirmen und Blick auf die Ägäis."
+    },
+    "bg": {
+      "name": "Сан Антонио (Агиос Антониос) — Тасос",
+      "tagline": "Фин пясък, плавно навлизане в морето и красиви залези край Потос",
+      "summary": "Източно от Потос плажът Сан Антонио предлага широка пясъчна ивица, обикновено плитка вода край брега и ресторанти и кафенета съвсем наблизо.",
+      "description": "Плажът Сан Антонио, известен още като Агиос Антониос, продължава на изток от централния плаж на Потос. Макар бреговата линия да е свързана, този участък има собствен облик с по-широка ивица фин пясък и различни зони за почивка. Морето обикновено става дълбоко постепенно и на много места е плитко близо до брега, затова плажът е харесван от семейства. На отделни места може да има дребни камъчета, а вятърът променя условията за къпане. Има организирани участъци с шезлонги и чадъри, както и места за собствена плажна екипировка. Крайбрежните таверни, кафенета и барове позволяват да съчетаете плуването с обяд или напитка до морето. Късно следобед топлата светлина над залива създава приятна атмосфера за разходка. До Сан Антонио може лесно да се стигне пеша от Потос, а при пристигане с автомобил през натоварения сезон е добре да предвидите повече време за паркиране.",
+      "practical_tips": "През най-натоварените летни седмици пристигайте по-рано. Преди да ползвате шезлонги, проверете дали има такса или изискване за минимална консумация. Тоалетните и душовете може да принадлежат на близки заведения и да не са налични навсякъде. Естествената сянка върху пясъка е ограничена. Наблюдавайте децата и следете вятъра и вълните.",
+      "highlights": [
+        "Широка ивица с фин пясък",
+        "Обикновено плавно навлизане във водата",
+        "Организирани и свободни участъци",
+        "Таверни и плажни барове наблизо",
+        "Приятни вечерни разходки и залези"
+      ],
+      "seo_title": "Плаж Сан Антонио, Тасос – достъп и удобства",
+      "seo_description": "Посетете Сан Антонио до Потос: фин пясък, плитка вода, шезлонги, крайбрежни заведения, достъп и полезни съвети.",
+      "social_caption": "🏖️ Сан Антонио, Тасос: фин пясък, плитко море и красива вечерна светлина край Потос. 🌅 Запазете този плаж за следващата си почивка! 🇬🇷 #Тасос #Потос #SanAntonioBeach",
+      "photo_alt": "Пясъчният плаж Сан Антонио край Потос с чадъри и Егейско море на заден план."
+    },
+    "sr": {
+      "name": "San Antonio Beach (Agios Antonios)",
+      "tagline": "Sitan pesak, postepen ulazak u more i lepi zalasci blizu Potosa",
+      "summary": "Na istočnoj strani zaliva Potos, San Antonio nudi široku peščanu obalu, uglavnom plitku vodu uz obalu i restorane i kafiće u neposrednoj blizini.",
+      "description": "Plaža San Antonio, poznata i kao Agios Antonios, nastavlja se istočno od gradske plaže u Potosu. Iako je obala povezana, ovaj deo se izdvaja širim pojasom sitnog peska i različitim mestima za odmor. Ulazak u more je uglavnom postepen, a voda je često plitka blizu obale, zbog čega je ovo dobar izbor za mnoge porodice. Ipak, ponegde se mogu naći sitni kamenčići, dok vetar i talasi menjaju uslove za kupanje. Duž plaže postoje uređeni delovi sa ležaljkama i suncobranima, kao i mesta za sopstvenu opremu. Obližnje taverne, kafići i barovi omogućavaju da kupanje spojite sa dugim ručkom kraj mora. Predveče topla svetlost nad zalivom stvara prijatnu atmosferu za šetnju. Od Potosa se lako stiže peške, dok vozači tokom najprometnijih letnjih dana treba da planiraju više vremena za pronalaženje parking mesta.",
+      "practical_tips": "U špicu sezone dođite ranije radi lakšeg parkiranja i većeg izbora mesta. Pre korišćenja ležaljki pitajte za cenu ili obaveznu minimalnu potrošnju. Toaleti i tuševi često zavise od obližnjih ugostitelja i nisu dostupni duž cele obale. Prirodnog hlada na pesku nema mnogo. Decu uvek nadgledajte i pratite vetar i talase.",
+      "highlights": [
+        "Široka obala sa sitnim peskom",
+        "Uglavnom postepen ulazak u more",
+        "Uređeni i slobodni delovi",
+        "Taverne i barovi na plaži u blizini",
+        "Večernje šetnje i zalasci sunca"
+      ],
+      "seo_title": "San Antonio Beach Tasos – prilaz i sadržaji",
+      "seo_description": "Otkrijte San Antonio blizu Potosa: sitan pesak, plitka voda, ležaljke, restorani, pristup i praktični saveti za plažu.",
+      "social_caption": "🏖️ San Antonio na Tasosu: sitan pesak, blago more i prelepa večernja svetlost blizu Potosa. 🌅 Sačuvajte ovo mesto za sledeći odmor! 🇬🇷 #Tasos #Potos #SanAntonioBeach",
+      "photo_alt": "Peščana plaža San Antonio kod Potosa, sa suncobranima i pogledom na Egejsko more."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/san-antonio/images/san-antonio1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/san-antonio/images/san-antonio2.webp",
+      "destinations/thassos/beaches/san-antonio/images/san-antonio3.webp",
+      "destinations/thassos/beaches/san-antonio/images/san-antonio4.webp",
+      "destinations/thassos/beaches/san-antonio/images/san-antonio5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/san-antonio/images/",
+    "suggested_asset_names": [
+      "san-antonio1.webp",
+      "san-antonio2.webp",
+      "san-antonio3.webp",
+      "san-antonio4.webp",
+      "san-antonio5.webp"
+    ],
+    "image_policy": "Only use user-supplied photographs when they are confirmed to show the San Antonio / Agios Antonios named section of the Potos shoreline on Thassos and commercial publication/redistribution rights have been documented. Five local WebP filenames were assigned from the user's file-list screenshot, but image binaries, provenance, licensing and geographic accuracy have not been independently verified. Do not treat nearby Potos, Vulos or a San Antonio Beach Restaurant photo as equivalent without visual review.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide",
+      "title": "Nikana — San Antonio Beach (updated 2026)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1907/san-antonio-beach-thassos",
+      "detail": "Named continuation of Potos, fine sand, gradual shallow entry, loungers, parking and restaurants; editorial page dated 2026.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_map",
+      "kind": "google_maps_embed_via_guide",
+      "title": "Nikana — embedded Google Maps reference for San Antonio Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1907/san-antonio-beach-thassos",
+      "detail": "Embedded Google Maps place query includes 40.60429,24.60983. Reference is not confirmed as a beach access or parking entrance.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_gothassos",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Agios Antonios Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/agios-antonios-beach",
+      "detail": "Lists toilets, showers, food, sunbeds, umbrellas, parking; amenities not guaranteed continuously along the shore.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover",
+      "kind": "travel_guide",
+      "title": "Discover Thassos — Agios Antonios Beach",
+      "url": "https://www.discover-thassos.com/listing/agios-antonios-beach-thassos/",
+      "detail": "Beach proximity to Potos; connected sandy shoreline, free and organized sections, access and facilities.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_operator",
+      "kind": "operator_official",
+      "title": "San Antonio Beach & Restaurant — official venue",
+      "url": "https://sanantoniobeach.gr/en/the-restaurant/",
+      "detail": "Confirms existence of an organized beachfront restaurant and bar. Facilities described apply to this business only.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_e_thasos",
+      "kind": "travel_guide",
+      "title": "e-Thasos — San Antonio Beach",
+      "url": "https://www.e-thasos.gr/explorea/sea/beaches-of-thassos/item/40-san-antonio-beach-thassos.html",
+      "detail": "Describes sandy beach with a few pebbles, shallow entry, family suitability and local dining; numerical length treated as unverified across differing shoreline scopes.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_cartographic",
+      "kind": "open_geodata_secondary",
+      "title": "Mapcarta — San Antonio Beach geometry from OpenStreetMap",
+      "url": "https://mapcarta.com/W1082549250",
+      "detail": "Independent geographic cross-check near 40.6039,24.6092; not the recorded Google Maps pin and not an entrance coordinate.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_pame",
+      "kind": "beach_conditions_guide",
+      "title": "Pame Paralia — Potos South Beach",
+      "url": "https://pameparalia.com/beach/potos-south-mainland",
+      "detail": "Corroborates gentle nearshore depth, seasonal organizations and mixed local pebbles; no guaranteed current beach conditions.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm San Antonio exact Google Maps pin, chosen public beach entrance and parking; current map reference is from a Google Maps embed, not personally confirmed on site",
+      "Verify exact boundary with Potos Beach and Vulos Beach so connected coastline is not double-counted",
+      "Verify that san-antonio1.webp through san-antonio5.webp actually depict San Antonio / Agios Antonios on Thassos (not central Potos or Vulos), and document photographer, source, commercial reuse/transfer permissions and attribution. The WebP binaries have not been independently inspected.",
+      "Verify seasonal lifeguards, toilets, showers, changing facilities and water-sports availability",
+      "Check current lounger pricing and restaurant hours directly with operators before publication",
+      "Native speaker proofreading for six translations before public release"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original multilingual editorial text retained; commercial publication and transferable rights to the five locally referenced WebP photos have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths assigned from image filenames visible in the user-provided screenshot. The images themselves are not embedded in this JSON, and their geographic identity, provenance and commercial reuse rights are not independently verified."
+  }
+}

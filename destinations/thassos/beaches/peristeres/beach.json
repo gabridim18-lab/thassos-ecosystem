@@ -1,0 +1,380 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-peristeres",
+  "slug": "peristeres",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Περιστερές",
+    "international_name": "Peristeres Beach",
+    "aliases": [
+      "Peristeres",
+      "Peristeres Beach",
+      "Peristeres Beach Thassos",
+      "Paralia Peristeres",
+      "Παραλία Περιστερές",
+      "Περιστερές Θάσου",
+      "Peristeres Skala Maries"
+    ],
+    "entity_scope": "Distinct small unserviced shoreline on the western/northwestern side of Thassos, north of Skala Maries and near the local Pefkaria / Klisma stretches. Covers only the Peristeres cove shown in local photographic guide and beach directories, not the extended adjacent west-coast beaches.",
+    "deduplication_warning": "Do not mix Peristeres on Thassos with the beach named Peristeres in Rodakino, Crete or Peristeres Island near Corfu. Peristeres on Thassos is listed separately from Pefkaria (roughly 0.7 km to the south), nearby Klisma/Klisma South coves and Skala Maries village beaches. Confirm exact physical start/end points against photographs and mapped coastline before merging or tallying adjacent small coves. Do not reuse other beaches’ attributes or photographs."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "western shoreline, north of Skala Maries, south of the Klisma coastal stretches",
+    "settlements": [
+      "Skala Maries (Skala Marion)",
+      "Klisma (nearby coastal reference)",
+      "Skala Kallirachi (regional reference)"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Peristeres%20Beach%2C%20Skala%20Maries%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_google_maps_search",
+    "coordinate_type": "third_party_coordinate_approximation_unverified_google_maps_beach_pin",
+    "coordinate_review_status": "Pame Paralia maps the named shore near 40.6606, 24.5116 (rounded third-party map coordinates, not a verified Google Maps pin or access point); BeachSearcher separately places it about 2.1 km from Skala Marion, with Pefkaria 0.73 km away and Klisma South II 0.65 km away. Stored coordinates intentionally null until exact shoreline marker and legal/safe approach are checked directly on a map or on site.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "small_sand_and_pebble_shore_with_scattered_larger_stones",
+    "seabed_near_shore": "mostly_sandy_sections_interrupted_by_rocks_and_stones",
+    "water_entry": "mixed_sand_and_rock_variable_by_entry_point",
+    "nearshore_depth": "variable; one guide calls it shallow, another reports moderate increase",
+    "water_clarity": "often_clear_suitable_for_cautious_snorkeling",
+    "wave_conditions": "open_west_coast_weather_and_wind_dependent",
+    "exposure": "short_west_facing_natural_cove_by_road_and_rocky_shore",
+    "natural_shade_on_sand": "limited; tamarisk shade reported toward beach margins",
+    "beach_length_m": null,
+    "length_note": "BeachSearcher gives approximately 110 m in its directory, but the definition of the beach edges and measurement basis are not independently verified. Do not display as a surveyed shoreline length.",
+    "backdrop": "low green coastal slope, occasional tamarisks, rocks and the nearby island road",
+    "shoreline_type": "small_unserviced_mixed_sand_pebble_cove_distinct_from_pefkaria"
+  },
+  "visitor_experience": {
+    "organization": "natural_unorganized_beach",
+    "suitable_for": [
+      "nature_lovers",
+      "couples",
+      "independent_swimmers",
+      "quiet_beach_day",
+      "snorkelers",
+      "visitors_carrying_own_equipment"
+    ],
+    "notable_for": [
+      "quiet_unserviced_shore",
+      "sand_and_pebbles",
+      "clear_water",
+      "rocky_snorkeling_edges",
+      "easy_to_miss_from_road",
+      "nearby_west_coast_small_coves"
+    ],
+    "activities_possible": [
+      "swimming",
+      "cautious_snorkeling",
+      "nature_photography",
+      "relaxing",
+      "short_coastal_exploration_where_safe"
+    ],
+    "estimated_crowd_peak": "generally_quiet_but_small_size_and_seasonal_conditions_may_change_occupancy",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Unserviced site with no verified lifeguard coverage; mixed stony entry, possible sea urchins around rocks and varying wind/waves. Water shoes and close supervision of children are appropriate. Avoid climbing unstable rocks or entering the water during unsafe conditions. Small informal access and parking conditions are not guaranteed."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": false,
+      "seasonal": null
+    },
+    "umbrellas": {
+      "available_in_some_sections": false,
+      "seasonal": null
+    },
+    "toilets": {
+      "available_in_some_sections": false,
+      "note": "Two current directories and a local guide describe Peristeres as an unorganized beach without facilities; verify if services change in future seasons."
+    },
+    "showers": {
+      "available_in_some_sections": false,
+      "note": "No beach showers documented; do not promise nearby facilities."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": false,
+      "requires_site_check": true
+    },
+    "beach_bars": false,
+    "tavernas_restaurants_nearby": false,
+    "cafes_nearby": false,
+    "parking_nearby": null,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": false,
+    "volleyball": false,
+    "accommodation_nearby": null,
+    "lifeguard": null,
+    "lifeguard_note": "No named operating lifeguard station verified for this small unserviced cove; do not imply supervised swimming.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "A short but potentially uneven approach from the road is described; accessible, step-free access and beach equipment have not been verified.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Current guides consistently describe a small natural unorganized cove with no lounger service, beach bar or restrooms on the sand; do not transfer amenities or parking from Pefkaria, Klisma, Skala Maries or nearby accommodation. No current public beach services are guaranteed."
+  },
+  "access_and_cost": {
+    "road_access": "approach_via_main_west_coast_island_road; small_sea_access_path_not_obvious_from_road_and_requires_check",
+    "public_transport": "no_verified_stop_at_beach; if using a bus, check an actual permitted stop and the final walking route",
+    "parking_type": "limited_or_undocumented_roadside_stopping; no_verified_formal_parking_lot_for_beach",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Beach currently described as unorganized and without loungers; no charge or commercial lounger policy confirmed.",
+    "best_arrival_advice": "Locate the correct cove before setting out; it is hard to spot from the main road. Do not stop on narrow shoulders or obstruct traffic, and do not assume a marked parking area. Bring drinking water, snacks, rubbish bag, personal shade and water shoes. Check the final path and sea conditions; respect nearby properties and do not confuse nearby Pefkaria services with Peristeres.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Regional guides identify the cove by Skala Maries but a verified driving distance from Limenas and a safe navigation/parking endpoint were not obtained."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Peristeres Beach",
+      "tagline": "Un golf discret, cu apă limpede și liniștea coastei vestice",
+      "summary": "Peristeres este o plajă naturală mică, situată la nord de Skala Maries, pe coasta vestică a insulei Thassos. Nisipul și pietricelele, porțiunile stâncoase din apă și lipsa facilităților o recomandă celor care preferă o oprire simplă, departe de plajele amenajate.",
+      "description": "Peristeres Beach este genul de loc pe lângă care poți trece fără să-l observi. Ascunsă sub nivelul șoselei de pe coasta vestică a insulei Thassos, la nord de Skala Maries, această fâșie mică de țărm oferă o atmosferă mult mai liniștită decât plajele cunoscute din satele turistice. Malul are nisip amestecat cu pietricele și pietre răzlețe, iar fundul mării alternează între porțiuni nisipoase și zone stâncoase. Apa este de obicei limpede, iar lângă stânci poți observa detalii interesante ale mediului marin cu mască și snorkel, numai atunci când condițiile permit. În unele locuri pot exista arici de mare; încălțămintea pentru apă este o alegere practică. Vegetația de la marginea golfului și câțiva tamarix pot oferi umbră limitată, însă nu trebuie să te bazezi pe ea pentru o zi întreagă. Spre deosebire de plajele amenajate, Peristeres nu este descrisă ca având șezlonguri, bar, toalete sau dușuri. Frumusețea ei vine tocmai din simplitate: vii pregătit, te așezi pe mal și privești marea fără agitația unui beach bar. Plaja are propria identitate, separată de Pefkaria, aflată mai la sud, și de sectoarele Klisma dinspre nord. Merită vizitată mai ales pentru o baie liniștită sau o oprire scurtă de explorare a coastei, nu pentru confortul unui resort.",
+      "practical_tips": "Găsește dinainte punctul de acces: plaja nu este evidentă de pe șoseaua principală. Parcarea amenajată și poziția exactă a coborârii nu sunt confirmate; nu opri în locuri periculoase și nu bloca drumul. Ia apă, gustări, umbrelă și un sac pentru deșeuri, pentru că nu sunt documentate servicii pe plajă. Poartă încălțăminte de apă și fii atent la pietre și arici de mare. Înainte de snorkeling, verifică valurile și vântul. Copiii au nevoie de supraveghere continuă; nu există confirmarea unui salvamar. Nu confunda Peristeres cu plaja omonimă din Creta.",
+      "highlights": [
+        "Golf mic și relativ ascuns de la nivelul șoselei",
+        "Nisip, pietricele și intrare în apă cu zone stâncoase",
+        "Apă limpede și snorkeling atent lângă stânci",
+        "Atmosferă naturală, fără amenajări turistice",
+        "Aproape de Pefkaria și Klisma, dar plajă distinctă"
+      ],
+      "seo_title": "Peristeres Beach Thassos – acces, snorkeling și sfaturi",
+      "seo_description": "Explorează Peristeres Beach, la nord de Skala Maries în Thassos: golf natural cu nisip și pietre, snorkeling, acces din șosea și sfaturi practice.",
+      "social_caption": "🌊 Peristeres Beach, Thassos: un colț discret al coastei vestice, cu apă limpede, nisip și stânci pentru snorkeling. 🥾 Adu-ți propriul echipament și descoperă liniștea! 🇬🇷 #Thassos #PeristeresBeach #ExploreGreece",
+      "photo_alt": "Vedere de sus asupra micii plaje Peristeres din Thassos, cu nisip și pietricele, stânci la mal, apă limpede și vegetație lângă șosea."
+    },
+    "en": {
+      "name": "Peristeres Beach",
+      "tagline": "A discreet clear-water cove on the quieter west coast",
+      "summary": "Peristeres is a small natural beach north of Skala Maries on the western coast of Thassos. Its sand-and-pebble shoreline, rocky patches underwater and lack of beach services make it a choice for independent visitors rather than those seeking an organised resort beach.",
+      "description": "Peristeres Beach is easy to overlook when driving along the west coast of Thassos. Just below the main island road, north of Skala Maries, this short stretch of shoreline offers a quieter alternative to the better-known beaches around the villages. Sand, small pebbles and scattered larger stones share the shore, while the seabed alternates between sandy patches and areas of rock. When the sea is calm, the generally clear water makes it rewarding to look beneath the surface near the rocky margins, although snorkelling should always be approached with care. Sea urchins have been reported in stony areas, so water shoes are a useful addition to your beach bag. A little greenery and tamarisk growth near the edge may give occasional shade, but not reliable shelter from the midday sun. Peristeres is currently described as an unserviced, unorganised beach: do not expect a beach bar, rented loungers, toilets or showers. Its appeal is the freedom to enjoy the shore at your own pace, with few distractions and a more natural setting. This is a separately named cove, not another label for the neighbouring Pefkaria shore farther south or the Klisma beaches to the north. Come here for a relaxed swim, a short beach break or a chance to discover one of Thassos’s smaller coastal corners, rather than for a full day of commercial facilities.",
+      "practical_tips": "Identify the correct approach before travelling: the beach is not easy to spot from the main road. A formal parking area and exact safe descent have not been verified, so never stop on unsafe road shoulders or block access. Bring water, snacks, your own shade and a bag for rubbish; on-beach facilities are not documented. Water shoes help with uneven stones and potential sea urchins. Check waves and wind before swimming or snorkelling and supervise children throughout, as lifeguard service has not been confirmed. Do not mistake this Thassos cove for Peristeres Beach on Crete.",
+      "highlights": [
+        "Small cove easily missed from the island road",
+        "Sand, pebbles and rocky sections at the sea entry",
+        "Clear water and careful snorkelling near rocks",
+        "Natural atmosphere without organised beach services",
+        "Distinct from neighbouring Pefkaria and Klisma beaches"
+      ],
+      "seo_title": "Peristeres Beach Thassos – access, swimming & tips",
+      "seo_description": "Discover Peristeres Beach north of Skala Maries, Thassos: small natural sand-and-pebble cove, rocky snorkelling areas, access and useful tips.",
+      "social_caption": "🌊 Peristeres Beach, Thassos: a little-known west-coast cove with clear water, pebbles and rocky snorkelling spots. 🥾 Pack your own essentials and enjoy the quieter shoreline! 🇬🇷 #Thassos #PeristeresBeach #GreeceTravel",
+      "photo_alt": "Elevated view of small Peristeres Beach on Thassos, showing sand, pebbles, shoreline rocks, clear water and green slopes by the road."
+    },
+    "el": {
+      "name": "Παραλία Περιστερές",
+      "tagline": "Ένας διακριτικός φυσικός όρμος με καθαρά νερά στη δυτική ακτή",
+      "summary": "Η παραλία Περιστερές είναι μια μικρή φυσική ακτή βόρεια από τη Σκάλα Μαριών, στη δυτική Θάσο. Η άμμος, τα βότσαλα και τα βραχώδη σημεία του βυθού, μαζί με την απουσία οργανωμένων παροχών, την κάνουν ιδανική για όσους προτιμούν απλές και ήσυχες εξορμήσεις.",
+      "description": "Η παραλία Περιστερές είναι ένα από εκείνα τα μικρά παραθαλάσσια σημεία που μπορεί κανείς εύκολα να προσπεράσει χωρίς να τα προσέξει. Βρίσκεται χαμηλότερα από τον κεντρικό παραλιακό δρόμο της δυτικής Θάσου, βόρεια από τη Σκάλα Μαριών, και προσφέρει μια πιο ήσυχη εμπειρία από τις γνωστές οργανωμένες ακτές του νησιού. Στο στενό της μέτωπο υπάρχουν άμμος, βότσαλα και διάσπαρτες πέτρες, ενώ ο βυθός εναλλάσσεται ανάμεσα σε αμμώδη και βραχώδη τμήματα. Τα νερά είναι συχνά διαυγή και, όταν η θάλασσα είναι ήρεμη, τα βράχια στα άκρα προσφέρονται για προσεκτική παρατήρηση του βυθού με μάσκα. Σε πετρώδη σημεία έχουν αναφερθεί αχινοί, επομένως τα παπούτσια θαλάσσης είναι χρήσιμα. Η χαμηλή βλάστηση και τα αλμυρίκια στις άκρες μπορούν να προσφέρουν περιορισμένη σκιά, όχι όμως σταθερή προστασία από τον ήλιο. Η παραλία περιγράφεται ως φυσική και μη οργανωμένη, χωρίς επιβεβαιωμένες ξαπλώστρες, ομπρέλες προς ενοικίαση, μπαρ, τουαλέτες ή ντους. Η γοητεία της βρίσκεται ακριβώς στην απλότητα: λίγος χώρος, θάλασσα και χρόνος μακριά από τη φασαρία. Οι Περιστερές αποτελούν ξεχωριστό παραθαλάσσιο σημείο από την Πευκαριά, νοτιότερα, και από τις μικρές ακτές του Κλίσματος προς τα βόρεια. Αξίζουν μια στάση για κολύμπι ή μια ήρεμη εξερεύνηση, αρκεί να έχετε μαζί σας όσα χρειάζεστε.",
+      "practical_tips": "Εντοπίστε εκ των προτέρων τη σωστή πρόσβαση, επειδή η παραλία δεν διακρίνεται εύκολα από τον δρόμο. Δεν έχει επιβεβαιωθεί οργανωμένος χώρος στάθμευσης ούτε το ακριβές ασφαλές σημείο κατάβασης· μην παρκάρετε σε επικίνδυνα σημεία ή πάνω στο οδόστρωμα. Πάρτε νερό, σνακ, δική σας σκιά και σακούλα για τα απορρίμματα. Τα παπούτσια θαλάσσης βοηθούν στις πέτρες και στους πιθανούς αχινούς. Ελέγχετε τον άνεμο και τον κυματισμό πριν κολυμπήσετε ή κάνετε μάσκα. Τα παιδιά χρειάζονται συνεχή επίβλεψη, αφού δεν έχει επιβεβαιωθεί ναυαγοσώστης. Μην τη συγχέετε με την ομώνυμη παραλία στην Κρήτη.",
+      "highlights": [
+        "Μικρός όρμος που δεν φαίνεται εύκολα από τον δρόμο",
+        "Άμμος, βότσαλα και πέτρες στην ακτή και στο νερό",
+        "Συνήθως διαυγή νερά και βραχώδη σημεία για μάσκα",
+        "Φυσική παραλία χωρίς οργανωμένες παροχές",
+        "Ξεχωριστή ακτή από την Πευκαριά και το Κλίσμα"
+      ],
+      "seo_title": "Παραλία Περιστερές Θάσος – πρόσβαση και κολύμπι",
+      "seo_description": "Γνωρίστε την παραλία Περιστερές βόρεια από τη Σκάλα Μαριών στη Θάσο: άμμος, βότσαλα, βραχώδη νερά, πρόσβαση και πρακτικές συμβουλές.",
+      "social_caption": "🌊 Παραλία Περιστερές, Θάσος: ένας μικρός φυσικός όρμος στη δυτική ακτή, με διάφανα νερά και βραχώδη σημεία για μάσκα. 🥾 Πάρτε τα απαραίτητα και χαρείτε την ηρεμία! 🇬🇷 #Θάσος #Περιστερές #Ελλάδα",
+      "photo_alt": "Πανοραμική θέα της μικρής παραλίας Περιστερές στη Θάσο, με άμμο, βότσαλα, πέτρες, καθαρή θάλασσα και πράσινη πλαγιά δίπλα στον δρόμο."
+    },
+    "de": {
+      "name": "Peristeres Beach",
+      "tagline": "Eine ruhige Naturbucht mit klarem Wasser an der Westküste",
+      "summary": "Peristeres ist ein kleiner Naturstrand nördlich von Skala Maries an der Westküste von Thassos. Sand, Kiesel und stellenweise felsiger Meeresgrund prägen die Bucht, die sich vor allem an Besucher richtet, die ohne Strandservice auskommen.",
+      "description": "Der Peristeres Beach gehört zu den kleinen Küstenabschnitten, die man auf einer Fahrt entlang der Westseite von Thassos leicht übersieht. Der Strand liegt etwas unterhalb der Inselstraße nördlich von Skala Maries und bietet eine ruhigere Alternative zu den bekannten Stränden der Ferienorte. An Land wechseln sich Sand, Kies und einzelne größere Steine ab, im Wasser liegen zwischen sandigen Bereichen auch Felsen. Besonders bei ruhiger See wirkt das Wasser klar und einladend. Wer eine Maske mitnimmt, kann die felsigen Randbereiche vorsichtig erkunden, sollte jedoch auf Steine und mögliche Seeigel achten. Badeschuhe sind deshalb sinnvoll. Am Rand der Bucht stehen stellenweise niedrige Pflanzen und Tamarisken, die etwas natürlichen Schatten spenden können; für einen längeren Aufenthalt reicht dieser jedoch nicht immer aus. Peristeres ist nach den verfügbaren örtlichen Beschreibungen kein bewirtschafteter Strand. Man sollte weder Sonnenliegen und Mietschirme noch eine Strandbar, Toiletten oder Duschen voraussetzen. Genau darin liegt für manche Reisende der Reiz: ein kurzer Besuch am Wasser ohne Musik und große touristische Anlagen. Obwohl sich weitere kleine Buchten entlang derselben Küste befinden, ist Peristeres als eigenes Uferstück verzeichnet. Es sollte nicht mit Pefkaria im Süden oder den Klisma-Abschnitten weiter nördlich verwechselt werden. Wer einfache Naturstrände und klares Wasser mag, findet hier einen schönen Platz für eine Badepause, sollte aber alles Nötige selbst mitbringen.",
+      "practical_tips": "Den Zugang möglichst vorab auf der Karte ansehen, denn vom Hauptweg ist die kleine Bucht nicht gut sichtbar. Ein offizieller Parkplatz sowie ein genau überprüfter, sicherer Abstieg sind nicht nachgewiesen; parken Sie nicht auf gefährlichen Seitenstreifen. Nehmen Sie Trinkwasser, Snacks, eigenen Sonnenschutz und einen Müllbeutel mit. Badeschuhe erleichtern den Einstieg über Steine und schützen vor möglichen Seeigeln. Prüfen Sie Wind und Wellen vor dem Schwimmen oder Schnorcheln. Kinder müssen ständig beaufsichtigt werden, da kein Rettungsschwimmerdienst bestätigt ist. Nicht mit der gleichnamigen Bucht auf Kreta verwechseln.",
+      "highlights": [
+        "Kleine, von der Straße leicht zu übersehende Bucht",
+        "Sand und Kiesel mit felsigen Abschnitten im Wasser",
+        "Klares Meer und Schnorcheln an Felsen bei ruhiger See",
+        "Naturstrand ohne bestätigte Serviceeinrichtungen",
+        "Eigenständiges Uferstück zwischen Pefkaria und Klisma"
+      ],
+      "seo_title": "Peristeres Beach Thassos – Anfahrt, Baden und Tipps",
+      "seo_description": "Peristeres Beach nördlich von Skala Maries auf Thassos: ruhige Bucht mit Sand, Kieseln, felsigem Einstieg, Schnorchelmöglichkeiten und Anreisetipps.",
+      "social_caption": "🌊 Peristeres Beach auf Thassos: eine kleine Naturbucht an der Westküste mit klarem Wasser und Felsen zum Schnorcheln. 🥾 Alles Nötige mitbringen und die Ruhe genießen! 🇬🇷 #Thassos #PeristeresBeach #Griechenland",
+      "photo_alt": "Blick von oben auf den kleinen Peristeres Beach auf Thassos mit Sand, Kieseln, Felsen, klarem Wasser und grünen Hängen an der Küstenstraße."
+    },
+    "bg": {
+      "name": "Плаж Перистерес",
+      "tagline": "Тих естествен залив с прозрачна вода на западния бряг",
+      "summary": "Перистерес е малък естествен плаж северно от Скала Мариес на западния бряг на Тасос. Пясъкът, камъчетата и скалистите участъци под водата, както и липсата на организирани удобства, го правят подходящ за самостоятелно подготвени посетители.",
+      "description": "Плаж Перистерес е от онези малки крайбрежни места, които лесно могат да останат незабелязани при пътуване по западния бряг на Тасос. Разположен под нивото на главния път северно от Скала Мариес, той предлага по-спокойна атмосфера от оживените плажове около курортните селища. На тесния бряг има пясък, дребни камъчета и отделни по-едри камъни. Морското дъно е предимно пясъчно на места, но е прекъсвано от скали и камъни, особено близо до краищата на залива. В спокойни дни водата е много прозрачна и позволява внимателно наблюдение с маска край скалите. В каменистите зони са споменавани морски таралежи, затова обувките за вода са полезни. Растителността и тамариските в краищата на плажа могат да осигурят ограничена сянка, но не бива да се разчита на тях през целия ден. Перистерес се описва като естествен и неорганизиран плаж, без потвърдени шезлонги, чадъри под наем, заведение, тоалетни или душове. Именно простотата му привлича хората, които искат да поседят край морето без шум и развлекателни съоръжения. Това е отделно обозначена малка плажна ивица, различна от Пефкария на юг и крайбрежните участъци Клиcма на север. Тя е добър избор за кратка спокойна почивка или плуване, ако сте подготвили всичко необходимо предварително.",
+      "practical_tips": "Намерете правилния подход предварително, защото плажът не се вижда лесно от главния път. Няма потвърден обособен паркинг или точно проверен безопасен пешеходен вход; не спирайте на опасни места. Носете питейна вода, храна, собствен чадър и торба за отпадъци, тъй като на място не са документирани услуги. Обувките за вода са полезни за камъните и възможните морски таралежи. Проверявайте вятъра и вълните, преди да плувате или да се гмуркате с маска. Децата трябва да бъдат постоянно наблюдавани, защото няма потвърден спасител. Не бъркайте този плаж с едноименния на остров Крит.",
+      "highlights": [
+        "Малък залив, трудно забележим от пътя",
+        "Пясък, камъчета и скалисти части във водата",
+        "Прозрачна вода и възможности за внимателно гмуркане с маска",
+        "Естествен плаж без организирани услуги",
+        "Отделен от плажовете Пефкария и Клисма"
+      ],
+      "seo_title": "Плаж Перистерес, Тасос – достъп, море и съвети",
+      "seo_description": "Открийте плаж Перистерес северно от Скала Мариес на Тасос: малък тих залив, пясък и камъни, прозрачна вода, достъп и полезни съвети.",
+      "social_caption": "🌊 Перистерес, Тасос: малък естествен залив на западния бряг с прозрачна вода, пясък и скали за гмуркане с маска. 🥾 Вземете необходимото и се насладете на спокойствието! 🇬🇷 #Тасос #Перистерес #Гърция",
+      "photo_alt": "Изглед от високо към малкия плаж Перистерес на Тасос с пясък, камъчета, крайбрежни скали, бистра вода и зелени склонове до пътя."
+    },
+    "sr": {
+      "name": "Plaža Peristeres",
+      "tagline": "Skrivena prirodna uvala s bistrom vodom na zapadnoj obali",
+      "summary": "Peristeres je mala prirodna plaža severno od Skala Marijesa, na zapadnoj obali Tasosa. Peščani i šljunkoviti delovi obale, stenovita mesta u moru i odsustvo uređenih sadržaja čine je pogodnom za posetioce koji vole mir i dolaze pripremljeni.",
+      "description": "Plaža Peristeres je jedno od onih malih mesta pored mora koja je lako prevideti dok se vozite zapadnom obalom Tasosa. Nalazi se ispod nivoa glavnog ostrvskog puta, severno od Skala Marijesa, i pruža mirniju atmosferu od poznatih plaža u turističkim naseljima. Na uskoj obali smenjuju se pesak, sitni obluci i poneki krupniji kamen. Morsko dno je na pojedinim mestima peščano, ali ima i stenovitih delova, naročito bliže krajevima uvale. Kada je more mirno, voda je obično vrlo bistra, pa kameniti rubovi mogu biti zanimljivi za pažljivo istraživanje s maskom. Na stenama se mogu naći morski ježevi, zbog čega su cipele za vodu dobar izbor. Nisko rastinje i tamarisi uz obalu ponekad prave malo prirodnog hlada, ali nisu dovoljni kao sigurna zaštita tokom celog dana. Peristeres se opisuje kao prirodna, neuređena plaža, bez pouzdano potvrđenih ležaljki, suncobrana za iznajmljivanje, bara, toaleta i tuševa. Njen šarm je upravo u jednostavnosti: dolazite sa sopstvenim stvarima i uživate u moru bez gužve i glasne muzike. Iako je deo istog zapadnog pojasa obale, Peristeres ima zaseban naziv i ne treba je mešati s Pefkarijom južnije ili malim plažama kod Klisme na severu. Vredi svratiti radi mirnog kupanja, kratkog odmora ili upoznavanja skrivenijih delova Tasosa, bez očekivanja usluge na plaži.",
+      "practical_tips": "Pre dolaska proverite gde se nalazi prilaz, jer se uvala ne vidi lako s glavnog puta. Nisu potvrđeni zvanični parking ni tačno mesto bezbednog silaska; ne zaustavljajte vozilo na opasnoj bankini. Ponesite vodu, hranu, svoj suncobran i kesu za smeće, pošto na samoj plaži nisu dokumentovane usluge. Obuća za vodu pomaže na kamenju i zbog mogućih morskih ježeva. Proverite vetar i talase pre plivanja ili ronjenja s maskom. Deca moraju biti stalno pod nadzorom jer spasilac nije potvrđen. Ne mešajte ovu plažu na Tasosu sa istoimenom plažom na Kritu.",
+      "highlights": [
+        "Mala uvala koju je lako prevideti sa glavnog puta",
+        "Pesak, obluci i stenoviti delovi pri ulasku u more",
+        "Bistra voda i oprezno ronjenje s maskom uz stene",
+        "Prirodna plaža bez uređenih turističkih sadržaja",
+        "Odvojena od obližnjih plaža Pefkarija i Klisma"
+      ],
+      "seo_title": "Plaža Peristeres Tasos – prilaz, kupanje i saveti",
+      "seo_description": "Upoznajte plažu Peristeres severno od Skala Marijesa na Tasosu: mala prirodna uvala, pesak, obluci, bistro more, prilaz i korisni saveti.",
+      "social_caption": "🌊 Peristeres na Tasosu: mala prirodna uvala na zapadnoj obali, s bistrom vodom i stenama za ronjenje s maskom. 🥾 Ponesite sve što vam treba i uživajte u miru! 🇬🇷 #Tasos #Peristeres #Grcka",
+      "photo_alt": "Pogled odozgo na malu plažu Peristeres na Tasosu, sa peskom, oblucima, stenama uz more, bistrom vodom i zelenim obroncima pored puta."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/peristeres/images/peristeres1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/peristeres/images/peristeres2.webp",
+      "destinations/thassos/beaches/peristeres/images/peristeres3.webp",
+      "destinations/thassos/beaches/peristeres/images/peristeres4.webp",
+      "destinations/thassos/beaches/peristeres/images/peristeres5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/peristeres/images/",
+    "suggested_asset_names": [
+      "peristeres1.webp",
+      "peristeres2.webp",
+      "peristeres3.webp",
+      "peristeres4.webp",
+      "peristeres5.webp"
+    ],
+    "image_policy": "Publish only photographs owned by the user or appropriately licensed for commercial use, and verify that all five images actually depict Peristeres Beach near Skala Maries, Thassos. The local WebP paths were assigned from filenames visible in the supplied screenshot; document provenance, creator, permissions and required attribution before publication.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_staythassos",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos (ThasosHolidays) — Peristeres Beach in Complete List of 56 Thassos Beaches",
+      "url": "https://staythassos.gr/thassos-beaches/",
+      "detail": "Local description and specifically labelled photo/video. Peristeres beach near main island road, hard to notice, small sand-and-pebble shore, mainly sandy seabed, rocks and reported sea urchins, quiet natural feel and clear water for snorkeling. Dated 21 April 2026.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_pame_paralia",
+      "kind": "regional_beach_directory",
+      "title": "Pame Paralia — Peristeres Beach, Thasos",
+      "url": "https://pameparalia.com/beach/peristeres-mainland",
+      "detail": "Third-party map at rounded 40.6606,24.5116. Links beach with Skala Maries, mixed sand/pebble, limited parking, moderate access, no sunbeds or canteen, water shoes, tamarisk shade, snorkeling and nearby Pefkaria/Lagkada/Atspas. Coordinates not Google Maps pin.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachsearcher",
+      "kind": "beach_directory",
+      "title": "BeachSearcher — Peristeres beach, Skala Marion, Thasos",
+      "url": "https://beaches-searcher.com/en/beach/300207114/peristeres-beach",
+      "detail": "Independent named beach about 2.1 km from Skala Marion, listed as unserviced and close to road; Pefkaria and Klisma South II nearby. Source internally inconsistent on sand vs rocks and parking, so precise measurements/ratings/access assertions not used as verified facts.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachsearcher_el",
+      "kind": "beach_directory",
+      "title": "BeachSearcher (Greek) — Peristeres beach, Σκάλα Μαριών",
+      "url": "https://beachsearcher.com/el/beach/300207114/peristeres-beach",
+      "detail": "Greek localization of the directory (not independent corroboration). Identifies the Thassos beach and natural unserviced context. Not an official shoreline survey or parking ruling.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_staythassos_azure",
+      "kind": "local_property_context",
+      "title": "Stay Thassos — Azure in Skala Kallirachi",
+      "url": "https://staythassos.gr/azure/",
+      "detail": "Local property guide explicitly treats Peristeres and Pefkaria as separate nearby beach outings from the Klisma area; useful only for geographic/deduplication context.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_thassos_skala_maries",
+      "kind": "local_place_guide",
+      "title": "Go Thassos — Skala Maries",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-maries",
+      "detail": "Differentiates the three settlement coves (Platanes, harbour beach and Atspas); Peristeres lies farther along west coast and should not be merged with the village beaches.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_2026",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — Awarded shores in 2026",
+      "url": "https://www.blueflag.gr/el/awards/2026",
+      "detail": "Official 2026 list names five Thassos award sections; Peristeres is not one of the listed names. This is not a water-quality lab result and does not prove any other certification or future awards.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_google_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Peristeres Beach, Skala Maries, Thassos (name search only)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peristeres%20Beach%2C%20Skala%20Maries%2C%20Thassos%2C%20Greece",
+      "detail": "Text search link; it is not a verified Google Maps marker, beach access point, safe parking entrance or source of numeric coordinates. Stored lat/lng left null.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_creta_disambiguation",
+      "kind": "disambiguation_reference",
+      "title": "Crete Info — Peristeres beach (Rodakino, Crete)",
+      "url": "https://creteinfo.gr/beach/rethymnon/plakias/peristeres-beach/",
+      "detail": "Different Peristeres beach on Crete, located near Rodakino; facilities and landscape on that page must never be carried into the Thassos record.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm exact shoreline of Peristeres, distinguish it from Pefkaria and Klisma coves and ensure all thumbnails truly show this cove",
+      "Confirm the locally preferred Greek written name Παράλια/Παραλία Περιστερές for this Thassos cove; current Greek form is editorial transliteration rather than a verified official municipal name.",
+      "Inspect Google Maps beach marker and safe path/road stopping point; present third-party 40.6606,24.5116 only as a rounded lead, not Google pin coordinates",
+      "Confirm the safety and legality of roadside stopping; guides disagree about difficulty and parking",
+      "Recheck sand/pebble distribution, water depth and any site-specific urchin hazards; do not promise uniform shallows",
+      "Verify continued absence of showers, toilets, seasonal beach services and any lifeguard; descriptions represent source check, not live on-site inspection",
+      "Confirm if tamarisks offer usable beach shade at the desired hour, and check wind/waves before a visit",
+      "Verify that peristeres1.webp–peristeres5.webp actually depict Peristeres Beach near Skala Maries; document original creators, licenses, rights for commercial publication or transfer, and any required attribution.",
+      "Native-speaker proofread Romanian, English, Greek, German, Bulgarian and Serbian Latin before release",
+      "Official 2026 Blue Flag list does not name Peristeres; do not invent award or certified water-quality classification",
+      "Avoid confusion with a same-named beach on Crete and the Peristeres Island near Corfu"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original six-language editorial text; commercial publication and transfer rights for the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths have been assigned using filenames visible in the supplied screenshot. The image files are not embedded in this JSON; precise photographed locations and usage rights have not been independently verified."
+  }
+}

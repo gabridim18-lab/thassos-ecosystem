@@ -1,0 +1,373 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-pefkaria",
+  "slug": "pefkaria",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": null,
+    "international_name": "Pefkaria Beach",
+    "aliases": [
+      "Pefkaria",
+      "Pefkaria Beach Thassos",
+      "Pefkaria beach Skala Marion"
+    ],
+    "entity_scope": "Small, predominantly rocky and naturally shaded coastal pocket north of Skala Maries on western Thassos, between the wider coastal areas of Platanes and Peristeres. Only this Pefkaria shore is covered; neighbouring beaches remain independent records.",
+    "deduplication_warning": "Pefkaria (near Skala Maries / Peristeres, WEST coast) is NOT Pefkari Beach (near Potos and Limenaria, SOUTH coast), nor Pefkari Camping Beach or Alexandra Beach / Pefkari 2. Avoid conflating names, facilities, coordinates or the Blue Flag award of Pefkari 2/Alexandra Beach. Peristeres and Platanes are distinct neighbours."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "western coastline, just north of Skala Maries",
+    "settlements": [
+      "Skala Maries (Skala Marion)",
+      "Skala Kallirachis (regional reference)"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pefkaria%20Beach%2C%20Skala%20Maries%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_google_maps_search",
+    "coordinate_type": "name_search_only_exact_beach_pin_unverified",
+    "coordinate_review_status": "Pefkaria is separately documented near Skala Maries, approximately 730 m from Peristeres by a beach directory; these are location-identification clues, NOT Google Maps-verified coordinates or walking-route guarantees. Pin and legal/feasible approach need map/on-site review.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "predominantly_rocky_shore_with_localized_sand_or_grit_reported",
+    "seabed_near_shore": "extensive_rocks_rock_slabs_with_some_sand_beyond_rocky_entry",
+    "water_entry": "uneven_rocky_slippery_areas_water_shoes_recommended",
+    "nearshore_depth": "variable; guides differ, some warn of relatively deep water beyond rocky shallows",
+    "water_clarity": "typically_clear_blue_green",
+    "wave_conditions": "wind_and_swell_dependent_west_coast",
+    "exposure": "open_western_coast_with_local_rock_shelves",
+    "natural_shade_on_sand": "shade_near_water_from_olive_and_other_shoreline_trees_but_available_spots_vary",
+    "beach_length_m": null,
+    "length_note": "One beach directory describes a stretch up to approximately 190 m; no independent shoreline survey, measurement standard or official length verified, so precise length deliberately omitted.",
+    "backdrop": "low coastal vegetation, olive trees, rocks and views across the Aegean from the west coast",
+    "shoreline_type": "small_rocky_natural_coast_pocket_not_an_organized_sandy_resort_beach"
+  },
+  "visitor_experience": {
+    "organization": "unorganized_natural_rocky_shore",
+    "suitable_for": [
+      "visitors_seeking_quiet",
+      "snorkelers_with_experience",
+      "careful_swimmers",
+      "nature_lovers",
+      "coastal_photography",
+      "short_low_key_beach_stops"
+    ],
+    "notable_for": [
+      "strong_rocky_character",
+      "clear_water",
+      "olive_tree_shade_near_shore",
+      "rocky_snorkeling_habitat",
+      "few_services",
+      "separate_identity_from_pefkari"
+    ],
+    "activities_possible": [
+      "careful_swimming",
+      "snorkeling_in_calm_conditions",
+      "coastal_photography",
+      "quiet_relaxation",
+      "shoreline_observation"
+    ],
+    "estimated_crowd_peak": "often_less_visited_than_major_beaches_but_no_live_counts_or_capacity_study",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Smooth rocks can be slippery, and sharp or uneven areas and reported sea urchins make entry hazardous. Some guides describe the water as relatively deep; do not assume a consistent shallow sandy entry. Swimming/snorkeling should depend on waves, visibility and ability, never alone. Not ideal for toddlers, stroller access or people needing a level, equipped beach."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": false,
+      "seasonal": null
+    },
+    "umbrellas": {
+      "available_in_some_sections": false,
+      "seasonal": null
+    },
+    "toilets": {
+      "available_in_some_sections": false,
+      "note": "Local guides and the beach directory describe no organized facilities at Pefkaria; verify on site before interpreting absence as permanent."
+    },
+    "showers": {
+      "available_in_some_sections": false,
+      "note": "No showers documented for this natural Pefkaria shore; do not borrow facilities listed for Pefkari Beach or Platanes."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": false,
+      "requires_site_check": true
+    },
+    "beach_bars": false,
+    "tavernas_restaurants_nearby": false,
+    "cafes_nearby": false,
+    "parking_nearby": null,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": false,
+    "volleyball": false,
+    "accommodation_nearby": null,
+    "lifeguard": null,
+    "lifeguard_note": "No verified supervised swimming or on-duty lifeguard for this specific beach; do not assume lifeguard service.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Rocky shore and uneven sea entry are not compatible with promising accessible beach access. Exact approach/accessibility infrastructure unverified.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Guides describe a wild beach without services. Values are a documented baseline, not a guarantee for every season. Restaurants or operators elsewhere in Skala Maries must not be treated as located on Pefkaria."
+  },
+  "access_and_cost": {
+    "road_access": "near_the_western_coastal_main_road; final_approach_requires_local_verification",
+    "public_transport": "no_verified_stop_directly_at_pefkaria_beach",
+    "parking_type": "some_guides_report_roadside_or_nearby_parking_at_a_short_walk_distance; exact_legal_spaces_unconfirmed",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "No standard lounger service documented at Pefkaria; no price or consumption rule can be asserted.",
+    "best_arrival_advice": "Look for the exact Pefkaria point north of Skala Maries, not Pefkari by Potos. Do not stop or park on the road without confirming safety and legality. Bring drinking water, sun protection, a towel or mat suitable for rocks, water shoes and a snorkeling mask if conditions are calm. Check the sea and footing before entering.",
+    "distance_from_limenas_km": null,
+    "distance_note": "No route distance from Limenas asserted; avoid confusing this location with Pefkari on the southern coast or relying on straight-line distances from directories."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Pefkaria Beach",
+      "tagline": "Un țărm stâncos și liniștit, sub măslini, aproape de Skala Maries",
+      "summary": "Pefkaria este un mic sector natural de coastă din vestul insulei Thassos, la nord de Skala Maries și aproape de Peristeres. Pietrele, apa limpede și copacii care coboară spre țărm îi dau un farmec sălbatic, mai potrivit pentru snorkeling atent decât pentru o zi de plajă cu multe facilități.",
+      "description": "Pe coasta vestică a insulei Thassos, la mică distanță de Skala Maries, Pefkaria este unul dintre acele locuri pe care le-ai putea trece cu vederea dacă te-ai orienta numai după plajele amenajate. Nu trebuie confundată cu binecunoscuta Pefkari Beach de lângă Potos, din sudul insulei: Pefkaria se găsește în altă zonă, aproape de Peristeres și de plaja Platanes. Aici peisajul este dominat de stânci și suprafețe netede de piatră, cu porțiuni reduse de material nisipos descrise diferit de ghidurile turistice. Măslinii și vegetația din apropiere se apleacă spre mare și pot oferi umbră la marginea țărmului, dar nu există promisiunea unui loc confortabil de întins prosopul. Apa este adesea foarte limpede, iar relieful subacvatic stâncos creează condiții interesante pentru cei care practică snorkelingul în zilele fără valuri. La intrarea în mare, pietrele pot fi alunecoase, iar în unele zone au fost semnalați arici de mare. Adâncimea variază, astfel că nu este bine să presupui că fundul rămâne puțin adânc sau nisipos. Farmecul Pefkaria constă tocmai în simplitatea ei: nu sunt documentate șezlonguri, dușuri sau beach baruri în acest sector. Este mai degrabă un loc de explorat pentru cei care apreciază liniștea, apa transparentă și un țărm natural, nu o alegere comodă pentru familiile cu copii foarte mici. Fiind aproape de drumul insulei, poate fi inclusă într-o plimbare de descoperire a golfurilor de pe coasta vestică, cu atenție la acces și parcare.",
+      "practical_tips": "Caută Pefkaria lângă Skala Maries, nu Pefkari din apropiere de Potos. Verifică punctul exact pe hartă înainte de plecare și nu presupune că există o parcare autorizată chiar lângă plajă. Adu încălțăminte de apă cu talpă aderentă: rocile pot fi alunecoase și pot exista arici de mare. Pentru snorkeling alege numai zile liniștite, intră cu atenție și nu te aventura singur. Ia apă potabilă, protecție solară și tot ce ai nevoie, deoarece facilitățile nu sunt documentate. Umbră poate exista sub arborii de lângă mal, dar spațiul utilizabil și gradul de ocupare diferă. Cu copii mici sau persoane cu mobilitate redusă, alege o plajă cu acces și intrare în apă mai ușoare.",
+      "highlights": [
+        "Țărm natural cu stânci și pietre netede",
+        "Apă limpede și snorkeling atent pe lângă roci",
+        "Măslini și vegetație aproape de mal",
+        "Atmosferă discretă, fără amenajări turistice documentate",
+        "Locație distinctă de Pefkari, aproape de Peristeres"
+      ],
+      "seo_title": "Pefkaria Beach Thassos – snorkeling, acces și sfaturi",
+      "seo_description": "Descoperă Pefkaria Beach lângă Skala Maries: țărm stâncos, apă limpede, măslini, snorkeling și recomandări pentru acces în vestul insulei Thassos.",
+      "social_caption": "🌿 Pefkaria Beach, Thassos: apă clară, stânci netede și măslini la marginea mării. 🤿 Un loc de explorat cu grijă, aproape de Skala Maries, pentru iubitorii de liniște și snorkeling. #Thassos #Pefkaria #GreekIslands",
+      "photo_alt": "Țărmul natural Pefkaria din vestul insulei Thassos, cu platforme stâncoase, apă limpede și vegetație aproape de mare."
+    },
+    "en": {
+      "name": "Pefkaria Beach",
+      "tagline": "A quiet, rocky stretch beneath olive trees near Skala Maries",
+      "summary": "Pefkaria is a small natural stretch of western Thassos, north of Skala Maries and near Peristeres. Its rock shelves, clear water and trees close to the shore give it a distinctly wild character, making it more appealing for careful snorkelling than for an equipped family beach day.",
+      "description": "On the western coast of Thassos, a short distance north of Skala Maries, Pefkaria is the sort of shoreline that is easy to overlook if you search only for organised beaches. It is not the famous Pefkari Beach near Potos on the southern coast: Pefkaria lies in a different area, close to Peristeres and the Platanes stretch. This is a mostly rocky spot with smooth slabs and stones, while different guides disagree about how much actual sand is present along the shore. Olive trees and other vegetation reach close to the water and may provide shade at the back of the beach, although they do not turn it into a comfortable, broad sandy strand. The sea is often remarkably clear, and the underwater rocks can be rewarding for observant snorkellers when the water is calm. Getting into the sea needs care: rock surfaces may be slippery and sea urchins have been reported in the shallows. Depth varies, and visitors should not expect a uniformly gentle, sandy entry. Pefkaria feels different from the nearby resort beaches precisely because it has little documented infrastructure. There is no reliable confirmation of loungers, showers or beach bars at this particular shoreline, so bringing your own essentials is sensible. Its quieter, natural setting suits confident visitors who value coastal scenery and a short exploration stop more than convenience; it is not an obvious choice for toddlers or anyone who needs easy, level access. The coastal road passes close to the area, but the exact approach and safe parking location should be checked before setting off.",
+      "practical_tips": "Search for Pefkaria by Skala Maries, not Pefkari near Potos. Verify the precise location and legal parking options rather than assuming you can pull over beside the beach. Grippy water shoes are important for smooth, possibly slippery rock and reported sea urchins; sturdy shoes also help on the approach. Snorkel only in calm conditions, check how the water deepens and avoid swimming alone. Bring drinking water, sunscreen, a towel or mat suitable for rock, and any snacks you need because on-beach services are not documented. Shoreline shade depends on the exact spot. For young children, pushchairs or visitors with limited mobility, a more accessible beach will usually be preferable.",
+      "highlights": [
+        "Unspoilt rocky shore with smooth stone shelves",
+        "Clear water and careful rocky-edge snorkelling",
+        "Olive trees close to the sea",
+        "Low-key atmosphere without documented beach services",
+        "Different from Pefkari; near Peristeres and Skala Maries"
+      ],
+      "seo_title": "Pefkaria Beach Thassos – snorkelling, access and tips",
+      "seo_description": "Explore Pefkaria Beach near Skala Maries on Thassos: rocky shore, clear water, olive-tree shade, snorkelling conditions and practical access advice.",
+      "social_caption": "🌿 Pefkaria Beach, Thassos: clear sea, smooth coastal rocks and olive trees close to the water. 🤿 A peaceful little stop near Skala Maries for careful snorkelling and quiet views. #Thassos #Pefkaria #ExploreGreece",
+      "photo_alt": "Natural rocky Pefkaria shoreline on western Thassos, with clear blue-green water, stone shelves and trees close to the sea."
+    },
+    "el": {
+      "name": "Παραλία Πευκαριά",
+      "tagline": "Ήσυχη βραχώδης ακτή με ελιές κοντά στη Σκάλα Μαριών",
+      "summary": "Η Πευκαριά είναι μια μικρή φυσική ακτή στη δυτική Θάσο, βόρεια από τη Σκάλα Μαριών και κοντά στους Περιστέρες. Οι βράχοι, τα διάφανα νερά και τα δέντρα δίπλα στη θάλασσα δημιουργούν ένα ήσυχο τοπίο, πιο κατάλληλο για προσεκτικό κολύμπι με μάσκα παρά για οργανωμένο οικογενειακό μπάνιο.",
+      "description": "Στη δυτική ακτή της Θάσου, λίγο βορειότερα από τη Σκάλα Μαριών, η Πευκαριά αποτελεί μια ήσυχη γωνιά για όσους προτιμούν τη φυσική ακτογραμμή από τις οργανωμένες παραλίες. Δεν πρέπει να συγχέεται με το γνωστό Πευκάρι κοντά στον Ποτό, στο νότιο τμήμα του νησιού: η Πευκαριά βρίσκεται σε άλλη περιοχή, κοντά στην παραλία Περιστέρες και στους Πλάτανες. Το τοπίο χαρακτηρίζεται κυρίως από βραχώδεις πλάκες και πέτρες. Οι ταξιδιωτικοί οδηγοί δεν συμφωνούν πλήρως για την ποσότητα άμμου στην ακτή, γι’ αυτό δεν είναι σωστό να περιμένει κανείς μια συνηθισμένη αμμουδιά. Ελιές και χαμηλή βλάστηση πλησιάζουν το νερό και μπορούν να δημιουργήσουν σκιά σε ορισμένα σημεία, χωρίς όμως να εξασφαλίζουν επίπεδο χώρο για ξαπλώστρα ή πετσέτα. Η θάλασσα είναι συχνά πολύ καθαρή και ο βραχώδης βυθός μπορεί να προσφέρει ενδιαφέρουσες εικόνες σε όσους κολυμπούν με μάσκα όταν επικρατεί άπνοια. Η είσοδος χρειάζεται προσοχή, καθώς οι πέτρες μπορεί να γλιστρούν και έχουν αναφερθεί αχινοί. Το βάθος αλλάζει από σημείο σε σημείο, επομένως η περιοχή δεν πρέπει να θεωρείται ρηχή και ασφαλής για όλους. Στην ίδια την Πευκαριά δεν επιβεβαιώνονται οργανωμένες παροχές όπως ξαπλώστρες, ντους ή beach bar. Η αξία της βρίσκεται στην ησυχία, στη διαύγεια του νερού και στην αίσθηση μιας σχεδόν ανέγγιχτης ακτής. Είναι επιλογή περισσότερο για προσεκτικούς κολυμβητές και φυσιολάτρες παρά για οικογένειες με πολύ μικρά παιδιά. Ο κεντρικός δρόμος του νησιού περνά σχετικά κοντά, αλλά η ακριβής πρόσβαση και η νόμιμη στάθμευση χρειάζονται επιτόπιο έλεγχο.",
+      "practical_tips": "Αναζητήστε την Πευκαριά δίπλα στη Σκάλα Μαριών και όχι το Πευκάρι του Ποτού. Ελέγξτε τη θέση στον χάρτη και σταθμεύστε μόνο σε ασφαλές και επιτρεπόμενο σημείο. Φορέστε παπούτσια θαλάσσης με καλή πρόσφυση, επειδή οι βράχοι μπορεί να γλιστρούν και ενδέχεται να υπάρχουν αχινοί. Για κολύμπι με μάσκα επιλέξτε ήρεμη θάλασσα, προσέξτε το βάθος και μην κολυμπάτε μόνοι. Φέρτε νερό, αντηλιακή προστασία, κάτι κατάλληλο για να καθίσετε στις πέτρες και ό,τι άλλο χρειάζεστε, καθώς δεν έχουν επιβεβαιωθεί υπηρεσίες στην ακτή. Η σκιά των δέντρων δεν υπάρχει παντού. Για καρότσια, άτομα με δυσκολία μετακίνησης και μικρά παιδιά προτιμήστε ευκολότερη παραλία.",
+      "highlights": [
+        "Φυσική βραχώδης ακτή με λείες πέτρες",
+        "Διαυγή νερά για προσεκτικό κολύμπι με μάσκα",
+        "Ελιές και βλάστηση δίπλα στη θάλασσα",
+        "Ήσυχο περιβάλλον χωρίς επιβεβαιωμένες οργανωμένες παροχές",
+        "Διαφορετική από το Πευκάρι, κοντά στους Περιστέρες"
+      ],
+      "seo_title": "Παραλία Πευκαριά Θάσος – πρόσβαση, βυθός και συμβουλές",
+      "seo_description": "Γνωρίστε την Πευκαριά κοντά στη Σκάλα Μαριών στη Θάσο: βραχώδης ακτή, καθαρά νερά, ελιές, κολύμπι με μάσκα και πρακτικές πληροφορίες.",
+      "social_caption": "🌿 Πευκαριά, Θάσος: διάφανα νερά, λείοι βράχοι και ελιές δίπλα στο κύμα. 🤿 Ένα ήσυχο σημείο κοντά στη Σκάλα Μαριών για προσεκτική εξερεύνηση του βυθού. #Θάσος #Πευκαριά #Ελλάδα",
+      "photo_alt": "Η φυσική βραχώδης ακτή Πευκαριά στη δυτική Θάσο, με καθαρά γαλαζοπράσινα νερά και δέντρα κοντά στην ακρογιαλιά."
+    },
+    "de": {
+      "name": "Pefkaria Beach",
+      "tagline": "Eine ruhige Felsküste unter Olivenbäumen nahe Skala Maries",
+      "summary": "Pefkaria ist ein kleiner naturbelassener Küstenabschnitt im Westen von Thassos, nördlich von Skala Maries und nahe Peristeres. Felsplatten, klares Wasser und Bäume unmittelbar am Ufer machen ihn interessant für vorsichtige Schnorchler, weniger für einen bequemen Familienstrandtag.",
+      "description": "An der Westküste von Thassos, etwas nördlich von Skala Maries, liegt mit Pefkaria ein ruhiger Küstenabschnitt, den Besucher auf der Suche nach großen bewirtschafteten Sandstränden leicht übersehen. Wichtig ist die Unterscheidung: Pefkaria ist nicht der bekannte Pefkari Beach beim Ferienort Potos an der Südküste. Der kleine Naturstrand liegt vielmehr in der Nähe von Peristeres und Platanes. Sein Charakter wird von glatten Felsplatten, größeren Steinen und einem felsigen Meeresboden bestimmt. Manche Reiseführer beschreiben vereinzelte sandige Bereiche, andere betonen nahezu ausschließlich die Felsen; einen durchgehend weichen Sandstrand sollte man hier daher nicht erwarten. Olivenbäume und niedriges Grün reichen stellenweise fast bis ans Wasser. Sie können etwas Schatten bieten, aber bequeme Liegeflächen sind begrenzt und hängen vom gewählten Platz ab. Das Meer ist häufig besonders durchsichtig. Bei ruhigem Wetter lässt sich die felsige Unterwasserwelt mit Maske und Schnorchel erkunden. Beim Einstieg ist jedoch Vorsicht nötig: Die Steine können rutschig sein, und Seeigel werden für den flachen Uferbereich erwähnt. Auch die Wassertiefe variiert, sodass der Strand nicht als überall flach und kinderfreundlich gelten kann. Für diese Stelle sind weder feste Liegen und Sonnenschirme noch Duschen oder eine Strandbar zuverlässig belegt. Gerade das verleiht Pefkaria seinen ursprünglichen Charakter. Wer Ruhe und einen kurzen Naturstopp sucht und mit einem steinigen Untergrund zurechtkommt, wird den Abschnitt eher schätzen als Reisende, die Strandkomfort erwarten. Die Inselstraße verläuft in der Nähe; den genauen Abstieg und sichere Parkmöglichkeiten sollte man trotzdem vorher prüfen.",
+      "practical_tips": "Bei der Kartensuche Pefkaria nahe Skala Maries eingeben, nicht Pefkari nahe Potos. Die genaue Lage und erlaubte Parkplätze vor der Anfahrt prüfen; nicht ungesichert am Straßenrand halten. Rutschfeste Badeschuhe schützen bei glatten Felsen und möglicherweise vorhandenen Seeigeln. Zum Schnorcheln nur bei ruhiger See ins Wasser gehen, die Tiefe selbst beurteilen und nicht allein schwimmen. Trinkwasser, Sonnenschutz und eine Unterlage für die Steine mitnehmen, denn am Strand sind keine verlässlichen Dienstleistungen dokumentiert. Der Schatten der Olivenbäume ist nicht überall nutzbar. Für kleine Kinder, Kinderwagen oder Menschen mit eingeschränkter Mobilität ist ein leichter zugänglicher Strand die bessere Wahl.",
+      "highlights": [
+        "Natürlicher Felsstrand mit glatten Steinplatten",
+        "Klares Wasser und vorsichtiges Schnorcheln",
+        "Olivenbäume nahe am Ufer",
+        "Ruhige Küste ohne belegte Strandservices",
+        "Nicht mit Pefkari verwechseln; nahe Peristeres"
+      ],
+      "seo_title": "Pefkaria Beach Thassos – Schnorcheln, Anfahrt und Tipps",
+      "seo_description": "Pefkaria Beach bei Skala Maries auf Thassos: Felsküste, klares Meer, Olivenbäume, Schnorcheln und praktische Hinweise zum sicheren Zugang.",
+      "social_caption": "🌿 Pefkaria Beach auf Thassos: klares Meer, helle Felsen und Olivenbäume direkt an der Küste. 🤿 Ein ruhiger Naturstopp nahe Skala Maries für achtsame Entdecker. #Thassos #Pefkaria #Griechenland",
+      "photo_alt": "Naturbelassene Felsküste von Pefkaria im Westen von Thassos mit klarem blaugrünem Wasser und Olivenbäumen am Ufer."
+    },
+    "bg": {
+      "name": "Плаж Пефкария",
+      "tagline": "Тих скалист бряг под маслинови дървета край Скала Мариес",
+      "summary": "Пефкария е малък естествен участък от западния бряг на Тасос, северно от Скала Мариес и близо до Перистерес. Скалните плочи, бистрата вода и дърветата до морето го правят привлекателен за внимателно гмуркане с маска, но не и за обичайна семейна почивка на оборудван плаж.",
+      "description": "На западния бряг на остров Тасос, малко северно от Скала Мариес, се намира Пефкария — спокойна крайбрежна ивица за хора, които търсят природата, а не редици от шезлонги. Не я бъркайте с популярния плаж Пефкари край Потос в южната част на острова: Пефкария е съвсем друго място, близо до Перистерес и Платанес. Тук преобладават каменни плочи, обли скали и камъни, а пясъчните участъци са ограничени и описани различно в местните пътеводители. Маслинови дървета и друга зеленина се спускат почти до водата и на отделни места хвърлят естествена сянка, но не бива да очаквате широка равна пясъчна площ за плажни принадлежности. Морето обикновено е много прозрачно и каменистото дъно е интересно за разглеждане с маска, когато вълните са слаби. Влизането във водата изисква внимание, защото скалите могат да бъдат хлъзгави, а в плитките части са описвани морски таралежи. Дълбочината е променлива и не е разумно мястото да се приема за безопасно плитко море навсякъде. За самия участък Пефкария няма надеждно потвърдени чадъри под наем, душове или плажен бар. Именно липсата на масова инфраструктура създава усещането за уединение. Той ще се хареса най-вече на внимателни плувци, любители на природата и хора, които искат кратка спирка край чисто море. За семейства с много малки деца или посетители, които се нуждаят от лесен достъп, има по-подходящи плажове. Главният крайбрежен път минава сравнително близо, но точният подход и законното паркиране трябва да бъдат проверени.",
+      "practical_tips": "Търсете Пефкария до Скала Мариес, а не Пефкари край Потос. Проверете точното местоположение и разрешените места за паркиране; не спирайте на опасно място край шосето. Носете обувки за вода с добро сцепление за хлъзгавите скали и възможните морски таралежи. За гмуркане с маска избирайте само спокойно море, проверявайте дълбочината и не плувайте сами. Вземете вода, слънцезащита, постелка за камъните и храна при нужда — на плажа няма потвърдени услуги. Сянката от маслините е ограничена до отделни места. С бебета, детски колички или ограничена подвижност изберете по-достъпен плаж.",
+      "highlights": [
+        "Естествен скалист бряг с гладки каменни плочи",
+        "Бистра вода за внимателно гмуркане с маска",
+        "Маслинови дървета близо до морето",
+        "Тиха атмосфера без потвърдени удобства",
+        "Различен от Пефкари, близо до Перистерес"
+      ],
+      "seo_title": "Плаж Пефкария, Тасос – достъп, гмуркане и съвети",
+      "seo_description": "Открийте Пефкария до Скала Мариес на Тасос: скалист бряг, чиста вода, маслинови дървета, гмуркане с маска и полезни съвети.",
+      "social_caption": "🌿 Пефкария, Тасос: кристална вода, гладки скали и маслинови дървета почти до морето. 🤿 Тихо място край Скала Мариес за внимателно подводно изследване. #Тасос #Пефкария #Гърция",
+      "photo_alt": "Естественият скалист бряг на Пефкария в западната част на Тасос с прозрачна синьо-зелена вода и дървета до морето."
+    },
+    "sr": {
+      "name": "Plaža Pefkarija",
+      "tagline": "Mirna kamenita obala pod maslinama kod Skala Marijesa",
+      "summary": "Pefkarija je mali prirodni deo zapadne obale Tasosa, severno od Skala Marijesa i blizu plaže Peristeres. Stenovita podloga, bistra voda i drveće blizu obale daju joj divlji karakter, pa je pogodnija za pažljivo ronjenje s maskom nego za udoban porodični dan na uređenoj plaži.",
+      "description": "Na zapadnoj obali Tasosa, malo severnije od Skala Marijesa, nalazi se Pefkarija — miran prirodni deo obale koji lako promakne turistima usmerenim samo na velike uređene plaže. Važno je ne pomešati je sa poznatom plažom Pefkari kod Potosa, na južnoj strani ostrva: Pefkarija se nalazi na drugom mestu, u blizini Peristeresa i Platanesa. Obalom dominiraju glatke kamene ploče, stene i kamenje, dok se manji peščani delovi u turističkim vodičima opisuju različito. Zato ne treba očekivati široku i mekanu peščanu plažu. Masline i drugo nisko rastinje spuštaju se skoro do mora i ponegde daju hlad, ali to ne znači da svuda postoji ravno mesto za peškir. More je često veoma prozirno, a stenovito dno može biti zanimljivo za pažljivo posmatranje podvodnog sveta s maskom kada nema talasa. Ulazak u vodu zahteva oprez: kamen može da bude klizav, a u plićaku se pominju morski ježevi. Dubina nije jednaka svuda, pa Pefkariju ne treba predstavljati kao plažu sa sigurnim i postepenim ulaskom za malu decu. Za ovu konkretnu obalu nisu pouzdano potvrđeni ležaljke, tuševi ili bar na plaži. Upravo zbog takve jednostavnosti mesto deluje mirno i netaknuto. Više će se dopasti samostalnim posetiocima koji vole prirodu, čistu vodu i kratak izlet uz obalu nego onima kojima su važne udobnost i brojne usluge. Glavni put prolazi relativno blizu, ali tačan pešački prilaz i bezbedno parkiranje treba proveriti unapred.",
+      "practical_tips": "Na mapi tražite Pefkariju kod Skala Marijesa, ne Pefkari kod Potosa. Proverite tačnu lokaciju i legalno parking mesto; ne zaustavljajte automobil na nebezbednom delu puta. Obuća za vodu s dobrim đonom važna je zbog klizavih stena i mogućih morskih ježeva. Ronite s maskom samo kada je more mirno, proverite dubinu i ne plivajte sami. Ponesite vodu za piće, zaštitu od sunca, podlogu za kamen i osnovne potrepštine jer usluge na obali nisu potvrđene. Hlad maslina nije svuda dostupan. Za malu decu, kolica ili osobe koje se teže kreću bolji izbor je plaža s lakšim pristupom.",
+      "highlights": [
+        "Prirodna stenovita obala s glatkim kamenim pločama",
+        "Bistra voda i pažljivo ronjenje s maskom",
+        "Masline i zelenilo uz samo more",
+        "Mirna atmosfera bez potvrđenih usluga",
+        "Razlikuje se od Pefkarija kod Potosa; blizu Peristeresa"
+      ],
+      "seo_title": "Plaža Pefkarija Tasos – prilaz, ronjenje i saveti",
+      "seo_description": "Otkrijte Pefkariju blizu Skala Marijesa na Tasosu: kamenita obala, bistro more, masline, ronjenje s maskom i praktični saveti.",
+      "social_caption": "🌿 Pefkarija na Tasosu: bistro more, glatke stene i masline uz obalu. 🤿 Mirno mesto blizu Skala Marijesa za pažljivo ronjenje s maskom i uživanje u prirodi. #Tasos #Pefkarija #Grcka",
+      "photo_alt": "Prirodna stenovita obala Pefkarije na zapadu Tasosa sa bistrom plavozelenom vodom, kamenim pločama i drvećem blizu mora."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/pefkaria/images/pefkaria1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/pefkaria/images/pefkaria2.webp",
+      "destinations/thassos/beaches/pefkaria/images/pefkaria3.webp",
+      "destinations/thassos/beaches/pefkaria/images/pefkaria4.webp",
+      "destinations/thassos/beaches/pefkaria/images/pefkaria5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/pefkaria/images/",
+    "suggested_asset_names": [
+      "pefkaria1.webp",
+      "pefkaria2.webp",
+      "pefkaria3.webp",
+      "pefkaria4.webp",
+      "pefkaria5.webp"
+    ],
+    "image_policy": "Publish only user-provided, owned or appropriately licensed photographs of Pefkaria Beach near Skala Maries, Thassos. Five local image paths were assigned using filenames shown in the user-supplied screenshot. Verify individually that the photos depict this rocky west-coast Pefkaria shoreline, not sandy Pefkari Beach near Potos or another beach; confirm provenance, commercial reuse permissions and any required attribution before publication.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_stay_quiet",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Best Quiet Beaches in Thassos (Pefkaria section)",
+      "url": "https://staythassos.gr/best-quiet-beaches-in-thassos/",
+      "detail": "Pefkaria shown separately, natural rocky shoreline, olive trees reaching water, clear sea, snorkeling, road access; site labels photograph specifically Pefkaria.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_stay_beaches",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — The Complete List of 56 Thassos Beaches",
+      "url": "https://staythassos.gr/thassos-beaches/",
+      "detail": "Distinct Pefkaria entry in same island inventory as Pefkari, Pefkari Camping and Peristeres. Describes predominantly rocks, deep-ish seabed, lack of sand or usual family comfort; numbering in this guide is editorial rather than official.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_stay_offbeaten",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Off the Beaten Path: Pefkaria section",
+      "url": "https://staythassos.gr/thassos-off-the-beaten/",
+      "detail": "West-coast Pefkaria near main road; partly sandy description conflicts with other guides; slippery rock entry and reported urchins, sand farther out, olive/pine shade.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachsearcher",
+      "kind": "regional_beach_directory",
+      "title": "Beaches Searcher — Pefkaria beach, Skala Marion",
+      "url": "https://beaches-searcher.com/en/beach/300207115/pefkaria-beach",
+      "detail": "Labels Pefkaria at Skala Marion, about 1.4 km from village centre; adjacent Peristeres approximately 730 m and Platanes 1 km; rock/sand mix, no facilities, water shoes recommended, parking reported a few hundred metres away. Length estimated at 190 m but not treated as surveyed or official.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachsearcher_ro",
+      "kind": "regional_beach_directory_translation",
+      "title": "Beachsearcher Romanian — Pefkaria beach near Skala Marion",
+      "url": "https://beachsearcher.com/ro/beach/300207115/pefkaria-beach",
+      "detail": "Romanian-language mirror of same beach-directory dataset; not an independent corroborating source. Confirms tourist spelling and lack of organized services.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_stay_azure",
+      "kind": "local_accommodation_guide",
+      "title": "Stay Thassos — Azure Skala Kallirachi",
+      "url": "https://staythassos.gr/azure/",
+      "detail": "Lists quiet Klisma beach and Pefkaria as nearby coastal destinations, supporting west-coast regional identity rather than Pefkari near Potos.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_platanes_apartments",
+      "kind": "third_party_nearby_place_directory",
+      "title": "Platanes Apartments — neighbourhood beaches (Skala Maries)",
+      "url": "https://platanes-apartments.northaegean-hotels.com/",
+      "detail": "Lists Pefkaria as a separate nearby beach from Platanes, Atspas and Skala Maries, with approximate proximity; auto-generated walking times are not treated as verified routes.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_2026",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — 2026 awarded beaches, Thassos",
+      "url": "https://www.blueflag.gr/el/awards/2026",
+      "detail": "Official Thassos 2026 list includes Pefkari 2/Alexandra Beach, not Pefkaria near Skala Maries. Never transfer the Alexandra award to Pefkaria.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_google_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Pefkaria Beach, Skala Maries (name search only)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pefkaria%20Beach%2C%20Skala%20Maries%2C%20Thassos%2C%20Greece",
+      "detail": "Name-based search URL for independent reviewer to confirm pin and safe approach. Does NOT verify coordinates, access path, legal parking or direct beach navigation.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm Google Maps pin, the exact coast entrance and safe/legal road parking; coordinates intentionally null.",
+      "Confirm shoreline identity near Skala Maries and boundary relative to Peristeres and Platanes. Do not merge with Pefkari Beach near Potos.",
+      "Check an authoritative local Greek spelling/signage for Pefkaria; the Greek UI rendering is a transliteration and official_local_name is deliberately null.",
+      "Reconcile guide discrepancy: some Pefkaria descriptions mention tiny sandy areas, others mostly or entirely rocks; do not promise a sandy beach.",
+      "Check actual water entry, rock slipperiness, sea urchins, depth and conditions on the visit date; no lifeguard verified.",
+      "Confirm whether unserviced status still holds for season; do not transfer neighbouring settlement facilities to the beach.",
+      "Verify that pefkaria1.webp–pefkaria5.webp actually depict Pefkaria near Skala Maries (not Pefkari near Potos or another sandy beach), and document provenance, commercial publication/transfer rights and any required attribution.",
+      "Native-speaker proofread of all six languages prior to publication.",
+      "Check for any formal swimming water classification; Blue Flag Pefkari 2/Alexandra Beach is unrelated."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial dataset text supplied; commercial publication and transferable rights for the five locally referenced WebP images have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP image paths were assigned based on filenames visible in the user-provided screenshot; no WebP binaries are embedded in this JSON. Exact geographic identification and image rights have not been independently verified."
+  }
+}

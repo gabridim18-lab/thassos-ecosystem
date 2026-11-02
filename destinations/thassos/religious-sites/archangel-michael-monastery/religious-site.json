@@ -1,0 +1,828 @@
+{
+  "schema_version": "1.0.0",
+  "id": "gr-thassos-religious-site-archangel-michael-monastery",
+  "slug": "archangel-michael-monastery",
+  "record_type": "religious-site",
+  "destination_id": "gr-thassos",
+  "category": "religious-sites",
+  "subcategory": "monastery",
+  "display_category": {
+    "ro": "Lăcașuri de cult & Așezăminte monahale",
+    "en": "Sacred Places & Monasteries",
+    "el": "Ιεροί Χώροι & Μονές",
+    "de": "Sakrale Orte & Klöster",
+    "bg": "Свещени места и манастири",
+    "sr": "Verski lokaliteti i manastiri"
+  },
+  "name": {
+    "default": "Holy Monastery of Archangel Michael",
+    "ro": "Mănăstirea Arhanghelului Mihail",
+    "en": "Holy Monastery of Archangel Michael",
+    "el": "Ιερά Μονή Αρχαγγέλου Μιχαήλ Θάσου",
+    "de": "Kloster des Erzengels Michael",
+    "bg": "Манастир „Свети Архангел Михаил“",
+    "sr": "Manastir Svetog arhangela Mihaila"
+  },
+  "alternative_names": [
+    "Moni Archangelou",
+    "Monastery of Archangel Michael",
+    "Holy Monastery of Archangel Michael of Thassos",
+    "Ιερά Μονή Αρχαγγέλου Μιχαήλ",
+    "Monastery of Taxiarchis Michael"
+  ],
+  "classification": {
+    "religious_site_type": "orthodox_convent",
+    "tradition": "Eastern Orthodox Christianity",
+    "dedication": "Archangel Michael",
+    "operating_status": "active_monastic_community",
+    "is_female_monastery": true,
+    "athos_affiliation": "Dependency (metochion) of Philotheou Monastery, Mount Athos",
+    "is_part_of_heritage_catalog": false,
+    "is_part_of_attractions_catalog": false,
+    "tags": [
+      "monastery",
+      "orthodox",
+      "pilgrimage",
+      "religious-heritage",
+      "mount-athos-connection",
+      "sea-view",
+      "southeast-thassos"
+    ]
+  },
+  "location": {
+    "country": "Greece",
+    "country_code": "GR",
+    "region": "East Macedonia and Thrace",
+    "island": "Thassos",
+    "municipality": "Thasos",
+    "coast": "southeast",
+    "area_slug": "alyki",
+    "area_id": "gr-thassos-area-alyki",
+    "area_name": "Alyki / Aliki",
+    "lat": 40.59707,
+    "lng": 24.7017,
+    "coordinate_role": "monastery_site_reference_point_not_confirmed_visitor_entrance",
+    "coordinate_source": "OpenStreetMap mapped monastery grounds via Mapcarta / Cultural OS",
+    "coordinate_source_url": "https://mapcarta.com/13819166",
+    "coordinate_verification_status": "public_map_verified_not_on_site",
+    "coordinates_verified_on": "2026-10-28",
+    "navigation_point": null,
+    "parking_point": null,
+    "entrance_point": null,
+    "nearby_area_slugs": [
+      "alyki",
+      "astris"
+    ],
+    "nearby_beach_slugs": [
+      "livadi",
+      "thimonia"
+    ],
+    "geographic_notes": "A monastery on the southeastern coastal cliff near Alyki. The map coordinate represents the site; do not represent it as a verified entrance or parking pin."
+  },
+  "overview": {
+    "setting": "clifftop_aegean_coast",
+    "monastic_community": "Greek Orthodox convent",
+    "still_active": true,
+    "primary_appeal": [
+      "orthodox_spirituality",
+      "pilgrimage",
+      "religious_history",
+      "architecture",
+      "aegean_views"
+    ],
+    "visit_character": "active_sacred_site_not_amusement_attraction",
+    "best_visiting_conditions": "Daylight during official visiting hours, outside services or quiet times when possible"
+  },
+  "history_and_faith": {
+    "historical_origin_summary": "The monastery describes Byzantine-period origins connected to the hermit Loukas and a sacred spring. Sources disagree on 1090 versus 1110 for the earliest chapel.",
+    "early_chapel_year_confirmed": null,
+    "early_chapel_year_reported_by_sources": [
+      1090,
+      1110
+    ],
+    "dating_caveat": "1090 appears on the monastery site, while Visit Kavala and the regional tourism guide mention 1110. Treat the date as disputed.",
+    "modern_revival_year": 1974,
+    "athos_dependency": "Philotheou Monastery, Mount Athos",
+    "holy_nail_relic": "A relic venerated as a fragment of the Holy Nail from the Crucifixion, according to the monastery’s Orthodox tradition.",
+    "holy_spring": "A spring associated with the hermit Loukas and a cave below the monastery, described in monastic tradition.",
+    "belief_factuality_policy": "Distinguish claims of miracles, relic provenance and visions as elements of Orthodox religious tradition, not independently established archaeological facts.",
+    "feast_days": [
+      "Archangel Michael – 8 November (liturgical/calendar context must be checked with the monastery)",
+      "Bright Tuesday (Tuesday after Orthodox Easter; date changes annually)"
+    ],
+    "liturgical_calendar_note": "The monastery states that it follows the old calendar associated with Mount Athos; verify actual service dates before publishing event schedules."
+  },
+  "visitor_experience": {
+    "best_for": [
+      "pilgrimage",
+      "quiet_reflection",
+      "religious_culture",
+      "architecture",
+      "coastal_panorama"
+    ],
+    "experiences": [
+      "respectful_visit_to_a_living_convent",
+      "views_of_the_aegean",
+      "learning_about_orthodox_monastic_tradition"
+    ],
+    "suggested_visit_duration_minutes": 35,
+    "duration_is_estimate_not_official": true,
+    "family_suitability": "Families may visit if children are supervised and monastery rules are followed.",
+    "mobility_access": "Unverified for wheelchair and step-free access.",
+    "is_guided_tour_available": null,
+    "viewpoint_warning": "Stay within permitted areas and well away from unsecured cliff edges.",
+    "quiet_and_conduct": "Respect prayers, services, private monastery areas and other visitors; ask permission for photography."
+  },
+  "practical_info": {
+    "road_access": "Approach via the coastal road on southeastern Thassos near Alyki; check local signs and current road conditions.",
+    "parking_overview": "Parking options are reported in travel guides, but no verified dedicated parking coordinate is provided here.",
+    "public_transport": "Do not assume a convenient bus stop or timetable; verify current transport before departure.",
+    "entrance_fee": null,
+    "entrance_fee_note": "Some tourism guides describe free admission; verify any present-day conditions directly with the monastery.",
+    "opening_hours": {
+      "source": "monastery_official_website",
+      "summer": [
+        {
+          "open": "08:30",
+          "close": "14:00"
+        },
+        {
+          "open": "16:00",
+          "close": "19:15"
+        }
+      ],
+      "winter": [
+        {
+          "open": "08:30",
+          "close": "14:00"
+        },
+        {
+          "open": "16:00",
+          "close": "sunset"
+        }
+      ],
+      "season_transition_dates": null,
+      "timezone": "Europe/Athens",
+      "checked_on": "2026-10-28",
+      "verification_note": "Hours are as published on the official monastery site. Seasonal definitions, services, closures and special feast-day rules require a fresh check before travel."
+    },
+    "dress_code": {
+      "required": true,
+      "men": "long_trousers_and_modest_top",
+      "women": "long_skirt_and_sleeved_modest_top",
+      "not_allowed": [
+        "shorts",
+        "sleeveless_tops",
+        "trousers_for_women_according_to_official_monastery_policy"
+      ],
+      "loan_clothes_at_entrance": "sometimes_reported_not_guaranteed",
+      "official_policy_url": "https://www.archangelmichaelthasos.com/en/eat"
+    },
+    "photography": "Ask for permission before photographing, especially inside sacred spaces; drone permissions not established.",
+    "facilities": {
+      "toilets": null,
+      "drinking_water": null,
+      "accessible_toilets": null,
+      "wheelchair_access": null,
+      "parking_verified": false
+    },
+    "visitor_safety_notes": [
+      "cliff_edge_hazard",
+      "dress_code_required",
+      "sacred_site_respect",
+      "do_not_assume_access_to_holy_spring"
+    ],
+    "practical_data_review_required": true
+  },
+  "related_places": {
+    "area_slug": "alyki",
+    "area_id": "gr-thassos-area-alyki",
+    "nearby_area_slugs": [
+      "alyki",
+      "astris"
+    ],
+    "nearby_area_ids": [
+      "gr-thassos-area-alyki",
+      "gr-thassos-area-astris"
+    ],
+    "nearby_beach_slugs": [
+      "livadi",
+      "thimonia"
+    ],
+    "nearby_beach_ids": [
+      "gr-thassos-beach-livadi",
+      "gr-thassos-beach-thimonia"
+    ],
+    "nearby_heritage_slugs": [],
+    "nearby_attraction_slugs": [],
+    "nearby_religious_site_slugs": [],
+    "link_policy": "Existing beach and area record slugs/IDs only; association is geographic, not a claim of monastery access to a beach. No invented Arsanas beach identifier."
+  },
+  "media": {
+    "cover": "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery1.webp",
+    "gallery": [
+      "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery2.webp",
+      "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery3.webp",
+      "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery4.webp",
+      "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery5.webp"
+    ],
+    "expected_folder": "destinations/thassos/religious-sites/archangel-michael-monastery/images/",
+    "suggested_asset_names": [
+      "archangel-michael-monastery1.webp",
+      "archangel-michael-monastery2.webp",
+      "archangel-michael-monastery3.webp",
+      "archangel-michael-monastery4.webp",
+      "archangel-michael-monastery5.webp"
+    ],
+    "image_count": 5,
+    "image_policy": "Photos must depict the actual monastery and have rights for website AND commercial/social MP4 production; no third-party images are included.",
+    "image_roles": [
+      "hero_clifftop",
+      "architecture",
+      "courtyard",
+      "monastery_detail",
+      "sea_panorama"
+    ],
+    "images": [
+      {
+        "file": "archangel-michael-monastery1.webp",
+        "path": "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery1.webp",
+        "role": "cover",
+        "suggested_content": "Panoramic exterior view showing the monastery perched above the sea",
+        "alt": {
+          "ro": "Mănăstirea Arhanghelului Mihail deasupra Mării Egee",
+          "en": "Archangel Michael Monastery above the Aegean Sea",
+          "el": "Η Μονή Αρχαγγέλου Μιχαήλ πάνω από το Αιγαίο",
+          "de": "Kloster Erzengel Michael über der Ägäis",
+          "bg": "Манастирът „Свети Архангел Михаил“ над Егейско море",
+          "sr": "Manastir Svetog arhangela Mihaila iznad Egejskog mora"
+        },
+        "alt_is_provisional_until_photo_review": true,
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "rights_cleared": false,
+        "photographer": null,
+        "credit_line": null
+      },
+      {
+        "file": "archangel-michael-monastery2.webp",
+        "path": "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery2.webp",
+        "role": "gallery",
+        "suggested_content": "Monastery exterior and traditional architectural details",
+        "alt": {
+          "ro": "Arhitectura Mănăstirii Arhanghelului Mihail din Thassos",
+          "en": "Architectural details of Archangel Michael Monastery, Thassos",
+          "el": "Αρχιτεκτονικές λεπτομέρειες της Μονής Αρχαγγέλου Μιχαήλ",
+          "de": "Architektur des Klosters Erzengel Michael auf Thassos",
+          "bg": "Архитектурата на манастира „Свети Архангел Михаил“",
+          "sr": "Arhitektura Manastira Svetog arhangela Mihaila"
+        },
+        "alt_is_provisional_until_photo_review": true,
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "rights_cleared": false,
+        "photographer": null,
+        "credit_line": null
+      },
+      {
+        "file": "archangel-michael-monastery3.webp",
+        "path": "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery3.webp",
+        "role": "gallery",
+        "suggested_content": "Courtyard or entrance, photographed only where permitted",
+        "alt": {
+          "ro": "Curtea sau intrarea Mănăstirii Arhanghelului Mihail",
+          "en": "Courtyard or entrance of Archangel Michael Monastery",
+          "el": "Αυλή ή είσοδος της Μονής Αρχαγγέλου Μιχαήλ",
+          "de": "Klosterhof oder Eingang des Klosters Erzengel Michael",
+          "bg": "Дворът или входът на манастира „Свети Архангел Михаил“",
+          "sr": "Dvorište ili ulaz Manastira Svetog arhangela Mihaila"
+        },
+        "alt_is_provisional_until_photo_review": true,
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "rights_cleared": false,
+        "photographer": null,
+        "credit_line": null
+      },
+      {
+        "file": "archangel-michael-monastery4.webp",
+        "path": "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery4.webp",
+        "role": "gallery",
+        "suggested_content": "Exterior chapel or monastery architectural detail, without photographing worshippers without consent",
+        "alt": {
+          "ro": "Detaliu arhitectural al mănăstirii din Thassos",
+          "en": "Monastery architecture on Thassos",
+          "el": "Αρχιτεκτονική λεπτομέρεια της μονής στη Θάσο",
+          "de": "Architekturdetail des Klosters auf Thassos",
+          "bg": "Архитектурен детайл на манастира на Тасос",
+          "sr": "Arhitektonski detalj manastira na Tasosu"
+        },
+        "alt_is_provisional_until_photo_review": true,
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "rights_cleared": false,
+        "photographer": null,
+        "credit_line": null
+      },
+      {
+        "file": "archangel-michael-monastery5.webp",
+        "path": "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery5.webp",
+        "role": "gallery",
+        "suggested_content": "Aegean panorama or carefully composed exterior view for closing scene",
+        "alt": {
+          "ro": "Panorama Mării Egee văzută de la Mănăstirea Arhanghelului Mihail",
+          "en": "Aegean sea view from Archangel Michael Monastery",
+          "el": "Θέα στο Αιγαίο από τη Μονή Αρχαγγέλου Μιχαήλ",
+          "de": "Ägäisblick vom Kloster Erzengel Michael",
+          "bg": "Гледка към Егейско море от манастира",
+          "sr": "Pogled na Egejsko more iz manastira"
+        },
+        "alt_is_provisional_until_photo_review": true,
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "rights_cleared": false,
+        "photographer": null,
+        "credit_line": null
+      }
+    ]
+  },
+  "translations": {
+    "ro": {
+      "name": "Mănăstirea Arhanghelului Mihail",
+      "tagline": "Un loc de liniște și credință, deasupra Mării Egee.",
+      "summary": "Pe o stâncă spectaculoasă de pe coasta sud-estică a Thassosului, Mănăstirea Arhanghelului Mihail îmbină viața monahală ortodoxă, tradiția de pelerinaj și o panoramă memorabilă spre Marea Egee.",
+      "description": "Mănăstirea Arhanghelului Mihail se află pe marginea unei faleze înalte, într-unul dintre cele mai impresionante peisaje de pe coasta sud-estică a insulei Thassos. Clădirile luminoase, curtea mănăstirii și orizontul Mării Egee creează o atmosferă aparte, dar locul este în primul rând un așezământ religios activ, nu un simplu punct panoramic. Este o mănăstire de maici, aflată în legătură spirituală și administrativă cu Mănăstirea Filotheu de la Muntele Athos. Tradiția monahală vorbește despre sihastrul Luca, despre un mic paraclis ridicat în epoca bizantină și despre un izvor cu apă considerată sfințită. În mănăstire este cinstită o relicvă cunoscută ca fragment al Sfântului Cui, asociată în tradiția ortodoxă cu Răstignirea lui Hristos. Pentru turiști, vizita poate fi un moment de reculegere și o ocazie de a descoperi spiritualitatea insulei, alături de priveliștea dramatică a țărmului. Se recomandă ținută decentă, liniște și respectarea regulilor comunității.",
+      "history_and_tradition": "Conform istoriei prezentate de mănăstire, originile sale sunt legate de sihastrul Luca și de un izvor sfânt din epoca bizantină. Diferite surse indică anii 1090 sau 1110 pentru primul paraclis, motiv pentru care data exactă nu este tratată drept certitudine. Mănăstirea este metoc al Mănăstirii Filotheu de la Muntele Athos. Viața comunității de maici a fost reînnoită în 1974, când au început lucrări ample de refacere. Relatările despre minunile izvorului și ale relicvei reprezintă tradiții de credință, nu fapte istorice demonstrate independent.",
+      "religious_significance": "Lăcaș ortodox activ, cu viață monahală feminină și tradiție de pelerinaj. Este cunoscut pentru cinstirea Arhanghelului Mihail și a relicvei numite Sfântul Cui. Respectați caracterul sacru al locului.",
+      "what_to_see": "Arhitectura și curtea mănăstirii, priveliștile spre Marea Egee și spațiile la care comunitatea permite accesul. Vizitarea lăcașului și a relicvelor se face potrivit regulilor mănăstirii; nu presupuneți că toate încăperile sau zona izvorului sunt deschise publicului.",
+      "practical_tips": "Mănăstirea este accesibilă din drumul de coastă din sud-estul Thassosului, în apropierea zonei Alyki. Verificați programul oficial înainte de plecare. Bărbații trebuie să poarte pantaloni lungi, iar femeile fuste lungi și bluze cu mâneci, potrivit regulilor publicate de mănăstire. Îmbrăcăminte suplimentară poate fi oferită la intrare, dar nu este garantată. Nu utilizați camere sau drone fără permisiune și nu vă apropiați de marginea falezei în afara zonelor sigure.",
+      "dress_code": "Bărbați: pantaloni lungi; femei: fustă lungă și bluză cu mâneci. Pantalonii scurți și hainele fără mâneci nu sunt acceptate; regulile oficiale precizează că femeile nu intră în pantaloni.",
+      "accessibility_note": "Accesul fără trepte, adaptarea pentru scaun rulant și parcarea dedicată nu au fost confirmate. Verificați condițiile direct cu mănăstirea înainte de vizită.",
+      "highlights": [
+        "Mănăstire de maici activă",
+        "Vedere spectaculoasă asupra Mării Egee",
+        "Legătură cu Muntele Athos",
+        "Tradiția Sfântului Cui",
+        "Oprire spirituală lângă Alyki"
+      ],
+      "seo_title": "Mănăstirea Arhanghelului Mihail, Thassos – Istorie și vizitare",
+      "seo_description": "Descoperă Mănăstirea Arhanghelului Mihail de lângă Alyki, Thassos: istorie monahală, panoramă spre mare, reguli vestimentare și informații de vizitare.",
+      "social_caption": "Între cer și Marea Egee, Mănăstirea Arhanghelului Mihail îți arată o altă față a Thassosului: liniște, tradiție și peisaje impresionante. Vizitează cu respect."
+    },
+    "en": {
+      "name": "Holy Monastery of Archangel Michael",
+      "tagline": "A place of faith and stillness above the Aegean Sea.",
+      "summary": "On a striking cliff on the southeastern coast of Thassos, the Holy Monastery of Archangel Michael combines active Orthodox monastic life, pilgrimage traditions and sweeping Aegean views.",
+      "description": "The Holy Monastery of Archangel Michael stands at the edge of a dramatic cliff on the southeastern coast of Thassos. Its bright buildings, monastery courtyard and wide views across the Aegean create an extraordinary setting. Yet this is first and foremost a living Orthodox convent, not simply a scenic lookout. The monastery maintains a spiritual and administrative connection with the Philotheou Monastery on Mount Athos. Monastic tradition tells of the hermit Loukas, an early Byzantine chapel and a spring regarded as holy. The community also venerates a relic known as a fragment of the Holy Nail, associated in Orthodox belief with the Crucifixion of Christ. For visitors, the monastery offers a chance to experience a quieter, more contemplative side of the island while appreciating its remarkable coastal landscape. Modest dress, quiet behaviour and respect for the nuns and worshippers are essential.",
+      "history_and_tradition": "According to the monastery’s own account, its origins are linked to the hermit Loukas and a holy spring in Byzantine times. Sources differ on the date of the first chapel, giving 1090 or 1110, so no single foundation year is asserted as certain. The convent is a dependency of Philotheou Monastery on Mount Athos. A sisterhood revived monastic life here in 1974 and undertook extensive restoration. Accounts of miracles associated with the spring and the Holy Nail are presented as religious tradition rather than independently established historical events.",
+      "religious_significance": "An active Greek Orthodox convent and pilgrimage site, dedicated to Archangel Michael and associated with the veneration of a relic known as the Holy Nail. Visitors should respect its sacred purpose.",
+      "what_to_see": "The monastery architecture and courtyard, panoramic Aegean views and those areas the community opens to visitors. Access to chapels, relics and the holy spring is subject to monastery rules; do not assume every area is open.",
+      "practical_tips": "Reach the monastery from the southeastern coastal road near Alyki. Check the official visiting hours before travelling. The published dress code requires long trousers for men and long skirts with sleeved tops for women. Spare garments may be offered at the entrance but are not guaranteed. Ask before taking photographs or using drones, and keep to safe viewing areas away from cliff edges.",
+      "dress_code": "Men: long trousers. Women: long skirts and sleeved tops. Shorts and sleeveless garments are not allowed; the official monastery rules say women may not enter wearing trousers.",
+      "accessibility_note": "Step-free access, wheelchair facilities and a dedicated accessible parking point have not been verified. Confirm arrangements with the monastery before visiting.",
+      "highlights": [
+        "Active Orthodox convent",
+        "Clifftop Aegean panorama",
+        "Connection with Mount Athos",
+        "Tradition of the Holy Nail",
+        "Spiritual stop near Alyki"
+      ],
+      "seo_title": "Archangel Michael Monastery, Thassos – History & Visiting Tips",
+      "seo_description": "Visit Archangel Michael Monastery near Alyki, Thassos. Discover its history, clifftop views, visitor dress code and practical information.",
+      "social_caption": "Above the Aegean cliffs, Archangel Michael Monastery reveals a quieter side of Thassos: faith, heritage and unforgettable sea views. Visit respectfully."
+    },
+    "el": {
+      "name": "Ιερά Μονή Αρχαγγέλου Μιχαήλ Θάσου",
+      "tagline": "Ένας τόπος πίστης και γαλήνης πάνω από το Αιγαίο.",
+      "summary": "Στην άκρη ενός εντυπωσιακού βράχου στη νοτιοανατολική Θάσο, η Ιερά Μονή Αρχαγγέλου Μιχαήλ συνδυάζει την ορθόδοξη μοναστική ζωή, την προσκυνηματική παράδοση και τη μαγευτική θέα στο Αιγαίο.",
+      "description": "Η Ιερά Μονή Αρχαγγέλου Μιχαήλ βρίσκεται στην άκρη απόκρημνου βράχου στη νοτιοανατολική ακτή της Θάσου. Τα φωτεινά κτίρια, η αυλή της μονής και η θέα προς το Αιγαίο δημιουργούν ένα ιδιαίτερο τοπίο. Πάνω απ’ όλα όμως πρόκειται για ενεργό γυναικείο μοναστήρι και όχι απλώς για ένα σημείο θέας. Η μονή διατηρεί πνευματικό και διοικητικό δεσμό με την Ιερά Μονή Φιλοθέου του Αγίου Όρους. Σύμφωνα με τη μοναστηριακή παράδοση, η ιστορία του τόπου συνδέεται με τον ασκητή Λουκά, ένα παλαιό παρεκκλήσι και πηγή αγιάσματος. Στη μονή τιμάται επίσης κειμήλιο που θεωρείται τεμάχιο του Τιμίου Ήλου της Σταύρωσης. Οι επισκέπτες μπορούν να γνωρίσουν την πνευματική πλευρά του νησιού και να απολαύσουν το παράκτιο τοπίο, τηρώντας πάντοτε την απαιτούμενη ευπρεπή ενδυμασία, ησυχία και σεβασμό.",
+      "history_and_tradition": "Η ίδια η μονή συνδέει την απαρχή της με τον ασκητή Λουκά και την παράδοση της ιερής πηγής κατά τους βυζαντινούς χρόνους. Οι αναφορές για το πρώτο παρεκκλήσι διαφέρουν ανάμεσα στο 1090 και στο 1110, επομένως δεν παρουσιάζεται μία χρονολογία ως αδιαμφισβήτητη. Η μονή είναι μετόχι της Μονής Φιλοθέου του Αγίου Όρους. Το 1974 εγκαταστάθηκε αδελφότητα μοναχών και ξεκίνησε η ανακαίνιση του χώρου. Οι διηγήσεις θαυμάτων παρουσιάζονται ως στοιχεία της θρησκευτικής παράδοσης.",
+      "religious_significance": "Ενεργή ορθόδοξη γυναικεία μονή και τόπος προσκυνήματος, αφιερωμένος στον Αρχάγγελο Μιχαήλ, με ιδιαίτερη τιμή προς το κειμήλιο του Τιμίου Ήλου.",
+      "what_to_see": "Την αρχιτεκτονική, την αυλή και τη θέα προς το Αιγαίο, καθώς και τους χώρους που επιτρέπει να επισκεφθεί η μοναστική κοινότητα. Η πρόσβαση στο αγίασμα και στα ιερά κειμήλια εξαρτάται από τους κανόνες της μονής.",
+      "practical_tips": "Η πρόσβαση γίνεται από τον παραλιακό δρόμο της νοτιοανατολικής Θάσου, κοντά στην Αλυκή. Ελέγξτε προηγουμένως το επίσημο ωράριο. Οι άνδρες χρειάζονται μακρύ παντελόνι και οι γυναίκες μακριά φούστα με μπλούζα που έχει μανίκια, όπως ορίζει η μονή. Ρούχα ενδέχεται να δίνονται στην είσοδο, χωρίς εγγύηση διαθεσιμότητας. Ζητήστε άδεια για φωτογράφιση και αποφύγετε τις επικίνδυνες άκρες των βράχων.",
+      "dress_code": "Άνδρες: μακρύ παντελόνι. Γυναίκες: μακριά φούστα και μπλούζα με μανίκια. Δεν επιτρέπονται σορτς και αμάνικα· σύμφωνα με τους επίσημους κανόνες, οι γυναίκες δεν εισέρχονται με παντελόνι.",
+      "accessibility_note": "Δεν έχουν επιβεβαιωθεί προσβάσεις χωρίς σκαλοπάτια, υποδομές για αμαξίδια ή συγκεκριμένη προσβάσιμη θέση στάθμευσης.",
+      "highlights": [
+        "Ενεργή γυναικεία μονή",
+        "Πανοραμική θέα στο Αιγαίο",
+        "Σύνδεση με το Άγιο Όρος",
+        "Παράδοση του Τιμίου Ήλου",
+        "Πνευματική στάση κοντά στην Αλυκή"
+      ],
+      "seo_title": "Ιερά Μονή Αρχαγγέλου Μιχαήλ, Θάσος – Ιστορία και επίσκεψη",
+      "seo_description": "Γνωρίστε τη Μονή Αρχαγγέλου Μιχαήλ κοντά στην Αλυκή Θάσου: ιστορία, θέα στο Αιγαίο, ενδυματολογικούς κανόνες και πρακτικές πληροφορίες.",
+      "social_caption": "Ψηλά πάνω από το Αιγαίο, η Μονή Αρχαγγέλου Μιχαήλ αποκαλύπτει την πνευματική πλευρά της Θάσου, με παράδοση και μοναδική θέα. Επισκεφθείτε τη με σεβασμό."
+    },
+    "de": {
+      "name": "Kloster des Erzengels Michael",
+      "tagline": "Ein Ort des Glaubens und der Stille hoch über der Ägäis.",
+      "summary": "Auf einer eindrucksvollen Klippe im Südosten von Thassos vereint das Kloster des Erzengels Michael lebendiges orthodoxes Klosterleben, Pilgertraditionen und weite Ausblicke auf die Ägäis.",
+      "description": "Das Kloster des Erzengels Michael liegt am Rand einer steilen Klippe an der südöstlichen Küste von Thassos. Seine hellen Gebäude, der Klosterhof und der Blick über das Ägäische Meer schaffen eine besondere Atmosphäre. Vor allem ist es jedoch ein aktives orthodoxes Frauenkloster und nicht nur ein Aussichtspunkt. Das Kloster ist geistlich und organisatorisch mit dem Kloster Philotheou auf dem Berg Athos verbunden. Der klösterlichen Überlieferung nach gehen die Anfänge auf den Einsiedler Loukas, eine byzantinische Kapelle und eine als heilig verehrte Quelle zurück. Zudem wird hier ein Reliquienfragment verehrt, das nach orthodoxer Tradition vom Heiligen Nagel der Kreuzigung Christi stammt. Reisende können eine stille, spirituelle Seite der Insel entdecken und zugleich die außergewöhnliche Küstenlandschaft bewundern. Angemessene Kleidung und Rücksicht auf die Nonnen und Gläubigen sind unerlässlich.",
+      "history_and_tradition": "Nach der Überlieferung des Klosters ist seine Geschichte mit dem Einsiedler Loukas und einer heiligen Quelle aus byzantinischer Zeit verbunden. Die Angaben zum Bau der ersten Kapelle schwanken zwischen 1090 und 1110; ein genaues Gründungsjahr wird deshalb nicht als gesichert dargestellt. Das Frauenkloster ist ein Metochion des Klosters Philotheou auf dem Athos. 1974 wurde das klösterliche Leben durch eine Schwesternschaft erneuert, die umfangreiche Restaurierungen begann. Wunderberichte werden als Glaubensüberlieferung und nicht als unabhängig belegte historische Tatsachen behandelt.",
+      "religious_significance": "Aktives griechisch-orthodoxes Frauenkloster und Wallfahrtsort, dem Erzengel Michael gewidmet und mit der Verehrung der Reliquie des Heiligen Nagels verbunden.",
+      "what_to_see": "Klostergebäude, Hof und Aussicht über die Ägäis sowie die für Besucher freigegebenen Bereiche. Der Zugang zu Kapellen, Reliquien und der Quelle richtet sich nach den Regeln des Klosters.",
+      "practical_tips": "Die Zufahrt erfolgt über die Küstenstraße im Südosten der Insel nahe Alyki. Prüfen Sie vorab die offiziellen Besuchszeiten. Männer benötigen lange Hosen, Frauen lange Röcke und Oberteile mit Ärmeln. Zusätzliche Kleidungsstücke werden gelegentlich am Eingang angeboten, sind aber nicht garantiert. Vor Fotoaufnahmen um Erlaubnis bitten und Abstand von ungesicherten Klippen halten.",
+      "dress_code": "Männer: lange Hosen. Frauen: lange Röcke und Oberteile mit Ärmeln. Shorts und ärmellose Kleidung sind nicht erlaubt; laut offiziellen Regeln dürfen Frauen nicht in Hosen eintreten.",
+      "accessibility_note": "Stufenfreier Zugang, Rollstuhl-Einrichtungen und ein spezieller barrierefreier Parkplatz konnten nicht bestätigt werden.",
+      "highlights": [
+        "Aktives orthodoxes Frauenkloster",
+        "Ägäis-Panorama von der Klippe",
+        "Verbindung zum Berg Athos",
+        "Überlieferung des Heiligen Nagels",
+        "Spiritueller Halt nahe Alyki"
+      ],
+      "seo_title": "Kloster Erzengel Michael, Thassos – Geschichte & Besuch",
+      "seo_description": "Entdecken Sie das Kloster des Erzengels Michael bei Alyki auf Thassos: Geschichte, Aussicht, Kleiderordnung und praktische Besuchstipps.",
+      "social_caption": "Hoch über den Klippen der Ägäis zeigt das Kloster des Erzengels Michael eine stille Seite von Thassos – mit Glauben, Geschichte und Meerblick. Bitte respektvoll besuchen."
+    },
+    "bg": {
+      "name": "Манастир „Свети Архангел Михаил“",
+      "tagline": "Място на вяра и спокойствие високо над Егейско море.",
+      "summary": "На впечатляваща скала по югоизточното крайбрежие на Тасос манастирът „Свети Архангел Михаил“ съчетава действащ православен монашески живот, поклоннически традиции и прекрасна гледка към Егейско море.",
+      "description": "Манастирът „Свети Архангел Михаил“ се намира на ръба на стръмна скала на югоизточния бряг на Тасос. Светлите сгради, манастирският двор и широката морска панорама създават незабравима атмосфера. Преди всичко обаче това е действащ православен женски манастир, а не просто туристическа панорамна площадка. Обителта е духовно и административно свързана с манастира Филотей на Света гора Атон. Според монашеското предание историята ѝ започва с отшелника Лука, ранновизантийски параклис и извор, почитан като свещен. В манастира се съхранява и почита реликва, считана според православната традиция за частица от Светия гвоздей на Христовото разпятие. Посещението дава възможност да се открие по-тихата, духовна страна на острова и красивият крайбрежен пейзаж. Нужно е скромно облекло и уважение към монахините и богомолците.",
+      "history_and_tradition": "Според разказа на манастира началото му е свързано с отшелника Лука и свещен извор от византийската епоха. Източниците посочват 1090 или 1110 година за първия параклис, затова точната дата не се представя като безспорно установена. Обителта е зависима от манастира Филотей на Атон. През 1974 г. сестринство възстановява монашеския живот и започва голямо обновяване. Разказите за чудеса са част от религиозната традиция, а не независимо доказани исторически събития.",
+      "religious_significance": "Действащ православен женски манастир и място за поклонение, посветено на Архангел Михаил и свързано с почитането на реликвата на Светия гвоздей.",
+      "what_to_see": "Манастирската архитектура, дворът, гледките към Егейско море и помещенията, които общността допуска да бъдат посещавани. Достъпът до светините и извора се определя от правилата на манастира.",
+      "practical_tips": "Манастирът се достига по крайбрежния път в югоизточната част на Тасос, близо до Алики. Проверете официалното работно време. Мъжете трябва да са с дълги панталони, а жените с дълги поли и блузи с ръкави. На входа понякога се предоставят допълнителни дрехи, но това не е гарантирано. Поискайте разрешение за снимки и стойте далеч от необезопасени скални ръбове.",
+      "dress_code": "Мъже: дълги панталони. Жени: дълги поли и блузи с ръкави. Шорти и дрехи без ръкави не се допускат; според официалните правила жените не могат да влизат с панталони.",
+      "accessibility_note": "Не са потвърдени безстъпален достъп, условия за инвалидни колички и специално достъпно място за паркиране.",
+      "highlights": [
+        "Действащ женски манастир",
+        "Панорама към Егейско море",
+        "Връзка със Света гора Атон",
+        "Предание за Светия гвоздей",
+        "Духовна спирка край Алики"
+      ],
+      "seo_title": "Манастир „Свети Архангел Михаил“, Тасос – История и посещение",
+      "seo_description": "Открийте манастира „Свети Архангел Михаил“ край Алики, Тасос: история, морска панорама, правила за облекло и съвети за посещение.",
+      "social_caption": "Високо над Егейско море манастирът „Свети Архангел Михаил“ разкрива тихата и духовна страна на Тасос. Посетете го с уважение към монашеския живот."
+    },
+    "sr": {
+      "name": "Manastir Svetog arhangela Mihaila",
+      "tagline": "Mesto vere i tišine visoko iznad Egejskog mora.",
+      "summary": "Na upečatljivoj litici jugoistočne obale Tasosa, Manastir Svetog arhangela Mihaila spaja aktivan pravoslavni monaški život, pokloničku tradiciju i širok pogled na Egejsko more.",
+      "description": "Manastir Svetog arhangela Mihaila nalazi se na ivici strme litice na jugoistočnoj obali Tasosa. Svetle manastirske zgrade, dvorište i otvoren pogled na Egejsko more stvaraju posebnu atmosferu. Ipak, ovo je pre svega aktivan pravoslavni ženski manastir, a ne samo vidikovac. Manastir je duhovno i administrativno povezan sa manastirom Filotej na Svetoj Gori Atos. Prema manastirskom predanju, počeci mesta vezuju se za pustinjaka Luku, staru vizantijsku kapelu i izvor koji vernici smatraju svetim. Ovde se poštuje i relikvija za koju pravoslavna tradicija kaže da je deo Svetog klina sa Hristovog raspeća. Posetioci mogu da upoznaju mirniju i duhovnu stranu ostrva, uz pogled na impresivnu morsku obalu. Potrebni su prikladna odeća, tišina i poštovanje prema monahinjama i vernicima.",
+      "history_and_tradition": "Prema zvaničnom manastirskom predanju, poreklo svetinje povezano je sa pustinjakom Lukom i svetim izvorom iz vizantijskog vremena. Izvori navode 1090. ili 1110. godinu za prvu kapelu, pa se tačna godina ne predstavlja kao pouzdano potvrđena. Ženski manastir je metoh manastira Filotej na Svetoj Gori. Godine 1974. obnovljen je monaški život, a sestrinstvo je započelo opsežnu obnovu. Priče o čudima predstavljaju se kao versko predanje, a ne kao nezavisno dokazane istorijske činjenice.",
+      "religious_significance": "Aktivan pravoslavni ženski manastir i pokloničko mesto posvećeno Arhangelu Mihailu, povezano sa poštovanjem relikvije poznate kao Sveti klin.",
+      "what_to_see": "Manastirsku arhitekturu, dvorište, pogled na Egejsko more i prostore koje zajednica otvara posetiocima. Pristup kapelama, relikvijama i izvoru zavisi od pravila manastira.",
+      "practical_tips": "Do manastira se stiže obalnim putem na jugoistoku Tasosa, blizu Alikija. Pre puta proverite zvanično radno vreme. Muškarci treba da nose duge pantalone, a žene duge suknje i bluze sa rukavima. Na ulazu se ponekad daje dodatna odeća, ali to nije zagarantovano. Za fotografisanje tražite dozvolu i ne prilazite neobezbeđenim ivicama litice.",
+      "dress_code": "Muškarci: duge pantalone. Žene: duge suknje i bluze sa rukavima. Šorts i odeća bez rukava nisu dozvoljeni; prema zvaničnim pravilima, ženama nije dozvoljen ulazak u pantalonama.",
+      "accessibility_note": "Pristup bez stepenica, uslovi za invalidska kolica i posebno pristupačno parking mesto nisu potvrđeni.",
+      "highlights": [
+        "Aktivan ženski manastir",
+        "Pogled sa litice na Egejsko more",
+        "Veza sa Svetom Gorom",
+        "Predanje o Svetom klinu",
+        "Duhovna stanica blizu Alikija"
+      ],
+      "seo_title": "Manastir Svetog arhangela Mihaila, Tasos – Istorija i poseta",
+      "seo_description": "Otkrijte manastir Svetog arhangela Mihaila kod Alikija na Tasosu: istoriju, pogled na more, pravila oblačenja i praktične savete.",
+      "social_caption": "Iznad litica Egejskog mora, Manastir Svetog arhangela Mihaila otkriva mirniju, duhovnu stranu Tasosa. Posetite ga uz poštovanje monaškog života."
+    }
+  },
+  "seo": {
+    "ro": {
+      "title": "Mănăstirea Arhanghelului Mihail, Thassos – Istorie și vizitare",
+      "description": "Descoperă Mănăstirea Arhanghelului Mihail de lângă Alyki, Thassos: istorie monahală, panoramă spre mare, reguli vestimentare și informații de vizitare.",
+      "social_caption": "Între cer și Marea Egee, Mănăstirea Arhanghelului Mihail îți arată o altă față a Thassosului: liniște, tradiție și peisaje impresionante. Vizitează cu respect."
+    },
+    "en": {
+      "title": "Archangel Michael Monastery, Thassos – History & Visiting Tips",
+      "description": "Visit Archangel Michael Monastery near Alyki, Thassos. Discover its history, clifftop views, visitor dress code and practical information.",
+      "social_caption": "Above the Aegean cliffs, Archangel Michael Monastery reveals a quieter side of Thassos: faith, heritage and unforgettable sea views. Visit respectfully."
+    },
+    "el": {
+      "title": "Ιερά Μονή Αρχαγγέλου Μιχαήλ, Θάσος – Ιστορία και επίσκεψη",
+      "description": "Γνωρίστε τη Μονή Αρχαγγέλου Μιχαήλ κοντά στην Αλυκή Θάσου: ιστορία, θέα στο Αιγαίο, ενδυματολογικούς κανόνες και πρακτικές πληροφορίες.",
+      "social_caption": "Ψηλά πάνω από το Αιγαίο, η Μονή Αρχαγγέλου Μιχαήλ αποκαλύπτει την πνευματική πλευρά της Θάσου, με παράδοση και μοναδική θέα. Επισκεφθείτε τη με σεβασμό."
+    },
+    "de": {
+      "title": "Kloster Erzengel Michael, Thassos – Geschichte & Besuch",
+      "description": "Entdecken Sie das Kloster des Erzengels Michael bei Alyki auf Thassos: Geschichte, Aussicht, Kleiderordnung und praktische Besuchstipps.",
+      "social_caption": "Hoch über den Klippen der Ägäis zeigt das Kloster des Erzengels Michael eine stille Seite von Thassos – mit Glauben, Geschichte und Meerblick. Bitte respektvoll besuchen."
+    },
+    "bg": {
+      "title": "Манастир „Свети Архангел Михаил“, Тасос – История и посещение",
+      "description": "Открийте манастира „Свети Архангел Михаил“ край Алики, Тасос: история, морска панорама, правила за облекло и съвети за посещение.",
+      "social_caption": "Високо над Егейско море манастирът „Свети Архангел Михаил“ разкрива тихата и духовна страна на Тасос. Посетете го с уважение към монашеския живот."
+    },
+    "sr": {
+      "title": "Manastir Svetog arhangela Mihaila, Tasos – Istorija i poseta",
+      "description": "Otkrijte manastir Svetog arhangela Mihaila kod Alikija na Tasosu: istoriju, pogled na more, pravila oblačenja i praktične savete.",
+      "social_caption": "Iznad litica Egejskog mora, Manastir Svetog arhangela Mihaila otkriva mirniju, duhovnu stranu Tasosa. Posetite ga uz poštovanje monaškog života."
+    }
+  },
+  "video": {
+    "enabled": true,
+    "render_ready": false,
+    "render_ready_reason": "Five actual licensed WebP photographs and confirmed usage rights are required before MP4 production.",
+    "preferred_format": "9:16",
+    "default_language": "en",
+    "available_languages": [
+      "ro",
+      "en",
+      "el",
+      "de",
+      "bg",
+      "sr"
+    ],
+    "export_presets": {
+      "short_vertical": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "format": "mp4",
+        "video_codec": "h264",
+        "audio_codec": "aac"
+      },
+      "website_landscape_optional": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "format": "mp4",
+        "video_codec": "h264",
+        "audio_codec": "aac"
+      }
+    },
+    "scene_count": 5,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "image": "archangel-michael-monastery1.webp",
+        "image_path": "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery1.webp",
+        "role": "hook",
+        "duration_seconds": 6,
+        "motion": "slow_zoom_in",
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "voiceover_key": "hook",
+        "overlay_index": 0
+      },
+      {
+        "scene_number": 2,
+        "image": "archangel-michael-monastery2.webp",
+        "image_path": "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery2.webp",
+        "role": "location",
+        "duration_seconds": 7,
+        "motion": "gentle_pan",
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "voiceover_key": "location",
+        "overlay_index": 1
+      },
+      {
+        "scene_number": 3,
+        "image": "archangel-michael-monastery3.webp",
+        "image_path": "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery3.webp",
+        "role": "heritage",
+        "duration_seconds": 8,
+        "motion": "subtle_zoom",
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "voiceover_key": "heritage",
+        "overlay_index": 2
+      },
+      {
+        "scene_number": 4,
+        "image": "archangel-michael-monastery4.webp",
+        "image_path": "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery4.webp",
+        "role": "visit_etiquette",
+        "duration_seconds": 9,
+        "motion": "slow_pan",
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "voiceover_key": "visit_etiquette",
+        "overlay_index": 3
+      },
+      {
+        "scene_number": 5,
+        "image": "archangel-michael-monastery5.webp",
+        "image_path": "destinations/thassos/religious-sites/archangel-michael-monastery/images/archangel-michael-monastery5.webp",
+        "role": "cta",
+        "duration_seconds": 6,
+        "motion": "slow_zoom_out",
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "voiceover_key": "cta",
+        "overlay_index": 4
+      }
+    ],
+    "total_duration_seconds_target": 36,
+    "localized_scripts": {
+      "ro": {
+        "hook": "Deasupra Mării Egee, Thassos ascunde un loc de liniște.",
+        "location": "Mănăstirea Arhanghelului Mihail stă pe marginea unei faleze spectaculoase.",
+        "heritage": "Tradiția ei este legată de Muntele Athos și de un izvor considerat sfânt.",
+        "visit_etiquette": "Este un așezământ de maici activ. Vizitatorii sunt rugați să respecte regulile vestimentare și liniștea.",
+        "cta": "Descoperă această parte spirituală a Thassosului, cu respect pentru comunitate."
+      },
+      "en": {
+        "hook": "High above the Aegean, Thassos has a place of quiet reflection.",
+        "location": "Archangel Michael Monastery stands at the edge of a spectacular cliff.",
+        "heritage": "Its tradition connects it to Mount Athos and a spring revered as holy.",
+        "visit_etiquette": "This is a living convent. Visitors are asked to dress modestly and respect the peace.",
+        "cta": "Discover the spiritual side of Thassos and visit with respect."
+      },
+      "el": {
+        "hook": "Ψηλά πάνω από το Αιγαίο, η Θάσος κρύβει έναν τόπο γαλήνης.",
+        "location": "Η Μονή Αρχαγγέλου Μιχαήλ βρίσκεται στην άκρη ενός εντυπωσιακού βράχου.",
+        "heritage": "Η παράδοσή της συνδέεται με το Άγιο Όρος και μια πηγή αγιάσματος.",
+        "visit_etiquette": "Είναι ενεργή γυναικεία μονή. Οι επισκέπτες οφείλουν να ντύνονται ευπρεπώς και να σέβονται την ησυχία.",
+        "cta": "Ανακαλύψτε την πνευματική πλευρά της Θάσου με σεβασμό."
+      },
+      "de": {
+        "hook": "Hoch über der Ägäis liegt auf Thassos ein Ort der Ruhe.",
+        "location": "Das Kloster des Erzengels Michael steht am Rand einer spektakulären Klippe.",
+        "heritage": "Seine Tradition verbindet es mit dem Berg Athos und einer heiligen Quelle.",
+        "visit_etiquette": "Hier leben Nonnen. Besucher werden gebeten, sich angemessen zu kleiden und die Stille zu achten.",
+        "cta": "Entdecken Sie die spirituelle Seite von Thassos – mit Respekt."
+      },
+      "bg": {
+        "hook": "Високо над Егейско море на Тасос има място за тишина и размисъл.",
+        "location": "Манастирът „Свети Архангел Михаил“ е на ръба на впечатляваща скала.",
+        "heritage": "Традицията му е свързана със Света гора Атон и почитан свещен извор.",
+        "visit_etiquette": "Това е действащ женски манастир. Посетителите трябва да спазват правилата за облекло и тишина.",
+        "cta": "Открийте духовната страна на Тасос с уважение."
+      },
+      "sr": {
+        "hook": "Visoko iznad Egejskog mora, na Tasosu postoji mesto tišine.",
+        "location": "Manastir Svetog arhangela Mihaila stoji na ivici veličanstvene litice.",
+        "heritage": "Njegovo predanje povezano je sa Svetom Gorom i izvorom koji se smatra svetim.",
+        "visit_etiquette": "Ovo je aktivan ženski manastir. Posetioci treba da poštuju pravila oblačenja i mir.",
+        "cta": "Otkrijte duhovnu stranu Tasosa uz poštovanje."
+      }
+    },
+    "overlay_text": {
+      "ro": [
+        "Deasupra Mării Egee",
+        "Mănăstire pe stâncă",
+        "Credință și tradiție",
+        "Un loc sacru, viu",
+        "Descoperă Thassos"
+      ],
+      "en": [
+        "Above the Aegean",
+        "A clifftop monastery",
+        "Faith and tradition",
+        "A living sacred place",
+        "Discover Thassos"
+      ],
+      "el": [
+        "Πάνω από το Αιγαίο",
+        "Μοναστήρι στον βράχο",
+        "Πίστη και παράδοση",
+        "Ένας ζωντανός ιερός τόπος",
+        "Ανακαλύψτε τη Θάσο"
+      ],
+      "de": [
+        "Hoch über der Ägäis",
+        "Kloster auf der Klippe",
+        "Glaube und Tradition",
+        "Ein lebendiger heiliger Ort",
+        "Thassos entdecken"
+      ],
+      "bg": [
+        "Над Егейско море",
+        "Манастир на скала",
+        "Вяра и традиция",
+        "Живо свещено място",
+        "Открийте Тасос"
+      ],
+      "sr": [
+        "Iznad Egejskog mora",
+        "Manastir na litici",
+        "Vera i tradicija",
+        "Živo sveto mesto",
+        "Otkrijte Tasos"
+      ]
+    },
+    "subtitle_generation": {
+      "enabled": true,
+      "source": "localized_scripts",
+      "format": "srt_or_burned_in",
+      "line_breaks": "automatic"
+    },
+    "audio": {
+      "voiceover_language": "use_video_locale",
+      "background_music_asset": null,
+      "music_license_verified": false,
+      "music_optional": true
+    },
+    "content_safety": {
+      "require_media_rights": true,
+      "do_not_present_religious_belief_as_verified_historical_fact": true,
+      "respect_active_monastery": true,
+      "avoid_unapproved_interior_photography_or_drone_footage": true,
+      "do_not_invent_opening_hours_or_entry_fee": true
+    },
+    "automation_notes": "Each of the five scene images matches one configured WebP. Use matching locale for voiceover, on-screen overlays, subtitles and video metadata. Verify scene timings using actual synthesized speech. Do not render before photo rights and respectful image selection are checked."
+  },
+  "source_references": [
+    {
+      "id": "official_history",
+      "kind": "official_monastery",
+      "title": "Holy Monastery of Archangel Michael – History",
+      "url": "https://www.archangelmichaelthasos.com/en/copy-of-%CE%BA%CE%B5%CE%BD%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1",
+      "detail": "Athonite dependency, religious tradition, relic and 1974 revival; reports 1090 for earliest chapel.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "official_hours",
+      "kind": "official_monastery",
+      "title": "Holy Monastery of Archangel Michael – Opening hours",
+      "url": "https://www.archangelmichaelthasos.com/en/about",
+      "detail": "Official summer/winter visiting hours and old-calendar note.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "official_dress",
+      "kind": "official_monastery",
+      "title": "Holy Monastery of Archangel Michael – Visitor dress code",
+      "url": "https://www.archangelmichaelthasos.com/en/eat",
+      "detail": "Rules for long trousers, skirts and sleeves; loan garments sometimes available.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "visit_kavala",
+      "kind": "regional_tourism",
+      "title": "Visit Kavala – Holy Monastery of Archangel Michael",
+      "url": "https://www.visitkavala.gr/en/sightseeing/iera-moni-arxaggelou-mixail/",
+      "detail": "Clifftop setting, convent, approximate area near Alyki, alternative 1110 founding tradition.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "official_regional_guide",
+      "kind": "regional_tourism_pdf",
+      "title": "East Macedonia & Thrace Travel Guide (Greek-English)",
+      "url": "https://www.emtgreece.com/sites/default/files/2024-10/TravelGuide-EL-EN.pdf",
+      "detail": "Regional history of the monastery, feast days and coastal context.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "mapcarta_site",
+      "kind": "openstreetmap_derived_mapping",
+      "title": "Mapcarta – Archangel Michael Monastery",
+      "url": "https://mapcarta.com/13819166",
+      "detail": "OSM way 158852984 and monastery site coordinate 40.59707, 24.70170.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "discover_thassos",
+      "kind": "regional_travel_listing",
+      "title": "Discover Thassos – Archangel Michael Monastery",
+      "url": "https://www.discover-thassos.com/listing/archangel-michael-monastery/",
+      "detail": "Clifftop location near Alyki/Livadi and history context.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "lonely_planet",
+      "kind": "travel_guide",
+      "title": "Lonely Planet – Moni Arhangelou",
+      "url": "https://www.lonelyplanet.com/points-of-interest/moni-arhangelou/1389707",
+      "detail": "Living convent and coastal views; clothing expectations.",
+      "checked_on": "2026-10-28"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "images_received": false,
+    "images_uploaded": false,
+    "gps_verified_from_public_map": true,
+    "gps_verified_on_site": false,
+    "facts_checked_on": "2026-10-28",
+    "translations_written_on": "2026-10-28",
+    "requires_manual_review": [
+      "Add five authentic WebP photos and confirm rights for both website and public MP4 usage.",
+      "Replace provisional alt text and composition focal points after actual photos are supplied.",
+      "Check official visiting hours, dress policy and any special religious closures near date of visit.",
+      "Confirm parking, visitor entrance and wheelchair access locally before setting navigation coordinates.",
+      "Preserve the distinction between monastery tradition and independently documented historical facts; 1090/1110 date differs by source.",
+      "Verify any feast dates and opening times against the monastery’s old liturgical calendar.",
+      "Confirm actual synthesized narration fits scene timings before producing MP4."
+    ],
+    "photo_source_disclaimer": "This JSON contains no actual photographs; its five WebP references are reserved filenames, not licensed images.",
+    "editorial_note": "A working convent should be described respectfully and not presented as a leisure entertainment facility."
+  }
+}

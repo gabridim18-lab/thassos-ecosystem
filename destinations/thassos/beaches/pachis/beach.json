@@ -1,0 +1,365 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-pachis",
+  "slug": "pachis",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παχύς",
+    "international_name": "Pachis Beach",
+    "aliases": [
+      "Pachys Beach",
+      "Pahis Beach",
+      "Pachis",
+      "Pachys",
+      "Παραλία Παχύς",
+      "Παχύς",
+      "Pachi Beach"
+    ],
+    "entity_scope": "Sandy north-west coast beach in the Pachis area near Skala Rachoni; distinct from neighbouring Glyfoneri and Skala Rachoni beaches.",
+    "deduplication_warning": "Pachis/Pachys/Pahis and Παχύς refer to the same beach. Do not merge the adjacent smaller Glyfoneri beach or nearby Skala Rachoni beach into this record."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "northwest",
+    "settlements": [
+      "Pachis",
+      "Skala Rachoni",
+      "Limenas"
+    ],
+    "lat": 40.79021485393,
+    "lng": 24.627319515275,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://maps.google.com/?daddr=40.79021485393%2C24.627319515275",
+    "coordinate_source_reference": "s_map",
+    "coordinate_type": "representative_beach_pin_not_specific_parking_or_access",
+    "coordinate_review_status": "google_maps_directions_point_extracted_from_mythassos_reference_link; exact_preferred_access_point_pending_review",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "fine_golden_sand_with_occasional_small_stones",
+    "seabed_near_shore": "mostly_sandy",
+    "water_entry": "generally_gradual",
+    "nearshore_depth": "generally_shallow_but_variable",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "wind_dependent_often_calm",
+    "exposure": "northwest_coast_open_towards_west",
+    "natural_shade_on_sand": "abundant_near_tree_line_but_not_everywhere",
+    "beach_length_m": null,
+    "length_note": "Published measurements vary by beach boundary; do not assert exact length without a verified geographic polygon.",
+    "backdrop": "Mature pine trees, coastal greenery and olive groves, with open sea views",
+    "shoreline_type": "long_sandy_shore_with_variable_width"
+  },
+  "visitor_experience": {
+    "organization": "mixed_organized_and_free",
+    "suitable_for": [
+      "families",
+      "couples",
+      "groups",
+      "swimming",
+      "relaxed_day",
+      "natural_shade_seekers",
+      "beach_walks"
+    ],
+    "notable_for": [
+      "fine_sand",
+      "shallow_water",
+      "pine_tree_shade",
+      "green_coastal_setting",
+      "seaside_food_options"
+    ],
+    "activities_possible": [
+      "swimming",
+      "beach_walks",
+      "photography",
+      "seasonal_water_sports",
+      "beach_volleyball_if_equipment_operates"
+    ],
+    "estimated_crowd_peak": "popular_and_can_be_busy_during_high_summer",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Shallow nearshore water is not a substitute for child supervision. Wind and waves vary; check the sea before swimming. Use care at coastal-road crossings."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Listed by local guides, but often provided by beach operators; availability varies by section and season."
+    },
+    "showers": {
+      "available_in_some_sections": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": true,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": true,
+    "volleyball": true,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No verified current lifeguard hours or exact coverage for all beach sections.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Easy road approach does not confirm wheelchair-safe beach access or specialist equipment.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Services and equipment belong to distinct operators and can vary by beach section, season and daily schedule."
+  },
+  "access_and_cost": {
+    "road_access": "coastal_paved_road_between_limenas_and_skala_rachoni_with_short_local_turnoffs",
+    "public_transport": "regional_bus_service_to_pachis_or_skala_rachoni_reported; timetable_and_nearest_stop_not_verified",
+    "parking_type": "roadside_and_local_parking_areas_near_pines_or_across_coastal_road",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Prices and minimum consumption rules vary between local beach operators; no single current fee confirmed.",
+    "best_arrival_advice": "Arrive early in peak season to find convenient parking and a shaded spot; check before crossing the coastal road.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Local guides give roughly 7–10 km depending on start point and chosen access; no precise route distance asserted."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wind, wave or service availability into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Pachis Beach (Pachys)",
+      "tagline": "Nisip fin, apă puțin adâncă și răcoarea pinilor de lângă mare",
+      "summary": "Pachis este o plajă nisipoasă de pe coasta nord-vestică a insulei Thassos, aproape de Skala Rachoni. Este apreciată pentru apa limpede, intrarea în general lină în mare și umbra naturală oferită de pini, alături de sectoare amenajate și locuri libere.",
+      "description": "Pachis Beach se află pe țărmul nord-vestic al insulei Thassos, între Limenas și zona Skala Rachoni. Farmecul ei vine din contrastul dintre nisipul deschis la culoare, apa cu nuanțe de verde-turcoaz și pinii care ajung aproape de mal. În unele sectoare, copacii oferă umbră naturală chiar lângă nisip, un avantaj deosebit în zilele călduroase de vară. Intrarea în mare este, în general, lină, cu fund predominant nisipos și apă puțin adâncă pe o anumită distanță de țărm; condițiile se pot schimba totuși odată cu vântul și valurile. Plaja alternează porțiuni amenajate cu șezlonguri și umbrele, administrate de operatori locali, cu spații unde vizitatorii își pot aduce propriul echipament. În apropiere se găsesc beach baruri și taverne, iar unele servicii și activități pe apă funcționează sezonier. Pachis este o alegere bună pentru familii, cupluri și pentru cei care caută o zi relaxată la mare fără să fie departe de Limenas. Spre sfârșitul zilei, orientarea spre vest poate oferi o lumină plăcută pentru fotografii. În vârful sezonului, locurile umbrite și parcarea apropiată pot deveni foarte căutate.",
+      "practical_tips": "Pentru un loc la umbră și parcare mai ușoară, încearcă să ajungi dimineața. Parcarea este descrisă în apropierea șoselei și a acceselor spre plajă; în unele puncte poate fi necesară traversarea drumului, deci atenție la copii. Umbrirea naturală nu acoperă toată plaja. Dușurile, toaletele și vestiarele pot depinde de operator și de sezon. Întreabă înainte care sunt condițiile de folosire a șezlongurilor; nu există un tarif unic confirmat. Chiar și în apa puțin adâncă, copiii trebuie supravegheați permanent.",
+      "highlights": [
+        "Nisip fin și apă în general puțin adâncă lângă mal",
+        "Pini care oferă umbră naturală pe anumite porțiuni",
+        "Sectoare amenajate și spațiu pentru echipament propriu",
+        "Beach baruri și taverne în apropiere",
+        "Acces rutier relativ ușor din zona Limenas–Skala Rachoni"
+      ],
+      "seo_title": "Pachis Beach, Thassos – pini, nisip, acces și facilități",
+      "seo_description": "Descoperă Pachis Beach din Thassos: nisip fin, intrare lină în mare, pini cu umbră naturală, șezlonguri, parcare și sfaturi pentru familii.",
+      "social_caption": "🌲🏖️ Pachis Beach, Thassos: unde pinii întâlnesc nisipul auriu, iar apa turcoaz te invită la o zi relaxată. Un loc de păstrat pe lista vacanței, mai ales dacă iubești umbra naturală! 🇬🇷 #Thassos #PachisBeach #ExploreGreece",
+      "photo_alt": "Plaja Pachis din Thassos, cu nisip deschis la culoare, pini aproape de apă și marea turcoaz."
+    },
+    "en": {
+      "name": "Pachis Beach (Pachys)",
+      "tagline": "Soft sand, gently shelving water and pine-tree shade",
+      "summary": "Pachis is a sandy beach on the north-west coast of Thassos, near Skala Rachoni. Visitors come for its typically clear, shallow water, pine trees close to the shore and a mix of serviced areas and space for independent beachgoers.",
+      "description": "Pachis Beach stretches along the north-western shore of Thassos, between Limenas and the Skala Rachoni area. It is especially memorable for the combination of pale sand, green-blue water and pine trees that grow very close to the sea. In places, the trees provide welcome natural shade at the edge of the sand, offering a more sheltered setting for a summer beach day. The seabed is mostly sandy and the water entry is generally gradual, with shallow water near shore, though wind and waves can alter swimming conditions. There are organised stretches with loungers and umbrellas managed by local businesses as well as less serviced spots where you can bring your own beach equipment. Beach bars and tavernas are close by, and some recreational water activities may be available during the season. Pachis appeals to families looking for an easy-going swim, couples who enjoy green coastal scenery and visitors who want to spend time by the sea without travelling far from Limenas. Its west-facing coastal outlook may also create attractive light later in the day. In the busiest weeks of summer, however, shaded spots and convenient parking can fill early.",
+      "practical_tips": "Arrive in the morning for a better chance of pine-tree shade and convenient parking. Some parking areas are across the coastal road from beach access points, so take care when crossing, especially with children. Tree cover is patchy rather than continuous. Toilets, showers and changing areas may belong to seasonal operators; check on arrival. Confirm lounger charges or minimum-order conditions before settling in, as there is no verified beach-wide price. Supervise children in the water even where it is shallow.",
+      "highlights": [
+        "Fine sandy shore with generally shallow nearshore water",
+        "Pine trees providing shade in selected areas",
+        "Serviced sections and room for your own umbrella",
+        "Nearby beach bars and tavernas",
+        "Convenient coastal-road access near Skala Rachoni"
+      ],
+      "seo_title": "Pachis Beach Thassos – pine shade, sand and visitor guide",
+      "seo_description": "Explore Pachis Beach on Thassos: pine-tree shade, soft sand, shallow entry, seaside tavernas, parking and practical tips for families.",
+      "social_caption": "🌲🏖️ Meet Pachis Beach, Thassos: golden sand, turquoise shallows and pine trees almost touching the sea. Save this peaceful-looking corner for your next island escape! 🇬🇷 #Thassos #PachisBeach #GreekIslands",
+      "photo_alt": "Pachis Beach on Thassos, with pale sand, pine trees close to the shoreline and turquoise sea."
+    },
+    "el": {
+      "name": "Παραλία Παχύς (Pachis Beach)",
+      "tagline": "Ψιλή άμμος, ρηχά νερά και φυσική σκιά από πεύκα",
+      "summary": "Η παραλία Παχύς βρίσκεται στη βορειοδυτική Θάσο, κοντά στη Σκάλα Ραχωνίου. Ξεχωρίζει για τη λεπτή άμμο, τα συνήθως ρηχά νερά και τα πεύκα δίπλα στην ακτή, ενώ διαθέτει οργανωμένα αλλά και πιο ελεύθερα τμήματα.",
+      "description": "Η παραλία Παχύς απλώνεται στη βορειοδυτική ακτή της Θάσου, ανάμεσα στον Λιμένα και την περιοχή της Σκάλας Ραχωνίου. Το ιδιαίτερο τοπίο της συνδυάζει ανοιχτόχρωμη άμμο, γαλαζοπράσινα νερά και πεύκα που φτάνουν σχεδόν μέχρι τη θάλασσα. Σε ορισμένα σημεία τα δέντρα προσφέρουν πολύτιμη φυσική σκιά και κάνουν την παραμονή στην ακτή ευχάριστη ακόμη και τις ζεστές καλοκαιρινές ημέρες. Ο βυθός είναι κατά κύριο λόγο αμμώδης και η είσοδος στο νερό συνήθως ομαλή, με ρηχά νερά κοντά στην ακτή, χωρίς αυτό να σημαίνει ότι οι συνθήκες είναι ίδιες κάθε μέρα. Υπάρχουν οργανωμένα τμήματα με ξαπλώστρες και ομπρέλες από τοπικές επιχειρήσεις, αλλά και χώροι για όσους προτιμούν τον δικό τους εξοπλισμό. Στην περιοχή λειτουργούν παραθαλάσσια μπαρ και ταβέρνες, ενώ ορισμένες θαλάσσιες δραστηριότητες διατίθενται εποχικά. Ο Παχύς είναι καλή επιλογή για οικογένειες, ζευγάρια και όσους θέλουν να περάσουν μια χαλαρή ημέρα στη θάλασσα κοντά στον Λιμένα. Το απόγευμα η δυτική θέα προσφέρει συχνά όμορφο φως για φωτογραφίες. Την υψηλή περίοδο, οι σκιερές θέσεις και τα κοντινά σημεία στάθμευσης γεμίζουν γρήγορα.",
+      "practical_tips": "Φτάστε σχετικά νωρίς για να βρείτε ευκολότερα σκιά και θέση στάθμευσης. Σε ορισμένα σημεία το πάρκινγκ βρίσκεται στην απέναντι πλευρά του παραλιακού δρόμου, γι’ αυτό χρειάζεται προσοχή κατά τη διέλευση, ιδιαίτερα με παιδιά. Η σκιά των δέντρων δεν καλύπτει ολόκληρη την παραλία. Τουαλέτες, ντους και αποδυτήρια εξαρτώνται από το τμήμα και την εποχή. Ρωτήστε για τις χρεώσεις ή την ελάχιστη κατανάλωση πριν χρησιμοποιήσετε ξαπλώστρες. Τα παιδιά χρειάζονται συνεχή επίβλεψη ακόμη και στα ρηχά.",
+      "highlights": [
+        "Ψιλή άμμος και συνήθως ρηχά νερά",
+        "Φυσική σκιά από πεύκα σε αρκετά σημεία",
+        "Οργανωμένα και ελεύθερα τμήματα",
+        "Παραθαλάσσια μπαρ και ταβέρνες κοντά",
+        "Εύκολη πρόσβαση από τον παραλιακό δρόμο"
+      ],
+      "seo_title": "Παραλία Παχύς Θάσος – σκιά, άμμος και πρόσβαση",
+      "seo_description": "Ανακαλύψτε την παραλία Παχύς στη Θάσο: ψιλή άμμος, πεύκα, ρηχά νερά, ξαπλώστρες, στάθμευση και χρήσιμες συμβουλές.",
+      "social_caption": "🌲🏖️ Παχύς, Θάσος: χρυσαφένια άμμος, γαλαζοπράσινα νερά και πεύκα σχεδόν πάνω στην ακτή. Κρατήστε αυτή την παραλία στη λίστα για τις επόμενες διακοπές σας! 🇬🇷 #Θάσος #Παχύς #ΕλληνικάΝησιά",
+      "photo_alt": "Η αμμώδης παραλία Παχύς στη Θάσο με πεύκα δίπλα στο νερό και γαλαζοπράσινη θάλασσα."
+    },
+    "de": {
+      "name": "Pachis Beach (Pachys)",
+      "tagline": "Feiner Sand, flaches Wasser und Schatten unter Pinien",
+      "summary": "Pachis liegt an der Nordwestküste von Thassos nahe Skala Rachoni. Der Sandstrand ist für sein meist flaches Uferwasser, Pinien direkt am Strand und die Mischung aus bewirtschafteten und freien Abschnitten bekannt.",
+      "description": "Pachis Beach liegt an der Nordwestküste von Thassos zwischen Limenas und der Gegend von Skala Rachoni. Besonders reizvoll ist die Verbindung von hellem Sand, türkisgrünem Wasser und hohen Pinien, die bis fast an das Meer reichen. An manchen Stellen spenden die Bäume angenehmen natürlichen Schatten, sodass man hier auch an warmen Sommertagen lange verweilen kann. Der Meeresboden ist überwiegend sandig; das Ufer fällt meist sanft ab und das Wasser bleibt in Strandnähe häufig flach. Wind und Wellen können die Badebedingungen allerdings verändern. Neben bewirtschafteten Bereichen mit Liegen und Sonnenschirmen gibt es Abschnitte, an denen Besucher ihre eigene Strandausrüstung verwenden können. Entlang der Küste findet man Strandbars und Tavernen. Einige Wassersportangebote sind saisonabhängig. Pachis eignet sich für Familien, Paare und alle, die einen entspannten Strandtag in grüner Umgebung verbringen möchten, ohne weit von Limenas zu fahren. Am späten Nachmittag sorgt die westliche Ausrichtung oft für schönes Licht auf dem Meer. In der Hochsaison sind sowohl die schattigen Plätze als auch gut gelegene Parkmöglichkeiten begehrt.",
+      "practical_tips": "Wer einen Platz unter den Pinien und einen nahen Parkplatz möchte, sollte möglichst morgens kommen. Teilweise liegen die Parkplätze auf der anderen Seite der Küstenstraße – beim Überqueren besonders auf Kinder achten. Der natürliche Schatten reicht nicht über den gesamten Strand. Toiletten, Duschen und Umkleiden können an einzelne Saisonbetriebe gebunden sein. Preise oder Mindestverzehr für Liegen vor der Nutzung erfragen. Auch im flachen Wasser Kinder stets beaufsichtigen.",
+      "highlights": [
+        "Feiner Sand und meist flaches Uferwasser",
+        "Pinien spenden stellenweise natürlichen Schatten",
+        "Bewirtschaftete und freie Strandbereiche",
+        "Strandbars und Tavernen in der Umgebung",
+        "Gute Erreichbarkeit von Limenas und Skala Rachoni"
+      ],
+      "seo_title": "Pachis Beach Thassos – Sandstrand, Pinien und Anfahrt",
+      "seo_description": "Pachis Beach auf Thassos: feiner Sand, flaches Wasser, Schatten unter Pinien, Parkplätze, Liegen und Tipps für einen entspannten Tag.",
+      "social_caption": "🌲🏖️ Pachis Beach auf Thassos: heller Sand, türkisfarbenes Wasser und Pinien direkt am Meer. Ein schöner Ort für entspannte Inselstunden! 🇬🇷 #Thassos #PachisBeach #Griechenland",
+      "photo_alt": "Sandstrand Pachis auf Thassos mit hohen Pinien am Ufer und türkisfarbenem Meer."
+    },
+    "bg": {
+      "name": "Плаж Пахис (Pachis Beach)",
+      "tagline": "Фин пясък, плитка вода и естествена сянка от борове",
+      "summary": "Пахис е пясъчен плаж на северозападния бряг на Тасос, близо до Скала Рахони. Той е известен с бистрата и обикновено плитка крайбрежна вода, боровете край плажа и съчетанието от организирани и свободни зони.",
+      "description": "Плаж Пахис се намира на северозападния бряг на остров Тасос, между Лименас и района на Скала Рахони. Тук светлият пясък, зеленикаво-синята вода и високите борове, които достигат почти до морето, създават особено приятна атмосфера. На някои места дърветата осигуряват естествена сянка непосредствено до плажа — ценно удобство през горещите летни дни. Морското дъно е предимно пясъчно, а навлизането във водата обикновено е плавно, с плитки участъци близо до брега. Все пак вятърът и вълните могат да променят условията за къпане. Има организирани зони с шезлонги и чадъри, които се обслужват от местни заведения, както и свободни пространства за собствена плажна екипировка. Наблизо работят плажни барове и таверни, а някои водни развлечения се предлагат сезонно. Пахис е подходящ за семейства, двойки и всеки, който търси спокойна почивка край морето недалеч от Лименас. Към края на деня западното изложение често предлага красива светлина за снимки. В разгара на лятото най-удобните места за паркиране и сянка могат бързо да се запълнят.",
+      "practical_tips": "Пристигнете сутринта, за да имате по-голям избор от сенчести места и паркинг. Някои места за паркиране са от другата страна на крайбрежния път, затова пресичайте внимателно, особено с деца. Естествената сянка не покрива целия плаж. Тоалетните, душовете и съблекалните зависят от конкретното заведение и сезона. Попитайте за цените или минималната консумация, преди да използвате шезлонг. Децата се нуждаят от постоянен надзор и в плитката вода.",
+      "highlights": [
+        "Фин пясък и обикновено плитка вода край брега",
+        "Борове с естествена сянка в отделни участъци",
+        "Организирани и свободни плажни зони",
+        "Барове и таверни наблизо",
+        "Лесен достъп по крайбрежния път"
+      ],
+      "seo_title": "Плаж Пахис, Тасос – пясък, борове и достъп",
+      "seo_description": "Открийте плаж Пахис на Тасос: фин пясък, плитка вода, естествена сянка от борове, шезлонги, паркинг и полезни съвети.",
+      "social_caption": "🌲🏖️ Пахис, Тасос: мек пясък, тюркоазена вода и борове почти до брега. Запазете този плаж за следващата си почивка в Гърция! 🇬🇷 #Тасос #Пахис #Гърция",
+      "photo_alt": "Плаж Пахис на Тасос със светъл пясък, борове до брега и тюркоазено море."
+    },
+    "sr": {
+      "name": "Pachis Beach (Pahis)",
+      "tagline": "Sitni pesak, plitka voda i prirodna hladovina borova",
+      "summary": "Pahis je peščana plaža na severozapadnoj obali Tasosa, blizu Skale Rahoni. Poznata je po bistroj, uglavnom plitkoj vodi uz obalu, borovima koji pružaju hlad i kombinaciji uređenih i slobodnih delova.",
+      "description": "Plaža Pahis nalazi se na severozapadnoj obali Tasosa, između Limenasa i područja Skala Rahoni. Posebna je po spoju svetlog peska, zelenoplave vode i visokih borova koji se spuštaju gotovo do samog mora. Na pojedinim mestima krošnje pružaju prijatnu prirodnu hladovinu, što mnogo znači tokom vrelih letnjih dana. Dno je uglavnom peščano, a ulazak u more najčešće postepen, sa plićakom blizu obale. Ipak, vetar i talasi mogu promeniti uslove za kupanje. Duž plaže postoje uređeni delovi sa ležaljkama i suncobranima koje izdaju lokalni ugostitelji, ali i slobodan prostor za sopstvenu opremu. U blizini rade barovi na plaži i taverne, dok su neke aktivnosti na vodi dostupne sezonski. Pahis je lep izbor za porodice, parove i sve koji žele opušten dan kraj mora, bez dugog putovanja iz Limenasa. Predveče pogled prema zapadu može pružiti vrlo lepo svetlo za fotografisanje. U jeku sezone mesta u hladu i praktičan parking često su među najtraženijima.",
+      "practical_tips": "Dođite ujutru ako želite više izbora za parking i hladovinu. Neka parking mesta nalaze se preko puta obalskog puta; pri prelasku budite posebno oprezni sa decom. Borovi ne pružaju hlad na celoj plaži. Toaleti, tuševi i kabine za presvlačenje mogu zavisiti od sezonskih objekata. Pre korišćenja ležaljki proverite cenu ili uslov minimalne potrošnje. Decu treba stalno nadzirati i u plićaku.",
+      "highlights": [
+        "Sitni pesak i uglavnom plitka voda uz obalu",
+        "Prirodna hladovina borova na pojedinim mestima",
+        "Uređeni i slobodni delovi plaže",
+        "Barovi i taverne u blizini",
+        "Lak prilaz obalskim putem"
+      ],
+      "seo_title": "Pahis plaža Tasos – pesak, borovi i pristup",
+      "seo_description": "Upoznajte plažu Pahis na Tasosu: sitni pesak, plitka voda, hladovina borova, ležaljke, parking i praktični saveti.",
+      "social_caption": "🌲🏖️ Pahis, Tasos: fini pesak, tirkizno more i borovi skoro do vode. Sačuvajte ovo mesto za sledeće letovanje u Grčkoj! 🇬🇷 #Tasos #PachisBeach #Grcka",
+      "photo_alt": "Peščana plaža Pahis na Tasosu sa borovima uz obalu i tirkiznim morem."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/pachis/images/pachis1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/pachis/images/pachis2.webp",
+      "destinations/thassos/beaches/pachis/images/pachis3.webp",
+      "destinations/thassos/beaches/pachis/images/pachis4.webp",
+      "destinations/thassos/beaches/pachis/images/pachis5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/pachis/images/",
+    "suggested_asset_names": [
+      "pachis1.webp",
+      "pachis2.webp",
+      "pachis3.webp",
+      "pachis4.webp",
+      "pachis5.webp"
+    ],
+    "image_policy": "Publish only user-provided, owned or appropriately licensed photos of Pachis Beach on Thassos. The five local paths are assigned from filenames visible in the supplied screenshot; verify each photograph’s location, provenance, commercial publication rights and required attribution before release.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_map",
+      "kind": "map_link",
+      "title": "MyThassos — Pachis (Google Maps directions point)",
+      "url": "https://mythassos.app/ro/places/%CF%80%CE%B1%CF%87%CF%85%CF%82",
+      "detail": "Site links directly to Google Maps directions at 40.79021485393,24.627319515275; represents beach vicinity, not confirmed precise entrance or parking.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_discover_greece",
+      "kind": "regional_tourism",
+      "title": "Discover Greece — 10 of the best beaches in Thassos (updated Sep 2026)",
+      "url": "https://www.discovergreece.com/travel-ideas/best-of/10-best-beaches-thassos",
+      "detail": "Pachis sandy coast, pine scenery, family suitability, road access and seasonal beach facilities.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "regional_travel_guide",
+      "title": "Go Thassos — Pachis Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/pachis-beach",
+      "detail": "Lists WC, showers, food and drink, loungers, volleyball and parking; does not confirm operator hours or all amenities in every section.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_go_thassos_area",
+      "kind": "regional_travel_guide",
+      "title": "Go Thassos — Pachis",
+      "url": "https://www.go-thassos.gr/about-thassos/places/pachis",
+      "detail": "Describes pines, golden sand, tavernas, beach bars and easy access in the Pachis area.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "local_beach_guide",
+      "title": "Nikana — Pachis beach (updated Dec 2023)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1922/pachis-beach",
+      "detail": "Fine sand, gradual shallows, natural shade, loungers and free areas; older source, pricing and some amenities require contemporary verification.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_mythassos",
+      "kind": "local_travel_guide",
+      "title": "MyThassos — Pachis visitor information",
+      "url": "https://mythassos.app/ro/places/%CF%80%CE%B1%CF%87%CF%85%CF%82",
+      "detail": "Coast position, natural shade, family suitability, parking and caution when crossing road; includes rough distances, not verified navigation metrics.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_mapcarta",
+      "kind": "independent_geo_reference",
+      "title": "Mapcarta / OpenStreetMap — Παχύς beach",
+      "url": "https://mapcarta.com/W293087951",
+      "detail": "Independent beach feature near 40.79016,24.62751 corroborates direction pin; underlying OSM-derived data has attribution/licensing obligations if reused.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_commons_photo",
+      "kind": "photo_license",
+      "title": "Wikimedia Commons — File:Pachis Beach Thasos.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Pachis_Beach_Thasos.jpg",
+      "detail": "Photo by DocWoKav under CC BY-SA 4.0; recorded camera GPS differs significantly from beach pin, so visual identification is required.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm preferred Google Maps navigation point and exact beach access/parking",
+      "Confirm that pachis1.webp–pachis5.webp depict Pachis Beach near Skala Rachoni rather than nearby Glyfoneri or other beaches; record image provenance, rights and attribution before publication",
+      "Confirm current 2026–2027 seasonal beach bar, showers, WC, changing rooms and sports services",
+      "Check current bus stops, accessibility support and any lifeguard presence",
+      "Native-language editorial check before publication"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; publication and commercial reuse rights for the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths were assigned from filenames shown in the user-provided screenshot. Actual WebP files, exact photographic subjects and publication rights have not been independently verified."
+  }
+}

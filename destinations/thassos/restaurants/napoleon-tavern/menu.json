@@ -1,0 +1,474 @@
+{
+  "schemaVersion": 1,
+  "restaurantId": "gr-thassos-restaurant-napoleon-tavern",
+  "restaurantSlug": "napoleon-tavern",
+  "menuStatus": "draft_historical_reference_not_current",
+  "currency": "EUR",
+  "currentPricesConfirmed": false,
+  "publishedMenuAvailable": false,
+  "sourceDescription": "User-provided photos of old printed Greek/English/Romanian menus and food photos. Dish names are historical references, not confirmation of current availability.",
+  "sourcePhotoCaptureNotes": "Some screenshots appear labelled 2021 or 2023; exact menu validity dates are not established.",
+  "categories": [
+    {
+      "id": "cold_starters",
+      "name": {
+        "en": "Cold starters",
+        "ro": "Aperitive reci",
+        "el": "Κρύα ορεκτικά",
+        "de": "Kalte Vorspeisen",
+        "bg": "Студени предястия",
+        "sr": "Hladna predjela"
+      }
+    },
+    {
+      "id": "hot_starters",
+      "name": {
+        "en": "Hot starters & meze",
+        "ro": "Aperitive calde și meze",
+        "el": "Ζεστά ορεκτικά",
+        "de": "Warme Vorspeisen & Meze",
+        "bg": "Топли предястия и мезета",
+        "sr": "Topla predjela i meze"
+      }
+    },
+    {
+      "id": "salads",
+      "name": {
+        "en": "Salads",
+        "ro": "Salate",
+        "el": "Σαλάτες",
+        "de": "Salate",
+        "bg": "Салати",
+        "sr": "Salate"
+      }
+    },
+    {
+      "id": "seafood",
+      "name": {
+        "en": "Fish & seafood",
+        "ro": "Pește și fructe de mare",
+        "el": "Ψάρια και θαλασσινά",
+        "de": "Fisch & Meeresfrüchte",
+        "bg": "Риба и морски дарове",
+        "sr": "Riba i morski plodovi"
+      }
+    },
+    {
+      "id": "other",
+      "name": {
+        "en": "Sides & bread",
+        "ro": "Garnituri și pâine",
+        "el": "Συνοδευτικά και ψωμί",
+        "de": "Beilagen & Brot",
+        "bg": "Гарнитури и хляб",
+        "sr": "Prilozi i hleb"
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "tzatziki",
+      "category": "cold_starters",
+      "name": {
+        "en": "Tzatziki",
+        "ro": "Tzatziki",
+        "el": "Τζατζίκι",
+        "de": "Tzatziki",
+        "bg": "Дзадзики",
+        "sr": "Caciki"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "tyrosalata",
+      "category": "cold_starters",
+      "name": {
+        "en": "Spicy cheese spread",
+        "ro": "Salată de brânză",
+        "el": "Τυροσαλάτα",
+        "de": "Käsecreme",
+        "bg": "Салата с крем от сирене",
+        "sr": "Sirni namaz"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "taramosalata",
+      "category": "cold_starters",
+      "name": {
+        "en": "Fish roe spread",
+        "ro": "Salată de icre",
+        "el": "Ταραμοσαλάτα",
+        "de": "Fischrogencreme",
+        "bg": "Тарама",
+        "sr": "Riblja ikra namaz"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "melitzanosalata",
+      "category": "cold_starters",
+      "name": {
+        "en": "Eggplant spread",
+        "ro": "Salată de vinete",
+        "el": "Μελιτζανοσαλάτα",
+        "de": "Auberginencreme",
+        "bg": "Салата от патладжан",
+        "sr": "Salata od patlidžana"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "skordalia",
+      "category": "cold_starters",
+      "name": {
+        "en": "Garlic potato dip",
+        "ro": "Pastă de usturoi și cartofi",
+        "el": "Σκορδαλιά",
+        "de": "Knoblauch-Kartoffel-Dip",
+        "bg": "Чеснов сос с картофи",
+        "sr": "Skordalija"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "feta",
+      "category": "cold_starters",
+      "name": {
+        "en": "Feta cheese",
+        "ro": "Brânză feta",
+        "el": "Τυρί φέτα",
+        "de": "Feta",
+        "bg": "Сирене фета",
+        "sr": "Feta sir"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "olives",
+      "category": "cold_starters",
+      "name": {
+        "en": "Olives",
+        "ro": "Măsline",
+        "el": "Ελιές",
+        "de": "Oliven",
+        "bg": "Маслини",
+        "sr": "Masline"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "fried_courgettes",
+      "category": "hot_starters",
+      "name": {
+        "en": "Fried courgettes",
+        "ro": "Dovlecei prăjiți",
+        "el": "Κολοκυθάκια τηγανητά",
+        "de": "Frittierte Zucchini",
+        "bg": "Пържени тиквички",
+        "sr": "Pržene tikvice"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "fried_eggplants",
+      "category": "hot_starters",
+      "name": {
+        "en": "Fried eggplants",
+        "ro": "Vinete prăjite",
+        "el": "Μελιτζάνες τηγανητές",
+        "de": "Frittierte Auberginen",
+        "bg": "Пържен патладжан",
+        "sr": "Prženi patlidžan"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "fried_peppers",
+      "category": "hot_starters",
+      "name": {
+        "en": "Fried peppers",
+        "ro": "Ardei prăjiți",
+        "el": "Πιπεριές τηγανητές",
+        "de": "Gebratene Paprika",
+        "bg": "Пържени чушки",
+        "sr": "Pržene paprike"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "grilled_hot_peppers",
+      "category": "hot_starters",
+      "name": {
+        "en": "Grilled hot peppers",
+        "ro": "Ardei iuți la grătar",
+        "el": "Καυτερές πιπεριές",
+        "de": "Gegrillte scharfe Paprika",
+        "bg": "Люти чушки на скара",
+        "sr": "Ljute paprike na žaru"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "cheese_croquettes",
+      "category": "hot_starters",
+      "name": {
+        "en": "Cheese croquettes",
+        "ro": "Crochete cu brânză",
+        "el": "Τυροκροκέτες",
+        "de": "Käsekroketten",
+        "bg": "Панирани сиренца",
+        "sr": "Kroketi sa sirom"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "stuffed_vine_leaves",
+      "category": "hot_starters",
+      "name": {
+        "en": "Stuffed vine leaves",
+        "ro": "Frunze de viță umplute",
+        "el": "Ντολμαδάκια",
+        "de": "Gefüllte Weinblätter",
+        "bg": "Лозови сарми",
+        "sr": "Punjeni listovi vinove loze"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "flogeres",
+      "category": "hot_starters",
+      "name": {
+        "en": "Flogeres cheese rolls",
+        "ro": "Rulouri crocante cu brânză",
+        "el": "Φλογέρες",
+        "de": "Flogeres-Käseröllchen",
+        "bg": "Флогерес с кашкавал",
+        "sr": "Flogeres sa sirom"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "bouyourdi",
+      "category": "hot_starters",
+      "name": {
+        "en": "Baked feta bouyourdi",
+        "ro": "Bouyourdi cu feta",
+        "el": "Μπουγιουρντί",
+        "de": "Überbackener Feta (Bouyourdi)",
+        "bg": "Буюрди със сирене фета",
+        "sr": "Bujurdi sa fetom"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "fried_potatoes",
+      "category": "other",
+      "name": {
+        "en": "Chips / French fries",
+        "ro": "Cartofi prăjiți",
+        "el": "Πατάτες τηγανητές",
+        "de": "Pommes frites",
+        "bg": "Пържени картофи",
+        "sr": "Pomfrit"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "bread",
+      "category": "other",
+      "name": {
+        "en": "Bread",
+        "ro": "Pâine",
+        "el": "Άρτος",
+        "de": "Brot",
+        "bg": "Хляб",
+        "sr": "Hleb"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "greek_salad",
+      "category": "salads",
+      "name": {
+        "en": "Greek / Thassos salad",
+        "ro": "Salată grecească / Thassos",
+        "el": "Χωριάτικη σαλάτα",
+        "de": "Griechischer Salat",
+        "bg": "Гръцка салата",
+        "sr": "Grčka salata"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "coleslaw",
+      "category": "salads",
+      "name": {
+        "en": "Coleslaw",
+        "ro": "Salată de varză",
+        "el": "Κόλσλοου",
+        "de": "Krautsalat",
+        "bg": "Зелева салата",
+        "sr": "Kupus salata"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "green_salad",
+      "category": "salads",
+      "name": {
+        "en": "Green salad",
+        "ro": "Salată verde",
+        "el": "Πράσινη σαλάτα",
+        "de": "Grüner Salat",
+        "bg": "Зелена салата",
+        "sr": "Zelena salata"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "beetroot_salad",
+      "category": "salads",
+      "name": {
+        "en": "Beetroot salad",
+        "ro": "Salată de sfeclă",
+        "el": "Παντζαροσαλάτα",
+        "de": "Rote-Bete-Salat",
+        "bg": "Салата от цвекло",
+        "sr": "Salata od cvekle"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "octopus_salad",
+      "category": "salads",
+      "name": {
+        "en": "Octopus salad",
+        "ro": "Salată de caracatiță",
+        "el": "Χταποδοσαλάτα",
+        "de": "Oktopussalat",
+        "bg": "Салата с октопод",
+        "sr": "Salata od hobotnice"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "napoleon_salad_1",
+      "category": "salads",
+      "name": {
+        "en": "Special Napoleon 1",
+        "ro": "Salată specială Napoleon 1",
+        "el": "Σπέσιαλ Ναπολέων 1",
+        "de": "Napoleon Spezial 1",
+        "bg": "Специалитет Наполеон 1",
+        "sr": "Napoleon specijal 1"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "napoleon_salad_2",
+      "category": "salads",
+      "name": {
+        "en": "Special Napoleon 2",
+        "ro": "Salată specială Napoleon 2",
+        "el": "Σπέσιαλ Ναπολέων 2",
+        "de": "Napoleon Spezial 2",
+        "bg": "Специалитет Наполеон 2",
+        "sr": "Napoleon specijal 2"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "tuna_salad",
+      "category": "salads",
+      "name": {
+        "en": "Tuna salad",
+        "ro": "Salată de ton",
+        "el": "Τονοσαλάτα",
+        "de": "Thunfischsalat",
+        "bg": "Салата с риба тон",
+        "sr": "Salata sa tunjevinom"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "chef_salad",
+      "category": "salads",
+      "name": {
+        "en": "Chef's salad",
+        "ro": "Salata bucătarului",
+        "el": "Σαλάτα του σεφ",
+        "de": "Chefsalat",
+        "bg": "Салата на шефа",
+        "sr": "Šefova salata"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "anchovies",
+      "category": "seafood",
+      "name": {
+        "en": "Anchovies",
+        "ro": "Anșoa",
+        "el": "Αντζούγιες",
+        "de": "Sardellen",
+        "bg": "Аншоа",
+        "sr": "Inćuni"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "octopus",
+      "category": "seafood",
+      "name": {
+        "en": "Octopus",
+        "ro": "Caracatiță",
+        "el": "Χταπόδι",
+        "de": "Oktopus",
+        "bg": "Октопод",
+        "sr": "Hobotnica"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "fried_calamari",
+      "category": "seafood",
+      "name": {
+        "en": "Fried calamari",
+        "ro": "Calamari prăjiți",
+        "el": "Καλαμαράκια τηγανητά",
+        "de": "Frittierte Calamari",
+        "bg": "Пържени калмари",
+        "sr": "Pržene lignje"
+      },
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    },
+    {
+      "id": "fried_small_fish",
+      "category": "seafood",
+      "name": {
+        "en": "Fried small fish",
+        "ro": "Pește mic prăjit",
+        "el": "Τηγανητά μικρά ψάρια",
+        "de": "Frittierter Kleinfisch",
+        "bg": "Пържена дребна риба",
+        "sr": "Pržena sitna riba"
+      },
+      "examplePhoto": "images/Pește prăjit cu cartofi și lămâie.png",
+      "verification": "historical_menu_photo_or_photo_evidence_only"
+    }
+  ],
+  "unverifiedAdditionalFoodSeenOrMentioned": [
+    "grilled whole fish",
+    "prawns",
+    "meat skewers",
+    "mixed seafood platter"
+  ],
+  "menuPublisherRules": [
+    "Verify current availability and all prices directly with the operator before public menu display.",
+    "Do not infer allergens, gluten-free status or food safety from photographs; confirm with restaurant.",
+    "Distinguish per-kilogram from per-portion prices once confirmed.",
+    "Current menu photographs or an owner-supplied PDF can replace historical references while keeping item IDs stable."
+  ],
+  "photoReferenceNote": "Only directly matching confirmed source images are referenced; old renamed WebP placeholder paths have been removed."
+}

@@ -1,0 +1,380 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-pefkospilia",
+  "slug": "pefkospilia",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Πευκοσπηλιά",
+    "international_name": "Pefkospilia Beach",
+    "aliases": [
+      "Pefkospilia",
+      "Pefkospilia Beach Bar",
+      "Pefkospilia Beach",
+      "Pefkospeilia",
+      "Pefkospilia Pachis",
+      "Πευκοσπηλιά",
+      "Pefkospilia Restaurant & Beach Bar"
+    ],
+    "entity_scope": "Named serviced beach area beside Pefkospilia Restaurant & Beach Bar, at the southwestern end of the larger Pachis (Pachys) Beach. It is a subarea/operator-led name, not an independently confirmed geographical beach.",
+    "deduplication_warning": "Pefkospilia overlaps geographically with Pachis Beach. Parent beach: gr-thassos-beach-pachis. Do not count it as an additional independent beach in destination totals. Keep a separate guide page only if beach-section granularity is desired."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "northwest",
+    "settlements": [
+      "Pachis",
+      "Skala Rachoniou"
+    ],
+    "lat": 40.7886985,
+    "lng": 24.6259085,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.7886985%2C24.6259085",
+    "coordinate_source_reference": "s_beach_map",
+    "coordinate_type": "named_pefkospilia_beach_section_reference_not_parking_entrance",
+    "coordinate_review_status": "Coordinates sourced from the Pefkospilia section listing at Pame Paralia with a Google Maps directions link; cross-checked against nearby Pefkospilia business listings. Final owner selection of approach/parking pin pending.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "sand_with_small_pebbles_in_places",
+    "seabed_near_shore": "mostly_sandy_with_small_stones_at_some_entries",
+    "water_entry": "generally_gradual_with_local_stony_patches",
+    "nearshore_depth": "generally_shallow_but_variable",
+    "water_clarity": "typically_clear_conditions_vary",
+    "wave_conditions": "wind_dependent",
+    "exposure": "northwest_coast_open_to_westward_conditions",
+    "natural_shade_on_sand": "pine_shade_near_the_taverna_and_selected_shore_sections",
+    "beach_length_m": null,
+    "length_note": "Pefkospilia is a named section of Pachis; a separate length cannot be defined reliably from public information.",
+    "backdrop": "Mature pine trees, seaside taverna, sandy Pachis shoreline and the Thracian Sea",
+    "shoreline_type": "section_of_extended_pachis_sandy_beach"
+  },
+  "visitor_experience": {
+    "organization": "organized_beach_bar_section_of_pachis",
+    "suitable_for": [
+      "couples",
+      "families",
+      "beach_dining",
+      "relaxed_swimming",
+      "pine_shade",
+      "sunset_views",
+      "seaside_drinks"
+    ],
+    "notable_for": [
+      "taverna_under_pines",
+      "seafront_dining",
+      "seasonal_sun_loungers",
+      "shallow_nearshore_water",
+      "pachis_beach_section",
+      "west_facing_evening_light"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunbathing",
+      "seaside_dining",
+      "photography",
+      "sunset_viewing",
+      "short_shoreline_walk"
+    ],
+    "estimated_crowd_peak": "popular_serviced_section_can_be_busy_in_high_season",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Shallow water does not mean uniformly safe conditions. Mind occasional small stones beneath the water and changing wave/wind conditions; supervise children continuously."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true,
+      "note": "Pefkospilia Beach Bar advertises loungers; exact allocation and reservation terms vary."
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true,
+      "note": "Shade can also be provided by nearby pine trees; shade on every lounger is not guaranteed."
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Restaurant/beach-bar facilities may be available for customers; current access conditions not independently confirmed."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "No current operator-confirmed public shower availability."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No verified year-round or season-wide lifeguard coverage for this named section.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Accessibility of the restaurant is not proof of accessible beach entry; ramp, beach mat and assisted bathing equipment not independently verified.",
+    "free_unserviced_space": null,
+    "facilities_scope": "Lounge services and dining belong to Pefkospilia operator; public amenities and neighbouring Pachis services must not be attributed to this section without a site check."
+  },
+  "access_and_cost": {
+    "road_access": "Accessible from the northwest coastal road in the Pachis / Skala Rachoniou area; the last approach and parking point should be checked on the map before travel.",
+    "public_transport": "direct_stop_not_verified",
+    "parking_type": "limited_local_parking_near_pachis_and_taverna",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Sunbed and reservation conditions are operator-specific; confirm current requirements and minimum spend directly before using the serviced area.",
+    "best_arrival_advice": "Consider arriving earlier in high season for easier parking and a preferred spot; reserve in advance if you want a specific table or serviced lounger.",
+    "distance_from_limenas_km": null,
+    "distance_note": "No single verified drive distance recorded; use route navigation from the visitor’s actual accommodation."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "No fixed weather, wave, crowd, open-now, menu or seasonal price information is stored in this record."
+  },
+  "translations": {
+    "ro": {
+      "name": "Pefkospilia Beach – Pachis",
+      "tagline": "Pini umbroși, nisip și mese chiar lângă mare",
+      "summary": "Pefkospilia este o zonă amenajată la unul dintre capetele plajei Pachis, pe coasta de nord-vest a insulei Thassos. Este cunoscută pentru terasa de sub pini, restaurantul de la malul mării și sectorul cu șezlonguri.",
+      "description": "Pefkospilia nu este un golf separat de Pachis, ci o zonă de plajă recunoscută după restaurantul și beach barul cu același nume. Aici, la marginea nisipului, pinii înalți aduc umbră naturală, iar mesele așezate aproape de apă creează un decor foarte plăcut pentru o pauză de prânz sau o seară la mare. Plaja face parte din întinderea nisipoasă Pachis, pe coasta de nord-vest a insulei Thassos. În zona de intrare în apă predomină nisipul, dar pot apărea și pietricele, iar adâncirea este în general treptată. Beach barul oferă sezonier șezlonguri, băuturi și gustări, în timp ce restaurantul pune accent pe preparate grecești și fructe de mare. Locul este potrivit pentru turiștii care preferă să combine înotul cu o experiență gastronomică, într-un cadru cu verdeață și vedere spre mare. Spre seară, orientarea coastei poate oferi lumină frumoasă pentru fotografii și momente de relaxare. În sezonul aglomerat, serviciile, locurile de parcare și șezlongurile pot fi limitate.",
+      "practical_tips": "Pefkospilia este un sector al plajei Pachis, nu o plajă independentă. Verifică regulile actuale pentru șezlonguri, eventuale rezervări și consumație minimă înainte de vizită. Există umbră naturală în zona pinilor, dar nu pe întreaga porțiune de nisip. Papucii de apă pot fi utili unde apar pietricele. Parcarea din apropiere poate fi aglomerată vara, iar facilitățile operatorului depind de sezon. Supraveghează copiii chiar și atunci când apa pare puțin adâncă.",
+      "highlights": [
+        "Terasa și restaurantul de la malul mării",
+        "Umbră naturală sub pini",
+        "Zonă amenajată în cadrul plajei Pachis",
+        "Intrare în apă în general lină, cu pietricele pe alocuri",
+        "Atmosferă potrivită pentru relaxare și apus"
+      ],
+      "seo_title": "Pefkospilia Beach Thassos – zona Pachis, acces și facilități",
+      "seo_description": "Descoperă sectorul Pefkospilia de pe plaja Pachis, Thassos: pini, nisip, beach bar, restaurant, acces și recomandări pentru vizită.",
+      "social_caption": "🌲🏖️ Pefkospilia, Thassos: un colț al plajei Pachis unde pinii ajung aproape de mare, iar o pauză la tavernă poate completa perfect o zi de plajă. 🌅 Salvează locul pentru o seară relaxată pe coastă! #Thassos #PachisBeach #Pefkospilia",
+      "photo_alt": "Zonă de plajă și restaurant sub pini la Pefkospilia, în apropierea plajei Pachis din Thassos."
+    },
+    "en": {
+      "name": "Pefkospilia Beach – Pachis",
+      "tagline": "Pine shade, sandy shoreline and seaside dining",
+      "summary": "Pefkospilia is a serviced stretch at one end of Pachis Beach on the northwestern coast of Thassos. It is best known for pine-shaded seaside dining, a restaurant and an adjoining beach-bar area with seasonal loungers.",
+      "description": "Pefkospilia is not a separate bay from Pachis Beach but a locally recognised beach section named after Pefkospilia Restaurant & Beach Bar. Tall pine trees reach close to the sandy shore, shading a seaside dining area that makes this a pleasant stop for lunch, a refreshing drink or an evening by the water. The section belongs to the broader Pachis shoreline on the northwest coast of Thassos. Sand predominates, although small pebbles can occur at the waterline, and entry into the sea is generally gradual. In season, the beach bar provides loungers, refreshments and a relaxed setting, while the restaurant focuses on Greek dishes and seafood. It is particularly appealing to visitors who want to combine swimming with a meal instead of rushing between separate stops. The westward coastal outlook can make the late-afternoon light and sunset especially enjoyable. As this is an operated section rather than an entire independent beach, services and rules apply locally and can change by season.",
+      "practical_tips": "Treat Pefkospilia as a named section of Pachis Beach, not as another island beach. Check seasonal opening, lounger conditions, reservations and any minimum-spend policy with the operator. Pine shade is available in places but not along all the sand. Water shoes may help near occasional stones. Parking close to the venue can be limited during summer. Do not assume toilets, showers, accessibility equipment or lifeguard service are guaranteed without a current on-site check. Always supervise children in the sea.",
+      "highlights": [
+        "Pine-shaded waterfront restaurant",
+        "Serviced beach section of Pachis",
+        "Generally gentle sea entry with some stones",
+        "Relaxed sea-view dining and refreshments",
+        "Attractive late-afternoon coastal light"
+      ],
+      "seo_title": "Pefkospilia Beach Thassos – Pachis section and visitor guide",
+      "seo_description": "Explore Pefkospilia on Pachis Beach in Thassos: pine shade, beach bar, seafront restaurant, access, facilities and practical tips.",
+      "social_caption": "🌲🏖️ Meet Pefkospilia, a pine-shaded corner of Pachis Beach on Thassos. Swim, slow down and enjoy a seaside meal with the water just steps away. 🌅 #Thassos #PachisBeach #Pefkospilia",
+      "photo_alt": "Pine-shaded beach and seaside restaurant at Pefkospilia, part of Pachis Beach on Thassos."
+    },
+    "el": {
+      "name": "Πευκοσπηλιά – Παραλία Παχύς",
+      "tagline": "Σκιά από πεύκα, αμμουδιά και φαγητό δίπλα στο κύμα",
+      "summary": "Η Πευκοσπηλιά είναι ένα οργανωμένο τμήμα στην άκρη της παραλίας Παχύς, στη βορειοδυτική Θάσο. Ξεχωρίζει για τα πεύκα, την παραθαλάσσια ταβέρνα και το beach bar με εποχικές ξαπλώστρες.",
+      "description": "Η Πευκοσπηλιά δεν αποτελεί ξεχωριστό κόλπο από την παραλία Παχύς. Είναι ένα γνωστό τμήμα της ακτής που πήρε το όνομά του από το εστιατόριο και το beach bar της περιοχής. Τα ψηλά πεύκα φτάνουν σχεδόν μέχρι την άμμο και προσφέρουν φυσική σκιά γύρω από τον χώρο του φαγητού, πολύ κοντά στη θάλασσα. Η παραλία εντάσσεται στη μεγαλύτερη αμμώδη ακτή του Παχύ, στη βορειοδυτική πλευρά της Θάσου. Ο βυθός είναι κυρίως αμμώδης, με μικρές πέτρες σε ορισμένα σημεία, και η είσοδος στο νερό είναι συνήθως ομαλή. Κατά την τουριστική περίοδο λειτουργούν υπηρεσίες beach bar με ξαπλώστρες, ποτά και ελαφριά γεύματα, ενώ το εστιατόριο προσφέρει ελληνικές γεύσεις και θαλασσινά. Είναι μια επιλογή για όσους θέλουν να συνδυάσουν το μπάνιο με ένα χαλαρό γεύμα χωρίς να απομακρυνθούν από την ακτή. Το απογευματινό φως και η θέα προς τη θάλασσα προσθέτουν ιδιαίτερη ατμόσφαιρα. Η διαθεσιμότητα των υπηρεσιών και οι όροι χρήσης μπορεί να αλλάζουν ανά εποχή.",
+      "practical_tips": "Η Πευκοσπηλιά είναι τμήμα της παραλίας Παχύς και όχι ανεξάρτητη παραλία. Ελέγξτε πριν από την επίσκεψη τις κρατήσεις, τις χρεώσεις και τυχόν ελάχιστη κατανάλωση για τις ξαπλώστρες. Η σκιά των πεύκων δεν καλύπτει ολόκληρη την ακτή. Σε σημεία με πετραδάκια μπορεί να φανούν χρήσιμα τα παπούτσια θαλάσσης. Η στάθμευση είναι περιορισμένη τις ημέρες αιχμής. Τουαλέτες, ντους, ναυαγοσώστης και εξοπλισμός προσβασιμότητας δεν έχουν επιβεβαιωθεί για κάθε στιγμή της σεζόν.",
+      "highlights": [
+        "Παραθαλάσσια ταβέρνα κάτω από πεύκα",
+        "Οργανωμένο τμήμα της παραλίας Παχύς",
+        "Συνήθως ομαλή είσοδος με λίγα πετραδάκια",
+        "Φαγητό και ποτό δίπλα στη θάλασσα",
+        "Όμορφη ατμόσφαιρα τις απογευματινές ώρες"
+      ],
+      "seo_title": "Πευκοσπηλιά Θάσος – παραλία Παχύς, πρόσβαση και παροχές",
+      "seo_description": "Γνωρίστε την Πευκοσπηλιά στον Παχύ της Θάσου: πεύκα, παραλία, beach bar, ταβέρνα, πρόσβαση και χρήσιμες συμβουλές.",
+      "social_caption": "🌲🏖️ Πευκοσπηλιά στη Θάσο: ένα κομμάτι της παραλίας Παχύς με πεύκα σχεδόν πάνω στο κύμα και υπέροχη ατμόσφαιρα για φαγητό δίπλα στη θάλασσα. 🌅 #Θάσος #Παχύς #Πευκοσπηλιά",
+      "photo_alt": "Η παραθαλάσσια περιοχή της Πευκοσπηλιάς κάτω από πεύκα, στην παραλία Παχύς της Θάσου."
+    },
+    "de": {
+      "name": "Pefkospilia Beach – Pachis",
+      "tagline": "Pinien, Sandstrand und Essen direkt am Meer",
+      "summary": "Pefkospilia bezeichnet einen bewirtschafteten Abschnitt am Rand des Pachis-Strandes an der Nordwestküste von Thassos. Bekannt ist der Ort für das Restaurant unter Pinien und den angeschlossenen Beachclub mit saisonalen Liegen.",
+      "description": "Pefkospilia ist keine eigenständige Bucht neben Pachis, sondern ein nach dem Restaurant und der Strandbar benannter Teil des langen Pachis-Strandes. Hohe Pinien reichen nahe an den Sand und spenden dem Restaurantbereich direkt am Wasser natürlichen Schatten. So lässt sich ein Badetag gut mit einer ruhigen Mittagspause oder einem Abendessen am Meer verbinden. Der Strand liegt an der Nordwestküste von Thassos und besteht überwiegend aus Sand. Am Wasserrand kommen stellenweise kleine Steine vor; der Einstieg ins Meer ist in der Regel sanft abfallend. In der Saison bietet die Strandbar Liegen, Getränke und kleine Speisen, während das Restaurant griechische Gerichte und Meeresfrüchte serviert. Besonders schön ist das Zusammenspiel aus den grünen Pinien, der hellen Küste und dem Blick aufs Meer. Die westliche Lage kann am späten Nachmittag für stimmungsvolles Licht sorgen. Wer hierherkommt, sollte beachten, dass sich die Angebote auf einen bestimmten bewirtschafteten Abschnitt von Pachis beziehen und die Bedingungen saisonabhängig sind.",
+      "practical_tips": "Pefkospilia gehört geografisch zum Pachis-Strand und sollte nicht als weiterer eigenständiger Strand gezählt werden. Vorab Öffnungszeiten, Reservierungen und mögliche Mindestumsätze für Liegen prüfen. Natürlicher Pinien-Schatten ist nur stellenweise vorhanden. Bei kleinen Steinen am Einstieg können Badeschuhe nützlich sein. Parkplätze in der Nähe sind im Sommer begrenzt. Duschen, Toiletten, Rettungsschwimmer oder barrierefreier Zugang sind ohne aktuelle Prüfung nicht garantiert. Kinder beim Baden stets beaufsichtigen.",
+      "highlights": [
+        "Restaurant am Wasser unter Pinien",
+        "Bewirtschafteter Teil des Pachis-Strandes",
+        "Meist sanfter Einstieg mit einzelnen Kieselsteinen",
+        "Griechische Küche und Getränke am Strand",
+        "Stimmungsvolles Licht am späten Nachmittag"
+      ],
+      "seo_title": "Pefkospilia Thassos – Pachis-Strand, Anfahrt und Angebote",
+      "seo_description": "Pefkospilia am Pachis-Strand auf Thassos entdecken: Pinien-Schatten, Strandbar, Restaurant, Anfahrt, Liegen und praktische Tipps.",
+      "social_caption": "🌲🏖️ Pefkospilia auf Thassos: ein von Pinien gesäumter Abschnitt des Pachis-Strandes, perfekt zum Baden und Genießen direkt am Meer. 🌅 #Thassos #Pachis #Pefkospilia",
+      "photo_alt": "Pinienbeschatteter Strand- und Restaurantbereich Pefkospilia am Pachis-Strand auf Thassos."
+    },
+    "bg": {
+      "name": "Пефкоспилия – плаж Пахис",
+      "tagline": "Борове, пясъчен бряг и хапване до самото море",
+      "summary": "Пефкоспилия е организирана част в единия край на плаж Пахис по северозападния бряг на Тасос. Мястото е известно с ресторанта под боровете и плажния бар със сезонни шезлонги.",
+      "description": "Пефкоспилия не е отделен залив, а обособена зона от по-дългия плаж Пахис, наречена на разположените там ресторант и плажен бар. Високите борове достигат почти до пясъка и осигуряват приятна естествена сянка около масите край морето. Това е място, където спокойно може да съчетаете къпане с обяд или вечеря на брега. Зоната се намира по северозападното крайбрежие на остров Тасос. Пясъкът преобладава, но на отделни места във водата има и дребни камъчета, а навлизането в морето обикновено е плавно. През сезона плажният бар предлага шезлонги, напитки и леки ястия, докато ресторантът е насочен към гръцката кухня и морските дарове. Зеленината на боровете и гледката към морето придават на мястото характерна атмосфера. Късният следобед може да бъде особено приятен за снимки и почивка. Услугите и условията за ползването им зависят от сезона и съответния оператор.",
+      "practical_tips": "Пефкоспилия е сектор на плаж Пахис, а не самостоятелен плаж. Проверете предварително работното време, резервациите, цените и евентуалната минимална консумация за шезлонгите. Сянката от боровете не покрива целия бряг. На местата с камъчета обувките за вода могат да са полезни. Паркирането през лятото понякога е трудно. Душове, тоалетни, спасител и достъпна инфраструктура не са потвърдени за целия сезон. Наблюдавайте децата постоянно във водата.",
+      "highlights": [
+        "Ресторант край морето под боровете",
+        "Организирана част от плаж Пахис",
+        "Обикновено плавно навлизане с отделни камъчета",
+        "Гръцки ястия и напитки на брега",
+        "Красива светлина в късния следобед"
+      ],
+      "seo_title": "Пефкоспилия Тасос – плаж Пахис, достъп и удобства",
+      "seo_description": "Разгледайте Пефкоспилия на плаж Пахис в Тасос: борове, пясък, плажен бар, ресторант, достъп и съвети за посещение.",
+      "social_caption": "🌲🏖️ Пефкоспилия на Тасос: уютна част от плаж Пахис с борове до морето и приятни места за хапване край водата. 🌅 #Тасос #Пахис #Пефкоспилия",
+      "photo_alt": "Плажната зона на Пефкоспилия с борове и ресторант до морето, плаж Пахис, остров Тасос."
+    },
+    "sr": {
+      "name": "Pefkospilija – plaža Pahis",
+      "tagline": "Hlad borova, peščana obala i restoran tik uz more",
+      "summary": "Pefkospilija je uređeni deo na jednom kraju plaže Pahis na severozapadu Tasosa. Poznata je po restoranu u senci borova i baru na plaži sa sezonskim ležaljkama.",
+      "description": "Pefkospilija nije odvojeni zaliv od plaže Pahis, već prepoznatljiv deo njene obale, nazvan po restoranu i baru koji se nalaze tik uz more. Visoki borovi dopiru gotovo do peska i stvaraju prirodan hlad oko stolova sa pogledom na vodu. Zbog toga je ovo lepo mesto za ručak, osveženje ili opušteno veče posle kupanja. Nalazi se na severozapadnoj obali ostrva Tasos, u okviru duže peščane plaže Pahis. Na obali preovlađuje pesak, ali na pojedinim mestima ima sitnog kamenja, a ulazak u more je uglavnom postepen. Tokom sezone bar na plaži nudi ležaljke, pića i lagane obroke, dok restoran priprema grčka jela i morske specijalitete. Mesto je privlačno gostima koji žele da spoje plivanje i uživanje u hrani bez dodatnog putovanja. U kasnim popodnevnim satima pogled na more i svetlost duž obale mogu biti posebno prijatni. Ponuda i uslovi korišćenja zavise od sezone i pravila lokala.",
+      "practical_tips": "Pefkospilija je deo plaže Pahis, ne zasebna prirodna plaža. Pre dolaska proverite radno vreme, rezervacije i uslove korišćenja ležaljki, uključujući eventualnu minimalnu potrošnju. Hlad borova nije prisutan na svim delovima peska. Obuća za vodu može koristiti tamo gde ima kamenčića. Parking je u sezoni ograničen. Tuševi, toaleti, spasilačka služba i pristupačnost nisu potvrđeni za sve dane sezone. Decu u vodi uvek nadgledajte.",
+      "highlights": [
+        "Restoran uz more u senci borova",
+        "Uređeni deo plaže Pahis",
+        "Uglavnom blag ulazak u more uz poneki kamenčić",
+        "Grčka hrana i piće odmah kraj plaže",
+        "Prijatna atmosfera pred zalazak sunca"
+      ],
+      "seo_title": "Pefkospilija Tasos – plaža Pahis, prilaz i sadržaji",
+      "seo_description": "Otkrijte Pefkospiliju na plaži Pahis, Tasos: borovi, pesak, bar, restoran, pristup i praktični saveti.",
+      "social_caption": "🌲🏖️ Pefkospilija na Tasosu: deo plaže Pahis gde borovi dodiruju obalu, a odmor se lako nastavlja uz ručak kraj mora. 🌅 #Tasos #Pahis #Pefkospilija",
+      "photo_alt": "Obala i restoran Pefkospilija u hladu borova na plaži Pahis na Tasosu."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/pefkospilia/images/pefkospilia1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/pefkospilia/images/pefkospilia2.webp",
+      "destinations/thassos/beaches/pefkospilia/images/pefkospilia3.webp",
+      "destinations/thassos/beaches/pefkospilia/images/pefkospilia4.webp",
+      "destinations/thassos/beaches/pefkospilia/images/pefkospilia5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/pefkospilia/images/",
+    "suggested_asset_names": [
+      "pefkospilia1.webp",
+      "pefkospilia2.webp",
+      "pefkospilia3.webp",
+      "pefkospilia4.webp",
+      "pefkospilia5.webp"
+    ],
+    "image_policy": "Publish only owned, user-supplied or legally licensed images depicting the Pefkospilia section of Pachis Beach. Five local paths were assigned from filenames visible in the user-supplied screenshot; verify the photographed location, author, commercial publication/transfer rights and attribution for every image before publication.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_beach_map",
+      "kind": "map_reference",
+      "title": "Pame Paralia — Pefkospilia Beach",
+      "url": "https://pameparalia.com/beach/pefkospilia-mainland",
+      "detail": "Labels named section at 40.7887, 24.6259 with Google Maps directions. Reports sand and pebbles, shallow water, limited parking and seasonal organized areas; field verification recommended.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_operator",
+      "kind": "operator_official",
+      "title": "Pefkospilia — official beach bar page",
+      "url": "https://pefkospilia.gr/en/beach-bar/",
+      "detail": "Confirms beach-bar operation, seasonal lounger offering, pine shade, refreshments, music and its Pachis location. No stable public pricing claimed.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_operator_map",
+      "kind": "operator_official_map",
+      "title": "Pefkospilia — official Google Maps place link via website",
+      "url": "https://pefkospilia.gr/en/beach-bar/",
+      "detail": "Official website links to a Google Maps operator POI near 40.7885596,24.6260401. Distinguish operator coordinates from named beach section point.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "local_tourism_directory",
+      "title": "Go Thassos — Pefkospilia Taverna",
+      "url": "https://www.go-thassos.gr/visiting-thassos/drinks-and-dining/pefkospilia-taverna",
+      "detail": "Positions the taverna beside Pachis sand at GPS 40.788545,24.625763; not an independently bounded beach.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_travelfind",
+      "kind": "local_directory",
+      "title": "Thasos TravelFind — Pefkospilia",
+      "url": "https://thasos.travelfind.gr/en/pefkospilia-christodoulaki-panagiota",
+      "detail": "Locates venue at the edge of Pachis under pines, with restaurant by the beach.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_beach_atlas",
+      "kind": "beach_guide",
+      "title": "BeachAtlas — Pefkospilia Beach",
+      "url": "https://www.beachatlas.com/pefkospilia",
+      "detail": "Named beach-section listing and approximate map coordinate 40.7886985,24.6259085; does not prove independent beach geography.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_gigaplaces",
+      "kind": "travel_guide",
+      "title": "GigaPlaces — Trip to Pachis and Glifoneri",
+      "url": "https://www.gigaplaces.com/en/article-trip-to-pachis-and-glifoneri-beach/",
+      "detail": "Describes southwest approach to Pachis through pines and near Pefkospilia taverna.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_commons",
+      "kind": "photo_license",
+      "title": "Wikimedia Commons — Restaurant Pefkospilia, Scala Rachoni",
+      "url": "https://commons.wikimedia.org/wiki/File:Restaurant_Pefkospilia,_Scala_Rachoni.jpg",
+      "detail": "2017 photograph by DocWoKav, own work, CC BY-SA 4.0, geotagged 40.788564,24.626242; candidate reference, not imported.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_athinorama",
+      "kind": "recent_editorial_guide",
+      "title": "Athinorama — In Thassos, the hidden emerald of the North Aegean",
+      "url": "https://en.athinorama.gr/travel/3073351/thasos-to-krufo-smaragdi-tou-boreiou-aigaiou/",
+      "detail": "2026 editorial visit describes Pefkospilia restaurant under pines in Pachys area, shore-side service and sunset dining.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Decide whether Pefkospilia has a standalone public guide page as a sector rather than a distinct beach; cross-link to Pachis Beach to avoid double counting",
+      "Confirm precise Google Maps beach-section pin and recommended parking approach; current point is approximate",
+      "Confirm pefkospilia1.webp–pefkospilia5.webp actually depict Pefkospilia at Pachis Beach; verify authorship, image rights for commercial publication/transfer and required attribution.",
+      "Confirm seasonal operation, lounger reservations and minimum-spend policies and any access conditions",
+      "Verify toilets, showers, accessible beach entry, safety services and parking in the current season",
+      "Native-speaker review of six-language copy before publication"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original six-language editorial text; commercial publication and transfer rights for the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths have been assigned from filenames shown in the provided screenshot. Images are not bundled in this JSON; precise photographic subjects and rights have not been independently verified.",
+    "parent_beach_id": "gr-thassos-beach-pachis",
+    "independent_beach_count": false
+  }
+}

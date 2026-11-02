@@ -1,0 +1,399 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-astris",
+  "slug": "astris",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Αστρίς",
+    "international_name": "Astris Beach",
+    "aliases": [
+      "Astrida Beach",
+      "Astris City Beach",
+      "Astris Municipal Beach",
+      "Παραλία Αστρίδα",
+      "Astrida",
+      "Astris",
+      "Astrid Beach"
+    ],
+    "entity_scope": "Astris main/local beach area on the south coast, with two adjacent sections: the small Astrida entrance cove from Potos and the broader Astris Beach waterfront by the restaurant/hotel. These may be maintained as sections under this record pending precise boundary review.",
+    "deduplication_warning": "Astrida Beach may refer specifically to the smaller western entrance cove, while Astris City Beach often refers to the larger eastern section. Do not count both as independent full beaches without checking boundaries. Psili Ammos, Agia Anna, Kalami and Salonikios are separate coastal entities. Astris Beach also names a local restaurant/accommodation, not only the beach."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south / south-southwest",
+    "settlements": [
+      "Astris",
+      "Astrida"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Astris%20Beach%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_map_osm",
+    "coordinate_type": "map_search_query_not_verified_pin; independent OSM approximate reference 40.5831,24.63894",
+    "coordinate_review_status": "pending_manual_google_maps_pin_verification; OSM beach way and independent mapped point disagree slightly because of multiple beach sections; do_not_publish_lat_lng_yet",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "predominantly_sand_with_some_pebbles_and_rocky_edges",
+    "seabed_near_shore": "mixed_sand_pebbles_rocks_depending_on_section",
+    "water_entry": "gentle_in_sandy_parts_but_variable_at_rocks",
+    "nearshore_depth": "variable_from_shallow_to_deeper_by_section",
+    "water_clarity": "often_clear_turquoise_weather_dependent",
+    "wave_conditions": "wind_and_weather_dependent",
+    "exposure": "south_coast_open_aegean_approach_in_small_coves",
+    "natural_shade_on_sand": "limited; olive trees mostly behind beach",
+    "beach_length_m": null,
+    "length_note": "Multiple adjacent sections and mutable sand distribution make an unqualified single length misleading; measure exact entity boundaries before publication.",
+    "backdrop": "olive groves, low green hills, a few nearby businesses and accommodation",
+    "shoreline_type": "two_adjacent_sandy_cove_sections_separated_by_rocks"
+  },
+  "visitor_experience": {
+    "organization": "partly_organized_with_open_spaces",
+    "suitable_for": [
+      "couples",
+      "families_with_supervision",
+      "quiet_beach_day",
+      "local_accommodation_guests",
+      "swimming",
+      "beach_relaxation"
+    ],
+    "notable_for": [
+      "two_neighbouring_sectors",
+      "less_crowded_character",
+      "mixed_seabed",
+      "olive_grove_backdrop",
+      "nearby_restaurant"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunbathing",
+      "relaxing",
+      "beach_photography",
+      "beach_volleyball_reported_at_small_cove_seasonal"
+    ],
+    "estimated_crowd_peak": "often_less_busy_than_major_south_coast_beaches; no quantitative data",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Seabed is mixed; submerged rocks and changing depth can make individual entries less suitable for small children. Examine local conditions, watch wind and supervise swimmers."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Mentioned at seasonal local operators; availability for current season and public access not independently confirmed."
+    },
+    "showers": {
+      "available_in_some_sections": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": true,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": true,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No dependable season-specific confirmation of lifeguard presence across either section.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Roadside proximity does not establish accessible sand pathways or adaptive sea entry; site inspection required.",
+    "free_unserviced_space": true,
+    "facilities_scope": "The small entrance cove and the broad Astris waterfront do not have identical amenities; operator-dependent and seasonal; do not claim full continuous coverage."
+  },
+  "access_and_cost": {
+    "road_access": "main_astris_coastal_road_with_nearby_local_access",
+    "public_transport": "bus_stop_and_current_season_schedule_not_verified",
+    "parking_type": "roadside_and_reported_local_free_parking_area; verify_current_conditions",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Some guides describe a drink purchase in exchange for lounger use or separate renting; current terms, minimum spend and prices are operator-dependent and must be checked.",
+    "best_arrival_advice": "Arrive earlier in July and August for parking choice and shade; choose the western cove or broader eastern section before parking.",
+    "distance_from_limenas_km": null,
+    "distance_note": "No verified point-to-point driving distance for this beach record; route depends on chosen section and island ring-road direction."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": "s_blue_flag"
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, waves, crowds, lounger availability or opening hours into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Astris Beach (Astrida)",
+      "tagline": "Două porțiuni de plajă, apă limpede și liniștea sudului insulei",
+      "summary": "Astris Beach se află pe coasta sudică a insulei Thassos, în zona Astris/Astrida. O mică porțiune de nisip la intrarea în localitate și un sector mai lat lângă restaurantul Astris Beach oferă o alternativă mai liniștită la golfurile intens vizitate.",
+      "description": "Astris Beach se întinde de-a lungul țărmului din sudul insulei Thassos, într-o zonă cu livezi de măslini, coline joase și priveliști largi spre Marea Egee. Vizitatorii întâlnesc două sectoare apropiate: un golfuleț mai mic, cunoscut adesea drept Astrida Beach, la intrarea dinspre Potos, și o porțiune mai lată de plajă în dreptul restaurantului și al unităților de cazare Astris Beach. Un mic promontoriu stâncos separă vizual cele două zone. Pe mal predomină nisipul, dar sub apă există atât porțiuni nisipoase, cât și pietricele sau roci; este bine să privești fundul mării înainte să intri. Apa este adesea limpede și turcoaz, iar intrarea poate fi lină în zonele cu nisip, fără ca adâncimea să fie uniformă peste tot. În sezon, anumite porțiuni au șezlonguri, umbrele, băuturi și mâncare în apropiere, în timp ce atmosfera generală este de regulă mai tihnită decât pe plajele foarte cunoscute ale insulei. Astris este potrivită pentru o zi de înot fără grabă și pentru cei cazați în sudul Thassosului. Nu o confunda cu Psili Ammos, situată mai spre vest, și nici cu plajele sălbatice Kalami și Salonikios, aflate în altă parte a coastei.",
+      "practical_tips": "Alege dinainte sectorul dorit: golfulețul mic de la intrarea dinspre Potos sau zona mai largă de lângă restaurantul Astris Beach. Accesul se face de pe șoseaua insulei, iar parcarea este relatată în apropierea plajei, însă disponibilitatea și gratuitatea trebuie reconfirmate la fața locului. Ia încălțăminte de apă dacă intenționezi să înoți în zonele cu pietre. Toaletele, dușurile și cabinele pot aparține operatorilor sezonieri, nu întregului țărm. Verifică termenii pentru șezlonguri înainte să te așezi: consumul minim și tarifele se pot modifica. Supraveghează copiii și verifică valurile și adâncimea la fiecare intrare; nu presupune că toate sectoarele sunt la fel de puțin adânci. Nu există o certificare Blue Flag 2026 verificată pentru acest sector.",
+      "highlights": [
+        "Două sectoare apropiate, despărțite de stânci",
+        "Nisip pe mal și fund marin mixt",
+        "Atmosferă în general liniștită",
+        "Șezlonguri și locuri unde poți mânca, sezonier",
+        "Peisaj cu măslini și coline joase"
+      ],
+      "seo_title": "Astris Beach (Astrida), Thassos – acces, nisip și facilități",
+      "seo_description": "Descoperă Astris Beach din Thassos: cele două sectoare de la Astrida, fundul marin cu nisip și pietre, parcare, șezlonguri și sfaturi pentru vizită.",
+      "social_caption": "🌊 Astris Beach, Thassos: două porțiuni de plajă, apă limpede și ritmul liniștit al sudului insulei. 🏖️ Descoperă zona Astrida și alege sectorul preferat! 🇬🇷 #Thassos #AstrisBeach #Astrida",
+      "photo_alt": "Plajă nisipoasă în zona Astris din sudul insulei Thassos, cu apă limpede, umbrelе și coline verzi în depărtare."
+    },
+    "en": {
+      "name": "Astris Beach (Astrida)",
+      "tagline": "Two neighbouring beach sections and a quieter southern-island setting",
+      "summary": "On the southern coast of Thassos, Astris Beach includes a small sandy cove at the entrance to Astris and a wider beach near the Astris Beach restaurant. It offers a relaxed alternative to the island's busier bays.",
+      "description": "Astris Beach lies along the southern shoreline of Thassos, surrounded by olive groves, gentle hills and open views of the Aegean Sea. Visitors will find two nearby sections: a smaller sandy cove, often called Astrida Beach, encountered when approaching the settlement from Potos, and a broader stretch in front of the Astris Beach restaurant and nearby accommodation. Rocks create a visual divide between these sections, which can lead travel guides to name them slightly differently. Sand covers much of the shore, while the seabed changes between sand, small stones and rocky patches. The water often looks clear and turquoise, and entry can be gentle where the bottom is sandy, but the depth and surface should never be assumed to be identical throughout the bay. During the tourist season, parts of the beach offer loungers and umbrellas, with places for food and drinks close to the water. Its appeal is not a huge resort atmosphere but a slower pace and a seaside setting convenient for visitors staying around Astris. The beach is distinct from nearby Psili Ammos to the west and from the separate coves around Kalami and Salonikios further along the coast.",
+      "practical_tips": "Choose whether you want the little entrance cove or the wider section by the Astris Beach restaurant before parking. The area is reached from the island's main road; roadside or local parking is reported, but spaces and any charges should be checked on arrival. Water shoes are useful around the rocky seabed. Toilets, showers and changing facilities may be provided by individual seasonal businesses rather than being available all along the beach. Ask about current lounger terms or minimum purchases before using them. Watch conditions and supervise children, as entry and depth vary by spot. A Blue Flag award specifically covering Astris Beach has not been verified for 2026.",
+      "highlights": [
+        "Two neighbouring sections divided by rocks",
+        "Sandy shore with a mixed seabed",
+        "Typically relaxed atmosphere",
+        "Seasonal loungers and nearby food",
+        "Olive groves and low coastal hills"
+      ],
+      "seo_title": "Astris Beach Thassos – Astrida beach guide and access",
+      "seo_description": "Explore Astris Beach in southern Thassos: Astrida's two beach sections, sand and rocks in the sea, loungers, parking and useful local tips.",
+      "social_caption": "🌊 Astris Beach, Thassos: clear water, sandy stretches and a peaceful corner of the island's south coast. 🏖️ Two neighbouring spots, one easy-going beach day! 🇬🇷 #Thassos #AstrisBeach #Astrida",
+      "photo_alt": "Sandy Astris Beach in southern Thassos, with clear sea, beach umbrellas and low green hills beyond the shoreline."
+    },
+    "el": {
+      "name": "Παραλία Αστρίς (Αστρίδα)",
+      "tagline": "Δύο γειτονικά τμήματα παραλίας και ηρεμία στη νότια Θάσο",
+      "summary": "Η παραλία Αστρίς βρίσκεται στη νότια Θάσο. Περιλαμβάνει έναν μικρό αμμώδη κολπίσκο στην είσοδο της περιοχής από τον Ποτό και μια πιο πλατιά ακτή κοντά στο εστιατόριο Astris Beach, προσφέροντας μια ήσυχη επιλογή για μπάνιο.",
+      "description": "Η παραλία Αστρίς βρίσκεται στη νότια ακτή της Θάσου, σε ένα τοπίο με ελαιώνες, χαμηλούς λόφους και ανοιχτή θέα στο Αιγαίο. Η ακτογραμμή παρουσιάζει δύο κοντινά τμήματα: έναν μικρό αμμώδη κολπίσκο στην είσοδο του οικισμού από την πλευρά του Ποτού, που συχνά αναφέρεται ως παραλία Αστρίδα, και μια μεγαλύτερη αμμουδιά μπροστά από το εστιατόριο και τα καταλύματα Astris Beach. Μια βραχώδης προεξοχή χωρίζει οπτικά τα δύο σημεία, γι' αυτό και οι περιγραφές τους διαφέρουν από οδηγό σε οδηγό. Στην ακτή υπάρχει κυρίως άμμος, ενώ μέσα στη θάλασσα συναντώνται αμμώδη τμήματα, βότσαλα και βράχια. Τα νερά είναι συχνά διαυγή και γαλαζοπράσινα· σε ορισμένα σημεία η είσοδος είναι ομαλή, όμως το βάθος και ο βυθός αλλάζουν. Κατά τη θερινή περίοδο λειτουργούν σε επιλεγμένα σημεία ξαπλώστρες και ομπρέλες, ενώ κοντά στη θάλασσα υπάρχουν επιλογές για φαγητό και ποτό. Η Αστρίς προσφέρει έναν πιο χαλαρό ρυθμό σε σχέση με πολυσύχναστες παραλίες του νησιού και εξυπηρετεί ιδιαίτερα όσους διαμένουν στη νότια Θάσο. Δεν πρέπει να συγχέεται με την Ψιλή Άμμο ή τους ξεχωριστούς κολπίσκους προς το Καλάμι και τον Σαλονικιό.",
+      "practical_tips": "Επιλέξτε πρώτα αν σας εξυπηρετεί ο μικρός κολπίσκος στην είσοδο από τον Ποτό ή το μεγαλύτερο τμήμα μπροστά από το εστιατόριο Astris Beach. Η πρόσβαση γίνεται από τον περιφερειακό δρόμο του νησιού· έχουν αναφερθεί κοντινές θέσεις στάθμευσης, αλλά η διαθεσιμότητα και τυχόν χρεώσεις χρειάζονται επιτόπια επιβεβαίωση. Παπούτσια θαλάσσης είναι χρήσιμα στα βραχώδη σημεία. Τουαλέτες, ντους και αποδυτήρια ενδέχεται να ανήκουν σε εποχικές επιχειρήσεις. Ενημερωθείτε για τις χρεώσεις ή την ελάχιστη κατανάλωση στις ξαπλώστρες. Προσέχετε τα παιδιά και ελέγχετε το βάθος και τον κυματισμό. Δεν έχει επαληθευτεί βράβευση Γαλάζιας Σημαίας 2026 για την Αστρίδα.",
+      "highlights": [
+        "Δύο κοντινά τμήματα χωρισμένα με βράχια",
+        "Αμμώδης ακτή και μικτός βυθός",
+        "Συνήθως ήρεμη ατμόσφαιρα",
+        "Εποχικές ξαπλώστρες και φαγητό κοντά",
+        "Ελαιώνες και χαμηλοί παραθαλάσσιοι λόφοι"
+      ],
+      "seo_title": "Παραλία Αστρίς – Αστρίδα Θάσου, πρόσβαση και παροχές",
+      "seo_description": "Ανακαλύψτε την παραλία Αστρίς στη Θάσο: δύο τμήματα ακτής, άμμο και βράχια στον βυθό, ξαπλώστρες, στάθμευση και πρακτικές συμβουλές.",
+      "social_caption": "🌊 Παραλία Αστρίς, Θάσος: καθαρά νερά, αμμουδιά και μια ήσυχη γωνιά της νότιας ακτής. 🏖️ Δύο κοντινά σημεία για μια χαλαρή καλοκαιρινή μέρα! 🇬🇷 #Θάσος #Αστρίς #Αστρίδα",
+      "photo_alt": "Αμμώδης ακτή στην περιοχή Αστρίς της νότιας Θάσου, με καθαρή θάλασσα, ομπρέλες και πράσινους λόφους στο βάθος."
+    },
+    "de": {
+      "name": "Astris Beach (Astrida)",
+      "tagline": "Zwei benachbarte Strandabschnitte und Ruhe im Süden von Thassos",
+      "summary": "Astris Beach liegt an der Südküste von Thassos. Eine kleine Sandbucht am Ortseingang von Astris und ein breiterer Strand beim Restaurant Astris Beach bieten eine entspannte Alternative zu stärker besuchten Buchten.",
+      "description": "Astris Beach befindet sich an der Südküste der Insel Thassos, eingebettet zwischen Olivenhainen, niedrigen Hügeln und dem weiten Blick über die Ägäis. Der Küstenabschnitt besteht aus zwei benachbarten Bereichen: einer kleineren Sandbucht am Ortseingang von Potos kommend, die häufig Astrida Beach genannt wird, und einem breiteren Strand vor dem Restaurant und den Unterkünften Astris Beach. Ein felsiger Vorsprung trennt die beiden Teile optisch, weshalb ihre Namen in Reiseführern nicht immer einheitlich verwendet werden. Am Ufer liegt überwiegend Sand, während der Meeresboden zwischen Sand, Kieseln und Felsen wechselt. Das Wasser ist oft klar und türkisfarben. An sandigen Stellen ist der Einstieg häufig sanft, aber Tiefe und Beschaffenheit sind nicht überall gleich. In der Urlaubssaison gibt es an einzelnen Abschnitten Liegen und Sonnenschirme; Speisen und Getränke sind in Strandnähe erhältlich. Astris ist besonders attraktiv für Reisende, die in der Umgebung wohnen oder einen weniger hektischen Strandtag verbringen möchten. Der Strand ist nicht mit Psili Ammos weiter westlich oder den gesonderten Buchten bei Kalami und Salonikios zu verwechseln.",
+      "practical_tips": "Vor der Anfahrt entscheiden, ob die kleine Bucht am Ortseingang oder der größere Abschnitt beim Restaurant Astris Beach besser passt. Die Zufahrt erfolgt über die Inselstraße. Parkmöglichkeiten in Strandnähe werden beschrieben, ihre aktuelle Verfügbarkeit und mögliche Gebühren sollten jedoch vor Ort geprüft werden. Für steinige Bereiche sind Badeschuhe sinnvoll. Toiletten, Duschen und Umkleiden können zu saisonalen Betrieben gehören und stehen nicht unbedingt überall zur Verfügung. Bedingungen und eventuellen Mindestverzehr für Sonnenliegen vor der Nutzung erfragen. Auf Kinder achten und Wellen sowie Wassertiefe an jeder Stelle neu einschätzen. Eine Blaue-Flagge-Auszeichnung für Astris Beach im Jahr 2026 konnte nicht bestätigt werden.",
+      "highlights": [
+        "Zwei nahe Strandabschnitte mit felsiger Trennung",
+        "Sandstrand mit teils steinigem Meeresboden",
+        "Meist ruhige Atmosphäre",
+        "Saisonale Liegen und Gastronomie",
+        "Olivenhaine und sanfte Küstenhügel"
+      ],
+      "seo_title": "Astris Beach Thassos – Astrida, Anfahrt und Ausstattung",
+      "seo_description": "Astris Beach auf Thassos: zwei Strandabschnitte bei Astrida, Sand und Steine im Wasser, Liegen, Parken und hilfreiche Tipps für den Besuch.",
+      "social_caption": "🌊 Astris Beach auf Thassos: klares Meer, sandige Abschnitte und eine entspannte Atmosphäre an der Südküste. 🏖️ Entdecke zwei kleine Lieblingsplätze! 🇬🇷 #Thassos #AstrisBeach #Astrida",
+      "photo_alt": "Sandiger Astris Beach im Süden von Thassos mit klarem Meer, Sonnenschirmen und grünen Hügeln im Hintergrund."
+    },
+    "bg": {
+      "name": "Плаж Астрис (Астрида)",
+      "tagline": "Два съседни плажни участъка и спокойствие в южната част на Тасос",
+      "summary": "Плаж Астрис е на южния бряг на Тасос. Той обхваща малко пясъчно заливче на входа на Астрис откъм Потос и по-широка плажна ивица до ресторанта Astris Beach – приятно място за по-спокойна почивка.",
+      "description": "Плаж Астрис се намира на южното крайбрежие на остров Тасос сред маслинови горички, ниски хълмове и широки гледки към Егейско море. Брегът има две близки части: малък пясъчен залив на входа на селището откъм Потос, често наричан Астрида, и по-широка ивица пред ресторанта и местата за настаняване Astris Beach. Скалист нос визуално разделя двата участъка, затова имената им понякога се използват различно в туристическите източници. По брега преобладава пясъкът, докато под водата се редуват пясъчни места, камъчета и скали. Морето често е бистро и тюркоазено; навлизането може да е плавно на пясъчните участъци, но дълбочината и морското дъно не са еднакви навсякъде. През летния сезон на определени места има шезлонги и чадъри, както и възможности за храна и напитки наблизо. Астрис е подходящ за посетители, които предпочитат по-спокойна атмосфера или са отседнали в южната част на острова. Не бива да се бърка с отделния плаж Псили Амос на запад, нито със заливите при Калами и Салоникиос.",
+      "practical_tips": "Изберете предварително малкото заливче откъм Потос или по-широкия участък пред ресторанта Astris Beach. Достига се от главния път на острова. Споменават се места за паркиране близо до плажа, но наличността и евентуалните такси трябва да се проверят на място. Водни обувки са полезни в скалистите участъци. Тоалетни, душове и съблекални може да се предоставят само от сезонни заведения. Попитайте за актуалните условия и минимална консумация при ползване на шезлонги. Наблюдавайте децата и проверявайте дълбочината и вълните. Не е потвърдено отличие „Син флаг“ за Астрис за 2026 г.",
+      "highlights": [
+        "Два съседни участъка, разделени от скали",
+        "Пясъчен бряг и смесено морско дъно",
+        "Обикновено спокойна атмосфера",
+        "Сезонни шезлонги и заведения наблизо",
+        "Маслинови горички и ниски хълмове"
+      ],
+      "seo_title": "Плаж Астрис, Тасос – Астрида, достъп и удобства",
+      "seo_description": "Разгледайте плаж Астрис на Тасос: двата участъка при Астрида, пясък и скали във водата, шезлонги, паркиране и полезни съвети.",
+      "social_caption": "🌊 Плаж Астрис, Тасос: бистро море, пясъчни участъци и спокойствие на южния бряг. 🏖️ Две близки места за чудесен летен ден! 🇬🇷 #Тасос #Астрис #Астрида",
+      "photo_alt": "Пясъчният бряг при Астрис в южен Тасос с бистро море, чадъри и зелени хълмове на заден план."
+    },
+    "sr": {
+      "name": "Plaža Astris (Astrida)",
+      "tagline": "Dva susedna dela plaže i mirniji odmor na jugu Tasosa",
+      "summary": "Plaža Astris nalazi se na južnoj obali Tasosa. Obuhvata malu peščanu uvalu na ulazu u Astris iz pravca Potosa i širi deo obale pored restorana Astris Beach, u prijatnijem i mirnijem okruženju.",
+      "description": "Plaža Astris prostire se duž južne obale Tasosa, okružena maslinjacima, niskim brdima i otvorenim pogledom na Egejsko more. Posetioci nailaze na dva bliska dela: malu peščanu uvalu na ulazu u naselje iz pravca Potosa, često nazvanu Astrida, i širu plažu ispred restorana i smeštaja Astris Beach. Stenoviti rt vizuelno razdvaja ove delove, pa nazivi u vodičima nisu uvek potpuno usklađeni. Na samoj obali preovlađuje pesak, dok se pod vodom smenjuju peskovita mesta, sitno kamenje i stene. More je često bistro i tirkizno, a ulazak može biti postepen na peščanim delovima; ipak, dubina i sastav dna razlikuju se od mesta do mesta. Tokom letnje sezone na pojedinim delovima postoje ležaljke i suncobrani, a u blizini se mogu naći piće i hrana. Astris je dobar izbor za goste smeštene na jugu ostrva i one koji više vole opušten dan na moru nego velike i veoma prometne plaže. Ne treba ga mešati sa zasebnom plažom Psili Amos zapadnije, niti sa uvalama u oblasti Kalami i Salonikios.",
+      "practical_tips": "Pre dolaska odlučite da li vam više odgovara mala uvala na ulazu iz pravca Potosa ili širi deo kod restorana Astris Beach. Prilaz je sa glavnog ostrvskog puta; parkiranje u blizini se pominje u vodičima, ali slobodna mesta i moguće naknade treba proveriti na licu mesta. Obuća za vodu korisna je tamo gde ima kamenja. Toaleti, tuševi i kabine mogu pripadati sezonskim lokalima i nisu nužno dostupni duž cele obale. Pre korišćenja ležaljki raspitajte se za cenu ili minimalnu porudžbinu. Pazite na decu i proveravajte dubinu i talase pri svakom ulasku u vodu. Za Astris nije potvrđena Plava zastava u sezoni 2026.",
+      "highlights": [
+        "Dva bliska dela plaže razdvojena stenama",
+        "Peščana obala i mešovito morsko dno",
+        "Uglavnom mirna atmosfera",
+        "Sezonske ležaljke i ugostiteljski objekti",
+        "Maslinjaci i niska priobalna brda"
+      ],
+      "seo_title": "Plaža Astris, Tasos – Astrida, prilaz i sadržaji",
+      "seo_description": "Otkrijte plažu Astris na Tasosu: dva dela u Astridi, pesak i kamenje u vodi, ležaljke, parking i praktične savete za posetu.",
+      "social_caption": "🌊 Plaža Astris na Tasosu: bistro more, peščani delovi i mirniji kutak južne obale. 🏖️ Dva susedna mesta za opušten letnji dan! 🇬🇷 #Tasos #Astris #Astrida",
+      "photo_alt": "Peščana plaža Astris na jugu Tasosa, sa bistrom vodom, suncobranima i zelenim brežuljcima u pozadini."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/astris/images/astris1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/astris/images/astris2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/astris/images/astris3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/astris/images/astris4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/astris/images/astris5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/astris/images/",
+    "suggested_asset_names": [
+      "astris1.webp",
+      "astris2.webp",
+      "astris3.webp",
+      "astris4.webp",
+      "astris5.webp"
+    ],
+    "image_policy": "Use only original photos provided or expressly authorized by the user for this beach. Image 1 is cover; images 2–5 are the gallery in numeric order. Verify the actual WebP files, location match, and commercial reuse rights before publication.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_nikana_city",
+      "kind": "local_guide",
+      "title": "Nikana – Astris city beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1939/astris-city-beach",
+      "detail": "Two adjacent organized sectors, sand on shore, variable rocky/sandy seabed, restaurant, parking and services; last updated July 2024.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_astrida",
+      "kind": "local_guide",
+      "title": "Nikana – Astrida beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/2190/astrida-beach",
+      "detail": "The smaller entrance cove from the Potos direction, sandy shore and rocky/sandy seabed, beach bar, possible volleyball; updated April 2024.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_village",
+      "kind": "local_guide",
+      "title": "Nikana – Astris area",
+      "url": "https://ns1.nikana.gr/en/tourist-guide/thassos/places/1824/astris",
+      "detail": "Clarifies the small Astrida cove separated by rocks from the larger Astris city beach.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_beach",
+      "kind": "local_destination_guide",
+      "title": "Go Thassos – Astris Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/astris-beach",
+      "detail": "Mixed sand, pebbles, rock shelf, variation in depth; food, WC and parking listed.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_area",
+      "kind": "local_destination_guide",
+      "title": "Go Thassos – Astris",
+      "url": "https://www.go-thassos.gr/about-thassos/places/astris",
+      "detail": "Astris/Astrida naming, olive groves and coastal landscape; distinguishes Psili Ammos and Giola.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_astris_property",
+      "kind": "local_business_primary",
+      "title": "Astris Beach Studios & Restaurant",
+      "url": "https://www.astrisbeach.com/",
+      "detail": "Confirms restaurant, accommodation and beach association in Astris; operator details may change.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_map_osm",
+      "kind": "map_secondary",
+      "title": "Mapcarta – Astris beach, OSM way 208159696",
+      "url": "https://mapcarta.com/W208159696",
+      "detail": "Reference center 40.5831, 24.63894 from OpenStreetMap; not claimed as a Google Maps pin or confirmed car access point.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover",
+      "kind": "local_destination_guide",
+      "title": "Discover Thassos – Astris Beach",
+      "url": "https://www.discover-thassos.com/listing/astris-beach-thassos/",
+      "detail": "Southern beach divided into two sections; sunbeds, umbrellas and nearby hospitality.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blue_flag",
+      "kind": "official_certification_list",
+      "title": "Blue Flag 2026 – Greece regional beach maps",
+      "url": "https://www.blueflag.gr/en/node/4058",
+      "detail": "Official award maps/list source; no Astris-specific 2026 award verified.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blue_flag_region",
+      "kind": "regional_2026_award_list",
+      "title": "Kavala News – 2026 Blue Flags on Thassos",
+      "url": "https://www.kavalanews.gr/node/59594",
+      "detail": "May 2026 list names the five Thassos awarded sections; Astris is not among them.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_map_pame",
+      "kind": "map_secondary",
+      "title": "Pame Paralia – Astris Beach",
+      "url": "https://pameparalia.com/beach/astris-mainland",
+      "detail": "Approximate mapped beach point 40.5835, 24.6358; inconsistent beach aliases make it unsuitable as authoritative geometry.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_pending_images_geolocation_and_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm whether Astris and Astrida small cove should be separate records or named sections without duplicate count",
+      "Confirm exact Google Maps pin for beach and separate safe access point / parking for both sections",
+      "Check on-site 2026/2027 toilet, shower, changing room, lounger, volleyball and beach-bar services",
+      "Confirm actual parking fees and whether access is free in every publicly accessible area",
+      "Check lifeguard and wheelchair accessible beach entry",
+      "Verify Blue Flag / water-quality status from current official list when updating certification",
+      "Confirm all five local astris1.webp–astris5.webp files exist, accurately depict the intended Astris/Astrida beach sections, and have commercial-use permission.",
+      "Review nuanced water entry and seabed differences across the two sectors",
+      "Human proofreading of all six languages before publishing"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "Only user-designated local WebP paths are referenced. Source images were not uploaded here, so file presence, actual content and usage rights remain unverified; no external photo candidates are used."
+  }
+}

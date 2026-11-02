@@ -1,0 +1,443 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-arsanas",
+  "slug": "arsanas",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Αρσανάς",
+    "international_name": "Arsanas Beach",
+    "aliases": [
+      "Arsanas",
+      "Arsana Beach",
+      "Arsanas Bay",
+      "Afroditi Arsanas Beach",
+      "Afroditi Beach (Arsanas)",
+      "Παραλία Αρσανά",
+      "Παραλία Αρσανάς",
+      "Αρσανάς Θάσου"
+    ],
+    "entity_scope": "Small distinct cove east of Livadi, beneath the Monastery of Archangel Michael on the southeastern/southern coast of Thassos. Includes only the Arsanas pocket beach, not Livadi.",
+    "deduplication_warning": "Arsanas / Arsana and Afroditi Arsanas refer here to the same Thassos cove; do not conflate it with the separate Aphrodite Beach by Skala Sotiros, with Livadi Beach just west, or with the unrelated Arsanas near Ouranoupoli on mainland Halkidiki."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southeast / southern coastline, east of Livadi",
+    "settlements": [
+      "Astrida (Astris)",
+      "Aliki (nearby coastal reference)",
+      "Potos (regional access)"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Arsanas%20Beach%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_google_maps_search",
+    "coordinate_type": "unverified_beach_pin_coordinates_not_published",
+    "coordinate_review_status": "Location corroborated independently at approximately 40.59805,24.69597 (allovergreece); Google Maps search URL is name-based and exact pin/parking entrance have not been verified; do not claim Google coordinate provenance.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "fine_sand_mixed_with_pebbles_and_stones",
+    "seabed_near_shore": "rocky_first_metres_with_stones_and_urchins_reported",
+    "water_entry": "uneven_rocky_entry_then_deeper_sections",
+    "nearshore_depth": "variable; can deepen relatively quickly",
+    "water_clarity": "typically_clear_turquoise",
+    "wave_conditions": "sheltered_cove_but_weather_and_boat_wakes_vary",
+    "exposure": "small_rocky_cove_beneath_high_coastal_slopes",
+    "natural_shade_on_sand": "limited; pines border upper cove",
+    "beach_length_m": null,
+    "length_note": "Some guides estimate about 60–70 m, but no authoritative shoreline measurement was confirmed; no precise figure asserted.",
+    "backdrop": "pine-covered slopes, rocky coastal headlands and the higher Monastery of Archangel Michael",
+    "shoreline_type": "compact_cove_not_the_adjacent_livadi_bay"
+  },
+  "visitor_experience": {
+    "organization": "small_mixed_seasonally_serviced_cove",
+    "suitable_for": [
+      "couples",
+      "experienced_swimmers",
+      "scenic_swimming",
+      "snorkeling",
+      "photography",
+      "visitors_comfortable_with_steep_foot_access"
+    ],
+    "notable_for": [
+      "small_turquoise_cove",
+      "cool_spring_influenced_water",
+      "monastic_maritime_history",
+      "rocky_snorkeling_edges",
+      "pine_backdrop",
+      "steep_access"
+    ],
+    "activities_possible": [
+      "swimming",
+      "snorkeling",
+      "nature_photography",
+      "coastal_sightseeing",
+      "seasonal_boat_excursion_stop"
+    ],
+    "estimated_crowd_peak": "small_capacity_can_feel_full_in_high_season_or_when_excursion_boats_arrive",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Rough dirt approach and steep final footpath; stones and reported sea urchins at water entry. Depth, waves and boat traffic vary. Supervise children closely and do not treat swimming between Arsanas and Livadi as a recommended access route."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Conflicting descriptions: one regional directory lists WC, while a more detailed local guide reports no toilets; verify presence and public availability on site."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "Sources conflict on showers and changing facilities; not reliable enough to promise."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": null,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": false,
+    "volleyball": false,
+    "accommodation_nearby": null,
+    "lifeguard": null,
+    "lifeguard_note": "No reliable season-specific confirmation of on-duty lifeguard at this small cove; never imply supervised swimming.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "A steep narrow footpath and steps are reported, so independent wheelchair access must not be promised.",
+    "free_unserviced_space": null,
+    "facilities_scope": "Guide descriptions of a small canteen/taverna and lounger/umbrella hire are historical or season-dependent; exact service status, toilets, showers and free space require fresh on-site verification."
+  },
+  "access_and_cost": {
+    "road_access": "paved_island_road_then_rough_dirt_track_toward_livadi_arsanas_and_final_steep_footpath",
+    "public_transport": "no_confirmed_bus_stop_at_beach; last_section_requires_independent_transport_or_walk",
+    "parking_type": "limited_informal_upper_beach_or_trackside_parking_reported; exact_position_unverified",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Seasonal operator may rent loungers and umbrellas or apply a consumption rule; no current price or policy verified.",
+    "best_arrival_advice": "Allow extra time for slow driving and the descent on foot. Wear stable walking shoes and water shoes; carry drinking water, sun protection and cash/card backup. Check the track condition, especially after rain, and avoid driving low-clearance vehicles down an uncertain road.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Guides suggest roughly 38–39 km from Limenas, but route and chosen starting point differ; official navigated route distance not verified."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Arsanas Beach (Afroditi Arsanas)",
+      "tagline": "Un golf mic, cu apă de smarald, sub stâncile mănăstirii",
+      "summary": "Arsanas este o plajă mică și spectaculoasă din sud-estul insulei Thassos, aproape de Livadi și sub mănăstirea Arhanghelului Mihail. Golful îmbină nisipul și pietricelele cu apă limpede, adesea mai rece în zonele influențate de izvoare, și un acces pe jos abrupt.",
+      "description": "Ascunsă între versanți abrupți și pini, Arsanas Beach pare un colț de coastă desprins dintr-o fotografie. Golful se află sub mănăstirea Arhanghelului Mihail, iar numele său amintește de vechiul loc în care erau adăpostite și întreținute bărcile mănăstirii. Este o plajă distinctă de Livadi, aflată imediat spre vest, nu o simplă porțiune a aceleiași întinderi de nisip. Pe mal se întâlnesc nisipul, pietricelele și pietrele, iar primii pași prin apă pot fi incomozi din cauza fundului stâncos; în unele zone au fost semnalați și arici de mare. În schimb, apa capătă nuanțe intense de verde și turcoaz, iar stâncile de pe marginile golfului oferă priveliști frumoase și oportunități pentru snorkeling atunci când marea este calmă. Izvoarele de apă dulce din apropiere pot crea porțiuni surprinzător de răcoroase. În anumite sezoane funcționează un mic punct de servire și sunt amplasate șezlonguri și umbrele, dar nu trebuie presupus că toate facilitățile sunt disponibile în fiecare zi. Farmecul locului vine și din accesul mai aventuros: de la șoseaua principală se urmează un drum de pământ accidentat, apoi o potecă îngustă și abruptă. Arsanas răsplătește vizitatorii pregătiți pentru această coborâre cu un peisaj aparte, însă dimensiunile reduse fac ca golful să se aglomereze repede în zilele de vârf sau în timpul opririlor unor ambarcațiuni de excursie.",
+      "practical_tips": "Verifică starea drumului de pământ înainte să cobori cu mașina; pentru autoturisme joase poate fi o problemă, mai ales după ploaie. Ultima parte a traseului se parcurge pe jos, pe o potecă abruptă, așa că poartă încălțăminte cu talpă aderentă. Pentru intrarea în mare sunt utile încălțările de apă, din cauza pietrelor și a posibililor arici de mare. Ia apă, protecție solară și lucrurile esențiale chiar dacă te bazezi pe punctul de servire sezonier. Nu considera toaletele, dușurile, parcarea sau șezlongurile garantate. Plaja nu este o alegere comodă pentru cărucioare, persoane cu mobilitate redusă ori familii cu copii foarte mici. Nu încerca să ajungi înot din Livadi drept scurtătură: stâncile, valurile și traficul ambarcațiunilor pot face traseul riscant.",
+      "highlights": [
+        "Golf mic încadrat de stânci și pini",
+        "Apă limpede, uneori rece datorită izvoarelor",
+        "Snorkeling pe lângă marginile stâncoase",
+        "Istoria vechiului adăpost de bărci al mănăstirii",
+        "Acces pe potecă abruptă; șezlonguri sezoniere"
+      ],
+      "seo_title": "Arsanas Beach Thassos – acces, snorkeling și facilități",
+      "seo_description": "Descoperă Arsanas Beach din Thassos, lângă Livadi: golf turcoaz sub mănăstirea Arhanghelului Mihail, acces pe drum de pământ, snorkeling și sfaturi.",
+      "social_caption": "🌊 Arsanas Beach, Thassos: un mic golf turcoaz ascuns sub stânci și pini, aproape de mănăstirea Arhanghelului Mihail. 🥾 Drumul cere puțină aventură, iar peisajul merită descoperit. 🇬🇷 #Thassos #ArsanasBeach #ExploreGreece",
+      "photo_alt": "Golful Arsanas din Thassos, cu apă verde-turcoaz, plajă mică și versanți stâncoși acoperiți de pini."
+    },
+    "en": {
+      "name": "Arsanas Beach (Afroditi Arsanas)",
+      "tagline": "A tiny emerald-water cove below the monastery cliffs",
+      "summary": "Arsanas is a compact scenic cove on the southeastern coast of Thassos, close to Livadi and beneath the Monastery of Archangel Michael. Sand and pebbles meet remarkably clear, sometimes cooler water, while the final approach involves a steep footpath.",
+      "description": "Tucked between rugged slopes and pine trees, Arsanas Beach is one of the smaller, more dramatic coves on Thassos. High above stands the Monastery of Archangel Michael, and the beach name recalls the former monastic landing and boatyard. Arsanas is a distinct pocket beach immediately east of Livadi, not merely another name for its neighbouring shore. The beach itself is a mixture of sand, pebbles and stones. At the sea entry the bottom can be rocky, and some local guides report sea urchins, so water shoes are a sensible choice. Beyond the first few metres, the bay glows in shades of emerald and turquoise; on calm days its rocky edges are inviting for careful snorkelling. Freshwater springs are reported to cool parts of the sea, adding an unusual twist to a hot summer swim. A small taverna or refreshment point and rented loungers have been reported in some seasons, but services and their availability must be checked locally. Reaching the beach is part of the experience: an uneven dirt track branches from the island road in the Livadi area, followed by a narrow, steep walk down. The dramatic setting is well worth considering for visitors who are comfortable with that approach, but the cove is not spacious. A few groups or the arrival of an excursion boat may quickly make it feel busy, even though the surroundings retain their natural character.",
+      "practical_tips": "Inspect current dirt-road conditions before committing your car, especially after rain or when driving a low-clearance rental vehicle. The final approach is a steep, uneven walk, so bring grippy shoes, followed by water shoes for the rocky shallows and possible sea urchins. Pack drinking water, sun protection and essentials regardless of whether the seasonal snack point is open. Do not count on showers, toilets, unrestricted parking or lounge availability without checking locally. The access is poorly suited to strollers or travellers with limited mobility, and the rocky entry makes it less convenient for very young children. Swimming over from Livadi is not a recommended shortcut because of rocks, changing conditions and possible boat traffic.",
+      "highlights": [
+        "Compact cove below pine-covered cliffs",
+        "Clear emerald water cooled by local springs",
+        "Rocky-edge snorkelling on calm days",
+        "Historic monastic boatyard setting",
+        "Rough track and steep foot approach"
+      ],
+      "seo_title": "Arsanas Beach Thassos – access, snorkelling & facilities",
+      "seo_description": "Guide to Arsanas Beach, Thassos: turquoise cove beneath Archangel Michael Monastery, rocky water entry, dirt-road access, loungers and practical tips.",
+      "social_caption": "🌊 Arsanas Beach, Thassos: a tiny turquoise cove tucked below pine-covered cliffs and the Monastery of Archangel Michael. 🥾 The steep approach is part of the adventure. 🇬🇷 #Thassos #ArsanasBeach #GreekIslands",
+      "photo_alt": "Small Arsanas Beach cove on Thassos, with clear green-blue water, a narrow shore and pine-covered rocky slopes."
+    },
+    "el": {
+      "name": "Παραλία Αρσανάς (Αφροδίτη)",
+      "tagline": "Μικρός όρμος με σμαραγδένια νερά κάτω από τους βράχους της μονής",
+      "summary": "Ο Αρσανάς είναι ένας μικρός, εντυπωσιακός όρμος στη νοτιοανατολική Θάσο, κοντά στο Λιβάδι και κάτω από τη Μονή Αρχαγγέλου Μιχαήλ. Η άμμος και το βότσαλο συναντούν διάφανα, συχνά πιο δροσερά νερά, ενώ η τελευταία πρόσβαση γίνεται από απότομο μονοπάτι.",
+      "description": "Κρυμμένη ανάμεσα σε βραχώδεις πλαγιές και πεύκα, η παραλία Αρσανάς είναι ένας μικρός όρμος με ιδιαίτερη φυσική ομορφιά. Ψηλότερα βρίσκεται η Μονή Αρχαγγέλου Μιχαήλ, ενώ το όνομα της παραλίας θυμίζει τον παλιό αρσανά, τον χώρο όπου φυλάσσονταν και συντηρούνταν τα σκάφη της μονής. Πρόκειται για ξεχωριστή παραλία ανατολικά από το γειτονικό Λιβάδι και όχι για δεύτερη ονομασία της ίδιας ακτής. Στην ακτή εναλλάσσονται άμμος, βότσαλα και πέτρες. Τα πρώτα μέτρα μέσα στη θάλασσα μπορεί να είναι βραχώδη και σε ορισμένα σημεία αναφέρονται αχινοί, γι’ αυτό τα παπούτσια θαλάσσης είναι ιδιαίτερα χρήσιμα. Τα νερά είναι συνήθως διάφανα, με σμαραγδένιες και γαλαζοπράσινες αποχρώσεις, ενώ κοντά στα βράχια προσφέρονται ευκαιρίες για προσεκτικό κολύμπι με μάσκα όταν η θάλασσα είναι ήρεμη. Πηγές γλυκού νερού στην περιοχή δημιουργούν κατά τόπους αισθητά δροσερότερες ζώνες. Σε ορισμένες περιόδους λειτουργεί μικρό αναψυκτήριο ή ταβέρνα και τοποθετούνται ξαπλώστρες με ομπρέλες, χωρίς όμως οι παροχές να είναι δεδομένες σε κάθε εποχή. Για να φτάσετε, ακολουθείτε χωματόδρομο από την περιοχή του Λιβαδίου και στη συνέχεια κατηφορίζετε ένα στενό, απότομο μονοπάτι. Το τοπίο ανταμείβει όσους μπορούν να κάνουν αυτή τη διαδρομή, αλλά ο διαθέσιμος χώρος είναι περιορισμένος και ο όρμος μπορεί να γεμίσει γρήγορα, ειδικά όταν καταφθάνουν εκδρομικά σκάφη.",
+      "practical_tips": "Ελέγξτε την κατάσταση του χωματόδρομου πριν τον ακολουθήσετε με αυτοκίνητο, ιδιαίτερα μετά από βροχή ή με χαμηλό όχημα. Χρησιμοποιήστε σταθερά παπούτσια για το απότομο μονοπάτι και παπούτσια θαλάσσης για τις πέτρες και τους πιθανούς αχινούς. Πάρτε μαζί νερό, αντηλιακή προστασία και τα απαραίτητα ακόμη κι αν περιμένετε να λειτουργεί το εποχικό αναψυκτήριο. Η διαθεσιμότητα τουαλέτας, ντους, στάθμευσης και ξαπλωστρών δεν είναι εγγυημένη. Η πρόσβαση δεν είναι κατάλληλη για καρότσια ή άτομα με περιορισμένη κινητικότητα και απαιτεί αυξημένη προσοχή με μικρά παιδιά. Μην θεωρείτε ασφαλή συντόμευση το κολύμπι από το Λιβάδι λόγω βράχων, κυματισμού και πιθανής κυκλοφορίας σκαφών.",
+      "highlights": [
+        "Μικρός όρμος ανάμεσα σε βράχια και πεύκα",
+        "Διάφανα, δροσερά σμαραγδένια νερά",
+        "Ενδιαφέρον βυθός για μάσκα στις ήρεμες ημέρες",
+        "Ιστορία του παλιού αρσανά της μονής",
+        "Χωματόδρομος και απότομο τελικό μονοπάτι"
+      ],
+      "seo_title": "Παραλία Αρσανάς Θάσος – πρόσβαση, βυθός και παροχές",
+      "seo_description": "Ανακαλύψτε τον Αρσανά στη Θάσο, δίπλα στο Λιβάδι: τιρκουάζ όρμος κάτω από τη Μονή Αρχαγγέλου Μιχαήλ, χωματόδρομος, βράχια και πρακτικές συμβουλές.",
+      "social_caption": "🌊 Παραλία Αρσανάς, Θάσος: ένας μικρός σμαραγδένιος όρμος κάτω από πεύκα και βράχια, κοντά στη Μονή Αρχαγγέλου Μιχαήλ. 🥾 Η κατάβαση θέλει προσοχή, η θέα όμως εντυπωσιάζει! 🇬🇷 #Θάσος #Αρσανάς #Ελλάδα",
+      "photo_alt": "Ο μικρός όρμος Αρσανάς στη Θάσο με διάφανα γαλαζοπράσινα νερά, στενή παραλία και βραχώδεις πλαγιές με πεύκα."
+    },
+    "de": {
+      "name": "Arsanas Beach (Afroditi Arsanas)",
+      "tagline": "Eine kleine Smaragdbucht unterhalb der Klosterfelsen",
+      "summary": "Arsanas ist eine kleine, landschaftlich reizvolle Bucht an der südöstlichen Küste von Thassos, nahe Livadi und unterhalb des Klosters des Erzengels Michael. Sand und Kies treffen auf besonders klares, stellenweise kühleres Wasser; der letzte Weg führt über einen steilen Pfad.",
+      "description": "Zwischen steilen Felsen und Pinien liegt der Arsanas Beach, eine der kleineren, aber besonders eindrucksvollen Buchten von Thassos. Oberhalb befindet sich das Kloster des Erzengels Michael. Der Name Arsanas erinnert an den früheren Anlege- und Reparaturplatz für die Boote des Klosters. Der Strand liegt unmittelbar östlich von Livadi und ist eine eigenständige Bucht, nicht bloß ein anderer Name für den Nachbarstrand. Am Ufer wechseln sich Sand, Kiesel und Steine ab. Gerade auf den ersten Metern im Meer ist der Untergrund teilweise felsig; örtliche Reiseführer weisen auch auf Seeigel hin. Badeschuhe sind daher sehr empfehlenswert. Das Wasser leuchtet oft türkis und smaragdgrün und bietet bei ruhiger See an den Felsrändern schöne Möglichkeiten zum vorsichtigen Schnorcheln. Süßwasserquellen können einzelne Bereiche der Bucht spürbar abkühlen. In manchen Sommerzeiten gibt es eine kleine Taverne oder einen Imbiss und vermietete Liegen mit Sonnenschirmen, doch diese Angebote sind nicht ganzjährig garantiert. Die Anfahrt erfolgt über einen holprigen Feldweg in der Nähe von Livadi; anschließend führt ein schmaler und steiler Fußweg hinab zum Wasser. Wer trittsicher ist und den Zugang nicht scheut, erlebt eine eindrucksvolle Naturkulisse. Da der Strand sehr klein ist, kann er trotz seiner abgeschiedenen Lage rasch voll wirken, besonders wenn Ausflugsboote kurz halten.",
+      "practical_tips": "Vor der Fahrt den Zustand des unbefestigten Weges prüfen, besonders nach Regen oder mit einem niedrig liegenden Mietwagen. Für den steilen Abstieg sind feste Schuhe wichtig, für den steinigen Einstieg und mögliche Seeigel Badeschuhe. Nehmen Sie Trinkwasser, Sonnenschutz und das Nötigste mit, auch wenn ein saisonaler Kiosk angekündigt ist. Toiletten, Duschen, Parkmöglichkeiten und freie Liegen sollten nicht als garantiert angesehen werden. Der Zugang ist für Kinderwagen und Menschen mit eingeschränkter Mobilität ungeeignet und für sehr kleine Kinder wenig komfortabel. Schwimmen vom benachbarten Livadi als Abkürzung ist wegen Felsen, wechselnder Bedingungen und möglichem Bootsverkehr nicht zu empfehlen.",
+      "highlights": [
+        "Kleine Bucht zwischen Pinien und Felsen",
+        "Klares, durch Quellen stellenweise kühleres Meer",
+        "Schnorcheln an den Felsen bei ruhiger See",
+        "Historischer Bootsplatz des Klosters",
+        "Holprige Zufahrt und steiler Fußweg"
+      ],
+      "seo_title": "Arsanas Beach Thassos – Anfahrt, Schnorcheln und Ausstattung",
+      "seo_description": "Arsanas Beach auf Thassos entdecken: türkisfarbene Bucht bei Livadi unter dem Erzengel-Michael-Kloster, steiler Zugang, Felsen und Tipps.",
+      "social_caption": "🌊 Arsanas Beach auf Thassos: eine kleine türkisfarbene Bucht unter Pinien und Felsen, nahe dem Kloster des Erzengels Michael. 🥾 Der steile Weg macht den Besuch zum kleinen Abenteuer! 🇬🇷 #Thassos #ArsanasBeach #Griechenland",
+      "photo_alt": "Kleine Bucht Arsanas auf Thassos mit smaragdgrünem Meer, schmalem Strand und pinienbewachsenen Felsen."
+    },
+    "bg": {
+      "name": "Плаж Арсанас (Афродити Арсанас)",
+      "tagline": "Малък изумруден залив под скалите на манастира",
+      "summary": "Арсанас е малък живописен залив на югоизточния бряг на Тасос, близо до Ливади и под манастира „Св. Архангел Михаил“. Пясъкът и камъчетата се срещат с прозрачна, на места по-хладна вода, а последният участък до плажа е по стръмна пътека.",
+      "description": "Скрит между скалисти склонове и борове, плаж Арсанас е едно от малките, но впечатляващи заливчета на остров Тасос. Високо над него се намира манастирът „Св. Архангел Михаил“, а името напомня за старото монашеско пристанище, където някога са били прибирани и поддържани лодките. Арсанас е самостоятелен плаж непосредствено източно от Ливади и не бива да се смесва със съседния залив. По брега има пясък, дребни камъчета и по-едри камъни. Първите метри във водата могат да бъдат скалисти, а на някои места са описвани морски таралежи, затова обувките за вода са полезни. Морето често блести в смарагдови и тюркоазени нюанси; в спокойни дни край скалите има приятни места за внимателно гмуркане с маска. Подводни сладководни извори могат да охлаждат отделни участъци. През някои сезони работят малко заведение и се предлагат шезлонги с чадъри, но наличието на тези услуги не е постоянно. До залива се стига по неравен черен път откъм Ливади, последван от тясна и стръмна пешеходна пътека. Посещението възнаграждава подготвените туристи с красива гледка, но пространството е малко и може бързо да се запълни, особено при пристигане на туристически лодки.",
+      "practical_tips": "Проверете състоянието на черния път, преди да слезете с автомобил, особено след дъжд или с ниска кола под наем. За стръмната пътека обуйте стабилни обувки, а за каменистото дъно и възможните морски таралежи вземете обувки за вода. Носете питейна вода, слънцезащита и основни принадлежности, дори ако очаквате сезонното заведение да работи. Тоалетни, душове, паркоместа и свободни шезлонги не са гарантирани. Достъпът е неудобен за детски колички, хора с ограничена подвижност и семейства с много малки деца. Не използвайте плуването от Ливади като пряк път заради скалите, променливите условия и възможното движение на лодки.",
+      "highlights": [
+        "Малък залив сред борове и скали",
+        "Бистра изумрудена вода, охлаждана от извори",
+        "Гмуркане с маска покрай скалите в спокойно море",
+        "Историческо монашеско пристанище",
+        "Неравен черен път и стръмна пътека"
+      ],
+      "seo_title": "Плаж Арсанас, Тасос – достъп, гмуркане и удобства",
+      "seo_description": "Открийте плаж Арсанас на Тасос до Ливади: тюркоазен залив под манастира „Св. Архангел Михаил“, черен път, скали и полезни съвети.",
+      "social_caption": "🌊 Арсанас, Тасос: малък тюркоазен залив под скали и борове, близо до манастира „Св. Архангел Михаил“. 🥾 Стръмният достъп е част от приключението! 🇬🇷 #Тасос #Арсанас #Гърция",
+      "photo_alt": "Малкият залив Арсанас на Тасос с бистра тюркоазена вода, тесен бряг и скалисти склонове с борове."
+    },
+    "sr": {
+      "name": "Plaža Arsanas (Afroditi Arsanas)",
+      "tagline": "Mala smaragdna uvala ispod stena manastira",
+      "summary": "Arsanas je mala slikovita uvala na jugoistočnoj obali Tasosa, blizu Livadija i ispod manastira Svetog arhangela Mihaila. Pesak i obluci susreću se sa bistrom, mestimično hladnijom vodom, a poslednji deo prilaza vodi strmom stazom.",
+      "description": "Skrivena između kamenitih padina i borova, plaža Arsanas jedna je od manjih, ali veoma upečatljivih uvala na Tasosu. Visoko iznad nje nalazi se manastir Svetog arhangela Mihaila, a naziv plaže podseća na nekadašnje monaško pristanište i mesto za čuvanje i održavanje čamaca. Arsanas je zasebna uvala istočno od plaže Livadi, a ne drugi naziv za susednu obalu. Na obali se smenjuju pesak, sitni obluci i kamenje. Prvi metri u moru mogu biti stenoviti, a lokalni vodiči upozoravaju i na morske ježeve, zbog čega su patike za vodu dobar izbor. More je često izuzetno prozirno, sa zelenim i tirkiznim nijansama. Kada je mirno, stenoviti krajevi uvale pogodni su za pažljivo ronjenje sa maskom. Slatkovodni izvori mogu učiniti pojedine delove vode osetno hladnijim. Tokom nekih sezona dostupni su mali ugostiteljski objekat, ležaljke i suncobrani, ali se na njihovo svakodnevno prisustvo ne treba oslanjati. Prilaz se odvaja sa glavnog puta prema Livadiju, nastavlja neravnim zemljanim putem i završava uskom, strmom pešačkom stazom. Oni koji su spremni na takav silazak nagrađeni su posebnim krajolikom, ali pošto je uvala mala, brzo može delovati puna, naročito kada pristanu izletnički brodovi.",
+      "practical_tips": "Pre spuštanja automobilom proverite stanje zemljanog puta, naročito posle kiše ili ako vozite nizak rentakar. Za strmu stazu potrebna je stabilna obuća, a za kamenito dno i moguće morske ježeve obuća za vodu. Ponesite vodu za piće, zaštitu od sunca i osnovne potrepštine čak i kada očekujete da sezonski lokal radi. Toaleti, tuševi, parking i slobodne ležaljke nisu zagarantovani. Prilaz nije praktičan za dečja kolica i osobe sa ograničenom pokretljivošću, a ulazak u more zahteva poseban oprez sa malom decom. Plivanje iz Livadija ne treba koristiti kao prečicu zbog stena, promenljivih uslova i mogućeg saobraćaja čamaca.",
+      "highlights": [
+        "Mala uvala među borovima i stenama",
+        "Bistra voda koju ponegde hlade izvori",
+        "Ronjenje s maskom uz stene kada je mirno",
+        "Nekadašnje pristanište manastira",
+        "Neravan put i strma pešačka staza"
+      ],
+      "seo_title": "Plaža Arsanas Tasos – pristup, ronjenje i sadržaji",
+      "seo_description": "Otkrijte Arsanas na Tasosu, blizu Livadija: tirkizna uvala ispod manastira Svetog arhangela Mihaila, zemljani put, kameno dno i saveti.",
+      "social_caption": "🌊 Arsanas na Tasosu: mala tirkizna uvala ispod borova i stena, nedaleko od manastira Svetog arhangela Mihaila. 🥾 Strm prilaz je deo doživljaja! 🇬🇷 #Tasos #Arsanas #Grčka",
+      "photo_alt": "Mala uvala Arsanas na Tasosu sa bistrim zelenoplavim morem, uskom plažom i stenovitim padinama pod borovima."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/arsanas/images/arsanas1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/arsanas/images/arsanas2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/arsanas/images/arsanas3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/arsanas/images/arsanas4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/arsanas/images/arsanas5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/arsanas/images/",
+    "suggested_asset_names": [
+      "arsanas1.webp",
+      "arsanas2.webp",
+      "arsanas3.webp",
+      "arsanas4.webp",
+      "arsanas5.webp"
+    ],
+    "image_policy": "Use only images supplied or approved by the project owner, with verified rights for commercial publication. Image 1 is the cover; images 2–5 appear in numeric gallery order.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_discover_greece",
+      "kind": "tourism_guide",
+      "title": "Discover Greece — 10 of the best beaches in Thassos (updated September 2026)",
+      "url": "https://www.discovergreece.com/travel-ideas/best-of/10-best-beaches-thassos",
+      "detail": "Arsanas small pine-backed cove, snorkelling, cooler freshwater streams, fine sand and pebbles, seasonal sunbeds/taverna, dirt road and short walk, near but separate from Livadi.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_arsanas",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Arsanas (Afroditi) Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1942/afroditi-arsanas-beach",
+      "detail": "Aliases Afroditi / Arsanas; steep narrow last path, bumpy drive, rocky first metres, reported sea urchins and freshwater cooling; some seasonal loungers/canteen. Older guide last updated March 2020.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover_thassos",
+      "kind": "local_travel_guide",
+      "title": "Discover Thassos — Arsanas Beach",
+      "url": "https://www.discover-thassos.com/listing/arsanas-beach-thassos/",
+      "detail": "Monastic boatyard identity, relationship to Livadi and monastery, rough road, steep walk, spring-influenced cold water, offshore rocks and photography; related venue/parking details can be seasonal.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_staythassos",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Arsanas Beach: Swimming under the Monastery",
+      "url": "https://staythassos.gr/arsanas-beach/",
+      "detail": "Steep footpath, rocky shoreline and sea urchins, limited services, no showers or changing rooms reported; conflicts with allovergreece directory on these amenities.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_allovergreece_en",
+      "kind": "regional_directory",
+      "title": "All Over Greece — Arsanas Beach",
+      "url": "https://www.allovergreece.com/Beaches/Descr/44/1256/en",
+      "detail": "Beach coordinates 40.59805 24.69597 from an independent guide (not Google Maps); sandy/pebbly small bay, dirt road and steep last ~100 m walk, seasonal rented loungers and facilities listed; not a current municipal certification.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_allovergreece_el",
+      "kind": "regional_directory",
+      "title": "All Over Greece — Παραλία Αρσανάς",
+      "url": "https://www.allovergreece.com/Beaches/Descr/44/1256/el",
+      "detail": "Greek spelling Παραλία Αρσανάς, beach profile, facilities noted but current operation uncertain; location identity.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_gothassos",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Arsanas Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/arsanas-beach",
+      "detail": "Coastal cove near Livadi under the monastery; visual geography and identity.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_thassos_view",
+      "kind": "local_travel_guide",
+      "title": "Thassos View — Arsanas Beach",
+      "url": "https://www.thassos-view.com/places/beaches/arsanas-beach",
+      "detail": "Nearby Livadi; former monastic boatyard, pebbles/stones and cold water attributed to springs.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_whichgreekisland",
+      "kind": "travel_guide",
+      "title": "Which Greek Island — Arsanas Beach Thassos",
+      "url": "https://whichgreekisland.co.uk/islands/thassos/beaches/arsanas/",
+      "detail": "Small sandy bay with rough dirt approach and steep last path, seasonal taverna/lounge hire, rocky shore and sea urchin caution; approximate size not adopted as official figure.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_livadi",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Livadi Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1927/livadi-beach",
+      "detail": "Documents Livadi as distinct neighbouring bay and cautions about rough access and swimming between the coves.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_google_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Arsanas Beach (search, not verified pin)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arsanas%20Beach%2C%20Thassos%2C%20Greece",
+      "detail": "Search link only; not an independently verified coordinate pin or safe vehicle approach. Coordinates left null pending confirmation.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_category",
+      "kind": "image_collection",
+      "title": "Wikimedia Commons — Arsanas Beach (Thasos) category",
+      "url": "https://commons.wikimedia.org/wiki/Category:Arsanas_Beach_(Thasos)",
+      "detail": "Three files categorized specifically to Arsanas Beach on Thassos; individual licenses checked separately.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_lucian",
+      "kind": "image_license",
+      "title": "Wikimedia Commons — Arsanas beach, Thasos - panoramio (24).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Arsanas_beach,_Thasos_-_panoramio_(24).jpg",
+      "detail": "Lucian Duma, taken 2013-08-28; Wikimedia Commons original CC BY-SA 3.0, Panoramio bot historical verification.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_shtilian5",
+      "kind": "image_license",
+      "title": "Wikimedia Commons — Thasos - panoramio (5).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Thasos_-_panoramio_(5).jpg",
+      "detail": "Shtilian Shterev, taken 2015-05-29, CC BY-SA 3.0; Commons Arsanas category, original 4272x2848.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_shtilian19",
+      "kind": "image_license",
+      "title": "Wikimedia Commons — Thassos - panoramio (19).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Thassos_-_panoramio_(19).jpg",
+      "detail": "Shtilian Shterev, taken 2015-05-29, CC BY-SA 3.0; Commons Arsanas category, original 6000x4000; check whether framed subject best suits property.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_disambig_halkidiki",
+      "kind": "disambiguation_reference",
+      "title": "Arsanas near Ouranoupoli — unrelated Halkidiki beach",
+      "url": "https://dimosaristoteli.gr/en/paralies/arsanas/",
+      "detail": "Completely different mainland Arsanas beach below Zygos monastery near Ouranoupoli; never mix with Thassos record.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_media_paths_configured_pending_asset_check_and_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Open Google Maps, verify the exact beach pin and safe pedestrian/vehicle entry and only then set coordinates; current approximately 40.59805,24.69597 from a separate published directory",
+      "Confirm present seasonal taverna/canteen, umbrellas, loungers, rates and whether any unserviced space remains",
+      "Resolve conflicting reports on toilets, showers and changing rooms; do not promise facilities without on-site verification",
+      "Check current dirt road condition and any access or parking restrictions; avoid suggesting low-clearance rental cars descend without inspection",
+      "Confirm current lifeguard cover, accessibility and nearshore hazards; do not equate absence of reports with safe swimming",
+      "Verify the five user-prepared local images (arsanas1.webp through arsanas5.webp) exist in the expected GitHub images folder, depict Arsanas Beach in Thassos, display in numeric order and have suitable quality and rights for commercial publication",
+      "Proofread translations with native speakers before public release, especially Serbian Latin and Greek naming",
+      "Do not mix with neighbouring Livadi, unrelated Arsanas at Ouranoupoli or the Aphrodite Beach near Skala Sotiros",
+      "Official Blue Flag status and bathing water class not independently established; do not assert a 2026 certification"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text supplied. Five local image paths have been configured from user-provided filenames, but the image files and commercial publication rights have not been independently verified.",
+    "photo_source_disclaimer": "Media paths refer only to the five filenames shown by the project owner (arsanas1.webp–arsanas5.webp). No image binary was supplied here, imported, or independently checked; external photo candidates are not used."
+  }
+}

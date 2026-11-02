@@ -1,0 +1,378 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-skala-sotiros",
+  "slug": "skala-sotiros",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Σκάλας Σωτήρος",
+    "international_name": "Skala Sotiros Beach",
+    "aliases": [
+      "Skala Sotirou Beach",
+      "Skala Sotiros City Beach",
+      "Scala Sotiros Beach",
+      "Skala Sotiras Beach",
+      "Σκάλα Σωτήρος",
+      "Παραλία Σκάλας Σωτήρα"
+    ],
+    "entity_scope": "Small village beach beside the harbour of Skala Sotiros on the west-northwest coast of Thassos; not a synonym for every coastal section around the village.",
+    "deduplication_warning": "Names Skala Sotiros Beach, Skala Sotiros city beach and Scala Sotiros can denote the same central village beach. Do not count harbour promenade or neighbouring more distant shoreline as additional beaches without geographic verification.",
+    "related_place_ids": [
+      "gr-thassos-place-skala-sotiros-harbour"
+    ],
+    "nearby_not_synonyms": [
+      "Skala Kallirachis Beach",
+      "Skala Prinos Beach"
+    ]
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "west / northwest",
+    "settlements": [
+      "Skala Sotiros",
+      "Sotiras"
+    ],
+    "lat": 40.72786,
+    "lng": 24.5464,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.72786%2C24.54640",
+    "coordinate_source_reference": "s_osm_beach",
+    "coordinate_type": "approximate_center_of_OSM_mapped_beach_not_confirmed_google_maps_pin",
+    "coordinate_review_status": "PROVISIONAL: coordinates from OpenStreetMap via Mapcarta; Google Maps URL is a viewing link, not proof of Google Maps source. Nikana embedded Google map references 40.730769,24.551241 farther northeast; exact beach point and access require direct Google Maps review.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null,
+    "navigation_warning": "Point is for visual review of the beach, not a confirmed vehicle entrance, car park or pedestrian access.",
+    "alternative_coordinate_to_review": {
+      "lat": 40.730769,
+      "lng": 24.551241,
+      "source_ref": "s_nikana_google_embed",
+      "note": "Map centre/point from Nikana Google Maps iframe; differs from OSM beach center. Do not use as confirmed entry."
+    }
+  },
+  "physical_profile": {
+    "shore_material": "mainly_fine_sand_with_some_small_pebbles",
+    "seabed_near_shore": "mainly_sandy_with_local_pebbles_or_stones",
+    "water_entry": "generally_gradual_in_main_swimming_area",
+    "nearshore_depth": "generally_shallow_at_first_then_increasing",
+    "water_clarity": "often_clear_conditions_vary",
+    "wave_conditions": "weather_and_wind_dependent",
+    "exposure": "west_facing_village_shore_near_small_harbour",
+    "natural_shade_on_sand": "limited_or_spot_dependent",
+    "beach_length_m": null,
+    "length_note": "Published length estimates for the central triangular bathing section differ from broader named coastline; intentionally not fixed.",
+    "backdrop": "Village buildings, nearby tavernas and small harbour; open westward views across the sea",
+    "shoreline_type": "short_village_sandy_beach_near_harbour"
+  },
+  "visitor_experience": {
+    "organization": "partly_organized_seasonally",
+    "suitable_for": [
+      "families",
+      "couples",
+      "village_stays",
+      "relaxed_swimming",
+      "sunset_viewing",
+      "short_walks"
+    ],
+    "notable_for": [
+      "fine_sand",
+      "generally_gradual_entry",
+      "village_convenience",
+      "harbour_promenade",
+      "western_sunset_views"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunbathing",
+      "shoreline_walking",
+      "sunset_photography",
+      "casual_dining_nearby"
+    ],
+    "estimated_crowd_peak": "locally_popular_in_summer_but_not_a_large_destination_beach",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Swim only in the beach swimming area, not within boat manoeuvring zones of the harbour. Check changing winds, depth and patches of stones; always supervise children."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Go Thassos lists WC, but ownership, public access and current seasonal availability not independently verified."
+    },
+    "showers": {
+      "available_in_some_sections": true,
+      "note": "Go Thassos lists showers; verify exact position and operational status."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": false,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "Lifeguard service and schedule not confirmed for this beach.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Nearby paved village routes do not establish verified step-free access to sand or into water.",
+    "free_unserviced_space": null,
+    "facilities_scope": "Beach equipment and hygiene facilities are reported, but exact locations, current operating schedules and rights of access vary by operator and season."
+  },
+  "access_and_cost": {
+    "road_access": "paved_main_island_road_to_Skala_Sotiros_village",
+    "public_transport": "local_or_seasonal_bus_connections_to_village_check_current_timetable",
+    "parking_type": "village_street_parking_or_nearby_spaces_subject_to_availability",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Old guide reports sunbeds offered with a drink purchase, but this must not be treated as a current guaranteed policy; confirm on site.",
+    "best_arrival_advice": "During summer, arrive earlier if seeking an organised spot; stay for the west-facing evening light and sunset if conditions permit.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Route distance varies with route and starting point; no single unverified number asserted."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Never hard-code live weather, sea temperature, UV, waves, access status or prices into editorial JSON."
+  },
+  "translations": {
+    "ro": {
+      "name": "Skala Sotiros Beach",
+      "tagline": "O plajă liniștită de sat, cu nisip fin și apusuri peste mare",
+      "summary": "Plaja centrală din Skala Sotiros este o întindere mică de nisip de pe coasta vestică a insulei Thassos, lângă portul pescăresc. Intrarea în apă este în general lină, iar tavernele și promenada se află la câțiva pași.",
+      "description": "Skala Sotiros Beach oferă o atmosferă diferită de plajele celebre și întinse ale insulei Thassos. Aflată chiar lângă micul sat de pe coasta vestică, plaja are nisip fin, o intrare în mare în general graduală și câteva porțiuni unde se întâlnesc pietricele la marginea apei. Dimensiunile sale reduse o fac potrivită pentru o baie relaxată, în special dacă ești cazat în localitate și nu vrei să petreci ziua pe drum. Vara pot exista șezlonguri și umbrele, iar în spatele plajei găsești locuri în care să mănânci sau să te oprești la o cafea. Portul cu bărci mici și promenada adaugă farmecul unui sat grecesc autentic; pentru înot alege însă zona de plajă, nu interiorul portului. Fiind orientată spre vest, zona este apreciată mai ales spre seară, când lumina caldă colorează marea. Este o alegere bună pentru familii și pentru cei care preferă ritmul liniștit al unei stațiuni mici, cu condiția să verifice mereu starea mării și locul exact unde intră în apă.",
+      "practical_tips": "Plaja se află lângă centrul localității și poate fi accesată ușor pe jos din apropiere. În sezon, verifică la fața locului dacă șezlongurile sunt oferite contra cost sau în baza unei comenzi, precum și unde funcționează toaletele și dușurile. Pot exista pietricele la intrarea în apă. Evită înotul în zona bărcilor din port și supraveghează copiii chiar dacă apa este puțin adâncă lângă mal. Pentru fotografii, lumina de seară este deosebit de plăcută.",
+      "highlights": [
+        "Plajă mică, predominant nisipoasă",
+        "Intrare în apă în general graduală",
+        "Promenadă și port pescăresc în apropiere",
+        "Taverne și cafenele la câțiva pași",
+        "Priveliști frumoase la apus"
+      ],
+      "seo_title": "Skala Sotiros Beach, Thassos – nisip, acces și apusuri",
+      "seo_description": "Descoperă plaja Skala Sotiros din Thassos: nisip fin, apă cu intrare lină, facilități sezoniere, portul pitoresc și sfaturi utile pentru vizită.",
+      "social_caption": "🌅 O altă față a insulei Thassos: Skala Sotiros Beach. Nisip fin, o plajă de sat liniștită și un port cu bărci mici, perfect pentru o plimbare la apus. 🇬🇷 Salveaz-o pentru o zi relaxată! #Thassos #SkalaSotiros #GreekIslands",
+      "photo_alt": "Plaja nisipoasă Skala Sotiros din Thassos, în apropierea satului și a micului port pescăresc."
+    },
+    "en": {
+      "name": "Skala Sotiros Beach",
+      "tagline": "A peaceful village beach with soft sand and west-coast sunsets",
+      "summary": "A compact sandy beach beside the fishing harbour of Skala Sotiros on the west coast of Thassos. The generally gentle entry to the sea, nearby tavernas and short promenade make it convenient for a laid-back village stay.",
+      "description": "Skala Sotiros Beach offers a quieter kind of Thassos beach day. Located beside a small west-coast village and its fishing harbour, this compact shore is mostly fine sand, with some pebbles where the beach meets the water. The sea generally deepens gradually near the main swimming area, making it appealing to visitors who prefer a relaxed dip rather than a day at a large, bustling beach. Seasonal loungers and umbrellas may be available, while tavernas and cafés sit close enough to combine swimming with an unhurried meal. A walk along the harbour adds a glimpse of everyday island life, with small fishing boats and waterside views. The harbour itself is not a swimming area, so keep bathing to the beach. Facing west, the village is especially pleasant in the softer afternoon light and at sunset. Skala Sotiros is a practical choice for families, couples and anyone staying locally who wants to enjoy the sea without planning a long drive. As on any beach, wave conditions, stones underfoot and water depth should always be checked on arrival.",
+      "practical_tips": "If you stay in Skala Sotiros, the village beach is easy to combine with a short stroll and meal. Check current lounger rules locally; older reports mention a drink-based arrangement, but pricing may have changed. Toilets and showers are reported but their exact location and availability need confirmation. Watch for small pebbles at the waterline, avoid swimming around moored boats and supervise children. Sunset is a particularly good time for photographs.",
+      "highlights": [
+        "Small and mainly sandy village beach",
+        "Generally gradual sea entry",
+        "Fishing harbour and short promenade nearby",
+        "Tavernas and cafés close to the shore",
+        "Attractive west-facing sunset views"
+      ],
+      "seo_title": "Skala Sotiros Beach Thassos – sand, access & sunsets",
+      "seo_description": "Explore Skala Sotiros Beach on Thassos: a quiet sandy village beach near the harbour, with gentle swimming, seasonal facilities and sunset tips.",
+      "social_caption": "🌅 Discover a quieter side of Thassos at Skala Sotiros Beach: soft sand, a village harbour and beautiful golden-hour views. 🇬🇷 Save it for a slow island afternoon! #Thassos #SkalaSotiros #VisitGreece",
+      "photo_alt": "Small sandy beach at Skala Sotiros, Thassos, with the village and fishing harbour nearby."
+    },
+    "el": {
+      "name": "Παραλία Σκάλας Σωτήρος",
+      "tagline": "Μια ήσυχη παραλία χωριού με άμμο και όμορφα ηλιοβασιλέματα",
+      "summary": "Μικρή αμμώδης παραλία δίπλα στο λιμανάκι της Σκάλας Σωτήρος, στη δυτική ακτή της Θάσου. Η γενικά ομαλή είσοδος στη θάλασσα και οι κοντινές ταβέρνες την κάνουν ιδανική για μια χαλαρή στάση.",
+      "description": "Η παραλία της Σκάλας Σωτήρος αποκαλύπτει μια πιο ήρεμη πλευρά της Θάσου. Βρίσκεται δίπλα στον παραθαλάσσιο οικισμό και στο μικρό αλιευτικό λιμάνι, σε ένα σημείο όπου η καθημερινότητα του χωριού συναντά τη θάλασσα. Η ακτή είναι κυρίως αμμώδης, με λίγα βότσαλα κατά τόπους κοντά στο νερό, ενώ η είσοδος στη θάλασσα είναι γενικά ομαλή στο κύριο σημείο κολύμβησης. Το μικρό μέγεθός της την κάνει πρακτική επιλογή για όσους μένουν στην περιοχή και θέλουν να περάσουν μερικές ώρες δίπλα στο κύμα χωρίς μετακινήσεις. Κατά τη θερινή περίοδο μπορεί να υπάρχουν ξαπλώστρες και ομπρέλες, με καφέ και ταβέρνες σε κοντινή απόσταση. Μια βόλτα δίπλα στα ψαροκάικα και στο λιμανάκι συμπληρώνει την εμπειρία, όμως το λιμάνι δεν είναι χώρος κολύμβησης. Η δυτική της θέση προσφέρει όμορφο απογευματινό φως και θέα στο ηλιοβασίλεμα. Είναι ένας φιλικός προορισμός για οικογένειες και ζευγάρια που αναζητούν απλότητα και χαλάρωση, με την απαραίτητη προσοχή στις τοπικές συνθήκες της θάλασσας.",
+      "practical_tips": "Η παραλία βρίσκεται κοντά στο κέντρο του οικισμού και συνδυάζεται εύκολα με περίπατο ή φαγητό. Ρωτήστε επί τόπου για τις τρέχουσες χρεώσεις στις ξαπλώστρες και για τη διαθεσιμότητα ντους και τουαλετών. Σε ορισμένα σημεία υπάρχουν μικρά βότσαλα στο νερό. Αποφύγετε την κολύμβηση κοντά στα σκάφη του λιμανιού και επιβλέπετε πάντα τα παιδιά. Το απόγευμα είναι ιδανικό για φωτογραφίες.",
+      "highlights": [
+        "Μικρή παραλία κυρίως με άμμο",
+        "Γενικά ομαλή είσοδος στη θάλασσα",
+        "Γραφικό αλιευτικό λιμανάκι σε κοντινή απόσταση",
+        "Καφέ και ταβέρνες δίπλα στον οικισμό",
+        "Όμορφη θέα στο ηλιοβασίλεμα"
+      ],
+      "seo_title": "Παραλία Σκάλας Σωτήρος, Θάσος – πρόσβαση και παροχές",
+      "seo_description": "Ανακαλύψτε την παραλία της Σκάλας Σωτήρος στη Θάσο: άμμο, ήπια είσοδο στο νερό, κοντινό λιμανάκι, εποχικές παροχές και χρήσιμες συμβουλές.",
+      "social_caption": "🌅 Στη Σκάλα Σωτήρος η Θάσος δείχνει το ήρεμο πρόσωπό της: αμμουδιά, μικρό λιμανάκι και μαγευτικό απογευματινό φως. 🇬🇷 Κρατήστε την για την επόμενη εξόρμησή σας! #Θάσος #ΣκάλαΣωτήρος #Ελλάδα",
+      "photo_alt": "Μικρή αμμώδης παραλία της Σκάλας Σωτήρος στη Θάσο, κοντά στον οικισμό και το αλιευτικό λιμάνι."
+    },
+    "de": {
+      "name": "Skala Sotiros Strand",
+      "tagline": "Ein ruhiger Dorfstrand mit feinem Sand und schönen Sonnenuntergängen",
+      "summary": "Ein kleiner Sandstrand neben dem Fischerhafen von Skala Sotiros an der Westküste von Thassos. Der meist sanfte Einstieg ins Wasser, die nahen Tavernen und die kurze Uferpromenade passen gut zu entspannten Urlaubstagen.",
+      "description": "Der Strand von Skala Sotiros zeigt eine gemütliche Seite der Insel Thassos. Direkt neben dem kleinen Küstenort und seinem Fischerhafen liegt ein überschaubarer Strand, der überwiegend aus feinem Sand besteht. Am Wasserrand können stellenweise kleine Kiesel vorkommen, während der Meeresboden im üblichen Badebereich meist sanft abfällt. Besonders für Gäste, die im Ort übernachten, ist dies ein angenehmer Platz für ein paar Stunden am Meer, ohne erst zu einer weit entfernten Bucht fahren zu müssen. In der Sommersaison können Liegen und Sonnenschirme bereitstehen. Tavernen und Cafés in der Nähe laden zu einer Pause mit Blick auf das Wasser ein. Ein Spaziergang am Hafen mit seinen kleinen Booten gehört ebenso zum Charme des Ortes; zum Schwimmen sollte man jedoch den eigentlichen Strand und nicht das Hafenbecken nutzen. Durch die Westlage ist die Stimmung am späten Nachmittag und zum Sonnenuntergang besonders schön. Der Strand eignet sich für Familien und Paare, die Ruhe und Nähe zum Dorf schätzen. Wie überall sollten Wellen, Wassertiefe und einzelne Steine vor dem Baden beachtet werden.",
+      "practical_tips": "Vom Dorfzentrum ist der Strand leicht zu Fuß zu erreichen. Die Regeln für Liegen und Sonnenschirme können sich ändern; Gebühren oder einen möglichen Mindestverzehr bitte vor Ort erfragen. Toiletten und Duschen sind beschrieben, ihre genaue Lage und Verfügbarkeit müssen aber geprüft werden. Stellenweise liegen Kiesel am Wasserrand. Im Hafenbereich nicht schwimmen und Kinder stets beaufsichtigen. Für Fotos lohnt sich der späte Nachmittag.",
+      "highlights": [
+        "Kleiner Strand mit überwiegend feinem Sand",
+        "Meist sanfter Einstieg ins Meer",
+        "Fischerhafen und Promenade direkt daneben",
+        "Tavernen und Cafés in der Nähe",
+        "Stimmungsvolle Sonnenuntergänge an der Westküste"
+      ],
+      "seo_title": "Skala Sotiros Strand Thassos – Anfahrt & Sonnenuntergänge",
+      "seo_description": "Skala Sotiros auf Thassos entdecken: kleiner Sandstrand, sanfter Einstieg ins Meer, Fischerhafen, saisonale Ausstattung und praktische Tipps.",
+      "social_caption": "🌅 Skala Sotiros auf Thassos: ein ruhiger Sandstrand, ein kleiner Fischerhafen und warmes Licht zum Sonnenuntergang. 🇬🇷 Perfekt für einen entspannten Inselnachmittag! #Thassos #SkalaSotiros #Griechenland",
+      "photo_alt": "Kleiner Sandstrand von Skala Sotiros auf Thassos nahe dem Fischereihafen und den Häusern des Ortes."
+    },
+    "bg": {
+      "name": "Плаж Скала Сотирос",
+      "tagline": "Спокоен селски плаж с фин пясък и красиви залези",
+      "summary": "Малък пясъчен плаж до рибарското пристанище на Скала Сотирос, на западния бряг на Тасос. Плавното навлизане в морето и близките таверни го правят удобен за спокойна почивка.",
+      "description": "Плажът на Скала Сотирос разкрива по-тихата страна на остров Тасос. Разположен е до малкото крайбрежно селище и неговото рибарско пристанище, където ежедневният живот на острова е съвсем близо до морето. Брегът е предимно с фин пясък, а на места край водата има дребни камъчета. В основната зона за къпане дъното обикновено се спуска плавно, което е удобно за хора, които предпочитат спокойно плуване. Плажът не е голям, но това го прави практичен избор за гостите на селото, които не искат да пътуват всеки ден до други заливи. През лятото може да има шезлонги и чадъри, а наблизо работят кафенета и таверни. Кратката разходка покрай рибарските лодки и малкото пристанище допълва атмосферата, но самото пристанище не е място за плуване. Западното изложение дава красиви гледки в късния следобед и при залез. Скала Сотирос е добър избор за семейства и двойки, които търсят по-бавен ритъм, като винаги трябва да се проверяват условията на морето и дълбочината.",
+      "practical_tips": "Плажът е близо до центъра на селото и може да се комбинира с разходка или вечеря. Условията и цените за шезлонги трябва да се потвърдят на място. За тоалетни и душове има информация в пътеводителите, но наличността им през конкретния сезон не е гарантирана. На места при влизане има камъчета. Не плувайте в зоната на лодките и наблюдавайте децата. Залезът е подходящ момент за снимки.",
+      "highlights": [
+        "Малък плаж с предимно фин пясък",
+        "Обикновено плавно навлизане във водата",
+        "Рибарско пристанище и крайбрежна алея",
+        "Таверни и кафенета наблизо",
+        "Красиви залези на западния бряг"
+      ],
+      "seo_title": "Плаж Скала Сотирос, Тасос – достъп и удобства",
+      "seo_description": "Открийте Скала Сотирос на Тасос: тих пясъчен плаж, плавен вход в морето, рибарско пристанище, сезонни удобства и съвети.",
+      "social_caption": "🌅 Скала Сотирос, Тасос: фин пясък, малко рибарско пристанище и топлата светлина на залеза. 🇬🇷 Запазете това място за спокойна островна вечер! #Тасос #SkalaSotiros #Гърция",
+      "photo_alt": "Малкият пясъчен плаж на Скала Сотирос, Тасос, до селото и рибарското пристанище."
+    },
+    "sr": {
+      "name": "Plaža Skala Sotiros",
+      "tagline": "Mirna seoska plaža sa sitnim peskom i lepim zalascima sunca",
+      "summary": "Mala peščana plaža pored ribarske luke u mestu Skala Sotiros, na zapadnoj obali Tasosa. Uglavnom postepen ulazak u more, taverne i kratko šetalište čine je praktičnom za opušten odmor.",
+      "description": "Plaža Skala Sotiros pokazuje mirniju stranu ostrva Tasos. Nalazi se odmah pored malog primorskog mesta i njegove ribarske luke, u ambijentu u kome se svakodnevni život meštana prepliće sa morem. Obala je uglavnom od sitnog peska, uz poneki kamenčić na ulasku u vodu. Na glavnom delu za kupanje dubina se najčešće postepeno povećava, pa je plaža prijatna za kraće, opušteno plivanje. Nije velika, ali je upravo zato praktična za goste koji borave u mestu i ne žele svakog dana da obilaze udaljene uvale. Tokom leta mogu biti dostupne ležaljke i suncobrani, a u blizini su kafići i taverne. Šetnja kraj malih ribarskih čamaca i luke pruža poseban šarm, ali kupanje treba ograničiti na sam deo plaže, van prostora kojim prolaze plovila. Zapadna orijentacija donosi lepu svetlost u kasno popodne i pogled na zalazak sunca. Ovo je dobar izbor za porodice i parove koji više vole sporiji tempo odmora, uz obaveznu pažnju na vetar, talase i dubinu.",
+      "practical_tips": "Plaža je blizu centra mesta, pa se lako kombinuje sa šetnjom ili ručkom. Pravila korišćenja ležaljki mogu se menjati; raspitajte se o ceni i uslovima. Toaleti i tuševi se pominju u vodičima, ali njihovu dostupnost treba proveriti na licu mesta. Ponegde ima kamenčića pri ulasku u vodu. Ne plivajte u delu luke gde su čamci i pazite na decu. Predveče je lepo vreme za fotografisanje.",
+      "highlights": [
+        "Mala plaža pretežno sa sitnim peskom",
+        "Uglavnom postepen ulazak u more",
+        "Ribarska luka i šetalište u blizini",
+        "Taverne i kafići na nekoliko koraka",
+        "Lepi zalasci sunca na zapadnoj obali"
+      ],
+      "seo_title": "Skala Sotiros plaža, Tasos – pristup i sadržaji",
+      "seo_description": "Otkrijte plažu Skala Sotiros na Tasosu: sitan pesak, postepen ulaz u more, ribarska luka, sezonski sadržaji i praktični saveti.",
+      "social_caption": "🌅 Skala Sotiros, Tasos: mala peščana plaža, ribarska luka i topla svetlost zalaska sunca. 🇬🇷 Sačuvajte je za mirno popodne na ostrvu! #Tasos #SkalaSotiros #Grcka",
+      "photo_alt": "Mala peščana plaža Skala Sotiros na Tasosu, nedaleko od ribarske luke i samog mesta."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/skala-sotiros/images/skala-sotiros1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/skala-sotiros/images/skala-sotiros2.webp",
+      "destinations/thassos/beaches/skala-sotiros/images/skala-sotiros3.webp",
+      "destinations/thassos/beaches/skala-sotiros/images/skala-sotiros4.webp",
+      "destinations/thassos/beaches/skala-sotiros/images/skala-sotiros5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/skala-sotiros/images/",
+    "suggested_asset_names": [
+      "skala-sotiros1.webp",
+      "skala-sotiros2.webp",
+      "skala-sotiros3.webp",
+      "skala-sotiros4.webp",
+      "skala-sotiros5.webp"
+    ],
+    "image_policy": "Five local WebP image paths assigned from filenames shown in the user-provided screenshot. Before publication, independently confirm each picture actually shows Skala Sotiros Beach (not only the village or harbour), verify creator/source, commercial reuse and redistribution permissions, and record any necessary attribution. The binary images were not provided in this JSON.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_nikana_beach",
+      "kind": "travel_guide",
+      "title": "Nikana — Skala Sotiros city beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1903/skala-sotiros-city-beach",
+      "detail": "Small organized beach, fine sand, gentle entry, sunset, summer loungers, food nearby. Updated July 2024; pricing may be outdated.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Skala Sotiros Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-sotiros-beach",
+      "detail": "Lists WC, showers, food and drink, loungers, umbrellas and parking; category summaries are not guarantees of facilities at every time or exact section.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_go_village",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Skala Sotiros village",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-sotiros",
+      "detail": "Village character, harbour, tavernas, historic fishing community and coastal promenade.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana_village",
+      "kind": "travel_guide",
+      "title": "Nikana — Skala Sotiros settlement",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/places/1967/skala-sotiros",
+      "detail": "Village beach and neighbouring small harbour; describes family-friendly quiet atmosphere.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_independent_beach",
+      "kind": "beach_guide",
+      "title": "Which Greek Island — Skala Sotiros Beach",
+      "url": "https://whichgreekisland.co.uk/islands/thassos/beaches/skala-sotiros/",
+      "detail": "Secondary account of small central beach south of harbour, sand with some shingle, shallow entry and seasonal loungers; published long ago and requires seasonal recheck.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_osm_beach",
+      "kind": "open_geodata",
+      "title": "Mapcarta / OpenStreetMap — Σκάλα Σωτήρος beach way 254820871",
+      "url": "https://mapcarta.com/W254820871",
+      "detail": "Approximate mapped beach center 40.72786,24.5464, not confirmed by Google Maps; OSM-derived coordinates used provisionally pending manual Google Maps confirmation.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana_google_embed",
+      "kind": "embedded_map_reference",
+      "title": "Nikana beach page embedded Google Maps location",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1903/skala-sotiros-city-beach",
+      "detail": "Google Maps iframe advertises 40.730769,24.551241; differs from OSM beach location. Not accepted as confirmed beach centre/entrance.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_commons",
+      "kind": "media_rights_reference",
+      "title": "Wikimedia Commons — Skala Sotiros files",
+      "url": "https://commons.wikimedia.org/wiki/Category:Skala_Sotiros_(Thasos)",
+      "detail": "Contains harbour and village images, not verified photographs of the beach. License status must be confirmed per file.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm beach centre and pedestrian access in Google Maps: OSM beach centre (40.72786,24.5464) differs from Google Maps iframe pin listed by Nikana (40.730769,24.551241). Coordinates are PROVISIONAL.",
+      "Check exact extent of central city beach versus coastal strips elsewhere in Skala Sotiros, and avoid geographic duplicates.",
+      "Verify current sunbed/pricing conditions, whether washrooms/showers are accessible to non-customers, and any lifeguard or accessible beach facilities.",
+      "Verify that skala-sotiros1.webp through skala-sotiros5.webp depict the intended central Skala Sotiros beach section, not solely the marina, and document provenance, commercial reuse/transfer rights and attribution.",
+      "Check whether patches of pebbles or stones vary with season and chosen entry point.",
+      "Proofread all six language versions before final public release."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial copy; five local WebP image paths have been assigned, but the image files themselves and their commercial reuse/redistribution rights have not been independently verified or transferred with this JSON.",
+    "photo_source_disclaimer": "Five local WebP paths were assigned based on filenames visible in the user-provided screenshot. Image binaries are not embedded in this JSON; the depicted beach section and commercial image rights remain to be verified."
+  }
+}

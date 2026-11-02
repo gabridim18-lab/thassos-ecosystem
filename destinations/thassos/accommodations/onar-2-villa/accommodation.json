@@ -1,0 +1,336 @@
+{
+  "schemaVersion": "2.0",
+  "id": "gr-thassos-accommodation-onar-2-villa",
+  "slug": "onar-2-villa",
+  "beachSlug": null,
+  "category": "accommodations",
+  "name": "Onar 2 Villa",
+  "propertyType": "villa",
+  "rentalMode": "entire_property",
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "areaSlug": "skala-prinos",
+    "settlement": "Skala Prinos",
+    "setting": "seafront",
+    "nearestShopAndBakeryApproxKm": 1.7,
+    "note": "Precise property coordinates and a valid beachSlug from the curated beach inventory must be confirmed. Skala Prinos Beach is excluded from the counted beach catalog."
+  },
+  "property": {
+    "buildingType": "standalone_stone_house",
+    "exclusiveUseOfHouse": true,
+    "otherGuestsInsideProperty": false,
+    "bedroomsTotal": 2,
+    "bathroomsTotal": 1,
+    "livingRooms": 1,
+    "kitchensTotal": 1,
+    "maximumGuests": 6,
+    "outdoorSpaces": [
+      {
+        "type": "covered_terrace",
+        "view": "sea",
+        "access": "from_living_room",
+        "usage": "exclusive_to_booking"
+      }
+    ],
+    "surroundings": [
+      "olive_groves",
+      "coastline",
+      "quiet_area"
+    ]
+  },
+  "unitTypes": [
+    {
+      "id": "entire-villa",
+      "name": "Entire Onar 2 Villa",
+      "quantity": 1,
+      "bookableSeparately": false,
+      "bookableAsEntireUnit": true,
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": [
+            {
+              "type": "double",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": [
+            {
+              "type": "double",
+              "quantity": 1
+            }
+          ]
+        }
+      ],
+      "livingRoom": {
+        "sofaBed": true
+      },
+      "sleepingArrangement": "4 places in the two double beds; the property advertises a maximum of 6 guests with a sofa bed; confirm precise sofa-bed sleeping capacity with owner",
+      "guestsMaximum": 6,
+      "bathrooms": {
+        "count": 1,
+        "access": "private_to_the_villa",
+        "shower": "walk_in"
+      },
+      "kitchen": {
+        "access": "private_to_the_villa",
+        "equipment": [
+          "refrigerator",
+          "microwave",
+          "kettle",
+          "coffee_maker"
+        ]
+      },
+      "amenities": [
+        "internet",
+        "television",
+        "mosquito_nets"
+      ],
+      "babyCot": "on_request"
+    }
+  ],
+  "sharedSpaces": {
+    "sharedWithOtherGuests": false
+  },
+  "amenities": {
+    "confirmedByCurrentWebsite": [
+      "internet",
+      "tv",
+      "private_parking",
+      "mosquito_nets",
+      "baby_cot_on_request",
+      "covered_sea_view_terrace",
+      "sofa_bed",
+      "hammock"
+    ],
+    "otherPublicListings": [
+      "garden",
+      "barbecue_area",
+      "hair_dryer"
+    ],
+    "verificationNote": "Air conditioning is advertised on the GitHub website but a third-party listing explicitly says there is no AC. Do not publish this as confirmed until owner resolves discrepancy. Other third-party-only amenities should also be confirmed."
+  },
+  "beachAccess": {
+    "relationship": "direct_seafront",
+    "seaView": true,
+    "directBeachAccessDescribed": true,
+    "legalPrivateBeachClaim": false,
+    "beachSlugStatus": "pending_property_gps_and_valid_registered_beach",
+    "distanceMeters": "direct_seafront_no_verified_route_distance"
+  },
+  "nearby": {
+    "shopAndBakeryApproxKm": 1.7,
+    "discovery": "generated_from_verified_beachSlug_after_linking"
+  },
+  "booking": {
+    "method": "direct_request",
+    "channels": [
+      "whatsapp_enquiry",
+      "telephone"
+    ],
+    "confirmation": "manual_owner_confirmation_required",
+    "guestsSelectable": {
+      "minimum": 1,
+      "maximum": 6
+    },
+    "inventoryBooking": false,
+    "contact": {
+      "phoneInternational": "+30 694 547 3106",
+      "whatsappInternational": "306945473106"
+    },
+    "calendar": {
+      "opensFrom": "2027-05-01",
+      "source": "current_website_implementation"
+    },
+    "paymentAndCancellation": "not_published_on_official_website_confirm_with_owner",
+    "note": "WhatsApp request is not an automatic booking or a payment."
+  },
+  "pricing": {
+    "currency": "EUR",
+    "priceBasis": "entire_villa_per_night",
+    "publiclyShownRate": {
+      "amount": 280,
+      "applicableMonths": [
+        5,
+        6,
+        10
+      ],
+      "additionalPeriod": {
+        "month": 9,
+        "fromDay": 16
+      },
+      "rateLogic": "Website shows this rate for May, June, October and 16 September onward; unpriced periods require a direct quote.",
+      "startOfBookableCalendar": "2027-05-01"
+    },
+    "otherDates": "price_on_request",
+    "finalRate": "owner_confirmation_required",
+    "status": "snapshot_from_website_not_live_price"
+  },
+  "content": {
+    "ro": {
+      "title": "Onar 2 Villa",
+      "tagline": "Casă privată din piatră, chiar la malul mării, în Skala Prinos",
+      "shortDescription": "Vilă independentă pentru până la 6 persoane, cu două dormitoare cu paturi duble, living cu canapea extensibilă, baie, bucătărie echipată și terasă acoperită cu vedere la Marea Egee.",
+      "description": "Onar 2 Villa este o casă independentă din piatră, amplasată chiar pe țărm, în Skala Prinos, Thassos. Vila se închiriază integral, astfel încât pe durata sejurului nu mai sunt alți oaspeți în casă. Cele două dormitoare separate au fiecare câte un pat dublu, iar livingul luminos include o canapea extensibilă și se deschide către terasă. Bucătăria este echipată cu frigider, cuptor cu microunde, fierbător și aparat de cafea; baia are duș de tip walk-in. Terasa acoperită cu priveliște spre mare este locul ideal pentru dimineți liniștite și seri în aer liber. Proprietatea este prezentată pentru maximum șase oaspeți și oferă internet, televizor, parcare privată, plase de insecte și pătuț pentru bebeluș la cerere. Magazinul și brutăria cele mai apropiate sunt menționate la aproximativ 1,7 km.",
+      "seoTitle": "Onar 2 Villa Thassos | Vilă privată la mare în Skala Prinos",
+      "seoDescription": "Onar 2 Villa, Skala Prinos: casă privată la malul mării, 2 dormitoare, living cu canapea extensibilă, terasă cu vedere la mare și până la 6 oaspeți."
+    },
+    "en": {
+      "title": "Onar 2 Villa",
+      "tagline": "A private stone house right by the sea in Skala Prinos",
+      "shortDescription": "A standalone seaside villa for up to 6 guests, with two double bedrooms, a living room with a sofa bed, a bathroom, equipped kitchen and a covered terrace overlooking the Aegean.",
+      "description": "Onar 2 Villa is a standalone stone house directly on the shoreline of Skala Prinos, Thassos. The whole property is rented privately, with no other guests staying in the house during your visit. Each of the two separate bedrooms has a double bed, while the bright living room offers a sofa bed and opens onto the terrace. The kitchen is equipped with a refrigerator, microwave, kettle and coffee maker, and the bathroom has a walk-in shower. The covered terrace facing the sea is a highlight, inviting long breakfasts and quiet evenings outdoors. The property is advertised for up to six guests and includes internet, television, private parking, mosquito nets and a baby cot on request. The nearest shop and bakery are described as approximately 1.7 km away.",
+      "seoTitle": "Onar 2 Villa Thassos | Private Seaside Villa in Skala Prinos",
+      "seoDescription": "Discover Onar 2 Villa in Skala Prinos: an entire private seaside house with 2 double bedrooms, a covered sea-view terrace and space for up to 6 guests."
+    },
+    "el": {
+      "title": "Onar 2 Villa",
+      "tagline": "Ιδιωτική πέτρινη κατοικία δίπλα στη θάλασσα, στη Σκάλα Πρίνου",
+      "shortDescription": "Ανεξάρτητη παραθαλάσσια κατοικία για έως 6 επισκέπτες, με δύο υπνοδωμάτια με διπλά κρεβάτια, καθιστικό με καναπέ-κρεβάτι, μπάνιο, εξοπλισμένη κουζίνα και σκεπαστή βεράντα με θέα στο Αιγαίο.",
+      "description": "Το Onar 2 Villa είναι μια ανεξάρτητη πέτρινη κατοικία ακριβώς δίπλα στη θάλασσα στη Σκάλα Πρίνου της Θάσου. Ενοικιάζεται ολόκληρη, χωρίς άλλους επισκέπτες μέσα στο σπίτι κατά τη διάρκεια της διαμονής σας. Διαθέτει δύο ξεχωριστά υπνοδωμάτια με ένα διπλό κρεβάτι το καθένα, φωτεινό καθιστικό με καναπέ-κρεβάτι και πρόσβαση στη βεράντα. Η κουζίνα περιλαμβάνει ψυγείο, φούρνο μικροκυμάτων, βραστήρα και καφετιέρα, ενώ το μπάνιο διαθέτει ντους walk-in. Η σκεπαστή βεράντα με θέα στη θάλασσα είναι ιδανική για χαλαρές στιγμές. Η κατοικία παρουσιάζεται για έως έξι άτομα και προσφέρει ίντερνετ, τηλεόραση, ιδιωτικό χώρο στάθμευσης, σίτες και βρεφική κούνια κατόπιν αιτήματος. Το κοντινότερο κατάστημα και ο φούρνος αναφέρονται σε απόσταση περίπου 1,7 χλμ.",
+      "seoTitle": "Onar 2 Villa Θάσος | Ιδιωτική παραθαλάσσια κατοικία στη Σκάλα Πρίνου",
+      "seoDescription": "Onar 2 Villa στη Σκάλα Πρίνου: ιδιωτική κατοικία δίπλα στη θάλασσα, 2 υπνοδωμάτια, βεράντα με θέα και διαμονή για έως 6 άτομα."
+    },
+    "de": {
+      "title": "Onar 2 Villa",
+      "tagline": "Privates Steinhaus direkt am Meer in Skala Prinos",
+      "shortDescription": "Freistehendes Ferienhaus für bis zu 6 Gäste mit zwei Doppelschlafzimmern, Wohnzimmer mit Schlafsofa, Bad, ausgestatteter Küche und überdachter Terrasse mit Blick auf die Ägäis.",
+      "description": "Onar 2 Villa ist ein freistehendes Steinhaus direkt an der Küste von Skala Prinos auf Thassos. Das Haus wird vollständig und exklusiv vermietet; während Ihres Aufenthalts wohnen keine weiteren Gäste darin. Die zwei separaten Schlafzimmer verfügen jeweils über ein Doppelbett. Im hellen Wohnzimmer befinden sich ein Schlafsofa und ein Zugang zur Terrasse. Die Küche ist mit Kühlschrank, Mikrowelle, Wasserkocher und Kaffeemaschine ausgestattet, das Bad hat eine ebenerdige Dusche. Die überdachte Terrasse mit Meerblick lädt zu entspannten Stunden ein. Die Unterkunft wird für bis zu sechs Gäste angeboten; vorhanden sind Internet, Fernseher, Privatparkplatz, Insektenschutzgitter und auf Anfrage ein Babybett. Das nächste Geschäft und die nächste Bäckerei liegen laut Unterkunftsbeschreibung etwa 1,7 km entfernt.",
+      "seoTitle": "Onar 2 Villa Thassos | Privates Ferienhaus am Meer in Skala Prinos",
+      "seoDescription": "Onar 2 Villa in Skala Prinos: freistehendes Haus am Meer mit 2 Doppelzimmern, Meerblickterrasse und Platz für bis zu 6 Gäste."
+    },
+    "bg": {
+      "title": "Onar 2 Villa",
+      "tagline": "Самостоятелна каменна къща непосредствено до морето в Скала Принос",
+      "shortDescription": "Самостоятелна крайморска вила за до 6 гости с две спални с двойни легла, дневна с разтегателен диван, баня, оборудвана кухня и покрита тераса с изглед към Егейско море.",
+      "description": "Onar 2 Villa е самостоятелна каменна къща на самия морски бряг в Скала Принос, Тасос. Отдава се цялата къща, без други гости по време на престоя. Двете отделни спални разполагат с по едно двойно легло, а светлата дневна има разтегателен диван и изход към терасата. Кухнята е оборудвана с хладилник, микровълнова фурна, електрическа кана и кафемашина, а банята е с душ тип walk-in. Покритата тераса с изглед към морето е чудесна за спокойна почивка. Вилата се предлага за до шест гости и разполага с интернет, телевизор, частен паркинг, мрежи против насекоми и бебешко креватче при заявка. Най-близките магазин и пекарна са посочени на около 1,7 км.",
+      "seoTitle": "Onar 2 Villa Тасос | Самостоятелна вила до морето в Скала Принос",
+      "seoDescription": "Onar 2 Villa в Скала Принос: самостоятелна къща до морето, 2 спални, покрита тераса с морска гледка и до 6 гости."
+    },
+    "sr": {
+      "title": "Onar 2 Villa",
+      "tagline": "Privatna kamena kuća uz samo more u Skali Prinos",
+      "shortDescription": "Samostalna vila uz more za do 6 gostiju, sa dve spavaće sobe sa bračnim krevetima, dnevnim boravkom sa sofom na razvlačenje, kupatilom, opremljenom kuhinjom i natkrivenom terasom sa pogledom na Egejsko more.",
+      "description": "Onar 2 Villa je samostalna kamena kuća neposredno uz obalu u Skali Prinos na Tasosu. Izdaje se cela kuća, bez drugih gostiju tokom boravka. Dve odvojene spavaće sobe imaju po jedan bračni krevet, dok svetao dnevni boravak nudi sofu na razvlačenje i izlaz na terasu. Kuhinja je opremljena frižiderom, mikrotalasnom rernom, kuvalom za vodu i aparatom za kafu, a kupatilo ima tuš bez visokog praga. Natkrivena terasa sa pogledom na more idealna je za odmor i druženje. Smeštaj se nudi za najviše šest gostiju i ima internet, televizor, privatni parking, mreže protiv komaraca i krevetac za bebu na zahtev. Najbliža prodavnica i pekara navedene su na približno 1,7 km.",
+      "seoTitle": "Onar 2 Villa Tasos | Privatna kuća na obali u Skali Prinos",
+      "seoDescription": "Onar 2 Villa u Skali Prinos: samostalna kuća na obali, 2 spavaće sobe, terasa sa pogledom na more i do 6 gostiju."
+    }
+  },
+  "bookingOptions": [
+    {
+      "code": "entire_villa",
+      "scope": "entire_house",
+      "units": [
+        "entire-villa"
+      ],
+      "maximumGuests": 6,
+      "status": "direct_request_only"
+    }
+  ],
+  "media": {
+    "imageFolder": "images/",
+    "cover": "images/Terasă rustică la malul mării.webp",
+    "mobileCover": "images/mobil.webp",
+    "gallery": {
+      "terrace": [
+        "images/Terasă rustică la malul mării.webp",
+        "images/Terasă mediteraneană cu vedere la mare(2).webp",
+        "images/Terasă de vacanță cu vedere la mare.webp",
+        "images/Terasă mediteraneană cu vedere la mare(1).webp",
+        "images/Verandă mediteraneană cu vedere la mare.webp",
+        "images/Terasă mediteraneană cu vedere la mare.webp",
+        "images/Terasa de piatră cu vedere la mare-1.webp"
+      ],
+      "surroundings": [
+        "images/Peisaj mediteranean văzut de sus.webp",
+        "images/Panoramă mediteraneană cu plajă și munți.webp"
+      ],
+      "living": [
+        "images/Living modern cu vedere la mare.webp",
+        "images/Living modern cu ușă deschisă spre grădină.webp"
+      ],
+      "kitchen": [
+        "images/Bucătărie albastră cu vedere la mare.webp"
+      ],
+      "bedroom": [
+        "images/Dormitor modern cu lumină naturală.webp",
+        "images/Dormitor luminos cu prosoape albe și fereastră spre măslini.webp"
+      ],
+      "bathroom": [
+        "images/Baie modernă cu marmură și duș walk-in.webp",
+        "images/Baie modernă cu marmură alb-neagră.webp",
+        "images/Baie modernă luxoasă cu marmură venată.webp"
+      ],
+      "exterior": [
+        "images/Peisaj mediteranean cu casă și mare turquoise.webp",
+        "images/Căsuță mediteraneană lângă marea turcoaz.webp",
+        "images/Căsuță rustică la malul mării.webp",
+        "images/Căsuță de piatră pe țărmul turcoaz.webp"
+      ]
+    },
+    "galleryOrder": [
+      "images/Terasă rustică la malul mării.webp",
+      "images/Terasă mediteraneană cu vedere la mare(2).webp",
+      "images/Peisaj mediteranean văzut de sus.webp",
+      "images/Living modern cu vedere la mare.webp",
+      "images/Bucătărie albastră cu vedere la mare.webp",
+      "images/Dormitor modern cu lumină naturală.webp",
+      "images/Baie modernă cu marmură și duș walk-in.webp",
+      "images/Panoramă mediteraneană cu plajă și munți.webp",
+      "images/Terasă de vacanță cu vedere la mare.webp",
+      "images/Terasă mediteraneană cu vedere la mare(1).webp",
+      "images/Verandă mediteraneană cu vedere la mare.webp",
+      "images/Terasă mediteraneană cu vedere la mare.webp",
+      "images/Peisaj mediteranean cu casă și mare turquoise.webp",
+      "images/Căsuță mediteraneană lângă marea turcoaz.webp",
+      "images/Dormitor luminos cu prosoape albe și fereastră spre măslini.webp",
+      "images/Terasa de piatră cu vedere la mare-1.webp",
+      "images/Căsuță rustică la malul mării.webp",
+      "images/Căsuță de piatră pe țărmul turcoaz.webp",
+      "images/Living modern cu ușă deschisă spre grădină.webp",
+      "images/Baie modernă cu marmură alb-neagră.webp",
+      "images/Baie modernă luxoasă cu marmură venată.webp"
+    ],
+    "photoCount": 22,
+    "galleryPhotoCount": 21,
+    "photoFileConvention": "original_filenames_preserved",
+    "videoFolder": "videos/",
+    "videoSupport": "optional_external_or_local_video_after_owner_permission",
+    "videoFiles": []
+  },
+  "sourceReferences": [
+    {
+      "kind": "current_property_website_source",
+      "url": "https://github.com/gabbydim83/onar-2-villa",
+      "note": "Source of exact original filename list and current published website content."
+    },
+    {
+      "kind": "current_site_domain",
+      "url": "http://onar2villa.thassos.forum/",
+      "note": "Provided by user; direct DNS access not available in this environment on 31 October 2026."
+    },
+    {
+      "kind": "third_party_listing",
+      "url": "https://nikana.gr/en/accommodation/thassos/skala-prinos/6493/onar-two-villa",
+      "note": "Additional facilities and operating terms for verification; conflicts with site about AC."
+    },
+    {
+      "kind": "third_party_listing",
+      "url": "https://staythassos.gr/onar-2-villa/",
+      "note": "Supports house features and maximum guests; commercial conditions still to be confirmed with owner."
+    }
+  ],
+  "dataNotes": [
+    "One unresolved beachSlug only: do not use the excluded Skala Prinos Beach record automatically. Resolve the beach association from exact property coordinates and approved beach catalog.",
+    "Air conditioning status conflicts between official repository website and Nikana listing; ask owner before publishing this feature.",
+    "Third-party Nikana listing describes a 7-night minimum and 20% deposit, but those rules are not confirmed on the property website and were not imported as official booking policy.",
+    "Current website lists EUR 280/night only for specified dates; no prices invented for July, August, early September or other unpriced periods.",
+    "21 gallery image names and the separate mobil.webp hero file reproduce GitHub assets/images exactly. Copy images from the user local project without renaming.",
+    "No video file is presumed to exist; video folder is prepared for later uploads.",
+    "Check-in/out, garden/barbecue and hair dryer details in secondary listings require owner verification before public use."
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-agios-ioannis",
+  "slug": "agios-ioannis",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Αγίου Ιωάννη Λουκά",
+    "international_name": "Agios Ioannis Beach",
+    "aliases": [
+      "Agios Ioannis",
+      "Agios Ioannis Loukas",
+      "Agios Ioannis Lukas",
+      "Ai Giannis",
+      "Ai Giannis Loukas",
+      "Agios Ioannis Bay",
+      "St John Beach (Thassos)",
+      "Παραλία Αγίου Ιωάννη",
+      "Αϊ-Γιάννης Λουκάς",
+      "Παραλία Αϊ Γιάννης",
+      "Babouras (regional locality)"
+    ],
+    "entity_scope": "Distinct compact bay and swimming beach of Agios Ioannis Loukas on southeast Thassos between Alyki and Kinira, in front of Thassos Grand Resort; includes the beach, not the entire resort, archaeological site or nearby bays.",
+    "deduplication_warning": "Agios Ioannis, Ai Giannis, Agios Ioannis Loukas/Lukas and the resort beachfront describe the same Thassos bay in this record. Do not confuse with Aliki/Alykes, Kinira or Agios Ioannis beaches on Sithonia, Lefkada, Mykonos, Lemnos or other islands. Historical descriptions of a secluded cove predate modern resort organisation."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southeast coast, in the small enclosed bay east/northeast of Alyki",
+    "settlements": [
+      "Aliki (Alykes)",
+      "Kinira (Koinyra)",
+      "Ai-Giannis Loukas (locality)"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Agios%20Ioannis%20Loukas%20Beach%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_google_maps_search",
+    "coordinate_type": "unverified_exact_beach_pin_coordinates_not_published",
+    "coordinate_review_status": "Bay and resort vicinity independently corroborated by OpenStreetMap-based Mapcarta (resort about 40.6199,24.7615; beach bar about 40.61897,24.76173), but these are NOT verified Google Maps coordinates for the public beach/access; lat/lng deliberately null. Verify exact beach pin and legal pedestrian access separately.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mix_of_sand_gravel_pebbles_and_local_stones",
+    "seabed_near_shore": "mixed_sand_pebbles_and_rocky_patches",
+    "water_entry": "varies_between_sandy_areas_and_stony_or_rocky_first_metres",
+    "nearshore_depth": "variable_across_compact_cove_do_not_assume_shallow_everywhere",
+    "water_clarity": "typically_clear_green_blue",
+    "wave_conditions": "cove_partly_sheltered_but_wind_and_boat_activity_change_conditions",
+    "exposure": "compact_southeast_coast_cove_bounded_by_rocky_headlands",
+    "natural_shade_on_sand": "limited; trees and green slopes mainly behind beach",
+    "beach_length_m": null,
+    "length_note": "One older directory suggests roughly 150 m, but shoreline definitions and current beach arrangement differ; precise measurement not independently verified.",
+    "backdrop": "green hills, rocky headlands, pines and olive groves, archaeological remains and a substantial beachfront resort",
+    "shoreline_type": "small_distinct_enclosed_resort_adjacent_bay"
+  },
+  "visitor_experience": {
+    "organization": "predominantly_resort_serviced_beach_with_public_access_practicalities_to_check",
+    "suitable_for": [
+      "couples",
+      "relaxed_swimming",
+      "snorkeling",
+      "photography",
+      "resort_guests",
+      "visitors_who_plan_access_in_advance"
+    ],
+    "notable_for": [
+      "enclosed_clear_water_bay",
+      "mixed_sand_pebble_shore",
+      "rocky_snorkelling_margins",
+      "thassos_grand_resort_frontage",
+      "nearby_agios_ioannis_loukas_archaeology",
+      "disputed_practical_public_access"
+    ],
+    "activities_possible": [
+      "swimming",
+      "snorkeling",
+      "nature_photography",
+      "coastal_sightseeing",
+      "shoreline_relaxation"
+    ],
+    "estimated_crowd_peak": "resort_loungers_occupy_much_of_beach_in_high_season; quieter_than_main_town_beaches_but_access_and_unserviced_space_can_be_limited",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Stones, slippery rock patches and irregular depth demand caution at entry. No promise of lifeguard coverage outside resort-controlled arrangements. Check sea and weather conditions and supervise children. Do not assume the resort gate, parking, facilities or lounger service is available to non-guests."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Listed by Go Thassos and related to beachfront resort/seasonal operators; independently accessible public toilets not confirmed."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "Some tourism summaries report showers but public access and current seasonal availability have not been established."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": null,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "One local guide describes a resort lifeguard; current patrol dates, coverage zone and public applicability were not independently verified.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Do not infer public step-free beach access from resort facilities; exact route, barrier arrangements and specialized access equipment require verification.",
+    "free_unserviced_space": null,
+    "facilities_scope": "Resort-facing beach infrastructure and hospitality are visible/advertised, not automatically public amenities. Loungers, food service, toilets, parking and sports use may depend on season and operator policies. Do not market the cove as privately owned; Greek public beach access rights and reported practical barriers are distinct issues."
+  },
+  "access_and_cost": {
+    "road_access": "from_main_island_road_between_alyki_and_kinira_then_signed_turnoff_toward_agios_ioannis_loukas_and_resort; historical_guides_describe_short_dirt_spur_current_entry_conditions_need_check",
+    "public_transport": "no_confirmed_bus_stop_or_direct_public_bus_to_beach; onward walking route not verified",
+    "parking_type": "roadside_or_approach_parking_reported; resort_guest_parking_separate; gate_or_vehicle_restrictions_reported",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Beach is organised by/near a resort; non-guest lounger hire, day-use policy, minimum consumption, fees and permitted access not independently confirmed for 2026.",
+    "best_arrival_advice": "Check the latest pedestrian approach and any controlled vehicle gate before setting out. Do not assume resort parking or equipment is open to day visitors. Carry sun protection and water, bring water shoes for stones, and keep archaeological remains undisturbed.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Some travel guides put the resort roughly 30 km from Limenas; exact driven route and parking endpoint were not checked."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Agios Ioannis Beach (Agios Ioannis Loukas)",
+      "tagline": "Un golf turcoaz, între stânci și dealuri verzi, aproape de vestigii antice",
+      "summary": "Agios Ioannis Loukas este un golf mic din sud-estul insulei Thassos, între Aliki și Kinira. Plaja combină nisip, pietricele și zone stâncoase cu apă de obicei limpede, iar astăzi este amenajată în mare parte în dreptul Thassos Grand Resort; accesul practic pentru vizitatorii din exterior trebuie verificat.",
+      "description": "Agios Ioannis Beach, cunoscută și drept Agios Ioannis Loukas sau Ai Giannis, ocupă un golf bine conturat de pe coasta sud-estică a insulei Thassos, între peninsula Aliki și zona Kinira. De la nivelul mării, culorile apei se schimbă de la verde deschis spre turcoaz, iar promontoriile stâncoase și versanții cu pini și măslini dau golfului un aspect retras. Pe țărm se întâlnesc nisipul, pietrișul și pietrele, astfel că intrarea în apă nu este la fel de uniformă ca pe o plajă exclusiv nisipoasă. Tocmai marginile stâncoase și apa limpede atrag vizitatorii interesați de snorkeling, atunci când marea este liniștită. La numai câțiva pași de coastă se află zona arheologică Agios Ioannis Loukas, asociată cu urme de locuire din preistorie și din perioade ulterioare; aceasta face locul interesant și dincolo de înot. Imaginile mai vechi arată un golf aproape sălbatic, însă aspectul actual este diferit: Thassos Grand Resort se află chiar în spatele plajei, iar pe nisip sunt amplasate, în sezon, rânduri de umbrele și șezlonguri. Barul și serviciile de alimentație țin de operatorii din zonă, fără ca utilizarea lor de către vizitatori din afara hotelului să fie implicită. Plaja este o entitate geografică separată de Aliki și de Kinira, însă vizita trebuie planificată atent: au fost semnalate în trecut dificultăți de acces pe la intrarea resortului, iar condițiile actuale pentru pietoni și mașini trebuie verificate înainte de plecare.",
+      "practical_tips": "Dacă nu ești cazat la resort, verifică înainte traseul pietonal permis și condițiile actuale de la accesul auto; nu presupune că poți trece cu mașina de barieră sau folosi parcarea și șezlongurile hotelului. Ghidurile mai vechi menționează un drum secundar scurt spre golf, însă configurația accesului s-a schimbat odată cu dezvoltarea zonei. Ia încălțări de apă pentru pietre, apă de băut și protecție solară; umbra naturală chiar pe plajă este limitată. Nu considera serviciile sanitare, supravegherea salvamarului sau spațiul liber de șezlonguri garantate. Respectă delimitarea sitului arheologic și verifică valurile înainte de snorkeling.",
+      "highlights": [
+        "Golf compact, bine adăpostit între promontorii",
+        "Apă de obicei limpede, potrivită pentru snorkeling atent",
+        "Nisip amestecat cu pietricele și porțiuni stâncoase",
+        "Urme arheologice în vecinătatea țărmului",
+        "Plajă amenajată lângă resort; accesul practic trebuie verificat"
+      ],
+      "seo_title": "Agios Ioannis Beach Thassos – acces, resort și snorkeling",
+      "seo_description": "Explorează Agios Ioannis Loukas din Thassos, între Aliki și Kinira: golf turcoaz, plajă amenajată, intrare cu pietre, sit antic și sfaturi de acces.",
+      "social_caption": "🌊 Agios Ioannis Beach, Thassos: un golf turcoaz între dealuri verzi, cu stânci ideale pentru snorkeling și urme antice în apropiere. 🏖️ Verifică accesul înainte de vizită! 🇬🇷 #Thassos #AgiosIoannis #ExploreGreece",
+      "photo_alt": "Golful Agios Ioannis Loukas din Thassos, cu apă turcoaz, țărm de nisip și pietricele, umbrele de plajă și dealuri verzi în fundal."
+    },
+    "en": {
+      "name": "Agios Ioannis Beach (Agios Ioannis Loukas)",
+      "tagline": "A turquoise cove framed by rocky headlands, green hills and ancient traces",
+      "summary": "Agios Ioannis Loukas is a compact cove on southeastern Thassos between Alyki and Kinira. Its shore mixes sand, shingle and rocky patches with usually clear water. Much of the beach is now laid out in front of Thassos Grand Resort, and practical entry arrangements for non-guests need checking.",
+      "description": "Agios Ioannis Beach, also called Agios Ioannis Loukas or Ai Giannis, sits in a clearly defined cove on the southeastern coast of Thassos, between the Alyki peninsula and Kinira. From the shoreline, the sea changes from pale green to vivid turquoise, while rocky headlands and slopes with pines and olive trees give the bay a secluded feel. Sand, gravel and larger stones share the shore, so the first steps into the sea are not uniformly soft or sandy. Those rocky edges and generally clear water make the bay interesting for careful snorkelling whenever conditions are calm. Close behind the waterfront is the archaeological area of Agios Ioannis Loukas, associated with evidence of prehistoric occupation and later activity. It adds an unusual historical dimension to a swim stop and deserves to be treated respectfully. Older travel descriptions portray an almost untouched inlet, but visitors will find a different landscape today. Thassos Grand Resort occupies the back of the bay, and rows of sunloungers and umbrellas are placed along much of the beachfront in season. A beach bar and dining services operate in the resort setting, although their availability to visitors who are not staying there should never be assumed. This is its own geographic beach, not a section of Alyki or Kinira. Before setting off, however, check how to approach it: there have been documented disputes and reports of barriers to practical public access through the resort entrance, and current pedestrian and vehicle arrangements are not conclusively established.",
+      "practical_tips": "If you are not a resort guest, check the current permitted pedestrian route before travelling. Do not assume that you can drive through the resort gate or use guest parking, loungers or hospitality facilities. Older guides describe a short side road, but the approach has changed with development. Bring water shoes for stones and rocky patches, drinking water and sun protection; natural shade on the sand is limited. Publicly usable toilets, lifeguard coverage and unserviced space should not be taken for granted. Stay clear of protected archaeological remains and assess the sea before snorkelling.",
+      "highlights": [
+        "Compact bay surrounded by rocky headlands",
+        "Usually clear turquoise water for careful snorkelling",
+        "Sand, shingle and rocks along the shoreline",
+        "Archaeological remains close to the beach",
+        "Resort-organised shore; visitor access needs advance checks"
+      ],
+      "seo_title": "Agios Ioannis Beach Thassos – access, resort & snorkelling",
+      "seo_description": "Guide to Agios Ioannis Loukas on Thassos, between Alyki and Kinira: turquoise bay, organised shore, rocky entry, archaeology and visitor access tips.",
+      "social_caption": "🌊 Agios Ioannis Beach, Thassos: turquoise water tucked between green hills, rocky snorkelling spots and traces of ancient life nearby. 🏖️ Check access before visiting! 🇬🇷 #Thassos #AgiosIoannis #GreekIslands",
+      "photo_alt": "Agios Ioannis Loukas cove on Thassos with turquoise sea, a mixed sand-and-pebble shoreline, seasonal beach umbrellas and green hills."
+    },
+    "el": {
+      "name": "Παραλία Αγίου Ιωάννη Λουκά (Αϊ-Γιάννης)",
+      "tagline": "Γαλαζοπράσινος όρμος ανάμεσα σε βράχια, πράσινους λόφους και αρχαία ίχνη",
+      "summary": "Ο Άγιος Ιωάννης Λουκάς είναι ένας μικρός όρμος στη νοτιοανατολική Θάσο, ανάμεσα στην Αλυκή και στα Κοίνυρα. Η ακτή συνδυάζει άμμο, βότσαλα και πέτρες με συνήθως διάφανα νερά. Σήμερα μεγάλο μέρος της παραλίας είναι οργανωμένο μπροστά στο Thassos Grand Resort και η πρακτική πρόσβαση για μη διαμένοντες χρειάζεται έλεγχο.",
+      "description": "Η παραλία του Αγίου Ιωάννη, γνωστή και ως Άγιος Ιωάννης Λουκάς ή Αϊ-Γιάννης, απλώνεται σε έναν σαφώς σχηματισμένο όρμο στη νοτιοανατολική πλευρά της Θάσου, ανάμεσα στη χερσόνησο της Αλυκής και στα Κοίνυρα. Από την ακτή, η θάλασσα παίρνει αποχρώσεις από ανοιχτό πράσινο έως έντονο τιρκουάζ, ενώ τα βραχώδη ακρωτήρια και οι πλαγιές με πεύκα και ελιές δημιουργούν μια όμορφη αίσθηση απομόνωσης. Στο έδαφος εναλλάσσονται άμμος, χαλίκι, βότσαλα και μεγαλύτερες πέτρες, γι’ αυτό η είσοδος στο νερό δεν είναι παντού ομαλή. Τα βραχώδη άκρα του κόλπου και η συνήθως καλή διαύγεια προσφέρονται για προσεκτική εξερεύνηση με μάσκα όταν η θάλασσα είναι ήρεμη. Πολύ κοντά βρίσκεται ο αρχαιολογικός χώρος του Αγίου Ιωάννη Λουκά, όπου έχουν εντοπιστεί ίχνη ανθρώπινης παρουσίας από την προϊστορική εποχή και μεταγενέστερες περιόδους. Οι παλαιότερες περιγραφές μιλούν για σχεδόν ερημική ακτή, όμως η σημερινή εικόνα είναι διαφορετική. Στο πίσω μέρος της παραλίας βρίσκεται το Thassos Grand Resort και κατά τη θερινή περίοδο μεγάλο μέρος του χώρου οργανώνεται με σειρές από ξαπλώστρες και ομπρέλες. Υπάρχουν υπηρεσίες εστίασης που συνδέονται με το συγκρότημα, χωρίς να είναι δεδομένη η χρήση τους από επισκέπτες εκτός ξενοδοχείου. Ο όρμος είναι ξεχωριστός από τις παραλίες της Αλυκής και των Κοινύρων. Πριν την επίσκεψη, ωστόσο, χρειάζεται έλεγχος της πρόσβασης, καθώς έχουν καταγραφεί διαφωνίες και αναφορές για εμπόδια στη διέλευση από την είσοδο του συγκροτήματος και οι τωρινές ρυθμίσεις δεν έχουν επιβεβαιωθεί πλήρως.",
+      "practical_tips": "Αν δεν διαμένετε στο ξενοδοχείο, ενημερωθείτε εκ των προτέρων για την ισχύουσα πεζή πρόσβαση. Μη θεωρείτε δεδομένη τη διέλευση αυτοκινήτου από την μπάρα ή τη χρήση στάθμευσης, ξαπλωστρών και υπηρεσιών του συγκροτήματος. Παλαιότεροι οδηγοί αναφέρουν σύντομο παράδρομο, όμως η περιοχή έχει αλλάξει. Πάρτε παπούτσια θαλάσσης για πέτρες και βραχώδη σημεία, πόσιμο νερό και αντηλιακή προστασία, καθώς η φυσική σκιά στην ακτή είναι περιορισμένη. Μη βασίζεστε χωρίς επιβεβαίωση σε δημόσιες τουαλέτες, ναυαγοσώστη ή ελεύθερο χώρο. Σεβαστείτε τα αρχαιολογικά κατάλοιπα και ελέγξτε τις συνθήκες της θάλασσας πριν από τη μάσκα.",
+      "highlights": [
+        "Μικρός όρμος ανάμεσα σε βραχώδη ακρωτήρια",
+        "Συνήθως καθαρά γαλαζοπράσινα νερά για μάσκα",
+        "Άμμος, χαλίκι και πέτρες στην ακτή",
+        "Αρχαιολογικά κατάλοιπα κοντά στην παραλία",
+        "Οργανωμένη ακτή μπροστά σε θέρετρο· έλεγχος πρόσβασης"
+      ],
+      "seo_title": "Παραλία Άγιος Ιωάννης Λουκάς Θάσος – πρόσβαση και παροχές",
+      "seo_description": "Γνωρίστε τον Άγιο Ιωάννη Λουκά στη Θάσο, ανάμεσα στην Αλυκή και στα Κοίνυρα: τιρκουάζ όρμος, οργανωμένη ακτή, πέτρες, αρχαιολογία και συμβουλές.",
+      "social_caption": "🌊 Άγιος Ιωάννης Λουκάς, Θάσος: γαλαζοπράσινα νερά, καταπράσινες πλαγιές, βράχια για μάσκα και ιστορία δίπλα στην ακτή. 🏖️ Ελέγξτε την πρόσβαση πριν ξεκινήσετε! 🇬🇷 #Θάσος #ΆγιοςΙωάννης #Ελλάδα",
+      "photo_alt": "Ο όρμος Αγίου Ιωάννη Λουκά στη Θάσο με τιρκουάζ νερά, ακτή με άμμο και βότσαλα, ομπρέλες και πράσινες πλαγιές."
+    },
+    "de": {
+      "name": "Agios Ioannis Beach (Agios Ioannis Loukas)",
+      "tagline": "Türkisfarbene Bucht zwischen Felsen, grünen Hügeln und antiken Spuren",
+      "summary": "Agios Ioannis Loukas ist eine kleine Bucht im Südosten von Thassos zwischen Alyki und Kinira. Sand, Kies und Steine treffen hier auf meist klares Wasser. Heute wird ein Großteil des Strandes vor dem Thassos Grand Resort bewirtschaftet; die tatsächlichen Zugangsbedingungen für externe Gäste sollten vorab geprüft werden.",
+      "description": "Agios Ioannis Beach, auch Agios Ioannis Loukas oder Ai Giannis genannt, liegt in einer klar abgegrenzten Bucht an der Südostküste von Thassos, zwischen der Halbinsel Alyki und Kinira. Das Meer schimmert vom Ufer aus hellgrün bis türkis, während felsige Landzungen und Hänge mit Pinien und Olivenbäumen der Bucht eine abgeschiedene Kulisse verleihen. Am Strand mischen sich Sand, Kies und größere Steine. Der Einstieg ins Wasser ist daher nicht überall so bequem wie an einem reinen Sandstrand. An den felsigen Rändern lässt sich bei ruhiger See und guter Sicht vorsichtig mit der Maske die Unterwasserwelt erkunden. Unmittelbar hinter der Küste befindet sich der archäologische Bereich von Agios Ioannis Loukas, wo Spuren menschlicher Besiedlung aus prähistorischer Zeit und späteren Epochen entdeckt wurden. Das macht die Gegend auch für geschichtlich Interessierte bemerkenswert. Ältere Reiseführer beschreiben noch eine fast naturbelassene kleine Bucht, doch das Erscheinungsbild hat sich verändert: Das Thassos Grand Resort liegt direkt hinter dem Strand, und in der Saison nehmen Reihen von Liegen und Sonnenschirmen große Teile des Ufers ein. Strandbar und gastronomische Angebote gehören zum Umfeld des Resorts; eine Nutzung durch Tagesbesucher ist nicht automatisch gewährleistet. Agios Ioannis ist eine eigenständige Bucht und weder ein Abschnitt von Alyki noch von Kinira. Vor einem Besuch empfiehlt sich jedoch eine Prüfung der Wege: In der Vergangenheit wurden Schwierigkeiten beim Zugang über den Resort-Eingang und entsprechende Auseinandersetzungen dokumentiert. Die aktuellen Regelungen für Fußgänger und Fahrzeuge sind nicht abschließend bestätigt.",
+      "practical_tips": "Wenn Sie nicht im Resort wohnen, informieren Sie sich vor der Anfahrt über den derzeit zulässigen Fußweg. Gehen Sie nicht davon aus, dass Fahrzeuge die Schranke passieren dürfen oder dass Hotelparkplätze, Liegen und gastronomische Einrichtungen externen Besuchern offenstehen. Ältere Beschreibungen nennen einen kurzen Nebenweg, doch die Erschließung hat sich verändert. Badeschuhe sind wegen der Steine sinnvoll, außerdem Trinkwasser und Sonnenschutz: Auf dem Strand selbst ist natürlicher Schatten begrenzt. Öffentlich nutzbare Toiletten, Rettungsschwimmer und freie Strandflächen sind nicht garantiert. Halten Sie Abstand von archäologischen Resten und prüfen Sie vor dem Schnorcheln die See.",
+      "highlights": [
+        "Kleine Bucht zwischen felsigen Landzungen",
+        "Meist klares türkisfarbenes Wasser zum Schnorcheln",
+        "Sand, Kies und Steinabschnitte",
+        "Archäologische Spuren nahe dem Ufer",
+        "Bewirtschafteter Resortstrand; Zugang vorher klären"
+      ],
+      "seo_title": "Agios Ioannis Beach Thassos – Zugang, Resort & Schnorcheln",
+      "seo_description": "Agios Ioannis Loukas auf Thassos zwischen Alyki und Kinira: türkisfarbene Bucht, bewirtschafteter Strand, Steine, Archäologie und praktische Zugangstipps.",
+      "social_caption": "🌊 Agios Ioannis Beach auf Thassos: türkisfarbenes Wasser zwischen grünen Hügeln, Felsen zum Schnorcheln und antike Spuren in der Nähe. 🏖️ Zugang vorab prüfen! 🇬🇷 #Thassos #AgiosIoannis #Griechenland",
+      "photo_alt": "Bucht Agios Ioannis Loukas auf Thassos mit türkisfarbenem Meer, Sand und Kies, Strandsonnenschirmen und grünen Hügeln."
+    },
+    "bg": {
+      "name": "Плаж Агиос Йоанис (Агиос Йоанис Лукас)",
+      "tagline": "Тюркоазен залив сред скали, зелени хълмове и следи от древността",
+      "summary": "Агиос Йоанис Лукас е малък залив в югоизточната част на Тасос между Алики и Кинира. Брегът съчетава пясък, чакъл и камъни с обикновено прозрачна вода. Днес голяма част от плажа е организирана пред Thassos Grand Resort и реалните условия за достъп на външни посетители трябва да се проверят.",
+      "description": "Плаж Агиос Йоанис, известен също като Агиос Йоанис Лукас или Ай Янис, се намира в ясно очертан залив на югоизточния бряг на остров Тасос, между полуостров Алики и района на Кинира. Водата прелива от светлозелено към тюркоазено, а скалистите носове и склоновете с борове и маслинови дървета създават усещане за закътано място. По брега има пясък, ситни камъчета и по-едри камъни, затова навлизането в морето не е еднакво удобно навсякъде. Край скалистите краища на залива, при спокойно море, прозрачната вода дава добри възможности за внимателно гмуркане с маска. Съвсем близо се намира археологическата зона Агиос Йоанис Лукас, където са открити следи от човешко присъствие през праисторически и по-късни периоди. Това придава на мястото интерес и отвъд плажуването. По-старите туристически описания представят почти диво заливче, но днес обстановката е различна. Непосредствено зад плажа е разположен Thassos Grand Resort, а през сезона значителна част от ивицата е заета от редици шезлонги и чадъри. В района работят плажен бар и заведения, свързани с комплекса, но не бива да се приема, че всички услуги са достъпни за хора, които не са гости на хотела. Плажът е самостоятелно място и не е част от съседните плажове Алики или Кинира. Преди посещение е разумно да се провери достъпът: в миналото са документирани спорове и сигнали за препятствия при преминаване през входа на комплекса, а актуалните условия за пешеходци и автомобили не са окончателно потвърдени.",
+      "practical_tips": "Ако не сте гости на комплекса, предварително проверете разрешения пешеходен маршрут. Не разчитайте, че ще минете с кола през бариерата или ще използвате хотелския паркинг, шезлонгите и заведенията. В по-стари пътеводители се споменава кратък страничен път, но районът е променен. Носете обувки за вода заради камъните, питейна вода и слънцезащита, тъй като естествената сянка върху самия плаж е ограничена. Обществени тоалетни, спасител и свободна зона без шезлонги не са гарантирани. Не навлизайте в археологическите останки и проверявайте условията в морето преди гмуркане с маска.",
+      "highlights": [
+        "Малък залив сред скалисти носове",
+        "Обикновено прозрачна тюркоазена вода за маска",
+        "Пясък, дребни и по-едри камъни",
+        "Археологически останки близо до брега",
+        "Организиран плаж до курортен комплекс; проверете достъпа"
+      ],
+      "seo_title": "Плаж Агиос Йоанис, Тасос – достъп, удобства и гмуркане",
+      "seo_description": "Открийте Агиос Йоанис Лукас на Тасос между Алики и Кинира: тюркоазен залив, организиран бряг, каменисто дъно, история и съвети за достъп.",
+      "social_caption": "🌊 Агиос Йоанис, Тасос: тюркоазен залив между зелени хълмове, скали за гмуркане с маска и древни следи наблизо. 🏖️ Проверете достъпа преди посещение! 🇬🇷 #Тасос #АгиосЙоанис #Гърция",
+      "photo_alt": "Заливът Агиос Йоанис Лукас на Тасос с тюркоазена вода, пясък и камъчета, плажни чадъри и зелени хълмове."
+    },
+    "sr": {
+      "name": "Plaža Agios Joanis (Agios Joanis Lukas)",
+      "tagline": "Tirkizni zaliv između stena, zelenih brda i tragova davne prošlosti",
+      "summary": "Agios Joanis Lukas je mala uvala na jugoistoku Tasosa, između Alikija i Kinire. Na obali se smenjuju pesak, šljunak i kamenje, a more je uglavnom bistro. Danas je veliki deo plaže uređen ispred kompleksa Thassos Grand Resort, pa uslove pristupa za posetioce koji nisu gosti treba proveriti.",
+      "description": "Plaža Agios Joanis, poznata i kao Agios Joanis Lukas ili Ai Janis, smeštena je u jasno oblikovanoj uvali na jugoistočnoj obali Tasosa, između poluostrva Aliki i oblasti Kinira. More se preliva od svetlozelene do tirkizne boje, a stenoviti rtovi i padine sa borovima i maslinama daju zalivu zaklonjen, gotovo izdvojen izgled. Na obali se nalaze pesak, sitan šljunak i krupnije kamenje, pa ulazak u vodu nije svuda jednako mekan i lagan. Uz kamenite ivice, kada je more mirno, bistra voda omogućava pažljivo ronjenje sa maskom. Nedaleko od obale nalazi se arheološko nalazište Agios Joanis Lukas, gde su otkriveni tragovi ljudskog boravka iz praistorije i kasnijih perioda. Zbog toga je ovo mesto zanimljivo i onima koji vole istoriju, a ne samo kupanje. Stariji putopisi opisuju gotovo netaknutu uvalu, ali današnji izgled je drugačiji. Odmah iza plaže nalazi se Thassos Grand Resort, a tokom sezone veliki deo obale zauzimaju redovi ležaljki i suncobrana. Bar na plaži i ugostiteljske usluge povezani su sa kompleksom, ali nije sigurno da ih mogu koristiti posetioci koji nisu smešteni u hotelu. Agios Joanis je zasebna geografska plaža i ne treba je mešati sa Alikijem ili Kinirom. Pre dolaska treba proveriti mogućnost prilaza: u prošlosti su dokumentovani sporovi i prijave otežanog prolaza kroz ulaz resorta, dok sadašnja pravila za pešake i vozila nisu pouzdano potvrđena.",
+      "practical_tips": "Ako niste gosti hotela, unapred proverite aktuelnu dozvoljenu pešačku rutu. Nemojte pretpostaviti da možete proći automobilom kroz rampu ili koristiti hotelski parking, ležaljke i restorane. Stariji vodiči pominju kratak sporedni put, ali se prilaz promenio sa izgradnjom kompleksa. Za kamenito dno ponesite obuću za vodu, kao i vodu za piće i zaštitu od sunca; prirodnog hlada na samoj obali nema mnogo. Javno dostupni toaleti, spasilac i slobodan prostor bez ležaljki nisu zagarantovani. Poštujte granice arheološkog lokaliteta i proverite uslove na moru pre ronjenja sa maskom.",
+      "highlights": [
+        "Mala uvala između stenovitih rtova",
+        "Uglavnom bistra tirkizna voda za pažljivo ronjenje s maskom",
+        "Mešavina peska, šljunka i kamenja",
+        "Arheološki ostaci blizu obale",
+        "Uređena plaža uz resort; pristup proveriti unapred"
+      ],
+      "seo_title": "Plaža Agios Joanis Tasos – prilaz, resort i ronjenje",
+      "seo_description": "Istražite Agios Joanis Lukas na Tasosu između Alikija i Kinire: tirkizni zaliv, uređena plaža, kameno dno, arheologija i saveti za dolazak.",
+      "social_caption": "🌊 Agios Joanis, Tasos: tirkizna uvala između zelenih brda, stene za ronjenje s maskom i tragovi prošlosti u blizini. 🏖️ Proverite prilaz pre posete! 🇬🇷 #Tasos #AgiosJoanis #Grcka",
+      "photo_alt": "Uvala Agios Joanis Lukas na Tasosu sa tirkiznim morem, peščano-šljunkovitom obalom, suncobranima i zelenim brdima."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/agios-ioannis/images/agios-ioannis1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/agios-ioannis/images/agios-ioannis2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/agios-ioannis/images/agios-ioannis3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/agios-ioannis/images/agios-ioannis4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/agios-ioannis/images/agios-ioannis5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/agios-ioannis/images/",
+    "suggested_asset_names": [
+      "agios-ioannis1.webp",
+      "agios-ioannis2.webp",
+      "agios-ioannis3.webp",
+      "agios-ioannis4.webp",
+      "agios-ioannis5.webp"
+    ],
+    "image_policy": "Use the five user-selected local WebP images in numerical order. The first is the cover and the other four form the gallery. Verify that each image depicts Agios Ioannis Beach on Thassos and that the creator or rights holder authorizes publication and commercial use. No third-party image references are imported.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_gothassos",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Agios Ioannis Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/agios-ioannis-beach",
+      "detail": "Independent location profile lists sand, pebbles, rocks and rock shelf; WC, food/drink, sunbeds/umbrellas and parking but without specifying unrestricted public access.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_e_thassos",
+      "kind": "local_travel_guide",
+      "title": "E-Thassos — Παραλία Αϊ Γιάννης Θάσου",
+      "url": "https://www.e-thassos.com/gr/monument/%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B1-%CE%B1%CF%8A-%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82-%CE%B8%CE%AC%CF%83%CE%BF%CF%85-64/",
+      "detail": "Greek source locates beach between Alyki and Kinira, names chapel, clear water and snorkeling, pebbles/stones and reported loungers.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_thassos_view",
+      "kind": "local_travel_guide",
+      "title": "Thassos View — Agios Ioannis Beach",
+      "url": "https://www.thassos-view.com/places/beaches/agios-ioannis-beach",
+      "detail": "Identifies the area between Kinira and Alykes, regional name Babouras and Agios Ioannis chapel; mixed pebbles, rocks and sunbeds.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Beaches on Thassos: Agios Ioannis",
+      "url": "https://nikana.gr/en/tourist-guide/blog/beaches/1676/beaches-on-thassos-description-and-how-to-get-there",
+      "detail": "Mixed gravel and sand, emerald water, snorkeling, historical road approach from Alyki toward Kinira and archaeological site. Historical routing must be checked against resort access now.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_resort_beach",
+      "kind": "business_primary",
+      "title": "Thassos Grand Resort — Beach & Pools",
+      "url": "https://thassosgrandresort.com/beach-pools/beach-pools/",
+      "detail": "Resort confirms operation on Agios Ioannis Loukas bay, beachfront services, setting and snorkeling; hotel claims about own/secluded beach are not proof of legal exclusive shoreline ownership.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_resort_archaeology",
+      "kind": "business_primary",
+      "title": "Thassos Grand Resort — Archaeology",
+      "url": "https://thassosgrandresort.com/archaeology/",
+      "detail": "Describes prehistoric archaeological evidence, later historical layers and excavation on western side of bay; resort-authored interpretation, not a substitute for independent archaeology report.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_whichgreekisland",
+      "kind": "travel_guide",
+      "title": "Which Greek Island — Agios Ioannis Beach, Thassos",
+      "url": "https://whichgreekisland.co.uk/islands/thassos/beaches/agios-ioannis/",
+      "detail": "Describes beach as resort dominated but not legally private, sunloungers, mixed sand and stones, a jetty, beachfront services and reported parking; non-guest access account may be dated.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_staythassos",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Complete list of Thassos beaches: Agios Ioannis",
+      "url": "https://staythassos.gr/thassos-beaches/",
+      "detail": "2026 guide calls resort beach private and says non-guest access restricted; conflicting framing to be treated as a report about practical access, not statement of legal ownership. Mentions reported lifeguard and rocky entry.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_greek_access_authority",
+      "kind": "government_rights",
+      "title": "Hellenic Ministry of National Economy & Finance — Free Access (Paralia gia Olous)",
+      "url": "https://minfin.gov.gr/paraliagiaolous/eleftheri-prosvasi/",
+      "detail": "Official general rules on free coastal access, public passage and use of leased beach areas; cannot be used to assert that the specific Agios Ioannis resort gate is passable today.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_access_2023",
+      "kind": "local_public_access_report",
+      "title": "Infolibre — 2023 Thassos Free Beach Movement action at Agios Ioannis",
+      "url": "https://www.infolibre.gr/2023/08/17/kinitopoiisi-sti-thaso-gia-eleytheres-kai-prosvasimes-paralies-savvato-19-8-stis-12-00-stin-eisodo-toy-xenodocheio-stin-paralia-toy-ag-ioanni-notia-thasos/",
+      "detail": "Contemporaneous campaign claimed blocked public entrance and initiated protest; claims not treated as a current court finding or current access policy.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_access_2024",
+      "kind": "local_news",
+      "title": "Kavala News — Agios Ioannis public access complaint, 13 September 2024",
+      "url": "https://www.kavalanews.gr/node/44319",
+      "detail": "Documents complaint about access refusal and political questions; not verification of current access and should not override current statutory public-access rules.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_2026",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — 2026 awarded beaches (Thassos regional unit)",
+      "url": "https://www.blueflag.gr/el/awards/2026",
+      "detail": "The 2026 Thassos regional list contains five other awarded sites and does not name Agios Ioannis Loukas; do not infer award from homonymous Agios Ioannis on Lemnos.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_mapcarta_resort",
+      "kind": "mapping_secondary",
+      "title": "Mapcarta / OpenStreetMap — Thassos Grand Resort",
+      "url": "https://mapcarta.com/N4317695490",
+      "detail": "Maps resort point near 40.6199,24.7615, which is not the Google Maps verified beach pin. Nearby OSM archaeological area corroborates locale.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_mapcarta_bar",
+      "kind": "mapping_secondary",
+      "title": "Mapcarta / OpenStreetMap — Beach Bar Thassos Grand Resort",
+      "url": "https://mapcarta.com/N13074339079",
+      "detail": "OSM-related bar near 40.61897,24.76173; independent support for beachfront service/location, NOT beach entrance or Google Maps coordinate.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_google_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Agios Ioannis Loukas Beach, Thassos (name search)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Agios%20Ioannis%20Loukas%20Beach%2C%20Thassos%2C%20Greece",
+      "detail": "Search URL only; exact point, road entrance and publicly passable access not directly verified. Coordinates intentionally null.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_gr_beaches",
+      "kind": "travel_guide",
+      "title": "GR Beaches — Άγιος Ιωάννης παραλία, Θάσος",
+      "url": "https://www.gr-beaches.com/agios_ioannis_paralia__thassos__ellada.el.aspx",
+      "detail": "Older source states cove along Alyki-to-Kinira road, 400 m dirt approach and an estimate of 150 m beach length; modern gate conditions and exact measurement require review.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_jet2_visual",
+      "kind": "tourism_media_reference",
+      "title": "Jet2 Blog — Best beaches in Thassos",
+      "url": "https://blog.jet2.com/best-beaches-in-thassos",
+      "detail": "Aerial imagery shows Agios Ioannis beach/resort relationship; images not licensed for reuse through this reference.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_pending_images_and_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm exact Google Maps pin for Agios Ioannis Loukas BEACH, not the nearby resort or beach-bar point; populate lat/lng only after independent Google link verification.",
+      "Verify legal pedestrian route, gate/barrier operations and any real restrictions for non-resort guests in 2026; historical public-access reports and general Greek access law do not establish current on-site procedures.",
+      "Identify public parking/roadside safe parking and whether the hotel car park is guest-only; do not promise entry through resort gate.",
+      "Verify that toilets, showers, bars and loungers are accessible to day visitors, and confirm operator-specific fees or minimum consumption.",
+      "Check exact lifeguard hours, accessible route/equipment, free unserviced space, seabed hazards and any seasonal water sports.",
+      "Verify the five locally prepared agios-ioannis1.webp through agios-ioannis5.webp images are present in the images/ folder, depict Agios Ioannis Loukas on Thassos, and are authorized for publication and commercial use.",
+      "Proofread full six-language editorial texts with native speakers before publication, including local Greek naming and Serbian Latin transliteration.",
+      "Avoid confusion with any homonymous Agios Ioannis outside Thassos, or with Aliki and Kinira beaches.",
+      "The official 2026 Blue Flag award list for Thassos does not list this beach; do not infer a certification from namesake beach on Lemnos."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; five user-selected local WebP image paths are configured. Image authorship, licensing and commercial reuse rights have not been independently verified.",
+    "photo_source_disclaimer": "Cover and gallery reference five user-selected local WebP files in numerical order. Their presence, visual identity and publication rights must be confirmed locally; no third-party photo files are included in the JSON."
+  }
+}

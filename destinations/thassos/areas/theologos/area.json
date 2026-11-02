@@ -1,0 +1,438 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-theologos",
+  "slug": "theologos",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Θεολόγος",
+    "international_name": "Theologos",
+    "aliases": [
+      "Theologos",
+      "Theológos",
+      "Theologos Thassos",
+      "Theologos Thasos",
+      "Θεολόγος",
+      "Θεολόγος Θάσου",
+      "Άνω Θεολόγος (historical name)"
+    ],
+    "area_type": "traditional_inland_village",
+    "entity_scope": "The historic inland, inhabited mountain village of Theologos in the southern/southeastern foothills of Thassos, including its streets, traditional buildings and immediate cultural setting. This is a settlement profile, not the seaside settlement Potos, a beach, the wider municipal community, or a generic name used for unrelated places.",
+    "deduplication_warning": "Theologos (Θεολόγος), the former Ottoman-period administrative and trading centre, is an inland heritage village about 10 km by road from Potos. Do not confuse the OSM village node 280965938 with the similarly named roadside tourism-information sign at a different location (Mapcarta /N13512650041), nor present any Potos beach, the village square or an unverified trail as the same point.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": false,
+    "coast": null,
+    "part_of_island": "southern_inland_foothills",
+    "center": {
+      "lat": 40.65945,
+      "lng": 24.692,
+      "coordinate_role": "OSM_place_village_node_280965938_settlement_reference_only_not_arrival_or_parking",
+      "coordinate_source": "Mapcarta / OpenStreetMap place=village node 280965938",
+      "coordinate_source_url": "https://mapcarta.com/13813852",
+      "verification_status": "mapped_village_reference_verified_in_OSM_secondary_display;_road_arrival_parking_and_entrance_pending_field_check",
+      "verified_on": "2026-10-28"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "An inland village at roughly 220–240 m above sea level on the southeastern/southern side of Thassos, reached on the road from Potos (approximately 10 km, according to regional tourism sources). The village centre point is a geographic reference, not a route terminus or an assertion of public parking; the village has no shoreline. Nearby Kefalogourna waterfall, bridges and historic mills are distinct POIs that require individual coordinates, land/access checks and source verification before route links."
+  },
+  "overview": {
+    "settlement_character": "Historic inhabited mountain village with an extensive traditional stone-built environment, local everyday life, small tavernas and cultural heritage; a worthwhile inland excursion, not a beach resort.",
+    "tourism_profile": [
+      "traditional_village",
+      "heritage_architecture",
+      "historic_ottoman_period_administrative_centre",
+      "folklore_museum",
+      "traditional_tavernas",
+      "local_gastronomy",
+      "religious_architecture",
+      "slow_travel",
+      "cultural_festivals",
+      "nature_nearby_with_access_checks"
+    ],
+    "best_time_to_visit": "Spring and early autumn are generally comfortable for village walks; summer adds cultural programming and tavernas, while midday heat and road traffic can affect visits. Check opening times and weather for the specific date.",
+    "peak_season_notes": "Summer visits, especially around announced cultural events, can be busy. The annual Thassian Wedding is traditionally held in August, but each year’s exact date and public access must be confirmed from the cultural association rather than inferred from previous years."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "Historical administrative and commercial centre of Thassos during Ottoman rule; not the modern island ferry/municipal capital.",
+      "Traditional Macedonian-style stone houses, wooden projecting upper floors, slate roofs and narrow lanes.",
+      "Hatzigiorgis Mansion, now the Folklore Museum of Theologos, with everyday historical tools, domestic rooms, weaving and textiles.",
+      "Churches of Agia Paraskevi and Agios Dimitrios, noted for carved wooden iconostases; references cite Agios Dimitrios as built in 1803.",
+      "Water-powered heritage, lime kilns and stone bridges in the surrounding countryside, with site-specific access not yet verified.",
+      "Connection of the Theologos local leader Hatzigiorgis with the 1821 Thassian uprising, documented by the Municipality of Thassos."
+    ],
+    "local_traditions": [
+      "The annual re-enactment of the traditional Thassian wedding in August, with costume, folk music, procession and dance; exact date varies.",
+      "Preservation of traditional folk costume, weaving, household artefacts and island customs through the Hatzigiorgis cultural association and museum.",
+      "Village hospitality and seasonal celebrations associated with local history; do not invent an event programme."
+    ],
+    "local_food_specialties": [
+      "Roast goat, a well-known local tavern specialty; menus and preparation vary by establishment.",
+      "Traditional roast lamb, when available; verify the current menu.",
+      "Thassos honey and regional olive products; source and availability vary.",
+      "Homemade sweets and local pastries, depending on the venue and season.",
+      "Regional wine, where offered by a licensed establishment."
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "history_and_culture",
+      "traditional_architecture",
+      "couples",
+      "food_lovers",
+      "photography",
+      "scenic_village_strolls",
+      "day_trips_from_south_coast",
+      "local_traditions"
+    ],
+    "experiences": [
+      "Walk slowly along the main paved village street and side lanes, viewing historic stone architecture without entering private houses.",
+      "Visit the Hatzigiorgis Folklore Museum when open to understand daily life, trades and textiles in earlier Thassos.",
+      "View the exterior of Agia Paraskevi and Agios Dimitrios churches, entering only when open and respecting worship.",
+      "Enjoy a traditional lunch, especially locally known roast goat, after checking that the tavern is operating.",
+      "Look for responsibly accessible views and historical details such as stone bridges and former mills with locally verified directions.",
+      "Consider the Thassian Wedding cultural celebration if an official date and programme have been announced for the year."
+    ],
+    "points_of_interest_summary": [
+      "Historic village streets and traditional Macedonian-style houses",
+      "Hatzigiorgis Mansion / Folklore Museum of Theologos",
+      "Church of Agia Paraskevi",
+      "Church of Agios Dimitrios",
+      "Historic stone bridge(s) in the outskirts (exact access to verify)",
+      "Kefalogourna waterfall and watermills nearby (individual coordinates/access not verified)",
+      "Seasonal Thassian Wedding revival (confirm official programme)"
+    ],
+    "estimated_visit_duration": "About 1.5–3 hours for a relaxed walk, museum if open and a meal; longer for a scheduled cultural event or separately verified nature excursion.",
+    "family_suitability": "Suitable for a cultural family outing when children can manage uneven stone paving and hills. Keep children near traffic on shared streets and supervise carefully around watercourses or steep areas.",
+    "mobility_considerations": "Narrow lanes, uneven stone paving, steps and uphill sections can make walking difficult for wheelchairs, strollers and people with reduced mobility. No independently verified continuous step-free heritage circuit, museum entrance or accessible parking is recorded.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "Road access is typically via Potos on the southern coast, around 10 km away. The last approach enters an inland village setting with narrower streets; use current local road signs and avoid assuming the mapped centre is an appropriate driving destination. Do not route onto unknown minor roads or through private property.",
+    "public_transport": "Regional bus connections to Theologos have appeared in published 2026 schedules from Potos, Limenaria and Limenas. Routes and frequency depend on operating dates; confirm the current operator timetable and actual stop before travel. No fixed timetable or fare is embedded in this area record.",
+    "parking_overview": "No independently verified public parking area, spaces, exact entrance or legal restrictions. Look for signposted legal parking on arrival and keep narrow village access routes clear. Do not infer parking from the settlement centre GPS.",
+    "pedestrian_access": "Exploration is primarily on foot on village streets and paved lanes. Expect variable slopes, stone surfaces, steps and possibly limited sidewalks; respect residents, private gates, religious sites and traffic.",
+    "accessibility_note": "No verified step-free route linking the village, museum and both churches; contact venues if accessible entry or nearby parking is essential. An itinerary should not imply wheelchair accessibility without a current on-site check.",
+    "general_amenities": {
+      "supermarket": null,
+      "pharmacy": null,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": null,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "Wear footwear with grip on polished or uneven stones, carry water in warm weather and be considerate of vehicles on narrow roads. Streams, old mills, ruins and waterfall routes should not be approached without confirming that access is lawful, maintained and safe; rainfall may alter footing. Summer cultural gatherings can bring crowds and limited parking.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-potos",
+      "gr-thassos-area-astris",
+      "gr-thassos-area-limenaria",
+      "gr-thassos-area-kastro"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-potos",
+      "gr-thassos-beach-san-antonio",
+      "gr-thassos-beach-psili-ammos"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "This is an INLAND village with no shoreline and no ferry port. Nearby coastal beaches (Potos, San Antonio, Psili Ammos) are separate destinations reached by road and must never be represented as within Theologos. Featured beach IDs are pointers to already-existing beach JSONs, not statements of nearest straight-line accessibility. Museum, churches, waterfall, old mills and bridges remain editorial POI names only until individual attraction records are present and geocoded. Match services to independent verified coordinates, not village GPS.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "There is no ferry terminal in inland Theologos. Mainland crossings arrive at Limenas or Skala Prinos, which are separate destinations. Do not hard-code ferry or regional bus departure times, fares or seasonal schedules here; use separate operator-verified transport records with timestamps."
+  },
+  "translations": {
+    "ro": {
+      "name": "Theologos",
+      "tagline": "Un sat de piatră în care tradițiile insulei Thassos prind viață",
+      "summary": "Theologos este un sat tradițional din interiorul insulei Thassos, cunoscut pentru casele vechi de piatră, Muzeul de Folclor Hatzigiorgis, bisericile istorice și gastronomia locală. Fost centru administrativ al insulei, este o excursie culturală excelentă din Potos.",
+      "description": "Departe de agitația plajelor, Theologos descoperă o altă față a insulei Thassos: străduțe de piatră, case cu acoperișuri tradiționale, curți umbrite și un ritm al vieții care invită la explorare fără grabă. Satul se află în interiorul sudic al insulei, pe un versant domol, la aproximativ zece kilometri de Potos pe șosea. Nu este o stațiune litorală și nu are plajă proprie; aici farmecul vine din arhitectură, istorie, gastronomie și legătura cu vechile obiceiuri thassiene.\n\nTheologos a avut un rol important ca centru administrativ și comercial în perioada dominației otomane. Astăzi, această moștenire poate fi descoperită plimbându-te pe strada principală pavată și pe aleile mai înguste, printre ziduri din piatră, obloane de lemn și case tradiționale de inspirație macedoneană. Unele clădiri sunt locuințe private; fotografiază din spațiile publice și respectă intimitatea celor care locuiesc aici. Un loc deosebit este conacul Hatzigiorgis, care găzduiește Muzeul de Folclor: obiecte de uz zilnic, unelte ale meșteșugarilor, textile și încăperi amenajate în stilul unei gospodării de odinioară. Vizita depinde de programul actual al muzeului.\n\nBisericile Agia Paraskevi și Agios Dimitrios completează patrimoniul satului prin arhitectura și iconostasele lor sculptate. În împrejurimi sunt amintite poduri de piatră, mori de apă, vechi cuptoare de var și cascada Kefalogourna, însă accesul către fiecare obiectiv trebuie verificat separat; nu toate pot fi incluse automat într-un traseu ușor de parcurs. O plimbare prin sat, urmată de o masă la o tavernă tradițională, este adesea suficientă pentru a înțelege atmosfera locului. Specialitatea locală cunoscută este capra la cuptor sau friptă, alături de preparate regionale, miere și produse din Thassos, în funcție de meniul fiecărui local.\n\nTheologos este legat și de una dintre cele mai îndrăgite tradiții ale insulei: reconstituirea nunții thassiene, cu costume populare, muzică, dans și alai prin sat. Evenimentul are loc de regulă în august, dar data exactă trebuie confirmată pentru fiecare an. Primăvara și începutul toamnei sunt potrivite pentru plimbări, iar vara satul poate fi un refugiu cultural față de stațiunile de pe coastă. Alege încălțăminte comodă pentru pavajul uneori neregulat și rezervă timp pentru detaliile mici: o poartă veche, un balcon din lemn, o curte cu flori sau o poveste păstrată în muzeu.",
+      "history_culture": "În timpul perioadei otomane, Theologos a fost un important centru administrativ și comercial al insulei Thassos. Istoria sa este legată de Hatzigiorgis, un conducător local asociat mișcării de revoltă din 1821, potrivit cronologiei publicate de municipalitate. Conacul Hatzigiorgis găzduiește astăzi un muzeu etnografic dedicat meșteșugurilor, gospodăriei și costumului tradițional. Bisericile Agia Paraskevi și Agios Dimitrios sunt apreciate pentru iconostasele sculptate; cea din urmă este prezentată în sursele turistice locale ca fiind construită în 1803. Reconstituirea nunții thassiene, organizată de asociația culturală, readuce în atenție cântecele, dansurile și obiceiurile de familie ale satului.",
+      "local_character": "Theologos nu încearcă să concureze cu stațiunile de la mare. Este un sat locuit, cu alei înguste, ziduri vechi de piatră, tavernе tradiționale și un patrimoniu care se descoperă mai ales la pas. Atmosfera este liniștită în multe zile, dar devine animată la evenimentele culturale.",
+      "what_to_do": "Explorează strada principală și aleile istorice, admiră clădirile tradiționale, intră în Muzeul de Folclor Hatzigiorgis când este deschis, descoperă bisericile Agia Paraskevi și Agios Dimitrios și încearcă preparatele tradiționale la o tavernă. Dacă dorești să vezi podurile, morile sau cascada Kefalogourna, caută mai întâi trasee și puncte de acces actualizate. Pentru nunta thassiană, consultă programul oficial al asociației culturale.",
+      "practical_tips": "Satul se află la aproximativ 10 km de Potos pe șosea. Există legături regionale cu autobuzul în anumite perioade, dar programul și stațiile trebuie confirmate înainte de plecare. Pavajul de piatră, treptele și pantele pot fi dificile pentru cărucioare și persoane cu mobilitate redusă. Nu este identificată încă o parcare publică verificată pentru navigație. Muzeul, tavernele și evenimentele pot avea program sezonier; verifică detaliile la zi. Nu confunda centrul GPS al satului cu un punct de sosire auto.",
+      "highlights": [
+        "Case de piatră și arhitectură tradițională",
+        "Muzeul de Folclor din conacul Hatzigiorgis",
+        "Bisericile Agia Paraskevi și Agios Dimitrios",
+        "Gastronomie locală, în special friptură de capră",
+        "Reconstituirea tradițională a nunții thassiene"
+      ],
+      "seo_title": "Theologos, Thassos – sat tradițional, muzeu, istorie și taverne",
+      "seo_description": "Descoperă Theologos, satul istoric din Thassos: case de piatră, Muzeul Hatzigiorgis, biserici vechi, gastronomie locală și sfaturi pentru vizită.",
+      "social_caption": "Dincolo de plajele din Thassos se ascunde Theologos: alei de piatră, case cu povești, tradiții autentice și gusturi locale. 🏡🌿",
+      "photo_alt": "Stradă tradițională din Theologos, Thassos, cu locuințe de piatră și arhitectură istorică."
+    },
+    "en": {
+      "name": "Theologos",
+      "tagline": "Stone lanes, living traditions and a different side of Thassos",
+      "summary": "Theologos is a historic inland village on Thassos, celebrated for its stone-built houses, the Hatzigiorgis Folklore Museum, old churches and traditional tavernas. Once an administrative and trading centre, it makes an appealing cultural day trip from Potos.",
+      "description": "Leave the busy coastline behind and Theologos reveals another side of Thassos: stone-paved lanes, old houses with wooden details, shaded courtyards and a village rhythm that rewards unhurried exploration. Situated in the island’s southern interior, about ten kilometres by road from Potos, this is a historic inhabited settlement rather than a seaside resort. There is no beach in the village. Its appeal is the combination of preserved architecture, local food, heritage and a sense of continuity with traditional Thassian life.\n\nDuring the Ottoman period, Theologos served as an administrative and commercial centre of the island. That history remains visible along the main paved street and the quieter side lanes, where Macedonian-style stone houses often show timber shutters, distinctive roofs and projecting upper floors. Some buildings are still private homes, so stay on public paths and be respectful when taking pictures. A particularly rewarding stop is the Hatzigiorgis Mansion, which now houses the village’s Folklore Museum. Traditional tools, domestic furnishings, woven textiles and reconstructed household spaces help visitors imagine everyday life and work in earlier generations. Entry and opening periods should always be checked for the actual day.\n\nThe churches of Agia Paraskevi and Agios Dimitrios are important features of the village’s religious heritage and are noted for their carved wooden iconostases. Beyond the built-up streets, local descriptions mention stone bridges, watermills, old lime kilns and the Kefalogourna waterfall. These are separate places rather than guaranteed easy stops: their exact positions, path conditions and lawful public access need individual confirmation before anyone sets out. An enjoyable visit can be as simple as a slow walk through the old centre followed by lunch at a traditional taverna. Roast goat is a well-known local specialty, while lamb, honey, regional pastries and other Thassian products may also appear depending on the kitchen and season.\n\nTheologos is also home to the celebrated revival of the traditional Thassian Wedding, a cultural occasion with costumes, a village procession, folk songs and dancing. The celebration is associated with August, but its date and programme must be checked every year with the organisers. Spring and early autumn bring pleasant conditions for village walks; summer can be lively around cultural events while offering an inland contrast to the beaches. Wear shoes suited to uneven paving and give yourself enough time to notice the small things: an old doorway, a carved balcony, a stone wall softened by flowers, or a story preserved in the museum.",
+      "history_culture": "Theologos played a leading administrative and commercial role on Thassos during Ottoman rule. The municipality’s historical overview connects the local notable Hatzigiorgis with the 1821 uprising on the island. His historic mansion now serves as a folklore museum, preserving objects associated with traditional household life, trades and weaving. Agia Paraskevi and Agios Dimitrios churches are known for elaborate wood-carved iconostases; local heritage sources date the latter church to 1803. The annual revival of the Thassian Wedding keeps folk dress, wedding customs, music and dance alive through the work of the local cultural association.",
+      "local_character": "An inhabited village rather than a polished resort: narrow lanes, rugged stonework, domestic courtyards, small cafés and traditional tavernas shape the experience. There are atmospheric quiet days and busier moments when cultural events bring visitors into the historic centre.",
+      "what_to_do": "Wander the old village streets, photograph architecture from public paths, visit the Hatzigiorgis Folklore Museum when open, explore the outside of Agia Paraskevi and Agios Dimitrios churches and enjoy a regional meal. Ask locally before attempting the stone bridges, old watermills or Kefalogourna waterfall, since a verified visitor route has not been recorded. Check the cultural association’s current programme if you wish to experience the traditional wedding festivities.",
+      "practical_tips": "The village lies roughly 10 km by road from Potos. Published regional bus routes have connected it with Potos, Limenaria and Limenas, but schedules, fares and the exact stops can change. Expect sloping streets, rough stone paving and some steps; a fully accessible route has not been verified. Parking and a safe vehicle arrival point require confirmation, and the mapped village centre must not be used as an assumed car entrance. Check museum and taverna opening hours, carry water in hot weather and respect private homes.",
+      "highlights": [
+        "Traditional stone architecture and village lanes",
+        "Hatzigiorgis Folklore Museum",
+        "Agia Paraskevi and Agios Dimitrios churches",
+        "Local tavernas and roast goat",
+        "Traditional Thassian Wedding festivities"
+      ],
+      "seo_title": "Theologos, Thassos – Traditional Village, Museum & Local Food",
+      "seo_description": "Explore Theologos in Thassos: stone houses, Hatzigiorgis Folklore Museum, historic churches, roast goat, village traditions and useful visitor tips.",
+      "social_caption": "Beyond the beaches of Thassos lies Theologos: stone streets, historic homes, island traditions and flavours worth discovering. 🏡🌿",
+      "photo_alt": "Traditional stone-built village street in Theologos on the Greek island of Thassos."
+    },
+    "el": {
+      "name": "Θεολόγος",
+      "tagline": "Πέτρινα σοκάκια, ζωντανές παραδόσεις και η ιστορική ψυχή της Θάσου",
+      "summary": "Ο Θεολόγος είναι ένα ιστορικό ορεινό χωριό της Θάσου, γνωστό για τα παραδοσιακά πέτρινα σπίτια, το Λαογραφικό Μουσείο στο αρχοντικό Χατζηγιώργη, τις παλιές εκκλησίες και τις ταβέρνες του. Υπήρξε διοικητικό και εμπορικό κέντρο του νησιού και προσφέρεται για μια πολιτιστική εκδρομή από τον Ποτό.",
+      "description": "Μακριά από τους πολυσύχναστους παραθαλάσσιους οικισμούς, ο Θεολόγος αποκαλύπτει μια διαφορετική πλευρά της Θάσου: λιθόστρωτα σοκάκια, παλιά σπίτια με ξύλινες λεπτομέρειες, αυλές με σκιά και έναν ήρεμο ρυθμό ζωής. Βρίσκεται στο νότιο εσωτερικό του νησιού, περίπου δέκα χιλιόμετρα οδικώς από τον Ποτό. Δεν είναι παραθαλάσσιο θέρετρο και δεν διαθέτει δική του παραλία. Η ιδιαίτερη γοητεία του βρίσκεται στην αρχιτεκτονική, στην ιστορία και στη ζωντανή σχέση του με τις τοπικές παραδόσεις.\n\nΚατά την οθωμανική περίοδο ο Θεολόγος αποτέλεσε σημαντικό διοικητικό και εμπορικό κέντρο της Θάσου. Η ιστορική του φυσιογνωμία διατηρείται στον κεντρικό λιθόστρωτο δρόμο και στα στενά που οδηγούν ανάμεσα σε πέτρινα σπίτια μακεδονικής αρχιτεκτονικής, με ξύλινα παράθυρα, παραδοσιακές στέγες και χαρακτηριστικούς ορόφους. Πολλά κτίρια παραμένουν ιδιωτικές κατοικίες· αξίζει να τα θαυμάζει κανείς με σεβασμό προς τους κατοίκους. Στο αρχοντικό Χατζηγιώργη λειτουργεί το Λαογραφικό Μουσείο, όπου εργαλεία παλιών επαγγελμάτων, αντικείμενα καθημερινής ζωής, υφαντά και χώροι διαμορφωμένοι σαν παραδοσιακό σπίτι αφηγούνται την ιστορία του τόπου. Η δυνατότητα επίσκεψης εξαρτάται από το ισχύον ωράριο.\n\nΣημαντικά μνημεία είναι οι εκκλησίες της Αγίας Παρασκευής και του Αγίου Δημητρίου, με ιδιαίτερα ξυλόγλυπτα τέμπλα. Στη γύρω περιοχή αναφέρονται παλιά πέτρινα γεφύρια, νερόμυλοι, ασβεστοκάμινα και ο καταρράκτης της Κεφαλόγουρνας. Πρόκειται για ξεχωριστά σημεία, των οποίων η πρόσβαση και οι διαδρομές χρειάζονται επιτόπια επιβεβαίωση πριν από την επίσκεψη. Για πολλούς ταξιδιώτες, μια χαλαρή βόλτα στο χωριό και ένα γεύμα σε παραδοσιακή ταβέρνα είναι ο καλύτερος τρόπος γνωριμίας με τον Θεολόγο. Το ψητό κατσίκι είναι από τις πιο γνωστές τοπικές γεύσεις, ενώ ανάλογα με την εποχή και το κατάστημα μπορεί κανείς να βρει αρνί, θυμαρίσιο μέλι, γλυκίσματα και άλλα προϊόντα της Θάσου.\n\nΟ Θεολόγος συνδέεται ιδιαίτερα με την αναπαράσταση του θασίτικου γάμου, μια πολιτιστική γιορτή με παραδοσιακές φορεσιές, τραγούδια, χορό και πομπή στα σοκάκια. Πραγματοποιείται συνήθως τον Αύγουστο, αλλά η ακριβής ημερομηνία ανακοινώνεται από τους διοργανωτές κάθε χρονιά. Η άνοιξη και οι αρχές του φθινοπώρου είναι ιδανικές για περίπατο, ενώ το καλοκαίρι προσφέρει μια ενδιαφέρουσα εναλλακτική στην παραλία. Επιλέξτε άνετα παπούτσια για τις πέτρινες και ανηφορικές επιφάνειες και αφιερώστε χρόνο στις μικρές λεπτομέρειες που δίνουν στον οικισμό τον ξεχωριστό του χαρακτήρα.",
+      "history_culture": "Ο Θεολόγος διαδραμάτισε κεντρικό διοικητικό και εμπορικό ρόλο στη Θάσο κατά την οθωμανική περίοδο. Η ιστορική αναδρομή του Δήμου συνδέει τον τοπικό προεστό Χατζηγιώργη με την εξέγερση του 1821. Το αρχοντικό Χατζηγιώργη στεγάζει σήμερα το Λαογραφικό Μουσείο, με εργαλεία, υφαντά και αναπαραστάσεις χώρων ενός θασίτικου σπιτιού. Οι εκκλησίες της Αγίας Παρασκευής και του Αγίου Δημητρίου διακρίνονται για τα ξυλόγλυπτα τέμπλα τους· για τον Άγιο Δημήτριο τοπικές πηγές αναφέρουν έτος ανέγερσης το 1803. Η αναπαράσταση του θασίτικου γάμου διατηρεί έθιμα, μουσική, χορούς και παραδοσιακές φορεσιές.",
+      "local_character": "Ο Θεολόγος είναι ένας ζωντανός ορεινός οικισμός και όχι ένα σκηνικό αποκλειστικά για επισκέπτες. Οι πέτρινοι τοίχοι, τα ξύλινα στοιχεία, οι αυλές, οι μικρές καφετέριες και οι ταβέρνες συνθέτουν μια αυθεντική ατμόσφαιρα. Τις ημέρες πολιτιστικών εκδηλώσεων το χωριό γίνεται πιο ζωντανό.",
+      "what_to_do": "Περιηγηθείτε στον κεντρικό δρόμο και στα παραδοσιακά σοκάκια, επισκεφθείτε το Λαογραφικό Μουσείο εφόσον λειτουργεί, θαυμάστε τις εκκλησίες της Αγίας Παρασκευής και του Αγίου Δημητρίου και δοκιμάστε τοπικές συνταγές. Για τα γεφύρια, τους νερόμυλους και την Κεφαλόγουρνα ζητήστε πρώτα αξιόπιστες οδηγίες πρόσβασης. Για τον θασίτικο γάμο συμβουλευτείτε το επίσημο πρόγραμμα του πολιτιστικού συλλόγου.",
+      "practical_tips": "Ο Θεολόγος βρίσκεται περίπου 10 χλμ. οδικώς από τον Ποτό. Έχουν δημοσιευθεί δρομολόγια λεωφορείων από Ποτό, Λιμενάρια και Λιμένα, αλλά οι ώρες, οι στάσεις και οι τιμές πρέπει να επιβεβαιώνονται. Στα σοκάκια υπάρχουν κλίσεις, ανώμαλο λιθόστρωτο και σκαλοπάτια, χωρίς πιστοποιημένη διαδρομή πλήρους προσβασιμότητας. Δεν έχει επιβεβαιωθεί συγκεκριμένος χώρος δημόσιας στάθμευσης. Ελέγχετε το ωράριο του μουσείου και των καταστημάτων, ειδικά εκτός υψηλής περιόδου.",
+      "highlights": [
+        "Παραδοσιακή μακεδονική πέτρινη αρχιτεκτονική",
+        "Λαογραφικό Μουσείο στο αρχοντικό Χατζηγιώργη",
+        "Εκκλησίες Αγίας Παρασκευής και Αγίου Δημητρίου",
+        "Τοπικές ταβέρνες και ψητό κατσίκι",
+        "Αναπαράσταση παραδοσιακού θασίτικου γάμου"
+      ],
+      "seo_title": "Θεολόγος Θάσου – Παραδοσιακό χωριό, μουσείο και γεύσεις",
+      "seo_description": "Γνωρίστε τον Θεολόγο της Θάσου: πέτρινα σπίτια, Λαογραφικό Μουσείο Χατζηγιώργη, ιστορικές εκκλησίες, τοπικές γεύσεις και χρήσιμες συμβουλές.",
+      "social_caption": "Πέρα από τις παραλίες της Θάσου, ο Θεολόγος σας περιμένει με πέτρινα σοκάκια, παράδοση και αυθεντικές γεύσεις. 🏡🌿",
+      "photo_alt": "Παραδοσιακό πέτρινο σοκάκι στον Θεολόγο της Θάσου με ιστορικά σπίτια."
+    },
+    "de": {
+      "name": "Theologos",
+      "tagline": "Steingassen, lebendige Traditionen und das historische Thassos",
+      "summary": "Theologos ist ein historisches Dorf im Inselinneren von Thassos. Bekannt ist es für traditionelle Steinhäuser, das Volkskundemuseum im Hatzigiorgis-Herrenhaus, alte Kirchen und gemütliche Tavernen. Als einstiges Verwaltungs- und Handelszentrum ist es ein schönes Ausflugsziel ab Potos.",
+      "description": "Abseits der lebhaften Strände zeigt Theologos eine ganz andere Seite von Thassos: gepflasterte Gassen, alte Steinhäuser mit Holzelementen, schattige Höfe und ein gemächliches Dorfleben. Der Ort liegt im südlichen Inselinneren, rund zehn Kilometer auf der Straße von Potos entfernt. Theologos ist kein Badeort und besitzt keinen eigenen Strand. Sein besonderer Reiz liegt in der historischen Bausubstanz, der lokalen Küche und den bis heute gepflegten Traditionen.\n\nWährend der osmanischen Zeit war Theologos ein wichtiges Verwaltungs- und Handelszentrum der Insel. Die Geschichte begegnet einem noch immer auf der gepflasterten Hauptstraße und in den ruhigeren Seitengassen, zwischen Häusern im traditionellen mazedonischen Stil, steinernen Mauern, hölzernen Fensterläden und auskragenden Obergeschossen. Viele dieser Gebäude werden weiterhin privat bewohnt; beim Fotografieren sollten die Privatsphäre und die Zugänge respektiert werden. Im Hatzigiorgis-Herrenhaus befindet sich heute das Volkskundemuseum von Theologos. Alte Handwerksgeräte, Alltagsgegenstände, Textilien und eingerichtete Wohnräume vermitteln ein anschauliches Bild des früheren Lebens. Ob ein Besuch möglich ist, richtet sich nach den aktuellen Öffnungszeiten.\n\nDie Kirchen Agia Paraskevi und Agios Dimitrios gehören zu den wichtigsten religiösen Bauwerken des Dorfes. Sie sind besonders für ihre kunstvoll geschnitzten hölzernen Ikonostasen bekannt. Außerhalb des Orts werden historische Steinbrücken, Wassermühlen, alte Kalköfen und der Wasserfall Kefalogourna erwähnt. Diese Ziele sollten jedoch nicht ohne Weiteres als bequem erreichbare Stationen einer Wanderung verstanden werden: genaue Lage, Wegzustand und öffentlicher Zugang müssen einzeln geprüft werden. Oft genügt schon ein gemütlicher Rundgang durch den Ortskern, gefolgt von einer Einkehr in einer traditionellen Taverne. Besonders bekannt ist Theologos für gebratenes Ziegenfleisch; je nach Angebot gibt es auch Lamm, Honig, Gebäck und andere Erzeugnisse der Insel.\n\nEine weitere Besonderheit ist die Wiederaufführung der traditionellen thassischen Hochzeit. Trachten, Gesang, Tänze und ein festlicher Zug durch die Gassen lassen altes Brauchtum lebendig werden. Die Veranstaltung findet gewöhnlich im August statt, doch Termin und Ablauf müssen jedes Jahr beim Kulturverein geprüft werden. Im Frühling und frühen Herbst herrschen meist angenehme Bedingungen für einen Spaziergang. Im Sommer bietet das Dorf eine kulturreiche Abwechslung zum Strandurlaub. Festes Schuhwerk ist auf unebenen Steinen hilfreich, und wer sich Zeit nimmt, entdeckt viele kleine Details: alte Tore, Holzbalkone, blühende Innenhöfe und Geschichten hinter den Fassaden.",
+      "history_culture": "Während der osmanischen Herrschaft war Theologos ein bedeutendes Verwaltungs- und Handelszentrum von Thassos. Die offizielle Geschichtsdarstellung der Gemeinde bringt den lokalen Würdenträger Hatzigiorgis mit dem Aufstand von 1821 in Verbindung. Sein Herrenhaus beherbergt heute ein Volkskundemuseum mit Handwerksgeräten, Textilien und traditionellen Wohnräumen. Die Kirchen Agia Paraskevi und Agios Dimitrios besitzen kunstvoll geschnitzte Ikonostasen; lokale Quellen datieren die Errichtung von Agios Dimitrios auf 1803. Der jedes Jahr neu angekündigte Brauch der thassischen Hochzeit bewahrt alte Lieder, Tänze, Trachten und Hochzeitsrituale.",
+      "local_character": "Ein tatsächlich bewohntes Dorf statt einer auf Touristen zugeschnittenen Kulisse: schmale Steingassen, verwitterte Mauern, Innenhöfe, kleine Cafés und Tavernen schaffen eine besondere Atmosphäre. An Tagen mit Kulturveranstaltungen kann der sonst ruhige Ort sehr belebt sein.",
+      "what_to_do": "Entdecken Sie die alten Dorfstraßen und die traditionelle Architektur, besuchen Sie bei geöffnetem Museum das Hatzigiorgis-Herrenhaus, sehen Sie sich die Kirchen Agia Paraskevi und Agios Dimitrios an und probieren Sie Spezialitäten in einer Taverne. Für Steinbrücken, Wassermühlen und den Wasserfall Kefalogourna sollten erst aktuelle Wegbeschreibungen und Zugangsmöglichkeiten bestätigt werden. Für die thassische Hochzeit ist das Programm des Kulturvereins maßgeblich.",
+      "practical_tips": "Theologos liegt auf der Straße ungefähr zehn Kilometer von Potos entfernt. Es gibt veröffentlichte regionale Busverbindungen unter anderem von Potos, Limenaria und Limenas, doch Fahrpläne und Haltestellen können sich ändern. Im Dorf erwarten Sie Steigungen, unebene Pflastersteine und Treppen; ein durchgehend barrierefreier Rundweg ist nicht nachgewiesen. Ein verifizierter öffentlicher Parkplatz sowie ein geeigneter Navigations-Ankunftspunkt fehlen noch. Öffnungszeiten von Museum und Tavernen bitte für das Reisedatum prüfen.",
+      "highlights": [
+        "Traditionelle Steinhäuser und historische Gassen",
+        "Volkskundemuseum im Hatzigiorgis-Herrenhaus",
+        "Kirchen Agia Paraskevi und Agios Dimitrios",
+        "Regionale Tavernen und gebratene Ziege",
+        "Fest der traditionellen thassischen Hochzeit"
+      ],
+      "seo_title": "Theologos auf Thassos – Historisches Dorf & Volkskundemuseum",
+      "seo_description": "Theologos auf Thassos entdecken: Steinhäuser, Hatzigiorgis-Museum, historische Kirchen, regionale Küche und hilfreiche Tipps für Ihren Ausflug.",
+      "social_caption": "Abseits der Strände wartet Theologos mit alten Steingassen, Traditionen und köstlicher Inselküche auf. 🏡🌿",
+      "photo_alt": "Historische Steingasse mit traditionellen Wohnhäusern in Theologos auf Thassos."
+    },
+    "bg": {
+      "name": "Теологос",
+      "tagline": "Каменни улички, живи традиции и историческото лице на Тасос",
+      "summary": "Теологос е историческо село във вътрешността на Тасос, известно с каменните си къщи, Фолклорния музей в имението на Хадзигьоргис, старите църкви и традиционните таверни. Някога административен и търговски център, днес то е чудесна културна разходка от Потос.",
+      "description": "Далеч от оживените плажове Теологос разкрива друга страна на остров Тасос: калдъръмени улички, стари каменни къщи с дървени детайли, сенчести дворове и спокоен ритъм на живот. Селото се намира във вътрешността на южната част на острова, на приблизително десет километра по пътя от Потос. То не е морски курорт и няма собствен плаж. Неговото очарование е в архитектурата, историята, местната кухня и традициите, които продължават да бъдат част от ежедневието.\n\nПрез османския период Теологос е бил важен административен и търговски център на Тасос. Миналото му личи по главната павирана улица и тесните странични алеи между традиционните къщи с македонска архитектура, каменни стени, дървени капаци и характерни горни етажи. Част от сградите са частни домове, затова снимайте от обществени места и уважавайте спокойствието на жителите. Една от най-интересните спирки е имението на Хадзигьоргис, където се помещава Фолклорният музей. Стари инструменти, битови предмети, тъкани и помещения, подредени като къща от миналото, разказват за живота на предишните поколения. Работното време и възможността за посещение трябва да се проверяват за конкретната дата.\n\nЦърквите „Света Параскева“ и „Свети Димитър“ са важна част от религиозното наследство на селото и са известни с красивите си резбовани дървени иконостаси. В околностите се споменават стари каменни мостове, воденици, варници и водопадът Кефалогурна. Това са отделни обекти и не бива да се приемат за лесно достъпни без предварителна проверка на маршрута и условията. Приятното посещение може да включва само бавна разходка из селото и обяд в местна таверна. Особено известно ястие е печеното козе месо; според сезона и конкретния ресторант може да се предлагат агнешко, мед, домашни сладкиши и други продукти от Тасос.\n\nТеологос е свързан и с възстановката на традиционната тасоска сватба — културен празник с носии, музика, танци и шествие из селските улици. Обикновено се организира през август, но точната дата трябва да се потвърждава всяка година от културното дружество. Пролетта и ранната есен са приятни за разходка, а лятото предлага културна почивка от морските курорти. Изберете удобни обувки за неравните камъни и си оставете време да забележите малките детайли: стара порта, дървен балкон, двор с цветя или история, запазена в музея.",
+      "history_culture": "През османското владичество Теологос е бил административен и търговски център на Тасос. В историческия преглед на общината местният първенец Хадзигьоргис е свързан с въстанието от 1821 г. Неговото имение днес е Фолклорен музей, представящ традиционни занаяти, бит, тъкане и предмети от ежедневието. Църквите „Света Параскева“ и „Свети Димитър“ са известни с дърворезбованите си иконостаси; местни източници посочват 1803 г. за изграждането на „Свети Димитър“. Възстановката на тасоската сватба съхранява песни, танци, носии и обичаи.",
+      "local_character": "Теологос е живо село, а не туристически декор. Каменните къщи, тесните улички, дворовете, малките кафенета и традиционните таверни създават спокойна атмосфера. По време на културните събития улиците стават значително по-оживени.",
+      "what_to_do": "Разходете се из историческите улици, разгледайте архитектурата, посетете Фолклорния музей в имението на Хадзигьоргис, когато е отворен, и се отбийте до църквите „Света Параскева“ и „Свети Димитър“. Опитайте местна кухня в таверна. За старите мостове, водениците и водопада Кефалогурна първо потърсете проверени указания за достъп. Ако искате да видите традиционната сватба, следете официалната програма на организаторите.",
+      "practical_tips": "Селото е на около 10 км по шосе от Потос. Публикувани са автобусни връзки с Потос, Лименария и Лименас, но разписанията, цените и спирките трябва да се проверят непосредствено преди пътуването. Уличките са наклонени и на места с неравен каменен паваж и стъпала. Няма потвърден непрекъснат достъпен маршрут или проверена точка за обществен паркинг. Не използвайте GPS координатите на центъра като гарантиран вход с автомобил.",
+      "highlights": [
+        "Традиционни каменни къщи и исторически улички",
+        "Фолклорният музей в имението на Хадзигьоргис",
+        "Църквите „Света Параскева“ и „Свети Димитър“",
+        "Местни таверни и печено козе месо",
+        "Възстановка на традиционната тасоска сватба"
+      ],
+      "seo_title": "Теологос, Тасос – Традиционно село, музей и местна кухня",
+      "seo_description": "Открийте Теологос на Тасос: каменни къщи, Фолклорния музей, стари църкви, местни специалитети и полезни съвети за посещение.",
+      "social_caption": "Отвъд плажовете на Тасос ви очаква Теологос — каменни улички, живи традиции и истински местни вкусове. 🏡🌿",
+      "photo_alt": "Традиционна каменна улица с исторически къщи в Теологос на остров Тасос."
+    },
+    "sr": {
+      "name": "Teologos",
+      "tagline": "Kamene uličice, živa tradicija i istorijska duša Tasosa",
+      "summary": "Teologos je istorijsko selo u unutrašnjosti Tasosa, poznato po kamenim kućama, Folklornom muzeju u kući Hadziorgisa, starim crkvama i tradicionalnim tavernama. Nekada administrativni i trgovački centar ostrva, danas je odličan kulturni izlet iz Potosa.",
+      "description": "Daleko od prometnih plaža, Teologos otkriva drugačiju stranu Tasosa: kamenom popločane uličice, stare kuće sa drvenim detaljima, hladovita dvorišta i ritam života koji poziva na lagano istraživanje. Selo se nalazi u južnoj unutrašnjosti ostrva, oko deset kilometara vožnje od Potosa. Nije primorsko letovalište i nema sopstvenu plažu. Njegova posebnost leži u arhitekturi, istoriji, lokalnoj hrani i tradicijama koje se još neguju.\n\nTokom osmanskog perioda, Teologos je bio važno administrativno i trgovačko središte Tasosa. Tragovi prošlosti vide se duž glavne popločane ulice i u mirnijim sokacima između kamenih kuća makedonskog stila, sa drvenim kapcima, starinskim krovovima i isturenim spratovima. Deo tih objekata i danas su privatni domovi, pa prilikom fotografisanja treba poštovati privatnost meštana. Posebno je zanimljiva kuća Hadziorgisa, u kojoj se nalazi Folklorni muzej. Stari alati, predmeti za svakodnevnu upotrebu, tkanine i nameštene prostorije tradicionalnog doma približavaju život prethodnih generacija. Radno vreme muzeja treba proveriti za dan posete.\n\nCrkve Svete Paraskeve i Svetog Dimitrija važan su deo verskog nasleđa sela, a poznate su po bogato rezbarenim drvenim ikonostasima. U okolini se pominju stari kameni mostovi, vodenice, nekadašnje krečane i vodopad Kefalogurna. To su zasebna mesta i ne treba pretpostaviti da se do svih može lako doći: tačne lokacije, stanje staza i dozvoljen pristup potrebno je proveriti. Za lep doživljaj često su dovoljni lagana šetnja istorijskim centrom i obrok u tradicionalnoj taverni. Pečena kozletina je posebno poznat lokalni specijalitet, a u zavisnosti od restorana i sezone mogu se naći i jagnjetina, med, domaći kolači i drugi proizvodi sa Tasosa.\n\nTeologos je poznat i po oživljavanju tradicionalne tasoske svadbe, kulturnoj svečanosti sa narodnim nošnjama, pesmom, igrom i povorkom kroz selo. Manifestacija se obično održava u avgustu, ali se tačan datum i program moraju potvrditi za svaku godinu. Proleće i rana jesen prijatni su za šetnju, dok leto nudi kulturni predah od obalskih letovališta. Obujte udobnu obuću zbog neravnog kamena i ostavite dovoljno vremena da primetite sitne detalje: stara vrata, drveni balkon, cvetno dvorište ili priču sačuvanu u muzeju.",
+      "history_culture": "Teologos je tokom osmanske vladavine imao važnu administrativnu i trgovačku ulogu na Tasosu. Prema istorijskom pregledu opštine, lokalni prvak Hadziorgis povezan je sa ustankom iz 1821. godine. Njegova stara kuća danas je Folklorni muzej sa prikazom zanata, svakodnevnog života, tkanja i tradicionalnog domaćinstva. Crkve Svete Paraskeve i Svetog Dimitrija čuvaju bogato izrezbarene ikonostase, a lokalni izvori navode da je crkva Svetog Dimitrija podignuta 1803. godine. Obnova običaja tasoske svadbe čuva tradicionalne nošnje, pesme, igre i obrede.",
+      "local_character": "Teologos je pravo naseljeno selo, a ne samo turistička kulisa. Kameni zidovi, uske ulice, dvorišta, mali kafići i tradicionalne taverne stvaraju mirnu i autentičnu atmosferu. U vreme kulturnih manifestacija selo može postati veoma živahno.",
+      "what_to_do": "Prošetajte starim ulicama, fotografišite tradicionalne kuće sa javnih staza, posetite Folklorni muzej u kući Hadziorgisa kada je otvoren, pogledajte crkve Svete Paraskeve i Svetog Dimitrija i probajte lokalne specijalitete. Za kamene mostove, vodenice i vodopad Kefalogurna prvo proverite trenutni pristup. Ako želite da prisustvujete tasoskoj svadbi, pratite zvanični program lokalnog kulturnog udruženja.",
+      "practical_tips": "Selo je približno deset kilometara vožnje od Potosa. Objavljene su regionalne autobuske veze sa Potosom, Limenarijom i Limenasom, ali red vožnje, stajališta i cene treba proveriti pred put. Ulice su ponegde strme, popločane neravnim kamenom i imaju stepenice; ne postoji potvrđena potpuno pristupačna ruta. Tačna lokacija javnog parkinga i pouzdana tačka dolaska automobilom nisu proverene. Radno vreme muzeja i taverni može biti sezonsko.",
+      "highlights": [
+        "Tradicionalne kamene kuće i uske ulice",
+        "Folklorni muzej u kući Hadziorgisa",
+        "Crkve Svete Paraskeve i Svetog Dimitrija",
+        "Tradicionalne taverne i pečena kozletina",
+        "Običaji i proslava tradicionalne tasoske svadbe"
+      ],
+      "seo_title": "Teologos, Tasos – Tradicionalno selo, muzej i lokalna hrana",
+      "seo_description": "Upoznajte Teologos na Tasosu: kamene kuće, Folklorni muzej, stare crkve, tradicionalna jela i praktične savete za posetu.",
+      "social_caption": "Iza plaža Tasosa čeka vas Teologos: kamene uličice, autentična tradicija i ukusi pravog ostrvskog života. 🏡🌿",
+      "photo_alt": "Tradicionalna kamena ulica sa starim kućama u selu Teologos na Tasosu."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/theologos/images/theologos1.webp",
+    "gallery": [
+      "destinations/thassos/areas/theologos/images/theologos2.webp",
+      "destinations/thassos/areas/theologos/images/theologos3.webp",
+      "destinations/thassos/areas/theologos/images/theologos4.webp",
+      "destinations/thassos/areas/theologos/images/theologos5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/theologos/images/",
+    "suggested_asset_names": [
+      "theologos1.webp",
+      "theologos2.webp",
+      "theologos3.webp",
+      "theologos4.webp",
+      "theologos5.webp"
+    ],
+    "image_policy": "Five distinct, properly licensed landscape WebP photographs to be supplied later: (1) recognisable Theologos village overview, (2) genuine traditional village lane and architecture, (3) authentic Hatzigiorgis mansion or Folklore Museum exterior with permission, (4) Agia Paraskevi/Agios Dimitrios or verified stone bridge with permission, (5) local landscape or real tavern/heritage experience. Do not use Potos seaside photos as Theologos. Verify exact depicted place, photographer consent, commercial rights, attribution and any necessary property/person permissions. Filenames are configured only; no images are included.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "osm_theologos",
+      "kind": "osm_mapped_settlement",
+      "title": "Mapcarta / OSM — Theologos, Thassos",
+      "url": "https://mapcarta.com/13813852",
+      "detail": "OSM place=village node 280965938; lat 40.65945, lng 24.69200; village reference point, not parking, town sign or road access.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "regional_tourism",
+      "kind": "official_regional_tourism",
+      "title": "Eastern Macedonia & Thrace regional tourism — Theologos",
+      "url": "https://emtgreece.com/index.php/en/proorismos/theologos",
+      "detail": "Heritage, 220 m village, Ottoman-era centre, folklore museum, churches, bridge, waterfall, gastronomy, traditional wedding.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "discover_villages",
+      "kind": "official_national_tourism",
+      "title": "Discover Greece — Mountain village-hopping in Thassos",
+      "url": "https://www.discovergreece.com/experiences/thassos-mountain-villages",
+      "detail": "Traditional architecture, Ottoman history, local churches, food and seasonal visiting guidance.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "discover_museums",
+      "kind": "official_national_tourism",
+      "title": "Discover Greece — Museums and cultural sights in Thassos",
+      "url": "https://www.discovergreece.com/el/node/10063",
+      "detail": "Hatzigiorgis Mansion folklore museum and traditional household exhibits.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "municipal_history",
+      "kind": "municipal_primary_history",
+      "title": "Municipality of Thassos — Historical overview",
+      "url": "https://www.thassos.gr/en/dimos/thasos-syntomi-istoriki-anaskopisi/",
+      "detail": "1821 uprising and Hatzigiorgis history. Avoid conflating modern municipal administration and historical village.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "go_thassos_village",
+      "kind": "local_destination_guide",
+      "title": "Go Thassos — Theologos",
+      "url": "https://www.go-thassos.gr/about-thassos/places/theologos",
+      "detail": "Architectural heritage, churches, 1803 Saint Dimitrios, mills, waterfalls, local wedding and roast lamb.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "go_thassos_museum",
+      "kind": "local_destination_guide",
+      "title": "Go Thassos — Museums: Theologos Folklore Museum",
+      "url": "https://www.go-thassos.gr/about-thassos/museums",
+      "detail": "Traditional Hatzigiorgis mansion; tools, house rooms and textiles in the museum.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "cultural_association",
+      "kind": "local_primary_cultural_org",
+      "title": "Theologos Cultural Association — Official Museum & Dance Club",
+      "url": "https://theologos-culturalclub.com/en/",
+      "detail": "Local association, heritage museum, announcements; museum fees and opening hours require fresh check.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "wedding_2026",
+      "kind": "local_primary_event_record",
+      "title": "Theologos Cultural Association — 50 years of Thassian Wedding (2026)",
+      "url": "https://theologos-culturalclub.com/en/50-years-of-the-thassian-wedding-2026/",
+      "detail": "Documents wedding celebration on 12 August 2026; NOT a 2027 date, which requires a new announcement.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "wedding_event",
+      "kind": "local_primary_event_record",
+      "title": "The Thasos Wedding — 50 Years of Living Tradition in Theologos",
+      "url": "https://theologos-culturalclub.com/en/event/50th-anniversary-of-the-thassian-wedding-august-12/",
+      "detail": "Organisation, costume, songs, procession and festival in 2026; year-specific event.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "road_distance",
+      "kind": "local_accommodation_site",
+      "title": "Oikos Daretsou — Access & Location",
+      "url": "https://oikosdaretsou.gr/access-location/",
+      "detail": "Road-distance context roughly 10 km from Potos and local sightseeing mentions; not a surveyed GIS road route.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "ktel_2026",
+      "kind": "regional_bus_reference",
+      "title": "Go Thassos — Bus schedules, October 2026",
+      "url": "https://www.go-thassos.gr/thassos-bus-schedules-prices",
+      "detail": "2026 seasonal timetables show Theologos links from Potos/Limenaria/Limenas. Never freeze departure times in area JSON.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "traditional_status",
+      "kind": "local_heritage_guide",
+      "title": "All Over Greece — Theologos Thassos",
+      "url": "https://www.allovergreece.com/Village/Descr/44/629/en",
+      "detail": "Traditional settlement and published Greek government gazette reference; verify legal designation independently before making regulatory claim.",
+      "checked_on": "2026-10-28"
+    }
+  ],
+  "editorial": {
+    "status": "researched_six_languages_complete_pending_photo_rights_and_local_navigation_checks",
+    "facts_checked_on": "2026-10-28",
+    "translations_written_on": "2026-10-28",
+    "coverage": "full_historic_inland_village_profile_6_languages_13_research_sources_5_WebP_path_slots_no_generated_POI_IDs",
+    "requires_manual_review": [
+      "Confirm OSM place=village node 280965938 at 40.65945,24.692 as Theologos geographical reference and do not confuse with a Theologos sign node elsewhere.",
+      "Verify a legal public parking location and safe automobile arrival point before routing, and keep arrival_point coordinates null until confirmed.",
+      "Validate village accessibility on foot, slopes, museum and church opening hours, accessible entry and wheelchair/pushchair routes.",
+      "Verify 2027 date and itinerary for the traditional Thassian Wedding only against local cultural association announcements; 12 Aug 2026 is historical and not a perpetual date.",
+      "Recheck museum admissions and daily opening period before public UI displays those changing details; do not store 2026 prices/times permanently.",
+      "Confirm region-specific bus service and stop locations for the travel date, including non-summer operations, through the operator; no static schedule in area record.",
+      "Check whether the Hatzigiorgis mansion is open and whether church interiors are accessible before offering them as guaranteed visits.",
+      "Do not generate navigation links to Kefalogourna, watermills, lime kilns and stone bridges until precise separate POI points, access rights and condition checks are available.",
+      "Make sure Potos and Psili Ammos are beaches in separate coastal area records, never label them as Theologos beaches.",
+      "Avoid promising pharmacy, ATM, supermarket, medical service, parking or fuel station; check each business and GPS individually.",
+      "Add exactly five authentic landscape WebP files, theologos1.webp–theologos5.webp, at preset paths; verify provenance, geo identity, commercial rights and any mandatory credit.",
+      "Have native proofreaders review Greek, Bulgarian and Serbian Latin place names, food wording, religion and SEO language before setting publish_ready true."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "The five WebP paths are placeholders only: no photographic files, permissions or attribution records have been supplied or verified."
+  }
+}

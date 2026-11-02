@@ -1,0 +1,337 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-gorgona",
+  "slug": "gorgona",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": null,
+    "international_name": "Gorgona Beach",
+    "aliases": [
+      "Gorgona beach",
+      "Gorgona",
+      "Γοργόνα (descriptive transliteration; official Greek name unverified)"
+    ],
+    "entity_scope": "Small natural pebble cove near Alyki peninsula in southeastern Thassos; geographic POI Gorgona beach at about 40.6068,24.7451. Excludes adjacent main Alyki bathing beach and any other Alyki bay.",
+    "deduplication_warning": "Do not merge automatically with Alyki / Ruin’s Beach: Pame Paralia maps Gorgona separately about 271 m from its Alyki point. Verify exact polygons before showing multiple beaches on a small-scale map. Do not confuse with Gorgona Rooms at Alyki, Sikoudis Gorgona Beach restaurant/lodging at Skala Rachoni, or Gorgona Divers at Skala Potamia."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southeast / Alyki peninsula vicinity",
+    "settlements": [
+      "Alyki (Aliki)"
+    ],
+    "lat": 40.6068,
+    "lng": 24.7451,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.6068%2C24.7451",
+    "coordinate_source_reference": "s_pame_paralia",
+    "coordinate_type": "approximate_four_decimal_gorgona_beach_reference_not_parking_or_trailhead",
+    "coordinate_review_status": "Pame Paralia publishes approximately 40.6068 N,24.7451 E, and Google Maps lists Gorgona beach as a tourist attraction (JP4W+M3). Coordinates are intentionally no more precise than independently published; the user screenshot corroborates the place name. Exact Google Maps beach polygon, legal footpath and access point not confirmed.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "pebbles_and_large_stones_reported",
+    "seabed_near_shore": "uneven_rocky_or_stony_sections",
+    "water_entry": "pebbly_and_stony_caution_required",
+    "nearshore_depth": "reported_to_deepen_relatively_quickly",
+    "water_clarity": "can_be_clear_when_sea_is_calm; variable",
+    "wave_conditions": "weather_and_wind_dependent",
+    "exposure": "small_rock_framed_southeastern_cove",
+    "natural_shade_on_sand": "not_applicable_as_sandy_shore_not_reported; actual_shade_unverified",
+    "beach_length_m": null,
+    "length_note": "No dependable measured shoreline length for Gorgona cove; Pame Paralia treats it as a separate named point, not a measured polygon.",
+    "backdrop": "rocky headlands and natural vegetation around a small cove",
+    "shoreline_type": "small_wild_pebble_cove"
+  },
+  "visitor_experience": {
+    "organization": "natural_unserviced_reported",
+    "suitable_for": [
+      "visitors_comfortable_with_steep_rocky_walks",
+      "quiet_coastal_exploration",
+      "experienced_swimmers_in_suitable_conditions",
+      "cautious_snorkeling_when_calm",
+      "nature_photography"
+    ],
+    "notable_for": [
+      "small_natural_cove",
+      "pebble_and_stone_shore",
+      "steep_path_access",
+      "near_alyki_but_distinct_from_main_beach",
+      "absence_of_documented_serviced_facilities"
+    ],
+    "activities_possible": [
+      "swimming_when_safe",
+      "cautious_snorkelling",
+      "relaxation_on_pebbles",
+      "coastal_photography"
+    ],
+    "estimated_crowd_peak": "generally_quiet_reported; no_independent_peak_count",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "A steep, rocky approach may be difficult or slippery. Pebbles, rocks, potential sea urchins and a relatively quick drop-off warrant care, stable footwear, water shoes and close supervision of children. Avoid entering when swell/waves make the rocks unsafe. No lifeguard presence has been verified."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": false,
+      "seasonal": null,
+      "note": "Pame Paralia describes no sunbeds at this natural cove; recheck if operators appear in future seasons."
+    },
+    "umbrellas": {
+      "available_in_some_sections": false,
+      "seasonal": null,
+      "note": "No organised umbrella service reported for this cove; bring own sun protection."
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "No public toilets independently confirmed at the cove."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "No public showers independently confirmed at the cove."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": false,
+    "tavernas_restaurants_nearby": null,
+    "cafes_nearby": null,
+    "parking_nearby": null,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No documented public lifeguard station for this small cove.",
+    "wheelchair_beach_access": false,
+    "wheelchair_access_note": "Steep rocky path reported; no independently verified step-free or adapted access.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Guide characterises Gorgona as unserviced with no sunbeds or canteen. Never copy amenities from nearby organised Alyki beach, hotel Gorgona Rooms or other Gorgona-named businesses. Details may change seasonally."
+  },
+  "access_and_cost": {
+    "road_access": "Reach Alyki area by island road, then a steep rocky walking path reported; precise trailhead not verified.",
+    "public_transport": "Alyki vicinity accessible through regional transport, but exact stop and final path to Gorgona not verified.",
+    "parking_type": null,
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "No organised sunbed service reported for Gorgona itself.",
+    "best_arrival_advice": "Check terrain and permitted route before attempting descent. Wear secure footwear for the path and water shoes in the sea. Bring water, food, sun protection and a thick mat for pebbles; do not rely on beach facilities or supervision. Avoid the approach in poor weather.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Do not convert the approximate 271 m separation from Alyki to a walking distance; actual footpath and road route are unverified."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Weather, UV, waves and live beach conditions are not hard-coded into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Gorgona Beach",
+      "tagline": "Un golfuleț sălbatic cu pietricele, ascuns lângă Alyki",
+      "summary": "Gorgona Beach este un golf mic și natural de pe coasta sud-estică a insulei Thassos, aproape de Alyki. Spre deosebire de plaja principală Alyki, are un țărm predominant pietros, apă care se adâncește relativ repede și o potecă de acces abruptă.",
+      "description": "În vecinătatea peninsulei Alyki, Gorgona Beach oferă o experiență diferită de plajele amenajate ale insulei. Este un golfuleț retras, mărginit de stânci, cu pietricele și pietre mai mari pe mal. Nu este o plajă cu nisip fin, șezlonguri și servicii turistice, ci un loc natural, potrivit pentru cei care preferă să exploreze țărmul în liniște. Apa poate fi limpede când marea este calmă, iar porțiunile stâncoase sunt interesante pentru snorkeling prudent. Totuși, fundul apei este neregulat, iar adâncimea crește mai repede decât pe plaja principală Alyki. Accesul este unul dintre aspectele de luat în serios: sursele locale descriu o potecă abruptă și pietroasă până la țărm, ceea ce face coborârea dificilă pentru persoanele fără încălțăminte adecvată. Pe plajă nu sunt documentate șezlonguri ori un punct de alimentație. Gorgona merită inclusă separat în ghid deoarece reprezintă un mic golf identificabil lângă Alyki, nu un beach bar sau o secțiune denumită după un resort. Planifică vizita ca pe o oprire într-un loc sălbatic și respectă condițiile reale ale terenului și mării.",
+      "practical_tips": "Folosește coordonatele ca reper pentru golf, nu ca punct de parcare sau intrare pe potecă. Nu presupune că traseul este ușor sau amenajat: coborârea este descrisă ca abruptă, cu pietre. Poartă încălțăminte stabilă pentru mers și papuci de apă pentru mal. Ia apă, hrană, protecție solară și un prosop gros ori un șezut potrivit pentru pietricele. Nu conta pe șezlonguri, toalete, dușuri sau salvamar. Intră prudent în apă, verifică adâncimea și supraveghează copiii; evită zona stâncoasă când sunt valuri.",
+      "highlights": [
+        "Golf natural mic în apropiere de Alyki",
+        "Mal cu pietricele și pietre, nu nisip fin",
+        "Zonă liniștită, fără amenajări cunoscute",
+        "Potecă de acces abruptă și stâncoasă",
+        "Apă care se adâncește relativ repede"
+      ],
+      "seo_title": "Gorgona Beach Thassos – golf sălbatic lângă Alyki",
+      "seo_description": "Descoperă Gorgona Beach, un golfuleț natural cu pietricele lângă Alyki, Thassos. Acces dificil pe potecă, sfaturi pentru înot și snorkeling.",
+      "social_caption": "🌊 Gorgona Beach, Thassos: un mic golf natural lângă Alyki, cu pietricele, stânci și o atmosferă retrasă. 🥾 Accesul este dificil — pregătește încălțăminte potrivită și verifică marea. #Thassos #GorgonaBeach #Alyki",
+      "photo_alt": "Golful natural Gorgona Beach de lângă Alyki, Thassos, cu mal de pietricele și stânci la marginile apei."
+    },
+    "en": {
+      "name": "Gorgona Beach",
+      "tagline": "A little wild pebble cove tucked away near Alyki",
+      "summary": "Gorgona Beach is a small natural cove on the southeastern coast of Thassos, close to Alyki. Unlike the main Alyki beach, it has a predominantly pebbly and stony shore, water that deepens relatively quickly and a steep path down to the coast.",
+      "description": "Not far from the Alyki peninsula, Gorgona Beach offers a noticeably different experience from the island’s serviced beaches. It is a small, tucked-away cove edged by rocks, with pebbles and larger stones rather than a broad stretch of fine sand. Visitors come for a natural setting rather than rows of loungers or beach-bar service. The sea can be clear in settled weather, and the rocky margins can be interesting for cautious snorkelling. However, the seabed is uneven and the water is reported to deepen more quickly than at the main Alyki bathing beach. Reaching the shore requires care: local beach information describes a steep, rocky path, so this is not an effortless stroll from the roadside. No sunbed concession or food kiosk is documented at the cove itself. Gorgona deserves its own visitor-information record because it is a separately identifiable coastal inlet near Alyki rather than a branded resort section. Its appeal comes with practical limitations: plan to be self-sufficient, judge sea conditions on arrival and do not treat a map marker as proof that the descent is suitable for everyone.",
+      "practical_tips": "Use the map coordinates to locate the cove, not as a verified parking or trailhead point. The descent is reported to be steep and rocky; wear secure walking footwear and consider water shoes for the shore. Bring drinking water, snacks, sun protection and a thick towel or mat for pebbles. Do not count on loungers, toilets, showers or lifeguard cover. Test the seabed and depth before entering; keep children closely supervised and avoid exposed rocks when the sea is rough.",
+      "highlights": [
+        "Small natural cove close to Alyki",
+        "Pebbly and stony shoreline",
+        "Quiet, unserviced coastal setting",
+        "Steep and rocky walking approach",
+        "Water reported to deepen relatively quickly"
+      ],
+      "seo_title": "Gorgona Beach Thassos – wild cove near Alyki",
+      "seo_description": "Explore Gorgona Beach near Alyki on Thassos: a secluded pebble cove with a steep path, rocky shoreline and important swimming tips.",
+      "social_caption": "🌊 Gorgona Beach, Thassos: a tiny natural cove near Alyki with pebbles, rocky edges and a quieter atmosphere. 🥾 The approach is steep, so come prepared. #Thassos #GorgonaBeach #Alyki",
+      "photo_alt": "Small natural Gorgona Beach cove near Alyki, Thassos, with a pebbly shore and rocky edges."
+    },
+    "el": {
+      "name": "Παραλία Γοργόνα (Gorgona Beach)",
+      "tagline": "Μικρός φυσικός όρμος με βότσαλα κοντά στην Αλυκή",
+      "summary": "Η Gorgona Beach είναι ένας μικρός φυσικός όρμος στη νοτιοανατολική Θάσο, κοντά στην Αλυκή. Σε αντίθεση με την κύρια παραλία της Αλυκής, έχει κυρίως βότσαλα και πέτρες, νερό που βαθαίνει σχετικά γρήγορα και δύσκολη πρόσβαση από απότομο μονοπάτι.",
+      "description": "Σε μικρή απόσταση από τη χερσόνησο της Αλυκής, η Gorgona Beach προσφέρει μια διαφορετική εμπειρία από τις οργανωμένες ακτές της Θάσου. Πρόκειται για έναν μικρό και ήσυχο όρμο με βραχώδη άκρα, βότσαλα και μεγαλύτερες πέτρες στην ακτή, όχι για μεγάλη αμμουδιά με εγκαταστάσεις. Η φυσική εικόνα και η αίσθηση απομόνωσης είναι τα βασικά του χαρακτηριστικά. Όταν η θάλασσα είναι ήρεμη, τα νερά μπορούν να είναι διαυγή και τα βραχώδη σημεία να προσφέρονται για προσεκτική εξερεύνηση με μάσκα. Ωστόσο, ο βυθός δεν είναι ομοιόμορφος και το βάθος αυξάνεται σχετικά γρήγορα σε σύγκριση με πιο ρηχές παραλίες. Η πρόσβαση απαιτεί ιδιαίτερη προσοχή: οι τοπικές περιγραφές αναφέρουν απότομο, πετρώδες μονοπάτι προς τη θάλασσα. Στον ίδιο τον όρμο δεν τεκμηριώνονται ξαπλώστρες ή αναψυκτήριο. Η Gorgona καταγράφεται χωριστά επειδή είναι διακριτός μικρός όρμος κοντά στην Αλυκή και όχι εμπορική ονομασία ξενοδοχειακής παραλίας. Οι επισκέπτες χρειάζεται να έχουν μαζί τους τα απαραίτητα και να αξιολογούν επί τόπου τόσο το έδαφος όσο και τις συνθήκες κολύμβησης.",
+      "practical_tips": "Οι συντεταγμένες δείχνουν τον όρμο και όχι επιβεβαιωμένο χώρο στάθμευσης ή αρχή μονοπατιού. Η κατάβαση είναι απότομη και πετρώδης· προτιμήστε σταθερά παπούτσια και παπούτσια θαλάσσης για την ακτή. Πάρτε νερό, λίγα τρόφιμα, αντηλιακό και κατάλληλο υπόστρωμα για τα βότσαλα. Μην βασίζεστε σε ξαπλώστρες, τουαλέτες, ντους ή παρουσία ναυαγοσώστη. Ελέγχετε το βάθος πριν μπείτε και επιβλέπετε συνεχώς τα παιδιά, ιδιαίτερα κοντά στα βράχια.",
+      "highlights": [
+        "Μικρός φυσικός όρμος κοντά στην Αλυκή",
+        "Ακτή με βότσαλα και πέτρες",
+        "Ήσυχο περιβάλλον χωρίς γνωστές παροχές",
+        "Απότομο, βραχώδες μονοπάτι πρόσβασης",
+        "Η θάλασσα βαθαίνει σχετικά γρήγορα"
+      ],
+      "seo_title": "Gorgona Beach Θάσος – φυσικός όρμος κοντά στην Αλυκή",
+      "seo_description": "Η Gorgona Beach κοντά στην Αλυκή Θάσου: μικρός όρμος με βότσαλα, δύσκολο μονοπάτι, βραχώδης ακτή και συμβουλές κολύμβησης.",
+      "social_caption": "🌊 Gorgona Beach, Θάσος: μικρός φυσικός όρμος κοντά στην Αλυκή, με βότσαλα και βράχια. 🥾 Η πρόσβαση είναι δύσκολη, γι’ αυτό χρειάζεται προετοιμασία. #Θάσος #Αλυκή #GorgonaBeach",
+      "photo_alt": "Ο μικρός φυσικός όρμος Gorgona Beach κοντά στην Αλυκή της Θάσου με βότσαλα και βραχώδεις άκρες."
+    },
+    "de": {
+      "name": "Gorgona Beach",
+      "tagline": "Eine kleine, naturbelassene Kiesbucht bei Alyki",
+      "summary": "Gorgona Beach ist eine kleine naturbelassene Bucht an der Südostküste von Thassos in der Nähe von Alyki. Anders als der Hauptstrand von Alyki hat sie vorwiegend Kiesel und Steine, relativ schnell tiefer werdendes Wasser und einen steilen Zugangspfad.",
+      "description": "Unweit der Halbinsel Alyki liegt mit Gorgona Beach eine kleine Bucht, die sich deutlich von den bewirtschafteten Stränden der Insel unterscheidet. Zwischen felsigen Rändern findet man hier vor allem Kiesel und größere Steine, aber keine breite Fläche aus feinem Sand. Gerade die natürliche Umgebung macht den Ort für Menschen interessant, die eine ruhigere Küste ohne Strandbar-Atmosphäre suchen. Bei ruhiger See kann das Wasser klar sein, und die felsigen Bereiche laden zu vorsichtigem Schnorcheln ein. Der Meeresboden ist jedoch uneben und das Wasser wird Berichten zufolge vergleichsweise rasch tief. Besondere Aufmerksamkeit verlangt bereits der Weg zum Ufer: Örtliche Strandbeschreibungen nennen einen steilen, felsigen Pfad. Für einen unbeschwerten Familienausflug mit Kinderwagen oder für Personen mit eingeschränkter Mobilität eignet sich dieser Zugang daher nicht ohne Weiteres. Liegen oder Verpflegungsangebote direkt in der Bucht sind nicht dokumentiert. Gorgona ist als eigenständiger kleiner Küstenabschnitt nahe Alyki erkennbar und keine nach einem Hotel benannte Strandfläche. Wer sie besuchen möchte, sollte sich selbst versorgen und Wetter, Gelände sowie Badebedingungen sorgfältig prüfen.",
+      "practical_tips": "Die GPS-Angaben markieren die Bucht, nicht einen geprüften Parkplatz oder den Beginn des Fußwegs. Der Abstieg gilt als steil und steinig; festes Schuhwerk und Badeschuhe sind sinnvoll. Nehmen Sie Wasser, Verpflegung, Sonnenschutz und eine dickere Unterlage für den Kies mit. Liegen, Toiletten, Duschen oder Rettungsschwimmer sind nicht gesichert. Prüfen Sie Tiefe und Untergrund vor dem Baden und beaufsichtigen Sie Kinder besonders aufmerksam.",
+      "highlights": [
+        "Kleine Naturbucht nahe Alyki",
+        "Kieseliger und steiniger Uferbereich",
+        "Ruhige Küstenstelle ohne bekannte Infrastruktur",
+        "Steiler, felsiger Zugangsweg",
+        "Wasser wird relativ schnell tief"
+      ],
+      "seo_title": "Gorgona Beach Thassos – Naturbucht bei Alyki",
+      "seo_description": "Gorgona Beach auf Thassos: kleine Kiesbucht bei Alyki mit steilem Fußweg, felsigem Ufer und praktischen Hinweisen zum Baden.",
+      "social_caption": "🌊 Gorgona Beach auf Thassos: eine kleine, naturbelassene Kiesbucht bei Alyki mit ruhiger Atmosphäre. 🥾 Der Abstieg ist steil – passende Schuhe nicht vergessen. #Thassos #GorgonaBeach",
+      "photo_alt": "Kleine natürliche Kiesbucht Gorgona Beach nahe Alyki auf Thassos mit felsigen Uferbereichen."
+    },
+    "bg": {
+      "name": "Плаж Горгона (Gorgona Beach)",
+      "tagline": "Малък див залив с камъчета близо до Алики",
+      "summary": "Gorgona Beach е малък естествен залив на югоизточния бряг на Тасос, близо до Алики. За разлика от основния плаж Алики тук брегът е предимно каменист, водата става по-дълбока сравнително бързо, а пътеката за достъп е стръмна.",
+      "description": "Недалеч от полуостров Алики се намира Gorgona Beach — малък залив, който предлага различно преживяване от организираните плажове на Тасос. Брегът е ограден от скали и е покрит главно с камъчета и по-едри камъни, а не с широка ивица фин пясък. Естествената обстановка и по-тихата атмосфера са основните му предимства. При спокойно море водата може да е прозрачна, а скалистите краища — интересни за внимателно гмуркане с маска. Трябва обаче да се има предвид неравното дъно и сравнително бързото увеличаване на дълбочината. Достигането до самия бряг също изисква внимание: местни описания посочват стръмна и камениста пътека, която не е подходяща за всеки посетител. За този залив не са документирани постоянни шезлонги или заведение за напитки. Gorgona заслужава отделно представяне, защото е ясно различим малък естествен залив край Алики, а не рекламно име на плаж пред хотел. Посещението трябва да бъде добре подготвено, със собствена вода, подходящи обувки и преценка на условията на място.",
+      "practical_tips": "Координатите показват залива, но не и потвърден паркинг или начало на пътеката. Слизането е стръмно и каменисто; носете стабилни обувки и обувки за вода. Вземете вода, храна, слънцезащита и по-дебела постелка за камъчетата. Не разчитайте на шезлонги, тоалетни, душове или спасител. Проверете дълбочината и дъното преди плуване и наблюдавайте децата непрекъснато.",
+      "highlights": [
+        "Малък естествен залив край Алики",
+        "Брег с камъчета и камъни",
+        "Спокойна обстановка без известни удобства",
+        "Стръмна и скалиста пътека",
+        "Морето става по-дълбоко сравнително бързо"
+      ],
+      "seo_title": "Gorgona Beach Тасос – див залив край Алики",
+      "seo_description": "Gorgona Beach близо до Алики на Тасос: малък каменист залив, стръмна пътека, естествен бряг и полезни съвети за плуване.",
+      "social_caption": "🌊 Gorgona Beach, Тасос: малък див залив близо до Алики, с камъчета и скали. 🥾 Достъпът е труден — подгответе се добре. #Тасос #GorgonaBeach",
+      "photo_alt": "Малкият естествен залив Gorgona Beach край Алики, Тасос, с каменист бряг и скали."
+    },
+    "sr": {
+      "name": "Plaža Gorgona (Gorgona Beach)",
+      "tagline": "Mala prirodna uvala sa oblucima nedaleko od Alikija",
+      "summary": "Gorgona Beach je mala prirodna uvala na jugoistočnoj obali Tasosa, blizu Alikija. Za razliku od glavne plaže Aliki, pretežno je šljunkovita i kamenita, voda postaje relativno brzo duboka, a prilaz vodi strma staza.",
+      "description": "Nadomak poluostrva Aliki, Gorgona Beach predstavlja mali prirodni zaliv drugačiji od uređenih plaža Tasosa. Uvala je omeđena stenama, a na obali preovlađuju obluci i veće kamenje umesto široke površine sitnog peska. Posetiocima koji vole mirnija i manje uređena mesta privlačna je upravo ovakva prirodna atmosfera. Kada je more mirno, voda može biti bistra, a stenoviti rubovi zanimljivi za oprezno posmatranje podvodnog sveta sa maskom. Ipak, dno je neravno i prema dostupnim opisima dubina se relativno brzo povećava. Prilaz obali zahteva dobru procenu: lokalni vodiči pominju strmu, kamenitu stazu, pa mesto nije pogodno za svakoga. Na samoj uvali nisu dokumentovane ležaljke ni bar sa osveženjem. Gorgona zaslužuje posebnu geografsku evidenciju jer je prepoznatljiva mala uvala blizu Alikija, a ne komercijalno ime hotelskog dela plaže. Za posetu treba poneti sopstvene potrepštine, odgovarajuću obuću i proveriti stanje mora pre ulaska u vodu.",
+      "practical_tips": "GPS koordinate označavaju uvalu, ne provereni parking ili početak staze. Spust je strm i kamenit, zato obujte stabilne cipele i ponesite obuću za vodu. Potrebni su voda, hrana, zaštita od sunca i deblja podloga za obluke. Ne računajte na ležaljke, toalete, tuševe ili spasioca. Proverite dubinu i kamenje u vodi i pažljivo nadzirite decu.",
+      "highlights": [
+        "Mala prirodna uvala blizu Alikija",
+        "Šljunkovita i kamenita obala",
+        "Mirno mesto bez poznatih usluga",
+        "Strma, stenovita pristupna staza",
+        "Voda relativno brzo postaje duboka"
+      ],
+      "seo_title": "Gorgona Beach Tasos – divlja uvala kod Alikija",
+      "seo_description": "Otkrijte Gorgona Beach na Tasosu: malu prirodnu uvalu blizu Alikija, strmu stazu, šljunkovitu obalu i korisne savete za kupanje.",
+      "social_caption": "🌊 Gorgona Beach, Tasos: mala prirodna uvala blizu Alikija, sa oblucima i stenama. 🥾 Pristup je strm, zato dođite pripremljeni. #Tasos #GorgonaBeach",
+      "photo_alt": "Mala prirodna uvala Gorgona Beach blizu Alikija na Tasosu sa kamenitom obalom i stenama."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/gorgona/images/gorgona1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/gorgona/images/gorgona2.webp",
+      "destinations/thassos/beaches/gorgona/images/gorgona3.webp",
+      "destinations/thassos/beaches/gorgona/images/gorgona4.webp",
+      "destinations/thassos/beaches/gorgona/images/gorgona5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/gorgona/images/",
+    "suggested_asset_names": [
+      "gorgona1.webp",
+      "gorgona2.webp",
+      "gorgona3.webp",
+      "gorgona4.webp",
+      "gorgona5.webp"
+    ],
+    "image_policy": "Use only photos of this exact Gorgona cove at Alyki with confirmed publication rights. Paths are assigned from user-shown local filenames; validate identity, provenance and rights before publication. Do not use photos of unrelated Gorgona-named businesses.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_pame_paralia",
+      "kind": "regional_beach_directory",
+      "title": "Pame Paralia — Gorgona (Alyki, Thasos)",
+      "url": "https://pameparalia.com/beach/gorgona-mainland",
+      "detail": "Separate Gorgona beach point at 40.6068,24.7451; pebble shore, relatively deep water, steep rocky access, no facilities or sunbeds, quiet natural setting, Alyki listed 271 m away. These are directory descriptions, not independent measurement or access certification.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_google_maps_poi",
+      "kind": "map_poi",
+      "title": "Google Maps — Gorgona beach, Thasos (tourist attraction)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gorgona%20beach%2C%20Thasos%2C%20Greece",
+      "detail": "A distinct Google Maps business/place result Gorgona beach, locality plus code JP4W+M3; point label visible in user-provided screenshot. Search URL does not prove a fixed entrance or coastline boundary.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_alyki_comparison",
+      "kind": "regional_beach_directory",
+      "title": "Pame Paralia — Alyki, compared with Gorgona",
+      "url": "https://pameparalia.com/beach/alyki-mainland-2",
+      "detail": "Lists organised, sandy and shallower Alyki, supporting the distinction from the wild pebbly Gorgona cove. It is not independent corroboration of all Gorgona physical attributes.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_community_2026",
+      "kind": "community_location_mention",
+      "title": "Forum Thassos Romania — Ruin’s Beach & Gorgona beach, June 12 2026",
+      "url": "https://www.facebook.com/groups/ForumThassosRomania/posts/27579641128393501/",
+      "detail": "Community post names Ruin’s Beach and Gorgona beach together on Thassos, corroborating name use as separate coastal places; original post may require login and precise geography is not derived from it.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_aerial_reference",
+      "kind": "geographic_image_index_not_photo_license",
+      "title": "Alamy — aerial view of Alyki Peninsula and Gorgona Beach, Thasos",
+      "url": "https://www.alamy.com/stock-photo/alyki-thassos-thassos-greece.html",
+      "detail": "Stock-image index identifies an aerial subject as Alyki Peninsula and Gorgona Beach, independently corroborating that the geographical name is used. No image usage rights implied or assets imported.",
+      "checked_on": "2026-10-24"
+    }
+  ],
+  "editorial": {
+    "status": "confirmed_inventory_images_assigned_pending_access_and_photo_review",
+    "facts_checked_on": "2026-10-24",
+    "translations_written_on": "2026-10-24",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm exact beach centre and footpath trailhead in Google Maps or on the ground; current coordinate is 4-decimal approximate reference, not parking.",
+      "Check whether current pedestrian access is lawful, open and safe, and whether any parking options exist.",
+      "Confirm shoreline pebbles, water entry, depth and seasonality on site; directory characterisation may be imperfect.",
+      "Check any seasonal services, sanitation, lifeguard or accessibility changes before promising them to visitors.",
+      "Confirm the five locally referenced gorgona1.webp–gorgona5.webp files truly show this Gorgona cove near Alyki (not unrelated named businesses), and document publication rights and any required attribution.",
+      "Check the exact distinction from main Alyki / Ruin’s Beach in map geometry to avoid overlapping beach polygons.",
+      "Have native speakers proofread all six language versions before publication."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; rights to the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local image paths assigned from the user-provided screenshot of filenames. Actual image files, photo location, provenance and reuse rights have not been independently verified."
+  }
+}

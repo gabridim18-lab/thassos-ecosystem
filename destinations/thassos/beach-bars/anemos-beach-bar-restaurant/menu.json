@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "gr-thassos-beach-bar-anemos-menu",
+  "parentId": "gr-thassos-beach-bar-anemos-beach-bar-restaurant",
+  "parentSlug": "anemos-beach-bar-restaurant",
+  "category": "beach-bars",
+  "beachSlug": "skala-sotiros",
+  "currency": "EUR",
+  "menuStatus": "historical_reference_unverified",
+  "publishAsCurrent": false,
+  "source": {
+    "type": "user_supplied_photographs_of_printed_menu",
+    "photoFiles": [
+      "image(20261102-103208).png",
+      "image(20261102-103240).png"
+    ],
+    "menuDate": "unknown",
+    "transcribedOn": "2026-11-02",
+    "sourceLanguages": [
+      "el",
+      "en"
+    ],
+    "priceNotice": {
+      "ro": "Prețuri transcrise din fotografii; valabilitatea lor actuală nu a fost confirmată.",
+      "en": "Prices transcribed from menu photos; current validity has not been confirmed."
+    },
+    "translationNotice": "Greek and English names follow the photographed menu, with minor spelling/typographical normalization. Romanian, German, Bulgarian and Serbian names are editorial translations, not provided by the restaurant."
+  },
+  "displayNotes": {
+    "ro": "Întrebați personalul despre preparatul și peștele zilei. Prețul și disponibilitatea se confirmă la local.",
+    "en": "Ask for the dish and the fish of the day. Price and availability must be confirmed at the restaurant.",
+    "el": "Ρωτήστε μας για το πιάτο ημέρας και για τα ψάρια ημέρας."
+  },
+  "sections": [
+    {
+      "id": "salads",
+      "name": {"ro": "Salate", "en": "Salads", "el": "Σαλάτες", "de": "Salate", "bg": "Салати", "sr": "Salate"},
+      "items": [
+        {"id": "salads-01","name": {"ro": "Salată grecească","en": "Greek salad","el": "Χωριάτικη","de": "Griechischer Salat","bg": "Гръцка салата","sr": "Grčka salata"},"price": 10},
+        {"id": "salads-02","name": {"ro": "Salată de varză și morcov","en": "Cabbage & carrot","el": "Πικάντικη","de": "Kohl-Karotten-Salat","bg": "Салата от зеле и моркови","sr": "Salata od kupusa i šargarepe"},"price": 8},
+        {"id": "salads-03","name": {"ro": "Salată de roșii și castraveți","en": "Tomato & cucumber","el": "Αγγουροντομάτα","de": "Tomaten-Gurken-Salat","bg": "Салата от домати и краставици","sr": "Salata od paradajza i krastavaca"},"price": 8},
+        {"id": "salads-04","name": {"ro": "Salată de sfeclă roșie","en": "Beetroot","el": "Παντζάρια","de": "Rote-Bete-Salat","bg": "Салата от цвекло","sr": "Salata od cvekle"},"price": 8}
+      ]
+    },
+    {
+      "id": "appetizers",
+      "name": {"ro": "Aperitive", "en": "Appetizers", "el": "Ορεκτικά", "de": "Vorspeisen", "bg": "Предястия", "sr": "Predjela"},
+      "items": [
+        {"id": "appetizers-01","name": {"ro": "Frunze de viță umplute","en": "Stuffed vine leaves","el": "Σαρμαδάκια","de": "Gefüllte Weinblätter","bg": "Пълнени лозови листа","sr": "Punjeni listovi vinove loze"},"price": 8},
+        {"id": "appetizers-02","name": {"ro": "Tzatziki","en": "Tzatziki","el": "Τζατζίκι","de": "Tzatziki","bg": "Дзадзики","sr": "Caciki"},"price": 5},
+        {"id": "appetizers-03","name": {"ro": "Salată de brânză","en": "Cheese salad","el": "Τυροσαλάτα","de": "Käsesalat","bg": "Салата с млечни сирена","sr": "Salata od sira"},"price": 5},
+        {"id": "appetizers-04","name": {"ro": "Ardei iuți","en": "Hot peppers","el": "Καυτερή πιπεριά","de": "Scharfe Paprika","bg": "Люти чушки","sr": "Ljute papričice"},"price": 3},
+        {"id": "appetizers-05","name": {"ro": "Chifteluțe de dovlecel","en": "Courgette croquettes","el": "Κολοκυθοκεφτέδες","de": "Zucchinipuffer","bg": "Кюфтенца от тиквички","sr": "Ćuftice od tikvica"},"price": 8},
+        {"id": "appetizers-06","name": {"ro": "Vinete la grătar","en": "Grilled eggplant","el": "Μελιτζάνα ψητή","de": "Gegrillte Aubergine","bg": "Печен патладжан","sr": "Grilovani patlidžan"},"price": 8},
+        {"id": "appetizers-07","name": {"ro": "Bouyourdi","en": "Bouyourdi","el": "Μπουγιουρντί","de": "Bouyourdi","bg": "Буюрди","sr": "Bujurdi"},"price": 8},
+        {"id": "appetizers-08","name": {"ro": "Feta cu susan și miere","en": "Feta with sesame and honey","el": "Φέτα με σουσάμι και μέλι","de": "Feta mit Sesam und Honig","bg": "Фета със сусам и мед","sr": "Feta sa susamom i medom"},"price": 8},
+        {"id": "appetizers-09","name": {"ro": "Cartofi prăjiți","en": "French fries","el": "Πατάτες τηγανητές","de": "Pommes frites","bg": "Пържени картофи","sr": "Pomfrit"},"price": 5},
+        {"id": "appetizers-10","name": {"ro": "Macrou afumat","en": "Smoked mackerel","el": "Σκουμπρί καπνιστό","de": "Geräucherte Makrele","bg": "Пушена скумрия","sr": "Dimljena skuša"},"price": 9}
+      ]
+    },
+    {
+      "id": "fish_seafood",
+      "name": {"ro": "Pește și fructe de mare", "en": "Fish & seafood", "el": "Ψαρικά", "de": "Fisch & Meeresfrüchte", "bg": "Риба и морски дарове", "sr": "Riba i morski plodovi"},
+      "items": [
+        {"id": "fish_seafood-01","name": {"ro": "Paste cu creveți","en": "Shrimp pasta","el": "Γαριδομακαρονάδα","de": "Pasta mit Garnelen","bg": "Паста със скариди","sr": "Testenina sa škampima"},"price": 20},
+        {"id": "fish_seafood-02","name": {"ro": "Hamsii","en": "Anchovies","el": "Γαύρος","de": "Sardellen","bg": "Хамсия","sr": "Inćuni"},"price": 10},
+        {"id": "fish_seafood-03","name": {"ro": "Creveți (la grătar, saganaki sau prăjiți)","en": "Shrimps (grilled, saganaki or fried)","el": "Γαρίδες (ψητές ή σαγανάκι ή τηγανητές)","de": "Garnelen (gegrillt, Saganaki oder frittiert)","bg": "Скариди (на скара, саганаки или пържени)","sr": "Škampi (grilovani, saganaki ili prženi)"},"price": 18},
+        {"id": "fish_seafood-04","name": {"ro": "Caracatiță","en": "Octopus","el": "Χταπόδι","de": "Oktopus","bg": "Октопод","sr": "Hobotnica"},"price": 18},
+        {"id": "fish_seafood-05","name": {"ro": "Barbun de mare, porție 300 g","en": "Striped mullet 300 g","el": "Κουτσομούρα 300 γρ.","de": "Rotbarbe, 300 g","bg": "Барбун, 300 г","sr": "Barbun, 300 g"},"price": 18},
+        {"id": "fish_seafood-06","name": {"ro": "Calamar (la grătar sau prăjit)","en": "Squid (grilled or fried)","el": "Καλαμάρι (ψητό ή τηγανητό)","de": "Tintenfisch (gegrillt oder frittiert)","bg": "Калмари (на скара или пържени)","sr": "Lignje (grilovane ili pržene)"},"price": 18},
+        {"id": "fish_seafood-07","name": {"ro": "Calamar umplut","en": "Stuffed squid","el": "Καλαμάρι γεμιστό","de": "Gefüllter Tintenfisch","bg": "Пълнен калмар","sr": "Punjene lignje"},"price": 20},
+        {"id": "fish_seafood-08","name": {"ro": "Midii (la abur sau saganaki)","en": "Mussels (steamed or saganaki)","el": "Μύδια (αχνιστά ή σαγανάκι)","de": "Muscheln (gedämpft oder Saganaki)","bg": "Миди (на пара или саганаки)","sr": "Dagnje (na pari ili saganaki)"},"price": 14},
+        {"id": "fish_seafood-09","name": {"ro": "Pește-spadă","en": "Swordfish","el": "Ξιφίας","de": "Schwertfisch","bg": "Риба меч","sr": "Sabljarka"},"price": 15},
+        {"id": "fish_seafood-10","name": {"ro": "Doradă","en": "Sea bream","el": "Τσιπούρα","de": "Dorade","bg": "Ципура","sr": "Orada"},"price": 15}
+      ]
+    },
+    {
+      "id": "meat",
+      "name": {"ro": "Preparate din carne", "en": "Meat", "el": "Κρεατικά", "de": "Fleischgerichte", "bg": "Месни ястия", "sr": "Jela od mesa"},
+      "items": [
+        {"id": "meat-01","name": {"ro": "Ficat la grătar cu sos de lămâie","en": "Grilled liver in lemon sauce","el": "Συκώτι λεμονάτο","de": "Gegrillte Leber in Zitronensauce","bg": "Дроб на скара с лимонов сос","sr": "Grilovana džigerica u sosu od limuna"},"price": 13},
+        {"id": "meat-02","name": {"ro": "Bifteki (carne tocată la grătar)","en": "Hamburger","el": "Μπιφτέκι","de": "Bifteki (Hackfleischsteak)","bg": "Бифтек от кайма на скара","sr": "Bifteki (pljeskavica)"},"price": 12},
+        {"id": "meat-03","name": {"ro": "Friptură de vită","en": "Beef steak","el": "Μοσχαρίσια μπριζόλα","de": "Rindersteak","bg": "Телешки стек","sr": "Goveđi stek"},"price": 18},
+        {"id": "meat-04","name": {"ro": "Cotlet de porc","en": "Pork steak","el": "Χοιρινή μπριζόλα","de": "Schweinesteak","bg": "Свинска пържола","sr": "Svinjski odrezak"},"price": 12},
+        {"id": "meat-05","name": {"ro": "Souvlaki de porc","en": "Pork souvlaki","el": "Σουβλάκι χοιρινό","de": "Schweine-Souvlaki","bg": "Свинско сувлаки","sr": "Svinjski suvlaki"},"price": 12},
+        {"id": "meat-06","name": {"ro": "Souvlaki de pui","en": "Chicken souvlaki","el": "Σουβλάκι κοτόπουλο","de": "Hähnchen-Souvlaki","bg": "Пилешко сувлаки","sr": "Pileći suvlaki"},"price": 12},
+        {"id": "meat-07","name": {"ro": "Pancetta","en": "Pancetta","el": "Πανσέτα","de": "Pancetta","bg": "Панчета","sr": "Pančeta"},"price": 12},
+        {"id": "meat-08","name": {"ro": "Cârnați","en": "Sausages","el": "Λουκάνικα","de": "Würstchen","bg": "Наденички","sr": "Kobasice"},"price": 12},
+        {"id": "meat-09","name": {"ro": "Platou mixt de carne pentru două persoane","en": "Mixed grill for 2 persons","el": "Πιατέλα κρεατικών για 2 άτομα","de": "Gemischter Grillteller für 2 Personen","bg": "Мешано месо на скара за двама","sr": "Mešano meso sa roštilja za dve osobe"},"price": 28}
+      ]
+    },
+    {
+      "id": "refreshments",
+      "name": {"ro": "Băuturi răcoritoare", "en": "Refreshments", "el": "Αναψυκτικά", "de": "Erfrischungsgetränke", "bg": "Безалкохолни напитки", "sr": "Bezalkoholna pića"},
+      "items": [
+        {"id": "refreshments-01","name": {"ro": "Coca-Cola","en": "Coca Cola","el": "Coca Cola","de": "Coca-Cola","bg": "Кока-Кола","sr": "Koka-Kola"},"price": 3},
+        {"id": "refreshments-02","name": {"ro": "Fanta portocale","en": "Fanta orange","el": "Πορτοκαλάδα","de": "Fanta Orange","bg": "Фанта портокал","sr": "Fanta narandža"},"price": 3},
+        {"id": "refreshments-03","name": {"ro": "Limonadă","en": "Lemonade","el": "Λεμονάδα","de": "Limonade","bg": "Лимонада","sr": "Limunada"},"price": 3},
+        {"id": "refreshments-04","name": {"ro": "Apă minerală carbogazoasă","en": "Soda water","el": "Σόδα","de": "Sodawasser","bg": "Газирана вода","sr": "Soda voda"},"price": 3},
+        {"id": "refreshments-05","name": {"ro": "Gazoză","en": "Gazoza","el": "Γκαζόζα","de": "Gazoza","bg": "Газоза","sr": "Gazoza"},"price": 3},
+        {"id": "refreshments-06","name": {"ro": "Pink soda","en": "Pink soda","el": "Pink soda","de": "Pink Soda","bg": "Розова сода","sr": "Pink soda"},"price": 6},
+        {"id": "refreshments-07","name": {"ro": "Apă plată 1,5 l","en": "Water 1.5 l","el": "Νερό 1,5 lt.","de": "Wasser 1,5 l","bg": "Вода 1,5 л","sr": "Voda 1,5 l"},"price": 2}
+      ]
+    },
+    {
+      "id": "beer",
+      "name": {"ro": "Bere", "en": "Beers", "el": "Μπύρες", "de": "Bier", "bg": "Бира", "sr": "Pivo"},
+      "items": [
+        {"id": "beer-01","name": {"ro": "Mythos","en": "Mythos","el": "Μύθος","de": "Mythos","bg": "Mythos","sr": "Mythos"},"price": 5},
+        {"id": "beer-02","name": {"ro": "Vergina","en": "Vergina","el": "Βεργίνα","de": "Vergina","bg": "Vergina","sr": "Vergina"},"price": 5},
+        {"id": "beer-03","name": {"ro": "Amstel","en": "Amstel","el": "Amstel","de": "Amstel","bg": "Amstel","sr": "Amstel"},"price": 5},
+        {"id": "beer-04","name": {"ro": "Corona","en": "Corona","el": "Corona","de": "Corona","bg": "Corona","sr": "Corona"},"price": 6.5},
+        {"id": "beer-05","name": {"ro": "Fix","en": "Fix","el": "Fix","de": "Fix","bg": "Fix","sr": "Fix"},"price": 5},
+        {"id": "beer-06","name": {"ro": "Mamos","en": "Mamos","el": "Mamos","de": "Mamos","bg": "Mamos","sr": "Mamos"},"price": 5},
+        {"id": "beer-07","name": {"ro": "Bere la draft 500 ml","en": "Draft beer 500 ml","el": "Βαρελίσια 500 ml","de": "Fassbier 500 ml","bg": "Наливна бира 500 мл","sr": "Točeno pivo 500 ml"},"price": 5}
+      ]
+    },
+    {
+      "id": "retsina",
+      "name": {"ro": "Retsina", "en": "Retsina", "el": "Ρετσίνες", "de": "Retsina", "bg": "Рецина", "sr": "Retsina"},
+      "items": [
+        {"id": "retsina-01","name": {"ro": "Kechribari","en": "Kechribari","el": "Κεχριμπάρι","de": "Kechribari","bg": "Kechribari","sr": "Kechribari"},"price": 8},
+        {"id": "retsina-02","name": {"ro": "Vasiliki","en": "Vasiliki","el": "Βασιλική","de": "Vasiliki","bg": "Vasiliki","sr": "Vasiliki"},"price": 7.5},
+        {"id": "retsina-03","name": {"ro": "Malamatina","en": "Malamatina","el": "Μαλαματίνα","de": "Malamatina","bg": "Malamatina","sr": "Malamatina"},"price": 5.5},
+        {"id": "retsina-04","name": {"ro": "Georgiadi","en": "Georgiadi","el": "Γεωργιάδη","de": "Georgiadi","bg": "Georgiadi","sr": "Georgiadi"},"price": 5.5},
+        {"id": "retsina-05","name": {"ro": "Vinul casei 500 ml","en": "House wine 500 ml","el": "Κρασί χύμα 500ml","de": "Hauswein 500 ml","bg": "Домашно вино 500 мл","sr": "Kućno vino 500 ml"},"price": 6.5}
+      ]
+    },
+    {
+      "id": "bottled_wine",
+      "name": {"ro": "Vin la sticlă", "en": "Bottled wine", "el": "Κρασιά", "de": "Flaschenwein", "bg": "Бутилирано вино", "sr": "Flaširana vina"},
+      "items": [
+        {"id": "bottled_wine-01","name": {"ro": "Ktima Alpha","en": "Ktima Alpha","el": "Κτήμα Άλφα","de": "Ktima Alpha","bg": "Ktima Alpha","sr": "Ktima Alpha"},"price": 30},
+        {"id": "bottled_wine-02","name": {"ro": "Ktima Vivlia Chora","en": "Ktima Vivlia Chora","el": "Κτήμα Βίβλια Χώρα","de": "Ktima Vivlia Chora","bg": "Ktima Vivlia Chora","sr": "Ktima Vivlia Chora"},"price": 30},
+        {"id": "bottled_wine-03","name": {"ro": "Gerovassiliou","en": "Gerovassiliou","el": "Γεροβασιλείου","de": "Gerovassiliou","bg": "Gerovassiliou","sr": "Gerovassiliou"},"price": 30},
+        {"id": "bottled_wine-04","name": {"ro": "Ktima Apla","en": "Ktima Apla","el": "Κτήμα Απλά","de": "Ktima Apla","bg": "Ktima Apla","sr": "Ktima Apla"},"price": 30},
+        {"id": "bottled_wine-05","name": {"ro": "Isalos alb","en": "Isalos white","el": "Ίσαλος λευκό","de": "Isalos Weißwein","bg": "Isalos бяло","sr": "Isalos belo"},"price": 25}
+      ]
+    },
+    {
+      "id": "drinks",
+      "name": {"ro": "Băuturi alcoolice", "en": "Drinks", "el": "Ποτά", "de": "Spirituosen & Cocktails", "bg": "Алкохолни напитки", "sr": "Alkoholna pića"},
+      "items": [
+        {"id": "drinks-01","name": {"ro": "Ouzo 200 ml","en": "Ouzo 200 ml","el": "Ούζο 200ml","de": "Ouzo 200 ml","bg": "Узо 200 мл","sr": "Uzo 200 ml"},"price": 10},
+        {"id": "drinks-02","name": {"ro": "Tsipouro 200 ml","en": "Tsipouro 200 ml","el": "Τσίπουρο 200ml","de": "Tsipouro 200 ml","bg": "Ципуро 200 мл","sr": "Cipuro 200 ml"},"price": 10},
+        {"id": "drinks-03","name": {"ro": "Whisky","en": "Whiskey","el": "Whiskey","de": "Whisky","bg": "Уиски","sr": "Viski"},"price": 8},
+        {"id": "drinks-04","name": {"ro": "Vodcă","en": "Vodka","el": "Βότκα","de": "Wodka","bg": "Водка","sr": "Votka"},"price": 8},
+        {"id": "drinks-05","name": {"ro": "Gin","en": "Gin","el": "Gin","de": "Gin","bg": "Джин","sr": "Džin"},"price": 8},
+        {"id": "drinks-06","name": {"ro": "Campari","en": "Campari","el": "Campari","de": "Campari","bg": "Кампари","sr": "Kampari"},"price": 8},
+        {"id": "drinks-07","name": {"ro": "Cocktailuri","en": "Cocktails","el": "Cocktails","de": "Cocktails","bg": "Коктейли","sr": "Kokteli"},"price": 10}
+      ]
+    },
+    {
+      "id": "coffee",
+      "name": {"ro": "Cafea", "en": "Coffee", "el": "Καφές", "de": "Kaffee", "bg": "Кафе", "sr": "Kafa"},
+      "items": [
+        {"id": "coffee-01","name": {"ro": "Frappé","en": "Frappe","el": "Φραπέ","de": "Frappé","bg": "Фрапе","sr": "Frape"},"price": 4},
+        {"id": "coffee-02","name": {"ro": "Cafea grecească","en": "Greek coffee","el": "Ελληνικός","de": "Griechischer Kaffee","bg": "Гръцко кафе","sr": "Grčka kafa"},"price": 3},
+        {"id": "coffee-03","name": {"ro": "Espresso","en": "Espresso","el": "Εσπρέσο","de": "Espresso","bg": "Еспресо","sr": "Espreso"},"price": 3.5},
+        {"id": "coffee-04","name": {"ro": "Freddo Espresso","en": "Freddo Espresso","el": "Freddo Espresso","de": "Freddo Espresso","bg": "Фредо еспресо","sr": "Freddo espreso"},"price": 4},
+        {"id": "coffee-05","name": {"ro": "Freddo Cappuccino","en": "Freddo cappuccino","el": "Freddo cappuccino","de": "Freddo Cappuccino","bg": "Фредо капучино","sr": "Freddo kapućino"},"price": 4}
+      ]
+    },
+    {
+      "id": "dessert",
+      "name": {"ro": "Desert", "en": "Dessert", "el": "Επιδόρπιο", "de": "Dessert", "bg": "Десерт", "sr": "Desert"},
+      "items": [
+        {"id": "dessert-01","name": {"ro": "Iaurt cu miere și nuci","en": "Yogurt with honey and nuts","el": "Γιαούρτι με μέλι και καρύδια","de": "Joghurt mit Honig und Nüssen","bg": "Кисело мляко с мед и орехи","sr": "Jogurt sa medom i orasima"},"price": 5}
+      ]
+    }
+  ],
+  "editorial": {
+    "needsConfirmation": [
+      "date of photographed menu",
+      "current prices and currency",
+      "ongoing availability of each item",
+      "allergens and ingredient lists",
+      "menu publishing rights"
+    ],
+    "allergensConfirmed": false,
+    "usage": "draft_reference_for_ecosystem_and_future_website",
+    "publicationGate": "Confirm printed menu date, individual prices and current availability with the venue before allowing live menu prices on any public website."
+  },
+  "linkedPhotosAreNotItemVerification": true
+}

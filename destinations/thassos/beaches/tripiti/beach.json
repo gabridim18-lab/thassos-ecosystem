@@ -1,0 +1,368 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-tripiti",
+  "slug": "tripiti",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Τρυπητή",
+    "international_name": "Tripiti Beach",
+    "aliases": [
+      "Trypiti Beach",
+      "Tripiti",
+      "Trypiti",
+      "Paralia Trypiti",
+      "Παραλία Τρυπητή"
+    ],
+    "entity_scope": "Main Tripiti Beach southwest of Limenaria; natural rock opening known as Tripiti Cave is a related coastal landmark, not a second main beach.",
+    "deduplication_warning": "Tripiti Cave is a distinct nearby landform. Do not confuse the main beach with Trypiti beaches on Crete or Ios, or with the village/resort name Tripiti."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southwest",
+    "settlements": [
+      "Limenaria",
+      "Tripiti"
+    ],
+    "lat": 40.6235333,
+    "lng": 24.5429917,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tripiti%20Beach%20Thassos",
+    "coordinate_source_reference": "s_gtp",
+    "coordinate_type": "provisional_main_beach_reference_not_verified_access_point",
+    "coordinate_review_status": "Coordinates converted from GTP degrees/minutes/seconds. Google Maps destination search provided; exact Google Maps beach pin still requires user verification.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mixed_sand_and_fine_pebbles",
+    "seabed_near_shore": "sand_pebbles_and_rock_shelves",
+    "water_entry": "varies_by_section_slippery_rocks_in_places",
+    "nearshore_depth": "variable_some_sections_deepen_quickly",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "weather_and_wind_dependent",
+    "exposure": "open_southwest_coast_bay",
+    "natural_shade_on_sand": "limited_and_section_dependent",
+    "beach_length_m": null,
+    "length_note": "Several guides quote approximate lengths around 400–460 m; no single surveyed shoreline measurement independently verified.",
+    "backdrop": "Green coastal slopes, rocky headlands and views toward Limenaria",
+    "shoreline_type": "broad_sand_pebble_bay_with_nearby_rock_arch"
+  },
+  "visitor_experience": {
+    "organization": "mixed_organized_and_free",
+    "suitable_for": [
+      "couples",
+      "groups",
+      "swimming_with_conditions_check",
+      "photography",
+      "snorkeling_with_seabed_awareness",
+      "families_in_suitable_sections"
+    ],
+    "notable_for": [
+      "sea_carved_rock_opening",
+      "sand_and_pebbles",
+      "rocky_seabed_in_places",
+      "clear_water",
+      "near_limenaria"
+    ],
+    "activities_possible": [
+      "swimming",
+      "photography",
+      "snorkeling_where_conditions_allow",
+      "beach_volleyball_seasonal"
+    ],
+    "estimated_crowd_peak": "popular_in_high_season",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Smooth stone slabs may be slippery, and depth changes across sections. Do not assume swimming through Tripiti Cave is safe; waves and currents can make the passage hazardous."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Facilities may belong to nearby seasonal operators or accommodations."
+    },
+    "showers": {
+      "available_in_some_sections": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "Coverage not independently confirmed for current season.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Accessible route and beach equipment not independently confirmed.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Facilities and services can vary by specific section, seasonal operator and date; none are guaranteed across the entire beach."
+  },
+  "access_and_cost": {
+    "road_access": "access_via_local_downhill_road_from_main_coastal_route",
+    "public_transport": "regional_buses_serve_limenaria_area;_stop_for_beach_not_verified",
+    "parking_type": "nearby_local_parking_areas",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Fees, minimum consumption and availability vary by beach operator and season; confirm before use.",
+    "best_arrival_advice": "Arrive earlier in peak summer to allow time for parking and choosing a section with safe sea entry.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Travel distance depends on origin and chosen beach access point; values from guides vary."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not store live weather, sea temperature, UV, wave height or availability as static beach facts."
+  },
+  "translations": {
+    "ro": {
+      "name": "Tripiti Beach (Trypiti)",
+      "tagline": "Un golf cu nisip și pietricele, ape limpezi și o stâncă străpunsă de mare",
+      "summary": "Situată pe coasta sud-vestică a insulei Thassos, la vest de Limenaria, Tripiti atrage prin plaja sa întinsă și prin deschiderea naturală din stâncă, aflată la unul dintre capetele golfului. Sunt disponibile sectoare amenajate și spații pentru propriul echipament.",
+      "description": "Tripiti Beach, numită și Trypiti, este una dintre plajele cu un caracter aparte din sud-vestul insulei Thassos. Golful se află la vest de Limenaria, între versanți cu vegetație și ape de un albastru intens. Pe mal se întâlnesc nisipul și pietricelele, iar în unele sectoare fundul mării are plăci de piatră netede, care pot deveni alunecoase. Intrarea în apă și adâncimea nu sunt uniforme: anumite porțiuni au acces mai comod, dar în altele apa se adâncește mai repede. Elementul distinctiv al locului este formațiunea stâncoasă perforată de eroziunea mării, cunoscută ca Tripiti Cave, lângă care se află o mică zonă de golf. Aceasta este un obiectiv potrivit pentru admirat și fotografiat de pe uscat; trecerea înot prin deschiderea stâncoasă poate fi periculoasă din cauza valurilor, curenților și pietrelor. Plaja dispune în sezon de zone cu șezlonguri, umbrele și opțiuni pentru mâncare sau băuturi, alături de spații neamenajate. Pentru snorkeling și înot, alege sectorul în funcție de condițiile reale ale mării și de pietrele de sub apă. Tripiti este o alegere interesantă pentru cei care caută atât o zi la plajă, cât și un peisaj natural ușor de recunoscut.",
+      "practical_tips": "Verifică fundul mării înainte să intri: în unele locuri sunt plăci de piatră alunecoase, iar apa se poate adânci rapid. Papucii de apă pot fi utili. Familiile cu copii ar trebui să aleagă cu atenție sectorul mai nisipos și să supravegheze permanent înotul. Nu traversa înot deschiderea stâncoasă în condiții de valuri sau curenți; cel mai sigur este să o admiri de pe uscat. În vârf de sezon, vino mai devreme pentru parcare și loc pe plajă. Prețurile șezlongurilor și programul operatorilor se confirmă la fața locului.",
+      "highlights": [
+        "Formațiune stâncoasă cu deschidere naturală spre mare",
+        "Golf întins cu nisip și pietricele",
+        "Apă adesea limpede și peisaj stâncos",
+        "Zone amenajate și spații libere",
+        "Aproape de Limenaria"
+      ],
+      "seo_title": "Tripiti Beach Thassos – peștera, acces și facilități",
+      "seo_description": "Descoperă Tripiti Beach, lângă Limenaria în Thassos: plaja cu nisip și pietricele, formațiunea Tripiti Cave, acces, facilități și sfaturi pentru înot.",
+      "social_caption": "🏖️ Tripiti Beach, Thassos — o plajă cu nisip și pietricele, apă limpede și o stâncă spectaculoasă străpunsă de mare. 🌊 Un loc de trecut pe lista de explorat din apropierea Limenariei! 🇬🇷 #Thassos #TripitiBeach #ExploreGreece",
+      "photo_alt": "Vedere asupra plajei Tripiti și a stâncilor de pe coasta sud-vestică a insulei Thassos."
+    },
+    "en": {
+      "name": "Tripiti Beach (Trypiti)",
+      "tagline": "A sandy-pebble bay, clear water and a dramatic sea-carved rock opening",
+      "summary": "On the southwestern coast of Thassos, west of Limenaria, Tripiti combines a broad beach with a striking natural opening through coastal rock. Visitors can choose between serviced stretches and areas for their own beach gear.",
+      "description": "Tripiti Beach, also written Trypiti, is a distinctive coastal spot on the southwestern side of Thassos, west of Limenaria. The broad bay is framed by slopes with greenery and open views of the Aegean. Sand and small pebbles share the shoreline, while some parts of the seabed contain smooth rock shelves that can be slippery. Sea entry and depth vary along the beach: certain sections offer a more comfortable approach, whereas others become deeper after a short distance. The feature that gives Tripiti its character is a sea-carved opening through the rock, often called Tripiti Cave, beside a small sheltered-looking inlet. It is a memorable sight to admire and photograph from land. Swimming through the opening should not be assumed safe, as rocks, waves and currents can make it hazardous. In season, parts of the main beach offer sunbeds, umbrellas and nearby food and drink, with other stretches left open for visitors bringing their own equipment. If swimming or snorkeling is your priority, take time to check the seabed and actual sea conditions before choosing your spot. Tripiti appeals to travelers who enjoy a beach day with an unusual natural landmark close by.",
+      "practical_tips": "Check the seabed before entering the water: slippery rock shelves occur in places and depth can change quickly. Water shoes may help. Families should choose a suitable sandier section and supervise children closely. Do not attempt to swim through the rock opening when waves or currents are present; viewing it from land is the safer choice. Arrive earlier in busy summer weeks if you want an easier parking search and more choice of space. Lounger prices and operator opening times vary and should be checked locally.",
+      "highlights": [
+        "Natural sea-carved opening through coastal rock",
+        "Wide stretch of sand and pebbles",
+        "Usually clear sea and rugged scenery",
+        "Serviced sections and open space",
+        "Convenient for visitors staying near Limenaria"
+      ],
+      "seo_title": "Tripiti Beach Thassos – rock cave, access and facilities",
+      "seo_description": "Explore Tripiti Beach near Limenaria, Thassos: sand and pebbles, the rock opening known as Tripiti Cave, amenities, access and practical swimming tips.",
+      "social_caption": "🏖️ Tripiti Beach, Thassos: a broad sandy-pebble shoreline, clear blue water and an extraordinary opening carved through coastal rock. 🌊 Add this Limenaria-area gem to your island plans! 🇬🇷 #Thassos #TripitiBeach #GreekIslands",
+      "photo_alt": "View of Tripiti Beach and its rocky headlands on the southwest coast of Thassos."
+    },
+    "el": {
+      "name": "Παραλία Τρυπητή (Tripiti)",
+      "tagline": "Αμμουδιά με βότσαλα, καθαρά νερά και ένα εντυπωσιακό άνοιγμα στον βράχο",
+      "summary": "Στη νοτιοδυτική ακτή της Θάσου, δυτικά των Λιμεναρίων, η Τρυπητή συνδυάζει μια ευρύχωρη παραλία με ένα χαρακτηριστικό φυσικό άνοιγμα στα παράκτια βράχια. Υπάρχουν οργανωμένα τμήματα αλλά και ελεύθερος χώρος.",
+      "description": "Η παραλία Τρυπητή βρίσκεται στη νοτιοδυτική Θάσο, δυτικά των Λιμεναρίων, και ξεχωρίζει για το τοπίο της. Ο μεγάλος κόλπος περιβάλλεται από πλαγιές με βλάστηση και ανοίγεται στο γαλάζιο του Αιγαίου. Στην ακτή συνυπάρχουν άμμος και μικρά βότσαλα, ενώ στον βυθό υπάρχουν κατά τόπους λείες πέτρινες πλάκες που μπορεί να γλιστρούν. Η είσοδος στη θάλασσα και το βάθος διαφέρουν από σημείο σε σημείο: ορισμένα τμήματα είναι πιο άνετα, ενώ αλλού το νερό βαθαίνει σχετικά γρήγορα. Το πιο χαρακτηριστικό στοιχείο είναι το φυσικό άνοιγμα που έχει δημιουργήσει η θάλασσα μέσα στον βράχο, γνωστό ως σπηλιά της Τρυπητής, δίπλα σε έναν μικρό όρμο. Αξίζει να το θαυμάσετε και να το φωτογραφίσετε από τη στεριά. Η κολύμβηση μέσα από το άνοιγμα δεν πρέπει να θεωρείται ασφαλής, καθώς τα βράχια, τα κύματα και τα ρεύματα μπορεί να είναι επικίνδυνα. Κατά την τουριστική περίοδο υπάρχουν οργανωμένα σημεία με ξαπλώστρες, ομπρέλες και επιλογές για φαγητό ή ποτό, καθώς και ελεύθερα τμήματα. Πριν κολυμπήσετε ή κάνετε μάσκα, ελέγξτε τον βυθό και τις πραγματικές συνθήκες της θάλασσας. Η Τρυπητή συνδυάζει την παραθαλάσσια ξεκούραση με ένα ιδιαίτερο φυσικό αξιοθέατο.",
+      "practical_tips": "Ελέγξτε τον βυθό πριν μπείτε στο νερό, καθώς υπάρχουν ολισθηρές πέτρινες πλάκες και το βάθος μπορεί να αλλάζει γρήγορα. Παπούτσια θαλάσσης μπορεί να φανούν χρήσιμα. Οι οικογένειες καλό είναι να επιλέγουν προσεκτικά τα πιο αμμώδη σημεία και να επιβλέπουν συνεχώς τα παιδιά. Μην επιχειρείτε να περάσετε κολυμπώντας μέσα από το βραχώδες άνοιγμα όταν υπάρχουν κύματα ή ρεύματα. Το καλοκαίρι προτιμήστε την πρωινή άφιξη. Τιμές για ξαπλώστρες και ωράρια επιχειρήσεων επιβεβαιώνονται επιτόπου.",
+      "highlights": [
+        "Φυσικό άνοιγμα στον παραθαλάσσιο βράχο",
+        "Μεγάλη ακτή με άμμο και βότσαλα",
+        "Συνήθως καθαρά νερά και βραχώδες τοπίο",
+        "Οργανωμένα και ελεύθερα τμήματα",
+        "Κοντά στα Λιμενάρια"
+      ],
+      "seo_title": "Παραλία Τρυπητή Θάσος – σπηλιά, πρόσβαση και παροχές",
+      "seo_description": "Ανακαλύψτε την Τρυπητή κοντά στα Λιμενάρια της Θάσου: άμμο, βότσαλα, φυσικό άνοιγμα στα βράχια, πρόσβαση, παροχές και συμβουλές για κολύμπι.",
+      "social_caption": "🏖️ Τρυπητή, Θάσος: άμμος, βότσαλα, καθαρά νερά και ένα εντυπωσιακό άνοιγμα που έχει σμιλέψει η θάλασσα στον βράχο. 🌊 Μια ξεχωριστή στάση κοντά στα Λιμενάρια! 🇬🇷 #Θάσος #Τρυπητή #Ελλάδα",
+      "photo_alt": "Άποψη της παραλίας Τρυπητής και των βραχωδών ακτών στη νοτιοδυτική Θάσο."
+    },
+    "de": {
+      "name": "Tripiti Beach (Trypiti)",
+      "tagline": "Sand, Kieselsteine, klares Meer und ein Felsdurchbruch an der Küste",
+      "summary": "Westlich von Limenaria an der Südwestküste von Thassos verbindet Tripiti einen breiten Strand mit einer auffälligen natürlichen Öffnung im Küstenfelsen. Es gibt bewirtschaftete Strandbereiche und freie Abschnitte.",
+      "description": "Tripiti Beach, auch Trypiti genannt, liegt an der Südwestküste von Thassos westlich von Limenaria. Die weitläufige Bucht wird von begrünten Hängen eingerahmt und bietet freie Blicke auf die Ägäis. Am Ufer wechseln sich Sand und kleine Kieselsteine ab. Unter Wasser befinden sich stellenweise glatte Felsplatten, die rutschig sein können. Der Einstieg und die Wassertiefe unterscheiden sich je nach Strandabschnitt: Manche Stellen sind angenehm zugänglich, andere fallen nach wenigen Metern stärker ab. Besonders charakteristisch ist die vom Meer geschaffene Öffnung im Felsen, die als Tripiti-Höhle bekannt ist und an einer kleinen Nebenbucht liegt. Diese natürliche Formation lässt sich am besten von Land aus betrachten und fotografieren. Das Durchschwimmen der Öffnung ist nicht grundsätzlich sicher, denn Felsen, Wellen und Strömungen können gefährlich werden. Während der Saison stehen in einigen Abschnitten Liegen, Sonnenschirme sowie Speisen und Getränke zur Verfügung; andere Bereiche eignen sich für die eigene Strandausrüstung. Wer schwimmen oder schnorcheln möchte, sollte zunächst den Meeresboden und die aktuellen Bedingungen prüfen. Tripiti ist ideal für alle, die einen Strandbesuch mit einem außergewöhnlichen Naturmotiv verbinden möchten.",
+      "practical_tips": "Vor dem Baden den Untergrund prüfen: Es gibt glatte Felsplatten, und das Wasser kann rasch tiefer werden. Badeschuhe sind stellenweise hilfreich. Familien sollten einen geeigneten sandigeren Abschnitt wählen und Kinder stets beaufsichtigen. Bei Wellen oder Strömungen nicht durch den Felsdurchbruch schwimmen; die Besichtigung vom Land ist sicherer. In der Hochsaison möglichst früh kommen. Liegenpreise und Öffnungszeiten der Anbieter vor Ort prüfen.",
+      "highlights": [
+        "Natürlicher Felsdurchbruch am Meer",
+        "Breiter Strand mit Sand und Kieseln",
+        "Oft klares Wasser und markante Felsen",
+        "Bewirtschaftete und freie Bereiche",
+        "Nahe Limenaria"
+      ],
+      "seo_title": "Tripiti Beach Thassos – Felsenhöhle, Anfahrt und Ausstattung",
+      "seo_description": "Tripiti Beach bei Limenaria auf Thassos entdecken: Sand und Kiesel, natürlicher Felsdurchbruch, Zugang, Ausstattung und Badetipps.",
+      "social_caption": "🏖️ Tripiti Beach auf Thassos: Sand, Kiesel, klares Meer und ein beeindruckender Felsdurchbruch an der Küste. 🌊 Ein besonderer Ort westlich von Limenaria! 🇬🇷 #Thassos #TripitiBeach #Griechenland",
+      "photo_alt": "Blick auf Tripiti Beach und die felsige Küste im Südwesten von Thassos."
+    },
+    "bg": {
+      "name": "Трипити Бийч (Трипити)",
+      "tagline": "Пясък, дребни камъчета, чиста вода и впечатляващ скален отвор",
+      "summary": "На югозападния бряг на Тасос, западно от Лименария, Трипити съчетава просторен плаж с естествен отвор в крайбрежните скали. Има организирани участъци и свободни места за собствена плажна екипировка.",
+      "description": "Плажът Трипити се намира на югозападния бряг на остров Тасос, западно от Лименария, и впечатлява с необичайния си пейзаж. Широкият залив е обграден от зелени склонове и гледки към Егейско море. По брега има пясък и дребни камъчета, а на места по морското дъно се срещат гладки скални плочи, които могат да бъдат хлъзгави. Навлизането във водата и дълбочината се различават според участъка: някои места са по-удобни, докато на други морето става по-дълбоко сравнително бързо. Най-отличителната особеност е естественият отвор, издълбан от морето в скалата, известен като пещерата Трипити, до малък залив. Най-добре е да му се насладите и да го снимате от сушата. Плуването през отвора не бива да се приема за безопасно, тъй като скалите, вълните и теченията могат да бъдат опасни. През сезона на части от основния плаж има шезлонги, чадъри и места за храна или напитки, както и свободни зони. Преди плуване или шнорхелинг проверете дъното и актуалните морски условия. Трипити е подходящ избор за посетители, които търсят плажна почивка и впечатляваща природна забележителност на едно място.",
+      "practical_tips": "Проверете дъното преди влизане във водата: на места има хлъзгави скални плочи и дълбочината може да се увеличава бързо. Обувки за вода може да са полезни. Семействата трябва да избират внимателно по-пясъчните зони и да наблюдават децата непрекъснато. Не плувайте през скалния отвор при вълни или течения. През натоварените летни седмици пристигайте по-рано. Цените на шезлонгите и работното време се проверяват на място.",
+      "highlights": [
+        "Естествен отвор в крайбрежната скала",
+        "Просторен бряг с пясък и камъчета",
+        "Обикновено чиста вода и скалист пейзаж",
+        "Организирани и свободни зони",
+        "Близо до Лименария"
+      ],
+      "seo_title": "Трипити, Тасос – скална пещера, достъп и удобства",
+      "seo_description": "Открийте плажа Трипити край Лименария, Тасос: пясък, камъчета, естествен скален отвор, удобства и полезни съвети за плуване.",
+      "social_caption": "🏖️ Трипити, Тасос: просторен плаж с пясък и камъчета, чисто синьо море и скала с удивителен естествен отвор. 🌊 Добавете го към маршрута си край Лименария! 🇬🇷 #Тасос #TripitiBeach #Гърция",
+      "photo_alt": "Изглед към плажа Трипити и скалистите носове на югозападния бряг на Тасос."
+    },
+    "sr": {
+      "name": "Tripiti Beach (Tripiti)",
+      "tagline": "Pesak, sitni obluci, bistra voda i neobičan otvor u steni",
+      "summary": "Na jugozapadnoj obali Tasosa, zapadno od Limenarije, Tripiti spaja široku plažu sa prirodnim prolazom u priobalnoj steni. Posetioci mogu birati između uređenih delova i slobodnog prostora za sopstvenu opremu.",
+      "description": "Plaža Tripiti nalazi se na jugozapadnoj obali Tasosa, zapadno od Limenarije, i prepoznatljiva je po neobičnom pejzažu. Široki zaliv okružuju padine sa zelenilom i otvoren pogled na Egejsko more. Na obali se smenjuju pesak i sitni obluci, dok na pojedinim mestima u vodi postoje glatke kamene ploče koje mogu biti klizave. Ulazak u more i dubina razlikuju se po delovima plaže: neka mesta su pogodnija za ulazak, dok se na drugima voda brže produbljuje. Najpoznatiji prizor je prirodni otvor koji je more oblikovalo u steni, poznat kao pećina Tripiti, pored male uvale. Najbezbednije ga je razgledati i fotografisati sa kopna. Plivanje kroz stenski otvor ne treba smatrati sigurnim, jer talasi, struje i stene mogu predstavljati opasnost. Tokom sezone na delovima glavne plaže postoje ležaljke, suncobrani i mesta za hranu i piće, kao i slobodne površine. Ako planirate kupanje ili ronjenje s maskom, prvo proverite morsko dno i trenutne uslove. Tripiti je dobar izbor za one koji žele dan na plaži uz zanimljivu prirodnu znamenitost.",
+      "practical_tips": "Pre ulaska u more proverite dno: ponegde postoje klizave kamene ploče i voda može brzo postati dublja. Obuća za vodu može biti korisna. Porodice treba da izaberu pogodniji peščaniji deo i stalno nadgledaju decu. Ne pokušavajte da plivate kroz otvor u steni kada ima talasa ili struja. U špicu leta dođite ranije zbog parkinga i izbora mesta. Cene ležaljki i radno vreme proverite na licu mesta.",
+      "highlights": [
+        "Prirodni otvor u steni pored mora",
+        "Široka plaža sa peskom i oblucima",
+        "Uglavnom bistra voda i upečatljive stene",
+        "Uređeni i slobodni delovi",
+        "Blizu Limenarije"
+      ],
+      "seo_title": "Tripiti Beach Tasos – pećina, prilaz i sadržaji",
+      "seo_description": "Otkrijte plažu Tripiti kod Limenarije na Tasosu: pesak, obluci, prirodni otvor u steni, sadržaji i saveti za bezbedno kupanje.",
+      "social_caption": "🏖️ Tripiti Beach, Tasos: pesak i obluci, bistro plavo more i stena sa neverovatnim prirodnim otvorom. 🌊 Upišite ovu plažu u plan obilaska Limenarije! 🇬🇷 #Tasos #TripitiBeach #Grcka",
+      "photo_alt": "Pogled na plažu Tripiti i stenovitu obalu jugozapadnog Tasosa."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/tripiti/images/tripiti1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/tripiti/images/tripiti2.webp",
+      "destinations/thassos/beaches/tripiti/images/tripiti3.webp",
+      "destinations/thassos/beaches/tripiti/images/tripiti4.webp",
+      "destinations/thassos/beaches/tripiti/images/tripiti5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/tripiti/images/",
+    "suggested_asset_names": [
+      "tripiti1.webp",
+      "tripiti2.webp",
+      "tripiti3.webp",
+      "tripiti4.webp",
+      "tripiti5.webp"
+    ],
+    "image_policy": "Five user-supplied local WebP filenames have been assigned as cover and gallery based on a screenshot of the tripiti/images folder. Before commercial publication, verify that every photograph depicts Tripiti Beach on Thassos (not another Trypiti or a neighbouring cove), and confirm provenance, ownership or suitable commercial rights, redistribution rights and required attribution. The underlying WebP assets have not been independently inspected or included in this JSON.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_gtp",
+      "kind": "travel_geography_directory",
+      "title": "Greek Travel Pages — Tripiti Beach, Thassos",
+      "url": "https://www.gtp.gr/LocPage.asp?id=72618&lng=2",
+      "detail": "Places Tripiti southwest of Limenaria; map coordinates in DMS used as provisional reference only, not a verified Google Maps beach entrance.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_facilities",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Trypiti Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/trypiti-beach",
+      "detail": "Lists beach-type mix, WC, showers, parking, food and drink, sunbeds and umbrellas; availability depends on season and operator.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_story",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Trypiti",
+      "url": "https://www.go-thassos.gr/about-thassos/places/trypiti",
+      "detail": "Explains origin of the name, natural rock opening, setting west of Limenaria and nearby visitor services.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_local_profile",
+      "kind": "local_tourism_guide",
+      "title": "Smaragdi Thasos — Tripiti",
+      "url": "https://www.smaragdi-thasos.gr/index.php/en/reservation/root/thasos/beaches/tripiti-beach",
+      "detail": "Reports sand/pebble beach with sections of slippery rock slabs and variable entry/depth, seasonal beach bars, tavernas and umbrellas; published dimensions/distance not used as settled facts due to inconsistent sources.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "tourism_guide",
+      "title": "Nikana — Trypiti Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1899/trypiti-beach?category=General+Information",
+      "detail": "Describes pebble shoreline and rock shelves, variation between beach sections and activities. Historic price information intentionally omitted.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover",
+      "kind": "tourism_guide",
+      "title": "Discover Thassos — Tripiti Beach",
+      "url": "https://www.discover-thassos.com/listing/tripiti-beach-thassos/",
+      "detail": "Names rock passage, southwest Thassos location and beach services; promotional claims not treated as safety guarantees.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_cave",
+      "kind": "media_category",
+      "title": "Wikimedia Commons — Tripiti Cave",
+      "url": "https://commons.wikimedia.org/wiki/Category:Tripiti_Cave",
+      "detail": "Media category for rock opening near beach; check individual file licenses.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_beach",
+      "kind": "media_category",
+      "title": "Wikimedia Commons — Tripiti Beach (Thasos)",
+      "url": "https://commons.wikimedia.org/wiki/Category:Tripiti_Beach_(Thasos)",
+      "detail": "Contains beach photo; distinguish from Tripiti Beach on Crete and Ios.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_cave_position",
+      "kind": "independent_gps_reference",
+      "title": "Grupa Biwakowa — Trypiti Cave",
+      "url": "https://grupabiwakowa.pl/trypiti-cave",
+      "detail": "Cave-specific coordinates 40.622580, 24.539520 show it is a distinct point from the main beach; not used for routing to the beach.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Verify Google Maps beach pin independently; currently provisional coordinates from GTP",
+      "Verify that tripiti1.webp–tripiti5.webp depict Tripiti Beach on Thassos, and confirm ownership, licenses, commercial/transfer rights and any required photographer credits before publication.",
+      "Verify current seasonal operator facilities, parking arrangements and beach entry rules",
+      "Check swimmer safety and exact rock passage conditions on site; never encourage unsafe cave passage",
+      "Native-speaker review before publishing six-language text"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text supplied; five local WebP paths have been assigned, but image ownership, commercial use, redistribution and transferable rights have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP filenames were transcribed from the user-provided folder screenshot. This JSON only references image paths; no image files are embedded, and their exact depicted location or use rights have not been independently verified."
+  }
+}

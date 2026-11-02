@@ -1,0 +1,10 @@
+FOTOGRAFIILE ORIGINALE WEBP — 23 FIȘIERE
+
+Acest folder trebuie să conțină cele 23 fotografii originale cu numele exacte din accommodation.json.
+Fotografiile sunt deja în repository-ul GitHub al website-ului Thassos Treasure Guesthouse.
+Arhiva actuală NU include fotografiile (acestea nu au putut fi transferate ca bytes în sesiunea de lucru).
+
+Pentru a le aduce în acest folder: deschide completare_imagini.cmd (Windows).
+Acesta încearcă întâi arhiva locală Thassos_Treasure_Website_V1.zip, dacă o pui lângă fișierul .cmd.
+Dacă nu o găsește, descarcă repository-ul GitHub și copiază fotografiile din assets/images.
+Nu redenumește fotografiile, nu inventează fotografii, nu modifică imaginile.

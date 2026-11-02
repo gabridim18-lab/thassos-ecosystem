@@ -1,0 +1,451 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-potamia",
+  "slug": "potamia",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Ποταμιά",
+    "international_name": "Potamia",
+    "aliases": [
+      "Ποταμιά",
+      "Ποταμιά Θάσου",
+      "Potamia",
+      "Potamia Thassos",
+      "Potamiá",
+      "Potamia Thasos"
+    ],
+    "area_type": "traditional_inland_village",
+    "entity_scope": "The inhabited mountain village of Potamia, at the northeastern foot of Mt Ipsarion on Thassos, including its village streets, square, Polygnotos Vagis Sculpture Museum, religious heritage, streams and traditional village landscape. This is NOT the coastal holiday resort Skala Potamia / Skala Potamias. Golden Beach is a separate coastal beach record.",
+    "deduplication_warning": "Potamia inland village: OpenStreetMap village node 280965218 (40.71617 N, 24.72833 E). Do not confuse with Skala Potamia (Skala Potamias), the separate coastal area approximately 3 km east, or with Potamia villages on mainland Greece. Skala Potamia and Chrysi Ammoudia share the single existing beach ID gr-thassos-beach-golden; do not create a new Potamia beach. Polygnotos Vagis Sculpture Museum is IN the village of Potamia; Tarsanas cultural venue is in Skala Potamia.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": false,
+    "coast": null,
+    "part_of_island": "northeastern_inland_foothills_of_mount_ipsarion",
+    "center": {
+      "lat": 40.71617,
+      "lng": 24.72833,
+      "coordinate_role": "OSM_place_village_node_280965218_settlement_reference_not_vehicle_arrival_or_parking",
+      "coordinate_source": "Mapcarta / OpenStreetMap node 280965218, place=village",
+      "coordinate_source_url": "https://mapcarta.com/13814670",
+      "verification_status": "OSM_village_reference_crosschecked_with_Greek_tourism_sources_arrival_unverified",
+      "verified_on": "2026-10-28"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "Traditional inhabited mountain village on a green northeastern slope below Mt Ipsarion (1,204 m per Discover Greece), about 3 km by road inland from coastal Skala Potamia according to official island tourism sources. The OSM village point is located at about 126 m elevation, not a surveyed navigation arrival or parking location. More distant Panagia and Chrysi Ammoudia/Golden Beach are separate places. Several mainland Greek locations also bear the name Potamia; this area record is exclusively on Thassos island."
+  },
+  "overview": {
+    "settlement_character": "Year-round traditional hillside village amid streams, dense green vegetation, olive-growing landscape, small local streets and cafés/tavernas. Known for Polygnotos Vagis Sculpture Museum and as a gateway to Mt Ipsarion paths, contrasting with the summer beach resort of Skala Potamia.",
+    "tourism_profile": [
+      "traditional_inland_village",
+      "mountain_foothill_settlement",
+      "green_village",
+      "streams_and_springs",
+      "sculpture_museum",
+      "polygnotos_vagis_heritage",
+      "village_cafes_and_tavernas",
+      "local_honey",
+      "olive_growing_traditions",
+      "hiking_and_nature",
+      "mount_ipsarion_trails",
+      "old_potamia_to_panagia_footpath",
+      "photography",
+      "local_carnival",
+      "golden_beach_nearby_not_in_village"
+    ],
+    "best_time_to_visit": "Spring and autumn are especially suitable for enjoying the village greenery, flowing water, mild temperatures and walks. Summer offers a cooler-feeling change of scenery from the beach and access to local food; demanding mountain outings require early starts and good conditions. Winter weather and museum opening schedules should be checked.",
+    "peak_season_notes": "Visitor numbers and meal-service hours vary by season. Potamia carnival is a recurring local tradition, but its annual date, programme and access are subject to local confirmation. No fixed museum opening hours or event timetable are stored in this static area file."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "traditional_thassian_inland_settlement",
+      "streams_and_spring_water_shaping_village_identity",
+      "olive_farming_and_local_crafts",
+      "orthodox_church_heritage",
+      "agios_dimitrios_church_reported_19th_century",
+      "birthplace_of_sculptor_polygnotos_vagis",
+      "polygnotos_vagis_sculpture_museum_established_1981",
+      "old_school_adapted_as_art_museum",
+      "thassian_carnival_traditions",
+      "historic_routes_to_panagia_and_the_mountain"
+    ],
+    "local_traditions": [
+      "Potamia village Carnival celebrations (annual programme to be verified)",
+      "traditional olive cultivation and small-scale animal husbandry",
+      "local coffeehouse and tavern hospitality",
+      "Orthodox church celebrations on their local calendar",
+      "village hiking paths and local landscape knowledge"
+    ],
+    "local_food_specialties": [
+      "Thassian thyme honey",
+      "locally produced olive oil",
+      "grilled meats and seasonal tavern dishes",
+      "traditional Greek spoon sweets when available",
+      "local herbs and seasonal village produce"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "traditional_villages",
+      "art_and_sculpture",
+      "hiking_enthusiasts",
+      "culture_and_local_life",
+      "couples",
+      "photography",
+      "nature_lovers",
+      "half_day_excursions",
+      "families_preferring_short_village_walks"
+    ],
+    "experiences": [
+      "Explore Potamia on foot and observe its hillside streets, greenery, water channels and village life.",
+      "Discover the sculptures and artistic legacy of Polygnotos Vagis at his dedicated museum, after checking current visiting arrangements.",
+      "Enjoy coffee, a meal or locally made honey at an open village venue; seasonal availability varies.",
+      "See village churches from public areas and respect worship services.",
+      "Take short nature walks near streams where paths are open and conditions permit.",
+      "Plan a guided, properly equipped outing toward Mt Ipsarion; its summit route is an actual mountain hike, not a casual village stroll.",
+      "Combine an inland village visit with a separate trip to coastal Skala Potamia and Golden Beach.",
+      "Consider the historic footpath connecting Panagia and Potamia only after checking trail condition and navigation."
+    ],
+    "points_of_interest_summary": [
+      "Polygnotos Vagis Sculpture Museum in former village primary school",
+      "Traditional Potamia centre with cafés and local streets",
+      "Agios Dimitrios Church (reported by Discover Greece; interior access not guaranteed)",
+      "Mountain streams and green foothill landscape",
+      "Mount Ipsarion hiking routes and views (separate mountain activity)",
+      "Panagia–Potamia old walking connection",
+      "Skala Potamia and Golden Beach as nearby COASTAL excursions, not inside Potamia"
+    ],
+    "estimated_visit_duration": "About 1–3 hours for a village walk and museum if open; longer for a meal. Mountain trails require independent planning and significantly more time; the full Ipsarion out-and-back route is roughly 12.6 km and often 5–6 hours in suitable conditions according to Discover Greece.",
+    "family_suitability": "Suitable for a relaxed family visit to the village and, where accessible/open, a museum. Uneven/sloping lanes and traffic require supervision. The Ipsarion summit route is strenuous and should not be framed as a routine family walk.",
+    "mobility_considerations": "Hilly village streets, irregular surfaces and likely steps in traditional buildings. No verified step-free museum access, dedicated accessible parking or continuous wheelchair route; ask individual venues and check conditions locally.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "Potamia village is reached on the island road network from the Limenas/Panagia side or from the Skala Potamia coastal area. Roads rise inland and narrow locally; do not infer a vehicle arrival/parking point from the OSM settlement reference. Mountain routes and trailheads may have different access restrictions.",
+    "public_transport": "Potamia appears on published Limenas–Panagia–Potamia bus services. Crucially, the October 2026 operator-linked timetable warns that specified buses stop on the ring road OUTSIDE Potamia and do not enter the village, so visitors must confirm the current stop location before travel. Avoid using the old stop in the centre without current confirmation. Bus times, fares, frequency and seasonal routing must be checked with the current KTEL timetable; none are fixed in this record.",
+    "parking_overview": "An independently verified legal public parking spot, opening hours and capacity for the village were not established; follow signs and avoid obstructing residences or narrow lanes. A suggested parking location in hiking publications is not sufficient evidence for a validated GPS car-arrival field, which remains null.",
+    "pedestrian_access": "The village is best appreciated on foot. Expect rising and descending lanes, local vehicles, steps, uneven edges and possible wet sections near water channels. Longer trails require route-finding and suitable shoes.",
+    "accessibility_note": "No audit of wheelchair access to the art museum, church or footpaths was found. Check entrances, steps and available assistance directly; no barrier-free visitor route is guaranteed.",
+    "general_amenities": {
+      "supermarket": null,
+      "pharmacy": null,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": null,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "Use shoes with grip on steep or damp lanes. Watercourses can become slippery or change after rain; do not enter streambeds during storms. Mountain routes to Ipsarion are medium-to-hard hikes and require weather checks, water, navigation and adequate fitness; summer heat and wildfire restrictions may affect access. Do not promise potable spring water. Confirm museum opening and the correct ring-road bus stop on the actual travel date.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-skala-potamia",
+      "gr-thassos-area-panagia",
+      "gr-thassos-area-chrysi-ammoudia",
+      "gr-thassos-area-limenas"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-golden"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "Each beach, POI, accommodation and business uses its own verified area_id and geometry. Potamia village is inland; Skala Potamia is the separate coastal resort. Golden Beach is a nearby shared coastal beach with the existing catalog ID gr-thassos-beach-golden; it is not physically located in Potamia. Use no invented IDs for Polygnotos Vagis Museum, Agios Dimitrios Church, Panagia–Potamia footpath or Ipsarion routes until a corresponding record exists. Featured beaches are curated proximity links only.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "Potamia village has no ferry port. Ferry schedules are dynamic external route data, not static area facts. For buses use up-to-date KTEL information and verify whether the bus stops outside Potamia village on the ring road; October 2026 schedules are not an enduring promise."
+  },
+  "translations": {
+    "ro": {
+      "name": "Potamia",
+      "tagline": "Satul izvoarelor, al sculpturii și al muntelui Ipsarion",
+      "summary": "Potamia este un sat tradițional verde din nord-estul insulei Thassos, la poalele muntelui Ipsarion, cunoscut pentru izvoare, poteci, taverne și Muzeul de Sculptură Polygnotos Vagis.",
+      "description": "Potamia se ascunde printre dealurile împădurite din nord-estul insulei Thassos, acolo unde culmile muntelui Ipsarion coboară spre golful Golden Beach. Nu este o stațiune de plajă, ci un sat locuit tot anul, cu case răsfirate pe versant, străzi înguste, vegetație bogată și un ritm al vieții diferit de cel al litoralului. Numele său, legat de cuvântul grecesc pentru râuri, amintește de izvoarele și pâraiele alimentate de munte, mai ales în anotimpurile umede.\n\nO plimbare prin sat aduce în prim-plan grădinile, copacii înalți, micile curți și locurile unde localnicii se întâlnesc la cafea. Pentru cine vrea să descopere Thassos dincolo de mare, Potamia este o oprire firească: are o atmosferă tradițională, dar rămâne ușor de combinat cu o zi la Golden Beach. În centrul localității, cafenelele și tavernele pot oferi preparate grecești, produse locale și momente de liniște; oferta exactă depinde de sezon.\n\nCel mai important obiectiv cultural este Muzeul de Sculptură Polygnotos Vagis, dedicat artistului originar din Potamia care și-a construit cariera în Statele Unite. Muzeul funcționează într-o fostă școală a satului și reunește sculpturi și lucrări de pictură. Formele sale inspirate de lumea naturală, de figuri și de motive abstracte dau vizitei o identitate aparte. Programul și accesul trebuie confirmate înainte de plecare; nu sunt garantate vizite zilnice.\n\nSatul păstrează și viața comunitară în jurul bisericilor, al sărbătorilor religioase și al tradițiilor de carnaval. Biserica Agios Dimitrios este menționată între reperele istorice locale, dar accesul în interior și momentele de vizitare depind de programul parohial. Mierea de cimbru, uleiul de măsline și bucătăria tavernelor completează imaginea unui Thassos mai puțin grăbit.\n\nPentru iubitorii de natură, Potamia este un punct de plecare către potecile muntelui Ipsarion, cel mai înalt de pe insulă, și către vechea legătură pietonală cu Panagia. Traseul până pe vârf este o drumeție montană solicitantă, nu o plimbare obișnuită; vremea, orientarea, apa și pregătirea fizică sunt esențiale. Primăvara și toamna sunt perioade potrivite pentru plimbări, iar vara merită pornit devreme pentru a evita căldura.\n\nPotamia și Skala Potamia sunt două localități distincte. Prima se află pe versant și oferă cultură și natură, în timp ce a doua se întinde la mare, în zona sudică a plajei Golden Beach. Poți descoperi ambele într-o excursie, fără a confunda reperele GPS sau facilitățile unei așezări cu cele ale celeilalte.",
+      "history_culture": "Potamia este legată de apele care coboară de pe Ipsarion, de agricultură și de tradițiile comunității rurale thassiene. Aici s-a născut sculptorul Polygnotos Vagis, emigrat ulterior în Statele Unite; muzeul care îi poartă numele a fost deschis în 1981 în fosta școală. Colecția include sculpturi și picturi, iar viața locală păstrează tradiții religioase și sărbători de carnaval. Biserica Agios Dimitrios este amintită în ghidurile culturale ale insulei. Nu se vor afișa date de deschidere sau manifestări anuale fără verificare actuală.",
+      "local_character": "Un sat locuit, verde, cu case pe versant, mici locuri de întâlnire și o atmosferă locală autentică. Contrastul cu plaja animată din Skala Potamia este unul dintre farmecul excursiei.",
+      "what_to_do": "Vizitează Muzeul Polygnotos Vagis dacă este deschis, explorează străzile și centrul satului, gustă preparate locale și privește versanții Ipsarionului. Pentru drumeții, verifică traseele către munte ori spre Panagia; Golden Beach poate fi adăugată separat în aceeași zi.",
+      "practical_tips": "Satul are străzi în pantă și zone cu pavaj neregulat. Nu presupune că reperul GPS indică o parcare. Unele autobuze opresc pe șoseaua de centură, nu în centrul Potamiei; verifică stația și orarul curent. Programul muzeului și starea potecilor sunt variabile. Pentru Ipsarion ai nevoie de echipament, apă și vreme potrivită.",
+      "highlights": [
+        "Muzeul de Sculptură Polygnotos Vagis",
+        "Peisaj verde, izvoare și pâraie",
+        "Străduțe și taverne de sat",
+        "Poteci către muntele Ipsarion",
+        "Golden Beach, la o excursie separată"
+      ],
+      "seo_title": "Potamia, Thassos – sat tradițional, muzeul Vagis și Ipsarion",
+      "seo_description": "Descoperă Potamia din Thassos: muzeul Polygnotos Vagis, izvoare, taverne tradiționale, poteci spre Ipsarion și apropierea de Golden Beach.",
+      "social_caption": "Potamia 🌿 Arta lui Polygnotos Vagis, izvoare de munte și o altă față a insulei Thassos.",
+      "photo_alt": "Casele tradiționale din Potamia, între copaci și versanții împăduriți ai muntelui Ipsarion"
+    },
+    "en": {
+      "name": "Potamia",
+      "tagline": "Streams, sculpture and the foothills of Mount Ipsarion",
+      "summary": "Potamia is a green, traditional village in northeastern Thassos at the foot of Mount Ipsarion, known for its flowing streams, village atmosphere, walking trails and Polygnotos Vagis Sculpture Museum.",
+      "description": "Potamia lies in the green hills of northeastern Thassos, where the slopes of Mount Ipsarion descend towards the Golden Beach bay. It is not a beach resort but a lived-in inland village with hillside houses, winding lanes, lush vegetation and a pace that contrasts with the coast. Its name is associated with rivers and streams, recalling the mountain-fed water that is particularly noticeable in wetter months.\n\nWalking through Potamia means discovering gardens, leafy trees, village houses and unhurried places to sit over a coffee. For travellers who want a sense of Thassos beyond the shoreline, this is a natural stop. The village retains a local character while remaining close enough to combine with a visit to Golden Beach. Cafés and tavernas may serve traditional dishes and local produce, although exact opening periods and offerings change with the season.\n\nThe main cultural highlight is the Polygnotos Vagis Sculpture Museum, dedicated to a sculptor born in Potamia who later developed his career in the United States. Set in the former village school, the museum preserves sculptures and paintings. His work moves between natural subjects, human and animal forms and more abstract expression, adding an unexpected artistic dimension to a mountain-village visit. Check current opening arrangements before travelling; daily access should never be assumed.\n\nReligious celebrations, local customs and Carnival traditions are part of Potamia's identity. The church of Agios Dimitrios is mentioned in island cultural guides, though interior visiting hours depend on parish activities. Local olive oil, thyme honey and uncomplicated tavern cooking evoke a village shaped as much by its agriculture and community life as by tourism.\n\nPotamia also opens a door onto the mountain. Walking routes lead towards Mount Ipsarion, the island's highest summit, while an older footpath links Potamia and Panagia. A summit ascent is a genuine mountain hike, not a short sightseeing stroll: proper footwear, water, navigation, suitable weather and fitness matter. Spring and autumn are especially rewarding for greenery and walking; in summer it is wise to start early and avoid the strongest heat.\n\nKeep Potamia separate from Skala Potamia. The former is the inland village associated with the museum, mountain and springs; the latter is a distinct seaside settlement at the southern end of Golden Beach. The two work beautifully together as one excursion, provided their locations and facilities are not confused.",
+      "history_culture": "The village identity of Potamia has long been shaped by water descending from Ipsarion, agriculture and local crafts. Sculptor Polygnotos Vagis was born here and later emigrated to the United States; the museum devoted to his work opened in 1981 in the former village school. Its collection includes sculpture and painting. The village also retains religious practices and Carnival traditions. Agios Dimitrios Church appears in published cultural guides; exact access arrangements should always be checked locally.",
+      "local_character": "An inhabited, green mountain village rather than a purpose-built resort: hillside homes, village coffee stops and local life are the appeal. The contrast with bustling coastal Skala Potamia makes an enjoyable two-part day.",
+      "what_to_do": "Visit the Vagis Sculpture Museum when open, stroll through the village, enjoy a meal or coffee, and take in the Ipsarion foothills. Check the status of trails towards the mountain or Panagia, and add nearby Golden Beach as a separate coastal stop.",
+      "practical_tips": "Expect inclines, uneven surfaces and local traffic. The village GPS is not a verified parking or drop-off point. Some bus services use the ring road outside Potamia rather than village-centre stops; check the current timetable and stop. Museum hours and trail conditions change. An Ipsarion hike needs proper gear, water and favourable weather.",
+      "highlights": [
+        "Polygnotos Vagis Sculpture Museum",
+        "Lush hillside scenery and flowing streams",
+        "Traditional lanes, cafés and tavernas",
+        "Trail access towards Mount Ipsarion",
+        "Golden Beach as a nearby coastal excursion"
+      ],
+      "seo_title": "Potamia Thassos – Traditional Village, Vagis Museum & Ipsarion",
+      "seo_description": "Explore Potamia in Thassos: the Polygnotos Vagis Museum, leafy village lanes, mountain streams, Ipsarion hikes and nearby Golden Beach.",
+      "social_caption": "Potamia 🌿 Discover sculpture, mountain streams and the quieter, traditional side of Thassos.",
+      "photo_alt": "Traditional hillside houses of Potamia village framed by greenery and Mount Ipsarion, Thassos"
+    },
+    "el": {
+      "name": "Ποταμιά",
+      "tagline": "Νερά, γλυπτική και οι πρόποδες του Υψάριου",
+      "summary": "Η Ποταμιά είναι παραδοσιακό, καταπράσινο χωριό στη βορειοανατολική Θάσο, στους πρόποδες του Υψάριου, γνωστό για τα ρέματα, τις διαδρομές στη φύση και το Μουσείο Γλυπτικής Πολύγνωτου Βαγή.",
+      "description": "Η Ποταμιά βρίσκεται μέσα στο πράσινο της βορειοανατολικής Θάσου, εκεί όπου οι πλαγιές του Υψάριου κατεβαίνουν προς τον κόλπο της Χρυσής Αμμουδιάς. Δεν είναι παραθαλάσσιο θέρετρο, αλλά ένα ζωντανό ορεινό χωριό με σπίτια στην πλαγιά, στενά δρομάκια, πλούσια βλάστηση και ρυθμούς διαφορετικούς από εκείνους της ακτής. Το όνομά της συνδέεται με τα ποτάμια και τα ρέματα που κατεβαίνουν από το βουνό, ιδιαίτερα τους πιο υγρούς μήνες.\n\nΜια βόλτα στον οικισμό αποκαλύπτει αυλές, δέντρα, παλιά και νεότερα σπίτια και σημεία όπου η καθημερινότητα κυλά γύρω από έναν καφέ. Για τον επισκέπτη που θέλει να γνωρίσει τη Θάσο πέρα από τις παραλίες της, η Ποταμιά είναι μια ουσιαστική στάση. Οι ταβέρνες και τα καφενεία προσφέρουν, όταν λειτουργούν, τοπικές γεύσεις και φιλόξενη ατμόσφαιρα· η διαθεσιμότητα διαφέρει ανάλογα με την εποχή.\n\nΣημαντικότερο πολιτιστικό αξιοθέατο είναι το Μουσείο Γλυπτικής Πολύγνωτου Βαγή. Ο καλλιτέχνης καταγόταν από την Ποταμιά και ακολούθησε τη δημιουργική του πορεία στις Ηνωμένες Πολιτείες. Το μουσείο στεγάζεται στο παλιό σχολείο του χωριού και παρουσιάζει γλυπτά και ζωγραφικά έργα, με μορφές εμπνευσμένες από τη φύση, τον άνθρωπο και την αφαιρετική έκφραση. Το ωράριο πρέπει να επιβεβαιώνεται πριν από την επίσκεψη και δεν θεωρείται δεδομένο ότι ο χώρος λειτουργεί καθημερινά.\n\nΗ εκκλησιαστική ζωή, οι τοπικές γιορτές και τα αποκριάτικα έθιμα παραμένουν στοιχεία της ταυτότητας του χωριού. Ο ναός του Αγίου Δημητρίου αναφέρεται σε πολιτιστικούς οδηγούς της Θάσου, ωστόσο η πρόσβαση στο εσωτερικό εξαρτάται από το πρόγραμμα της ενορίας. Το θυμαρίσιο μέλι, το ελαιόλαδο και η απλή κουζίνα της ταβέρνας θυμίζουν τη στενή σχέση του τόπου με τη γη και τις παραδόσεις του.\n\nΗ Ποταμιά αποτελεί επίσης αφετηρία για εξερεύνηση του Υψάριου, της ψηλότερης κορυφής του νησιού, ενώ παλιό μονοπάτι τη συνδέει με την Παναγία. Η ανάβαση στην κορυφή είναι απαιτητική ορεινή πεζοπορία και όχι σύντομος περίπατος: χρειάζονται κατάλληλα παπούτσια, νερό, προσανατολισμός, φυσική κατάσταση και καλός καιρός. Η άνοιξη και το φθινόπωρο είναι εξαιρετικές εποχές για ήρεμους περιπάτους, ενώ το καλοκαίρι είναι προτιμότερο να ξεκινά κανείς νωρίς.\n\nΗ Ποταμιά δεν πρέπει να συγχέεται με τη Σκάλα Ποταμιάς. Το χωριό βρίσκεται στην ενδοχώρα και συνδέεται με το μουσείο, τα νερά και το βουνό· η Σκάλα Ποταμιάς είναι διαφορετικός παραθαλάσσιος οικισμός στο νότιο άκρο της Χρυσής Αμμουδιάς. Μπορούν να συνδυαστούν σε μία εκδρομή, αλλά αποτελούν ξεχωριστούς προορισμούς.",
+      "history_culture": "Η Ποταμιά διαμορφώθηκε από τα νερά του Υψάριου, τις αγροτικές δραστηριότητες και την τοπική παράδοση. Εδώ γεννήθηκε ο γλύπτης Πολύγνωτος Βαγής, ο οποίος μετανάστευσε αργότερα στις Ηνωμένες Πολιτείες. Το μουσείο του ιδρύθηκε το 1981 και στεγάζεται στο παλιό σχολείο, με έργα γλυπτικής και ζωγραφικής. Οι θρησκευτικές εορτές και τα αποκριάτικα έθιμα αποτελούν μέρος της πολιτιστικής ζωής. Ο ναός του Αγίου Δημητρίου αναφέρεται σε οδηγούς του νησιού· η πρόσβαση απαιτεί επιβεβαίωση.",
+      "local_character": "Καταπράσινο, κατοικημένο χωριό με σπίτια στην πλαγιά, αυλές και καθημερινές συναντήσεις στα καφενεία. Η ατμόσφαιρά του διαφέρει αισθητά από την παραθαλάσσια Σκάλα Ποταμιάς.",
+      "what_to_do": "Επισκεφθείτε το Μουσείο Βαγή, εφόσον λειτουργεί, περπατήστε στα δρομάκια, απολαύστε καφέ ή φαγητό και γνωρίστε τους πρόποδες του Υψάριου. Ελέγξτε τις διαδρομές προς το βουνό ή την Παναγία και συνδυάστε την εκδρομή με τη Χρυσή Αμμουδιά στην ακτή.",
+      "practical_tips": "Το χωριό έχει ανηφόρες και ανώμαλα σημεία. Οι συντεταγμένες του οικισμού δεν είναι επιβεβαιωμένο πάρκινγκ. Ορισμένα λεωφορεία σταματούν στον περιφερειακό δρόμο, έξω από το χωριό· ελέγξτε την τρέχουσα στάση. Επιβεβαιώστε το ωράριο του μουσείου και τις συνθήκες των μονοπατιών. Η ανάβαση στο Υψάριο απαιτεί προετοιμασία.",
+      "highlights": [
+        "Μουσείο Γλυπτικής Πολύγνωτου Βαγή",
+        "Καταπράσινες πλαγιές, πηγές και ρέματα",
+        "Παραδοσιακά σοκάκια και ταβέρνες",
+        "Μονοπάτια προς το Υψάριο",
+        "Χρυσή Αμμουδιά σε κοντινή παραθαλάσσια εκδρομή"
+      ],
+      "seo_title": "Ποταμιά Θάσου – Μουσείο Βαγή, χωριό και Υψάριο",
+      "seo_description": "Γνωρίστε την Ποταμιά στη Θάσο: Μουσείο Πολύγνωτου Βαγή, παραδοσιακά σοκάκια, ρέματα, πεζοπορία στο Υψάριο και Χρυσή Αμμουδιά.",
+      "social_caption": "Ποταμιά 🌿 Γλυπτική, τρεχούμενα νερά και η αυθεντική ορεινή Θάσος.",
+      "photo_alt": "Παραδοσιακά σπίτια της Ποταμιάς μέσα στο πράσινο και στις πλαγιές του Υψάριου"
+    },
+    "de": {
+      "name": "Potamia",
+      "tagline": "Quellen, Skulpturen und die Ausläufer des Ipsarion",
+      "summary": "Potamia ist ein grünes, traditionelles Bergdorf im Nordosten von Thassos am Fuß des Ipsarion. Bekannt ist es für Bäche, stille Gassen, Wanderwege und das Skulpturenmuseum Polygnotos Vagis.",
+      "description": "Potamia liegt im grünen Nordosten von Thassos, wo die Hänge des Ipsarion zum Golf der Golden Beach hin abfallen. Der Ort ist kein Badeferienort, sondern ein ganzjährig bewohntes Dorf mit Häusern am Hang, verwinkelten Gassen, üppiger Vegetation und einem anderen Rhythmus als an der Küste. Der Name verweist auf Flüsse und Bäche, die vor allem in den regenreicheren Monaten Wasser aus den Bergen führen.\n\nEin Spaziergang durch Potamia führt vorbei an Gärten, schattenspendenden Bäumen, alten und neueren Dorfhäusern und kleinen Treffpunkten für einen Kaffee. Wer Thassos abseits der Strände erleben möchte, findet hier einen besonders schönen Zwischenstopp. Tavernen und Cafés bieten, sofern geöffnet, regionale Gerichte und eine entspannte Atmosphäre. Öffnungszeiten und Angebot hängen von der Jahreszeit ab.\n\nDas wichtigste Kulturziel ist das Skulpturenmuseum Polygnotos Vagis. Der aus Potamia stammende Künstler setzte seine Laufbahn später in den Vereinigten Staaten fort. Das Museum befindet sich in der ehemaligen Dorfschule und zeigt Skulpturen und Gemälde, deren Motive von der Natur über menschliche und tierische Formen bis zur Abstraktion reichen. Die Besuchszeiten sollten im Voraus überprüft werden; ein täglicher Betrieb ist nicht garantiert.\n\nKirchliche Feste, lokale Bräuche und Karnevalstraditionen gehören zum Dorfleben. Die Kirche Agios Dimitrios wird in Kulturführern der Insel erwähnt, doch der Zugang zum Inneren richtet sich nach dem Gemeindeleben. Thymianhonig, Olivenöl und die schlichte Küche der Tavernen erzählen von der landwirtschaftlichen Vergangenheit und Gegenwart des Ortes.\n\nFür Naturfreunde ist Potamia ein Ausgangspunkt zu den Wegen des Ipsarion, der höchsten Erhebung der Insel. Ein alter Fußweg verbindet das Dorf zudem mit Panagia. Der Aufstieg zum Gipfel ist eine richtige Bergwanderung und kein kurzer Spaziergang: Trittsicherheit, ausreichend Wasser, Orientierung, Kondition und geeignetes Wetter sind notwendig. Frühling und Herbst eignen sich besonders für Touren; im Hochsommer empfiehlt sich ein früher Aufbruch.\n\nPotamia und Skala Potamia sind zwei verschiedene Orte. Potamia liegt landeinwärts und steht für Dorfkultur, Kunst und Berge. Skala Potamia ist der eigenständige Küstenort am südlichen Ende der Golden Beach. Beide lassen sich gut an einem Tag besuchen, sollten aber bei Anreise, Kartenpunkten und Infrastruktur nicht verwechselt werden.",
+      "history_culture": "Die Geschichte Potamias ist von den Wasserläufen des Ipsarion, Olivenanbau, Handwerk und ländlichen Traditionen geprägt. Der Bildhauer Polygnotos Vagis wurde hier geboren und wanderte später in die USA aus. Sein Museum wurde 1981 in der ehemaligen Dorfschule eingerichtet und zeigt Skulpturen sowie Gemälde. Auch kirchliche Feste und Karnevalsbräuche gehören zum kulturellen Leben. Die Kirche Agios Dimitrios wird in Inselreiseführern erwähnt; Besuchsmöglichkeiten sind vor Ort zu prüfen.",
+      "local_character": "Ein bewohntes, grünes Dorf mit Hanghäusern, schmalen Wegen, Cafés und alltäglichem Gemeinschaftsleben. Gerade der Gegensatz zum lebhaften Skala Potamia am Meer macht den Reiz aus.",
+      "what_to_do": "Besuchen Sie bei entsprechender Öffnung das Vagis-Museum, schlendern Sie durch den Ort und genießen Sie Kaffee oder lokale Küche. Informieren Sie sich über Wege zum Ipsarion oder nach Panagia und verbinden Sie den Ausflug mit einem separaten Besuch der Golden Beach.",
+      "practical_tips": "Rechnen Sie mit Steigungen, unebenen Wegen und örtlichem Verkehr. Der GPS-Dorfpunkt ist kein bestätigter Parkplatz. Manche Busse halten außerhalb von Potamia an der Umgehungsstraße statt im Dorfzentrum; aktuelle Haltestellen und Fahrzeiten prüfen. Museumszeiten und Wegzustand variieren. Bergtouren benötigen Ausrüstung, Wasser und sicheres Wetter.",
+      "highlights": [
+        "Skulpturenmuseum Polygnotos Vagis",
+        "Grüne Berghänge, Quellen und Bäche",
+        "Traditionelle Gassen, Cafés und Tavernen",
+        "Wanderwege zum Berg Ipsarion",
+        "Golden Beach als nahe gelegener Küstenausflug"
+      ],
+      "seo_title": "Potamia auf Thassos – Vagis-Museum, Dorf & Ipsarion",
+      "seo_description": "Potamia auf Thassos entdecken: Skulpturenmuseum Vagis, grüne Dorfstraßen, Bergbäche, Ipsarion-Wanderungen und die nahe Golden Beach.",
+      "social_caption": "Potamia 🌿 Skulpturen, Bergbäche und das ursprüngliche Thassos abseits der Strände entdecken.",
+      "photo_alt": "Traditionelle Häuser von Potamia im Grünen unter den Hängen des Ipsarion auf Thassos"
+    },
+    "bg": {
+      "name": "Потамия",
+      "tagline": "Потоци, скулптура и склоновете на Ипсарион",
+      "summary": "Потамия е зелено традиционно село в североизточната част на Тасос, в подножието на планината Ипсарион, известно с потоците, пътеките, спокойния живот и Музея на скулптурата на Полигнотос Вагис.",
+      "description": "Потамия се намира сред зелените хълмове в североизточната част на остров Тасос, където склоновете на Ипсарион се спускат към залива на Golden Beach. Това не е морски курорт, а обитавано целогодишно село с къщи по склона, тесни улички, богата растителност и по-спокоен ритъм от крайбрежието. Името му е свързано с реките и потоците, които се спускат от планината, особено през влажните сезони.\n\nРазходката из селото минава покрай градини, високи дървета, традиционни дворове и малки места за кафе. Ако искате да опознаете Тасос отвъд плажовете, Потамия е чудесна спирка. Местните кафенета и таверни могат да предложат домашна храна и продукти от района, когато работят; точните възможности зависят от сезона.\n\nОсновната културна забележителност е Музеят на скулптурата на Полигнотос Вагис. Художникът и скулптор е роден в Потамия и по-късно развива кариера в Съединените щати. Музеят е разположен в някогашното училище на селото и съхранява скулптури и картини. Сред произведенията има мотиви от природата, човешки и животински фигури и абстрактни форми. Работното време трябва да се провери предварително; ежедневен достъп не е гарантиран.\n\nЦърковните празници, местните обичаи и карнавалните традиции са част от идентичността на селото. Църквата „Свети Димитър“ се споменава в културните пътеводители на острова, но посещението вътре зависи от църковната програма. Медът от мащерка, зехтинът и традиционната кухня допълват атмосферата на място, което съхранява връзката си със земята и хората.\n\nПотамия е изходна точка към пътеките на планината Ипсарион, най-високата на Тасос. Стара пешеходна пътека я свързва и с Паная. Изкачването до върха е истински планински преход, а не кратка разходка. Нужни са подходящи обувки, достатъчно вода, ориентация, физическа подготовка и добро време. Пролетта и есента са особено приятни за ходене, а през лятото е разумно да се тръгва рано.\n\nПотамия и Скала Потамия са различни населени места. Първото е вътрешно село, свързано с музея, реките и планината; второто е самостоятелен морски курорт в южния край на Golden Beach. Можете да ги съчетаете в един ден, без да смесвате техните местоположения и удобства.",
+      "history_culture": "Потамия е оформена от водите на Ипсарион, земеделието и местните занаяти. Тук е роден скулпторът Полигнотос Вагис, който по-късно емигрира в САЩ. Музеят, посветен на неговото творчество, е създаден през 1981 г. в бившето училище и показва скулптури и живопис. Религиозните празници и карнавалните обичаи също са част от живота на селото. Църквата „Свети Димитър“ е упомената в пътеводители, но достъпът трябва да се провери.",
+      "local_character": "Зелено обитаемо село с къщи по склоновете, градини, кафенета и спокойни срещи между местните хора. Атмосферата е различна от оживеното крайбрежие на Скала Потамия.",
+      "what_to_do": "Разгледайте музея на Вагис, ако е отворен, разходете се по уличките и опитайте местна храна. Проверете състоянието на маршрутите към Ипсарион или Паная. Можете да съчетаете деня с отделно посещение на Golden Beach.",
+      "practical_tips": "Има стръмни улици и неравни настилки. Координатите на селото не показват проверен паркинг. Някои автобуси спират на околовръстния път извън Потамия, а не в центъра; проверете актуалната спирка и разписание. Работното време на музея и пътеките се променя. За Ипсарион са нужни подготовка и подходящо време.",
+      "highlights": [
+        "Музей на скулптурата на Полигнотос Вагис",
+        "Зелени склонове, извори и потоци",
+        "Традиционни улички и таверни",
+        "Пътеки към планината Ипсарион",
+        "Golden Beach като близка морска екскурзия"
+      ],
+      "seo_title": "Потамия, Тасос – музей Вагис, село и Ипсарион",
+      "seo_description": "Открийте Потамия на Тасос: музея на Полигнотос Вагис, зелени улици, планински потоци, пътеки към Ипсарион и Golden Beach.",
+      "social_caption": "Потамия 🌿 Изкуство, планински потоци и автентичният Тасос далеч от плажа.",
+      "photo_alt": "Традиционни къщи в Потамия сред зеленина и склоновете на Ипсарион, Тасос"
+    },
+    "sr": {
+      "name": "Potamija",
+      "tagline": "Potoci, skulptura i podnožje planine Ipsarion",
+      "summary": "Potamija je zeleno tradicionalno selo na severoistoku Tasosa, u podnožju Ipsariona, poznato po planinskim potocima, seoskim ulicama, pešačkim stazama i Muzeju skulpture Polignotosa Vagisa.",
+      "description": "Potamija se nalazi među zelenim brdima severoistočnog Tasosa, na padinama koje se od Ipsariona spuštaju prema zalivu Golden Beach. To nije primorsko letovalište, već selo u kome se živi tokom cele godine, sa kućama na obroncima, uskim ulicama, bogatim zelenilom i mirnijim ritmom nego na obali. Ime sela vezano je za reke i potoke koji se sa planine spuštaju naročito tokom vlažnijih meseci.\n\nŠetnja kroz Potamiju otkriva bašte, drveće, tradicionalne kuće i mesta na kojima se meštani okupljaju na kafi. Za one koji žele da upoznaju Tasos izvan plaža, ovo je lep i autentičan predah. Kafići i taverne, kada rade, nude lokalna jela i proizvode, ali radno vreme i izbor zavise od sezone.\n\nNajvažnija kulturna znamenitost je Muzej skulpture Polignotosa Vagisa. Umetnik je rođen u Potamiji, a kasnije je svoju karijeru gradio u Sjedinjenim Američkim Državama. Muzej se nalazi u zgradi nekadašnje seoske škole i čuva skulpture i slike. Njegova dela obuhvataju motive prirode, ljudske i životinjske figure i apstraktne oblike. Pre posete treba proveriti radno vreme; svakodnevno otvaranje nije zagarantovano.\n\nCrkvene proslave, lokalni običaji i karnevalska tradicija deo su identiteta sela. Crkva Svetog Dimitrija pominje se u kulturnim vodičima ostrva, ali ulazak u unutrašnjost zavisi od aktivnosti parohije. Med od majčine dušice, maslinovo ulje i jednostavna hrana lokalnih taverni čuvaju vezu između planinskog krajolika i seoskog života.\n\nPotamija je i polazna tačka za staze prema planini Ipsarion, najvišem vrhu Tasosa. Stari pešački put povezuje selo sa Panagijom. Uspon na vrh predstavlja zahtevnu planinarsku turu, a ne kratku šetnju: potrebni su dobra obuća, voda, snalaženje na stazi, kondicija i povoljno vreme. Proleće i jesen su posebno prijatni, dok leti treba krenuti rano zbog vrućine.\n\nNe treba mešati Potamiju i Skala Potamiju. Prvo je planinsko selo povezano sa muzejem, potocima i prirodom, dok je Skala Potamija zasebno primorsko naselje na južnom kraju plaže Golden Beach. Oba mesta mogu se obići istog dana, ali imaju odvojene lokacije i različite sadržaje.",
+      "history_culture": "Identitet Potamije oblikovali su voda sa Ipsariona, maslinarstvo i lokalne seoske tradicije. Tu je rođen vajar Polignotos Vagis, koji se kasnije preselio u SAD. Muzej posvećen njegovom stvaralaštvu otvoren je 1981. u nekadašnjoj školi i izlaže skulpture i slike. Verske proslave i karneval takođe su deo lokalnog života. Crkva Svetog Dimitrija pominje se u vodičima, a dostupnost posete treba proveriti.",
+      "local_character": "Zeleno i živo planinsko selo sa kućama na padini, dvorištima i tradicionalnim mestima za kafu. Znatno se razlikuje od užurbane obalne Skala Potamije.",
+      "what_to_do": "Posetite Vagisov muzej kada je otvoren, prošetajte selom, svratite u tavernu i uživajte u pogledima na Ipsarion. Proverite stanje staza prema planini i Panagiji, a Golden Beach uključite kao zasebnu obalnu stanicu.",
+      "practical_tips": "Očekujte uspone i neravne ulice. GPS tačka sela nije potvrđen parking. Neki autobusi staju na obilaznici izvan Potamije, ne u centru; proverite aktuelno stajalište i red vožnje. Radno vreme muzeja i stanje staza se menjaju. Za Ipsarion su potrebni oprema, voda i dobro vreme.",
+      "highlights": [
+        "Muzej skulpture Polignotosa Vagisa",
+        "Zeleni obronci, izvori i potoci",
+        "Tradicionalne ulice i taverne",
+        "Planinarske staze ka Ipsarionu",
+        "Golden Beach kao obližnji izlet do mora"
+      ],
+      "seo_title": "Potamija, Tasos – Vagisov muzej, selo i Ipsarion",
+      "seo_description": "Otkrijte Potamiju na Tasosu: Vagisov muzej skulpture, zelenilo, planinske potoke, staze ka Ipsarionu i obližnju Golden Beach.",
+      "social_caption": "Potamija 🌿 Skulpture, planinski potoci i mirnija, tradicionalna strana Tasosa.",
+      "photo_alt": "Tradicionalne kuće Potamije među drvećem i zelenim obroncima Ipsariona na Tasosu"
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/potamia/images/potamia1.webp",
+    "gallery": [
+      "destinations/thassos/areas/potamia/images/potamia2.webp",
+      "destinations/thassos/areas/potamia/images/potamia3.webp",
+      "destinations/thassos/areas/potamia/images/potamia4.webp",
+      "destinations/thassos/areas/potamia/images/potamia5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/potamia/images/",
+    "suggested_asset_names": [
+      "potamia1.webp",
+      "potamia2.webp",
+      "potamia3.webp",
+      "potamia4.webp",
+      "potamia5.webp"
+    ],
+    "image_policy": "Five authentic and commercially cleared landscape WebP photographs depicting Potamia INLAND VILLAGE: (1) village overview against Ipsarion, (2) real village streets and houses, (3) exterior of Polygnotos Vagis Museum / verified museum marker, (4) local greenery and streams, (5) genuine village square / church or mountain landscape. Do not use images of Skala Potamia beach as if they depict the mountain village. Confirm provenance, licences, attribution and identities before publication. Only paths are configured; no photographs are included.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "osm_potamia",
+      "kind": "osm_mapped_settlement",
+      "title": "Mapcarta / OpenStreetMap — Potamia, Thassos",
+      "url": "https://mapcarta.com/13814670",
+      "detail": "Mapped settlement node 280965218, place=village, 40.71617 N, 24.72833 E; elevation about 126 m; not a navigational parking point.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "official_thassos_mythassos_potamia",
+      "kind": "official_island_tourism_guide",
+      "title": "MyThassos — POTAMIA",
+      "url": "https://mythassos.app/en/places/607",
+      "detail": "Village at Ipsarion foothills; approximately 3 km from Skala Potamia; local taverns, Vagis Museum and Carnival. Published summit height differs slightly from Discover Greece; use 1,204 m with cited hiking reference.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "discover_greece_villages",
+      "kind": "national_tourism_guide",
+      "title": "Discover Greece — Mountain village-hopping in Thassos",
+      "url": "https://www.discovergreece.com/experiences/thassos-mountain-villages",
+      "detail": "Potamia streams, local crafts, thyme honey, Vagis museum, Agios Dimitrios church and 3 km Golden Beach excursion.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "discover_greece_hiking",
+      "kind": "national_tourism_guide",
+      "title": "Discover Greece — Best hiking paths of Thassos",
+      "url": "https://www.discovergreece.com/experiences/hiking-paths-thassos",
+      "detail": "Ipsarion 1,204 m; Potamia-to-summit hike 6.3 km each way (12.6 km return), medium to hard; old Panagia–Potamia path; weather and preparation cautions.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "discover_greece_museums",
+      "kind": "national_tourism_guide",
+      "title": "Discover Greece — Museums and cultural sights on Thassos",
+      "url": "https://www.discovergreece.com/el/node/10063",
+      "detail": "Polygnotos Vagis Sculpture Museum in old Potamia primary school; 98 sculptures and 15 paintings. Tarsanas belongs to coastal Skala Potamia.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "national_gallery_vagis",
+      "kind": "museum_authority",
+      "title": "National Gallery of Greece — Vagis Polygnotos",
+      "url": "https://www.nationalgallery.gr/en/artist/vagis-polygnotos/",
+      "detail": "Artist originated from Potamia, emigrated to USA in 1911 and bequeathed work to Greek state; Museum established 1981. National Gallery birth-year differs from some travel sites, so date is omitted.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "local_museum_vagis",
+      "kind": "destination_museum_entry",
+      "title": "Thassos Travelfind — Polygnotos Vagis Municipal Museum",
+      "url": "https://thasos.travelfind.gr/en/info/spot/polygnotos-vagis-municipal-museum",
+      "detail": "Museum in former primary school; dates, exhibits and opening-time claim. Listed visiting hours are NOT stored as they may be out of date.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "go_thassos_potamia",
+      "kind": "island_destination_guide",
+      "title": "Go Thassos — Potamia",
+      "url": "https://www.go-thassos.gr/about-thassos/places/potamia",
+      "detail": "Foothills of Ipsarion; stream-derived village name; greenery and trails.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "go_thassos_skala_potamia",
+      "kind": "island_destination_guide",
+      "title": "Go Thassos — Skala Potamia",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-potamia",
+      "detail": "Distinct coastal Skala Potamia summer resort and southern Golden Beach bay; do not deduplicate with mountain village.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "bus_municipality",
+      "kind": "municipal_transport_information",
+      "title": "Municipality of Thassos — Bus schedules",
+      "url": "https://www.thassos.gr/en/dromologia-ktel/",
+      "detail": "Municipal pointer to live KTEL transport sources and station information; no schedule copied into JSON.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "bus_oct_2026",
+      "kind": "published_dynamic_transport_snapshot",
+      "title": "Go Thassos — October 2026 bus schedules",
+      "url": "https://www.go-thassos.gr/thassos-bus-schedules-prices",
+      "detail": "Published October 2026 services include Potamia; explicit note that some buses stop outside the village on ring road and do not enter the centre. Reverify when travelling; times omitted.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "go_thassos_museums",
+      "kind": "regional_culture_guide",
+      "title": "Go Thassos — Museums",
+      "url": "https://www.go-thassos.gr/about-thassos/museums",
+      "detail": "Local description of the Polygnotos Vagis museum, art themes and artist career.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "map_general_context",
+      "kind": "travel_info",
+      "title": "Katatopisi — Potamia Thasou",
+      "url": "https://katatopisi.gr/en/place/potamia-thasou/",
+      "detail": "Independently distinguishes Potamia on Thassos and corroborates village coordinate rounded to 40.7162,24.7283; time-sensitive fuel prices and bathing classifications are excluded.",
+      "checked_on": "2026-10-28"
+    }
+  ],
+  "editorial": {
+    "status": "six_language_historic_inland_village_profile_complete_pending_photos_rights_navigation_and_operator_checks",
+    "facts_checked_on": "2026-10-28",
+    "translations_written_on": "2026-10-28",
+    "coverage": "13_verified_public_source_urls_6_languages_5_preset_webp_image_paths_existing_golden_beach_id_only",
+    "requires_manual_review": [
+      "Confirm Potamia village OSM place=village node 280965218 (40.71617,24.72833); do not use coastal Skala Potamia, nor a different Potamia on mainland Greece.",
+      "GPS is a settlement reference, not arrival/parking. Verify legal public vehicle arrival, parking or unloading before setting arrival_point.",
+      "Potamia (inland) and Skala Potamia (coastal) must have separate area IDs; Golden Beach remains one existing beach record gr-thassos-beach-golden, not a beach within Potamia.",
+      "Confirm current museum opening arrangements and access directly; published opening hours and tickets vary and are deliberately not asserted.",
+      "National Gallery cites Vagis birth in 1894, while local visitor sources cite 1892. Editorial content omits the disputed year. If adding a year later, reconcile with primary historical documentation.",
+      "Check actual visitor access to Agios Dimitrios Church; guides mention it but do not establish permanent public interior access.",
+      "Mount Ipsarion summit elevation is cited as 1,204 m by Discover Greece, but the official local visitor app displays 1,208 m. Avoid overprecision or use source-qualified numbers.",
+      "Confirm trail marking, condition, seasonal restrictions, fire safety and whether an experienced guide is needed for Ipsarion or Panagia–Potamia paths. Mountain summit hike is medium to hard, not a short family stroll.",
+      "Bus stop warning from October 2026 states certain routes only stop at the ring road outside Potamia; verify present route, precise boarding point and current timetable locally. Do not use old published times as live data.",
+      "Confirm accessibility, parking legality, potable water status and any amenity availability; none are asserted where evidence is insufficient.",
+      "Local Potamia Carnival is described in the island guide, but dates and annual programme are not guaranteed.",
+      "No POI record IDs are invented for Vagis Museum, Agios Dimitrios or mountain trails; add links when verified attraction records exist.",
+      "Place licensed images potamia1.webp–potamia5.webp under exactly the configured path; check genuine location, source, permissions, attributions and commercial rights. No photos supplied.",
+      "Perform native-speaker editorial check in Greek, German, Bulgarian, Serbian and SEO before publication."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "The five WebP paths are planned filenames only. No photographs, source rights, commercial licences or attribution clearance have been provided."
+  }
+}

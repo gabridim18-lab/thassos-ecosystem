@@ -1,0 +1,668 @@
+{
+  "schema_version": "1.0.0",
+  "id": "gr-thassos-attraction-giola-natural-pool",
+  "slug": "giola-natural-pool",
+  "record_type": "attraction",
+  "destination_id": "gr-thassos",
+  "category": "attractions",
+  "subcategory": "natural-pool",
+  "display_category": {
+    "ro": "Atracții & Experiențe",
+    "en": "Attractions & Experiences",
+    "el": "Αξιοθέατα & Εμπειρίες",
+    "de": "Attraktionen & Erlebnisse",
+    "bg": "Забележителности и преживявания",
+    "sr": "Atrakcije i doživljaji"
+  },
+  "name": {
+    "default": "Giola Natural Pool",
+    "ro": "Giola – Piscina naturală",
+    "en": "Giola Natural Pool",
+    "el": "Γκιόλα – Φυσική πισίνα",
+    "de": "Giola – Naturpool",
+    "bg": "Гиола – естествен басейн",
+    "sr": "Giola – prirodni bazen"
+  },
+  "alternative_names": [
+    "Giola",
+    "Giola Lagoon",
+    "Aphrodite’s Tear",
+    "Tear of Aphrodite",
+    "Γκιόλα",
+    "Δάκρυ της Αφροδίτης"
+  ],
+  "classification": {
+    "attraction_type": "natural-pool",
+    "origin": "natural",
+    "tourism_themes": [
+      "nature",
+      "coastal-landscape",
+      "photography",
+      "geology",
+      "sightseeing"
+    ],
+    "not_a_beach_record": true,
+    "not_a_heritage_record": true,
+    "not_a_religious_site_record": true,
+    "mythology_as_local_folklore_not_historical_fact": true,
+    "tags": [
+      "thassos",
+      "giola",
+      "astris",
+      "natural-pool",
+      "rock-formation",
+      "aegean",
+      "scenic-location"
+    ]
+  },
+  "location": {
+    "country": "Greece",
+    "country_code": "GR",
+    "region": "East Macedonia and Thrace",
+    "island": "Thassos",
+    "municipality": "Thasos",
+    "coast": "south / southeast",
+    "area_slug": "astris",
+    "area_id": "gr-thassos-area-astris",
+    "area_name": "Astris (Astrida)",
+    "lat": 40.58638,
+    "lng": 24.67863,
+    "coordinate_role": "natural_pool_reference_point_not_vehicle_access",
+    "coordinate_source": "OpenStreetMap / Mapcarta, cross-checked with tourism guide",
+    "coordinate_source_url": "https://mapcarta.com/33036924",
+    "coordinate_verification_status": "publicly_mapped_reference_point_not_field_surveyed",
+    "coordinates_verified_on": "2026-10-28",
+    "navigation_point": null,
+    "parking_point": null,
+    "trailhead_point": null,
+    "nearby_area_slugs": [
+      "astris",
+      "potos"
+    ],
+    "nearby_beach_slugs": [
+      "kalami",
+      "livadi",
+      "psili-ammos"
+    ],
+    "geographic_notes": "Giola is a separate natural attraction, not Kalami Beach and not a sandy beach. Do not use pool coordinates as a car navigation or parking pin."
+  },
+  "overview": {
+    "setting": "Rocky coastal natural seawater basin near Astris",
+    "landscape": "Rock pool bounded by stone terraces with open Aegean Sea views",
+    "typical_pool_dimensions_m": {
+      "length_approx": 20,
+      "width_approx": 15,
+      "depth_max_reported_approx": 3,
+      "measurements_approximate": true
+    },
+    "water_type": "seawater",
+    "water_exchange": "waves from the Aegean",
+    "organized_attraction": false,
+    "best_time_to_visit_general": "May–June or September–October for lighter crowds; subject to weather and sea conditions",
+    "peak_season_notes": "July and August are often busy and hot; early morning or late afternoon may be more comfortable."
+  },
+  "visitor_experience": {
+    "best_for": [
+      "scenic_photography",
+      "nature_lovers",
+      "coastal_exploration",
+      "adults_comfortable_on_rough_paths"
+    ],
+    "experiences": [
+      "view_rock_pool",
+      "photograph_aerial_style_viewpoints",
+      "coastal_landscape",
+      "local_mythology"
+    ],
+    "estimated_visit_duration_minutes": null,
+    "walking_time_from_reported_parking_min": {
+      "min": 10,
+      "max": 20,
+      "estimate_only": true,
+      "depends_on_route_and_conditions": true
+    },
+    "ground_type": "uneven_rocky_footpath_and_rock_platforms",
+    "family_suitability": "not_recommended_for_small_children",
+    "mobility_access": "not_accessible_for_reduced_mobility",
+    "swimming_safety": "unsupervised; do not assume safe entry/exit or stable depth",
+    "cliff_jumping_recommended": false,
+    "lifeguard_confirmed": false
+  },
+  "practical_info": {
+    "road_access": "Follow local signs from the coastal road near Astris; the approach can include steep or unpaved sections. Check current conditions.",
+    "parking_overview": "Some visitor guides report parking in the approach area, but no exact verified parking pin is provided.",
+    "trail_access": "A descending, rocky walking route from the approach/parking area; estimates vary from 10 to 20 minutes.",
+    "public_transport": "Seasonal service may change; check the current operator schedule rather than relying on static times.",
+    "facilities_at_pool": {
+      "lifeguard": false,
+      "sunbeds": false,
+      "organized_services": false,
+      "toilets": null,
+      "drinking_water": false,
+      "shade": false
+    },
+    "facilities_note": "Some services may exist near access roads, but not at the pool itself; availability must be verified.",
+    "entry_fee": null,
+    "opening_hours": null,
+    "best_time_of_day": [
+      "early_morning",
+      "late_afternoon"
+    ],
+    "bring": [
+      "sturdy_grippy_shoes",
+      "drinking_water",
+      "sun_hat",
+      "sun_protection"
+    ],
+    "safety_flags": [
+      "slippery_rocks",
+      "difficult_water_entry_and_exit",
+      "water_depth_varies",
+      "wave_exposure",
+      "no_lifeguard",
+      "heat_exposure",
+      "rocky_path"
+    ],
+    "safety_policy": "Do not promote cliff jumping or imply swimming is risk-free. Conditions must be assessed on arrival.",
+    "practical_data_review_required": true
+  },
+  "related_places": {
+    "area_slug": "astris",
+    "area_id": "gr-thassos-area-astris",
+    "nearby_area_slugs": [
+      "astris",
+      "potos"
+    ],
+    "nearby_beach_slugs": [
+      "kalami",
+      "livadi",
+      "psili-ammos"
+    ],
+    "nearby_beach_ids": [
+      "gr-thassos-beach-kalami",
+      "gr-thassos-beach-livadi",
+      "gr-thassos-beach-psili-ammos"
+    ],
+    "nearby_heritage_slugs": [],
+    "nearby_religious_site_slugs": [],
+    "nearby_attraction_slugs": [],
+    "link_policy": "Use only existing verified beach and area records. Beaches are related destinations, not parts of the natural pool."
+  },
+  "media": {
+    "cover": "destinations/thassos/attractions/giola-natural-pool/images/giola-natural-pool1.webp",
+    "gallery": [
+      "destinations/thassos/attractions/giola-natural-pool/images/giola-natural-pool2.webp",
+      "destinations/thassos/attractions/giola-natural-pool/images/giola-natural-pool3.webp"
+    ],
+    "expected_folder": "destinations/thassos/attractions/giola-natural-pool/images/",
+    "suggested_asset_names": [
+      "giola-natural-pool1.webp",
+      "giola-natural-pool2.webp",
+      "giola-natural-pool3.webp"
+    ],
+    "image_count": 3,
+    "optional_fourth_image_filename": "giola-natural-pool4.webp",
+    "image_policy": "Use only photographs of the actual Giola pool with confirmed publication and video-use rights; avoid third-party copyrighted tourism/gallery images without a license.",
+    "images": [
+      {
+        "file": "giola-natural-pool1.webp",
+        "path": "destinations/thassos/attractions/giola-natural-pool/images/giola-natural-pool1.webp",
+        "role": "cover",
+        "suggested_content": "wide view of pool and coast",
+        "alt": {
+          "ro": "Giola văzută de sus, bazin natural în stâncă, Thassos",
+          "en": "Aerial view of Giola natural rock pool on Thassos",
+          "el": "Η φυσική πισίνα Γκιόλα από ψηλά, Θάσος",
+          "de": "Giola Naturpool auf Thassos aus der Vogelperspektive",
+          "bg": "Гиола – естествен скален басейн на Тасос от високо",
+          "sr": "Pogled odozgo na prirodni bazen Giola na Tasosu"
+        },
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "rights_cleared": false,
+        "photographer": null,
+        "credit_line": null
+      },
+      {
+        "file": "giola-natural-pool2.webp",
+        "path": "destinations/thassos/attractions/giola-natural-pool/images/giola-natural-pool2.webp",
+        "role": "gallery",
+        "suggested_content": "rock formations and pool detail",
+        "alt": {
+          "ro": "Detaliu al stâncilor și apei din piscina naturală Giola",
+          "en": "Detail of the rock formations and water at Giola",
+          "el": "Λεπτομέρεια βράχων και νερού στη Γκιόλα",
+          "de": "Felsen und Wasser am Naturpool Giola",
+          "bg": "Скали и вода в естествения басейн Гиола",
+          "sr": "Detalj stena i vode na Gioli"
+        },
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "rights_cleared": false,
+        "photographer": null,
+        "credit_line": null
+      },
+      {
+        "file": "giola-natural-pool3.webp",
+        "path": "destinations/thassos/attractions/giola-natural-pool/images/giola-natural-pool3.webp",
+        "role": "gallery",
+        "suggested_content": "wider coastal context",
+        "alt": {
+          "ro": "Giola și peisajul stâncos al Mării Egee lângă Astris",
+          "en": "Giola and the rocky Aegean coastline near Astris",
+          "el": "Η Γκιόλα και η βραχώδης ακτή κοντά στην Αστρίδα",
+          "de": "Giola und die felsige Ägäisküste nahe Astris",
+          "bg": "Гиола и скалистият бряг край Астрис",
+          "sr": "Giola i stenovita obala Egejskog mora kod Astrisa"
+        },
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "rights_cleared": false,
+        "photographer": null,
+        "credit_line": null
+      }
+    ]
+  },
+  "translations": {
+    "ro": {
+      "name": "Giola – Piscina naturală",
+      "tagline": "O lagună sculptată în stâncă, la marginea Mării Egee.",
+      "summary": "Giola este un bazin natural cu apă de mare, săpat în rocile de pe coasta sud-estică a Thassosului, aproape de Astris. Peisajul său spectaculos îl face o oprire memorabilă pentru fotografie și explorare.",
+      "description": "Pe țărmul stâncos din apropierea localității Astris, Giola apare ca o piscină naturală ascunsă între platformele de piatră și Marea Egee. Apa care ajunge în bazin prin acțiunea valurilor capătă, în funcție de lumină, nuanțe de verde și albastru, în contrast cu piatra deschisă la culoare. Formațiunea este cunoscută și ca „Lacrima Afroditei”, nume legat de poveștile locale despre zeița frumuseții; acestea sunt legende, nu explicații istorice ale originii sale. Giola nu este o plajă cu nisip și șezlonguri, ci un loc natural, expus soarelui și valurilor. Chiar și pentru cei care nu intră în apă, priveliștea de sus, formele rocilor și întâlnirea dintre bazin și mare merită descoperite. Vizita presupune mers pe jos pe teren pietros, iar apropierea de margini trebuie făcută cu grijă.",
+      "natural_character": "Bazin natural de apă marină, înconjurat de rocă și alimentat de valurile Mării Egee; nu este piscină amenajată sau supravegheată.",
+      "myth_and_story": "Giola este numită în tradițiile și ghidurile locale „Lacrima Afroditei” și uneori „Ochiul lui Zeus”. Sunt interpretări mitologice populare, nu fapte arheologice demonstrate.",
+      "what_to_do": "Admiră forma bazinului și panorama mării, fotografiază contrastul dintre stâncă și apă și observă peisajul din locuri stabile și sigure. Intrarea în apă trebuie evaluată numai în funcție de condițiile reale.",
+      "practical_tips": "Accesul implică un drum de apropiere și apoi o potecă stâncoasă, coborâtoare. Poartă încălțăminte cu aderență, ia apă, pălărie și protecție solară; în zona bazinului nu există facilități organizate. Verifică starea drumului și a potecii înainte de vizită.",
+      "safety_note": "Stâncile pot fi alunecoase, intrarea și ieșirea din apă sunt dificile, iar adâncimea se poate modifica. Evită săriturile în bazin; valurile mari și vremea nefavorabilă pot face zona periculoasă. Locul nu este potrivit pentru persoanele cu mobilitate redusă sau pentru copii mici nesupravegheați.",
+      "highlights": [
+        "Bazin natural în stâncă",
+        "Nuanțe spectaculoase de verde-albastru",
+        "Priveliște către Marea Egee",
+        "Poveștile despre Lacrima Afroditei",
+        "Peisaj fotografic lângă Astris"
+      ],
+      "seo_title": "Giola Natural Pool, Thassos – Acces, fotografii și sfaturi",
+      "seo_description": "Descoperă Giola, piscina naturală de lângă Astris, Thassos. Informații despre poteca de acces, peisaj, fotografii și recomandări de siguranță.",
+      "social_caption": "Giola, lângă Astris: un bazin natural în stâncă și una dintre cele mai spectaculoase priveliști de coastă din Thassos. Descoperă locul cu respect pentru natură și atenție la teren."
+    },
+    "en": {
+      "name": "Giola Natural Pool",
+      "tagline": "A sea-filled rock pool on the edge of the Aegean.",
+      "summary": "Giola is a natural seawater pool set into the rocky southeastern coast of Thassos near Astris. Its striking shape and colour make it a memorable stop for photography and coastal exploration.",
+      "description": "On the rocky coast near Astris, Giola appears like a natural pool tucked between broad stone terraces and the Aegean Sea. Sea water reaches the basin with the waves, and its colours shift between blue and green as the light changes. The site is also called “Aphrodite’s Tear”, a name associated with local myth rather than a proven account of how the formation originated. Giola is not a sandy, organised beach: there are no loungers or supervised swimming facilities at the pool itself. Even visitors who prefer to stay out of the water can appreciate its unusual outline, the rugged coastline and the dramatic meeting of rock and sea. Reaching the site involves a walk over uneven, rocky ground, so the landscape is best explored patiently and with suitable footwear.",
+      "natural_character": "A naturally formed seawater basin in a rocky shore, replenished by the Aegean waves; not a managed or supervised swimming pool.",
+      "myth_and_story": "Local stories and tourism guides call Giola “Aphrodite’s Tear” and sometimes “the Eye of Zeus”. These are legends, not established archaeological explanations.",
+      "what_to_do": "Enjoy the view from stable ground, photograph the contrast of rock and sea, and take in the coastal scenery. Only consider entering the water after assessing current conditions and your ability to get out safely.",
+      "practical_tips": "Access involves an approach road followed by a descending, rocky footpath. Bring grippy shoes, drinking water, a hat and sun protection. There are no organised services at the pool itself. Check the condition of the road and trail before setting out.",
+      "safety_note": "The rock can be slippery, entering and leaving the pool can be difficult, and water depth may change. Avoid cliff jumping. Rough seas and bad weather can make the site hazardous. It is not suitable for visitors with reduced mobility or unsupervised young children.",
+      "highlights": [
+        "Natural rock pool",
+        "Changing blue-green water",
+        "Aegean coastal panorama",
+        "The legend of Aphrodite’s Tear",
+        "Photography stop near Astris"
+      ],
+      "seo_title": "Giola Natural Pool, Thassos – Access, Photos & Tips",
+      "seo_description": "Explore Giola near Astris, Thassos: a natural seawater pool surrounded by rock. Read about the approach trail, views and important safety tips.",
+      "social_caption": "Meet Giola near Astris: a remarkable natural rock pool where the stone coast meets the Aegean. Enjoy the view, tread carefully and respect the landscape."
+    },
+    "el": {
+      "name": "Γκιόλα – Φυσική πισίνα",
+      "tagline": "Μια φυσική θαλασσινή πισίνα σμιλεμένη στον βράχο, δίπλα στο Αιγαίο.",
+      "summary": "Η Γκιόλα είναι μια φυσική λεκάνη με θαλασσινό νερό στη βραχώδη νοτιοανατολική ακτή της Θάσου, κοντά στην Αστρίδα. Το ιδιαίτερο σχήμα και τα χρώματά της την κάνουν ξεχωριστό σημείο για φωτογραφίες και εξερεύνηση.",
+      "description": "Στη βραχώδη ακτή κοντά στην Αστρίδα, η Γκιόλα μοιάζει με φυσική πισίνα ανάμεσα σε πέτρινες επιφάνειες και στο Αιγαίο Πέλαγος. Το θαλασσινό νερό ανανεώνεται από τα κύματα και αποκτά αποχρώσεις του πράσινου και του γαλάζιου, ανάλογα με το φως. Είναι γνωστή και ως «Δάκρυ της Αφροδίτης», μια ονομασία που συνδέεται με τοπικούς μύθους και όχι με επιβεβαιωμένη ιστορική εξήγηση της δημιουργίας της. Δεν πρόκειται για οργανωμένη αμμώδη παραλία: δίπλα στη φυσική λεκάνη δεν υπάρχουν ξαπλώστρες ούτε επιτήρηση κολύμβησης. Ακόμη και χωρίς να μπείτε στο νερό, αξίζει να θαυμάσετε το τοπίο, τα σχήματα των βράχων και την αντίθεση με τη θάλασσα. Η πρόσβαση απαιτεί περπάτημα σε ανώμαλο, πετρώδες έδαφος.",
+      "natural_character": "Φυσική λεκάνη με θαλασσινό νερό πάνω σε βραχώδη ακτή, που ανανεώνεται από τα κύματα· δεν είναι οργανωμένη ή επιτηρούμενη πισίνα.",
+      "myth_and_story": "Στην τοπική παράδοση η Γκιόλα αναφέρεται ως «Δάκρυ της Αφροδίτης» ή «Μάτι του Δία». Πρόκειται για μύθους και όχι για επιβεβαιωμένα αρχαιολογικά δεδομένα.",
+      "what_to_do": "Απολαύστε τη θέα από σταθερά σημεία, φωτογραφίστε τους βράχους και τη θάλασσα και παρατηρήστε το φυσικό τοπίο. Η είσοδος στο νερό απαιτεί προσωπική εκτίμηση των συνθηκών και της δυνατότητας ασφαλούς εξόδου.",
+      "practical_tips": "Η διαδρομή περιλαμβάνει δρόμο προσέγγισης και στη συνέχεια κατηφορικό, πετρώδες μονοπάτι. Χρειάζονται παπούτσια με καλή πρόσφυση, νερό, καπέλο και αντηλιακό. Στη φυσική λεκάνη δεν υπάρχουν οργανωμένες παροχές. Ελέγξτε την κατάσταση του δρόμου πριν ξεκινήσετε.",
+      "safety_note": "Οι βράχοι μπορεί να γλιστρούν, η είσοδος και έξοδος από το νερό είναι δύσκολες και το βάθος μεταβάλλεται. Αποφύγετε τις βουτιές από ύψος. Ο έντονος κυματισμός μπορεί να κάνει το σημείο επικίνδυνο. Δεν ενδείκνυται για άτομα με μειωμένη κινητικότητα ή μικρά παιδιά χωρίς επίβλεψη.",
+      "highlights": [
+        "Φυσική πισίνα στον βράχο",
+        "Γαλαζοπράσινα νερά",
+        "Θέα στο Αιγαίο",
+        "Ο μύθος του Δακρύου της Αφροδίτης",
+        "Φωτογραφικό τοπίο κοντά στην Αστρίδα"
+      ],
+      "seo_title": "Γκιόλα Θάσου – Πρόσβαση, φωτογραφίες και συμβουλές",
+      "seo_description": "Γνωρίστε τη Γκιόλα κοντά στην Αστρίδα της Θάσου, τη φυσική πισίνα μέσα στους βράχους. Πρόσβαση, τοπίο και χρήσιμες συμβουλές ασφάλειας.",
+      "social_caption": "Η Γκιόλα κοντά στην Αστρίδα συνδυάζει βράχο, θάλασσα και ένα μοναδικό φυσικό σχήμα. Ανακαλύψτε την προσεκτικά και με σεβασμό στο τοπίο."
+    },
+    "de": {
+      "name": "Giola – Naturpool",
+      "tagline": "Ein natürliches Meerwasserbecken zwischen Felsen und Ägäis.",
+      "summary": "Giola ist ein natürliches Meerwasserbecken an der felsigen Südostküste von Thassos nahe Astris. Seine besondere Form und das Farbenspiel machen es zu einem beliebten Fotomotiv.",
+      "description": "An der felsigen Küste nahe Astris liegt Giola wie ein natürliches Schwimmbecken zwischen flachen Steinplatten und der Ägäis. Die Wellen führen dem Becken Meerwasser zu, das je nach Licht in Blau- und Grüntönen schimmert. Giola ist auch als „Träne der Aphrodite“ bekannt. Dieser Name geht auf lokale Legenden zurück und ist keine wissenschaftliche Erklärung für die Entstehung der Felsformation. Der Ort ist kein organisierter Sandstrand: Direkt am Becken gibt es weder Liegen noch eine Badeaufsicht. Auch ohne ins Wasser zu gehen, lohnt sich der Anblick der ungewöhnlichen Form, der wilden Küstenlinie und des Meeres. Um das Becken zu erreichen, muss man über unebenes, steiniges Gelände laufen. Festes Schuhwerk und ein vorsichtiger Schritt sind daher wichtig.",
+      "natural_character": "Natürlich entstandenes Meerwasserbecken in einer Felsküste, das durch Wellen gespeist wird; kein betreutes Schwimmbad.",
+      "myth_and_story": "Lokale Erzählungen nennen Giola „Träne der Aphrodite“ oder „Auge des Zeus“. Es handelt sich um Legenden, nicht um archäologisch belegte Erklärungen.",
+      "what_to_do": "Genießen Sie die Aussicht von sicheren Standpunkten aus, fotografieren Sie Felsen und Meer und entdecken Sie die Küstenlandschaft. Ein Einstieg ins Wasser sollte nur nach sorgfältiger Einschätzung der Bedingungen erfolgen.",
+      "practical_tips": "Auf die Zufahrtsstraße folgt ein abfallender, felsiger Fußweg. Empfehlenswert sind griffige Schuhe, Wasser, Hut und Sonnenschutz. Direkt am Becken gibt es keine organisierten Einrichtungen. Prüfen Sie vorab den Zustand der Zufahrt und des Weges.",
+      "safety_note": "Die Felsen können rutschig sein; Ein- und Ausstieg sind schwierig, und die Wassertiefe kann schwanken. Springen Sie nicht von den Felsen. Starker Wellengang und schlechtes Wetter erhöhen das Risiko. Für Menschen mit eingeschränkter Mobilität und unbeaufsichtigte Kleinkinder ist der Ort ungeeignet.",
+      "highlights": [
+        "Natürliches Felsbecken",
+        "Blaugrünes Farbenspiel",
+        "Blick über die Ägäis",
+        "Die Legende von Aphrodites Träne",
+        "Fotostopp nahe Astris"
+      ],
+      "seo_title": "Giola Naturpool auf Thassos – Anreise, Fotos und Tipps",
+      "seo_description": "Entdecken Sie Giola nahe Astris auf Thassos: ein natürliches Meerwasserbecken zwischen Felsen. Hinweise zu Zugang, Landschaft und Sicherheit.",
+      "social_caption": "Giola bei Astris: Felsen, Ägäis und ein außergewöhnlicher Naturpool. Genießen Sie die Aussicht und erkunden Sie den Ort mit Vorsicht."
+    },
+    "bg": {
+      "name": "Гиола – естествен басейн",
+      "tagline": "Естествен морски басейн сред скалите на брега на Егейско море.",
+      "summary": "Гиола е естествен басейн с морска вода по скалистото югоизточно крайбрежие на Тасос, близо до Астрис. Необичайната му форма и цветове го превръщат във впечатляваща спирка за снимки.",
+      "description": "На скалистия бряг близо до Астрис Гиола изглежда като естествен басейн, скрит сред каменните площадки до Егейско море. Морските вълни обновяват водата, а светлината променя нюансите ѝ от синьо до зелено. Мястото е познато и като „Сълзата на Афродита“ — име от местните легенди, а не доказано обяснение за образуването му. Гиола не е организиран пясъчен плаж: непосредствено до басейна няма шезлонги и спасителен надзор. Дори без плуване посетителите могат да се насладят на гледката към скалите и морето, както и на уникалната форма на природната забележителност. Достигането до басейна изисква ходене по неравен и каменист терен, затова са необходими подходящи обувки и внимание.",
+      "natural_character": "Естествен скален басейн с морска вода, която се обновява от вълните; не е оборудван или охраняван плувен басейн.",
+      "myth_and_story": "Според местните легенди Гиола е „Сълзата на Афродита“ или „Окото на Зевс“. Това са митологични разкази, а не доказани исторически факти.",
+      "what_to_do": "Насладете се на панорамата от стабилни места, снимайте скалите и морето и разгледайте природния пейзаж. Влизането във водата изисква преценка на условията и възможността за безопасно излизане.",
+      "practical_tips": "Достъпът включва отклонение от пътя, след което се върви по спускаща се камениста пътека. Носете стабилни обувки, вода, шапка и слънцезащита. Непосредствено при басейна няма организирани услуги. Проверете състоянието на пътя предварително.",
+      "safety_note": "Скалите могат да бъдат хлъзгави, влизането и излизането от водата са трудни, а дълбочината може да се променя. Избягвайте скоковете от скалите. Силното вълнение прави мястото опасно. Не е подходящо за хора с ограничена подвижност или малки деца без надзор.",
+      "highlights": [
+        "Естествен скален басейн",
+        "Синьо-зелени нюанси",
+        "Гледка към Егейско море",
+        "Легендата за Сълзата на Афродита",
+        "Красиви снимки край Астрис"
+      ],
+      "seo_title": "Гиола, Тасос – Достъп, снимки и полезни съвети",
+      "seo_description": "Открийте Гиола близо до Астрис на Тасос – естествен морски басейн сред скали. Информация за пътеката, гледките и безопасността.",
+      "social_caption": "Гиола край Астрис: необичаен естествен басейн между скалите и Егейско море. Насладете се на природата с внимание и уважение."
+    },
+    "sr": {
+      "name": "Giola – prirodni bazen",
+      "tagline": "Prirodni morski bazen uklesan u stenovitu obalu Egejskog mora.",
+      "summary": "Giola je prirodni bazen sa morskom vodom na stenovitoj jugoistočnoj obali Tasosa, blizu Astrisa. Neobičan oblik i boje čine ga posebnim mestom za fotografisanje.",
+      "description": "Na stenovitoj obali u blizini Astrisa, Giola izgleda kao prirodni bazen skriven između kamenih terasa i Egejskog mora. Talasi donose morsku vodu u bazen, čije se nijanse menjaju od plave do zelene u zavisnosti od svetlosti. Mesto se naziva i „Afroditina suza“, prema lokalnom predanju, ali ta priča nije istorijski dokaz nastanka formacije. Giola nije uređena peščana plaža: uz sam bazen nema ležaljki ni nadzora spasilaca. Čak i bez ulaska u vodu, vredi videti neobičan oblik stena, surovu obalu i pogled na more. Do ovog mesta vodi pešačka staza preko neravnog i kamenitog terena. Zato su važni odgovarajuća obuća i oprez tokom obilaska.",
+      "natural_character": "Prirodni bazen sa morskom vodom u stenovitoj obali, koji obnavljaju talasi; nije uređen niti nadziran bazen za kupanje.",
+      "myth_and_story": "Lokalne legende nazivaju Giolu „Afroditina suza“ ili „Zevsovo oko“. To su mitološka predanja, a ne potvrđene arheološke činjenice.",
+      "what_to_do": "Uživajte u pogledu sa stabilnog tla, fotografišite kontrast stena i mora i istražite obalski pejzaž. U vodu ulazite samo ako ste proverili uslove i mogućnost bezbednog izlaska.",
+      "practical_tips": "Prilaz uključuje put, a zatim silaznu kamenitu pešačku stazu. Ponesite obuću koja ne kliza, vodu, šešir i zaštitu od sunca. Uz sam bazen nema uređenih sadržaja. Pre polaska proverite stanje pristupnog puta.",
+      "safety_note": "Stene mogu biti klizave, ulazak i izlazak iz bazena su otežani, a dubina vode može da se menja. Izbegavajte skakanje sa stena. Veliki talasi i loše vreme povećavaju rizik. Mesto nije pogodno za osobe smanjene pokretljivosti niti za malu decu bez nadzora.",
+      "highlights": [
+        "Prirodni bazen u stenama",
+        "Plavozelene nijanse vode",
+        "Pogled na Egejsko more",
+        "Legenda o Afroditinoj suzi",
+        "Fotografski pejzaž blizu Astrisa"
+      ],
+      "seo_title": "Giola na Tasosu – Pristup, fotografije i saveti",
+      "seo_description": "Otkrijte Giolu blizu Astrisa na Tasosu: prirodni morski bazen među stenama. Saznajte više o pristupnoj stazi, pogledu i bezbednosti.",
+      "social_caption": "Giola kod Astrisa: prirodni bazen u stenama i izuzetan pogled na Egejsko more. Uživajte u prizoru uz oprez i poštovanje prirode."
+    }
+  },
+  "seo": {
+    "ro": {
+      "title": "Giola Natural Pool, Thassos – Acces, fotografii și sfaturi",
+      "description": "Descoperă Giola, piscina naturală de lângă Astris, Thassos. Informații despre poteca de acces, peisaj, fotografii și recomandări de siguranță."
+    },
+    "en": {
+      "title": "Giola Natural Pool, Thassos – Access, Photos & Tips",
+      "description": "Explore Giola near Astris, Thassos: a natural seawater pool surrounded by rock. Read about the approach trail, views and important safety tips."
+    },
+    "el": {
+      "title": "Γκιόλα Θάσου – Πρόσβαση, φωτογραφίες και συμβουλές",
+      "description": "Γνωρίστε τη Γκιόλα κοντά στην Αστρίδα της Θάσου, τη φυσική πισίνα μέσα στους βράχους. Πρόσβαση, τοπίο και χρήσιμες συμβουλές ασφάλειας."
+    },
+    "de": {
+      "title": "Giola Naturpool auf Thassos – Anreise, Fotos und Tipps",
+      "description": "Entdecken Sie Giola nahe Astris auf Thassos: ein natürliches Meerwasserbecken zwischen Felsen. Hinweise zu Zugang, Landschaft und Sicherheit."
+    },
+    "bg": {
+      "title": "Гиола, Тасос – Достъп, снимки и полезни съвети",
+      "description": "Открийте Гиола близо до Астрис на Тасос – естествен морски басейн сред скали. Информация за пътеката, гледките и безопасността."
+    },
+    "sr": {
+      "title": "Giola na Tasosu – Pristup, fotografije i saveti",
+      "description": "Otkrijte Giolu blizu Astrisa na Tasosu: prirodni morski bazen među stenama. Saznajte više o pristupnoj stazi, pogledu i bezbednosti."
+    }
+  },
+  "video": {
+    "enabled": true,
+    "render_ready": false,
+    "render_ready_reason": "Three actual WebP images and documented rights must be supplied before MP4 generation.",
+    "preferred_format": "9:16",
+    "default_language": "en",
+    "available_languages": [
+      "ro",
+      "en",
+      "el",
+      "de",
+      "bg",
+      "sr"
+    ],
+    "export_presets": {
+      "short_vertical": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "format": "mp4",
+        "video_codec": "h264",
+        "audio_codec": "aac"
+      },
+      "website_landscape_optional": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "format": "mp4",
+        "video_codec": "h264",
+        "audio_codec": "aac"
+      }
+    },
+    "scene_count": 3,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "image": "giola-natural-pool1.webp",
+        "role": "hook",
+        "duration_seconds": 6,
+        "motion": "subtle_zoom",
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "voiceover_key": "hook",
+        "overlay_index": 0
+      },
+      {
+        "scene_number": 2,
+        "image": "giola-natural-pool2.webp",
+        "role": "story",
+        "duration_seconds": 11,
+        "motion": "gentle_pan",
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "voiceover_key": "body",
+        "overlay_index": 1
+      },
+      {
+        "scene_number": 3,
+        "image": "giola-natural-pool3.webp",
+        "role": "cta",
+        "duration_seconds": 7,
+        "motion": "slow_zoom_out",
+        "focal_point": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "voiceover_key": "cta",
+        "overlay_index": 2
+      }
+    ],
+    "total_duration_seconds_target": 24,
+    "localized_scripts": {
+      "ro": {
+        "hook": "În Thassos există o piscină pe care a creat-o natura.",
+        "body": "Giola, lângă Astris, este un bazin cu apă de mare, înconjurat de stânci. Aici, culorile apei se schimbă odată cu lumina.",
+        "cta": "Descoperă Giola și explorează Thassos în siguranță."
+      },
+      "en": {
+        "hook": "On Thassos, nature created its own sea pool.",
+        "body": "Giola, near Astris, is a seawater basin surrounded by rock. Its colours shift with the sunlight, creating one of the island’s most striking views.",
+        "cta": "Discover Giola and explore Thassos safely."
+      },
+      "el": {
+        "hook": "Στη Θάσο, η φύση δημιούργησε τη δική της πισίνα.",
+        "body": "Η Γκιόλα, κοντά στην Αστρίδα, είναι μια φυσική λεκάνη με θαλασσινό νερό μέσα στους βράχους. Τα χρώματά της αλλάζουν με το φως.",
+        "cta": "Ανακαλύψτε τη Γκιόλα και εξερευνήστε τη Θάσο με ασφάλεια."
+      },
+      "de": {
+        "hook": "Auf Thassos hat die Natur ihren eigenen Meerwasserpool geschaffen.",
+        "body": "Giola bei Astris ist ein natürliches Becken zwischen Felsen. Seine Farben verändern sich mit dem Sonnenlicht und machen den Ort zu einem besonderen Küstenpanorama.",
+        "cta": "Entdecken Sie Giola und erkunden Sie Thassos sicher."
+      },
+      "bg": {
+        "hook": "На Тасос природата е създала свой собствен морски басейн.",
+        "body": "Гиола, близо до Астрис, е естествен басейн с морска вода сред скалите. Цветовете му се променят със светлината и създават неповторима гледка.",
+        "cta": "Открийте Гиола и разглеждайте Тасос безопасно."
+      },
+      "sr": {
+        "hook": "Na Tasosu je priroda stvorila sopstveni morski bazen.",
+        "body": "Giola, blizu Astrisa, prirodni je bazen sa morskom vodom među stenama. Njegove boje se menjaju na suncu i stvaraju izuzetan prizor.",
+        "cta": "Otkrijte Giolu i istražujte Tasos bezbedno."
+      }
+    },
+    "overlay_text": {
+      "ro": [
+        "Giola – piscina naturală",
+        "O bijuterie de lângă Astris",
+        "Descoperă Thassos"
+      ],
+      "en": [
+        "Giola Natural Pool",
+        "A hidden wonder near Astris",
+        "Discover Thassos"
+      ],
+      "el": [
+        "Γκιόλα – φυσική πισίνα",
+        "Ένα θαύμα κοντά στην Αστρίδα",
+        "Ανακαλύψτε τη Θάσο"
+      ],
+      "de": [
+        "Giola Naturpool",
+        "Naturwunder bei Astris",
+        "Thassos entdecken"
+      ],
+      "bg": [
+        "Гиола – естествен басейн",
+        "Природно чудо край Астрис",
+        "Открийте Тасос"
+      ],
+      "sr": [
+        "Giola – prirodni bazen",
+        "Čudo prirode blizu Astrisa",
+        "Otkrijte Tasos"
+      ]
+    },
+    "subtitle_generation": {
+      "enabled": true,
+      "source": "localized_scripts",
+      "format": "srt_or_burned_in",
+      "line_breaks": "automatic"
+    },
+    "audio": {
+      "voiceover_language": "use_video_locale",
+      "background_music_asset": null,
+      "music_license_verified": false,
+      "music_optional": true
+    },
+    "content_safety": {
+      "avoid_cliff_diving_demonstration": true,
+      "do_not_state_swimming_is_safe": true,
+      "do_not_present_myth_as_fact": true,
+      "require_media_rights": true
+    },
+    "automation_notes": "The scene order maps to the three preconfigured image files. After assets are uploaded, use the selected locale for speech, overlays, subtitles and final metadata; validate text timing before rendering."
+  },
+  "source_references": [
+    {
+      "id": "s_visitgreece",
+      "kind": "national_tourism_organization",
+      "title": "Visit Greece – Beaches on Thasos Island",
+      "url": "https://www.visitgreece.gr/en/experiences/culture/museums/beaches-on-thasos-island",
+      "supports": [
+        "natural_pool",
+        "walking_access",
+        "mythological_nickname"
+      ],
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "s_discovergreece",
+      "kind": "tourism_guide",
+      "title": "Discover Greece – A day at mythical Giola Lagoon in Thassos",
+      "url": "https://www.discovergreece.com/experiences/day-mythical-giola-lagoon-thassos",
+      "supports": [
+        "near_astris",
+        "pool_dimensions_approx",
+        "weather_and_access",
+        "facilities",
+        "seasonality"
+      ],
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "s_mythassos",
+      "kind": "local_tourism_guide",
+      "title": "MyThassos – Giola",
+      "url": "https://mythassos.app/en/places/%CE%B3%CE%BA%CE%B9%CE%BF%CE%BB%CE%B1",
+      "supports": [
+        "trail_access",
+        "approximate_walk",
+        "safety",
+        "lack_of_pool_facilities"
+      ],
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "s_mapcarta",
+      "kind": "map_openstreetmap",
+      "title": "Mapcarta / OSM – Giola",
+      "url": "https://mapcarta.com/33036924",
+      "supports": [
+        "coordinate_reference_point"
+      ],
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "tourism_guide",
+      "title": "Nikana – Giola Natural Swimming Pool",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/what-to-see/1888/giola-natural-swimming-pool",
+      "supports": [
+        "rough_road",
+        "slippery_rock",
+        "variable_depth",
+        "jumping_risk"
+      ],
+      "checked_on": "2026-10-28"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "images_received": false,
+    "images_uploaded": false,
+    "gps_verified_from_public_map": true,
+    "gps_verified_on_site": false,
+    "last_researched_on": "2026-10-28",
+    "translations_written_on": "2026-10-28",
+    "requires_manual_review": [
+      "Confirm actual photographs and license, including social-video rights.",
+      "Review current access road, parking and trail conditions.",
+      "Confirm map pin for visitor navigation, keeping pool GPS separate.",
+      "Check seasonal safety notices and current pool conditions.",
+      "Validate video timing with actual synthesized speech before production."
+    ],
+    "photo_source_disclaimer": "No photo is embedded or licensed by this JSON. The three WebP paths are reserved placeholders."
+  }
+}

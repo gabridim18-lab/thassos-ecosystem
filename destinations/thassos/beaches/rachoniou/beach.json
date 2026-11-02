@@ -1,0 +1,362 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-rachoniou",
+  "slug": "rachoniou",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Σκάλας Ραχωνίου",
+    "international_name": "Rachoniou Beach",
+    "aliases": [
+      "Skala Rachoni Beach",
+      "Skala Rachoniou Beach",
+      "Skala Rachoni City Beach",
+      "Rachoni Beach",
+      "Scala Rachoni Beach",
+      "Παραλία Σκάλα Ραχώνι"
+    ],
+    "entity_scope": "Long public coastline beside Skala Rachoniou; named beach bar or hotel sections are not separate geographic beaches without verification.",
+    "deduplication_warning": "Do not count Skala Rachoni, Rachoniou Beach and Skala Rachoni City Beach as separate beaches. Arriba is a named venue/section, and Pachis is a different beach to the northeast. Limni Rachoniou is a nearby water-quality monitoring name, not necessarily a duplicate beach name."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "northwest",
+    "settlements": [
+      "Skala Rachoniou",
+      "Rachoni"
+    ],
+    "lat": 40.77944810315431,
+    "lng": 24.611393811981202,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.77944810315431%2C24.611393811981202",
+    "coordinate_source_reference": "s_nikana",
+    "coordinate_type": "representative_beach_area_map_pin_not_access_point",
+    "coordinate_review_status": "referenced_from_embedded_google_maps_beach_location; exact preferred access/parking point not verified",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mostly_fine_sand_with_local_stony_patches",
+    "seabed_near_shore": "variable_sand_stones_and_seagrass",
+    "water_entry": "generally_gradual_in_sandy_sections",
+    "nearshore_depth": "often_shallow_but_variable_by_section",
+    "water_clarity": "typically_clear_when_conditions_allow",
+    "wave_conditions": "wind_dependent",
+    "exposure": "northwest_facing_coast",
+    "natural_shade_on_sand": "available_from_pines_and_olive_trees_in_some_sections",
+    "beach_length_m": null,
+    "length_note": "Long continuous coastline in multiple named sections; no reliable single measured length asserted.",
+    "backdrop": "Pine trees, olive groves, low coastal settlement and views toward the mainland",
+    "shoreline_type": "extended_sandy_coast_with_smaller_coves"
+  },
+  "visitor_experience": {
+    "organization": "mixed_organized_and_free",
+    "suitable_for": [
+      "families",
+      "couples",
+      "quiet_beach_days",
+      "sunsets",
+      "swimming",
+      "coastal_walks"
+    ],
+    "notable_for": [
+      "pine_shade",
+      "olive_trees",
+      "long_sandy_coast",
+      "mostly_gradual_entry",
+      "sunset_views"
+    ],
+    "activities_possible": [
+      "swimming",
+      "beach_walks",
+      "sunset_watching",
+      "seasonal_water_activities_where_offered"
+    ],
+    "estimated_crowd_peak": "varies_by_section_and_summer_demand",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Inspect the seabed for stones, rocks and seagrass; shallow sections do not replace child supervision. Wind and sea conditions can change."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Facilities may be offered by nearby tavernas, hotels or beach bars; public provision not verified."
+    },
+    "showers": {
+      "available_in_some_sections": null
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No independently verified beach-wide seasonal lifeguard schedule.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Approaches may vary; no independently verified full accessible beach route or equipment.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Services and availability vary among the many sections and operators on the coast."
+  },
+  "access_and_cost": {
+    "road_access": "paved_local_roads_to_skala_rachoniou_with_multiple_seafront_approaches",
+    "public_transport": "regional_bus_connections_to_skala_rachoniou_possible; route and seasonal frequency to confirm",
+    "parking_type": "local_roadside_and_business_adjacent_parking_areas",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Sunbed terms may depend on operator, purchase requirements and season; confirm before use.",
+    "best_arrival_advice": "Select a preferred segment of this long beach in advance; arrive earlier for a wider choice during busy summer periods.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Guide estimates differ (around 10–13 km) by start/end point; calculate routes dynamically instead of storing one exact road distance."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, water quality, current lifeguard presence, or current prices into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Rachoniou Beach (Skala Rachoni)",
+      "tagline": "Nisip deschis, pini lângă apă și apusuri liniștite",
+      "summary": "Plaja lungă din Skala Rachoni, pe țărmul nord-vestic al insulei Thassos, combină nisipul, intrarea în apă în general lină și umbra pinilor și măslinilor. Diferitele sectoare oferă atât spații libere, cât și facilități sezoniere în apropierea hotelurilor și tavernelor.",
+      "description": "Rachoniou Beach urmărește linia de coastă a localității Skala Rachoni, în nord-vestul insulei Thassos. Nu este un golfuleț izolat, ci o plajă lungă, cu mai multe sectoare și cu o atmosferă calmă, potrivită pentru cei care preferă un ritm relaxat. Nisipul deschis la culoare, pinii și măslinii care ajung foarte aproape de mare dau locului un farmec aparte, mai ales când cauți umbră naturală în timpul zilei. Intrarea în apă este adesea lină și puțin adâncă în apropierea malului, însă fundul mării nu este uniform: în unele porțiuni apar pietre, stânci sau vegetație marină. Tocmai de aceea merită să alegi cu atenție sectorul de înot, în special când ești cu copii. De-a lungul țărmului vei găsi zone amenajate în fața unor unități de cazare, dar și porțiuni unde îți poți așeza propriul prosop. Tavernele și cafenelele din Skala Rachoni sunt la îndemână, iar spre seară priveliștea apusului peste mare devine una dintre principalele atracții. Pentru o vizită reușită, verifică dinainte accesul către segmentul preferat al plajei: țărmul este lung, iar facilitățile și parcarea diferă de la un punct la altul.",
+      "practical_tips": "Alege sectorul înainte de a porni, deoarece plaja se întinde pe o distanță mare. Umbra pinilor și a măslinilor variază în funcție de loc și de momentul zilei. În apă pot exista zone cu pietre și iarbă de mare; încălțămintea de apă poate fi utilă. Șezlongurile și facilitățile sunt sezoniere și pot aparține hotelurilor sau barurilor din apropiere. Pentru apus, păstrează timp să rămâi până spre seară. Nu presupune că există salvamar sau acces adaptat pe întregul țărm.",
+      "highlights": [
+        "Plajă lungă, predominant nisipoasă",
+        "Umbra naturală a pinilor și măslinilor",
+        "Intrare în apă în general lină, dar cu zone pietroase",
+        "Taverne și unități de cazare în apropiere",
+        "Apusuri frumoase spre partea continentală"
+      ],
+      "seo_title": "Rachoniou Beach Thassos – nisip, acces și facilități",
+      "seo_description": "Descoperă Rachoniou Beach din Skala Rachoni, Thassos: plajă nisipoasă, umbra pinilor, apă puțin adâncă, acces, facilități și sfaturi.",
+      "social_caption": "🌲🏖️ Rachoniou Beach, Thassos: o plajă lungă, cu nisip, pini aproape de mare și apusuri care merită așteptate. 🌅 Salveaz-o dacă preferi zilele liniștite pe insulă! 🇬🇷 #Thassos #SkalaRachoni #ExploreGreece",
+      "photo_alt": "Plajă nisipoasă la Skala Rachoni, Thassos, cu arbori aproape de țărm și mare liniștită."
+    },
+    "en": {
+      "name": "Rachoniou Beach (Skala Rachoni)",
+      "tagline": "Soft sand, shoreline pines and peaceful sunsets",
+      "summary": "The long beach at Skala Rachoni on northwestern Thassos combines sandy sections, generally gentle shallows, and welcome shade from pines and olive trees. Open stretches sit alongside seasonal facilities near hotels and tavernas.",
+      "description": "Rachoniou Beach follows the coastline of Skala Rachoni on the northwestern side of Thassos. Rather than one secluded little cove, it is an extended shoreline made up of several sections, with an easygoing atmosphere that suits visitors looking for a slower beach day. Light-coloured sand, pine trees and olive trees reaching close to the water give the coast a distinct character and offer pockets of natural shade. The sea is generally shallow near the shore in many places, but the seabed is not uniform: some stretches include stones, rocks and patches of seagrass. Choose your swimming spot with care, especially when visiting with children. Along the coast there are serviced areas in front of accommodation properties as well as stretches where visitors can bring their own beach equipment. Tavernas and cafés in Skala Rachoni are close by, while the western outlook makes sunset a memorable part of the experience. Because the beach is long and access varies between sections, it helps to decide which part you want to visit before driving there. Parking and amenities should not be assumed to be available at every point of the shore.",
+      "practical_tips": "Choose your preferred section in advance because the shoreline is extensive. Natural shade varies by location and time of day. Some parts of the seabed are stony or covered with seagrass; water shoes may be useful. Sunbeds and services are seasonal and may be operated by nearby hotels or bars. Stay into the evening if you want to enjoy the sunset. Do not assume lifeguards or step-free beach access are available along the entire coast.",
+      "highlights": [
+        "Long, mainly sandy shoreline",
+        "Natural shade from pines and olive trees",
+        "Often gentle shallows with some rocky patches",
+        "Nearby tavernas and accommodation",
+        "Lovely west-facing sunset views"
+      ],
+      "seo_title": "Rachoniou Beach Thassos – access, sand and amenities",
+      "seo_description": "Explore Rachoniou Beach at Skala Rachoni, Thassos: sandy coast, pine shade, gentle shallows, nearby amenities, access and practical tips.",
+      "social_caption": "🌲🏖️ Rachoniou Beach, Thassos: a long sandy shore, pine trees close to the water and sunsets worth staying for. 🌅 Save it for a slower-paced island day! 🇬🇷 #Thassos #SkalaRachoni #GreekIslands",
+      "photo_alt": "Sandy shore at Skala Rachoni on Thassos, with trees near the water and a calm sea."
+    },
+    "el": {
+      "name": "Παραλία Σκάλας Ραχωνίου (Rachoniou Beach)",
+      "tagline": "Αμμουδιά, πεύκα δίπλα στη θάλασσα και ήρεμα ηλιοβασιλέματα",
+      "summary": "Η εκτεταμένη παραλία της Σκάλας Ραχωνίου, στη βορειοδυτική Θάσο, συνδυάζει αμμώδη τμήματα, συνήθως ρηχά νερά και φυσική σκιά από πεύκα και ελιές. Υπάρχουν ελεύθερα σημεία αλλά και εποχικές παροχές κοντά σε καταλύματα και ταβέρνες.",
+      "description": "Η παραλία της Σκάλας Ραχωνίου ακολουθεί τη βορειοδυτική ακτογραμμή της Θάσου, δίπλα στον ομώνυμο παραθαλάσσιο οικισμό. Δεν πρόκειται για έναν μικρό απομονωμένο όρμο, αλλά για μια μεγάλη ακτή με διαφορετικά τμήματα και ήρεμη ατμόσφαιρα. Η ανοιχτόχρωμη άμμος, τα πεύκα και οι ελιές που πλησιάζουν το νερό δημιουργούν ένα χαρακτηριστικό τοπίο, με αρκετές ευκαιρίες για φυσική σκιά ανάλογα με το σημείο. Σε πολλά τμήματα η είσοδος στη θάλασσα είναι ομαλή και τα νερά κοντά στην ακτή σχετικά ρηχά. Ωστόσο, ο βυθός δεν είναι ίδιος παντού: υπάρχουν σημεία με πέτρες, βράχια ή θαλάσσια βλάστηση, γι’ αυτό χρειάζεται προσοχή στην επιλογή του χώρου κολύμβησης, ιδιαίτερα με παιδιά. Κατά μήκος της ακτής συναντά κανείς οργανωμένα τμήματα κοντά σε καταλύματα, αλλά και ελεύθερους χώρους για προσωπικό εξοπλισμό. Ταβέρνες και καφέ βρίσκονται στον κοντινό οικισμό, ενώ το ηλιοβασίλεμα προς τη θάλασσα αποτελεί όμορφη αφορμή για μια απογευματινή επίσκεψη. Επειδή η παραλία εκτείνεται σε μεγάλη απόσταση, αξίζει να διαλέξετε εκ των προτέρων το σημείο πρόσβασης και να ελέγξετε ποιες παροχές υπάρχουν εκεί.",
+      "practical_tips": "Επιλέξτε εκ των προτέρων το τμήμα της ακτής που σας ενδιαφέρει. Η φυσική σκιά εξαρτάται από τα δέντρα και την ώρα. Σε ορισμένα σημεία υπάρχουν πέτρες και φύκια στον βυθό, οπότε τα παπούτσια θαλάσσης μπορεί να φανούν χρήσιμα. Ξαπλώστρες και άλλες παροχές λειτουργούν εποχικά και μπορεί να ανήκουν σε ξενοδοχεία ή beach bars. Αν θέλετε να δείτε το ηλιοβασίλεμα, μείνετε μέχρι αργά. Μην θεωρείτε δεδομένη την παρουσία ναυαγοσώστη ή προσβάσιμης υποδομής σε όλη την ακτή.",
+      "highlights": [
+        "Μεγάλη, κυρίως αμμώδης ακτή",
+        "Φυσική σκιά από πεύκα και ελιές",
+        "Συχνά ρηχά νερά με κατά τόπους πέτρες",
+        "Ταβέρνες και καταλύματα κοντά στη θάλασσα",
+        "Όμορφη θέα στο ηλιοβασίλεμα"
+      ],
+      "seo_title": "Παραλία Σκάλας Ραχωνίου Θάσος – πρόσβαση και παροχές",
+      "seo_description": "Ανακαλύψτε την παραλία Σκάλας Ραχωνίου στη Θάσο: άμμο, πεύκα, ρηχά νερά, παροχές, πρόσβαση και πρακτικές συμβουλές.",
+      "social_caption": "🌲🏖️ Σκάλα Ραχωνίου, Θάσος: μεγάλη αμμουδιά, πεύκα δίπλα στο κύμα και υπέροχα ηλιοβασιλέματα. 🌅 Κρατήστε την ιδέα για μια χαλαρή μέρα στο νησί! 🇬🇷 #Θάσος #ΣκάλαΡαχωνίου #Ελλάδα",
+      "photo_alt": "Αμμώδης ακτή στη Σκάλα Ραχωνίου της Θάσου με δέντρα κοντά στη θάλασσα."
+    },
+    "de": {
+      "name": "Rachoniou Beach (Skala Rachoni)",
+      "tagline": "Heller Sand, schattige Pinien und ruhige Sonnenuntergänge",
+      "summary": "Der lange Strand von Skala Rachoni an der Nordwestküste von Thassos bietet sandige Abschnitte, vielerorts flach abfallendes Wasser und natürlichen Schatten durch Pinien und Olivenbäume. Freie Bereiche wechseln sich mit saisonal bewirtschafteten Abschnitten ab.",
+      "description": "Rachoniou Beach verläuft entlang der Küste des Ortes Skala Rachoni im Nordwesten von Thassos. Statt einer einzelnen kleinen Bucht erwartet Besucher ein ausgedehnter Strand mit unterschiedlichen Abschnitten und einer angenehm ruhigen Atmosphäre. Heller Sand sowie Pinien und Olivenbäume, die bis nahe ans Wasser wachsen, prägen das Bild und bieten stellenweise willkommenen natürlichen Schatten. An vielen Stellen fällt das Ufer sanft ab und das Wasser ist in Strandnähe eher flach. Der Meeresboden ist jedoch nicht überall gleich: Zwischen sandigen Bereichen kommen Steine, Felsen und Seegras vor. Gerade mit Kindern lohnt es sich, die Badestelle bewusst auszuwählen. Entlang der Küste finden sich bewirtschaftete Bereiche vor Unterkünften, aber auch freie Abschnitte für die eigene Strandausrüstung. Tavernen und Cafés im Ort sind gut erreichbar. Besonders schön ist der Blick auf den Sonnenuntergang über dem Meer. Da sich der Strand über eine größere Strecke erstreckt, sollte man vor der Anfahrt einen geeigneten Zugang wählen und nicht davon ausgehen, dass Parkplätze und Einrichtungen überall vorhanden sind.",
+      "practical_tips": "Vor der Anfahrt den gewünschten Strandabschnitt auswählen. Der natürliche Schatten hängt vom Standort und der Tageszeit ab. In einigen Bereichen liegen Steine oder Seegras im Wasser; Badeschuhe können hilfreich sein. Liegen und weitere Einrichtungen werden saisonal angeboten und gehören teils zu Hotels oder Strandbars. Für den Sonnenuntergang lohnt es sich, länger zu bleiben. Rettungsschwimmer und barrierefreie Zugänge sind nicht für den gesamten Strand bestätigt.",
+      "highlights": [
+        "Lange, überwiegend sandige Küste",
+        "Natürlicher Schatten unter Pinien und Olivenbäumen",
+        "Oft flach abfallendes Wasser mit steinigen Stellen",
+        "Tavernen und Unterkünfte in der Nähe",
+        "Schöne Sonnenuntergänge über dem Meer"
+      ],
+      "seo_title": "Rachoniou Beach Thassos – Sandstrand, Anfahrt und Ausstattung",
+      "seo_description": "Rachoniou Beach bei Skala Rachoni auf Thassos: Sand, Pinien, flaches Wasser, Zugang, saisonale Ausstattung und hilfreiche Tipps.",
+      "social_caption": "🌲🏖️ Rachoniou Beach auf Thassos: langer Sandstrand, schattige Pinien und Sonnenuntergänge direkt am Meer. 🌅 Ideal für einen ruhigen Inseltag! 🇬🇷 #Thassos #SkalaRachoni #Griechenland",
+      "photo_alt": "Sandstrand bei Skala Rachoni auf Thassos mit Bäumen nahe am Wasser."
+    },
+    "bg": {
+      "name": "Плаж Рахониу (Скала Рахони)",
+      "tagline": "Светъл пясък, борове край морето и спокойни залези",
+      "summary": "Дългият плаж при Скала Рахони на северозападния бряг на Тасос предлага пясъчни участъци, обикновено плавно навлизане в морето и естествена сянка от борове и маслинови дървета. Има свободни зони и сезонно оборудвани части.",
+      "description": "Плажът Рахониу се простира по крайбрежието на Скала Рахони в северозападната част на остров Тасос. Това не е малък уединен залив, а продължителна плажна ивица с различни участъци и спокойна атмосфера. Светлият пясък, боровете и маслиновите дървета, които достигат почти до водата, създават характерен пейзаж и на места осигуряват приятна естествена сянка. На много места морето е плитко близо до брега и навлизането във водата е плавно. Дъното обаче не е еднакво навсякъде: редуват се пясък, камъни, скалисти участъци и морска растителност. Затова е добре внимателно да изберете мястото за къпане, особено ако сте с деца. По крайбрежието има оборудвани зони пред хотели и други места за настаняване, както и свободни участъци за собствен чадър и хавлия. Таверни и кафенета се намират в близкото селище, а вечер гледката към залязващото слънце над морето е особено красива. Тъй като плажът е дълъг, изберете предварително подходящия подход и проверете какви удобства има в съответната част.",
+      "practical_tips": "Изберете предварително конкретния участък от плажа. Естествената сянка зависи от мястото и часа. В някои зони има камъни и морска трева; обувки за вода могат да бъдат полезни. Шезлонгите и другите услуги са сезонни и често се осигуряват от хотели или плажни барове. Останете до вечерта за красивия залез. Наличието на спасител или адаптиран достъп не е потвърдено по цялата ивица.",
+      "highlights": [
+        "Дълга, предимно пясъчна ивица",
+        "Естествена сянка от борове и маслинови дървета",
+        "Често плитка вода с каменисти участъци",
+        "Таверни и места за настаняване наблизо",
+        "Красиви залези над морето"
+      ],
+      "seo_title": "Плаж Рахониу, Тасос – достъп и удобства",
+      "seo_description": "Открийте плаж Рахониу при Скала Рахони, Тасос: пясък, борова сянка, плитки води, достъп и полезни съвети.",
+      "social_caption": "🌲🏖️ Плаж Рахониу, Тасос: дълъг пясъчен бряг, борове до морето и прекрасни залези. 🌅 Запазете го за спокоен ден на острова! 🇬🇷 #Тасос #СкалаРахони #Гърция",
+      "photo_alt": "Пясъчен бряг при Скала Рахони на остров Тасос с дървета близо до морето."
+    },
+    "sr": {
+      "name": "Plaža Rahoniu (Skala Rahoni)",
+      "tagline": "Svetao pesak, borovi uz more i mirni zalasci sunca",
+      "summary": "Duga plaža kod Skala Rahonija na severozapadnoj obali Tasosa ima peščane delove, uglavnom postepen ulazak u more i prirodan hlad borova i maslina. Slobodni delovi smenjuju se sa sezonski uređenim zonama.",
+      "description": "Plaža Rahoniu pruža se duž obale mesta Skala Rahoni na severozapadu ostrva Tasos. Nije reč o jednoj maloj skrivenoj uvali, već o dugoj obali sa različitim delovima i mirnom atmosferom. Svetao pesak, borovi i masline koji rastu gotovo do mora stvaraju prepoznatljiv pejzaž i pružaju prirodnu hladovinu na pojedinim mestima. U mnogim delovima ulazak u more je postepen, a voda blizu obale uglavnom plitka. Ipak, dno nije svuda isto: pored peska mogu se naći kamenje, stene i morska trava. Zato je dobro pažljivo odabrati mesto za kupanje, naročito sa decom. Duž obale nalaze se uređeni delovi ispred smeštajnih objekata, ali i slobodne zone za sopstveni suncobran i peškir. Taverne i kafići u Skala Rahoniju su u blizini, a pogled na zalazak sunca nad morem daje posebnu draž večernjoj poseti. Pošto se plaža prostire na većoj dužini, preporučljivo je unapred odabrati prilaz i proveriti sadržaje u konkretnom delu obale.",
+      "practical_tips": "Unapred izaberite deo plaže na koji želite da dođete. Prirodna hladovina zavisi od položaja drveća i doba dana. U vodi ima kamenitih delova i morske trave, pa obuća za vodu može biti korisna. Ležaljke i dodatni sadržaji dostupni su sezonski, često u sklopu hotela ili barova. Ostanite do večeri zbog zalaska sunca. Spasioci i pristupačan ulaz nisu potvrđeni duž čitave obale.",
+      "highlights": [
+        "Duga, uglavnom peščana obala",
+        "Prirodan hlad borova i maslina",
+        "Često plitko more sa kamenitim delovima",
+        "Taverne i smeštaj u blizini",
+        "Lepi zalasci sunca nad morem"
+      ],
+      "seo_title": "Plaža Rahoniu Tasos – prilaz i sadržaji",
+      "seo_description": "Otkrijte plažu Rahoniu u mestu Skala Rahoni na Tasosu: pesak, hlad borova, plitka voda, prilaz i korisni saveti.",
+      "social_caption": "🌲🏖️ Plaža Rahoniu, Tasos: duga peščana obala, borovi nadomak mora i prelepi zalasci sunca. 🌅 Sačuvajte za opušten dan na ostrvu! 🇬🇷 #Tasos #SkalaRahoni #Grcka",
+      "photo_alt": "Peščana obala mesta Skala Rahoni na Tasosu, sa drvećem blizu mora."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/rachoniou/images/rachoniou1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/rachoniou/images/rachoniou2.webp",
+      "destinations/thassos/beaches/rachoniou/images/rachoniou3.webp",
+      "destinations/thassos/beaches/rachoniou/images/rachoniou4.webp",
+      "destinations/thassos/beaches/rachoniou/images/rachoniou5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/rachoniou/images/",
+    "suggested_asset_names": [
+      "rachoniou1.webp",
+      "rachoniou2.webp",
+      "rachoniou3.webp",
+      "rachoniou4.webp",
+      "rachoniou5.webp"
+    ],
+    "image_policy": "Five local WebP paths were assigned from filenames shown in the user-provided folder screenshot. Before publication verify that each actual file depicts the intended Skala Rachoniou shoreline sector, and document the image author/source, ownership or commercial reuse permission, any required attribution, edits, and transferability. A filename or a screenshot does not establish photographic provenance, geographic accuracy, or reuse rights.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide_with_embedded_google_maps",
+      "title": "Nikana – Skala Rachoni City Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1783/skala-rachoni-city-beach",
+      "detail": "Describes long sandy shoreline, natural shade, stones and seagrass in some segments, sunbeds near hotels and tavernas; embedded Google Maps reference coordinate 40.77944810315431, 24.611393811981202.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_mythassos",
+      "kind": "local_guide_with_google_maps_link",
+      "title": "MyThassos – Skala Rachoni",
+      "url": "https://mythassos.app/en/places/620",
+      "detail": "Settlement and beach information: sand, pine shade, shallow water, nearby food and sunset; its separate map directions pin 40.779371216964, 24.614255497694 may mark a different section.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_gothassos",
+      "kind": "travel_guide",
+      "title": "Go Thassos – Skala Rachoni",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-rachoni",
+      "detail": "Describes coves, light sand, shallow sea, dense tree shade and nearby olive groves.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana_village",
+      "kind": "travel_guide",
+      "title": "Nikana – Skala Rachoni town and beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/places/1966/skala-rachoni",
+      "detail": "Local services, sunset setting, beach bar and distinction from neighbouring Pachis and Arriba named venue; published updates may not guarantee current operator offerings.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_mapcarta",
+      "kind": "openstreetmap_derived_geo_reference",
+      "title": "Mapcarta – Σκάλα Ραχώνι beach",
+      "url": "https://mapcarta.com/W725326243",
+      "detail": "Independent beach feature OSM way 725326243, center 40.77943,24.61057, corroborating the location but not used as Google coordinate source.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_discover",
+      "kind": "travel_guide",
+      "title": "Discover Thassos – Skala Rachoni Beach",
+      "url": "https://www.discover-thassos.com/listing/skala-rachoni-beach-thassos/",
+      "detail": "Notes sandy shoreline, generally shallow water, pine and olive shade, serviced and unserviced spaces, sunsets.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_commons_docwokav",
+      "kind": "photo_source_and_license",
+      "title": "Wikimedia Commons – Bech near Scala Rachoni, Thasos",
+      "url": "https://commons.wikimedia.org/wiki/File:Bech_near_Scala_Rachoni,_Thasos.jpg",
+      "detail": "Own work by DocWoKav, 2017, CC BY-SA 4.0; actual depicted shoreline section requires visual review.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_commons_vitsoft",
+      "kind": "photo_source_and_license",
+      "title": "Wikimedia Commons – Skala Rachoni beach",
+      "url": "https://commons.wikimedia.org/wiki/File:Skala_Rachoni_beach_-_panoramio.jpg",
+      "detail": "Photo by vitsoft, 2008, CC BY 3.0, Commons geolocation 40.779632,24.611928; historic reference only until approved.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm desired Google Maps map pin and preferred road/parking approach",
+      "Avoid double counting Arriba as geographically independent beach",
+      "Five local files rachoniou1.webp–rachoniou5.webp have image paths assigned. Check the actual WebP images for the correct Rachoniou beach sector and retain source/author details, licensing and commercial transfer rights for each image; files and permissions are not independently verified.",
+      "Verify available seasonal operators, showers, toilets and lounger terms",
+      "Confirm access and water entry in chosen shore segment",
+      "Proofread six languages before final publishing"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original multilingual editorial text retained; commercial publication and transferable rights for five locally referenced WebP images have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths assigned based on filenames in the user-provided screenshot; this JSON contains no image binaries. The actual photographs, geographic identity and image ownership/reuse rights have not been independently verified."
+  }
+}

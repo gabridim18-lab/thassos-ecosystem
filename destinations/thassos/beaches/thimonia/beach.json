@@ -1,0 +1,436 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-thimonia",
+  "slug": "thimonia",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Θυμωνιά",
+    "international_name": "Thimonia Beach",
+    "aliases": [
+      "Thymonia Beach",
+      "Thimonia",
+      "Thymonia",
+      "Timonia Beach",
+      "Timonja Beach",
+      "Thimonia Bay",
+      "Παραλία Θυμωνιά",
+      "Θυμωνιά"
+    ],
+    "entity_scope": "The identifiable main pebble-and-gravel shore of Thimonia Bay on southeastern Thassos, between Aliki and the Monastery of Archangel Michael; includes the principal beachfront section by Hotel Thimonia, not every nearby rocky inlet.",
+    "deduplication_warning": "Thimonia/Thymonia/Timonja name the same beach. Do not merge it with the separate Kekes and Skidia rocky coves east toward Aliki, Aliki Beach itself, Agios Ioannis Beach, or the ancient Thymonia Tower (a separate heritage POI). Some map entries named Thymonia cover the wider settlement/bay rather than an exact beach entrance."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southeastern shoreline, between Aliki and Monastery of Archangel Michael",
+    "settlements": [
+      "Thimonia (Thymonia)",
+      "Aliki (Alyki)",
+      "Potos (regional reference)"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Thimonia%20Beach%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_google_maps_search",
+    "coordinate_type": "unverified_beach_pin_coordinates_not_published",
+    "coordinate_review_status": "BeachAtlas (40.6056189,24.721311) and PameParalia (~40.6056,24.7214) offer close independent reference points, but a MyThassos Google-directions link resolves to 40.614473339195,24.730498413086, apparently a different bay/area point. None is verified as the precise Google Maps beach pin or public access. Keep lat/lng null pending map and entrance cross-check; do not attribute third-party coordinates to Google.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mostly_fine_and_coarse_pebbles_gravel_with_some_sand_and_stones",
+    "seabed_near_shore": "stones_and_rocky_patches_more_pronounced_on_left_as_seen_from_shore",
+    "water_entry": "variable_rocky_entry_left_finer_pebbles_less_rocky_near_right_hotel_section",
+    "nearshore_depth": "shallow_in_places_then_gradually_deepens; depth_and_footing_vary",
+    "water_clarity": "typically_clear_blue_green_turquoise",
+    "wave_conditions": "often_calm_in_settled_weather_but_wind_and_swell_can_change_conditions",
+    "exposure": "small_coastal_bay_flanked_by_rocky_points; exposure_varies_with_wind",
+    "natural_shade_on_sand": "limited; trees and greenery mainly border upper shore",
+    "beach_length_m": null,
+    "length_note": "An e-Thasos listing states about 110 m, while another specialist guide describes the beach as under 200 m; no independently measured, consistently delimited shoreline length is available.",
+    "backdrop": "green hills with pines and olive trees, low rocky headlands and scattered coastal accommodation",
+    "shoreline_type": "distinct_pebble_and_gravel_bay_beach_not_adjacent_kekes_or_skidia"
+  },
+  "visitor_experience": {
+    "organization": "mixed_quieter_open_stretches_and_limited_operator_serviced_section_seasonally",
+    "suitable_for": [
+      "confident_swimmers",
+      "couples",
+      "quiet_beach_days",
+      "snorkeling",
+      "nature_photography",
+      "visitors_comfortable_with_pebbly_rocky_water_entry",
+      "families_prepared_for_stony_shore"
+    ],
+    "notable_for": [
+      "clear_turquoise_water",
+      "pebble_and_rock_shore",
+      "typically_quieter_than_major_resorts",
+      "rocky_bay_edges",
+      "nearby_ancient_thymonia_tower",
+      "short_distance_from_aliki"
+    ],
+    "activities_possible": [
+      "swimming",
+      "careful_snorkeling_in_calm_conditions",
+      "coastal_photography",
+      "shore_fishing_subject_to_local_rules",
+      "nearby_heritage_walk_to_ancient_tower"
+    ],
+    "estimated_crowd_peak": "generally_less_busy_than_major_thassos_beaches; seasonal_operator_areas_can_be_busier",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Loose pebbles and submerged stones make footing uneven, especially toward the left side when facing the sea; the right side near Hotel Thimonia is reported to have a more manageable entry. Wear water shoes, check for sea urchins near rocks, and assess wind and waves. Shallow patches do not mean the whole bay is child-safe. Summer lifeguard claims have not been independently verified."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "MyThassos lists WC in some organized sections, while local guides describe the main beach as largely unserviced; public access and present seasonal operation are not independently confirmed."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "A local tourism portal lists showers for serviced sections, but this conflicts with descriptions of a largely unorganized shore; verify on site."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "MyThassos/Discover Thassos assert summer lifeguard presence, but no official location-specific staffing schedule was verified. Never promise a lifeguard is on duty.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Parking near the bay and short access are described, but no verified step-free path across stones, accessible sea entry or beach mobility equipment is documented.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Hotel Thimonia identifies its own beach-facing sunbeds, umbrellas and bar; Nikana also reports rental, while several older guides describe the wider shore as unorganized. Do not generalize one operator’s amenities to all sections or assume service, toilets, showers, prices, public availability or lifeguards on a specific day. Nearby taverna references may mean an adjacent cove."
+  },
+  "access_and_cost": {
+    "road_access": "island_coastal_road_with_local_turnoff_or_short_walk_to_shore; final_surface_and_exact_entrance_unverified",
+    "public_transport": "no_confirmed_bus_stop_directly_at_beach; verify_seasonal_route_and_walk_before_travel",
+    "parking_type": "nearby_roadside_or_beachside_parking_reported; spaces_and_public_access_vary",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Beach-facing operator loungers and umbrellas have been reported but current rental terms, hotel-guest restrictions and minimum-spend rules are unverified.",
+    "best_arrival_advice": "Use a map search only as a starting point and confirm the exact road turn and beach access locally. Wear water shoes for pebbles and rocks; take drinking water, sun protection and your own beach equipment even if serviced areas appear in photos. Leave room to maneuver where parking is informal and do not block accommodation entrances. For the nearby ancient tower, use marked or existing paths without assuming the site is fully maintained.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Published driving distances from Limenas differ substantially (about 32 km, 36 km, and 44 km) depending on source/reference point. No single verified routing distance is stored."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Thimonia Beach (Thymonia)",
+      "tagline": "Un golf liniștit cu pietricele și apă turcoaz, aproape de Aliki",
+      "summary": "Thimonia este o plajă retrasă de pe coasta sud-estică a insulei Thassos, între Aliki și mănăstirea Arhanghelului Mihail. Pietricelele, pietrele din apă și golful verde-albăstrui îi dau un caracter natural, iar amenajările sunt limitate și dependente de sezon.",
+      "description": "Thimonia Beach oferă o experiență diferită de plajele mari și foarte animate ale insulei Thassos. Așezată într-un golf de pe coasta sud-estică, nu departe de Aliki, plaja este mărginită de promontorii stâncoase și de versanți verzi, cu pini și măslini. Pe mal predomină pietrișul și pietricelele, amestecate pe alocuri cu nisip și pietre mai mari. Marea impresionează prin transparență și nuanțele de turcoaz, dar intrarea în apă nu este uniformă: în partea stângă, privind spre mare, sunt mai multe stânci și pietre submerse, în timp ce spre partea dreaptă, în dreptul Hotelului Thimonia, pietrișul mai fin permite de regulă o intrare ceva mai comodă. Locul atrage în special vizitatorii care caută înot, liniște, fotografie și snorkeling prudent de-a lungul marginilor stâncoase, atunci când valurile sunt mici. Deși unele ghiduri prezintă Thimonia drept plajă neamenajată, alte surse și unitatea de cazare de pe mal menționează șezlonguri, umbrele și un bar în anumite sectoare. Este mai corect să o privești ca pe o plajă cu spații libere și servicii limitate, a căror disponibilitate poate varia. În apropiere se află și ruinele turnului antic circular din Thimonia, un detaliu interesant pentru cei care vor să îmbine marea cu descoperirea istoriei locale. Golful este distinct de plajele Kekes și Skidia și de mult mai cunoscuta Aliki.",
+      "practical_tips": "Alege încălțăminte de apă: pietricelele și bolovanii pot îngreuna intrarea, mai ales pe partea stângă a golfului. Nu presupune că toată plaja este puțin adâncă și supraveghează atent copiii; locul este mai comod pentru persoanele care înoată cu încredere. Adu apă, protecție solară și o umbrelă proprie dacă preferi zona liberă. Șezlongurile, dușurile, toaletele și serviciul de salvamar nu sunt garantate în fiecare sezon. Parcarea este descrisă în apropiere, dar intrarea exactă și locurile disponibile trebuie verificate local. Pentru turnul antic, folosește potecile existente și evită deplasarea pe teren accidentat cu încălțăminte nepotrivită.",
+      "highlights": [
+        "Golf retras, cu priveliști spre pini și promontorii",
+        "Apă limpede în nuanțe de albastru și verde",
+        "Pietriș și intrare stâncoasă, mai ales în stânga",
+        "Zone libere și șezlonguri sezoniere în unele sectoare",
+        "Turnul antic circular din Thimonia, în apropiere"
+      ],
+      "seo_title": "Thimonia Beach Thassos – acces, pietricele și facilități",
+      "seo_description": "Descoperă Thimonia Beach din Thassos, lângă Aliki: apă turcoaz, mal cu pietricele, acces, șezlonguri sezoniere și sfaturi pentru înot.",
+      "social_caption": "🌊 Thimonia Beach, Thassos: un golf liniștit cu apă turcoaz, pietricele și dealuri verzi. 🩴 Ia încălțăminte de apă și bucură-te de o parte mai puțin aglomerată a insulei. 🇬🇷 #Thassos #ThimoniaBeach #ExploreGreece",
+      "photo_alt": "Plaja Thimonia din Thassos, cu țărm de pietricele, apă turcoaz și versanți verzi în jurul golfului."
+    },
+    "en": {
+      "name": "Thimonia Beach (Thymonia)",
+      "tagline": "A quiet pebble bay with turquoise water near Aliki",
+      "summary": "Thimonia is a quieter beach on southeastern Thassos, between Aliki and the Monastery of Archangel Michael. Its pebbly shoreline, rocky underwater patches and clear blue-green water offer a natural setting, with only limited, season-dependent facilities.",
+      "description": "Thimonia Beach is a rewarding alternative to the island’s larger, busier sandy resorts. On the southeastern coast of Thassos, not far from Aliki, the bay is framed by rocky points and green slopes dotted with pines and olive trees. The shore is mainly gravel and small pebbles, with scattered stones and occasional sandy patches rather than a continuous carpet of soft sand. Its clear turquoise water is especially attractive on a calm day, but the sea entry deserves attention. Looking out to sea, the left side has more submerged rocks and stones, while the right-hand stretch near Hotel Thimonia is reported to have finer gravel and a more comfortable route into the water. Swimmers who enjoy less crowded surroundings, careful snorkelling along the rocky edges and simple coastal photography may find the beach particularly appealing. Accounts of the amenities differ: some guides describe Thimonia as essentially unorganized, whereas newer guide updates and the beachfront hotel mention seasonal loungers, parasols and a refreshment bar. Expect a mixture of open beach and small serviced areas, not a uniformly equipped resort. An additional point of interest is the ancient circular Tower of Thymonia on the slopes nearby; it makes an intriguing separate stop for visitors interested in the island’s older history. Thimonia is its own beach, distinct from the neighbouring rocky coves of Kekes and Skidia and from Aliki farther along the coast.",
+      "practical_tips": "Bring water shoes for the loose pebbles and irregular rocky seabed, particularly towards the left side when facing the water. Some areas are relatively shallow, but do not assume even depth or a safe entry for young children; confident swimmers will usually be more comfortable. Pack drinking water, sun protection and your own shade if you plan to use the open shore. Toilets, showers, loungers and summer lifeguard cover are not reliable guarantees for any given day. Parking is reported near the beach, although the exact public entrance and available space should be checked locally. For a visit to the ancient tower, wear suitable walking shoes and stay on existing paths.",
+      "highlights": [
+        "Quiet bay backed by green slopes and rocky headlands",
+        "Usually clear blue-green water",
+        "Pebbly shore with a rockier entry on the left",
+        "Limited seasonal loungers alongside open beach space",
+        "Ancient circular Tower of Thymonia nearby"
+      ],
+      "seo_title": "Thimonia Beach Thassos – access, pebbles and facilities",
+      "seo_description": "Explore Thimonia Beach near Aliki on Thassos: turquoise water, pebble shore, rocky sea entry, seasonal sunbeds and practical visitor tips.",
+      "social_caption": "🌊 Thimonia Beach, Thassos: turquoise water, a quiet pebble shore and green hills around the bay. 🩴 Pack water shoes for this less-travelled corner of the island. 🇬🇷 #Thassos #ThimoniaBeach #GreekIslands",
+      "photo_alt": "Thimonia Beach on Thassos, showing a pebbly shore, turquoise water and green slopes around a sheltered-looking bay."
+    },
+    "el": {
+      "name": "Παραλία Θυμωνιά (Thimonia Beach)",
+      "tagline": "Ήσυχος βοτσαλωτός όρμος με γαλαζοπράσινα νερά κοντά στην Αλυκή",
+      "summary": "Η Θυμωνιά είναι μια σχετικά ήσυχη παραλία στη νοτιοανατολική Θάσο, ανάμεσα στην Αλυκή και τη Μονή Αρχαγγέλου Μιχαήλ. Το βότσαλο, οι πέτρες στον βυθό και τα καθαρά γαλαζοπράσινα νερά δημιουργούν ένα φυσικό τοπίο με περιορισμένες, εποχικές παροχές.",
+      "description": "Η παραλία Θυμωνιά προσφέρει μια πιο ήρεμη εμπειρία από τις μεγάλες, πολυσύχναστες αμμουδιές της Θάσου. Βρίσκεται σε έναν μικρό όρμο στη νοτιοανατολική ακτή, κοντά στην Αλυκή, ανάμεσα σε βραχώδη ακρωτήρια και καταπράσινες πλαγιές με πεύκα και ελιές. Στην ακτή κυριαρχούν το χαλίκι και τα μικρά βότσαλα, με διάσπαρτες πέτρες και λίγα σημεία με άμμο. Τα νερά συχνά έχουν εντυπωσιακές τιρκουάζ αποχρώσεις και μεγάλη διαύγεια, όμως η είσοδος στη θάλασσα χρειάζεται προσοχή. Κοιτάζοντας προς το πέλαγος, στην αριστερή πλευρά υπάρχουν περισσότερες πέτρες και βραχώδη σημεία μέσα στο νερό, ενώ δεξιά, μπροστά από το ξενοδοχείο Thimonia, το λεπτότερο χαλίκι προσφέρει συνήθως πιο εύκολο πέρασμα. Ο όρμος αρέσει σε όσους απολαμβάνουν το κολύμπι σε ήσυχο περιβάλλον, τη φωτογραφία και την προσεκτική εξερεύνηση του βυθού με μάσκα όταν η θάλασσα είναι ήρεμη. Οι πληροφορίες για την οργάνωση διαφέρουν: ορισμένοι παλαιότεροι οδηγοί τον περιγράφουν ως μη οργανωμένο, ενώ νεότερες αναφορές και το παραθαλάσσιο ξενοδοχείο μιλούν για εποχικές ξαπλώστρες, ομπρέλες και μπαρ. Επομένως, μην υπολογίζετε σε παροχές σε ολόκληρη την παραλία. Σε κοντινή απόσταση βρίσκεται και ο αρχαίος κυκλικός πύργος της Θυμωνιάς, ένα ξεχωριστό μνημείο που αξίζει να γνωρίσουν όσοι ενδιαφέρονται για την ιστορία του νησιού. Η Θυμωνιά δεν πρέπει να συγχέεται με τους γειτονικούς όρμους Κεκές και Σκίδια ή με την παραλία της Αλυκής.",
+      "practical_tips": "Φορέστε παπούτσια θαλάσσης για τα βότσαλα και τις πέτρες, ιδιαίτερα στο αριστερό τμήμα όπως κοιτάζετε τη θάλασσα. Υπάρχουν σχετικά ρηχά σημεία, αλλά το βάθος και το έδαφος διαφέρουν· τα μικρά παιδιά χρειάζονται συνεχή επίβλεψη και η παραλία είναι πιο άνετη για όσους κολυμπούν με αυτοπεποίθηση. Πάρτε πόσιμο νερό, αντηλιακή προστασία και δική σας ομπρέλα εάν προτιμάτε τον ελεύθερο χώρο. Μην θεωρείτε δεδομένη τη λειτουργία τουαλέτας, ντους, ξαπλωστρών ή ναυαγοσώστη. Αναφέρεται στάθμευση κοντά στην ακτή, όμως επιβεβαιώστε επί τόπου την πρόσβαση και τις διαθέσιμες θέσεις. Για τον αρχαίο πύργο προτιμήστε κατάλληλα παπούτσια και υπάρχοντα μονοπάτια.",
+      "highlights": [
+        "Ήσυχος όρμος με πράσινες πλαγιές και βραχώδη άκρα",
+        "Καθαρά, γαλαζοπράσινα νερά",
+        "Βότσαλο και περισσότερες πέτρες στην αριστερή είσοδο",
+        "Ελεύθερος χώρος και περιορισμένες εποχικές ξαπλώστρες",
+        "Ο αρχαίος κυκλικός πύργος της Θυμωνιάς κοντά στην ακτή"
+      ],
+      "seo_title": "Παραλία Θυμωνιά Θάσος – πρόσβαση, βότσαλα και παροχές",
+      "seo_description": "Γνωρίστε την παραλία Θυμωνιά κοντά στην Αλυκή: τιρκουάζ νερά, βότσαλα, πέτρες στον βυθό, εποχικές ξαπλώστρες και χρήσιμες συμβουλές.",
+      "social_caption": "🌊 Θυμωνιά, Θάσος: ένας ήσυχος όρμος με βότσαλα, διάφανα νερά και καταπράσινες πλαγιές. 🩴 Πάρτε παπούτσια θαλάσσης και ανακαλύψτε μια πιο ήρεμη πλευρά του νησιού! 🇬🇷 #Θάσος #Θυμωνιά #Ελλάδα",
+      "photo_alt": "Η παραλία Θυμωνιά στη Θάσο με βότσαλα, γαλαζοπράσινα νερά και καταπράσινες πλαγιές γύρω από τον όρμο."
+    },
+    "de": {
+      "name": "Thimonia Beach (Thymonia)",
+      "tagline": "Eine ruhige Kieselbucht mit türkisfarbenem Meer nahe Aliki",
+      "summary": "Thimonia ist ein eher ruhiger Strand im Südosten von Thassos, zwischen Aliki und dem Kloster des Erzengels Michael. Kiesel, steinige Bereiche im Wasser und klares türkisgrünes Meer prägen die Bucht; die wenigen Angebote sind saisonabhängig.",
+      "description": "Thimonia Beach ist eine schöne Alternative zu den großen und lebhaften Sandstränden von Thassos. Die kleine Bucht liegt an der Südostküste unweit von Aliki und wird von felsigen Landzungen sowie grünen Hängen mit Kiefern und Olivenbäumen eingerahmt. Am Ufer finden sich überwiegend Kies, feine und gröbere Kieselsteine, einzelne größere Steine und stellenweise etwas Sand. Besonders an ruhigen Tagen leuchtet das Meer türkis und blaugrün, der Einstieg ist jedoch nicht überall bequem. Wenn man zum Wasser schaut, liegen links mehr Felsen und Steine unter der Oberfläche. Rechts, ungefähr vor dem Hotel Thimonia, ist der Untergrund laut lokalen Beschreibungen feiner und der Weg ins Meer meist etwas angenehmer. Wer gerne schwimmt, an felsigen Uferabschnitten vorsichtig schnorchelt oder einfach eine landschaftlich schöne und weniger volle Badebucht sucht, wird Thimonia schätzen. Bei der Ausstattung gibt es widersprüchliche Angaben: Manche ältere Reiseführer beschreiben den Strand als unbewirtschaftet, während neuere Berichte sowie das Hotel Liegen, Sonnenschirme und eine kleine Bar für bestimmte Abschnitte nennen. Es empfiehlt sich deshalb, eigene Strandausrüstung mitzubringen und nicht von einem durchgehend organisierten Strand auszugehen. Oberhalb der Bucht befindet sich zudem der antike runde Turm von Thymonia, ein eigenständiges Ausflugsziel für Geschichtsinteressierte. Thimonia ist nicht mit den benachbarten Buchten Kekes und Skidia oder dem bekannteren Aliki-Strand gleichzusetzen.",
+      "practical_tips": "Badeschuhe sind wegen Kieseln, rutschigen Steinen und felsigem Untergrund sinnvoll, besonders auf der linken Seite, wenn man aufs Meer blickt. Einzelne Uferbereiche sind flach, doch Tiefe und Trittsicherheit wechseln; kleine Kinder sollten immer beaufsichtigt werden. Für geübte Schwimmer ist die Bucht meist komfortabler. Nehmen Sie Trinkwasser, Sonnenschutz und einen eigenen Schirm für freie Strandstellen mit. Toiletten, Duschen, Mietliegen und eine Rettungsschwimmeraufsicht sind nicht zuverlässig für jeden Tag belegt. Parkmöglichkeiten werden in Strandnähe erwähnt, Zufahrt und freie Plätze sollten aber vor Ort geprüft werden. Für den Besuch des antiken Turms sind feste Schuhe und vorhandene Wege ratsam.",
+      "highlights": [
+        "Ruhige Bucht mit grünen Hängen und felsigen Landzungen",
+        "Meist klares türkisgrünes Meer",
+        "Kiesstrand mit mehr Felsen am linken Wasserzugang",
+        "Freie Flächen und begrenzte saisonale Liegen",
+        "Antiker Rundturm von Thymonia in der Nähe"
+      ],
+      "seo_title": "Thimonia Beach Thassos – Anfahrt, Kiesstrand und Ausstattung",
+      "seo_description": "Thimonia Beach auf Thassos nahe Aliki entdecken: türkisfarbenes Meer, Kiesel, felsiger Einstieg, saisonale Liegen und praktische Strandtipps.",
+      "social_caption": "🌊 Thimonia Beach auf Thassos: eine ruhige Kieselbucht mit türkisfarbenem Wasser und grünen Hügeln. 🩴 Badeschuhe einpacken und die stille Seite der Insel genießen! 🇬🇷 #Thassos #ThimoniaBeach #Griechenland",
+      "photo_alt": "Kieselstrand von Thimonia auf Thassos mit klarem türkisfarbenem Meer und grünen Hängen rund um die Bucht."
+    },
+    "bg": {
+      "name": "Плаж Тимония (Thymonia)",
+      "tagline": "Спокоен залив с камъчета и тюркоазена вода близо до Алики",
+      "summary": "Тимония е сравнително тих плаж в югоизточната част на Тасос, между Алики и манастира „Св. Архангел Михаил“. Брегът с камъчета, каменистите участъци във водата и бистрото синьо-зелено море оформят естествено място с ограничени сезонни услуги.",
+      "description": "Плаж Тимония предлага по-спокойна алтернатива на големите и оживени пясъчни плажове на Тасос. Заливът се намира на югоизточния бряг, недалеч от Алики, между скалисти носове и зелени склонове с борове и маслинови дървета. По брега преобладават чакъл, дребни и по-едри камъчета, с отделни камъни и малки песъчливи участъци. Водата често е изключително прозрачна и блести в тюркоазени оттенъци, но навлизането в морето не е еднакво удобно навсякъде. Ако гледате към морето, вляво има повече подводни камъни и скали, докато вдясно, пред хотел Thimonia, по-ситните камъчета обикновено правят влизането по-лесно. Мястото е подходящо за хора, които умеят да плуват уверено, обичат тихите заливи, крайбрежните снимки и внимателното гмуркане с маска покрай скалите при спокойно море. За удобствата има разнопосочни сведения: някои по-стари пътеводители описват плажа като неорганизиран, а по-нови публикации и крайбрежният хотел споменават сезонни шезлонги, чадъри и бар в определена зона. Затова не очаквайте цялата ивица да бъде оборудвана и си носете необходимото. Над залива се намира и древната кръгла кула на Тимония, отделна историческа забележителност, която може да допълни деня край морето. Тимония е самостоятелен плаж и не бива да се смесва със съседните заливчета Кекес и Скидия или с плажа Алики.",
+      "practical_tips": "Носете обувки за вода заради камъчетата и неравното дъно, особено в лявата част, когато сте с лице към морето. На места водата е сравнително плитка, но дълбочината и подводните препятствия се променят; децата трябва да бъдат наблюдавани постоянно. Заливът е по-удобен за уверени плувци. Вземете питейна вода, слънцезащита и собствен чадър, ако предпочитате свободната част. Не разчитайте без проверка на тоалетни, душове, шезлонги или спасител през дадения ден. Описан е паркинг близо до плажа, но точният достъп и свободните места се проверяват на място. До древната кула ходете със стабилни обувки по съществуващите пътеки.",
+      "highlights": [
+        "Тих залив със зелени склонове и скалисти носове",
+        "Обикновено бистра тюркоазена вода",
+        "Камъчета и по-каменисто навлизане вляво",
+        "Свободни части и ограничени сезонни шезлонги",
+        "Древната кръгла кула на Тимония наблизо"
+      ],
+      "seo_title": "Плаж Тимония, Тасос – достъп, камъчета и удобства",
+      "seo_description": "Открийте плаж Тимония на Тасос близо до Алики: тюркоазена вода, камъчета, скалисто дъно, сезонни шезлонги и полезни съвети.",
+      "social_caption": "🌊 Тимония, Тасос: спокоен залив с тюркоазена вода, камъчета и зелени склонове. 🩴 Вземете обувки за вода и открийте една по-тиха страна на острова! 🇬🇷 #Тасос #Тимония #Гърция",
+      "photo_alt": "Плаж Тимония на остров Тасос с каменист бряг, тюркоазено море и зелени склонове около залива."
+    },
+    "sr": {
+      "name": "Plaža Timonija (Thymonia)",
+      "tagline": "Mirna šljunkovita uvala sa tirkiznom vodom blizu Alikija",
+      "summary": "Timonija je mirnija plaža na jugoistočnoj obali Tasosa, između Alikija i manastira Svetog arhangela Mihaila. Obala sa oblucima, kameniti delovi morskog dna i bistra zelenoplava voda stvaraju prirodan ambijent sa ograničenim sezonskim sadržajima.",
+      "description": "Plaža Timonija je prijatna alternativa velikim i prometnim peščanim plažama Tasosa. Nalazi se u uvali na jugoistočnoj obali, nedaleko od Alikija, okružena stenovitim rtovima i zelenim padinama sa borovima i maslinama. Na obali preovlađuju šljunak i sitni obluci, uz poneki veći kamen i male peščane delove. More je često izuzetno bistro, u tirkiznim i zelenoplavim nijansama, ali ulazak u vodu nije svuda podjednako jednostavan. Gledano sa obale ka pučini, levo ima više podvodnih stena i kamenja, dok je desno, ispred hotela Thimonia, sitniji šljunak i obično nešto pristupačniji ulaz. Zato će se ovde posebno dobro osećati oni koji sigurno plivaju, vole mirne uvale, fotografisanje obale i pažljivo ronjenje sa maskom uz stene kada nema talasa. Podaci o sadržajima nisu ujednačeni: neki stariji vodiči navode da je plaža neuređena, dok noviji opisi i hotel uz obalu pominju sezonske ležaljke, suncobrane i bar u pojedinim delovima. Bolje je računati na kombinaciju slobodne obale i ograničenih usluga nego očekivati potpuno opremljeno kupalište. Iznad zaliva nalazi se i antička kružna kula Timonije, zasebna istorijska znamenitost za ljubitelje prošlosti ostrva. Timonija je posebna plaža i ne treba je mešati sa obližnjim uvalama Kekes i Skidija niti sa poznatijom plažom Aliki.",
+      "practical_tips": "Ponesite obuću za vodu zbog oblutaka, neravnog dna i podvodnog kamenja, naročito levo kada gledate ka moru. Neki delovi priobalja su plitki, ali dubina i podloga nisu svuda isti; decu stalno nadgledajte. Plaža je obično pogodnija za iskusnije plivače. Ponesite vodu za piće, zaštitu od sunca i sopstveni suncobran ako planirate slobodan deo obale. Toaleti, tuševi, ležaljke i rad spasioca nisu potvrđeni za svaki dan i sezonu. Parking se pominje u blizini, ali tačan prilaz i raspoloživost mesta treba proveriti lokalno. Za obilazak antičke kule koristite stabilnu obuću i postojeće staze.",
+      "highlights": [
+        "Mirna uvala okružena zelenilom i stenama",
+        "Uglavnom bistra tirkizna voda",
+        "Šljunak i kamenitiji ulaz na levoj strani",
+        "Slobodan prostor i ograničene sezonske ležaljke",
+        "Antička kružna kula Timonije u blizini"
+      ],
+      "seo_title": "Plaža Timonija Tasos – prilaz, šljunak i sadržaji",
+      "seo_description": "Otkrijte Timoniju na Tasosu blizu Alikija: tirkizno more, šljunak, kamenit ulaz, sezonske ležaljke i korisne savete za posetu.",
+      "social_caption": "🌊 Timonija, Tasos: mirna šljunkovita uvala sa tirkiznom vodom i zelenim padinama. 🩴 Ponesite obuću za vodu i upoznajte mirniju stranu ostrva! 🇬🇷 #Tasos #Timonija #Grčka",
+      "photo_alt": "Plaža Timonija na Tasosu sa šljunkovitom obalom, tirkiznim morem i zelenim padinama oko uvale."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/thimonia/images/thimonia1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/thimonia/images/thimonia2.webp",
+      "destinations/thassos/beaches/thimonia/images/thimonia3.webp",
+      "destinations/thassos/beaches/thimonia/images/thimonia4.webp",
+      "destinations/thassos/beaches/thimonia/images/thimonia5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/thimonia/images/",
+    "suggested_asset_names": [
+      "thimonia1.webp",
+      "thimonia2.webp",
+      "thimonia3.webp",
+      "thimonia4.webp",
+      "thimonia5.webp"
+    ],
+    "image_policy": "Five local WebP image paths assigned using filenames visible in the user-supplied folder screenshot; image binaries were not uploaded with this JSON. Before publication, verify that each photograph actually depicts the main Thimonia Beach bay (not Kekes, Skidia, Aliki or another nearby cove), especially because the beach is predominantly pebbly, and document the photographer, provenance, commercial reuse or transfer permission, and any required attribution. No external image candidates are imported.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_nikana_thimonia",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Thimonia Beach (updated July 2024)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1900/thimonia-beach",
+      "detail": "Shore gravel and stones, left side rockier, right side by hotel has finer gravel; clear turquoise water; hotel bar, seasonal sunbed rentals; older than 2026.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_mythassos",
+      "kind": "regional_travel_portal",
+      "title": "MyThassos — Thimonia",
+      "url": "https://mythassos.app/en/places/%CE%B8%CF%85%CE%BC%CF%89%CE%BD%CE%B9%CE%B1",
+      "detail": "Between Aliki and Archangel Michael Monastery; mixed organized/free sections, parking, WC/showers and summer lifeguard claimed, but not independently confirmed; directions link points away from independent beach coordinate sources.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_hotel_thimonia",
+      "kind": "first_party_local_operator",
+      "title": "Hotel Thimonia — Information",
+      "url": "https://www.thimonia.gr/en/information/",
+      "detail": "Beachfront business describes bay, seasonal organized section with sunbeds/umbrellas and hotel bar, accommodation above beach; does not confirm public access to all hotel facilities.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover_thassos",
+      "kind": "local_travel_guide",
+      "title": "Discover Thassos — Thimonia Beach",
+      "url": "https://www.discover-thassos.com/listing/thimonia-beach-thassos/",
+      "detail": "Distinct quiet rocky pebble bay between Aliki and monastery; beach hotel loungers and bar, near another cove taverna, ancient Thimonia Tower.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Thimonia Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/thimonia-beach",
+      "detail": "Identifies local beach with combination of sand, pebbles, stones and rock shelf; indicates parking; facility list not season-specific.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_thassos_view",
+      "kind": "local_travel_guide",
+      "title": "Thassos View — Thimonia Beach",
+      "url": "https://www.thassos-view.com/places/beaches/thimonia-beach",
+      "detail": "Southeastern location, quiet rocky beach, fishing and circular ancient tower; calls beach unorganized, contrasting seasonal operator evidence.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_travelplanner",
+      "kind": "romanian_travel_guide",
+      "title": "TravelPlanner.ro — Thimonia Beach (August 2023)",
+      "url": "https://travelplanner.ro/blog/thimonia-beach-thassos-plaja-libera/",
+      "detail": "Firsthand-style guide highlights stone shore, left/right entry difference, low crowds, older unorganized claim and bar by beachfront hotel; seasonal descriptions conflict.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_e_thasos",
+      "kind": "regional_travel_guide",
+      "title": "e-Thasos — Thimonia Beach",
+      "url": "https://www.e-thasos.gr/explorea/sea/beaches-of-thassos/item/35-thimonia-beach-thassos.html",
+      "detail": "Describes sandy/pebbly spots and shallow water; offers 110 m estimate not adopted as confirmed length and mentions the ancient circular tower.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_kekes",
+      "kind": "deduplication_reference",
+      "title": "Nikana — Beaches near Potos and Limenaria",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/2588/beaches-near-potos-and-limenaria",
+      "detail": "Explicitly lists Thimonia and nearby Kekes as separate beaches; distinguishes their shore materials and geography.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_tower_mythotopia",
+      "kind": "heritage_reference",
+      "title": "MYTHOTOPIA / Ministry of Culture — Thymonia Tower",
+      "url": "https://mythotopia.eu/?id=1357&lang=en&p=poi",
+      "detail": "Ancient circular tower in southeast Thassos near Aliki; cultural point of interest separate from the beach; exact chronology differs across other sources so no period is asserted in visitor text.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachatlas_coords",
+      "kind": "independent_map_reference",
+      "title": "BeachAtlas — Thymonia Beach",
+      "url": "https://www.beachatlas.com/thymonia",
+      "detail": "Independent beach coordinate reference 40.6056189,24.721311. Not verified as a Google Maps point or public entrance; also mentions parking and loungers.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_pameparalia_coords",
+      "kind": "independent_map_reference",
+      "title": "PameParalia — Thymonia Theologou",
+      "url": "https://pameparalia.com/beach/thymonia-theologou-mainland",
+      "detail": "Coordinates 40.6056,24.7214 near BeachAtlas; source page has a confusing mainland slug despite Thassos label, so use solely as corroborative approximate mapping, not authoritative pin.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_google_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Thimonia Beach (name search)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Thimonia%20Beach%2C%20Thassos%2C%20Greece",
+      "detail": "Name-based map search only, NOT a verified precise beach pin, shoreline centroid or road access point. Lat/lng deliberately null because published references conflict.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_hotelpotos_image",
+      "kind": "image_source_unlicensed",
+      "title": "Hotel Potos — Thimonia Beach photograph",
+      "url": "https://www.hotelpotos.com/en/thimonia-beach/",
+      "detail": "Visual candidate depicting pebble beach; photo author/license for third-party reuse not confirmed; permission required.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_greececom_image",
+      "kind": "image_source_rights_reserved",
+      "title": "Greece.com — Thimonia Beach by krzysztof_ok",
+      "url": "https://www.greece.com/photos/destinations/Macedonia/Thassos/Settlement/Thymonia/Thimonia_Beach/58228604",
+      "detail": "Photo is credited to krzysztof_ok; Greece.com photo collection states all photos copyrighted by their owners; do not reuse without license.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_thassosgreece_image",
+      "kind": "image_source_unlicensed",
+      "title": "Thassos-Greece.de — island beaches with Thymonia photograph",
+      "url": "https://www.thassos-greece.de/straende/",
+      "detail": "Image reference labelled Thymonia; no free/commercial license established.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Resolve contradictory maps: independent coordinates around 40.6056,24.7213 vs MyThassos linked Google directions around 40.61447,24.73050; confirm exact beach pin, boundaries and legal public access before adding coordinates.",
+      "Confirm 2026/next-season access rules for sunbeds and umbrellas; may be tied to Hotel Thimonia or other seasonal operators, not the entire public shore.",
+      "Check toilets/showers/changing rooms and whether hotel bar, neighbouring taverna and loungers serve non-guests; older descriptions call the beach unorganized.",
+      "Verify lifeguard staffing on location and dates; a tourism site claims it but no official beach-specific staffing record was confirmed.",
+      "Check parking legality, exact road entrance and safe path, bus access, wheelchair accessibility and family suitability on the actual shore.",
+      "Verify thimonia1.webp–thimonia5.webp depict the actual main Thimonia pebble/gravel bay rather than neighbouring Kekes, Skidia or Aliki; confirm image provenance, commercial reuse/transfer rights and any required credits. Local file names were supplied by screenshot only, not original image binaries.",
+      "Verify if the beach has a current specific Blue Flag award; no certification or official bathing-water class is asserted.",
+      "Proofread six language variants with native speakers before public release and inspect local Greek spelling.",
+      "Keep Thimonia separate from Kekes, Skidia, Aliki and the archaeological Tower of Thymonia."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text retained; rights and transferable commercial use for the five user-referenced local WebP photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths were configured from filenames visible in the user-provided screenshot; the actual image files are not embedded in this JSON and geographic correctness, provenance and publication rights have not been independently verified. External candidates were removed."
+  }
+}

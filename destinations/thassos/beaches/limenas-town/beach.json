@@ -1,0 +1,430 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-limenas-town",
+  "slug": "limenas-town",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Θάσος Πόλη/Λιμανάκι",
+    "international_name": "Limenas Town Beach (Limanaki Beach)",
+    "aliases": [
+      "Limanaki Beach",
+      "Limenas Beach",
+      "Limenas Town Beach",
+      "Limenas City Beach",
+      "Thassos Town Beach",
+      "Thasos Town Beach",
+      "Thasos Poli/Limanaki",
+      "Thassos Poli/Limanaki",
+      "Παραλία Λιμένα",
+      "Παραλία Λιμανάκι",
+      "Παραλία Λιμένα Θάσου",
+      "Θάσος Πόλη/Λιμανάκι"
+    ],
+    "entity_scope": "The municipal, sandy town bathing beach known as Limanaki by the old fishing harbour on the northeastern side of Limenas/Thassos Town. Covers the principal public sandy beach and its directly associated seasonal beach-bar stretches, not harbour quays or adjacent rocky coves.",
+    "deduplication_warning": "Limenas Town Beach, Limenas City Beach, Limanaki and official Blue Flag name Thasos Poli/Limanaki refer here to the same town beach. It is separate from the rocky Karnagio area farther east and from Agios Vasilios/Vournelis, Papias, Tarsanas and Nisteri to the west of the ferry-port area. Do not mix this Limanaki with Skala Maries Beach also called Limanaki on the southwestern coast, or with Limanaki-named beaches elsewhere in Greece."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "north / northeast, Limenas town waterfront beside the old port",
+    "settlements": [
+      "Limenas (Thassos Town)"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Limanaki%20Beach%2C%20Limenas%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_google_maps_search",
+    "coordinate_type": "unverified_exact_beach_pin_coordinates_not_published",
+    "coordinate_review_status": "Limanaki is consistently located by the old port on the northeast Limenas waterfront; name-based Google Maps search only. Exact Google Maps beach centre and accessible entrance have not been independently pinned, so no coordinates are asserted. Wikimedia photographs include camera GPS positions that must not be substituted for the beach coordinate.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "predominantly_fine_sand_with_occasional_small_pebbles",
+    "seabed_near_shore": "mostly_sandy_with_scattered_small_pebbles",
+    "water_entry": "generally_gradual",
+    "nearshore_depth": "relatively_shallow_initial_entry_depth_varies",
+    "water_clarity": "often_clear_weather_and_season_dependent",
+    "wave_conditions": "variable_with_wind_and_local_sea_state",
+    "exposure": "small_urban_seafront_bathing_beach_adjacent_to_old_harbour",
+    "natural_shade_on_sand": "limited; trees shade some areas behind the beach",
+    "beach_length_m": null,
+    "length_note": "An independent beach guide describes the shore as just over 200 m, but the endpoints and method were not independently established; exact measured length left null.",
+    "backdrop": "seafront cafés and tavernas, urban Limenas waterfront, nearby green park and historic harbour/archaeological area",
+    "shoreline_type": "compact_sandy_town_beach_not_harbour_quay"
+  },
+  "visitor_experience": {
+    "organization": "organized_urban_beach_with_some_free_space_reported",
+    "suitable_for": [
+      "families",
+      "couples",
+      "short_swim",
+      "visitors_staying_in_limenas",
+      "swimming",
+      "easy_town_beach_day",
+      "visitors_combining_beach_and_sightseeing"
+    ],
+    "notable_for": [
+      "close_to_old_harbour",
+      "sand_and_gradual_entry",
+      "walkable_from_town",
+      "seafront_food_and_drink",
+      "blue_flag_2026_for_named_municipal_beach",
+      "near_archaeological_sites"
+    ],
+    "activities_possible": [
+      "swimming",
+      "relaxation",
+      "short_beach_walk",
+      "seafront_dining",
+      "town_and_archaeological_sightseeing",
+      "photography"
+    ],
+    "estimated_crowd_peak": "often_busy_in_july_and_august_especially_near_serviced_sections",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "This is a town bathing beach beside the old harbour, not a licence to swim among moored boats or within active harbour waters. Gradual sea entry does not eliminate varying depth, waves, currents or the need to supervise children. Lifeguard cover and accessibility equipment have been reported, but verify current operating hours and availability on site."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Visitor guides list toilets associated with the town beach or beachfront operators; public access, location, hours and seasonal availability require verification."
+    },
+    "showers": {
+      "available_in_some_sections": true,
+      "note": "Showers are documented by local guides; confirm their present operation in the relevant beach season."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": true,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "Nikana (updated 2025) and Discover Thassos report a lifeguard, but hours, dates and deployment for any specific 2026 visit are unverified; do not promise supervision at all times.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Local guides describe wheelchair-friendly access and a hydraulic access ramp in past seasons; exact current ramp placement, functionality and accessible route remain unverified. Do not promise independent water entry without current confirmation.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Beach bars provide loungers and food in some sections. Guides also describe space for visitors using their own towels. Restrooms, changing cabins, showers, accessible facilities, rescue coverage and individual operator services depend on section and season; none should be presumed continuously available."
+  },
+  "access_and_cost": {
+    "road_access": "paved_town_streets_to_limenas_old_harbour_area_then_short_pedestrian_access",
+    "public_transport": "intercity_KTEL_buses_to_Limenas_town; walk_to_old_harbour_beach; current_routes_and_walk_times_not_verified",
+    "parking_type": "limited_town_street_or_roadside_parking_reported_near_beach; more_spaces_elsewhere_in_limenas",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Local guides report umbrellas/loungers linked to an order of drinks or food, while other guides describe rental. Policies can vary by operator and year; ask for current charge or minimum spend before sitting.",
+    "best_arrival_advice": "If staying in Limenas, walk to the beach near the old harbour rather than assuming a parking place. Come early in busy summer weeks for more space; bring sun protection, and confirm a beach bar’s lounger rules and the availability of showers, toilets and a lifeguard. Keep clear of operating harbour areas.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Within Limenas itself, near the old port; distance depends on the starting point in town. Several guides place it approximately 1.5 km from the new ferry port; no single route distance from a defined city-centre origin is stored."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": 2026,
+      "verified_specific_section": "Θάσος Πόλη/Λιμανάκι (Thasos Poli/Limanaki), municipal beach at Limenas",
+      "entire_beach_certified": null,
+      "season_end": "2026-09-30",
+      "source_ref": "s_official_blue_flag"
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave, active lifeguard schedule or lounger availability into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Limenas Town Beach (Limanaki)",
+      "tagline": "Nisip și apă liniștită la câțiva pași de portul vechi",
+      "summary": "Limanaki este plaja urbană a localității Limenas, aflată lângă portul vechi, într-o zonă cu restaurante, cafenele și obiective istorice. Nisipul, intrarea în mare în general lină și accesul ușor pe jos o fac practică pentru o baie fără deplasări lungi.",
+      "description": "Nu trebuie să pleci departe de centrul orașului Limenas ca să ajungi la mare: Limanaki, cunoscută și drept Limenas Town Beach, este mica plajă de nisip de lângă portul vechi al capitalei insulei Thassos. Nu se află în bazinul feriboturilor și nici nu trebuie confundată cu zona stâncoasă Karnagio, puțin mai departe pe coastă. Deși este o plajă urbană, atmosfera rămâne plăcută, cu apă adesea limpede, nisip pe mal și în primii metri din mare, plus o intrare în general progresivă, apreciată de familiile care vor o oprire comodă. În spatele nisipului se aliniază localuri de pe faleză, iar în sezon apar șezlonguri și umbrele oferite de operatorii de pe plajă. Există și posibilitatea de a sta cu propriul prosop în porțiunile disponibile, însă spațiul devine limitat în iulie și august. Farmecul Limanaki nu ține doar de baie: poți combina câteva ore la soare cu o plimbare prin portul vechi, cu o masă la tavernă sau cu descoperirea vestigiilor și a străduțelor istorice din Limenas. Ghidurile turistice menționează dușuri, cabine de schimb, salvamar și echipamente pentru accesibilitate, dar funcționarea lor trebuie verificată în sezonul vizitei. Pentru sectorul municipal denumit oficial Thasos Poli/Limanaki este confirmată distincția Blue Flag pentru sezonul 2026, încheiat la 30 septembrie. Aceasta este o plajă pentru confort și proximitate, nu o experiență izolată în natură; în zilele aglomerate vei auzi animația falezei și a barurilor din apropiere.",
+      "practical_tips": "Dacă ești cazat în Limenas, cea mai simplă variantă este să mergi pe jos spre plaja de lângă portul vechi. Nu căuta un loc de înot printre bărcile ancorate sau în zona de manevră a portului. Vara, vino mai devreme pentru a găsi spațiu și pentru a evita aglomerația. Întreabă la bar dacă șezlongurile se închiriază separat sau sunt legate de o comandă: regulile nu sunt identice peste tot. Ia protecție solară, fiindcă umbra naturală pe nisip este redusă. Parcarea în zona urbană poate fi limitată. Dușurile, toaletele, salvamarul și eventualul dispozitiv de acces în apă trebuie verificate local înainte de a te baza pe ele.",
+      "highlights": [
+        "Plajă nisipoasă lângă portul vechi din Limenas",
+        "Intrare în mare în general graduală",
+        "Taverne, cafenele și beach baruri pe faleză",
+        "Aproape de centrul istoric și situri arheologice",
+        "Blue Flag 2026 pentru sectorul oficial Limanaki"
+      ],
+      "seo_title": "Limanaki Beach Limenas, Thassos – acces și facilități",
+      "seo_description": "Descoperă Limanaki, plaja urbană din Limenas, Thassos: nisip, apă cu intrare lină, șezlonguri, taverne, acces pe jos și Blue Flag 2026.",
+      "social_caption": "🏖️ Limanaki, Limenas: o baie în mare chiar lângă portul vechi din Thassos! 🌊 Nisip, faleză cu taverne și centrul istoric la câțiva pași. 💙 Blue Flag 2026 pentru sectorul municipal. 🇬🇷 #Thassos #Limanaki #Limenas",
+      "photo_alt": "Plaja nisipoasă Limanaki din Limenas, Thassos, cu apă limpede, șezlonguri și localuri de-a lungul falezei."
+    },
+    "en": {
+      "name": "Limenas Town Beach (Limanaki Beach)",
+      "tagline": "An easy sandy swim beside Thassos Town’s old harbour",
+      "summary": "Limanaki is the compact town beach of Limenas, beside the old harbour and within walking distance of seafront cafés, tavernas and historic sights. Its predominantly sandy shore and usually gradual entry make it a convenient swim without leaving town.",
+      "description": "You do not have to leave Limenas to find a proper stretch of sand. Limanaki, also known as Limenas Town Beach or Thassos Town Beach, sits near the old fishing harbour, away from the ferry berths. It should not be confused with Karnagio’s rockier swimming spots farther along the coast, or with the separate Agios Vasilios/Vournelis beach to the west. The shoreline is compact and mainly sandy, with a gently shelving seabed in many parts and water that is often clear when conditions are settled. This makes it an appealing choice for a quick dip, particularly for visitors staying in town or families who prefer to keep cafés and other services close at hand. During the summer, beachfront businesses set out sunbeds and umbrellas, with food and refreshments only a few steps behind the beach. Some space for visitors using their own towels is also described in local guides, though the amount available can change with the season and crowds. Limanaki has the lively character of a town beach: July and August can be busy and music or conversation from nearby venues may form part of the atmosphere. Its greatest advantage is how naturally a swim fits into a day exploring Limenas. You can continue to the old harbour, a waterfront taverna, nearby archaeological remains and the town’s historic streets without planning a separate coastal trip. Visitor guides describe showers, changing cabins, a lifeguard and an accessible water-entry installation in past seasons; their current operation should be checked locally. The officially named municipal Thasos Poli/Limanaki beach received the Blue Flag award for the 2026 season, with the listed season ending on 30 September.",
+      "practical_tips": "Walk from central Limenas toward the old harbour if possible; the small amount of roadside parking behind the beach can fill quickly in high season. Never treat the mooring basin or working harbour as a swimming area. Arrive earlier in July and August for more choice of space. Check whether loungers are rented or offered with a minimum food or drink purchase, as operators set their own terms. There is little dependable shade directly on the sand, so bring sun protection. Ask on site about showers, toilets, the lifeguard’s duty hours and any accessible ramp before relying on these services. Keep children supervised despite the generally gradual water entry.",
+      "highlights": [
+        "Central sandy beach by Limenas old harbour",
+        "Usually gentle sea entry for relaxed swimming",
+        "Waterfront cafés, tavernas and loungers",
+        "Easy to combine with historic-town sightseeing",
+        "Official Blue Flag award for Thasos Poli/Limanaki in 2026"
+      ],
+      "seo_title": "Limenas Town Beach (Limanaki) Thassos – guide & access",
+      "seo_description": "Guide to Limanaki Beach in Limenas, Thassos: sandy shore, gradual entry, old harbour location, sunbeds, local facilities and 2026 Blue Flag.",
+      "social_caption": "🏖️ Limanaki Beach, Limenas: an easy sandy swim beside the old harbour in Thassos Town. 🌊 Beach cafés, historic lanes and 2026 Blue Flag recognition! 🇬🇷 #Thassos #Limanaki #Limenas",
+      "photo_alt": "Sandy Limanaki town beach in Limenas, Thassos, with shallow turquoise water, sun loungers and seafront venues behind the shore."
+    },
+    "el": {
+      "name": "Παραλία Λιμένα (Λιμανάκι)",
+      "tagline": "Αμμουδιά και δροσερή βουτιά δίπλα στο παλιό λιμάνι",
+      "summary": "Το Λιμανάκι είναι η μικρή αστική παραλία του Λιμένα Θάσου, κοντά στο παλιό λιμάνι, στα καφέ, στις ταβέρνες και στα ιστορικά αξιοθέατα. Η αμμουδιά και η συνήθως ομαλή είσοδος στη θάλασσα προσφέρουν μια εύκολη επιλογή για μπάνιο χωρίς μετακίνηση έξω από την πόλη.",
+      "description": "Στον Λιμένα της Θάσου μπορείτε να συνδυάσετε τον περίπατο στην πόλη με μια κανονική βουτιά στη θάλασσα. Η παραλία Λιμανάκι, γνωστή και ως παραλία του Λιμένα ή της πόλης της Θάσου, βρίσκεται κοντά στο παλιό αλιευτικό λιμάνι και όχι στις προβλήτες των φέρι. Είναι διαφορετική από το πιο βραχώδες Καρνάγιο, που συναντά κανείς παρακάτω στην ακτή, αλλά και από την παραλία Αγίου Βασιλείου ή Βουρνέλη προς τη δυτική πλευρά της πόλης. Η ακτή είναι σχετικά μικρή, κυρίως αμμώδης, με λίγα μικρά βότσαλα σε ορισμένα σημεία και συνήθως ήπια κλίση στον βυθό. Όταν ο καιρός είναι καλός, τα νερά προσφέρονται για ένα ευχάριστο κολύμπι χωρίς να χρειάζεται να οργανώσετε ολόκληρη εκδρομή. Κατά την τουριστική περίοδο τοποθετούνται ξαπλώστρες και ομπρέλες από παραθαλάσσιες επιχειρήσεις, ενώ ακριβώς πίσω από την ακτή υπάρχουν καφέ και ταβέρνες. Το διαθέσιμο ελεύθερο τμήμα μπορεί να περιορίζεται τις ημέρες μεγάλης κίνησης, ιδιαίτερα τον Ιούλιο και τον Αύγουστο. Το σημαντικότερο πλεονέκτημα είναι η θέση της: μετά το μπάνιο μπορείτε να συνεχίσετε στο παλιό λιμάνι, να δοκιμάσετε τοπικές γεύσεις ή να ανακαλύψετε αρχαιολογικούς χώρους και ιστορικά σημεία του Λιμένα. Ταξιδιωτικοί οδηγοί έχουν καταγράψει ντους, αποδυτήρια, ναυαγοσώστη και εξοπλισμό διευκόλυνσης πρόσβασης στη θάλασσα, αλλά η λειτουργία τους χρειάζεται επιβεβαίωση για την ημέρα της επίσκεψης. Η επίσημα καταγεγραμμένη ακτή «Θάσος Πόλη/Λιμανάκι» βραβεύτηκε με Γαλάζια Σημαία για το 2026, με ημερομηνία λήξης περιόδου την 30ή Σεπτεμβρίου.",
+      "practical_tips": "Αν μένετε στον Λιμένα, προτιμήστε να φτάσετε με τα πόδια προς το παλιό λιμάνι, καθώς οι θέσεις στάθμευσης κοντά στην παραλία είναι περιορισμένες. Μην κολυμπάτε στον χώρο όπου δένουν ή κινούνται τα σκάφη. Τον Ιούλιο και τον Αύγουστο ελάτε νωρίς για περισσότερο διαθέσιμο χώρο. Ρωτήστε κάθε επιχείρηση αν οι ξαπλώστρες χρεώνονται ή συνδέονται με ελάχιστη κατανάλωση. Πάρτε αντηλιακή προστασία επειδή η φυσική σκιά στην άμμο είναι μικρή. Επιβεβαιώστε επιτόπου τη λειτουργία ντους, τουαλετών, ναυαγοσώστη και τυχόν μηχανισμού προσβασιμότητας. Ακόμη και στα συνήθως ρηχά νερά απαιτείται συνεχής επίβλεψη των παιδιών.",
+      "highlights": [
+        "Αμμώδης παραλία δίπλα στο παλιό λιμάνι",
+        "Συνήθως ομαλή είσοδος στη θάλασσα",
+        "Καφέ, ταβέρνες και ξαπλώστρες σε μικρή απόσταση",
+        "Κοντά σε αρχαιολογικούς χώρους και στο ιστορικό κέντρο",
+        "Γαλάζια Σημαία 2026 για την ακτή Θάσος Πόλη/Λιμανάκι"
+      ],
+      "seo_title": "Παραλία Λιμανάκι Θάσος – πρόσβαση και παροχές",
+      "seo_description": "Γνωρίστε το Λιμανάκι στον Λιμένα Θάσου: αμμουδιά δίπλα στο παλιό λιμάνι, ήπια είσοδος, ξαπλώστρες, χρήσιμες συμβουλές και Γαλάζια Σημαία 2026.",
+      "social_caption": "🏖️ Λιμανάκι, Λιμένας Θάσου: μια όμορφη αμμουδιά δίπλα στο παλιό λιμάνι! 🌊 Καφέ, ταβέρνες και ιστορικοί περίπατοι λίγα βήματα μακριά. 💙 Γαλάζια Σημαία 2026. #Θάσος #Λιμανάκι #Λιμένας",
+      "photo_alt": "Η αμμώδης παραλία Λιμανάκι στον Λιμένα Θάσου, με γαλαζοπράσινα νερά, ξαπλώστρες και καταστήματα στην παραλιακή ζώνη."
+    },
+    "de": {
+      "name": "Limenas Stadtstrand (Limanaki Beach)",
+      "tagline": "Sandstrand und Badepause gleich am alten Hafen",
+      "summary": "Limanaki ist der kleine Stadtstrand von Limenas neben dem alten Hafen, nur einen Spaziergang von Cafés, Tavernen und historischen Sehenswürdigkeiten entfernt. Sein überwiegend sandiges Ufer und der meist sanfte Einstieg machen ihn ideal für eine unkomplizierte Badepause.",
+      "description": "Wer in Limenas wohnt oder die Inselhauptstadt besucht, muss für einen Strandtag nicht unbedingt ins Auto steigen. Der Stadtstrand Limanaki liegt in der Nähe des alten Fischerhafens und abseits der Fähranleger. Er ist nicht mit dem felsigeren Karnagio weiter östlich oder mit Agios Vasilios beziehungsweise Vournelis auf der anderen Seite des Hafenbereichs zu verwechseln. Am kompakten Ufer überwiegt Sand, stellenweise liegen kleine Kiesel, und der Meeresboden fällt meist allmählich ab. Bei ruhigem Wetter wirkt das Wasser häufig klar und lädt zu einer kurzen Erfrischung ein. Hinter dem Strand liegen Cafés, Tavernen und andere Lokale an der Promenade. Im Sommer bieten verschiedene Betreiber Liegen und Sonnenschirme an. Auch Bereiche für Gäste mit eigenem Handtuch werden in örtlichen Reiseführern erwähnt, doch in der Hochsaison kann der Platz schnell knapp werden. Limanaki ist kein einsamer Naturstrand, sondern ein belebter Treffpunkt mit den Geräuschen der Stadt und gelegentlich Musik aus den Strandbars. Genau das macht ihn für viele Besucher praktisch: Ein Bad lässt sich mit einem Spaziergang durch den alten Hafen, einem Mittagessen am Wasser oder einem Besuch der archäologischen Stätten und historischen Gassen verbinden. Reiseführer berichten von Duschen, Umkleiden, einem Rettungsschwimmer und früher eingesetzten Zugangshilfen für Menschen mit Behinderung. Ob und wann diese Einrichtungen aktuell verfügbar sind, muss vor Ort geprüft werden. Der offiziell als „Thasos Poli/Limanaki“ bezeichnete kommunale Strand wurde für die Saison 2026 mit der Blauen Flagge ausgezeichnet; die auf der offiziellen Seite angegebene Saison endete am 30. September.",
+      "practical_tips": "Von einer Unterkunft in Limenas aus gelangen Sie am bequemsten zu Fuß in Richtung alter Hafen. Direkt hinter dem Strand sind Parkplätze nicht in unbegrenzter Zahl vorhanden. Meiden Sie beim Schwimmen den Hafenbereich mit festgemachten oder manövrierenden Booten. Im Juli und August lohnt sich eine frühe Ankunft. Fragen Sie vor der Nutzung von Liegen, ob eine Mietgebühr oder ein Mindestverzehr gilt. Natürlicher Schatten direkt am Strand ist begrenzt, daher Sonnenschutz mitnehmen. Die aktuellen Öffnungszeiten von Toiletten und Duschen sowie Rettungsschwimmerdienst und mögliche barrierefreie Einstiegshilfen sollten vor Ort überprüft werden. Kinder auch im flacheren Wasser beaufsichtigen.",
+      "highlights": [
+        "Sandiger Stadtstrand am alten Hafen von Limenas",
+        "Meist flach abfallender Einstieg ins Meer",
+        "Cafés, Tavernen und Strandliegen in direkter Nähe",
+        "Baden mit Altstadt- und Archäologie-Spaziergang verbinden",
+        "Blaue Flagge 2026 für Thasos Poli/Limanaki"
+      ],
+      "seo_title": "Limanaki Beach Limenas, Thassos – Strand & Anfahrt",
+      "seo_description": "Limanaki in Limenas auf Thassos: Sandstrand am alten Hafen, meist flacher Einstieg, Liegen, Gastronomie, Tipps und Blaue Flagge 2026.",
+      "social_caption": "🏖️ Limanaki in Limenas: eine entspannte Badepause direkt beim alten Hafen von Thassos-Stadt. 🌊 Sand, Tavernen und Altstadtflair – mit Blauer Flagge 2026! 🇬🇷 #Thassos #Limanaki #Limenas",
+      "photo_alt": "Sandstrand Limanaki in Limenas auf Thassos mit klarem Meer, Sonnenliegen und Cafés an der Uferpromenade."
+    },
+    "bg": {
+      "name": "Градски плаж Лименас (Лиманаки)",
+      "tagline": "Пясък и приятно море до старото пристанище",
+      "summary": "Лиманаки е компактният градски плаж на Лименас, разположен близо до старото пристанище, край таверни, кафенета и исторически забележителности. Предимно пясъчният бряг и обикновено плавното навлизане в морето го правят удобен избор за къпане без пътуване извън града.",
+      "description": "В Лименас, столицата на остров Тасос, има място за истинска почивка на пясъка съвсем близо до градските улици. Плаж Лиманаки, известен и като градския плаж на Лименас, се намира до старото рибарско пристанище, далеч от фериботните кейове. Той не е същото място като по-скалистата зона Карнагио по-нататък по брега, нито като Агийос Василиос или Вурнелис от западната страна на пристанищната зона. Ивицата е сравнително малка, предимно с пясък и на места с дребни камъчета, а морското дъно обикновено се спуска плавно. При спокойно време водата често е бистра и е подходяща за кратко освежаващо плуване, особено ако сте отседнали в Лименас. През летните месеци заведенията подреждат шезлонги и чадъри, а зад тях има кафенета и таверни, където може да обядвате или да си вземете напитка. Местни пътеводители споменават и място за собствени кърпи, но през юли и август плажът лесно се запълва. Най-голямото му предимство е съчетанието между море и градска разходка: старото пристанище, археологическите останки и историческите улички са наблизо. В туристическите описания се посочват душове, съблекални, спасител и специално съоръжение за достъп до водата, но работата им през конкретния сезон трябва да се потвърди на място. Официално обозначеният общински плаж „Тасос Поли/Лиманаки“ е отличен със Син флаг за сезон 2026, който според регистъра приключва на 30 септември. Лиманаки е практичен и оживен градски плаж, а не усамотен залив.",
+      "practical_tips": "Ако сте отседнали в Лименас, стигнете пеша до района на старото пристанище; паркирането непосредствено зад плажа е ограничено. Не плувайте между акостирали лодки или в работещата част на пристанището. През юли и август идвайте по-рано, за да изберете удобно място. Попитайте дали шезлонгът се заплаща отделно или се ползва срещу поръчка в заведението. Вземете слънцезащита, защото естествената сянка върху пясъка не е много. Проверете на място работата на душовете, тоалетните, спасителя и евентуалното оборудване за достъп на хора с увреждания. Наблюдавайте децата, макар навлизането във водата обикновено да е плавно.",
+      "highlights": [
+        "Пясъчен градски плаж до старото пристанище",
+        "Обикновено плавно навлизане във водата",
+        "Кафенета, таверни и сезонни шезлонги",
+        "Близо до археологически обекти и центъра на Лименас",
+        "Син флаг 2026 за официалния сектор Тасос Поли/Лиманаки"
+      ],
+      "seo_title": "Плаж Лиманаки, Лименас, Тасос – достъп и удобства",
+      "seo_description": "Разгледайте Лиманаки в Лименас, Тасос: пясък до старото пристанище, плавен вход в морето, шезлонги, таверни и Син флаг 2026.",
+      "social_caption": "🏖️ Лиманаки, Лименас: пясъчен плаж само на крачки от старото пристанище на Тасос! 🌊 Кафенета, таверни и история наблизо. 💙 Син флаг 2026. 🇬🇷 #Тасос #Лиманаки #Лименас",
+      "photo_alt": "Пясъчният градски плаж Лиманаки в Лименас на Тасос, с чисто море, шезлонги и кафенета покрай брега."
+    },
+    "sr": {
+      "name": "Gradska plaža Limenas (Limanaki)",
+      "tagline": "Peščana plaža i lagano kupanje kraj stare luke",
+      "summary": "Limanaki je mala gradska plaža u Limenasu, blizu stare luke, kafića, taverni i istorijskih znamenitosti. Pretežno peščana obala i uglavnom postepen ulazak u more čine je praktičnom za kratko kupanje bez odlaska iz grada.",
+      "description": "Ako boravite u Limenasu, glavnom gradu Tasosa, do peščane plaže možete stići bez vožnje automobilom. Limanaki, poznata i kao gradska plaža Limenasa, nalazi se kraj stare ribarske luke, a ne kod pristaništa za trajekte. Ne treba je mešati sa kamenitijim delom obale Karnagio nešto dalje na istoku, niti sa plažom Agios Vasilios ili Vurnelis na zapadnoj strani lučkog područja. Obala je kratka i uglavnom peščana, uz poneki sitan oblutak, dok je ulazak u more na većem delu postepen. Kada je vreme mirno, voda je često bistra i pogodna za predah od gradske šetnje. Leti se na plaži postavljaju ležaljke i suncobrani koji pripadaju okolnim lokalima, a odmah iza peska nižu se kafići i taverne. Lokalni vodiči pominju i mesta za sopstveni peškir, ali tokom jula i avgusta prostor može brzo da se popuni. Limanaki je živa gradska plaža, pa su muzika i razgovor iz obližnjih barova deo uobičajene atmosfere. Njena posebna prednost jeste što jedan dan možete lako podeliti između kupanja, ručka uz more i istraživanja stare luke, arheoloških ostataka i istorijskih ulica Limenasa. Turistički vodiči beleže tuševe, kabine za presvlačenje, spasioca i opremu za pristupačniji ulazak u vodu iz ranijih sezona; njihovo trenutno stanje treba proveriti na licu mesta. Zvanični opštinski sektor pod nazivom „Thasos Poli/Limanaki“ dobio je Plavu zastavu za sezonu 2026, uz naveden završetak sezone 30. septembra. Ovo je dobar izbor za one kojima je važna blizina gradskih sadržaja, a ne osamljena prirodna uvala.",
+      "practical_tips": "Od smeštaja u Limenasu najjednostavnije je doći peške prema staroj luci, jer su mesta za parkiranje uz plažu ograničena. Ne ulazite u vodu na vezovima za čamce niti u aktivnom lučkom prostoru. Tokom najprometnijih letnjih nedelja dođite ranije. Pre korišćenja ležaljki pitajte da li se posebno naplaćuju ili uz naručeno piće i hranu; uslovi se razlikuju od lokala do lokala. Ponesite zaštitu od sunca jer na samom pesku nema mnogo hlada. Proverite da li su dostupni tuševi, toaleti, spasilac i oprema za pristup vodi. Decu nadzirite i u delovima sa postepenim ulaskom u more.",
+      "highlights": [
+        "Peščana plaža pored stare luke u Limenasu",
+        "Uglavnom postepen ulazak u more",
+        "Kafići, taverne i sezonske ležaljke",
+        "Kupanje blizu istorijskog centra i arheoloških ostataka",
+        "Plava zastava 2026 za zvanični sektor Thasos Poli/Limanaki"
+      ],
+      "seo_title": "Limanaki plaža Limenas, Tasos – prilaz i sadržaji",
+      "seo_description": "Otkrijte Limanaki u Limenasu na Tasosu: gradska peščana plaža, postepen ulazak u vodu, ležaljke, taverne i Plava zastava 2026.",
+      "social_caption": "🏖️ Limanaki, Limenas: peščana plaža odmah kraj stare luke na Tasosu! 🌊 Kafići, taverne i istorijske ulice na dohvat ruke. 💙 Plava zastava 2026. 🇬🇷 #Tasos #Limanaki #Limenas",
+      "photo_alt": "Peščana gradska plaža Limanaki u Limenasu na Tasosu, sa bistrom morskom vodom, ležaljkama i kafićima uz obalu."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/limenas-town/images/limenas-town1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/limenas-town/images/limenas-town2.webp",
+      "destinations/thassos/beaches/limenas-town/images/limenas-town3.webp",
+      "destinations/thassos/beaches/limenas-town/images/limenas-town4.webp",
+      "destinations/thassos/beaches/limenas-town/images/limenas-town5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/limenas-town/images/",
+    "suggested_asset_names": [
+      "limenas-town1.webp",
+      "limenas-town2.webp",
+      "limenas-town3.webp",
+      "limenas-town4.webp",
+      "limenas-town5.webp"
+    ],
+    "image_policy": "Only user-provided, owned or appropriately licensed photographs of Limenas Town Beach (Limanaki) on Thassos may be published. Image paths are assigned from filenames visible in the user-provided screenshot; verify the exact beach scene, provenance, reuse rights and any attribution requirements.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_official_blue_flag",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — Θάσος Πόλη/Λιμανάκι (Thasos Poli/Limanaki), 2026",
+      "url": "https://www.blueflag.gr/el/beach/thasos-poli-limanaki",
+      "detail": "Official 2026 Blue Flag award page for municipal sector Θάσος Πόλη/Λιμανάκι; period ends 30 September 2026, awarded in 2026 and continuously since 2021. Award applies to named beach, not all of Limenas waterfront.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_awards_2026",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — 2026 national awarded beaches list",
+      "url": "https://www.blueflag.gr/el/awards/2026",
+      "detail": "Official national list includes Thasos Poli/Limanaki within the five named Thassos Municipality awards for 2026.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_city",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Limenas City Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1928/limenas-town-beach",
+      "detail": "Sandy compact beach at old port, 1.5 km from ferry port, gradual water entry, crowds July–August, umbrellas/loungers, nearby bars, lifeguard, showers, cabins and hydraulic accessibility ramp described; article updated November 2025, current operating schedule not verified.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover_thassos",
+      "kind": "local_travel_guide",
+      "title": "Discover Thassos — Limenas Beach (Limanaki)",
+      "url": "https://www.discover-thassos.com/listing/limenas-beach-thassos/",
+      "detail": "Identifies Limanaki as sandy town beach near old port, gradual depth, shops, loungers, bars, archaeology and seasonal amenities; mentions accessible features and lifeguard without hours.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover_thassos_greek",
+      "kind": "local_travel_guide",
+      "title": "Discover Thassos — Παραλία Λιμένα Θάσου (Λιμανάκι)",
+      "url": "https://www.discover-thassos.com/el/listing/paralia-limenas/",
+      "detail": "Confirms Greek naming and the town beach by the old port; mentions showers, changing cabins, lifeguard and reported wheelchair accessibility.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_region",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Beaches around Limenas",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/2347/beaches-around-limenas",
+      "detail": "Separates town beach beside old harbour from Agios Vasilios/Vournelis west of the ferry port and from other nearby beaches; reports sand and seasonal shade in back.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_karnagio",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Beaches on Thassos description and access",
+      "url": "https://nikana.gr/en/tourist-guide/blog/beaches/1676/beaches-on-thassos-description-and-how-to-get-there",
+      "detail": "Explains distinct city sandy beach by old port versus small rocky Karnagio area about a ten-minute walk away; old descriptions of consumption-based sunbeds are not current prices.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Limenas town",
+      "url": "https://www.go-thassos.gr/about-thassos/places/limenas",
+      "detail": "Lists old town beach Limanaki separately from Makryammos, Nisteri, Agios Vasileios, Tarsanas, Glyfada and Papalimani.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_whichgreekisland",
+      "kind": "travel_guide",
+      "title": "Which Greek Island — Limanaki Beach",
+      "url": "https://whichgreekisland.co.uk/islands/thassos/beaches/limanaki/",
+      "detail": "Narrow urban beach northeast of town, sand with small pebbles, shallow first entry, tavernas, sunbeds and limited roadside parking. Approximate length not treated as measured fact.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_mythassos",
+      "kind": "regional_tourism_guide",
+      "title": "MyThassos — Limenas (Thassos) destination",
+      "url": "https://mythassos.app/en/places/%CE%BB%CE%B9%CE%BC%CE%B5%CE%BD%CE%B1%CF%82-%CE%B8%CE%B1%CF%83%CE%BF%CF%82",
+      "detail": "Calls Limanaki the beach beside old port, notes town amenities, KTEL terminal and Blue Flag, distinguishes from nearby beaches.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_category",
+      "kind": "image_collection",
+      "title": "Wikimedia Commons — Category:Limenas Beach (Thasos)",
+      "url": "https://commons.wikimedia.org/wiki/Category:Limenas_Beach_(Thasos)",
+      "detail": "Category listing two Ronald Saunders photographs; each individual file license checked; category alone is not a license guarantee or exact-subject verification.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_ronald_beach",
+      "kind": "image_license",
+      "title": "Wikimedia Commons — LIFE'S A BEACH. THASSOS TOWN .GREECE.",
+      "url": "https://commons.wikimedia.org/wiki/File:Flickr_-_ronsaunders47_-_LIFE'S_A_BEACH._THASSOS_TOWN_.GREECE..jpg",
+      "detail": "Ronald Saunders, 30 May 2011, 2659x1931, CC BY-SA 2.0 explicitly reviewed from Flickr; category Limenas Beach (Thasos). Requires attribution and ShareAlike for adapted versions.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_ronald_limenas",
+      "kind": "image_license",
+      "title": "Wikimedia Commons — Limenas. Thassos. Greece.",
+      "url": "https://commons.wikimedia.org/wiki/File:Flickr_-_ronsaunders47_-_Limenas._Thassos._Greece..jpg",
+      "detail": "Ronald Saunders, 30 May 2011, 3586x2590, CC BY-SA 2.0 explicitly reviewed; caption says Limenas outskirts, so verify subject of photo before beach-gallery use.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_google_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Limanaki Beach, Limenas (name search, not a verified pin)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Limanaki%20Beach%2C%20Limenas%2C%20Thassos%2C%20Greece",
+      "detail": "Name-only search provided for manual map review; does not establish exact coordinates, parking or wheelchair access point.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_disambig_skala_maries",
+      "kind": "disambiguation_reference",
+      "title": "Discover Thassos — Skala Maries Beach (also Limanaki)",
+      "url": "https://www.discover-thassos.com/listing/skala-maries-beach-thassos/",
+      "detail": "A separate Limanaki-named beach exists at Skala Maries on southwest Thassos and already has its own Skala Maries record; must not duplicate in Limenas record.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Verify exact town beach representative Google Maps pin and pedestrian access point; lat/lng currently null, and photograph camera coordinates are not beach coordinates",
+      "Confirm current operation and times of showers, changing cabins, toilets and lifeguard; historical evidence is not a guarantee for an arbitrary travel date",
+      "Check accessibility: confirm whether an accessible route and hydraulic sea-entry ramp are actually installed, maintained and functional during the visitor season",
+      "Confirm actual area available for own towels, seasonal sunbed consumption/rental policies and parking availability or restrictions",
+      "Blue Flag official 2026 named beach confirmed with end date 2026-09-30; verify any future-season award separately and do not claim all Limenas coastline is certified",
+      "Confirm limenas-town1.webp–limenas-town5.webp depict Limanaki town beach near the old harbour in Limenas, not neighbouring Karnagio, Vournelis or other Thassos beaches; document photo ownership, licence and any required attribution.",
+      "Do not conflate Limanaki by old port with separate Karnagio, Agios Vasilios/Vournelis, or the already catalogued Skala Maries Beach also called Limanaki",
+      "Review all six-language editorial content with native speakers before public release"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Six-language editorial text supplied; reuse rights to the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local image paths assigned from the user-provided screenshot of filenames; actual image files, precise photographic subjects and publishing rights have not been independently verified."
+  }
+}

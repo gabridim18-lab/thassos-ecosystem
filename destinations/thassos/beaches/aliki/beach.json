@@ -1,0 +1,365 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-aliki",
+  "slug": "aliki",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Αλυκή",
+    "international_name": "Aliki Beach",
+    "aliases": [
+      "Alyki",
+      "Aliki",
+      "Aliki Beach",
+      "Alyki Beach",
+      "Aliki Bay",
+      "Αλυκή Θάσου",
+      "Alikes"
+    ],
+    "entity_scope": "Visitor area at the Aliki peninsula with a main serviced cove and a quieter, partly rocky cove; the two coves are distinct geographic sections.",
+    "deduplication_warning": "Do not count Aliki, Alyki, Aliki Beach II, and the archaeological-side cove as four independent beaches without verifying coastal geometry; preserve coves as named sections."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southeast",
+    "settlements": [
+      "Aliki"
+    ],
+    "lat": 40.604806,
+    "lng": 24.7402174,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/place/Aliki/@40.604806,24.7402174,18z/data=!4m5!1m2!2m1!1saliki+beach+thassos!3m1!1s0x0:0x39e3cf3e09302d24",
+    "coordinate_source_reference": "s_map",
+    "coordinate_type": "google_maps_viewport_center_for_aliki_area_not_exact_beach_access",
+    "coordinate_review_status": "Google_Maps_link_checked_coordinates_represent_viewport; confirm_main_cove_pin_and_parking_access_before_publishing_navigation",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "fine_sand_main_cove_with_rocky_edges_and_mixed_secondary_cove",
+    "seabed_near_shore": "mostly_sandy_main_cove_rocks_near_edges",
+    "water_entry": "generally_gradual_in_sandy_sections",
+    "nearshore_depth": "variable_between_coves",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "wind_and_cove_dependent",
+    "exposure": "two_small_coves_around_southeastern_peninsula",
+    "natural_shade_on_sand": "limited_and_section_dependent",
+    "beach_length_m": null,
+    "length_note": "Both coves are relatively small; no reliable consistent single-length measurement established.",
+    "backdrop": "pine-covered archaeological peninsula, pale marble rock and nearby hills",
+    "shoreline_type": "paired_coves_sandy_main_and_partly_rocky_secondary"
+  },
+  "visitor_experience": {
+    "organization": "main_cove_organized_secondary_mostly_less_developed",
+    "suitable_for": [
+      "couples",
+      "families_main_sandy_sections",
+      "history_and_culture",
+      "swimming",
+      "snorkeling_when_conditions_permit",
+      "photography",
+      "coastal_walks"
+    ],
+    "notable_for": [
+      "two_coves",
+      "clear_water",
+      "ancient_marble_quarries",
+      "archaeological_remains",
+      "seafront_tavernas",
+      "pine_backdrop"
+    ],
+    "activities_possible": [
+      "swimming",
+      "snorkeling",
+      "coastal_walking",
+      "archaeological_site_visit",
+      "photography",
+      "seafront_dining"
+    ],
+    "estimated_crowd_peak": "main_cove_often_busy_in_july_august",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Rocky and uneven sections, boat activity and changing waves mean supervision and caution are needed; archaeological paths may be uneven."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Possible at nearby operators; public access and exact locations unverified."
+    },
+    "showers": {
+      "available_in_some_sections": null
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No verified lifeguard coverage for both coves.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Slope and uneven archaeological/rocky paths; accessible route and equipment not independently confirmed.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Main cove has most visitor amenities; smaller archaeological cove is not necessarily serviced."
+  },
+  "access_and_cost": {
+    "road_access": "paved_coastal_road_with_short_walk_to_beach",
+    "public_transport": "bus_service_reported_by_local_guides_schedule_unverified",
+    "parking_type": "roadside_and_local_parking_where_permitted",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Some operators require purchases or set seasonal charges; no fixed island-wide price.",
+    "best_arrival_advice": "Arrive early in peak summer; roadside parking and the narrow main cove can fill quickly.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Trip distances depend on the chosen parking area and starting point; not stored without route confirmation."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave height or venue availability into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Aliki (Alyki Beach)",
+      "tagline": "Două golfuri turcoaz, nisip fin și istorie antică lângă mare",
+      "summary": "Aliki se află pe coasta sud-estică a insulei Thassos și combină o plajă amenajată, cu nisip și taverne, cu un golf mai liniștit lângă vestigii arheologice și vechi cariere de marmură.",
+      "description": "Aliki este unul dintre locurile în care o zi de plajă se poate transforma într-o mică excursie prin istoria insulei. Peninsula sa împădurită separă două golfuri cu ape de obicei limpezi, în nuanțe de verde și turcoaz. În golful principal, din apropierea drumului, vei găsi o fâșie relativ îngustă de nisip, șezlonguri, umbrele și taverne chiar lângă apă. Intrarea în mare este în general treptată în sectorul nisipos, dar pot apărea pietre și diferențe de adâncime. Celălalt golf, accesibil pe poteci dinspre peninsulă, are un caracter mai natural, cu porțiuni stâncoase și mai puține amenajări; nu trebuie confundat cu plaja principală. O plimbare pe promontoriu dezvăluie urmele vechilor cariere de marmură și ale unor monumente religioase antice și paleocreștine. Pentru fotografii spectaculoase, merită să surprinzi atât culoarea apei, cât și contrastul dintre pini, stâncile deschise la culoare și ruine. Vara, spațiul de pe plaja principală și parcările se pot aglomera, așa că o sosire matinală ajută.",
+      "practical_tips": "Ajungi din șoseaua principală și cobori pe jos spre golf. Parcarea este în zonele de lângă drum și poate fi dificilă în iulie–august. Ia încălțăminte potrivită pentru pietre dacă explorezi golful secundar sau potecile sitului arheologic. Nu presupune că există dușuri, toalete ori salvamar pe ambele maluri. Tarifele șezlongurilor și condițiile de consum se stabilesc de operatori; verifică la fața locului. Respectă semnalizarea și nu călca pe vestigii.",
+      "highlights": [
+        "Două golfuri cu atmosferă diferită",
+        "Nisip fin și apă de obicei limpede în golful principal",
+        "Taverne chiar lângă plajă",
+        "Snorkeling lângă marginile stâncoase, în condiții potrivite",
+        "Poteci către vechile cariere de marmură și ruine"
+      ],
+      "seo_title": "Aliki Beach Thassos – golfuri, acces, ruine și facilități",
+      "seo_description": "Descoperă Aliki din Thassos: două golfuri, nisip, taverne, snorkeling, parcare și plimbare la carierele antice de marmură.",
+      "social_caption": "🏖️ Aliki, Thassos: două golfuri cu apă turcoaz și o peninsulă plină de istorie! 🌿 Înot, taverne la malul mării și o plimbare printre vechile cariere de marmură. Salvează locul pentru următoarea vacanță! 🇬🇷 #Thassos #Aliki #ExploreGreece",
+      "photo_alt": "Cele două golfuri din Aliki, Thassos, cu apă turcoaz, vegetație verde și peninsula arheologică."
+    },
+    "en": {
+      "name": "Aliki (Alyki Beach)",
+      "tagline": "Two turquoise coves, soft sand and ancient history by the sea",
+      "summary": "On the southeastern coast of Thassos, Aliki combines a serviced sandy cove with tavernas and a quieter bay beside archaeological remains and ancient marble quarries.",
+      "description": "Aliki is a place where a beach day can naturally turn into a walk through the island’s past. A green peninsula separates two coves, both known for generally clear, green-blue water. The main cove, closer to the coastal road, has a relatively narrow sandy strip, seasonal loungers and umbrellas, and traditional tavernas beside the shore. Entry into the sea is often gradual over sand, though rocks and changing depths require attention. Across the peninsula, the second cove is quieter and less developed, with rockier edges and sections that are not ideal for young children; it should not be confused with the main serviced beach. Footpaths around the headland lead toward traces of ancient marble quarrying and religious ruins from different historical periods. The setting rewards visitors who enjoy combining swimming, gentle exploration and photography: pale stone, pine-covered slopes and turquoise water make a striking scene. The main cove can be very busy in peak summer, and parking near the road may fill up early.",
+      "practical_tips": "Park near the main road where permitted and walk down to the cove. Arrive early in July and August, especially at weekends. Bring shoes with grip for rocky sections and archaeological paths. Toilets, showers, accessibility equipment and lifeguard coverage should not be assumed for either bay without checking. Lounger conditions and prices vary by operator. Keep to permitted paths and do not climb on historic remains.",
+      "highlights": [
+        "Two distinct coves beside one peninsula",
+        "Fine sand and generally clear water in the main bay",
+        "Seafront tavernas and seasonal loungers",
+        "Snorkelling opportunities by rocky edges when conditions allow",
+        "Ancient marble quarries and archaeological walks"
+      ],
+      "seo_title": "Aliki Beach Thassos – coves, access, ruins and amenities",
+      "seo_description": "Explore Aliki Beach on Thassos: twin coves, sand, tavernas, snorkelling, parking and the historic marble-quarry peninsula.",
+      "social_caption": "🏖️ Aliki, Thassos: two turquoise coves and a peninsula full of history! 🌿 Swim, enjoy a seaside taverna and walk past ancient marble quarries. Save this Greek island gem! 🇬🇷 #Thassos #AlikiBeach #GreeceTravel",
+      "photo_alt": "View of the two turquoise coves of Aliki and the archaeological peninsula on Thassos."
+    },
+    "el": {
+      "name": "Αλυκή (Aliki Beach)",
+      "tagline": "Δύο γαλαζοπράσινοι όρμοι, άμμος και αρχαία ιστορία δίπλα στη θάλασσα",
+      "summary": "Στη νοτιοανατολική Θάσο, η Αλυκή συνδυάζει έναν οργανωμένο αμμώδη όρμο με ταβέρνες και έναν πιο ήσυχο κόλπο δίπλα σε αρχαιολογικά κατάλοιπα και αρχαία λατομεία μαρμάρου.",
+      "description": "Η Αλυκή είναι ένας προορισμός όπου το μπάνιο στη θάλασσα συνδυάζεται εύκολα με μια βόλτα στην ιστορία του νησιού. Μια καταπράσινη χερσόνησος χωρίζει δύο όρμους με συνήθως καθαρά, γαλαζοπράσινα νερά. Ο κύριος όρμος, κοντά στον παραλιακό δρόμο, διαθέτει σχετικά στενή αμμώδη ακτή, εποχικές ξαπλώστρες και ομπρέλες, καθώς και παραδοσιακές ταβέρνες δίπλα στο κύμα. Σε αρκετά σημεία η είσοδος στη θάλασσα γίνεται σταδιακά πάνω σε άμμο, όμως υπάρχουν και πέτρες και διαφορές στο βάθος. Ο δεύτερος όρμος, στην άλλη πλευρά της χερσονήσου, είναι πιο ήσυχος και λιγότερο οργανωμένος, με βραχώδη σημεία· δεν πρέπει να συγχέεται με την κύρια παραλία. Τα μονοπάτια της χερσονήσου οδηγούν σε ίχνη αρχαίας εξόρυξης μαρμάρου και σε ερείπια λατρευτικών κτισμάτων διαφορετικών εποχών. Το λευκό πέτρωμα, τα πεύκα και το τιρκουάζ νερό δημιουργούν εξαιρετικό σκηνικό για φωτογραφίες. Το καλοκαίρι η κύρια παραλία γεμίζει εύκολα και η στάθμευση μπορεί να είναι δύσκολη.",
+      "practical_tips": "Η πρόσβαση γίνεται από τον κεντρικό δρόμο με μικρή πεζή διαδρομή. Τον Ιούλιο και τον Αύγουστο προτιμήστε πρωινή άφιξη. Για τα βραχώδη σημεία και τα αρχαιολογικά μονοπάτια φορέστε σταθερά παπούτσια. Μην θεωρείτε δεδομένες τις τουαλέτες, τα ντους, την πρόσβαση ΑμεΑ ή τη ναυαγοσωστική κάλυψη σε κάθε όρμο. Οι τιμές και οι όροι χρήσης ξαπλώστρας διαφέρουν ανά επιχείρηση. Σεβαστείτε τη σήμανση του αρχαιολογικού χώρου.",
+      "highlights": [
+        "Δύο διαφορετικοί όρμοι γύρω από μία χερσόνησο",
+        "Αμμώδης κύρια παραλία με συνήθως καθαρά νερά",
+        "Παραθαλάσσιες ταβέρνες",
+        "Δυνατότητες για μάσκα κοντά στα βράχια όταν το επιτρέπουν οι συνθήκες",
+        "Αρχαία λατομεία μαρμάρου και ιστορικά μονοπάτια"
+      ],
+      "seo_title": "Αλυκή Θάσου – παραλίες, πρόσβαση, αρχαία και παροχές",
+      "seo_description": "Ανακαλύψτε την Αλυκή στη Θάσο: δύο όρμοι, άμμος, ταβέρνες, πρόσβαση, στάθμευση και τα αρχαία λατομεία μαρμάρου.",
+      "social_caption": "🏖️ Αλυκή, Θάσος: δύο τιρκουάζ όρμοι και μια χερσόνησος γεμάτη ιστορία! 🌿 Κολύμπι, ταβέρνες πάνω στη θάλασσα και περίπατος στα αρχαία λατομεία. 🇬🇷 #Θάσος #Αλυκή #Ελλάδα",
+      "photo_alt": "Οι δύο γαλαζοπράσινοι όρμοι της Αλυκής και η αρχαιολογική χερσόνησος στη Θάσο."
+    },
+    "de": {
+      "name": "Aliki (Alyki Beach)",
+      "tagline": "Zwei türkisfarbene Buchten, Sand und antike Geschichte am Meer",
+      "summary": "An der Südostküste von Thassos verbindet Aliki eine bewirtschaftete Sandbucht mit Tavernen und eine ruhigere Bucht bei archäologischen Überresten und antiken Marmorsteinbrüchen.",
+      "description": "Aliki ist ein besonderer Ort, an dem sich ein Badetag mit einem kleinen Ausflug in die Vergangenheit von Thassos verbinden lässt. Eine grüne Halbinsel trennt zwei Buchten mit meist klarem, türkisgrünem Wasser. In der Hauptbucht nahe der Küstenstraße gibt es einen relativ schmalen Sandstrand, saisonale Liegen und Sonnenschirme sowie traditionelle Tavernen direkt am Wasser. Der Einstieg ins Meer ist auf sandigen Abschnitten häufig sanft, doch Steine und unterschiedliche Wassertiefen erfordern Aufmerksamkeit. Die zweite Bucht auf der anderen Seite der Halbinsel ist ruhiger und weniger erschlossen; ihre felsigen Stellen eignen sich nicht überall für kleine Kinder. Sie sollte daher nicht mit dem bewirtschafteten Hauptstrand verwechselt werden. Wege rund um die Landzunge führen zu Spuren antiker Marmorbrüche und zu Ruinen religiöser Bauwerke aus verschiedenen Epochen. Heller Stein, Pinien und die Farben des Meeres bieten reizvolle Fotomotive. Im Hochsommer füllt sich der Hauptstrand schnell, und die Parkplatzsuche kann länger dauern.",
+      "practical_tips": "Das Auto an erlaubten Stellen nahe der Hauptstraße abstellen und zum Strand hinuntergehen. Im Juli und August möglichst früh ankommen. Für die felsige Bucht und die archäologischen Wege feste Schuhe mitnehmen. Toiletten, Duschen, barrierefreie Einrichtungen und Rettungsschwimmer sind nicht für beide Buchten bestätigt. Liegenpreise und Mindestverzehr vor Ort prüfen. Absperrungen und Hinweisschilder im archäologischen Bereich beachten.",
+      "highlights": [
+        "Zwei unterschiedliche Buchten",
+        "Sand und meist klares Wasser in der Hauptbucht",
+        "Tavernen direkt am Meer",
+        "Schnorcheln an Felsen bei geeigneten Bedingungen",
+        "Historische Wege und antike Marmorsteinbrüche"
+      ],
+      "seo_title": "Aliki Beach Thassos – Buchten, Anfahrt, Ruinen und Ausstattung",
+      "seo_description": "Aliki auf Thassos entdecken: zwei Buchten, Sand, Tavernen, Schnorcheln, Parkmöglichkeiten und antike Marmorsteinbrüche.",
+      "social_caption": "🏖️ Aliki auf Thassos: zwei türkisfarbene Buchten und eine Halbinsel voller Geschichte! 🌿 Baden, am Meer essen und antike Steinbrüche entdecken. 🇬🇷 #Thassos #Aliki #Griechenland",
+      "photo_alt": "Blick auf die beiden türkisfarbenen Buchten von Aliki und die archäologische Halbinsel auf Thassos."
+    },
+    "bg": {
+      "name": "Алики (Aliki Beach)",
+      "tagline": "Два тюркоазени залива, фин пясък и древна история край морето",
+      "summary": "На югоизточния бряг на Тасос Алики съчетава уреден пясъчен залив с таверни и по-тих залив до археологически останки и древни мраморни кариери.",
+      "description": "Алики е място, където плажният ден лесно може да се превърне в разходка из историята на острова. Зеленият полуостров разделя два залива с обикновено чиста синьо-зелена вода. Основният залив, близо до крайбрежния път, има сравнително тясна пясъчна ивица, сезонни шезлонги и чадъри, както и традиционни таверни непосредствено до морето. На пясъчните участъци навлизането във водата често е плавно, но на места има камъни и различна дълбочина. Вторият залив, от другата страна на полуострова, е по-тих и по-слабо уреден, с каменисти части, които не са удобни за малки деца; той не бива да се бърка с основния плаж. Пътеките по носа водят до следи от древни мраморни кариери и останки от религиозни постройки от различни епохи. Светлите скали, боровете и тюркоазеното море правят мястото особено красиво за снимки. През натоварените летни седмици плажът се запълва бързо, а паркирането може да бъде трудно.",
+      "practical_tips": "До плажа се стига пеша от главния път. През юли и август е добре да пристигнете рано. За каменистия бряг и археологическите пътеки носете удобни обувки с добро сцепление. Не приемайте, че и двата залива имат тоалетни, душове, достъп за хора с увреждания или спасители. Проверявайте условията и цените за шезлонгите на място. Спазвайте указанията в археологическия обект.",
+      "highlights": [
+        "Два различни залива около един полуостров",
+        "Пясък и обикновено бистра вода в основния залив",
+        "Таверни до брега",
+        "Шнорхелинг край скалите при подходящи условия",
+        "Древни мраморни кариери и исторически пътеки"
+      ],
+      "seo_title": "Плаж Алики, Тасос – заливи, достъп, руини и удобства",
+      "seo_description": "Открийте Алики на Тасос: два залива, пясък, таверни, паркиране и древните мраморни кариери.",
+      "social_caption": "🏖️ Алики, Тасос: два тюркоазени залива и полуостров с хилядолетна история! 🌿 Плуване, таверни на брега и разходка край древни кариери. 🇬🇷 #Тасос #Алики #Гърция",
+      "photo_alt": "Двата тюркоазени залива на Алики и археологическият полуостров на остров Тасос."
+    },
+    "sr": {
+      "name": "Aliki (Alyki Beach)",
+      "tagline": "Dve tirkizne uvale, fini pesak i antička istorija uz more",
+      "summary": "Na jugoistočnoj obali Tasosa, Aliki spaja uređenu peščanu uvalu sa tavernama i mirniji zaliv pored arheoloških ostataka i drevnih kamenoloma mermera.",
+      "description": "Aliki je mesto gde se dan na plaži lako pretvara u malu šetnju kroz istoriju ostrva. Zeleno poluostrvo razdvaja dve uvale sa uglavnom bistrom, plavozelenom vodom. Glavna uvala, bliža obalnom putu, ima relativno usku peščanu obalu, sezonske ležaljke i suncobrane, kao i tradicionalne taverne tik uz more. Ulazak u vodu na peščanim delovima često je postepen, ali ima kamenja i promena dubine. Druga uvala, s druge strane poluostrva, mirnija je i slabije uređena, sa stenovitim delovima koji nisu svuda pogodni za malu decu; ne treba je mešati sa glavnom plažom. Staze po rtu vode do tragova antičkih kamenoloma mermera i ostataka verskih građevina iz različitih epoha. Svetle stene, borovi i tirkizno more stvaraju odlične prizore za fotografisanje. Tokom letnje špice glavna plaža brzo postaje puna, a parking je ponekad teško pronaći.",
+      "practical_tips": "Od glavnog puta do uvale ide se kratko peške. U julu i avgustu dođite ranije. Za stenovitu obalu i arheološke staze ponesite stabilnu obuću. Ne računajte unapred na toalete, tuševe, prilagođen pristup ili spasioce u obe uvale. Cene i uslovi korišćenja ležaljki razlikuju se po objektima. Poštujte pravila i oznake oko arheoloških ostataka.",
+      "highlights": [
+        "Dve različite uvale uz isto poluostrvo",
+        "Pesak i uglavnom bistra voda u glavnoj uvali",
+        "Taverne uz samu obalu",
+        "Ronjenje s maskom uz stene kada uslovi dozvoljavaju",
+        "Antički kamenolomi mermera i istorijske staze"
+      ],
+      "seo_title": "Aliki Beach Tasos – uvale, prilaz, ruševine i sadržaji",
+      "seo_description": "Istražite Aliki na Tasosu: dve uvale, peščanu plažu, taverne, parking i antičke kamenolome mermera.",
+      "social_caption": "🏖️ Aliki, Tasos: dve tirkizne uvale i poluostrvo puno istorije! 🌿 Kupanje, taverne kraj mora i šetnja pored antičkih kamenoloma. 🇬🇷 #Tasos #Aliki #Grcka",
+      "photo_alt": "Pogled na dve tirkizne uvale Alikija i arheološko poluostrvo na Tasosu."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/aliki/images/aliki1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/aliki/images/aliki2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/aliki/images/aliki3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/aliki/images/aliki4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/aliki/images/aliki5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/aliki/images/",
+    "suggested_asset_names": [
+      "aliki1.webp",
+      "aliki2.webp",
+      "aliki3.webp",
+      "aliki4.webp",
+      "aliki5.webp"
+    ],
+    "image_policy": "Use only images supplied by the project owner with rights or permission for publication. The first numbered image is the cover; images 2-5 form the gallery in numeric order. Do not import or reference external candidate photographs.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_map",
+      "kind": "map_link",
+      "title": "Google Maps — Aliki map view linked from Thassos forum",
+      "url": "https://www.google.com/maps/place/Aliki/@40.604806,24.7402174,18z/data=!4m5!1m2!2m1!1saliki+beach+thassos!3m1!1s0x0:0x39e3cf3e09302d24",
+      "detail": "Coordinates used are the center of this Google Maps map viewport, not an independently confirmed exact beach access pin.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_discover_greece",
+      "kind": "national_tourism_guide",
+      "title": "Discover Greece — 10 best beaches of Thassos, Aliki",
+      "url": "https://www.discovergreece.com/travel-ideas/best-of/10-best-beaches-thassos",
+      "detail": "Identifies twin coves, sand, southern organized side and historic marble quarry.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_visit_thassos",
+      "kind": "destination_guide",
+      "title": "Visit Thassos — Aliki",
+      "url": "https://visit-thassos.com/en/places/alikes",
+      "detail": "Two bays, tavernas, basic facilities and peninsula history; some amenities may vary seasonally.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana_beach",
+      "kind": "regional_guide",
+      "title": "Nikana — Alyki beach (updated 2026)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1941/alyki-beach",
+      "detail": "Describes sandy main cove, rocky secondary cove, snorkeling, crowding and parking.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_gothassos",
+      "kind": "regional_guide",
+      "title": "Go Thassos — Alyki",
+      "url": "https://www.go-thassos.com/about-thassos/places/alyki",
+      "detail": "Supports geographic and historic context of archaeological peninsula.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_discover_thassos",
+      "kind": "regional_guide",
+      "title": "Discover Thassos — Aliki Beach",
+      "url": "https://www.discover-thassos.com/listing/aliki-beach-thassos/",
+      "detail": "Supports shoreline amenities and roadside parking guidance; avoid treating changing operating details as fixed.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana_places",
+      "kind": "regional_guide",
+      "title": "Nikana — Alyki places",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/places/1760/alyki",
+      "detail": "Compares two coves, identifies archaeological walk and summertime crowds.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_pending_images_and_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm main Aliki Google Maps pin and access/parking from chosen approach; current coordinate is the Google Maps viewport center.",
+      "Keep main sandy cove and quieter archaeological cove differentiated in map and marketing.",
+      "Confirm the five referenced local WebP images exist in the expected folder, match Aliki Beach, and are cleared for publication.",
+      "Confirm current season lifeguards, toilets, showers, accessibility and sunbed conditions.",
+      "Review all six language versions before final publication."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; five local image paths are configured, but rights to the actual WebP image files have not been independently verified.",
+    "photo_source_disclaimer": "The JSON references only user-designated local WebP files; no external photo candidates are included or bundled."
+  }
+}

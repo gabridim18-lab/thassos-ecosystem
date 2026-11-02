@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "business": "Thassos Daily Cruises – Panagia Axion Esti",
+  "imagesFolder": "images/",
+  "files": [
+    {
+      "sourceContextPath": "/mnt/data/ghostwriter_images/context/0dadd24e-8127-51bd-a078-b147f3773ee9.png",
+      "expectedLocalFilename": "Golful-turcoaz-cu-salupa-langa-plaja.webp",
+      "role": "cover",
+      "galleryCategory": "bay-stop",
+      "order": 1,
+      "copiedInArchive": true
+    },
+    {
+      "sourceContextPath": "/mnt/data/ghostwriter_images/context/03c28950-5f8b-5171-a170-6781b5788b9f.png",
+      "expectedLocalFilename": "Giola-oprire-in-turul-de-croaziera.webp",
+      "role": "route-highlight",
+      "galleryCategory": "giola",
+      "order": 2,
+      "copiedInArchive": true
+    },
+    {
+      "sourceContextPath": "/mnt/data/ghostwriter_images/context/c7a32d37-4ea6-5b52-801e-d7434f805ab7.png",
+      "expectedLocalFilename": "Vas-Blue-Sky-in-croaziera-pe-langa-coasta.webp",
+      "role": "boat",
+      "galleryCategory": "vessel",
+      "order": 3,
+      "copiedInArchive": true
+    },
+    {
+      "sourceContextPath": "/mnt/data/ghostwriter_images/context/54279db5-4d0b-53e3-be89-caedf0bba1fb.png",
+      "expectedLocalFilename": "La-bord-spre-portul-din-Limenaria.webp",
+      "role": "onboard",
+      "galleryCategory": "onboard",
+      "order": 4,
+      "copiedInArchive": true
+    },
+    {
+      "sourceContextPath": "/mnt/data/ghostwriter_images/context/59bf17c3-6456-56d9-a673-67bc53eefc96.png",
+      "expectedLocalFilename": "Oprire-pentru-inot-in-marea-limpede.webp",
+      "role": "swim-stop",
+      "galleryCategory": "experience",
+      "order": 5,
+      "copiedInArchive": true
+    },
+    {
+      "sourceContextPath": "/mnt/data/ghostwriter_images/context/82d9dade-638c-5cdd-806a-5f9c3cfbf592.png",
+      "expectedLocalFilename": "Limenaria-vazuta-din-larg-cu-vas-de-excursie.webp",
+      "role": "destination",
+      "galleryCategory": "limenaria",
+      "order": 6,
+      "copiedInArchive": true
+    },
+    {
+      "sourceContextPath": "/mnt/data/ghostwriter_images/context/777d7404-6fba-5fcb-a3d0-a9976ea9480e.png",
+      "expectedLocalFilename": "Ambarcatiune-traditionala-in-portul-din-Limenaria.webp",
+      "role": "boat",
+      "galleryCategory": "harbour",
+      "order": 7,
+      "copiedInArchive": true
+    },
+    {
+      "sourceContextPath": "/mnt/data/ghostwriter_images/context/78894810-ca9f-5491-ad7d-a5d6e4723f74.png",
+      "expectedLocalFilename": "Vas-ancorat-in-golf-cu-apa-smarald.webp",
+      "role": "boat-stop",
+      "galleryCategory": "bay-stop",
+      "order": 8,
+      "copiedInArchive": true
+    },
+    {
+      "sourceContextPath": "/mnt/data/ghostwriter_images/context/e9fd5983-44b4-5c97-8b4f-030e8d1e88a2.png",
+      "expectedLocalFilename": "Golf-salbatic-cu-ambarcatiune-vazut-de-sus.webp",
+      "role": "aerial",
+      "galleryCategory": "route-highlight",
+      "order": 9,
+      "copiedInArchive": true
+    }
+  ],
+  "totalImages": 9,
+  "instruction": "The WebP files are already included in the archive under images/ using the exact filenames below.",
+  "includedInArchive": true
+}

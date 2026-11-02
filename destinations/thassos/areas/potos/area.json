@@ -1,0 +1,422 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-potos",
+  "slug": "potos",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Ποτός",
+    "international_name": "Potos",
+    "aliases": [
+      "Potós",
+      "Potos Thassos",
+      "Potos Village",
+      "Ποτός",
+      "Ποτός Θάσου"
+    ],
+    "area_type": "coastal_resort",
+    "entity_scope": "The actual village and seaside resort centre of Potos on southern Thassos, including the compact shopping/dining streets and village seafront. It does not encompass every named southern-coast beach, the separately named San Antonio bathing sector, the Pefkari seaside resort, or the inland village of Theologos.",
+    "deduplication_warning": "Potos settlement is distinct from the gr-thassos-beach-potos beach POI and the named continuation San Antonio Beach. Pefkari lies west toward Limenaria and is currently retained as a separate beach POI rather than promoted here as an independently featured area. Rosogremos, Notos and Psili Ammos are separate coves with their own access and geographically separate beaches; do not transfer their coordinates or amenities to Potos town. Potos has small-boat coastal activity but is NOT an island ferry port.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": true,
+    "coast": "south / south-southwest",
+    "part_of_island": "southern",
+    "center": {
+      "lat": 40.61047,
+      "lng": 24.60741,
+      "coordinate_role": "OSM_place_village_reference_point_for_settlement_not_beach_center_parking_or_turn_by_turn_arrival",
+      "coordinate_source": "Mapcarta / OpenStreetMap place=village node 13017361416",
+      "coordinate_source_url": "https://mapcarta.com/25730146",
+      "verification_status": "OSM_village_feature_reference_confirmed_against_independent_place_directory;_Google_Maps_arrival_and_village_boundary_not_verified",
+      "verified_on": "2026-10-27"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "The named Potos village OSM node is at 40.61047,24.60741. The locally separate Potos Beach record currently locates its central beach at 40.6096,24.6057, and the San Antonio beach record farther along the shoreline uses 40.60429,24.60983; these beach coordinates are independently subject to their own review status. The central village point must never be substituted for a verified guesthouse, tavern, beach entrance, parking bay or public transit stop. The EEA Potos bathing-water sampling point is also a different mapping concept. The wider Potos area links inland to Theologos and westward toward Pefkari and Limenaria."
+  },
+  "overview": {
+    "settlement_character": "compact_lively_south_Thassos_seaside_village_with_sandy_town_beach_shops_tavernas_cafes_and_evening_activity",
+    "tourism_profile": [
+      "established_south_Thassos_seaside_holiday_resort_with_real_settlement_centre",
+      "walkable_compact_central_streets_shops_cafes_bakeries_and_tavernas",
+      "lively_evening_scene_and_beachfront_meals_in_summer",
+      "direct_access_from_village_to_named_Potos_Beach",
+      "connected_coastline_toward_separately_named_San_Antonio_Beach",
+      "starting_point_for_day_visits_to_Pefkari_Rosogremos_Notos_Psili_Ammos",
+      "convenient_base_for_Limenaria_and_the_inland_heritage_village_Theologos",
+      "wide_choice_of_accommodations_by_type_without_implied_live_availability"
+    ],
+    "best_time_to_visit": "Late spring through early autumn for village strolls and the seaside atmosphere. Swimming is generally a summer activity, subject to local water and weather conditions. The fullest tourist services and nightlife are typically in June–September, especially July–August, but exact operating dates vary by business.",
+    "peak_season_notes": "The compact shopping lanes, beachfront cafes and tavernas can be crowded and noisy on summer evenings, especially in July and August. Parts of the town are quieter away from the central seafront. Parking is not automatically available next to a chosen accommodation; seasonal beach-service pricing and reservations must be checked directly."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "south_Thassos_coastal_settlement_with_longstanding_links_to_inland_Theologos",
+      "island_maritime_life_and_small_boat_waterfront",
+      "progression_from_modest_seaside_village_to_popular_summer_holiday_base",
+      "ancient_Thassos_history_documented_for_wider_island_and_Agios_Antonios_area_without_appropriating_a_specific_unverified_Potos_town_monument",
+      "regional_Greek_island_food_culture_and_evening_volta"
+    ],
+    "local_traditions": [
+      "evening_walks_through_compact_village_streets_and_waterfront",
+      "taverna_meals_with_family_and_friends",
+      "local_olive_oil_Thassos_olives_and_honey_in_regional_food_products",
+      "summer_music_and_hospitality_that_depends_on_individual_venues",
+      "excursions_to_traditional_Theologos_for_architecture_and_regional_dishes"
+    ],
+    "local_food_specialties": [
+      "grilled_seafood_and_fish_when_available_at_local_tavernas",
+      "Greek_meze_salads_saganaki_and_grilled_vegetables",
+      "regional_Thassos_olive_products_and_honey",
+      "Greek_grilled_meats_and_slow_cooked_dishes",
+      "traditional_goat_dishes_are_a_Theologos_area_specialty_not_a_specific_Potos_restaurant_promise"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "travellers_wanting_beach_and_restaurants_within_a_compact_village",
+      "couples_and_groups_enjoying_lively_summer_evenings",
+      "families_who_choose_a_suitable_sandy_beach_section_and_supervise_children",
+      "travellers_using_southern_Thassos_as_a_base_for_beach_hopping",
+      "visitors_preferring_shops_and_food_near_their_accommodation",
+      "tourists_who_enjoy_a_mix_of_seaside_relaxation_and_social_atmosphere"
+    ],
+    "experiences": [
+      "walk_through_central_Potos_lanes_for_small_shops_cafes_and_souvenir_stalls",
+      "enjoy_a_meal_or_drink_at_a_seafront_venue_if_open",
+      "swim_at_separately_mapped_Potos_Beach_after_checking_depth_conditions_and_service_rules",
+      "walk_toward_San_Antonio_shoreline_using_suitable_public_routes_when_available",
+      "explore_nearby_Pefkari_Beach_as_a_distinct_visitor_destination",
+      "take_separate_excursions_to_Rosogremos_and_Notos_after_verifying_approaches",
+      "plan_a_separate_visit_to_Psili_Ammos_and_other_south_coast_coves",
+      "visit_Limenaria_for_its_seafront_and_industrial_heritage",
+      "visit_mountain_village_Theologos_for_traditional_buildings_and_local_food",
+      "photograph_summer_evening_waterfront_views_and_small_boats_where_safe"
+    ],
+    "points_of_interest_summary": [
+      "Potos village centre — a real coastal settlement with shops, cafes, tavernas and a lively summer evening atmosphere",
+      "Potos Beach — separate city-beach JSON record, mostly sandy in its main sections; current sunbed and water-entry conditions vary",
+      "San Antonio / Agios Antonios Beach — separately named continuation of the Potos shoreline; not a different town or the entire central beach",
+      "Pefkari Beach — distinct named bay westward toward Limenaria, not a Potos neighbourhood",
+      "Rosogremos and Notos — nearby but separately named small beaches, with different shore access and amenities",
+      "Psili Ammos — south-coast beach excursion beyond the Potos town waterfront",
+      "Theologos — an inland traditional village, a separate area and heritage destination",
+      "Limenaria — another actual coastal town with its own beach and mining heritage"
+    ],
+    "estimated_visit_duration": "Around one to two hours for a casual village stroll and waterfront meal; half or full day when adding the beach. Southern-coast beach excursions or Theologos require separate route planning.",
+    "family_suitability": "Potos has a compact centre and family-oriented seaside facilities, while the main sandy beach can work for families in suitable conditions. Check the selected swimming sector, changing depth, crowding, sunbed arrangements and road crossings, especially with small children. Nightlife can make central accommodation noisy in high season.",
+    "mobility_considerations": "Some central lanes and seafront routes can be walked, but paving, kerbs, parked vehicles and beach access vary. Neither wheelchair access to the sand nor an uninterrupted step-free village route has been independently verified. Route choice should be assessed per destination.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "Potos is approached on the paved southern coastal road from Limenaria via the Pefkari direction, or from the Astris side along the island road network. Main street and seafront shopping lanes have different access and traffic conditions. Do not navigate drivers to the map centroid without checking an actual arrival point.",
+    "public_transport": "Island KTEL bus services have published connections involving Potos, Limenaria, Limenas and Skala Prinos; exact frequency, directions, departure platforms and fares are date-dependent. The October 2026 timetable is informative only for its stated validity period. Consult the latest operator or local transport notice before travel.",
+    "parking_overview": "Some parking areas and on-street spaces are mentioned in visitor guides, but their location, free/paid status, availability and permitted use can change. Expect parking pressure around the central seafront during peak summer and verify hotel or restaurant spaces directly.",
+    "pedestrian_access": "The main tourist lanes, cafe streets and parts of the village beach frontage are relatively close together and can usually be explored on foot. Main road crossings, loaded summer lanes, uneven pavements and access between beach sectors require care.",
+    "accessibility_note": "Do not advertise an accessible beach ramp, adapted swimming entry or specific accessible public toilet without a current individual location check. Shop/restaurant access depends on each entrance and seasonal layout.",
+    "general_amenities": {
+      "supermarket": true,
+      "pharmacy": null,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": null,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "Summer congestion can affect pedestrian comfort; supervise children at road crossings and around small boats. Swimming and water-sport safety must follow conditions at the individual beach section, not the area record. San Antonio and Potos central beach are close along the coast but should be treated as separately named beach POIs. Do not assume a seasonal lifeguard, free sunbeds or on-duty pharmacy. Check crowd, waves and water depth before swimming.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-limenaria",
+      "gr-thassos-area-astris",
+      "gr-thassos-area-theologos"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-potos",
+      "gr-thassos-beach-san-antonio",
+      "gr-thassos-beach-pefkari",
+      "gr-thassos-beach-rosogremos",
+      "gr-thassos-beach-notos",
+      "gr-thassos-beach-psili-ammos"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "Potos is a true seaside village, NOT a beach-only attraction. Potos Beach and San Antonio are distinct named segments of a continuous/adjacent shoreline; do not create an additional town for San Antonio. Pefkari is shown as a nearby beach destination and not as an independent featured town in the revised curated area list. Theologos and Limenaria are different places. The beach and area centre coordinates must not be swapped. Nearby entries are editorial suggestions, not distance-ordered results: only route calculations using the visitor position, each POI coordinates and a verified accessible entrance may support nearby and ETA promises. Businesses and accommodations should link back using area_id; none are invented here.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "Potos is NOT a regular scheduled ferry terminal. Thassos passenger/vehicle ferries operate to Limenas from Keramoti and to Skala Prinos from Kavala; route, operator, departure and disruption data must be retrieved from a separate dated transport module. Potos-area KTEL connections also require live/period-scoped schedule data, not permanent times in this area.json."
+  },
+  "translations": {
+    "ro": {
+      "name": "Potos",
+      "tagline": "Plajă cu nisip, străduțe animate și seri pline de viață în sudul insulei",
+      "summary": "Potos este una dintre localitățile turistice importante din sudul insulei Thassos. Are un centru compact cu magazine, taverne și cafenele, o plajă predominant nisipoasă la câțiva pași și o atmosferă deosebit de animată în serile de vară.",
+      "description": "În sudul insulei Thassos, Potos adună într-un spațiu relativ mic multe dintre lucrurile pe care turiștii le caută într-o vacanță la mare: o plajă aproape de centru, taverne, cafenele, magazine și străzi pe care este plăcut să te plimbi după apus. Este o localitate adevărată, nu doar un grup de hoteluri lângă apă. În sezonul estival, mai ales în iulie și august, centrul și restaurantele de pe faleză capătă un ritm energic, cu muzică și oameni care ies seara la masă. Din acest motiv, Potos este potrivit atât pentru cupluri și grupuri care caută o atmosferă socială, cât și pentru familiile care apreciază apropierea dintre cazare, plajă și servicii; cei care preferă multă liniște ar trebui să aleagă cu atenție poziția cazării. Potos Beach, plaja localității, este în general nisipoasă, dar intrarea în apă și serviciile trebuie verificate în sectorul ales. Spre est, țărmul continuă în zona numită San Antonio sau Agios Antonios, pe care o păstrăm separat în ghidul plajelor. În apropiere se află și Pefkari, în direcția Limenariei, precum și golfurile Rosogremos și Notos, iar pentru o excursie mai lungă se poate lua în calcul Psili Ammos. Potos oferă și o bază practică pentru o vizită în Limenaria sau în satul tradițional Theologos, aflat în interiorul insulei. Farmecul locului este tocmai combinația dintre mare, viața de sat și energia serilor estivale, fără a fi nevoie ca fiecare zi să presupună o deplasare lungă.",
+      "history_culture": "Potos are legături istorice cu zona satului Theologos și cu viața de pe coasta sudică a insulei. Astăzi, identitatea sa este legată în mare parte de turismul de vară, de micile afaceri locale și de tradiția ospitalității grecești. Pentru patrimoniul arhitectural mai vechi merită planificată o excursie separată la Theologos. Contextul arheologic al regiunii Agios Antonios nu trebuie confundat cu un monument amenajat și vizitabil în centrul Potosului.",
+      "local_character": "Ziua, Potos are ritmul unei stațiuni de plajă; seara, străduțele comerciale și localurile din apropierea mării devin principalul punct de întâlnire. Centrul poate fi zgomotos în vârf de sezon, în timp ce zonele rezidențiale și unele cazări mai depărtate de faleză pot oferi un cadru mai liniștit.",
+      "what_to_do": "Plimbă-te prin centrul localității, savurează o masă lângă mare, alege un sector potrivit din Potos Beach și explorează separat San Antonio. Pentru alte peisaje de coastă poți vizita Pefkari, Rosogremos, Notos sau Psili Ammos, cu verificarea accesului. Pentru o zi diferită, descoperă Limenaria și satul tradițional Theologos.",
+      "practical_tips": "În iulie și august, restaurantele și străduțele centrale pot fi aglomerate și animate până seara târziu. Dacă dorești liniște, verifică poziția exactă a cazării. Parcarea în centru poate fi dificilă; nu presupune că există un loc gratuit. Șezlongurile, facilitățile și prețurile aparțin operatorilor sezonieri și se verifică la fața locului. Există legături cu autobuzul către alte localități, dar orarul trebuie consultat pentru data călătoriei. Pentru trasee folosește punctul concret al plajei, parcării sau afacerii, nu centrul GPS al satului.",
+      "highlights": [
+        "Sat turistic autentic, cu centru animat",
+        "Plajă predominant nisipoasă lângă localitate",
+        "Taverne, cafenele și magazine la distanțe mici",
+        "Viață de seară activă în sezon",
+        "Punct de plecare către alte plaje și Theologos"
+      ],
+      "seo_title": "Potos, Thassos – plajă, restaurante și ghidul localității",
+      "seo_description": "Descoperă Potos din Thassos: plajă cu nisip, centru animat, restaurante, acces, plaje din apropiere și recomandări pentru vacanță.",
+      "social_caption": "🌊 Potos, Thassos: dimineți la plajă, taverne lângă mare și seri animate pe străduțele localității. 🇬🇷 Descoperă și San Antonio, Pefkari sau satul Theologos! #Thassos #Potos #ExploreThassos",
+      "photo_alt": "Panoramă a localității Potos din Thassos, cu clădiri, plajă și zona turistică de pe malul mării."
+    },
+    "en": {
+      "name": "Potos",
+      "tagline": "A sandy beach, lively village lanes and summer evenings by the sea",
+      "summary": "Potos is an established seaside village and popular holiday base on southern Thassos. Its compact centre combines shops, tavernas, cafés and a mainly sandy village beach, while summer evenings bring a particularly sociable atmosphere.",
+      "description": "On the southern coast of Thassos, Potos packs many of the pleasures of a Greek seaside holiday into a relatively compact village: a beach close to the centre, places to eat and drink, small shops and lively streets for an after-dinner stroll. This is an actual settlement with a village centre, not simply a hotel strip beside the sea. In summer, especially July and August, the shopping lanes and waterfront venues become busy well into the evening. Couples and groups often appreciate the atmosphere, while families can enjoy having the beach and everyday conveniences near their accommodation. Anyone who values quiet nights should nevertheless choose their location carefully. Potos Beach is the local bathing shore, largely sandy in its principal sections, although seabed conditions, loungers and other services are specific to each operator and stretch of sand. Continuing along the coast is the separately named San Antonio, or Agios Antonios, beach sector. To the west, Pefkari is another coastal destination on the way toward Limenaria. A little farther away, Rosogremos and Notos offer other bays to explore, while Psili Ammos makes a separate south-coast beach trip. Potos also works well as a base for visiting Limenaria and the inland traditional village of Theologos. The charm of Potos is its easy mixture of seaside relaxation, a recognisable village centre and energetic summer evenings. It is possible to enjoy an entire day locally and still have several distinct excursions available when you feel like exploring.",
+      "history_culture": "Potos has longstanding links with the wider Theologos region and the maritime life of southern Thassos. Today the village is strongly shaped by seasonal tourism, local hospitality and small businesses. The older traditional architecture of the area is better explored on a separate visit to Theologos. Archaeological history associated with the broader Agios Antonios area should not be presented as a confirmed visitor monument in the centre of Potos.",
+      "local_character": "By day, Potos feels like an approachable beach village; by evening its cafés, tavernas and shopping streets come alive. The central waterfront can be noisy in peak summer, whereas accommodation away from the busiest lanes may be more peaceful.",
+      "what_to_do": "Browse the central lanes, stop for a waterfront meal, choose a suitable part of Potos Beach and explore the separate San Antonio shoreline. Plan another beach visit to Pefkari, Rosogremos, Notos or Psili Ammos after checking access. For a change of scenery, discover Limenaria and traditional Theologos.",
+      "practical_tips": "Central Potos is particularly busy on July and August evenings, so check how close your accommodation is to nightlife venues if you prefer early nights. Parking near the seafront is not guaranteed; confirm the current permitted location and any charges. Sunbeds and beach facilities are operator-dependent. Bus services connect Potos with other island settlements, but use the schedule valid for your travel date. For accurate nearby recommendations and routing, use the individual beach or business coordinates, never the village centre alone.",
+      "highlights": [
+        "A real coastal village with a lively centre",
+        "Mainly sandy village beach within easy reach",
+        "Compact streets with tavernas, cafés and shops",
+        "Energetic summer-evening atmosphere",
+        "Good base for nearby bays and a trip to Theologos"
+      ],
+      "seo_title": "Potos, Thassos – sandy beach, dining and village guide",
+      "seo_description": "Explore Potos on Thassos: sandy village beach, lively waterfront, restaurants, nearby bays, transport advice and practical holiday tips.",
+      "social_caption": "🌊 Potos, Thassos: sandy beach mornings, seaside tavernas and lively summer evenings. 🇬🇷 Explore San Antonio, Pefkari and traditional Theologos nearby! #Thassos #Potos #ExploreThassos",
+      "photo_alt": "Panoramic view of Potos village on Thassos, showing its buildings, beach and lively southern-coast waterfront."
+    },
+    "el": {
+      "name": "Ποτός",
+      "tagline": "Αμμουδιά, ζωντανά σοκάκια και καλοκαιρινά βράδια δίπλα στη θάλασσα",
+      "summary": "Ο Ποτός είναι ένας γνωστός παραθαλάσσιος οικισμός στη νότια Θάσο. Στο μικρό του κέντρο συνδυάζονται καταστήματα, ταβέρνες, καφέ και μια κυρίως αμμώδης παραλία, ενώ τα καλοκαιρινά βράδια η ατμόσφαιρα γίνεται ιδιαίτερα ζωντανή.",
+      "description": "Στη νότια ακτή της Θάσου, ο Ποτός συγκεντρώνει σε μικρή απόσταση πολλά από όσα αναζητά κανείς στις διακοπές του: θάλασσα κοντά στο κέντρο, ταβέρνες, καφέ, μικρά μαγαζιά και δρόμους γεμάτους κίνηση για την απογευματινή βόλτα. Πρόκειται για πραγματικό παραθαλάσσιο οικισμό με δικό του κέντρο και όχι απλώς για μια σειρά ξενοδοχείων δίπλα στην παραλία. Το καλοκαίρι, ιδιαίτερα τον Ιούλιο και τον Αύγουστο, τα καταστήματα και οι χώροι εστίασης κοντά στη θάλασσα γεμίζουν κόσμο και η διασκέδαση συνεχίζεται το βράδυ. Το περιβάλλον ταιριάζει σε ζευγάρια και παρέες που απολαμβάνουν την κίνηση, αλλά και σε οικογένειες που θέλουν να έχουν την παραλία και τις καθημερινές ανάγκες κοντά στο κατάλυμά τους. Όσοι προτιμούν περισσότερη ησυχία καλό είναι να προσέξουν τη θέση του δωματίου τους. Η κεντρική παραλία του Ποτού είναι κυρίως αμμώδης, αλλά οι συνθήκες εισόδου στο νερό και οι παροχές διαφέρουν ανά τμήμα. Προς την ανατολική συνέχεια της ακτής βρίσκεται ο Άγιος Αντώνιος, που διατηρεί ξεχωριστή καταχώριση ως παραλία. Προς τα δυτικά, κοντά στον δρόμο για τα Λιμενάρια, συναντάμε το Πευκάρι, ενώ λίγο πιο πέρα υπάρχουν οι ξεχωριστοί όρμοι Ροσογκρεμός και Νότος. Η Ψιλή Άμμος είναι επίσης μια ενδιαφέρουσα εκδρομή στη νότια ακτή. Από τον Ποτό μπορεί κανείς να γνωρίσει τα Λιμενάρια και το παραδοσιακό ορεινό χωριό Θεολόγος. Έτσι, ο Ποτός συνδυάζει εύκολες διακοπές δίπλα στη θάλασσα με αρκετές επιλογές για εξερεύνηση, χωρίς να χάνει τον ζωντανό χαρακτήρα του.",
+      "history_culture": "Ο Ποτός συνδέεται ιστορικά με την ευρύτερη περιοχή του Θεολόγου και τη θαλάσσια ζωή της νότιας Θάσου. Σήμερα, σημαντικό μέρος του χαρακτήρα του διαμορφώνεται από τον θερινό τουρισμό και τις μικρές τοπικές επιχειρήσεις. Για παραδοσιακή αρχιτεκτονική και ιστορική ατμόσφαιρα προτείνεται ξεχωριστή επίσκεψη στον Θεολόγο. Η αρχαιολογική ιστορία της ευρύτερης περιοχής του Αγίου Αντωνίου δεν σημαίνει ότι υπάρχει επιβεβαιωμένο επισκέψιμο μνημείο στο κέντρο του Ποτού.",
+      "local_character": "Την ημέρα ο Ποτός λειτουργεί ως φιλικός παραθαλάσσιος προορισμός, ενώ το βράδυ τα στενά με τα μαγαζιά και οι χώροι δίπλα στο κύμα ζωντανεύουν. Το κέντρο μπορεί να έχει θόρυβο στην υψηλή περίοδο, αλλά πιο απομακρυσμένα σημεία διαμονής είναι συχνά πιο ήρεμα.",
+      "what_to_do": "Κάντε βόλτα στα κεντρικά δρομάκια, δοκιμάστε φαγητό δίπλα στη θάλασσα και επιλέξτε κατάλληλο σημείο στην παραλία Ποτός. Γνωρίστε ξεχωριστά τον Άγιο Αντώνιο και οργανώστε εκδρομές στο Πευκάρι, τον Ροσογκρεμό, τον Νότο ή την Ψιλή Άμμο, αφού ελέγξετε την πρόσβαση. Για κάτι διαφορετικό, επισκεφθείτε τα Λιμενάρια και τον Θεολόγο.",
+      "practical_tips": "Τον Ιούλιο και τον Αύγουστο το κέντρο μπορεί να είναι γεμάτο κόσμο και μουσική μέχρι αργά. Αν θέλετε ησυχία, ελέγξτε την ακριβή τοποθεσία του καταλύματος. Η στάθμευση δίπλα στη θάλασσα δεν είναι εξασφαλισμένη και οι χρεώσεις μπορεί να αλλάζουν. Οι ξαπλώστρες και οι άλλες παροχές εξαρτώνται από τον εκάστοτε επαγγελματία. Υπάρχουν λεωφορειακές συνδέσεις με άλλα μέρη του νησιού, αλλά πρέπει να ελέγχετε το ισχύον πρόγραμμα. Για πλοήγηση χρησιμοποιήστε την πραγματική είσοδο του προορισμού και όχι το γεωγραφικό κέντρο του χωριού.",
+      "highlights": [
+        "Παραθαλάσσιος οικισμός με δικό του ζωντανό κέντρο",
+        "Κυρίως αμμώδης παραλία δίπλα στο χωριό",
+        "Ταβέρνες, καφέ και καταστήματα σε μικρή απόσταση",
+        "Έντονη καλοκαιρινή βραδινή ατμόσφαιρα",
+        "Βάση για άλλες παραλίες και τον Θεολόγο"
+      ],
+      "seo_title": "Ποτός Θάσος – παραλία, ταβέρνες και οδηγός χωριού",
+      "seo_description": "Ανακαλύψτε τον Ποτό στη Θάσο: αμμώδη παραλία, ζωντανό κέντρο, ταβέρνες, κοντινούς όρμους, συγκοινωνίες και συμβουλές διακοπών.",
+      "social_caption": "🌊 Ποτός, Θάσος: πρωινά στην αμμουδιά, ταβέρνες δίπλα στο κύμα και ζωντανές καλοκαιρινές βραδιές. 🇬🇷 Δείτε και Άγιο Αντώνιο, Πευκάρι και Θεολόγο! #Θάσος #Ποτός #Ελλάδα",
+      "photo_alt": "Πανοραμική άποψη του Ποτού στη Θάσο με τα σπίτια, την παραλία και την παραθαλάσσια τουριστική περιοχή."
+    },
+    "de": {
+      "name": "Potos",
+      "tagline": "Sandstrand, lebendige Gassen und Sommerabende am Meer",
+      "summary": "Potos ist ein gewachsener Küstenort und beliebter Urlaubsort im Süden von Thassos. Im kompakten Zentrum liegen Geschäfte, Tavernen, Cafés und der überwiegend sandige Ortsstrand dicht beieinander. Besonders am Sommerabend ist hier viel los.",
+      "description": "An der Südküste von Thassos bietet Potos auf engem Raum vieles, was einen Urlaub am Meer angenehm macht: einen Strand nahe dem Ortszentrum, Restaurants und Cafés, kleine Läden sowie belebte Gassen für den abendlichen Spaziergang. Potos ist ein echter Ort mit einem eigenen Zentrum und nicht nur eine Ansammlung von Hotels am Wasser. Im Sommer, vor allem im Juli und August, füllen sich die Einkaufsstraßen und die Lokale an der Küste bis in die Abendstunden. Das spricht Paare und Gruppen an, die gern etwas unternehmen. Auch Familien schätzen oft die kurzen Wege zwischen Unterkunft, Strand und Einkaufen. Wer nachts vor allem Ruhe sucht, sollte die genaue Lage der Unterkunft jedoch sorgfältig auswählen. Der eigentliche Potos-Strand ist in großen Bereichen sandig, aber Meereseinstieg, Wassertiefe und Leistungen der Strandbetriebe unterscheiden sich je nach Abschnitt. Die Küstenlinie setzt sich zum gesondert benannten Strand Agios Antonios, auch San Antonio genannt, fort. Westlich liegt Pefkari in Richtung Limenaria. Weitere Ausflugsziele an der Südküste sind die eigenständigen Buchten Rosogremos und Notos sowie der etwas weiter entfernte Strand Psili Ammos. Außerdem eignet sich Potos als Ausgangspunkt für einen Besuch von Limenaria und des traditionellen Bergdorfs Theologos. Der Reiz von Potos liegt in dieser Mischung aus unkompliziertem Strandurlaub, kleinstädtischem Dorfleben und sommerlicher Lebendigkeit. Man kann einen ganzen Tag im Ort verbringen oder jederzeit einen abwechslungsreichen Ausflug planen.",
+      "history_culture": "Potos ist geschichtlich mit der weiteren Region um Theologos und dem maritimen Leben an der Südküste von Thassos verbunden. Das heutige Ortsbild wird stark vom Sommertourismus und kleinen Familienbetrieben geprägt. Für ältere traditionelle Baukunst empfiehlt sich ein eigener Ausflug nach Theologos. Archäologische Hinweise im weiteren Bereich Agios Antonios dürfen nicht als frei zugängliches Denkmal im Zentrum von Potos ausgegeben werden.",
+      "local_character": "Tagsüber wirkt Potos wie ein lebhafter, gut überschaubarer Badeort. Abends treffen sich die Menschen in den Gassen und an den Lokalen direkt am Meer. Zentral gelegene Unterkünfte können in der Hauptsaison laut sein; etwas abseits lässt sich häufig ruhiger wohnen.",
+      "what_to_do": "Durch die Einkaufsstraßen bummeln, in einer Taverne am Wasser einkehren und einen passenden Abschnitt des Potos-Strands wählen. Agios Antonios ist als eigener Strand zu entdecken. Weitere Ausflüge führen nach Pefkari, Rosogremos, Notos oder Psili Ammos, sofern die Zugänge geprüft sind. Limenaria und Theologos bieten zusätzliche Abwechslung.",
+      "practical_tips": "Im Juli und August sind die zentralen Straßen und Lokale abends oft gut besucht. Wer früh schlafen möchte, sollte seine Unterkunft nicht direkt neben einem lebhaften Musiklokal wählen. Parkplätze am Meer sind nicht garantiert; Preise und Regeln vor Ort prüfen. Sonnenliegen und Strandservices hängen vom jeweiligen Betreiber ab. Für die Inselbusse gilt ein saisonabhängiger Fahrplan. Für genaue Entfernungen stets den GPS-Punkt der gewählten Unterkunft, des Strandes oder Geschäfts verwenden und nicht nur den Ortsmittelpunkt.",
+      "highlights": [
+        "Echter Küstenort mit lebendigem Zentrum",
+        "Überwiegend sandiger Strand direkt am Ort",
+        "Tavernen, Cafés und Geschäfte auf kurzen Wegen",
+        "Gesellige Sommerabende",
+        "Ausgangspunkt für weitere Buchten und Theologos"
+      ],
+      "seo_title": "Potos Thassos – Sandstrand, Tavernen und Urlaubsort",
+      "seo_description": "Potos auf Thassos entdecken: Sandstrand, lebendige Ufergassen, Tavernen, nahe Strände, Busverbindungen und praktische Urlaubstipps.",
+      "social_caption": "🌊 Potos auf Thassos: morgens an den Sandstrand, mittags in die Taverne und abends durch die belebten Gassen. 🇬🇷 Auch Agios Antonios, Pefkari und Theologos entdecken! #Thassos #Potos #Griechenland",
+      "photo_alt": "Panorama des Küstenortes Potos auf Thassos mit Häusern, Sandstrand und belebtem Meeresufer."
+    },
+    "bg": {
+      "name": "Потос",
+      "tagline": "Пясъчен плаж, оживени улички и летни вечери край морето",
+      "summary": "Потос е истинско крайбрежно селище и популярно място за почивка в южната част на Тасос. В компактния му център има магазини, таверни, кафенета и предимно пясъчен плаж, а през летните вечери атмосферата е особено оживена.",
+      "description": "На южния бряг на Тасос Потос събира на сравнително малка площ много от удобствата на морската почивка: плаж близо до центъра, заведения, малки магазини и приятни улички за вечерни разходки. Това е истинско селище със собствен център, а не просто група хотели край брега. През лятото, особено през юли и август, търговските улички и заведенията до морето се изпълват с посетители и музика до късно. Затова мястото е привлекателно за двойки и компании, които обичат оживлението, но също и за семейства, които искат плажът, храната и магазините да са на удобно разстояние. Хората, които търсят тишина, трябва внимателно да изберат местоположението на нощувката си. Плажът на Потос е предимно пясъчен в основните си части, но морското дъно, дълбочината и услугите се различават според участъка. По продължението на брега се намира отделно нареченият плаж Агиос Антониос, известен и като Сан Антонио. На запад, в посока Лименария, е Пефкари, а наблизо могат да се посетят самостоятелните заливи Росогремос и Нотос. Псили Амос е още една възможност за плажна разходка по южния бряг. От Потос лесно може да се планира отделно посещение на Лименария и традиционното планинско село Теологос. Най-голямото предимство на Потос е комбинацията от море, оживен местен център и множество избори за свободното време, без всеки ден да се налага дълго пътуване.",
+      "history_culture": "Потос има исторически връзки с по-широката област на Теологос и морския живот по южния бряг на Тасос. Днес обликът на селището се определя до голяма степен от летния туризъм и малките местни предприятия. За традиционна архитектура и по-стара история си заслужава отделна екскурзия до Теологос. Археологическите данни за района на Агиос Антониос не означават, че в центъра на Потос има потвърден достъпен за туристи археологически обект.",
+      "local_character": "През деня Потос е удобно крайморско място за плаж и разходки, а вечер кафенетата, таверните и магазините оживяват. В центъра през високия сезон може да е шумно; настаняването малко по-далеч от крайбрежните заведения често е по-спокойно.",
+      "what_to_do": "Разходете се по централните улички, хапнете край морето и изберете подходящ участък от плажа Потос. Разгледайте отделно Агиос Антониос, а за други гледки планирайте посещения на Пефкари, Росогремос, Нотос или Псили Амос след проверка на достъпа. За разнообразие посетете Лименария и Теологос.",
+      "practical_tips": "През юли и август центърът може да е оживен до късно вечерта. Ако предпочитате тишина, проверете точно къде се намира мястото за настаняване. Паркирането до плажа не е гарантирано; проверявайте ограниченията и евентуалните такси. Шезлонгите и другите удобства зависят от сезонните оператори. Има автобусни връзки с други части на острова, но разписанието трябва да се проверява за конкретната дата. За точен маршрут използвайте координатите на избрания обект, а не само центъра на селището.",
+      "highlights": [
+        "Истинско крайбрежно селище с оживен център",
+        "Предимно пясъчен плаж край селото",
+        "Таверни, кафенета и магазини наблизо",
+        "Жива лятна вечерна атмосфера",
+        "Удобна отправна точка за околните плажове и Теологос"
+      ],
+      "seo_title": "Потос, Тасос – плаж, таверни и туристически гид",
+      "seo_description": "Открийте Потос на Тасос: пясъчен плаж, оживен център, заведения, близки заливи, транспорт и полезни съвети за почивка.",
+      "social_caption": "🌊 Потос, Тасос: сутрин на пясъчния плаж, вечер в таверна до морето и разходка по оживените улички. 🇬🇷 Разгледайте Агиос Антониос, Пефкари и Теологос! #Тасос #Потос #Гърция",
+      "photo_alt": "Панорамна гледка към Потос на остров Тасос със сгради, пясъчен плаж и оживена крайморска зона."
+    },
+    "sr": {
+      "name": "Potos",
+      "tagline": "Peščana plaža, živahne ulice i letnje večeri kraj mora",
+      "summary": "Potos je pravo primorsko mesto i popularno letovalište na jugu Tasosa. U njegovom malom centru nalaze se prodavnice, taverne, kafići i uglavnom peščana plaža, dok su letnje večeri posebno živahne.",
+      "description": "Na južnoj obali Tasosa Potos na relativno malom prostoru nudi mnogo toga što turisti vole na moru: plažu blizu centra, taverne, kafiće, prodavnice i ulice pogodne za večernju šetnju. Ovo je stvarno naselje sa svojim centrom, a ne samo niz hotela pored plaže. Tokom leta, naročito u julu i avgustu, trgovačke uličice i lokali uz more puni su ljudi i muzike do kasno uveče. Zato je Potos privlačan parovima i društvu koje voli živu atmosferu, ali i porodicama kojima odgovara da su plaža, obroci i svakodnevne potrepštine blizu smeštaja. Oni koji žele mirne noći trebalo bi pažljivo da izaberu lokaciju apartmana. Glavna gradska plaža Potosa uglavnom je peščana, ali ulazak u vodu, dubina i dostupni sadržaji zavise od izabranog dela. Duž nastavka obale nalazi se posebno imenovana plaža Agios Antonios, poznata i kao San Antonio. Zapadnije je Pefkari u pravcu Limenarije. U blizini su i zasebne uvale Rosogremos i Notos, dok je Psili Amos još jedna zanimljiva plaža za poseban izlet. Iz Potosa je praktično obići Limenariju i tradicionalno planinsko selo Teologos. Pravi šarm ovog mesta jeste spoj odmora na moru, prepoznatljivog lokalnog centra i živih letnjih večeri. Gosti mogu provesti ceo dan u mestu, a da im istovremeno bude dostupno više različitih izleta po južnom delu ostrva.",
+      "history_culture": "Potos je istorijski povezan sa širom oblašću Teologosa i životom uz južnu obalu Tasosa. Danas ga snažno oblikuju sezonski turizam, lokalno ugostiteljstvo i mali privatni poslovi. Stariju tradicionalnu arhitekturu najbolje je upoznati na posebnom izletu u Teologos. Arheološka prošlost šire zone Agios Antonios ne znači da u samom centru Potosa postoji potvrđen arheološki lokalitet otvoren za posete.",
+      "local_character": "Danju je Potos pristupačno i živo mesto za plažu, a uveče se ljudi okupljaju u uličicama, prodavnicama i lokalima kraj mora. U špicu sezone centar može biti bučan; smeštaj udaljeniji od najprometnijih lokala obično je mirniji.",
+      "what_to_do": "Prošetajte centralnim ulicama, svratite u tavernu kraj vode i odaberite pogodan deo plaže Potos. Obližnji Agios Antonios ima zasebnu plažnu celinu. Uz proveru prilaza možete obići Pefkari, Rosogremos, Notos ili Psili Amos. Za drugačiji doživljaj posetite Limenariju i Teologos.",
+      "practical_tips": "Tokom jula i avgusta glavni deo mesta može biti pun ljudi i muzike do kasno. Ako želite mir, proverite gde se smeštaj tačno nalazi. Parking blizu mora nije zagarantovan; moguće naplate i pravila proverite na licu mesta. Ležaljke i ostale usluge zavise od sezonskih pružalaca. Potos ima autobuske veze sa drugim mestima na ostrvu, ali red vožnje treba proveriti za datum putovanja. Za precizno navođenje koristite koordinate konkretne plaže ili objekta, a ne samo centra mesta.",
+      "highlights": [
+        "Stvarno primorsko naselje sa živim centrom",
+        "Pretežno peščana plaža blizu smeštaja",
+        "Taverne, kafići i prodavnice na kratkom rastojanju",
+        "Živahne letnje večeri",
+        "Dobra baza za obližnje uvale i Teologos"
+      ],
+      "seo_title": "Potos, Tasos – plaža, restorani i vodič kroz mesto",
+      "seo_description": "Istražite Potos na Tasosu: peščanu plažu, živahan centar, taverne, obližnje uvale, autobuse i praktične savete za odmor.",
+      "social_caption": "🌊 Potos, Tasos: jutro na peščanoj plaži, ručak uz more i žive letnje večeri. 🇬🇷 Otkrijte i Agios Antonios, Pefkari i Teologos! #Tasos #Potos #Grcka",
+      "photo_alt": "Panoramski pogled na mesto Potos na Tasosu, sa kućama, peščanom plažom i primorskim turističkim delom."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/potos/images/potos1.webp",
+    "gallery": [
+      "destinations/thassos/areas/potos/images/potos2.webp",
+      "destinations/thassos/areas/potos/images/potos3.webp",
+      "destinations/thassos/areas/potos/images/potos4.webp",
+      "destinations/thassos/areas/potos/images/potos5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/potos/images/",
+    "suggested_asset_names": [
+      "potos1.webp",
+      "potos2.webp",
+      "potos3.webp",
+      "potos4.webp",
+      "potos5.webp"
+    ],
+    "image_policy": "Five local WebP images preassigned to stable filenames. Suggested subjects: (1) whole Potos village/shore panorama, (2) real Potos shopping/strolling lanes, (3) village beachfront/tavernas, (4) village evening ambience, (5) geographically identifiable Potos coastal village view. Do not substitute unrelated Pefkari, Notos or San Antonio photographs without accurate captions; each image must depict Potos correctly. Exact file contents and commercial/publication/transfer rights require independent verification; binaries are not supplied.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_osm_potos",
+      "kind": "osm_mapped_settlement",
+      "title": "Mapcarta — Potos (OpenStreetMap place=village node 13017361416)",
+      "url": "https://mapcarta.com/25730146",
+      "detail": "Village point 40.61047,24.60741; real OSM settlement node, not beach access, parking or verified arrival. Distinct from coastal bathing-water reference.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_katatopisi_potos",
+      "kind": "independent_place_directory",
+      "title": "Katatopisi — Potos village",
+      "url": "https://katatopisi.gr/en/place/potos/",
+      "detail": "Identifies Ποτός as Thassos village with approximate centre ~40.6105,24.6074; place is separate from nearby Potos bathing-water site.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_potos",
+      "kind": "local_tourism_guide",
+      "title": "Go Thassos — Potos",
+      "url": "https://www.go-thassos.gr/about-thassos/places/potos",
+      "detail": "Seaside village/resort with narrow shopping lanes, restaurants, cafés, bars, youth and family appeal, lively summer nightlife.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_potos_beach",
+      "kind": "local_beach_guide",
+      "title": "Go Thassos — Potos Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/potos-beach",
+      "detail": "Potos Beach is a named beachfront POI with reported seasonal food/drink, sunbeds, umbrellas, toilets, showers and water sports; availability not guaranteed.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_nikana_potos",
+      "kind": "travel_guide",
+      "title": "Nikana — Potos village",
+      "url": "https://mg.nikana.gr/en/tourist-guide/thassos/places/1951/potos",
+      "detail": "Detailed town layout, central lanes, beach proximity, shops, eateries and historically reported amenities. Updated June 2025. Specific prices/shop counts are not adopted as current facts.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_nikana_town_compare",
+      "kind": "travel_guide",
+      "title": "Nikana — Choosing between Limenas, Limenaria and Potos",
+      "url": "https://mg.nikana.gr/en/tourist-guide/thassos/places/1579/which-place-to-choose-on-thassos-limenas-limenaria-or-potos",
+      "detail": "Potos lively summer atmosphere, sandy local beach and nearby beaches; compares with quieter Limenaria and larger Limenas. Updated March 2025.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_nikana_potos_beach",
+      "kind": "beach_guide",
+      "title": "Nikana — Potos city beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1912/potos-city-beach",
+      "detail": "Describes central Potos sandy shoreline with varied seasonal facilities and a named San Antonio continuation. Updated 2022; no historical consumption policy adopted as live price.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_island_bus",
+      "kind": "seasonal_transport_guide",
+      "title": "Go Thassos — Thassos bus schedules and ticket prices",
+      "url": "https://www.go-thassos.com/thassos-bus-schedules-prices",
+      "detail": "Schedule explicitly scoped to 1–31 Oct 2026 includes Potos routes to Limenas and Skala Prinos and links from Limenas. Times are not embedded permanently.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_municipality_history",
+      "kind": "municipal_primary_history",
+      "title": "Municipality of Thassos — Brief Historical Overview",
+      "url": "https://www.thassos.gr/en/dimos/thasos-syntomi-istoriki-anaskopisi/",
+      "detail": "Provides wider Thassos island history and named Agios Antonios Potou Bronze Age context; does not establish public museum or monument inside the modern Potos village centre.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_theologos",
+      "kind": "local_tourism_guide",
+      "title": "Go Thassos — Theologos",
+      "url": "https://www.go-thassos.gr/about-thassos/places/theologos",
+      "detail": "Traditional inland village with historical ties to southern coast; separately mapped excursion, not a Potos neighbourhood.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_katatopisi_beach",
+      "kind": "bathing_site_geospatial_reference",
+      "title": "Katatopisi — Potos bathing-water site",
+      "url": "https://katatopisi.gr/en/beach/potos/",
+      "detail": "Maps monitored Potos bathing-water site at approx 40.6067,24.6075; illustrates that a bathing-water sampling/site point is not the OSM village centre. Water-quality years and classifications are dynamic and not transferred to this area JSON.",
+      "checked_on": "2026-10-27"
+    }
+  ],
+  "editorial": {
+    "status": "researched_six_languages_completed_5_image_paths_configured_pending_photo_rights_arrival_and_final_review",
+    "facts_checked_on": "2026-10-27",
+    "translations_written_on": "2026-10-27",
+    "coverage": "full_Potos_actual_seaside_village_profile_six_languages_11_documented_sources_six_distinct_beach_POIs_5_preset_WebP_paths",
+    "requires_manual_review": [
+      "Confirm OSM place=village node 13017361416 (40.61047,24.60741) in Google Maps and via local reference. These are village coordinates only, NOT a reliable walking or driving arrival, pickup, parking or beach access point.",
+      "Confirm exact Potos administrative/visitor area boundary and village centre to prevent overlap with the San Antonio named bathing section, Pefkari or the inland Theologos village.",
+      "Keep Potos Beach, San Antonio, Pefkari, Rosogremos, Notos and Psili Ammos linked to their separate existing beach records; validate each entrance GPS for nearby/routing before enabling precise results.",
+      "Do not count Pefkari as a main area solely for being a named resort sector in the revised user-approved area classification; keep beach POIs separately until an actual settlement classification decision.",
+      "Verify current legally usable parking and street restrictions, actual KTEL stop(s), bus timetable for intended date, pedestrian crossings and individual wheelchair/step-free facilities.",
+      "Confirm supermarkets, pharmacy, ATM, medical providers and fuel services separately with individual current business records before advertising their availability as a proximity result.",
+      "Verify any beach lifesaving cover, accessible sea entry, sunbed conditions, operator services and fees at each separately mapped beach; do not transfer Potos central beach amenities to San Antonio or other coves.",
+      "Check any claim about a specific archaeological monument in Agios Antonios with official cultural data before placing a visitor POI or suggesting public access.",
+      "Place five genuine Potos WebP photographs potos1.webp–potos5.webp in the image folder and verify exact location, rights holder, commercial/onward transfer rights and attribution.",
+      "Native-speaker proofread RO, EN, EL, DE, BG and Serbian Latin, including spelling, localized SEO metadata and photo-alt subject after actual cover selection."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "Five local WebP filenames are assigned in media; photo binaries have not been supplied in this deliverable and subject/provenance/publication rights are not independently established. No third-party images copied or embedded."
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-pefkari",
+  "slug": "pefkari",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Πευκάρι",
+    "international_name": "Pefkari Beach",
+    "aliases": [
+      "Pefkari",
+      "Pefkári",
+      "Pevkari Beach",
+      "Paralia Pefkari",
+      "Παραλία Πευκάρι",
+      "Pefkari Beach Thassos"
+    ],
+    "entity_scope": "Beachfront in Pefkari resort, south Thassos; includes distinct managed segments, one of which is Pefkari 2 / Alexandra Beach.",
+    "deduplication_warning": "Do not double count Pefkari Beach, Pefkari 2/Alexandra Beach, hotel beach sections and the beach adjacent to the campsite as independent geographical beaches. Resort/cape named Pefkari are not the exact beach pin."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south",
+    "settlements": [
+      "Pefkari",
+      "Potos",
+      "Limenaria"
+    ],
+    "lat": 40.61736,
+    "lng": 24.5969,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.61736%2C24.59690",
+    "coordinate_source_reference": "s_mapcarta",
+    "coordinate_type": "representative_beach_pin_not_specific_access",
+    "coordinate_review_status": "independent_openstreetmap_beach_position_shown_as_google_maps_search; Google Maps pin and actual access point pending user confirmation",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mixed_sand_and_pebbles",
+    "seabed_near_shore": "variable_sand_pebbles_stones_rock_shelves",
+    "water_entry": "variable_by_section_stony_in_parts",
+    "nearshore_depth": "variable_some_sections_shallow_others_deeper",
+    "water_clarity": "often_clear_weather_dependent",
+    "wave_conditions": "weather_and_wind_dependent",
+    "exposure": "south_coast",
+    "natural_shade_on_sand": "limited_varies_by_section",
+    "beach_length_m": null,
+    "length_note": "Pefkari comprises different managed stretches and coves; no consistent measured beach length verified.",
+    "backdrop": "pine trees and low coastal hills",
+    "shoreline_type": "mixed_sand_pebble_coast_with_sections"
+  },
+  "visitor_experience": {
+    "organization": "mixed_organized_sections_with_operator_specific_rules",
+    "suitable_for": [
+      "couples",
+      "groups",
+      "families_with_supervised_swimming",
+      "swimming",
+      "snorkeling_where_conditions_allow",
+      "watersports",
+      "relaxed_day"
+    ],
+    "notable_for": [
+      "pine_backdrop",
+      "sand_and_pebbles",
+      "clear_water",
+      "watersports",
+      "beachfront_food",
+      "near_potos"
+    ],
+    "activities_possible": [
+      "swimming",
+      "snorkeling",
+      "seasonal_water_sports",
+      "watercraft_rentals_with_operators",
+      "beach_relaxation"
+    ],
+    "estimated_crowd_peak": "popular_in_summer_varies_by_section",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Slippery rock shelves and stones can affect entry; swimmers should check their chosen section, depth, weather and watercraft zones. Supervise children."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Usually connected to nearby businesses; not universally public or guaranteed."
+    },
+    "showers": {
+      "available_in_some_sections": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": true,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": true,
+    "volleyball": true,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "Coverage is site- and season-specific and needs local confirmation.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "No verified continuous accessible route or adaptive water access equipment across the beach.",
+    "free_unserviced_space": null,
+    "facilities_scope": "Services vary by business and section; Alexandra Beach amenities may be managed by its hotel operator."
+  },
+  "access_and_cost": {
+    "road_access": "paved_road_to_pefkari_settlement_then_local_beach_access",
+    "public_transport": "local_bus_service_possible_schedule_not_verified",
+    "parking_type": "local_parking_and_nearby_streets_subject_to_capacity",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Charges, minimum consumption, and guest-only services may apply depending on operator; verify locally.",
+    "best_arrival_advice": "In summer, arrive earlier for easier parking and more choice; confirm access conditions at hotel-managed sections.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Distances vary by route and start point; no single measured driving value asserted."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": 2026,
+      "verified_specific_section": "Pefkari 2 / Alexandra Beach",
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": "s_blueflag_2026"
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Live temperatures, UV, waves and service availability must be retrieved at runtime; not hard-coded."
+  },
+  "translations": {
+    "ro": {
+      "name": "Pefkari Beach",
+      "tagline": "Pini aproape de mare, apă limpede și sporturi nautice",
+      "summary": "Pefkari este o plajă amenajată în sudul insulei Thassos, între Limenaria și Potos. Îmbină nisipul și pietricelele cu sectoare de fund marin stâncos, zone de relaxare și numeroase activități nautice în sezon.",
+      "description": "Pefkari Beach se află pe coasta sudică a insulei Thassos, într-o mică stațiune aflată între Limenaria și Potos. Numele Pefkari amintește de pinii care cresc în apropierea țărmului și dau peisajului un aer verde, chiar și în zilele călduroase. Nu este o plajă uniformă: pe mal găsești nisip amestecat cu pietricele, iar sub apă alternează porțiunile nisipoase, pietrele și platformele stâncoase. Tocmai această varietate face utilă alegerea atentă a locului de intrare în mare. De-a lungul țărmului există sectoare amenajate cu șezlonguri și umbrele, dar și zone administrate de hoteluri sau operatori diferiți. În apropiere se găsesc taverne, cafenele și unități de cazare, iar vara funcționează activități nautice, inclusiv excursii sau experiențe pe apă oferite de operatorii locali. Pefkari este o alegere potrivită pentru cei care vor să combine înotul și relaxarea cu snorkelingul ori sporturile nautice, fără să fie departe de localitățile animate Potos și Limenaria. Sectorul Alexandra Beach beneficiază de o certificare Blue Flag pentru 2026, dar aceasta nu trebuie extinsă automat asupra întregii plaje.",
+      "practical_tips": "Ia în calcul încălțăminte de apă: în unele zone există pietre și plăci stâncoase, care pot fi alunecoase. Pentru copii, verifică pe loc adâncimea și fundul mării; nu toate intrările sunt la fel de line. Umbra pinilor nu acoperă uniform nisipul. Dușurile, toaletele, șezlongurile și sporturile nautice depind de sector, sezon și operator. Întreabă înainte de a ocupa șezlongurile dacă se aplică tarif sau consumație minimă și verifică condițiile de acces în sectoarele administrate de hoteluri. Nu presupune că certificarea Blue Flag a Alexandra Beach acoperă întreaga coastă.",
+      "highlights": [
+        "Golf cu pini în apropierea țărmului",
+        "Nisip, pietricele și porțiuni stâncoase",
+        "Apă adesea limpede, potrivită pentru snorkeling în condiții bune",
+        "Sporturi nautice și taverne în apropiere",
+        "Localizare convenabilă între Potos și Limenaria"
+      ],
+      "seo_title": "Pefkari Beach Thassos – acces, facilități și sporturi nautice",
+      "seo_description": "Ghid Pefkari Beach, Thassos: nisip și pietricele, zone stâncoase, șezlonguri, sporturi nautice, acces și sfaturi pentru înot.",
+      "social_caption": "🌲🏖️ Pefkari Beach, Thassos: pini verzi lângă mare, apă limpede și o plajă perfectă pentru cei care vor și relaxare, și aventură pe apă. 🌊 Ai grijă la pietrele din anumite sectoare! 🇬🇷 #Thassos #Pefkari #ExploreGreece",
+      "photo_alt": "Pefkari Beach pe coasta sudică a insulei Thassos, cu pini, umbrele și un țărm de nisip și pietricele."
+    },
+    "en": {
+      "name": "Pefkari Beach",
+      "tagline": "Pine-framed shores, clear water and watersports",
+      "summary": "Pefkari is a developed beach on the southern coast of Thassos between Limenaria and Potos. Its varied shoreline combines sand, pebbles and rocky seabed sections with seasonal services, watersports and dining nearby.",
+      "description": "Pefkari Beach lies on the southern coast of Thassos, between the holiday towns of Limenaria and Potos. Its name is associated with the pine trees growing behind the shoreline, giving this coastal settlement a green and welcoming backdrop. The beach is not uniform from end to end: sand and pebbles share the shore, while the seabed changes between sandy patches, stones and rocky shelves. Choosing the right place to enter the water is therefore important, especially when visiting with children. Different operators manage parts of the beachfront, including organized areas with loungers and umbrellas and sections associated with nearby hotels. Tavernas, cafés and accommodation sit close to the sea, while seasonal watersports add a more active option to a relaxed day. Visitors can combine swimming with snorkeling where conditions are suitable, or arrange water-based activities from local providers. Pefkari also makes a convenient stop for anyone staying in Potos or Limenaria, without requiring a long drive around the island. The Alexandra Beach sector holds a Blue Flag award for 2026; this recognition refers to the named section rather than every part of Pefkari shoreline.",
+      "practical_tips": "Consider water shoes because stones and rock shelves occur in parts of the sea entry and may be slippery. Check the local depth and seabed before letting children swim; it varies along the coast. Pine trees do not provide shade across every part of the sand. Toilets, showers, sunbeds and watersports depend on the operator and season. Ask about lounger charges or minimum spending before settling in, and confirm whether hotel-managed sections welcome non-guests. The Alexandra Beach Blue Flag award should not be taken as a certification for the entire bay.",
+      "highlights": [
+        "Pine trees close to the shoreline",
+        "A mix of sand, pebbles and rocky seabed",
+        "Often-clear water with snorkeling opportunities",
+        "Seasonal watersports and beachfront dining",
+        "Easy to combine with Potos and Limenaria"
+      ],
+      "seo_title": "Pefkari Beach Thassos – guide, access and watersports",
+      "seo_description": "Visit Pefkari Beach on Thassos: sand and pebbles, rocky seabed, seasonal watersports, facilities and practical access tips.",
+      "social_caption": "🌲🏖️ Pefkari Beach, Thassos: pine-framed shores, clear blue water and plenty of ways to enjoy the sea. 🌊 Choose your swimming spot carefully where rocks meet the water. 🇬🇷 #Thassos #Pefkari #GreeceTravel",
+      "photo_alt": "Pefkari Beach on the southern coast of Thassos, with pine trees, parasols and a mixed sandy-pebble shoreline."
+    },
+    "el": {
+      "name": "Παραλία Πευκάρι",
+      "tagline": "Πεύκα δίπλα στη θάλασσα, διαυγή νερά και θαλάσσια σπορ",
+      "summary": "Το Πευκάρι βρίσκεται στη νότια Θάσο, ανάμεσα στα Λιμενάρια και τον Ποτό. Η ακτή συνδυάζει άμμο, βότσαλα και βραχώδη σημεία μέσα στη θάλασσα, με οργανωμένα τμήματα και εποχικές δραστηριότητες.",
+      "description": "Η παραλία Πευκάρι απλώνεται στη νότια πλευρά της Θάσου, ανάμεσα στα Λιμενάρια και τον Ποτό. Η ονομασία της συνδέεται με τα πεύκα που πλαισιώνουν την παραλιακή ζώνη και χαρίζουν στο τοπίο μια όμορφη πράσινη όψη. Η ακτή δεν έχει τα ίδια χαρακτηριστικά σε κάθε σημείο: η άμμος αναμειγνύεται με βότσαλα, ενώ στον βυθό υπάρχουν αμμώδεις επιφάνειες, πέτρες και βραχώδεις πλάκες. Γι’ αυτό αξίζει να διαλέξετε προσεκτικά από πού θα μπείτε στη θάλασσα, ιδιαίτερα αν έχετε μικρά παιδιά. Υπάρχουν οργανωμένα τμήματα με ξαπλώστρες και ομπρέλες, αλλά και χώροι που εξυπηρετούνται από διαφορετικές επιχειρήσεις ή γειτονικά ξενοδοχεία. Σε μικρή απόσταση λειτουργούν ταβέρνες, καφέ και καταλύματα. Το καλοκαίρι προσφέρονται θαλάσσια σπορ και δραστηριότητες από τοπικούς επαγγελματίες, ενώ τα καθαρά νερά μπορούν να προσφέρουν ωραίες στιγμές κολύμβησης και παρατήρησης του βυθού, όταν οι συνθήκες είναι καλές. Η θέση της παραλίας διευκολύνει και όσους διαμένουν στον Ποτό ή στα Λιμενάρια. Το τμήμα Alexandra Beach διαθέτει Γαλάζια Σημαία για το 2026, όμως η βράβευση αφορά το συγκεκριμένο σημείο και όχι ολόκληρη την ακτή του Πευκαρίου.",
+      "practical_tips": "Τα παπούτσια θαλάσσης είναι χρήσιμα, επειδή σε ορισμένα σημεία υπάρχουν πέτρες και γλιστερές πλάκες. Ελέγξτε το βάθος και τον βυθό προτού μπουν μικρά παιδιά στο νερό. Η σκιά των πεύκων δεν καλύπτει ολόκληρη την αμμουδιά. Τουαλέτες, ντους, ξαπλώστρες και δραστηριότητες διαφέρουν ανά επιχείρηση και περίοδο. Ρωτήστε για χρεώσεις ή ελάχιστη κατανάλωση πριν χρησιμοποιήσετε τις ξαπλώστρες, καθώς και για την πρόσβαση σε τμήματα ξενοδοχείων. Η Γαλάζια Σημαία του Alexandra Beach δεν ισχύει αυτομάτως για όλο το Πευκάρι.",
+      "highlights": [
+        "Πεύκα κοντά στην παραλία",
+        "Άμμος, βότσαλα και βραχώδης βυθός",
+        "Συχνά διαυγή νερά για παρατήρηση του βυθού",
+        "Εποχικά θαλάσσια σπορ και φαγητό δίπλα στη θάλασσα",
+        "Κοντά στον Ποτό και στα Λιμενάρια"
+      ],
+      "seo_title": "Παραλία Πευκάρι Θάσος – πρόσβαση, παροχές και θαλάσσια σπορ",
+      "seo_description": "Γνωρίστε την παραλία Πευκάρι στη Θάσο: άμμος και βότσαλα, βραχώδη σημεία, θαλάσσια σπορ, παροχές και πρακτικές συμβουλές.",
+      "social_caption": "🌲🏖️ Πευκάρι, Θάσος: καταπράσινα πεύκα δίπλα στο γαλάζιο και πολλές επιλογές για μια καλοκαιρινή ημέρα. 🌊 Διαλέξτε προσεκτικά το σημείο εισόδου στη θάλασσα! 🇬🇷 #Θάσος #Πευκάρι #Ελλάδα",
+      "photo_alt": "Η παραλία Πευκάρι στη νότια Θάσο, με πεύκα, ομπρέλες και ακτή από άμμο και βότσαλα."
+    },
+    "de": {
+      "name": "Pefkari Beach",
+      "tagline": "Pinien am Meer, klares Wasser und Wassersport",
+      "summary": "Pefkari ist ein erschlossener Strand an der Südküste von Thassos zwischen Limenaria und Potos. Sand, Kiesel und felsige Bereiche im Wasser treffen hier auf Strandangebote, Restaurants und saisonale Wassersportmöglichkeiten.",
+      "description": "Pefkari Beach liegt an der Südküste von Thassos, zwischen den Urlaubsorten Limenaria und Potos. Ihren Namen verdankt die Gegend den Pinien, die nahe am Ufer wachsen und dem kleinen Ferienort eine grüne Kulisse geben. Der Strand ist keineswegs überall gleich beschaffen: An Land mischen sich Sand und Kiesel, während unter Wasser sandige Stellen, Steine und Felsplatten wechseln. Gerade beim Einstieg ins Meer lohnt es sich daher, auf die Beschaffenheit des Untergrunds zu achten. Entlang der Küste gibt es bewirtschaftete Abschnitte mit Liegen und Sonnenschirmen sowie Bereiche, die zu Hotels oder anderen Anbietern gehören. Tavernen, Cafés und Unterkünfte liegen in unmittelbarer Nähe. Im Sommer bieten lokale Betreiber verschiedene Wassersportaktivitäten an. Bei geeigneten Bedingungen ist das oft klare Wasser außerdem reizvoll zum Schwimmen und Schnorcheln. Wer in Potos oder Limenaria wohnt, kann Pefkari gut in einen Strandtag einbauen, ohne weit fahren zu müssen. Der Abschnitt Alexandra Beach erhielt für 2026 eine Blaue Flagge; die Auszeichnung bezieht sich auf diesen benannten Strandbereich, nicht automatisch auf die gesamte Küstenlinie.",
+      "practical_tips": "Badeschuhe sind empfehlenswert, da sich an manchen Einstiegen Steine und glatte Felsplatten befinden. Für Kinder sollten Wassertiefe und Meeresboden jeweils vor Ort geprüft werden. Die Pinien spenden nicht überall auf dem Sand Schatten. Toiletten, Duschen, Liegen und Wassersportangebote hängen vom Abschnitt, Betreiber und der Saison ab. Fragen Sie vor der Nutzung nach Liegenpreisen oder Mindestverzehr und klären Sie den Zugang zu hotelbetriebenen Bereichen. Die Blaue Flagge von Alexandra Beach gilt nicht automatisch für den gesamten Strand Pefkari.",
+      "highlights": [
+        "Pinien direkt hinter der Küste",
+        "Sand und Kiesel mit teils felsigem Meeresboden",
+        "Oft klares Wasser mit Schnorchelmöglichkeiten",
+        "Saisonaler Wassersport und Restaurants am Meer",
+        "Nahe Potos und Limenaria"
+      ],
+      "seo_title": "Pefkari Beach Thassos – Strandführer, Anfahrt und Wassersport",
+      "seo_description": "Pefkari Beach auf Thassos entdecken: Sand und Kiesel, felsiger Meeresboden, saisonaler Wassersport, Ausstattung und Tipps.",
+      "social_caption": "🌲🏖️ Pefkari auf Thassos: Pinien, klares Meer und ein schöner Mix aus Entspannung und Wassersport. 🌊 Bei felsigen Einstiegen sind Badeschuhe praktisch! 🇬🇷 #Thassos #Pefkari #Griechenland",
+      "photo_alt": "Pefkari Beach an der Südküste von Thassos mit Pinien, Sonnenschirmen und Sand-Kies-Strand."
+    },
+    "bg": {
+      "name": "Плаж Пефкари",
+      "tagline": "Борове край морето, бистра вода и водни спортове",
+      "summary": "Пефкари е организиран плаж по южния бряг на Тасос, между Лименария и Потос. Пясъкът и камъчетата се редуват с каменисти участъци под водата, а наоколо има заведения и сезонни водни активности.",
+      "description": "Плаж Пефкари се намира на южното крайбрежие на остров Тасос, между Лименария и Потос. Името му се свързва с боровете, които растат близо до брега и придават на малкия курорт характерен зелен облик. Брегът не е еднакъв навсякъде: има пясък и дребни камъчета, а морското дъно редува пясъчни участъци, камъни и скални плочи. Затова е важно внимателно да изберете мястото за влизане във водата, особено с деца. По плажа има организирани зони с шезлонги и чадъри, както и части, обслужвани от различни оператори и близки хотели. Наоколо ще откриете таверни, кафенета и места за настаняване. През лятото местни доставчици предлагат водни спортове и други морски занимания. Когато условията позволяват, обикновено бистрата вода е приятна за плуване и наблюдение на подводния свят. Пефкари е удобен и за туристите, които почиват в Потос или Лименария. През 2026 г. конкретният участък Alexandra Beach има отличието Син флаг, но то не означава, че целият бряг на Пефкари е сертифициран.",
+      "practical_tips": "Носете обувки за вода, защото на някои места има камъни и хлъзгави скални плочи. Проверете дълбочината и дъното, преди децата да влязат в морето. Боровете не засенчват целия плаж. Тоалетни, душове, чадъри и водни спортове зависят от зоната, оператора и сезона. Попитайте предварително за цените на шезлонгите или изискването за минимална консумация и проверете достъпа до хотелските участъци. Синият флаг на Alexandra Beach не се отнася автоматично за целия Пефкари.",
+      "highlights": [
+        "Борове близо до плажа",
+        "Пясък, камъчета и скалисто дъно",
+        "Често бистра вода за шнорхелинг",
+        "Сезонни водни спортове и заведения край морето",
+        "Близо до Потос и Лименария"
+      ],
+      "seo_title": "Плаж Пефкари, Тасос – достъп, удобства и водни спортове",
+      "seo_description": "Открийте плаж Пефкари на Тасос: пясък и камъчета, скално дъно, водни спортове, услуги и полезни съвети.",
+      "social_caption": "🌲🏖️ Пефкари, Тасос: зелени борове до морето, бистра вода и много идеи за летен ден. 🌊 На каменистите места обувките за вода са полезни! 🇬🇷 #Тасос #Пефкари #Гърция",
+      "photo_alt": "Плаж Пефкари на южния бряг на Тасос с борове, чадъри и пясъчно-каменист бряг."
+    },
+    "sr": {
+      "name": "Plaža Pefkari",
+      "tagline": "Borovi uz more, bistra voda i sportovi na vodi",
+      "summary": "Pefkari je uređena plaža na južnoj obali Tasosa, između Limenarije i Potosa. Pesak, šljunak i kameniti delovi morskog dna smenjuju se uz sezonske sadržaje, restorane i aktivnosti na vodi.",
+      "description": "Plaža Pefkari nalazi se na južnoj obali Tasosa, između Limenarije i Potosa. Njeno ime vezuje se za borove koji rastu blizu obale i daju ovom malom letovalištu prijatnu zelenu pozadinu. Plaža nije jednaka na svim mestima: na obali ima peska i sitnog šljunka, dok se u vodi smenjuju peskoviti delovi, kamenje i kamene ploče. Zato je korisno pažljivo izabrati mesto za ulazak u more, naročito ako dolazite sa decom. Duž obale nalaze se uređeni delovi sa ležaljkama i suncobranima, kao i delovi kojima upravljaju različiti lokali ili obližnji hoteli. U blizini su taverne, kafići i smeštaj. Tokom leta lokalni pružaoci usluga organizuju vodene sportove i aktivnosti na moru. Kada su uslovi dobri, uglavnom bistra voda može biti prijatna za plivanje i posmatranje podvodnog sveta. Pefkari je pogodan i za goste smeštene u Potosu ili Limenariji, jer se nalazi između tih mesta. Deo Alexandra Beach ima Plavu zastavu za 2026. godinu, ali se to priznanje odnosi na određeni deo obale, a ne automatski na celu plažu Pefkari.",
+      "practical_tips": "Obuća za vodu je korisna zbog kamenja i klizavih kamenih ploča na pojedinim ulazima u more. Proverite dubinu i podlogu pre nego što deca uđu u vodu. Borovi ne pružaju hlad svuda na pesku. Toaleti, tuševi, ležaljke i sportovi na vodi zavise od dela plaže, operatera i sezone. Pre korišćenja ležaljki pitajte za cenu ili minimalnu potrošnju i proverite pravila pristupa hotelskim delovima. Plava zastava za Alexandra Beach ne važi automatski za čitav Pefkari.",
+      "highlights": [
+        "Borovi tik uz obalu",
+        "Pesak i šljunak uz ponegde kamenito dno",
+        "Često bistra voda pogodna za snorkling",
+        "Sezonski sportovi na vodi i restorani uz obalu",
+        "Blizina Potosa i Limenarije"
+      ],
+      "seo_title": "Plaža Pefkari, Tasos – prilaz, sadržaji i sportovi na vodi",
+      "seo_description": "Otkrijte Pefkari na Tasosu: pesak i šljunak, kamenito morsko dno, sportovi na vodi, usluge i praktični saveti.",
+      "social_caption": "🌲🏖️ Pefkari na Tasosu: borovi uz obalu, bistro more i dobar spoj odmora i aktivnosti na vodi. 🌊 Ponesite obuću za vodu za kamenite delove! 🇬🇷 #Tasos #Pefkari #Grcka",
+      "photo_alt": "Plaža Pefkari na južnoj obali Tasosa, sa borovima, suncobranima i obalom od peska i šljunka."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/pefkari/images/pefkari1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/pefkari/images/pefkari2.webp",
+      "destinations/thassos/beaches/pefkari/images/pefkari3.webp",
+      "destinations/thassos/beaches/pefkari/images/pefkari4.webp",
+      "destinations/thassos/beaches/pefkari/images/pefkari5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/pefkari/images/",
+    "suggested_asset_names": [
+      "pefkari1.webp",
+      "pefkari2.webp",
+      "pefkari3.webp",
+      "pefkari4.webp",
+      "pefkari5.webp"
+    ],
+    "image_policy": "Publish only user-provided, owned or appropriately licensed photographs of Pefkari Beach in Thassos. The five local paths were assigned from filenames shown in the supplied screenshot; confirm that each image depicts Pefkari (including correct identification of any Alexandra Beach section), and verify provenance, commercial reuse permissions and required attribution before publication.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_go_thassos",
+      "kind": "regional_travel_guide",
+      "title": "Go Thassos — Pefkari Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/pefkari-beach",
+      "detail": "Describes seasonal toilets/showers, food, loungers, volleyball, watersports, parking and mixed sand/pebble/rock seabed.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_village",
+      "kind": "regional_travel_guide",
+      "title": "Go Thassos — Pefkari settlement",
+      "url": "https://www.go-thassos.gr/about-thassos/places/pefkari",
+      "detail": "Pine setting, sand-and-pebble bay, proximity to Potos and Limenaria, accommodation and dining. Older claims about Blue Flag do not establish scope of 2026 award.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide",
+      "title": "Nikana — Pefkari beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1920/pefkari-beach",
+      "detail": "Discusses two sections and variable sandy/rocky entry, snorkeling, operator amenities; dated guidance should not set current prices or access rules.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover",
+      "kind": "travel_guide",
+      "title": "Discover Thassos — Pefkari Beach",
+      "url": "https://www.discover-thassos.com/listing/pefkari-beach-thassos/",
+      "detail": "Pine scenery, mixed rocky and sandy areas, services, watersports and travel context.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_albatross",
+      "kind": "local_operator",
+      "title": "Albatross — Pefkari Beach watersports",
+      "url": "https://www.albatross-thassos.gr/en/pefkari-beach/",
+      "detail": "Operator describes watersports on beachfront in front of Alexandra hotel; specific offers are seasonal and should be checked directly.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_2026",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — 2026 awards",
+      "url": "https://www.blueflag.gr/el/awards/2026",
+      "detail": "Lists Pefkari 2/Alexandra Beach for Thassos in 2026; cannot generalize to the entire Pefkari coast.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_mapcarta",
+      "kind": "openstreetmap_map_reference",
+      "title": "Mapcarta / OpenStreetMap — Pefkari beach feature",
+      "url": "https://mapcarta.com/W208233858",
+      "detail": "Map feature coordinates 40.61736, 24.59690, linked to OSM way 208233858. Converted to navigable Google Maps search link but Google Maps pin not independently checked.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_alexandra",
+      "kind": "media_license",
+      "title": "Wikimedia Commons — Alexandra Beach Pefkari photo",
+      "url": "https://commons.wikimedia.org/wiki/File:Alexandra_Beach,_Pefkari,_Thasos.jpg",
+      "detail": "DocWoKav photo, CC BY-SA 4.0. Specific Alexandra section, not entire Pefkari.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_historical",
+      "kind": "media_license",
+      "title": "Wikimedia Commons — Pefkari Panorama 1980 C",
+      "url": "https://commons.wikimedia.org/wiki/File:Pefkari_Panorama_1980_C.jpg",
+      "detail": "Gerhard Haubold historic photo under CC BY-SA 3.0; date information on file page inconsistent.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_category",
+      "kind": "visual_research",
+      "title": "Wikimedia Commons — Pefkari Beach category",
+      "url": "https://commons.wikimedia.org/wiki/Category:Pefkari_Beach_(Thasos)",
+      "detail": "Beach photo collection for discovery; individual licenses and visual locations still to verify.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Check exact Google Maps beach pin, car route and parking/access point",
+      "Confirm which segments are public and which are hotel-operated",
+      "Check current showers, toilets, lifeguard and accessible beach access",
+      "Confirm seasonal water-sport availability and charges",
+      "Verify that pefkari1.webp–pefkari5.webp depict Pefkari Beach (and distinguish Alexandra Beach if shown); document provenance, publication/transfer permissions and any required attribution.",
+      "Six-language native copy review before public release"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; publication and transferable commercial rights for the five locally referenced WebP photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths were assigned from filenames in the user-provided screenshot; image binaries are not embedded in this JSON, and image authenticity and rights have not been independently verified."
+  }
+}

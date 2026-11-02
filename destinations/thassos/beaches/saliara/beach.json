@@ -1,0 +1,365 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-saliara",
+  "slug": "saliara",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Σαλιάρα",
+    "international_name": "Marble Beach (Saliara)",
+    "aliases": [
+      "Saliara Beach",
+      "Marble Beach",
+      "Marmara Beach",
+      "Παραλία Σαλιάρα",
+      "Παραλία Μάρμαρα",
+      "Plaja de Marmură"
+    ],
+    "entity_scope": "Small white-marble-pebble cove on the northeast coast of Thassos, near Makryammos; excludes the nearby separate Porto Vathy beach.",
+    "deduplication_warning": "Marble Beach, Saliara and Marmara are aliases of the same cove. Porto Vathy / Porto Vathi, sometimes also advertised as a marble beach, is a distinct nearby beach and must not be merged."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "north / northeast",
+    "settlements": [
+      "Limenas (Thassos Town)",
+      "Makryammos"
+    ],
+    "lat": 40.750583,
+    "lng": 24.748222,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/place/40%C2%B045'02.1%22N+24%C2%B044'53.6%22E/@40.7508512,24.7483682,18z/data=!4m2!3m1!1s0x0:0x0",
+    "coordinate_source_reference": "s_google_map",
+    "coordinate_type": "representative_beach_pin_not_parking_or_vehicle_access_point",
+    "coordinate_review_status": "published_google_maps_pin_corresponds_to_cove; independently_consistent_with_other_geodata; access_point_not_verified",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "small_white_marble_pebbles_and_granules_not_ordinary_sand",
+    "seabed_near_shore": "light_marbled_pebbles_with_some_rocks",
+    "water_entry": "variable_by_exact_point",
+    "nearshore_depth": "reported_as_gradual_in_some_guides_but_local_accounts_report_faster_dropoffs",
+    "water_clarity": "typically_very_clear_when_calm",
+    "wave_conditions": "wind_dependent",
+    "exposure": "small_northeast_facing_cove",
+    "natural_shade_on_sand": "limited",
+    "beach_length_m": null,
+    "length_note": "The cove is compact; no reliable uniform shoreline length confirmed.",
+    "backdrop": "pine-covered slopes, marble-rich rock and former/active quarry landscape nearby",
+    "shoreline_type": "compact_white_marble_cove"
+  },
+  "visitor_experience": {
+    "organization": "mainly_organized_seasonally_with_very_limited_unserviced_space",
+    "suitable_for": [
+      "couples",
+      "groups",
+      "photography",
+      "scenic_swimming",
+      "short_beach_visit",
+      "snorkeling_when_conditions_allow"
+    ],
+    "notable_for": [
+      "bright_white_marble_pebbles",
+      "intense_turquoise_water",
+      "photogenic_contrast",
+      "small_cove",
+      "dusty_approach_road"
+    ],
+    "activities_possible": [
+      "swimming",
+      "snorkeling_when_calm",
+      "photography",
+      "relaxation_on_serviced_sunbeds"
+    ],
+    "estimated_crowd_peak": "very_popular_and_often_crowded_in_high_season",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "White stones can be uncomfortable or slippery. Water depth and waves vary; supervise children and confirm sea conditions. Do not assume that the whole cove is shallow."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Reported by destination guides; usually associated with seasonal operators, not guaranteed outside operating periods."
+    },
+    "showers": {
+      "available_in_some_sections": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": true,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": false,
+    "cafes_nearby": false,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": false,
+    "volleyball": false,
+    "accommodation_nearby": false,
+    "lifeguard": null,
+    "lifeguard_note": "No independently confirmed season-wide lifeguard schedule.",
+    "wheelchair_beach_access": false,
+    "wheelchair_access_note": "Long unpaved approach and pebble surface; no verified accessible beach ramp or dedicated equipment.",
+    "free_unserviced_space": false,
+    "facilities_scope": "Compact cove with beach-bar amenities that may depend on operator and season; little guaranteed open beach space."
+  },
+  "access_and_cost": {
+    "road_access": "unpaved_dusty_road_from_makryammos_turnoff_near_limenas",
+    "public_transport": "no_verified_direct_bus_to_beach",
+    "parking_type": "informal_parking_area_near_cove",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Seasonal operator arrangements and minimum-spend rules may change; published prices from particular dates should not be treated as universal.",
+    "best_arrival_advice": "Go early during peak season; expect a slow and dusty unpaved road and limited parking at busy times. Check rental-car restrictions before driving.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Several guides quote approximately 7–8 km depending on route and start point; do not store a precise distance without route calculation.",
+    "road_length_unpaved_km_approx": 4,
+    "road_length_note": "Local guides describe around 4 km of unpaved approach from the Makryammos turnoff; surface and passability can change."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": 2026,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Marble Beach (Saliara)",
+      "tagline": "Pietricele albe de marmură și apă turcoaz într-un golf spectaculos",
+      "summary": "Saliara, cunoscută ca Marble Beach, este un golfuleț din nord-estul insulei Thassos, faimos pentru pietricelele albe de marmură care accentuează nuanța turcoaz a apei. Este foarte fotogenic, dar accesul se face pe un drum neasfaltat, iar în sezon poate fi aglomerat.",
+      "description": "Marble Beach, numită local Saliara, este unul dintre locurile cele mai ușor de recunoscut din Thassos. În locul nisipului auriu obișnuit, malul este acoperit de pietricele și granule albe de marmură, iar lumina reflectată de fundul deschis la culoare îi dă mării nuanțe intense de turcoaz. Golful este mic, înconjurat de stânci și dealuri cu pini, astfel că fotografia de vacanță poate părea desprinsă dintr-o insulă tropicală. Experiența reală este însă diferită de o plajă lungă și liniștită: în lunile aglomerate, spațiul este limitat și mare parte din mal este ocupată de amenajările sezoniere ale beach barului. Drumul de acces dinspre Makryammos este neasfaltat și poate ridica mult praf alb; conduce încet și verifică înainte condițiile de utilizare a mașinii închiriate. În apropiere se află Porto Vathy, o altă plajă cu aspect marmorat, dar nu trebuie confundată cu Saliara. Dacă alegi Marble Beach, mergi pentru peisajul neobișnuit, o baie în apă limpede și fotografii spectaculoase, fără să presupui că vei găsi mult loc liber sau liniște în plin sezon.",
+      "practical_tips": "Pleacă dimineața devreme pentru a evita traficul de pe drumul prăfuit și pentru a avea mai multe șanse la parcare. Încălțămintea pentru apă poate fi utilă pe pietricelele de marmură. Verifică la fața locului tarifele șezlongurilor, eventualul consum minim și regulile beach barului. Ia apă, protecție solară și nu te baza pe umbră naturală pe plajă. Adâncimea apei nu este identică peste tot; supraveghează copiii și evită înotul dacă sunt valuri. Porto Vathy este o oprire separată, nu un alt nume al aceleiași plaje.",
+      "highlights": [
+        "Pietricele de marmură albe, foarte fotogenice",
+        "Apă cu nuanțe intense de turcoaz",
+        "Golf mic, cu stânci și pini în fundal",
+        "Beach bar și șezlonguri în sezon",
+        "Acces pe un drum neasfaltat și prăfuit"
+      ],
+      "seo_title": "Marble Beach (Saliara), Thassos – acces, parcare și facilități",
+      "seo_description": "Ghid Marble Beach din Thassos: marmură albă, apă turcoaz, drumul neasfaltat dinspre Makryammos, facilități sezoniere și sfaturi pentru vizitare.",
+      "social_caption": "🤍 O plajă de marmură în Thassos? Da! 🌊 Saliara (Marble Beach) impresionează prin pietricelele albe și apa turcoaz. 📸 Salveaz-o pentru peisaj, dar pregătește-te pentru un drum prăfuit și aglomerație vara. 🇬🇷 #Thassos #MarbleBeach #Saliara",
+      "photo_alt": "Golful Marble Beach (Saliara), cu pietricele albe de marmură și apă turcoaz, în Thassos."
+    },
+    "en": {
+      "name": "Marble Beach (Saliara)",
+      "tagline": "White marble pebbles and striking turquoise water in a tiny cove",
+      "summary": "Saliara, widely known as Marble Beach, is a compact cove on northeastern Thassos. Its white marble fragments create remarkable turquoise water colours, but the unpaved approach and busy seasonal beach-bar setting deserve some planning.",
+      "description": "Marble Beach, locally called Saliara, is one of the most distinctive coastal sights on Thassos. Instead of an ordinary golden-sand shoreline, the cove is covered in small white marble pebbles and granules. Their pale surface reflects sunlight through the clear water and produces the bright turquoise colours seen in so many photographs. Rocky edges and pine-covered slopes frame the narrow beach, making it particularly appealing for a scenic swim or a short photo stop. The setting is not, however, a remote empty paradise in peak summer. The beach is compact, sunbeds can occupy much of the usable shore, and music and crowds may be part of the experience. Reaching it by land usually means following a dusty unpaved road from the Makryammos area. Drive slowly, check the condition of the track, and confirm that your rental agreement permits the journey. Nearby Porto Vathy is another marble-coloured cove, but it is a separate beach rather than another name for Saliara. Come for the extraordinary white-and-blue landscape, bring realistic expectations about space and comfort, and choose an early arrival if you want a calmer visit.",
+      "practical_tips": "Aim for an early start in the busiest summer weeks. Allow time for the roughly four-kilometre dusty approach road and do not assume parking will be available on arrival. Water shoes can help on marble pebbles; bring water and sun protection as shade on the shore is limited. Check sunbed pricing, any minimum-spend conditions and current operator rules before settling in. Water depth and waves differ by spot, so watch children carefully. Treat Porto Vathy as a different nearby destination.",
+      "highlights": [
+        "Bright white marble pebbles rather than typical sand",
+        "Unusually vivid turquoise water",
+        "Small cove framed by rock and pines",
+        "Seasonal beach-bar facilities",
+        "Dusty unpaved road and high-summer crowds"
+      ],
+      "seo_title": "Marble Beach Saliara Thassos – access, parking and beach guide",
+      "seo_description": "Visit Marble Beach (Saliara) in Thassos: white marble pebbles, turquoise water, the dusty Makryammos road, seasonal facilities and practical tips.",
+      "social_caption": "🤍 White marble instead of golden sand! 🌊 Saliara (Marble Beach), Thassos, is famous for its vivid turquoise cove. 📸 Save it for the view—and plan for the dusty road and summer crowds. 🇬🇷 #Thassos #Saliara #MarbleBeach",
+      "photo_alt": "White marble pebble shore and turquoise sea at Saliara Marble Beach on Thassos."
+    },
+    "el": {
+      "name": "Σαλιάρα (Marble Beach)",
+      "tagline": "Λευκά μαρμάρινα βότσαλα και εντυπωσιακά τιρκουάζ νερά",
+      "summary": "Η Σαλιάρα, γνωστή και ως Marble Beach, είναι ένας μικρός κόλπος στη βορειοανατολική Θάσο. Τα λευκά μαρμάρινα βότσαλα χαρίζουν στο νερό εντυπωσιακές αποχρώσεις, αλλά η πρόσβαση από χωματόδρομο και η πολυκοσμία του καλοκαιριού απαιτούν προγραμματισμό.",
+      "description": "Η Σαλιάρα είναι μία από τις πιο χαρακτηριστικές παραλίες της Θάσου. Αντί για τη συνηθισμένη χρυσαφένια άμμο, η μικρή ακτή είναι στρωμένη με λευκά βότσαλα και λεπτούς κόκκους μαρμάρου. Το ανοιχτόχρωμο υπόστρωμα αντανακλά το φως και δίνει στη θάλασσα έντονες τιρκουάζ αποχρώσεις, ιδιαίτερα όταν το νερό είναι ήρεμο και καθαρό. Βράχια και καταπράσινες πλαγιές με πεύκα αγκαλιάζουν τον κόλπο, δημιουργώντας ένα εντυπωσιακό σκηνικό για κολύμπι και φωτογραφίες. Παρ’ όλα αυτά, η Σαλιάρα δεν είναι απαραίτητα μια ήσυχη, απομονωμένη παραλία. Το διαθέσιμο τμήμα της ακτής είναι περιορισμένο και το καλοκαίρι οι ξαπλώστρες, η μουσική και οι επισκέπτες μπορούν να γεμίσουν τον χώρο. Η συνηθισμένη οδική πρόσβαση γίνεται μέσω χωματόδρομου από την περιοχή της Μακρυάμμου, όπου χρειάζεται χαμηλή ταχύτητα λόγω της σκόνης και της κατάστασης του οδοστρώματος. Το κοντινό Πόρτο Βαθύ είναι διαφορετική παραλία, παρόλο που μοιράζεται παρόμοιο μαρμάρινο τοπίο. Επιλέξτε τη Σαλιάρα για το ξεχωριστό χρώμα της θάλασσας και τη φωτογενή ακτή, κατά προτίμηση νωρίς την ημέρα.",
+      "practical_tips": "Φτάστε νωρίς τους μήνες αιχμής, καθώς ο μικρός χώρος και η στάθμευση γεμίζουν γρήγορα. Υπολογίστε περίπου τέσσερα χιλιόμετρα χωματόδρομου από τη διασταύρωση κοντά στη Μακρύαμμο και ελέγξτε τους όρους του ενοικιαζόμενου οχήματος. Παπούτσια θαλάσσης μπορεί να βοηθήσουν πάνω στα βότσαλα. Έχετε μαζί σας νερό και αντηλιακή προστασία, επειδή η φυσική σκιά πάνω στην ακτή είναι περιορισμένη. Ρωτήστε για τις χρεώσεις των ξαπλωστρών και τυχόν ελάχιστη κατανάλωση. Το βάθος και τα κύματα διαφέρουν ανά σημείο.",
+      "highlights": [
+        "Λευκά μαρμάρινα βότσαλα και έντονο τιρκουάζ",
+        "Μικρός γραφικός κόλπος με πεύκα",
+        "Οργανωμένες υπηρεσίες την καλοκαιρινή περίοδο",
+        "Πρόσβαση μέσω σκονισμένου χωματόδρομου",
+        "Μεγάλη επισκεψιμότητα στην υψηλή σεζόν"
+      ],
+      "seo_title": "Παραλία Σαλιάρα Θάσος – πρόσβαση, πάρκινγκ και παροχές",
+      "seo_description": "Οδηγός για τη Σαλιάρα (Marble Beach) στη Θάσο: λευκά μαρμάρινα βότσαλα, τιρκουάζ θάλασσα, χωματόδρομος από Μακρύαμμο και πρακτικές συμβουλές.",
+      "social_caption": "🤍 Λευκό μάρμαρο και τιρκουάζ θάλασσα! 🌊 Η Σαλιάρα της Θάσου ξεχωρίζει για το μοναδικό της τοπίο. 📸 Ελάτε νωρίς και προετοιμαστείτε για τον χωματόδρομο. 🇬🇷 #Θάσος #Σαλιάρα #MarbleBeach",
+      "photo_alt": "Η μικρή παραλία Σαλιάρα στη Θάσο, με λευκά μαρμάρινα βότσαλα και τιρκουάζ νερά."
+    },
+    "de": {
+      "name": "Marble Beach (Saliara)",
+      "tagline": "Weiße Marmorkiesel und leuchtend türkisfarbenes Wasser",
+      "summary": "Saliara, auch Marble Beach genannt, ist eine kleine Bucht im Nordosten von Thassos. Weiße Marmorkiesel sorgen für außergewöhnliche Wasserfarben. Der staubige Zufahrtsweg und der Betrieb in der Hochsaison sollten jedoch eingeplant werden.",
+      "description": "Die Saliara-Bucht gehört zu den auffälligsten Stränden auf Thassos. Hier liegt kein gewöhnlicher goldener Sand, sondern eine Schicht aus kleinen weißen Marmorkieseln und hellen Steinchen. Bei klarem Wasser reflektiert der helle Untergrund das Sonnenlicht und lässt das Meer in intensiven Türkistönen leuchten. Felsen und pinienbewachsene Hänge rahmen die kompakte Bucht ein – eine besonders schöne Kulisse zum Baden und Fotografieren. Wer im Hochsommer kommt, sollte allerdings keine einsame Naturbucht erwarten. Der Strand ist klein, Sonnenliegen können einen großen Teil der nutzbaren Fläche einnehmen und der Betrieb an der Strandbar kann lebhaft sein. Die Anfahrt erfolgt normalerweise über eine unbefestigte, staubige Straße von der Gegend bei Makryammos. Langsames Fahren ist ratsam; bei einem Mietwagen sollte man vorab die Vertragsbedingungen prüfen. Ganz in der Nähe liegt Porto Vathy, ebenfalls mit hellen Marmorkieseln, aber es handelt sich um einen eigenen Strand und nicht um einen zweiten Namen für Saliara. Besonders lohnend ist ein Besuch am frühen Vormittag, wenn es meist noch leichter ist, einen Platz zu finden und die außergewöhnlichen Farben zu genießen.",
+      "practical_tips": "In der Hochsaison möglichst früh starten. Für die letzten ungefähr vier Kilometer ab der Abzweigung bei Makryammos muss man mit einer staubigen Schotterstraße rechnen. Der Zustand kann sich ändern; Mietwagenbedingungen vorher prüfen. Badeschuhe sind auf den Kieseln hilfreich. Wasser und Sonnenschutz mitnehmen, da es direkt am Strand wenig natürlichen Schatten gibt. Preise für Liegen und mögliche Mindestumsätze vor Ort erfragen. Wassertiefe und Wellengang können je nach Stelle unterschiedlich sein.",
+      "highlights": [
+        "Weiße Marmorkiesel statt normalem Sand",
+        "Besonders intensive Türkisfarben im Meer",
+        "Kleine Bucht zwischen Felsen und Pinien",
+        "Saisonale Strandbar mit Liegen",
+        "Staubige Zufahrt und oft viele Besucher"
+      ],
+      "seo_title": "Marble Beach Saliara Thassos – Anfahrt, Parken und Ausstattung",
+      "seo_description": "Marble Beach auf Thassos entdecken: weiße Marmorkiesel, türkisfarbenes Meer, Schotterstraße ab Makryammos, Strandbar und praktische Hinweise.",
+      "social_caption": "🤍 Ein Strand aus weißem Marmor? 🌊 Saliara auf Thassos begeistert mit leuchtend türkisfarbenem Wasser. 📸 Früh kommen – die Zufahrt ist staubig und der Strand im Sommer beliebt! 🇬🇷 #Thassos #Saliara #MarbleBeach",
+      "photo_alt": "Saliara Marble Beach auf Thassos mit weißen Marmorkieseln und türkisfarbenem Wasser."
+    },
+    "bg": {
+      "name": "Марбъл Бийч (Салиара)",
+      "tagline": "Бели мраморни камъчета и яркотюркоазена вода",
+      "summary": "Салиара, известен още като Marble Beach, е малък залив в североизточната част на Тасос. Белите мраморни камъчета придават на водата необикновен цвят, но прашният черен път и летните тълпи изискват добра подготовка.",
+      "description": "Плажът Салиара, познат на посетителите като Marble Beach, е едно от най-разпознаваемите места на остров Тасос. Вместо обикновен златист пясък брегът е покрит с малки бели мраморни камъчета и гранули. Светлото морско дъно отразява слънцето и при спокойно време водата придобива впечатляващи тюркоазени нюанси. Заливът е малък и е обграден от скали и зелени склонове с борове, което го прави отличен за снимки и кратко плуване. През най-натоварените летни седмици обаче мястото съвсем не е уединено. Шезлонгите могат да заемат голяма част от плажа, а музиката и посетителите създават оживена атмосфера. Обичайният достъп е по прашен неасфалтиран път откъм района на Макриамос. Карайте бавно и проверете дали договорът за автомобил под наем позволява движение по такъв терен. Недалеч се намира Порто Вати — друг малък залив със светъл мраморен бряг, но не бива да се бърка със Салиара. Посетете Marble Beach за необикновения пейзаж и прозрачната вода, най-добре рано сутрин, когато шансът да намерите място е по-голям.",
+      "practical_tips": "Пристигнете рано през активния сезон. Последните приблизително четири километра от отклонението при Макриамос са по прашен черен път, чието състояние може да се променя. Обувките за вода са полезни върху мраморните камъчета. Носете вода и слънцезащита, защото естествената сянка на самия бряг е ограничена. Проверявайте цените на шезлонгите и условията на плажния бар на място. Дълбочината и вълните са различни в отделните точки; наблюдавайте децата.",
+      "highlights": [
+        "Необичаен бряг от бели мраморни камъчета",
+        "Силни тюркоазени нюанси на водата",
+        "Малък залив със скали и борове",
+        "Сезонен плажен бар и шезлонги",
+        "Прашен черен път и натоварен летен сезон"
+      ],
+      "seo_title": "Marble Beach Салиара, Тасос – достъп, паркинг и удобства",
+      "seo_description": "Салиара (Marble Beach) на Тасос: бели мраморни камъчета, тюркоазена вода, прашен път от Макриамос и полезни съвети за посещение.",
+      "social_caption": "🤍 Бял мрамор и тюркоазено море! 🌊 Салиара на Тасос изглежда невероятно на снимки. 📸 Отидете рано и предвидете прашния път до плажа. 🇬🇷 #Тасос #Салиара #MarbleBeach",
+      "photo_alt": "Малкият залив Салиара на остров Тасос с бели мраморни камъчета и тюркоазена вода."
+    },
+    "sr": {
+      "name": "Marble Beach (Salijara)",
+      "tagline": "Beli mermerni obluci i more intenzivne tirkizne boje",
+      "summary": "Salijara, poznata kao Marble Beach, mala je uvala na severoistoku Tasosa. Beli mermerni kamenčići daju vodi neobično tirkiznu boju, ali prašnjav makadamski put i letnje gužve zahtevaju malo planiranja.",
+      "description": "Salijara, koju turisti najčešće zovu Marble Beach, jedna je od najupečatljivijih plaža na Tasosu. Umesto uobičajenog zlatnog peska, obala je prekrivena sitnim belim mermernim kamenčićima i granulama. Svetlo morsko dno odbija sunčevu svetlost, pa more, kada je mirno i bistro, dobija intenzivne tirkizne nijanse. Mala uvala okružena je stenama i zelenim padinama sa borovima, zbog čega je posebno privlačna za fotografisanje i kupanje. Ipak, u jeku leta ne treba očekivati usamljenu divlju plažu. Prostor je ograničen, ležaljke mogu zauzimati gotovo celu uređenu obalu, a muzika i mnoštvo posetilaca stvaraju živu atmosferu. Do Salijare se najčešće stiže prašnjavim makadamskim putem iz pravca Makrijamosa. Vozite polako i proverite da li je vožnja neasfaltiranim putem dozvoljena ugovorom o iznajmljivanju automobila. U blizini se nalazi Porto Vati, druga zasebna plaža sa sličnim belim kamenčićima; ta dva mesta ne treba mešati. Dođite zbog neobične boje vode i belog mermera, po mogućnosti ranije tokom dana.",
+      "practical_tips": "U špicu sezone krenite rano zbog parkinga i malog prostora na obali. Od skretanja kod Makrijamosa očekujte približno četiri kilometra prašnjavog puta, čije se stanje može promeniti. Obuća za vodu može biti korisna na kamenčićima. Ponesite vodu i zaštitu od sunca jer na samoj plaži ima malo prirodnog hlada. Na licu mesta proverite cene ležaljki i eventualnu obaveznu potrošnju. Dubina mora i talasi nisu isti na svim delovima uvale; posebno pazite na decu.",
+      "highlights": [
+        "Beli mermerni obluci umesto peska",
+        "Intenzivno tirkizno more",
+        "Mala uvala okružena stenama i borovima",
+        "Ležaljke i bar tokom sezone",
+        "Prašnjav put i velike gužve leti"
+      ],
+      "seo_title": "Marble Beach Salijara Tasos – prilaz, parking i sadržaji",
+      "seo_description": "Otkrijte Salijaru (Marble Beach) na Tasosu: beli mermerni kamenčići, tirkizna voda, prašnjavi put od Makrijamosa i praktični saveti.",
+      "social_caption": "🤍 Beli mermer umesto običnog peska! 🌊 Salijara na Tasosu poznata je po neverovatno tirkiznoj vodi. 📸 Sačuvajte je za putovanje i krenite rano zbog gužve! 🇬🇷 #Tasos #Salijara #MarbleBeach",
+      "photo_alt": "Beli mermerni kamenčići i tirkizna voda u uvali Salijara na Tasosu."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/saliara/images/saliara1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/saliara/images/saliara2.webp",
+      "destinations/thassos/beaches/saliara/images/saliara3.webp",
+      "destinations/thassos/beaches/saliara/images/saliara4.webp",
+      "destinations/thassos/beaches/saliara/images/saliara5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/saliara/images/",
+    "suggested_asset_names": [
+      "saliara1.webp",
+      "saliara2.webp",
+      "saliara3.webp",
+      "saliara4.webp",
+      "saliara5.webp"
+    ],
+    "image_policy": "Five local image paths are assigned from the filenames visible in the user-supplied screenshot. Publish only if the actual WebP photos are verified to depict Saliara (Marble Beach) on Thassos, not the nearby separate Porto Vathy Beach. Confirm ownership, commercial reuse and redistribution rights, required attribution, and any image-editing conditions before publication. The actual image binaries have not been examined in this JSON update.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_google_map",
+      "kind": "map_link",
+      "title": "Google Maps beach pin linked from Thassos Forum",
+      "url": "https://www.google.com/maps/place/40%C2%B045'02.1%22N+24%C2%B044'53.6%22E/@40.7508512,24.7483682,18z/data=!4m2!3m1!1s0x0:0x0",
+      "detail": "Third-party forum published this Google Maps point for Saliara; DMS converted to decimals 40.750583, 24.748222. It identifies the cove, not a drivable entrance or parking location.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_gnto",
+      "kind": "national_tourism",
+      "title": "Greek National Tourism Organisation — Beaches on Thasos Island",
+      "url": "https://www.visitgreece.gr/en/experiences/culture/local-traditions/beaches-on-thasos-island",
+      "detail": "White pebbles, turquoise water, pine setting, unpaved approach and beach bar.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_gothassos",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Saliara Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/saliara-beach",
+      "detail": "Lists showers, toilets, food and drinks, music, loungers, umbrellas and parking. Amenities can vary by season.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide",
+      "title": "Nikana.gr — Saliara (Marble) beach, updated October 2026",
+      "url": "https://annapurna.nikana.gr/en/tourist-guide/thassos/beaches/1925/marble-saliara-beach",
+      "detail": "Unpaved approximate 4km approach, quarry dust, white marble pebbles, peak crowds, operator sunbeds and facilities. Seasonal prices not hard-coded.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_geography",
+      "kind": "travel_guide_geocoordinates",
+      "title": "Greek Travel Pages — Saliara Beach",
+      "url": "https://www.gtp.gr/LocPage.asp?id=73019&lng=2",
+      "detail": "Independent geographic cross-check of representative location and aliases MARBLE BEACH / MARMARA.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_myt",
+      "kind": "travel_guide_geocoordinates",
+      "title": "MyTraveler — Saliara Marble Beach",
+      "url": "https://www.mytraveler.gr/place/saliara-marble-beach-thasos-island/",
+      "detail": "Coordinates 40.750455, 24.748217 and broad categories organized beach, pebble and snorkeling.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_road",
+      "kind": "travel_guide",
+      "title": "All Over Greece — Saliara Beach",
+      "url": "https://www.allovergreece.com/Beaches/Descr/44/993/en",
+      "detail": "Pebble shoreline, seasonally organized cove, dusty drive and access via Makryammos.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_map_alternative",
+      "kind": "map_reference",
+      "title": "Mapcarta / OpenStreetMap — Saliara",
+      "url": "https://mapcarta.com/W158227272",
+      "detail": "Independent beach geography and clear distinction from nearby Porto Vathy roughly 480 m to the southeast.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm preferred Google Maps pin for public navigation and actual entrance/parking point",
+      "Check current condition of the unpaved road and rental car restrictions",
+      "Confirm whether beach bar, WC, shower and changing facilities operate in the intended season",
+      "Verify pricing, any minimum spend and restrictions before publication",
+      "Confirm nearshore depth and warning signage on location; sources differ",
+      "Verify that saliara1.webp–saliara5.webp depict Saliara (Marble Beach), not Porto Vathy, and document photo provenance, commercial publication and redistribution rights, image modifications and any attribution requirements.",
+      "Review all translations with native speakers before public release"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; five local WebP image paths have been configured, but actual image provenance, commercial publication and transferable rights have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP image paths were assigned based on filenames visible in the user's screenshot. Image binaries were not included or inspected here; geographic identity and permissions remain unverified. Research-only external candidate image links were removed from media."
+  }
+}

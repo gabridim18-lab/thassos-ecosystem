@@ -1,0 +1,1 @@
+Videoclipuri opționale, de urcat ulterior. Storyboard-ul pentru reels / MP4 este deja definit în cafe-bar.json.

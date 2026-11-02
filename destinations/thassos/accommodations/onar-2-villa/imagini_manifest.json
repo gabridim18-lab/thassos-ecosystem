@@ -1,0 +1,126 @@
+{
+  "propertySlug": "onar-2-villa",
+  "sourceRepository": "https://github.com/gabbydim83/onar-2-villa",
+  "sourceAssetDirectory": "assets/images/",
+  "destinationFolder": "images/",
+  "count": 22,
+  "galleryCount": 21,
+  "desktopHero": "Terasă rustică la malul mării.webp",
+  "mobileHero": "mobil.webp",
+  "filenamesPreserved": true,
+  "gallery": [
+    {
+      "order": 1,
+      "file": "Terasă rustică la malul mării.webp",
+      "category": "terrace"
+    },
+    {
+      "order": 2,
+      "file": "Terasă mediteraneană cu vedere la mare(2).webp",
+      "category": "terrace"
+    },
+    {
+      "order": 3,
+      "file": "Peisaj mediteranean văzut de sus.webp",
+      "category": "surroundings"
+    },
+    {
+      "order": 4,
+      "file": "Living modern cu vedere la mare.webp",
+      "category": "living"
+    },
+    {
+      "order": 5,
+      "file": "Bucătărie albastră cu vedere la mare.webp",
+      "category": "kitchen"
+    },
+    {
+      "order": 6,
+      "file": "Dormitor modern cu lumină naturală.webp",
+      "category": "bedroom"
+    },
+    {
+      "order": 7,
+      "file": "Baie modernă cu marmură și duș walk-in.webp",
+      "category": "bathroom"
+    },
+    {
+      "order": 8,
+      "file": "Panoramă mediteraneană cu plajă și munți.webp",
+      "category": "surroundings"
+    },
+    {
+      "order": 9,
+      "file": "Terasă de vacanță cu vedere la mare.webp",
+      "category": "terrace"
+    },
+    {
+      "order": 10,
+      "file": "Terasă mediteraneană cu vedere la mare(1).webp",
+      "category": "terrace"
+    },
+    {
+      "order": 11,
+      "file": "Verandă mediteraneană cu vedere la mare.webp",
+      "category": "terrace"
+    },
+    {
+      "order": 12,
+      "file": "Terasă mediteraneană cu vedere la mare.webp",
+      "category": "terrace"
+    },
+    {
+      "order": 13,
+      "file": "Peisaj mediteranean cu casă și mare turquoise.webp",
+      "category": "exterior"
+    },
+    {
+      "order": 14,
+      "file": "Căsuță mediteraneană lângă marea turcoaz.webp",
+      "category": "exterior"
+    },
+    {
+      "order": 15,
+      "file": "Dormitor luminos cu prosoape albe și fereastră spre măslini.webp",
+      "category": "bedroom"
+    },
+    {
+      "order": 16,
+      "file": "Terasa de piatră cu vedere la mare-1.webp",
+      "category": "terrace"
+    },
+    {
+      "order": 17,
+      "file": "Căsuță rustică la malul mării.webp",
+      "category": "exterior"
+    },
+    {
+      "order": 18,
+      "file": "Căsuță de piatră pe țărmul turcoaz.webp",
+      "category": "exterior"
+    },
+    {
+      "order": 19,
+      "file": "Living modern cu ușă deschisă spre grădină.webp",
+      "category": "living"
+    },
+    {
+      "order": 20,
+      "file": "Baie modernă cu marmură alb-neagră.webp",
+      "category": "bathroom"
+    },
+    {
+      "order": 21,
+      "file": "Baie modernă luxoasă cu marmură venată.webp",
+      "category": "bathroom"
+    }
+  ],
+  "otherImages": [
+    {
+      "file": "mobil.webp",
+      "role": "mobile_hero_only",
+      "note": "Separate mobile hero image. Keep its original format and filename."
+    }
+  ],
+  "importInstructions": "Copy all 22 original .webp files from the local Onar 2 VILLA/assets/images/ folder directly into images/ without renaming or conversion."
+}

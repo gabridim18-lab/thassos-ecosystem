@@ -1,0 +1,3 @@
+Folder optional pentru filmarile proprietatii. Nu exista un fisier video adaugat sau presupus in JSON.
+Cand incarci un clip real, definim calea in campul media.videoFiles.
+Videoclipurile MP4 generate automat vor fi gestionate separat.

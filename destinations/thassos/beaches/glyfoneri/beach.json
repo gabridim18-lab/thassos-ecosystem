@@ -1,0 +1,370 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-glyfoneri",
+  "slug": "glyfoneri",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Γλυφονέρι",
+    "international_name": "Glyfoneri Beach",
+    "aliases": [
+      "Glifoneri",
+      "Glifoneri Beach",
+      "Glyfoneri",
+      "Glyfoneri Bay",
+      "Γλυφονέρι Beach"
+    ],
+    "entity_scope": "Small sandy cove by Glyfoneri Taverna, northeast of Pachis beach on the northwest Thassos coastline.",
+    "deduplication_warning": "Do not merge with nearby Pachis Beach, Glyfada Beach or Glykadi Beach. Also avoid unrelated Glyfoneri beaches in Skopelos and Chalkidiki."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "northwest",
+    "settlements": [
+      "Pachis area",
+      "Skala Rachoniou"
+    ],
+    "lat": 40.7928627,
+    "lng": 24.6329385,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/place/Taverna+Glifoneri/@40.7928627,24.6329385,15z/data=!4m5!3m4!1s0x0:0x4b06d047d3dc03c2!8m2!3d40.7928627!4d24.6329385",
+    "coordinate_source_reference": "s_map",
+    "coordinate_type": "nearby_taverna_reference_pin_not_exact_beach_centre",
+    "coordinate_review_status": "Google Maps taverna point verified from community link; exact beach centre and recommended access pin pending manual confirmation",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "fine_sand",
+    "seabed_near_shore": "mostly_sandy",
+    "water_entry": "generally_gradual",
+    "nearshore_depth": "generally_shallow_but_variable",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "sheltered_cove_but_wind_dependent",
+    "exposure": "small_protected_northwest_coast_cove",
+    "natural_shade_on_sand": "abundant_from_pine_trees",
+    "beach_length_m": null,
+    "length_note": "Beach is small; published dimensions vary and have not been independently verified.",
+    "backdrop": "pine trees, small low rocky edges and greenery near Pachis",
+    "shoreline_type": "compact_sandy_cove"
+  },
+  "visitor_experience": {
+    "organization": "partially_organized_seasonally",
+    "suitable_for": [
+      "families",
+      "couples",
+      "relaxed_swimming",
+      "natural_shade",
+      "short_beach_visit",
+      "quiet_cove"
+    ],
+    "notable_for": [
+      "pine_shade",
+      "fine_sand",
+      "shallow_entry",
+      "small_cove",
+      "nearby_taverna"
+    ],
+    "activities_possible": [
+      "swimming",
+      "relaxing",
+      "photography",
+      "shoreline_exploration"
+    ],
+    "estimated_crowd_peak": "limited_capacity_can_fill_in_high_season",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Water depth and waves vary with conditions; small children always require supervision. Rocky edges should be approached cautiously."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": null,
+      "seasonal": true,
+      "note": "Some visitor guides report natural tree shade instead of operator umbrellas; confirm before relying on rentals."
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Go Thassos lists WC; likely operator-linked rather than guaranteed independent public bathrooms; verify opening."
+    },
+    "showers": {
+      "available_in_some_sections": null
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": null,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": false,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "Not independently confirmed for the cove.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "No verified step-free beach route or assisted access equipment.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Services and sunbeds are primarily associated with the adjacent taverna; numbers, hours and availability vary seasonally."
+  },
+  "access_and_cost": {
+    "road_access": "Short local road from main Limenas–Skala Rachoniou coastal route, follow signs to Glyfoneri Taverna.",
+    "public_transport": "unverified_direct_bus_stop",
+    "parking_type": "small_local_parking_area_near_taverna",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Older online prices are not reliable for 2026; confirm on site.",
+    "best_arrival_advice": "Earlier arrival can help with parking and finding space at this small cove in peak summer.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Sources quote different distances; do not present a single unverified driving distance."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Glyfoneri Beach (Glifoneri)",
+      "tagline": "Un golf mic cu nisip fin, apă liniștită și umbra pinilor",
+      "summary": "Ascunsă între pini pe coasta de nord-vest a insulei Thassos, aproape de Pachis, Glyfoneri este o plajă mică, nisipoasă, cu intrare lină în mare și multă umbră naturală. Taverna aflată lângă golf completează experiența unei zile relaxante.",
+      "description": "Glyfoneri este unul dintre acele golfuri mici din Thassos pe care le descoperi abia după ce te abați de la șoseaua principală. Situată aproape de Pachis, pe coasta de nord-vest a insulei, plaja este înconjurată de pini care ajung aproape de nisip și oferă umbră naturală în mare parte a zilei. Golful are nisip fin și o intrare în apă în general lină, cu zone puțin adânci, astfel încât este o opțiune atrăgătoare pentru familiile care preferă locurile mai adăpostite. Apa poate părea foarte calmă în zilele fără vânt, dar condițiile se schimbă și copiii trebuie supravegheați permanent. Farmecul locului vine din dimensiunile reduse, nu dintr-o întindere mare de nisip: spațiul liber și locurile de parcare pot deveni limitate în sezon. Chiar în apropiere se găsește o tavernă tradițională, iar disponibilitatea șezlongurilor și a facilităților depinde de perioada vizitei și de activitatea operatorului. Glyfoneri este potrivită pentru o baie liniștită, câteva ore la umbra pinilor și o pauză de prânz aproape de mare.",
+      "practical_tips": "Urmează indicatoarele către taverna Glyfoneri, deoarece golful nu este evident de pe șoseaua principală. În sezon ajungi mai comod dimineața, când găsești mai ușor un loc de parcare și spațiu pe nisip. Nu te baza pe un număr mare de șezlonguri; disponibilitatea și eventualele tarife se confirmă la fața locului. Toaletele menționate în unele ghiduri pot aparține tavernei. Pinii oferă umbră naturală, dar poziția umbrei se schimbă pe parcursul zilei. Verifică valurile și supraveghează copiii chiar dacă apa este puțin adâncă.",
+      "highlights": [
+        "Golf mic și adăpostit între pini",
+        "Nisip fin și intrare lină în apă",
+        "Multă umbră naturală",
+        "Tavernă tradițională chiar lângă plajă",
+        "Aproape de Pachis, dar într-un cadru diferit"
+      ],
+      "seo_title": "Glyfoneri Beach Thassos – nisip, umbră naturală și acces",
+      "seo_description": "Descoperă Glyfoneri Beach din Thassos: golf mic și nisipos, apă puțin adâncă, pini, tavernă, acces, parcare și sfaturi practice.",
+      "social_caption": "🌲 O plajă ascunsă la umbra pinilor? Glyfoneri din Thassos te așteaptă cu un golf mic, nisip fin și apă de un albastru liniștitor. 🏖️ Salvează locul pentru o zi relaxantă aproape de Pachis! 🇬🇷 #Thassos #Glyfoneri #ExploreGreece",
+      "photo_alt": "Golful nisipos Glyfoneri din Thassos, cu apă limpede și pini aproape de mal."
+    },
+    "en": {
+      "name": "Glyfoneri Beach (Glifoneri)",
+      "tagline": "A tiny sandy cove sheltered by pines and gentle shallows",
+      "summary": "Tucked among pine trees on the northwestern coast of Thassos near Pachis, Glyfoneri is a compact sandy beach with generally shallow water and generous natural shade. A traditional taverna beside the cove adds to its easygoing atmosphere.",
+      "description": "Glyfoneri is the kind of little bay you might miss when driving along the main road of northern Thassos. Just beyond the Pachis area, a short local approach leads to a sandy pocket of coastline surrounded by pine trees that reach almost to the shore. The trees provide one of Glyfoneri’s defining features: natural shade, a welcome alternative to the island’s more open and exposed beaches. Sand underfoot and a generally gentle entry into the sea make the cove appealing to families and visitors who enjoy calm, unhurried swimming. Like any beach, however, conditions depend on wind and weather, and shallow water does not replace close supervision of children. This is not a long beach with unlimited space. The small shoreline, parking spots and occasional loungers can fill quickly during the busiest summer days. A traditional taverna is located beside the cove, making it easy to combine a swim with a relaxed meal. Glyfoneri is best enjoyed for its intimate green setting, clear-looking water and a few peaceful hours rather than for a full range of resort facilities.",
+      "practical_tips": "Follow signs for Glyfoneri Taverna: the beach is hidden from the main road. In high season, arrive early for a better chance of parking and a comfortable spot on the sand. Loungers and their prices, when available, are managed locally and may change. Toilets listed by some guides may be associated with the taverna rather than a public beach facility. Pine shade moves through the day, so sun protection is still useful. Always check sea conditions and supervise children.",
+      "highlights": [
+        "Compact sandy bay framed by pines",
+        "Generally shallow, gradual water entry",
+        "Plenty of natural tree shade",
+        "Traditional taverna by the shore",
+        "Close to Pachis but with a more intimate feel"
+      ],
+      "seo_title": "Glyfoneri Beach Thassos – pine shade, access and facilities",
+      "seo_description": "Explore Glyfoneri Beach in Thassos: a small sandy cove near Pachis, natural pine shade, shallow entry, local taverna, parking and useful tips.",
+      "social_caption": "🌲 Looking for a tiny beach hidden beneath pine trees? Meet Glyfoneri on Thassos: soft sand, inviting water and a sheltered little cove near Pachis. 🏖️ Save it for a laid-back island day! 🇬🇷 #Thassos #Glyfoneri #GreeceTravel",
+      "photo_alt": "Small sandy cove of Glyfoneri Beach on Thassos, with clear water and pine trees beside the shore."
+    },
+    "el": {
+      "name": "Παραλία Γλυφονέρι",
+      "tagline": "Μικρός αμμώδης όρμος με φυσική σκιά από πεύκα και ρηχά νερά",
+      "summary": "Κρυμμένο ανάμεσα στα πεύκα στη βορειοδυτική Θάσο, κοντά στον Παχύ, το Γλυφονέρι είναι μια μικρή αμμώδης παραλία με συνήθως ομαλή είσοδο στη θάλασσα και άφθονη φυσική σκιά. Μια παραδοσιακή ταβέρνα βρίσκεται δίπλα στον όρμο.",
+      "description": "Το Γλυφονέρι είναι ένας μικρός, γοητευτικός όρμος που δεν φαίνεται εύκολα από τον κεντρικό δρόμο της Θάσου. Βρίσκεται κοντά στην περιοχή του Παχύ, στη βορειοδυτική πλευρά του νησιού, και περιβάλλεται από πεύκα που φτάνουν σχεδόν μέχρι την άμμο. Η φυσική σκιά είναι ένα από τα μεγαλύτερα πλεονεκτήματά του, ιδιαίτερα για όσους προτιμούν ένα πιο δροσερό περιβάλλον αντί για μια μεγάλη, εκτεθειμένη ακτή. Η παραλία έχει άμμο και η είσοδος στο νερό είναι γενικά ήπια, με ρηχά σημεία κοντά στην ακτή, κάτι που την κάνει ελκυστική για οικογένειες. Παρ’ όλα αυτά, ο άνεμος και η κατάσταση της θάλασσας μπορούν να αλλάξουν και τα παιδιά χρειάζονται συνεχή επίβλεψη. Επειδή η ακτή είναι μικρή, ο χώρος για πετσέτες, οι διαθέσιμες ξαπλώστρες και το πάρκινγκ μπορεί να είναι περιορισμένα στην αιχμή της σεζόν. Δίπλα στο νερό λειτουργεί παραδοσιακή ταβέρνα, ιδανική για ένα χαλαρό γεύμα μετά το μπάνιο. Το Γλυφονέρι ξεχωρίζει περισσότερο για την ηρεμία του τοπίου και τη σκιά των πεύκων παρά για τις εκτεταμένες οργανωμένες παροχές.",
+      "practical_tips": "Ακολουθήστε τις πινακίδες προς την ταβέρνα Γλυφονέρι, καθώς η παραλία δεν είναι ορατή από τον κεντρικό δρόμο. Το καλοκαίρι προτιμήστε πρωινή άφιξη για ευκολότερο πάρκινγκ και περισσότερο χώρο. Η διαθεσιμότητα και οι χρεώσεις για ξαπλώστρες αλλάζουν ανά εποχή και πρέπει να επιβεβαιώνονται επιτόπου. Οι τουαλέτες που αναφέρονται σε οδηγούς μπορεί να ανήκουν στην ταβέρνα. Η σκιά μετακινείται μέσα στην ημέρα, οπότε χρειάζεται πάντα προστασία από τον ήλιο. Ελέγχετε τον καιρό και επιβλέπετε τα παιδιά μέσα στο νερό.",
+      "highlights": [
+        "Μικρός όρμος με άμμο και πεύκα",
+        "Συνήθως ομαλή είσοδος στη θάλασσα",
+        "Άφθονη φυσική σκιά",
+        "Παραδοσιακή ταβέρνα δίπλα στην παραλία",
+        "Κοντά στον Παχύ, με πιο ήσυχη ατμόσφαιρα"
+      ],
+      "seo_title": "Γλυφονέρι Θάσος – παραλία, φυσική σκιά και πρόσβαση",
+      "seo_description": "Ανακαλύψτε το Γλυφονέρι στη Θάσο: μικρή αμμώδης παραλία κοντά στον Παχύ, ρηχά νερά, σκιά από πεύκα, ταβέρνα και χρήσιμες συμβουλές.",
+      "social_caption": "🌲 Ένας μικρός όρμος κρυμμένος κάτω από πεύκα! Το Γλυφονέρι στη Θάσο συνδυάζει άμμο, ήρεμη ατμόσφαιρα και φυσική σκιά κοντά στον Παχύ. 🏖️ Κρατήστε το για την επόμενη εκδρομή σας! 🇬🇷 #Θάσος #Γλυφονέρι #Ελλάδα",
+      "photo_alt": "Ο μικρός αμμώδης όρμος Γλυφονέρι στη Θάσο, με καθαρά νερά και πεύκα κοντά στην ακτή."
+    },
+    "de": {
+      "name": "Glyfoneri Beach (Glifoneri)",
+      "tagline": "Eine kleine Sandbucht im natürlichen Schatten der Pinien",
+      "summary": "Glyfoneri liegt versteckt zwischen Pinien an der Nordwestküste von Thassos, unweit von Pachis. Die kleine Sandbucht bietet meist einen sanften Einstieg ins Wasser, natürlichen Schatten und eine traditionelle Taverne direkt daneben.",
+      "description": "Glyfoneri ist eine jener kleinen Buchten auf Thassos, die man von der Hauptstraße kaum sieht. In der Nähe von Pachis führt eine kurze Zufahrt zu einem Sandstrand, der fast vollständig von Pinien umgeben ist. Die Bäume reichen nahe ans Ufer und sorgen über weite Teile des Tages für natürlichen Schatten. Genau das macht Glyfoneri besonders für Urlauber interessant, die sich nach einer ruhigeren Alternative zu großen, sonnenoffenen Stränden sehnen. Der Untergrund ist sandig, und das Meer fällt am Ufer überwiegend sanft ab. Die Bucht ist deshalb bei Familien beliebt, dennoch können Wind und Wetter die Bedingungen verändern; Kinder müssen auch im flachen Wasser beaufsichtigt werden. Glyfoneri ist eher klein, und während der Hauptsaison können Plätze auf dem Sand, Parkmöglichkeiten und vorhandene Liegen schnell knapp werden. In unmittelbarer Nähe befindet sich eine traditionelle Taverne, in der sich eine Badepause mit einem gemütlichen Essen verbinden lässt. Der Reiz dieses Ortes liegt in der grünen Kulisse, der geschützten Atmosphäre und dem entspannten Aufenthalt, nicht in einer umfangreichen touristischen Infrastruktur.",
+      "practical_tips": "Folgen Sie den Schildern zur Glyfoneri Taverna, denn die Bucht ist von der Hauptstraße aus kaum zu erkennen. Im Hochsommer empfiehlt sich eine frühe Ankunft, da Parkplätze und Strandfläche begrenzt sind. Liegen und Preise, soweit verfügbar, werden vor Ort geregelt und können sich ändern. Toiletten werden teilweise von der Taverne angeboten und sind nicht überall öffentliche Anlagen. Der Baumschatten wandert im Tagesverlauf, daher bleibt Sonnenschutz wichtig. Prüfen Sie Wind und Wellen und beaufsichtigen Sie Kinder im Meer.",
+      "highlights": [
+        "Kleine Sandbucht zwischen Pinien",
+        "Meist flacher, sanfter Meereseinstieg",
+        "Viel natürlicher Schatten",
+        "Traditionelle Taverne direkt am Wasser",
+        "Nahe Pachis und dennoch eigenständig"
+      ],
+      "seo_title": "Glyfoneri Beach Thassos – Sandbucht, Pinien und Anfahrt",
+      "seo_description": "Glyfoneri auf Thassos entdecken: kleine Sandbucht nahe Pachis, flaches Wasser, natürlicher Pinien-Schatten, Taverne, Parken und Tipps.",
+      "social_caption": "🌲 Ein kleiner Strand im Schatten hoher Pinien: Glyfoneri auf Thassos überrascht mit einer geschützten Sandbucht und klarem Meer nahe Pachis. 🏖️ Merkt euch diesen Ort für einen entspannten Urlaubstag! 🇬🇷 #Thassos #Glyfoneri #Griechenland",
+      "photo_alt": "Kleine sandige Glyfoneri-Bucht auf Thassos mit klarem Wasser und Pinien direkt am Ufer."
+    },
+    "bg": {
+      "name": "Плаж Глифонери (Glyfoneri)",
+      "tagline": "Малък пясъчен залив с естествена сянка от борове",
+      "summary": "Скрит сред боровете на северозападния бряг на Тасос, недалеч от Пахис, Глифонери е малък пясъчен плаж с обикновено плавно навлизане в морето, много естествена сянка и традиционна таверна наблизо.",
+      "description": "Глифонери е едно от онези малки заливчета на Тасос, които остават незабелязани от главния път. Намира се близо до района на Пахис, на северозападния бряг на острова, и е заобиколен от борове, чиито клони достигат почти до пясъка. Дърветата осигуряват приятна естествена сянка през значителна част от деня и превръщат плажа в добър избор за хората, които предпочитат по-закътано място вместо широка открита ивица. Брегът е пясъчен, а влизането във водата обикновено е постепенно, с плитки участъци близо до сушата. Това привлича семейства с деца, но условията зависят от времето и вятъра, а децата трябва да бъдат наблюдавани постоянно. Самият плаж е малък, така че свободното пространство, паркирането и наличните шезлонги могат да се окажат ограничени през натоварените летни дни. В непосредствена близост има традиционна таверна за обяд или напитка след плуване. Очарованието на Глифонери е в зеленината, интимната атмосфера и спокойната почивка, а не в голямото разнообразие от туристически услуги.",
+      "practical_tips": "Следвайте указателните табели към таверна Glyfoneri, тъй като заливът не се вижда ясно от главния път. През активния сезон пристигайте по-рано за по-лесно паркиране и повече свободно място. Шезлонгите и цените, когато се предлагат, зависят от местния оператор. Тоалетните, описани в някои пътеводители, може да са към таверната. Естествената сянка се премества през деня, така че носете слънцезащита. Проверявайте морските условия и наблюдавайте децата във водата.",
+      "highlights": [
+        "Малък пясъчен залив сред борове",
+        "Обикновено плавно навлизане в морето",
+        "Много естествена сянка",
+        "Традиционна таверна до брега",
+        "Близо до Пахис, но с различна атмосфера"
+      ],
+      "seo_title": "Глифонери, Тасос – плаж с борова сянка и лесен достъп",
+      "seo_description": "Открийте плаж Глифонери на Тасос: малък пясъчен залив близо до Пахис, плитка вода, борове, таверна, паркиране и полезни съвети.",
+      "social_caption": "🌲 Скрито плажче под боровете! Глифонери на Тасос предлага фин пясък, спокоен залив и естествена сянка близо до Пахис. 🏖️ Запазете го за следващата си почивка! 🇬🇷 #Тасос #Глифонери #Гърция",
+      "photo_alt": "Малкият пясъчен залив Глифонери на Тасос с чиста вода и борове край брега."
+    },
+    "sr": {
+      "name": "Glyfoneri Beach (Glifoneri)",
+      "tagline": "Mala peščana uvala u prirodnom hladu borova",
+      "summary": "Skrivena među borovima na severozapadnoj obali Tasosa, nedaleko od plaže Pahis, Glifoneri je mala peščana uvala sa uglavnom postepenim ulaskom u more, mnogo prirodnog hlada i tradicionalnom tavernom tik uz obalu.",
+      "description": "Glifoneri je jedna od onih malih uvala na Tasosu koje se ne primećuju sa glavnog puta. Nalazi se blizu plaže Pahis, na severozapadnoj obali ostrva, a okružuju je borovi čije grane dopiru gotovo do peska. Prirodni hlad je njena najveća prednost, posebno za goste koji više vole zaklonjeno mesto od dugih, potpuno osunčanih plaža. Obala je peščana, a ulazak u more uglavnom postepen, sa plićim delovima uz samu obalu. Zbog toga je uvala privlačna porodicama, ali vetar i vreme mogu promeniti uslove kupanja, pa je decu potrebno stalno nadgledati. Plaža nema mnogo prostora: tokom glavne sezone slobodna mesta na pesku, parking i ležaljke mogu brzo da se popune. U neposrednoj blizini nalazi se tradicionalna taverna, pa se kupanje lako kombinuje sa ručkom ili osveženjem pored mora. Čar Glifonerija je u zelenilu, maloj uvali i opuštenoj atmosferi, a ne u velikom broju dodatnih sadržaja. Ako tražite mirniji kutak u prirodi, ovo je lepo mesto za nekoliko sati odmora.",
+      "practical_tips": "Pratite putokaze ka taverni Glyfoneri jer se uvala ne vidi sa glavnog puta. U jeku leta dođite ranije radi lakšeg parkiranja i više prostora na pesku. Ležaljke i eventualne cene zavise od lokalnog ponuđača i sezone. Toaleti koje pojedini vodiči navode mogu pripadati taverni, a ne javnoj plaži. Hlad borova se pomera tokom dana, pa je zaštita od sunca i dalje važna. Pratite vremenske uslove i nadgledajte decu u vodi.",
+      "highlights": [
+        "Mala peščana uvala među borovima",
+        "Uglavnom postepen ulazak u more",
+        "Obilan prirodni hlad",
+        "Tradicionalna taverna uz plažu",
+        "U blizini Pahisa, ali drugačijeg karaktera"
+      ],
+      "seo_title": "Glifoneri Tasos – peščana plaža, hlad borova i prilaz",
+      "seo_description": "Otkrijte Glifoneri na Tasosu: malu peščanu uvalu blizu Pahisa, plitku vodu, prirodni hlad, tavernu, parking i praktične savete.",
+      "social_caption": "🌲 Mala plaža skrivena među borovima! Glifoneri na Tasosu spaja fini pesak, prijatnu hladovinu i zaštićenu uvalu blizu Pahisa. 🏖️ Sačuvajte je za sledeće letovanje! 🇬🇷 #Tasos #Glifoneri #Grcka",
+      "photo_alt": "Mala peščana uvala Glifoneri na Tasosu, sa bistrom vodom i borovima nadomak obale."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/glyfoneri/images/glyfoneri1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/glyfoneri/images/glyfoneri2.webp",
+      "destinations/thassos/beaches/glyfoneri/images/glyfoneri3.webp",
+      "destinations/thassos/beaches/glyfoneri/images/glyfoneri4.webp",
+      "destinations/thassos/beaches/glyfoneri/images/glyfoneri5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/glyfoneri/images/",
+    "suggested_asset_names": [
+      "glyfoneri1.webp",
+      "glyfoneri2.webp",
+      "glyfoneri3.webp",
+      "glyfoneri4.webp",
+      "glyfoneri5.webp"
+    ],
+    "image_policy": "Publish only user-supplied, owned or commercially reusable licensed photos. Preserve evidence of rights, author and required attribution.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_map",
+      "kind": "google_maps_link_from_local_community",
+      "title": "Go Thassos community — Google Maps pin for Taverna Glifoneri",
+      "url": "https://community.go-thassos.gr/t/skala-rachoni-live-music/211",
+      "detail": "Link resolves to adjacent Glyfoneri Taverna coordinates 40.7928627,24.6329385, not independently the exact centre of Glyfoneri beach.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_geography",
+      "kind": "openstreetmap_derived_map",
+      "title": "Mapcarta — Γλυφονέρι beach",
+      "url": "https://mapcarta.com/W725312684",
+      "detail": "Maps the separate beach at approximately 40.79305,24.63274 and locates Pachys around 500 m southwest.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_gothassos",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Glyfoneri Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/glyfoneri-beach",
+      "detail": "Lists WC, food and parking; do not infer public or year-round provision.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_taverna",
+      "kind": "local_operator_page",
+      "title": "Go Thassos — Glyfoneri Taverna",
+      "url": "https://www.go-thassos.gr/visiting-thassos/drinks-and-dining/glyfoneri-taverna",
+      "detail": "Describes setting next to sandy shallow bay near Pachis and the on-site taverna; operator data may change.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide",
+      "title": "Nikana — Glyfoneri beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1934/glyfoneri-beach",
+      "detail": "Published 2012, updated 2023: compact beach, pines, shallow entry, signs toward tavern, historically available sunbeds. Historical prices not used.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_pame",
+      "kind": "travel_guide",
+      "title": "Pame Paralia — Glifoneri",
+      "url": "https://pameparalia.com/beach/glifoneri-mainland",
+      "detail": "Nearby beach centre about 40.7930,24.6328; natural shade, shallow water, limited capacity and parking.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_getgreece",
+      "kind": "travel_guide",
+      "title": "GetGreece — Glyfoneri Beach Thassos",
+      "url": "https://www.getgreece.com/beaches/glyfoneri-beach-thassos",
+      "detail": "Describes small sandy, tree-shaded cove, gentle sea entry and nearby taverna; facility summaries conflict across sources.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_beachatlas",
+      "kind": "travel_guide",
+      "title": "BeachAtlas — Glifoneri Beach",
+      "url": "https://www.beachatlas.com/glifoneri",
+      "detail": "Independent beach coordinate around 40.7930434,24.6327833; location corroboration.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_seasonality",
+      "kind": "travel_guide",
+      "title": "Which Greek Island — Glyfoneri Beach",
+      "url": "https://whichgreekisland.co.uk/islands/thassos/beaches/glyfoneri/",
+      "detail": "Notes small shoreline, natural shade and seasonal sunbeds/taverna with parking near the rear.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm preferred exact Google Maps beach/navigation pin instead of adjacent taverna pin",
+      "Confirm the five locally assigned Glyfoneri images match the beach and that publication rights and any required attributions are documented",
+      "Verify seasonal operation and price of loungers, toilets and taverna",
+      "Check latest accessibility, lifeguard and parking conditions",
+      "Review all six-language translations before public release",
+      "Do not claim Blue Flag certification without an official verified award record"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Text authored for dataset; rights to use the five local images have not been independently verified.",
+    "photo_source_disclaimer": "Five local image paths assigned from the supplied filename list; file presence, provenance, licences and reuse rights remain to be confirmed."
+  }
+}

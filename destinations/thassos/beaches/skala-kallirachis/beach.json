@@ -1,0 +1,369 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-skala-kallirachis",
+  "slug": "skala-kallirachis",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Σκάλας Καλλιράχης",
+    "international_name": "Skala Kallirachis Beach",
+    "aliases": [
+      "Skala Kallirachi Beach",
+      "Scala Kallirachis Beach",
+      "Skala Kalirachi Beach",
+      "Skala Kallirachi City Beach",
+      "Παραλία Σκάλας Καλλιράχης",
+      "Σκάλα Καλλιράχης"
+    ],
+    "entity_scope": "The small village beach sections beside Skala Kallirachis fishing harbour; not the entire western coastline and not Klisma Beach farther south.",
+    "deduplication_warning": "Two or more little beaches occur around the village harbour. Treat them as one umbrella coastal POI until exact separate polygons are mapped. Do not merge with Klisma or Plaka beach, and do not count harbour promenades as separate beaches."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "west",
+    "settlements": [
+      "Skala Kallirachis"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Skala+Kallirachi+Beach%2C+Thassos%2C+Greece",
+    "coordinate_source_reference": "s_map_reference",
+    "coordinate_type": "pending_precise_google_maps_beach_pin",
+    "coordinate_review_status": "Google Maps search link provided for user verification. Independent OSM feature candidate 40.71092,24.53358 is NOT adopted as a Google-sourced pin; nearby maps also identify separate shoreline sections.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mixed_sand_pebbles_stones",
+    "seabed_near_shore": "mixed_pebbles_and_rocks_with_sandy_sections",
+    "water_entry": "generally_gradual_in_some_harbour_sections",
+    "nearshore_depth": "often_shallow_by_village_beach_but_variable",
+    "water_clarity": "generally_clear_when_calm",
+    "wave_conditions": "wind_dependent",
+    "exposure": "west_coast_village_harbour_setting",
+    "natural_shade_on_sand": "limited_or_variable",
+    "beach_length_m": null,
+    "length_note": "Several short sections; avoid attributing the length of one mapped shore segment to the entire village beachfront.",
+    "backdrop": "Fishing boats, harbour, waterfront village and views toward mainland Greece",
+    "shoreline_type": "small_mixed_shoreline_sections"
+  },
+  "visitor_experience": {
+    "organization": "mostly_unorganized_with_possible_local_or_seasonal_serviced_segments",
+    "suitable_for": [
+      "couples",
+      "quiet_swimming",
+      "village_walks",
+      "local_food",
+      "sunsets",
+      "families_with_supervision"
+    ],
+    "notable_for": [
+      "small_harbour_beaches",
+      "traditional_fishing_village",
+      "sunsets",
+      "sand_and_pebbles",
+      "waterfront_tavernas"
+    ],
+    "activities_possible": [
+      "swimming",
+      "seaside_walks",
+      "sunset_photography",
+      "village_exploration",
+      "local_dining"
+    ],
+    "estimated_crowd_peak": "generally_quieter_than_major_resort_beaches_not_live_verified",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Stay away from boat traffic and harbour approaches. Pebbles and rocks make water shoes helpful; depth and waves vary by segment and weather."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": null,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": null,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Go Thassos lists WC, but it is unclear whether these are on the beach, in the village, or part of a nearby business."
+    },
+    "showers": {
+      "available_in_some_sections": null
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": false,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No dependable current lifeguard coverage verified for village shoreline sections.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Harbour promenade accessibility does not establish accessible beach entry or swim equipment.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Guide sources conflict: Go Thassos lists WC, showers and loungers, while Nikana describes the small central beach as unorganized. Verify exact location and current seasonal operation."
+  },
+  "access_and_cost": {
+    "road_access": "paved_village_roads_near_harbour",
+    "public_transport": "regional_bus_services_to_village_schedules_must_be_checked",
+    "parking_type": "village_street_and_harbour_area_parking_where_permitted",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Do not assume loungers are present or free; any seasonal operator may set its own conditions.",
+    "best_arrival_advice": "Walk the harbourfront and choose a safe swimming section before unpacking; visit late afternoon if sunset is a priority.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Routes from Limenas reported around 22–23 km depending on origin; no precision stored until route check."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Weather, water temperature, UV, waves and other live conditions are fetched at runtime, not fixed in JSON."
+  },
+  "translations": {
+    "ro": {
+      "name": "Skala Kallirachis Beach",
+      "tagline": "Un țărm liniștit, un port pescăresc și apusuri spre continent",
+      "summary": "Plajă locală cu sectoare mici de nisip și pietriș, lângă portul pescăresc Skala Kallirachis, pe coasta vestică a insulei Thassos. Este o alegere pentru o baie relaxată și o plimbare prin sat, nu pentru o zi cu multe facilități de beach club.",
+      "description": "Skala Kallirachis Beach face parte din peisajul unui sat pescăresc de pe coasta vestică a insulei Thassos, unde bărcile din port, tavernele și casele de lângă mare dau locului un ritm diferit de stațiunile aglomerate. În apropierea portului se găsesc mici porțiuni de plajă cu nisip amestecat cu pietriș și pietre. Unele sectoare au o intrare relativ lină în apă, dar fundul mării nu este uniform, așa că încălțămintea de apă poate fi utilă. Plaja este apreciată mai degrabă pentru liniște, atmosfera locală și apropierea de restaurante decât pentru instalații turistice extinse. Dotările diferă în funcție de porțiunea aleasă: nu presupune că vei găsi șezlonguri, umbrele, dușuri sau toalete chiar pe nisip. După înot, o plimbare pe lângă port și o cină cu pește sau fructe de mare se potrivesc foarte bine cu lumina de seară. Fiind orientată spre vest, zona oferă priveliști plăcute la apus, cu țărmul continental în depărtare.",
+      "practical_tips": "Alege porțiunea de plajă înainte să îți așezi lucrurile: condițiile diferă de o parte la alta a portului. Ia cu tine umbrelă, apă și încălțăminte de apă, deoarece suprafața poate fi pietroasă, iar serviciile de pe plajă nu sunt garantate. Evită înotul în zona de manevră a ambarcațiunilor și urmărește vântul și valurile. Pentru o experiență plăcută, combină vizita cu o plimbare la apus prin sat.",
+      "highlights": [
+        "Golfuri mici, cu nisip și pietriș",
+        "Atmosferă autentică de sat pescăresc",
+        "Apusuri spre Grecia continentală",
+        "Taverne și cafenele în apropierea portului",
+        "Plimbări scurte pe faleză"
+      ],
+      "seo_title": "Skala Kallirachis Beach Thassos – acces, plajă și apusuri",
+      "seo_description": "Ghid pentru Skala Kallirachis Beach din Thassos: nisip și pietriș, mici zone de înot lângă port, acces, facilități variabile și apusuri.",
+      "social_caption": "🌅 Skala Kallirachis, Thassos: mici plaje lângă portul pescăresc, taverne locale și un apus care invită la o plimbare pe malul mării. 🇬🇷 #Thassos #SkalaKallirachis #ExploreGreece",
+      "photo_alt": "Mici porțiuni de plajă și portul pescăresc din Skala Kallirachis, pe coasta vestică a insulei Thassos."
+    },
+    "en": {
+      "name": "Skala Kallirachis Beach",
+      "tagline": "Quiet village shoreline, fishing boats and west-coast sunsets",
+      "summary": "A set of small sand-and-pebble beach sections beside the fishing harbour of Skala Kallirachis on western Thassos. Ideal for a relaxed swim and a village stroll rather than an all-day beach-club experience.",
+      "description": "Skala Kallirachis Beach belongs to the waterfront of a traditional fishing village on the western coast of Thassos. Small boats in the harbour, waterfront tavernas and the everyday pace of the settlement create a very different atmosphere from the island’s busier resorts. Near the harbour, visitors can find modest stretches of sand mixed with pebbles and stones. Some parts offer a fairly gradual entry into the sea, although the seabed varies and water shoes may make getting in and out more comfortable. This is a place to enjoy a simple swim, a quieter setting and an easy connection with village life rather than a beach with extensive services. The facilities described by different guides vary by section and season; do not assume loungers, umbrellas, showers or toilets are available at your exact spot. After the beach, follow the harbour for a gentle walk or stop for locally prepared fish and seafood. Facing west towards mainland Greece, the village is particularly appealing as the light softens and the fishing boats frame the evening view.",
+      "practical_tips": "Check which side of the harbour suits you before settling down, as the shoreline varies between sand, pebbles and stones. Bring your own shade, drinking water and water shoes. Beach facilities are not guaranteed in every section, although food options are nearby. Keep clear of working boats and harbour approaches when swimming, and check conditions if it is windy. A late-afternoon visit works especially well if you want to stay for sunset.",
+      "highlights": [
+        "Small sandy and pebbly waterfront sections",
+        "Authentic fishing-village atmosphere",
+        "West-facing sunsets",
+        "Tavernas and cafés by the harbour",
+        "An easy seaside stroll"
+      ],
+      "seo_title": "Skala Kallirachis Beach Thassos – access and visitor guide",
+      "seo_description": "Explore Skala Kallirachis Beach on Thassos: small sand-and-pebble shorelines, swimming by the village, practical tips, amenities and sunset views.",
+      "social_caption": "🌅 Skala Kallirachis, Thassos: a fishing harbour, modest little beaches and beautiful west-coast evening light. Stay for the waterfront stroll! 🇬🇷 #Thassos #SkalaKallirachis #GreekIslands",
+      "photo_alt": "Small beach sections and the fishing harbour of Skala Kallirachis on the west coast of Thassos."
+    },
+    "el": {
+      "name": "Παραλία Σκάλας Καλλιράχης",
+      "tagline": "Ήρεμη ακτή, ψαροκάικα και ηλιοβασίλεμα προς την απέναντι στεριά",
+      "summary": "Μικρά τμήματα ακτής με άμμο και βότσαλα δίπλα στο αλιευτικό λιμάνι της Σκάλας Καλλιράχης, στη δυτική Θάσο. Κατάλληλη επιλογή για μια χαλαρή βουτιά και βόλτα στον οικισμό, όχι απαραίτητα για ολοήμερη παραμονή σε οργανωμένο beach club.",
+      "description": "Η παραλία της Σκάλας Καλλιράχης βρίσκεται δίπλα σε έναν παραδοσιακό ψαράδικο οικισμό στη δυτική ακτή της Θάσου. Τα μικρά σκάφη στο λιμάνι, οι παραθαλάσσιες ταβέρνες και ο ήρεμος ρυθμός του χωριού δημιουργούν μια διαφορετική εμπειρία από τα πολυσύχναστα τουριστικά θέρετρα. Κοντά στο λιμάνι υπάρχουν μικρά τμήματα με άμμο ανακατεμένη με βότσαλα και πέτρες. Σε ορισμένα σημεία η είσοδος στη θάλασσα είναι σχετικά ομαλή, αλλά ο βυθός αλλάζει και τα παπούτσια θαλάσσης μπορεί να φανούν χρήσιμα. Η περιοχή ταιριάζει σε όσους αναζητούν μια απλή βουτιά, ήσυχη ατμόσφαιρα και επαφή με την τοπική ζωή, παρά πολλές οργανωμένες υπηρεσίες πάνω στην άμμο. Οι παροχές διαφέρουν ανά τμήμα και εποχή, επομένως μην θεωρείτε δεδομένες ξαπλώστρες, ομπρέλες, ντους ή τουαλέτες στο ακριβές σημείο που θα διαλέξετε. Μετά το μπάνιο μπορείτε να περπατήσετε δίπλα στο λιμάνι ή να απολαύσετε ψάρι σε μια ταβέρνα. Ο δυτικός προσανατολισμός προσφέρει όμορφο φως το απόγευμα και θέα προς την απέναντι ηπειρωτική ακτή.",
+      "practical_tips": "Εξετάστε πρώτα ποιο τμήμα δίπλα στο λιμάνι σας εξυπηρετεί, καθώς η ακτή αλλάζει από άμμο σε βότσαλα και πέτρες. Πάρτε δική σας ομπρέλα, νερό και παπούτσια θαλάσσης. Οι εγκαταστάσεις δεν είναι εξασφαλισμένες σε κάθε σημείο, ενώ φαγητό θα βρείτε μέσα στον οικισμό. Μην κολυμπάτε στις διαδρομές των σκαφών και προσέχετε τον άνεμο. Το απόγευμα είναι ιδανικό για να συνδυάσετε το μπάνιο με το ηλιοβασίλεμα.",
+      "highlights": [
+        "Μικρά τμήματα με άμμο και βότσαλα",
+        "Παραδοσιακή ατμόσφαιρα ψαροχωριού",
+        "Ηλιοβασίλεμα στη δυτική ακτή",
+        "Ταβέρνες και καφέ κοντά στο λιμάνι",
+        "Ευχάριστος περίπατος δίπλα στη θάλασσα"
+      ],
+      "seo_title": "Παραλία Σκάλας Καλλιράχης Θάσος – πρόσβαση και πληροφορίες",
+      "seo_description": "Η παραλία της Σκάλας Καλλιράχης στη Θάσο: άμμος, βότσαλα, μικρές ζώνες κολύμβησης, τοπικές παροχές και ηλιοβασίλεμα.",
+      "social_caption": "🌅 Σκάλα Καλλιράχης, Θάσος: μικρές παραλίες, ψαροκάικα και υπέροχο απογευματινό φως δίπλα στο λιμάνι. 🇬🇷 #Θάσος #ΣκάλαΚαλλιράχης #Ελλάδα",
+      "photo_alt": "Μικρά τμήματα παραλίας και το αλιευτικό λιμάνι της Σκάλας Καλλιράχης στη δυτική Θάσο."
+    },
+    "de": {
+      "name": "Skala Kallirachis Beach",
+      "tagline": "Ruhiges Dorf am Meer, Fischerboote und Sonnenuntergänge",
+      "summary": "Kleine Strandabschnitte mit Sand und Kies nahe dem Fischerhafen von Skala Kallirachis an der Westküste von Thassos. Ein Ort für ein entspanntes Bad und einen Spaziergang im Dorf, weniger für einen Tag im großen Beachclub.",
+      "description": "Skala Kallirachis Beach liegt am Meeressaum eines traditionellen Fischerdorfes im Westen von Thassos. Die Boote im kleinen Hafen, Tavernen direkt am Wasser und der ruhige Alltag des Ortes schaffen eine andere Stimmung als in den größeren Badeorten der Insel. Rund um den Hafen finden sich mehrere kleine Uferabschnitte, an denen sich Sand, Kies und Steine abwechseln. An manchen Stellen fällt der Einstieg ins Wasser recht sanft ab, doch der Untergrund ist nicht überall gleich; Badeschuhe können deshalb hilfreich sein. Wer hierherkommt, sucht meist ein unkompliziertes Bad, lokale Atmosphäre und eine entspannte Pause statt zahlreicher touristischer Einrichtungen. Angaben zu Liegen, Sonnenschirmen, Duschen und Toiletten unterscheiden sich je nach Quelle und Strandabschnitt. Verlassen Sie sich daher nicht darauf, diese Angebote direkt an Ihrem Platz vorzufinden. Anschließend lohnt sich ein Bummel entlang des Hafens oder ein Essen mit frischem Fisch in einer Taverne. Die nach Westen gerichtete Küste bietet am späten Nachmittag ein besonders schönes Licht und Ausblicke auf das griechische Festland.",
+      "practical_tips": "Wählen Sie den Abschnitt am Hafen bewusst aus: Sand, Kies und Steine wechseln sich ab. Bringen Sie eigenen Sonnenschutz, Trinkwasser und möglichst Badeschuhe mit. Einrichtungen direkt am Strand sind nicht überall vorhanden; gastronomische Angebote gibt es im Dorf. Halten Sie beim Schwimmen Abstand von den Bootsrouten und beachten Sie Wind und Wellen. Besonders reizvoll ist ein Besuch am späten Nachmittag bis zum Sonnenuntergang.",
+      "highlights": [
+        "Kleine Sand- und Kiesabschnitte",
+        "Authentisches Fischerdorf",
+        "Sonnenuntergänge an der Westküste",
+        "Tavernen und Cafés am Hafen",
+        "Gemütlicher Spaziergang am Meer"
+      ],
+      "seo_title": "Skala Kallirachis Beach Thassos – Strand, Anfahrt und Tipps",
+      "seo_description": "Skala Kallirachis Beach auf Thassos entdecken: kleine Sand- und Kiesstrände, Baden am Fischerdorf, örtliche Angebote und Abendstimmung.",
+      "social_caption": "🌅 Skala Kallirachis auf Thassos: kleine Badeplätze, Fischerboote und warmes Abendlicht am Hafen. Ideal für einen entspannten Spaziergang! 🇬🇷 #Thassos #SkalaKallirachis #Griechenland",
+      "photo_alt": "Kleine Strandabschnitte und der Fischerhafen von Skala Kallirachis an der Westküste von Thassos."
+    },
+    "bg": {
+      "name": "Плаж Скала Каллирахис",
+      "tagline": "Спокоен бряг, рибарско пристанище и залези към континента",
+      "summary": "Няколко малки пясъчни и чакълести участъка край рибарското пристанище на Скала Каллирахис, на западния бряг на Тасос. Подходящи са за спокойно плуване и разходка из селото, а не непременно за целодневен престой в организиран плажен клуб.",
+      "description": "Плажът на Скала Каллирахис е част от крайбрежието на традиционно рибарско селище в западната част на остров Тасос. Малките лодки в пристанището, таверните край морето и спокойният местен ритъм създават различна атмосфера от тази в оживените курорти. В близост до пристанището има няколко малки участъка с пясък, примесен с чакъл и камъни. На някои места навлизането във водата е сравнително плавно, но морското дъно се променя и обувките за вода могат да бъдат полезни. Това е място за обикновено плуване, тишина и среща с местния живот, а не плаж, известен с голям брой туристически услуги. Информацията за шезлонги, чадъри, душове и тоалетни се различава според източника, сезона и конкретния участък. Затова не разчитайте, че тези удобства ще са налични точно там, където се настаните. След плажа можете да се разходите край пристанището или да опитате риба и морски дарове в местна таверна. Западното изложение предлага приятна вечерна светлина и гледка към континентална Гърция.",
+      "practical_tips": "Огледайте брега от двете страни на пристанището, преди да изберете място: настилката варира между пясък, чакъл и камъни. Носете собствен чадър, вода и обувки за море. Удобствата на самия плаж не са гарантирани, но в селото има заведения. Не плувайте по маршрутите на рибарските лодки и следете вятъра. Следобедната разходка и залезът са чудесно допълнение към посещението.",
+      "highlights": [
+        "Малки пясъчни и чакълести участъци",
+        "Автентична атмосфера на рибарско село",
+        "Залези по западното крайбрежие",
+        "Таверни и кафенета край пристанището",
+        "Спокойни разходки покрай морето"
+      ],
+      "seo_title": "Плаж Скала Каллирахис, Тасос – достъп и полезна информация",
+      "seo_description": "Открийте плажа Скала Каллирахис на Тасос: малки пясъчни и чакълести участъци, плуване до пристанището, удобства и залези.",
+      "social_caption": "🌅 Скала Каллирахис, Тасос: малки плажове, рибарски лодки и златиста вечерна светлина край морето. 🇬🇷 #Тасос #SkalaKallirachis #Гърция",
+      "photo_alt": "Малки плажни участъци и рибарското пристанище на Скала Каллирахис, западен Тасос."
+    },
+    "sr": {
+      "name": "Plaža Skala Kalirahi",
+      "tagline": "Mirna obala, ribarski čamci i zalasci sunca prema kopnu",
+      "summary": "Nekoliko manjih peščano-šljunkovitih delova obale pored ribarske luke u Skali Kalirahi, na zapadu Tasosa. Dobro mesto za opušteno kupanje i šetnju kroz selo, a ne nužno za celodnevni boravak u uređenom beach clubu.",
+      "description": "Plaža Skala Kalirahi deo je obale tradicionalnog ribarskog mesta na zapadnoj strani Tasosa. Čamci u luci, taverne uz more i sporiji ritam svakodnevnog života stvaraju sasvim drugačiji utisak od prometnih letovališta. Oko luke se nalaze manji delovi obale sa mešavinom peska, šljunka i kamenja. Na pojedinim mestima ulazak u more je postepen, ali dno nije svuda isto, pa obuća za vodu može biti korisna. Ovde se dolazi zbog jednostavnog kupanja, mirne atmosfere i blizine lokalnih sadržaja, a ne zbog velikog broja organizovanih usluga na plaži. Informacije o ležaljkama, suncobranima, tuševima i toaletima razlikuju se među izvorima i zavise od dela obale i sezone, pa nije sigurno da će biti dostupni baš na mestu koje izaberete. Nakon kupanja lepo je prošetati pored luke ili sesti u tavernu na ribu i morske plodove. Pošto je obala okrenuta zapadu, predveče pruža prijatan pogled na sunce koje zalazi prema grčkom kopnu.",
+      "practical_tips": "Pre nego što se smestite, pogledajte različite delove obale oko luke jer se pesak, šljunak i kamenje smenjuju. Ponesite suncobran, vodu i obuću za more. Sadržaji na samoj plaži nisu svuda obezbeđeni, ali u selu ima mesta za obrok. Ne plivajte na putanji čamaca i obratite pažnju na vetar i talase. Kasno popodne je dobar izbor ako želite i zalazak sunca.",
+      "highlights": [
+        "Mali peščani i šljunkoviti delovi obale",
+        "Autentična atmosfera ribarskog sela",
+        "Zalasci sunca na zapadnoj obali",
+        "Taverne i kafići uz luku",
+        "Lagana šetnja uz more"
+      ],
+      "seo_title": "Skala Kalirahi plaža Tasos – prilaz i korisni saveti",
+      "seo_description": "Upoznajte plažu Skala Kalirahi na Tasosu: mali delovi obale sa peskom i šljunkom, kupanje kod luke, sadržaji i zalasci sunca.",
+      "social_caption": "🌅 Skala Kalirahi, Tasos: mali delovi obale, ribarski čamci i prelepo večernje svetlo. Sačuvajte mesto za šetnju uz more! 🇬🇷 #Tasos #SkalaKalirahi #Grcka",
+      "photo_alt": "Mali delovi plaže i ribarska luka Skala Kalirahi na zapadnoj obali Tasosa."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/skala-kallirachis/images/skala-kallirachis1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/skala-kallirachis/images/skala-kallirachis2.webp",
+      "destinations/thassos/beaches/skala-kallirachis/images/skala-kallirachis3.webp",
+      "destinations/thassos/beaches/skala-kallirachis/images/skala-kallirachis4.webp",
+      "destinations/thassos/beaches/skala-kallirachis/images/skala-kallirachis5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/skala-kallirachis/images/",
+    "suggested_asset_names": [
+      "skala-kallirachis1.webp",
+      "skala-kallirachis2.webp",
+      "skala-kallirachis3.webp",
+      "skala-kallirachis4.webp",
+      "skala-kallirachis5.webp"
+    ],
+    "image_policy": "Five local WebP image paths are assigned from the user-provided folder screenshot. Before publication, verify individually that each image depicts the correct small village beach section beside Skala Kallirachis harbour, not another beach or a generic harbour/village view; confirm image origin, commercial reuse rights, attribution and redistribution permissions. File binaries were not provided or validated.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_map_reference",
+      "kind": "map_search",
+      "title": "Google Maps — Skala Kallirachi Beach search",
+      "url": "https://www.google.com/maps/search/?api=1&query=Skala+Kallirachi+Beach%2C+Thassos%2C+Greece",
+      "detail": "Search link only. Precise public navigation point and coordinates require owner verification in Google Maps.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_map_osm",
+      "kind": "open_geodata_reference",
+      "title": "Mapcarta / OpenStreetMap — Skala Kallirachis mapped beach feature",
+      "url": "https://mapcarta.com/W725324406",
+      "detail": "Maps one shore section at 40.71092, 24.53358. Not the chosen Google Maps navigation point; avoid merging all little village beaches under that coordinate.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Skala Kallirachi Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-kallirachi-beach",
+      "detail": "Shows sand/pebbles/rocks, depth ranges and icons for WC, showers, food, loungers and parking; these are not proven for each small village beach section.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana_beach",
+      "kind": "travel_guide",
+      "title": "Nikana — Skala Kallirachi City Beach (updated 2024)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1906/skala-kallirachi-city-beach",
+      "detail": "Central beach is small, mainly gravelly and unorganized; narrow rocky stretches south of village have local lodgings.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana_village",
+      "kind": "travel_guide",
+      "title": "Nikana — Skala Kallirachi settlement",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/places/1963/skala-kallirachi",
+      "detail": "Fishing harbour, promenade, village supplies, nearby tavernas, calm atmosphere and west-coast sunset setting.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_discover_thassos",
+      "kind": "travel_guide",
+      "title": "Discover Thassos — Skala Kallirachi Beach",
+      "url": "https://www.discover-thassos.com/listing/skala-kallirachi-beach-thassos/",
+      "detail": "Describes small sandy/pebbly sections beside harbour, gradual water entry in places and sunset; claims limited immediate amenities.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_stay_thassos",
+      "kind": "local_guide",
+      "title": "Stay Thassos — Things to Do in Skala Kallirachi",
+      "url": "https://staythassos.gr/things-to-do-in-skala-kallirachi-thassos/",
+      "detail": "Separates a smaller beach north of port from a larger sandy section south of port, supporting geographic caution.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_which_greek",
+      "kind": "travel_guide",
+      "title": "Which Greek Island — Skala Kallirachi beach",
+      "url": "https://whichgreekisland.co.uk/islands/thassos/beaches/skala-kallirachi/",
+      "detail": "Describes sand near marina, narrower pebbly sections north, limited facilities and nearby tavernas.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_photo_commons",
+      "kind": "media_license_source",
+      "title": "Wikimedia Commons — Skala Kallirachis aerial photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Skala_Kallirachis_aerial_photograph.jpg",
+      "detail": "Image labelled as village aerial by flightlog; CC BY 2.0; visual applicability to beach must be checked.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_google_maps_pin_and_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Select exact Google Maps beach pin from the small harbour-adjacent sections (northern or southern area)",
+      "Check whether local beach shower, WC and loungers are operating at specific section and season",
+      "Verify safest bathing point away from boat lanes",
+      "Five local image paths (skala-kallirachis1.webp through skala-kallirachis5.webp) were assigned from the screenshot. Verify that images depict the correct harbour-adjacent beach section and document original sources, commercial use/redistribution permissions and any required credits.",
+      "Review translations with native speakers before final publication"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original descriptive text supplied; five local WebP paths are configured, but ownership, commercial use and transferable redistribution rights for the photographs have not been independently verified.",
+    "photo_source_disclaimer": "Image filenames were read from a user-provided File Explorer screenshot. Five local image paths are referenced by JSON; underlying WebP files, precise geographic matching and photo rights were not independently verified."
+  }
+}

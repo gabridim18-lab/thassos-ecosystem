@@ -1,0 +1,3 @@
+Copiază aici cele 10 fotografii din directorul tău local, în format WebP, cu numele EXACTE.
+Nu redenumi nimic. Vezi `imagini_manifest.json` pentru ordinea, rolurile și numele corecte.
+ATENȚIE: fișierele foto nu sunt incluse în acest ZIP.

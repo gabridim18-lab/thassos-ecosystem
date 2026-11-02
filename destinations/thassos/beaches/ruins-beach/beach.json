@@ -1,0 +1,365 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-ruins-beach",
+  "slug": "ruins-beach",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": null,
+    "international_name": "Ruin's Beach",
+    "aliases": [
+      "Ruin's Beach",
+      "Ruins Beach",
+      "Ruins Beach Alyki",
+      "Aliki Ruins Beach",
+      "Alyki Ruins Beach",
+      "Alyki North Cove (geographic descriptor, not official name)"
+    ],
+    "entity_scope": "The northern, archaeologically adjacent swimming cove of the Alyki peninsula, physically separated by land from the main southern Alyki beach with tavernas; distinct from Gorgona Beach nearby.",
+    "deduplication_warning": "Alyki/Aliki as an area comprises two natural bays. Ruin's Beach is the quieter, northern archaeological cove, not merely a bar and not the entire Alyki destination. Some directories treat Ruin's as an alias of the generic Alyki beach entry: do not transfer the southern bay's services/sand profile. Gorgona is a nearby separate POI roughly 300 m away, not a confirmed alias. Do not confuse with archaeological site itself."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southeast / northern bay of Alyki peninsula",
+    "settlements": [
+      "Alyki (Aliki)"
+    ],
+    "lat": 40.60549,
+    "lng": 24.74206,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.60549%2C24.74206",
+    "coordinate_source_reference": "s_ruins_gps",
+    "coordinate_type": "representative_beach_position_from_independent_directory_not_verified_google_maps_poi_or_public_access",
+    "coordinate_review_status": "Reference point 40.605490,24.742060 from a dated Ruin's Beach directory, also cross-referenced by another location directory. Map URL constructed from coordinates for navigation. The exact Google Maps marker, safe arrival route and public entrance have NOT been independently verified; do not represent this point as an official entrance.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mixed_sand_and_pebbles_with_some_rocky_parts",
+    "seabed_near_shore": "mixed_sand_pebbles_and_rocks_variation_by_entry_point",
+    "water_entry": "check_underfoot_stones_and_changing_depth;not_uniformly_gradual",
+    "nearshore_depth": "variable;no_reliable_exact_measurement",
+    "water_clarity": "often_clear_in_calm_weather",
+    "wave_conditions": "wind_and_weather_dependent",
+    "exposure": "northern_alyki_bay_partly_sheltered_by_peninsula",
+    "natural_shade_on_sand": "some_nearby_tree_shade;coverage_on_sand_not_verified",
+    "beach_length_m": null,
+    "length_note": "Small bay; no measured shoreline extent for Ruin's Beach alone confirmed.",
+    "backdrop": "archaeological remains, greenery and walking paths on Alyki peninsula, nearby ancient marble quarry landscape",
+    "shoreline_type": "distinct_small_northern_alyki_cove"
+  },
+  "visitor_experience": {
+    "organization": "relatively_low_key_with_limited_seasonal_lounger_section_reported_historically",
+    "suitable_for": [
+      "history_and_nature_visitors",
+      "couples",
+      "relaxed_swimming",
+      "careful_snorkeling",
+      "scenic_walks",
+      "photography"
+    ],
+    "notable_for": [
+      "separate_alyki_northern_cove",
+      "adjacent_archaeological_site",
+      "quieter_than_main_alyki_bay",
+      "sand_pebbles_rocky_margins",
+      "proximity_to_ancient_marble_quarries"
+    ],
+    "activities_possible": [
+      "swimming",
+      "careful_snorkeling",
+      "shoreline_photography",
+      "archaeological_area_walk_on_permitted_routes",
+      "relaxing"
+    ],
+    "estimated_crowd_peak": "typically_less_busy_than_main_alyki_beach;no_live_crowd_data",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Shore material and depth vary. Beware of underwater stones and slippery rocks, and avoid jumping from rocky outcrops. Check current conditions before swimming; supervise children. Archaeological remains and protected zones must not be entered or disturbed unless public access is explicitly permitted. Lifeguard service for this exact cove is unverified."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": null,
+      "seasonal": true,
+      "note": "Older guide mentions a limited row of loungers; no current season confirmation or terms."
+    },
+    "umbrellas": {
+      "available_in_some_sections": null,
+      "seasonal": true,
+      "note": "May accompany limited seasonal loungers; not verified for the current season."
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "No public WC at this specific cove independently verified; main Alyki services do not transfer automatically."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "No publicly accessible shower at this exact cove confirmed."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": null,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No independently verified current season and hours for a lifeguard station specifically at Ruin's Beach.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Paths around ruins can be uneven; a fully step-free public beach approach and adapted facilities have not been verified.",
+    "free_unserviced_space": null,
+    "facilities_scope": "Nearby Kantina Ta Kionia and other Alyki businesses exist, but exact provision for Ruin's Beach day visitors varies. Do not claim the facilities of the southern Alyki beach as available in the northern cove."
+  },
+  "access_and_cost": {
+    "road_access": "Reach the Alyki peninsula area by island road, then follow permitted walking routes toward the northern archaeological cove; precise safe footpath and entrance unverified.",
+    "public_transport": "Bus services to Alyki area may operate seasonally; current stop, frequency and walking path not verified.",
+    "parking_type": "roadside_or_local_alyki_parking_reported_for_area;closest_legal_space_for_northern_cove_not_verified",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Seasonal loungers historically reported; no current price, minimum consumption or eligibility established.",
+    "best_arrival_advice": "Use the precise cove pin rather than the main Alyki beach name. Choose sturdy footwear for the uneven archaeological paths, bring drinking water and sun protection, check the sea entry and follow site access restrictions. Verify any parking or services on arrival.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Regional archaeological authority places Alyki peninsula roughly 32 km from Limenas; no independently verified driven route to the cove or parking endpoint."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Fetch live conditions at display time. Do not infer weather or bathing-water certifications from the nearby main Alyki bay."
+  },
+  "translations": {
+    "ro": {
+      "name": "Ruin's Beach (Alyki)",
+      "tagline": "Golful mai liniștit de lângă ruinele antice din Alyki",
+      "summary": "Ruin’s Beach este golful de pe latura nordică a peninsulei Alyki, separat de plaja principală, mai aglomerată. Oferă o combinație de nisip, pietricele și apă limpede, cu vestigii arheologice chiar în apropiere.",
+      "description": "Pe cealaltă parte a micii peninsule Alyki, Ruin’s Beach oferă o experiență diferită de plaja principală cu taverne și numeroase șezlonguri. Golful este recunoscut prin apropierea de situl arheologic: la mică distanță de mal se găsesc vestigii antice, iar traseele din jurul peninsulei duc spre vechile cariere de marmură. Cele două golfuri sunt formațiuni naturale distincte, folosite încă din Antichitate drept locuri de acostare. Ruin’s Beach este, în general, mai puțin aglomerată, cu un țărm pe care se întâlnesc nisip și pietricele și cu margini stâncoase. Apa poate fi deosebit de limpede în zilele cu mare calmă, atrăgând vizitatorii care vor să înoate sau să exploreze atent cu mască. Unele descrieri turistice menționează un șir limitat de șezlonguri, dar nu trebuie presupus că acestea sunt disponibile permanent sau că toate facilitățile plajei principale Alyki se găsesc și aici. În apropiere este un punct de alimentație cunoscut drept Ta Kionia, însă programul și serviciile sunt sezoniere. Locul se potrivește celor care apreciază golfurile mici și vor să combine o baie în mare cu o plimbare prin peisajul arheologic al peninsulei. Ruinele trebuie admirate fără a le atinge, muta sau deteriora.",
+      "practical_tips": "Folosește pinul Ruin’s Beach, nu pe cel al plajei principale Alyki: golfurile sunt pe laturi diferite ale peninsulei. Traseele de lângă sit pot fi denivelate; poartă încălțăminte stabilă, iar la intrarea în apă verifică pietrele și adâncimea. Locurile de parcare, dușurile, toaletele și șezlongurile nu sunt garantate pentru acest golf; întreabă local despre serviciile deschise. Ia apă și protecție solară. Nu pătrunde în zone arheologice restricționate și supraveghează copiii.",
+      "highlights": [
+        "Golf distinct de plaja principală Alyki",
+        "Situl arheologic și carierele de marmură în apropiere",
+        "Nisip și pietricele, cu margini stâncoase",
+        "Apă de obicei limpede pe vreme calmă",
+        "Atmosferă adesea mai liniștită decât în golful principal"
+      ],
+      "seo_title": "Ruin's Beach Thassos – golful de lângă ruinele Alyki",
+      "seo_description": "Descoperă Ruin's Beach din Alyki, Thassos: un golf separat, cu nisip și pietricele, vestigii antice, înot și sfaturi pentru acces.",
+      "social_caption": "🏛️🌊 Ruin’s Beach, Alyki: un golf mai liniștit pe lângă ruinele antice din Thassos, cu apă limpede și peisaj superb. Explorează cu grijă și respectă situl arheologic! #Thassos #RuinsBeach #Alyki",
+      "photo_alt": "Golful Ruin's Beach din Alyki, Thassos, cu țărm de nisip și pietricele, apă albastră și ruine antice în apropiere."
+    },
+    "en": {
+      "name": "Ruin's Beach (Alyki)",
+      "tagline": "A quieter cove beside the ancient remains of Alyki",
+      "summary": "Ruin’s Beach occupies the northern cove of the Alyki peninsula, distinct from its busier main beach. A mixed sandy and pebbly shore, typically clear water and nearby archaeological remains give it a character of its own.",
+      "description": "On the opposite side of the small Alyki peninsula from the main taverna-lined beach, Ruin’s Beach offers a different way to experience this historic corner of Thassos. The two natural inlets are geographically distinct and were used as harbours in antiquity. Ruin’s Beach lies beside the archaeological landscape, with ancient remains a short distance from the shore and walking routes continuing towards the peninsula’s old marble quarries. It is generally described as quieter than the main Alyki beach, with sand and pebbles along the shoreline and rocks around the edges. On calm days the clear sea is inviting for a swim or cautious snorkelling near the rocks, provided the entry and changing depth are checked first. Some travel guides mention a limited row of sun loungers, but their current availability, terms and season are not confirmed. The facilities of the main Alyki beach should not be assumed to extend across the peninsula. A nearby canteen known as Ta Kionia provides a useful landmark; its services and opening dates may change. This is a memorable stop for travellers who enjoy small coves, natural coastal scenery and a walk among the archaeological traces of ancient Thassos. Keep to permitted routes and do not disturb historic remains.",
+      "practical_tips": "Navigate to Ruin’s Beach rather than the main Alyki beach, since they occupy different sides of the peninsula. Paths around the archaeological area can be uneven; wear secure shoes and inspect the rocky or pebbly sea entry. Do not assume that parking, public toilets, showers or loungers are always available in this cove. Bring drinking water and sun protection, ask locally about seasonal services, supervise children and respect restricted archaeological areas.",
+      "highlights": [
+        "Separate natural bay from the main Alyki beach",
+        "Archaeological remains and ancient marble quarries nearby",
+        "Mixed sandy and pebbly shoreline with rocky edges",
+        "Often-clear water in settled weather",
+        "Usually quieter atmosphere than the main organised beach"
+      ],
+      "seo_title": "Ruin's Beach Thassos – Alyki's archaeological cove",
+      "seo_description": "Visit Ruin's Beach on Alyki, Thassos: a distinct quieter cove, sand and pebbles, ancient ruins, clear-water swimming and practical advice.",
+      "social_caption": "🏛️🌊 Discover Ruin’s Beach at Alyki, Thassos: a quieter cove beside ancient ruins, with beautiful water and historic scenery. Respect the site and enjoy the view! #Thassos #RuinsBeach #Alyki",
+      "photo_alt": "Ruin's Beach cove at Alyki, Thassos, with sand, pebbles, blue water and an archaeological setting nearby."
+    },
+    "el": {
+      "name": "Ruin's Beach (Αλυκή)",
+      "tagline": "Ένας πιο ήσυχος όρμος δίπλα στα αρχαία της Αλυκής",
+      "summary": "Το Ruin’s Beach βρίσκεται στον βόρειο όρμο της χερσονήσου της Αλυκής, ξεχωριστά από την πιο πολυσύχναστη κεντρική παραλία. Συνδυάζει άμμο, βότσαλα, συνήθως καθαρά νερά και κοντινά αρχαιολογικά κατάλοιπα.",
+      "description": "Στην άλλη πλευρά της μικρής χερσονήσου της Αλυκής, απέναντι από την κεντρική παραλία με τις ταβέρνες, βρίσκεται ο όρμος που στους τουριστικούς χάρτες εμφανίζεται ως Ruin’s Beach. Πρόκειται για διαφορετικό φυσικό κόλπο, με δική του ακτογραμμή. Οι δύο όρμοι της Αλυκής χρησιμοποιούνταν ως λιμάνια ήδη από την αρχαιότητα. Πολύ κοντά βρίσκονται τα κατάλοιπα του αρχαιολογικού χώρου, ενώ οι διαδρομές στη χερσόνησο οδηγούν προς τα παλιά λατομεία μαρμάρου. Η συγκεκριμένη ακτή περιγράφεται ως πιο ήσυχη από την οργανωμένη παραλία της Αλυκής. Στο έδαφος συναντώνται άμμος, βότσαλα και βραχώδη άκρα, γι’ αυτό χρειάζεται προσοχή κατά την είσοδο στη θάλασσα. Όταν ο καιρός είναι καλός, τα συνήθως διαυγή νερά προσφέρονται για κολύμπι και προσεκτική εξερεύνηση με μάσκα. Σε ορισμένες τουριστικές αναφορές γίνεται λόγος για λίγες εποχικές ξαπλώστρες, χωρίς όμως επιβεβαίωση της σημερινής λειτουργίας ή των όρων χρήσης τους. Οι παροχές της κεντρικής παραλίας δεν πρέπει να θεωρούνται διαθέσιμες και σε αυτόν τον όρμο. Η κοντινή καντίνα «Τα Κιόνια» αποτελεί σημείο αναφοράς, αλλά οι ώρες και οι υπηρεσίες της εξαρτώνται από την εποχή. Η επίσκεψη συνδυάζεται όμορφα με έναν περίπατο στο ιστορικό τοπίο, με σεβασμό στα μνημεία και τις προστατευόμενες ζώνες.",
+      "practical_tips": "Αναζητήστε το Ruin’s Beach και όχι μόνο την κεντρική παραλία Αλυκής, καθώς βρίσκονται σε διαφορετικές πλευρές της χερσονήσου. Τα μονοπάτια κοντά στα αρχαία μπορεί να είναι ανώμαλα· φορέστε κατάλληλα παπούτσια και ελέγξτε τις πέτρες και το βάθος πριν μπείτε στο νερό. Μην θεωρείτε δεδομένα τη στάθμευση, τις δημόσιες τουαλέτες, τα ντους ή τις ξαπλώστρες. Πάρτε νερό, αντηλιακή προστασία και προσέχετε τα παιδιά. Μην εισέρχεστε σε κλειστές αρχαιολογικές ζώνες.",
+      "highlights": [
+        "Ξεχωριστός φυσικός όρμος από την κεντρική Αλυκή",
+        "Αρχαιολογικά κατάλοιπα και παλιά λατομεία κοντά",
+        "Άμμος, βότσαλα και βραχώδη άκρα",
+        "Συνήθως διαυγή νερά με ήρεμη θάλασσα",
+        "Πιο ήσυχη ατμόσφαιρα σε σύγκριση με την κεντρική παραλία"
+      ],
+      "seo_title": "Ruin's Beach Θάσος – ο ιστορικός όρμος της Αλυκής",
+      "seo_description": "Γνωρίστε το Ruin's Beach στην Αλυκή της Θάσου: ξεχωριστός ήσυχος όρμος, αρχαία ερείπια, βότσαλα, κολύμπι και πρακτικές συμβουλές.",
+      "social_caption": "🏛️🌊 Ruin’s Beach στην Αλυκή Θάσου: ένας πιο ήσυχος όρμος δίπλα σε αρχαία κατάλοιπα, με γαλαζοπράσινα νερά και μοναδική ιστορία. #Θάσος #Αλυκή",
+      "photo_alt": "Ο όρμος Ruin's Beach στην Αλυκή Θάσου, με αμμοχάλικο, γαλανά νερά και αρχαιολογικά κατάλοιπα κοντά στην ακτή."
+    },
+    "de": {
+      "name": "Ruin's Beach (Alyki)",
+      "tagline": "Eine ruhigere Bucht direkt bei den antiken Ruinen von Alyki",
+      "summary": "Ruin’s Beach liegt in der nördlichen Bucht der Halbinsel Alyki und ist vom belebteren Hauptstrand getrennt. Sand, Kiesel, meist klares Wasser und die archäologischen Überreste in der Nähe machen ihren besonderen Charakter aus.",
+      "description": "Auf der anderen Seite der kleinen Halbinsel Alyki, gegenüber dem Hauptstrand mit seinen Tavernen, liegt die ruhigere Ruin’s Beach. Die beiden Buchten sind eigenständige natürliche Einschnitte der Küste und dienten bereits in der Antike als Hafenplätze. Dieser Strand grenzt an die archäologische Landschaft; alte Mauerreste liegen in unmittelbarer Umgebung, und Spazierwege führen weiter zu den antiken Marmorsteinbrüchen auf der Halbinsel. Ruin’s Beach gilt als weniger belebt als der stärker bewirtschaftete Hauptstrand. Die Küste besteht stellenweise aus Sand und Kieseln, an den Rändern liegen Felsen. Bei ruhigem Wetter ist das Wasser häufig klar und lädt zum Schwimmen oder vorsichtigen Schnorcheln ein. Vor dem Einstieg sollte man dennoch auf Steine und unterschiedliche Wassertiefen achten. Einzelne ältere Reiseführer erwähnen eine begrenzte Reihe von Sonnenliegen, doch Verfügbarkeit und Nutzungsbedingungen für die aktuelle Saison sind nicht bestätigt. Auch die Einrichtungen der Hauptbucht dürfen nicht automatisch für diesen Strand vorausgesetzt werden. Eine kleine Kantine namens Ta Kionia befindet sich in der Nähe, wobei Öffnungszeiten und Angebot saisonabhängig sind. Die Bucht eignet sich besonders für Reisende, die einen stilleren Badeplatz mit einem Ausflug in die Geschichte von Thassos verbinden möchten. Auf den Wegen durch den archäologischen Bereich sollten alle geschützten Überreste respektiert werden.",
+      "practical_tips": "Für die Anfahrt Ruin’s Beach gezielt auswählen: Der Hauptstrand Alyki liegt auf der anderen Seite der Halbinsel. Wege im Bereich der Ausgrabungen können uneben sein, deshalb festes Schuhwerk tragen. Am Wasser Steine und Tiefe prüfen. Parkplätze, öffentliche Toiletten, Duschen und Sonnenliegen sind für diesen Strand nicht durchgehend bestätigt. Trinkwasser und Sonnenschutz mitnehmen, Kinder beaufsichtigen und gesperrte Fundstellen nicht betreten.",
+      "highlights": [
+        "Eigene Bucht getrennt vom Hauptstrand Alyki",
+        "Archäologische Stätten und antike Marmorsteinbrüche",
+        "Sand, Kiesel und felsige Randbereiche",
+        "Bei ruhiger See oft klares Wasser",
+        "Meist weniger Trubel als am Hauptstrand"
+      ],
+      "seo_title": "Ruin's Beach Thassos – historische Bucht bei Alyki",
+      "seo_description": "Ruin's Beach auf Thassos entdecken: ruhigere Bucht an der Halbinsel Alyki, antike Ruinen, Kies und Sand, Baden und Zugangstipps.",
+      "social_caption": "🏛️🌊 Ruin’s Beach bei Alyki auf Thassos: ruhigeres Baden direkt neben einer beeindruckenden antiken Landschaft. #Thassos #RuinsBeach #Alyki",
+      "photo_alt": "Ruin's Beach bei Alyki auf Thassos mit Sand, Kieselstrand, blauem Wasser und antiken Ruinen in der Umgebung."
+    },
+    "bg": {
+      "name": "Ruin's Beach (Алики)",
+      "tagline": "По-спокоен залив до древните руини на Алики",
+      "summary": "Ruin’s Beach е разположен в северния залив на полуостров Алики, отделно от по-оживения основен плаж. Има пясък и камъчета, обикновено прозрачна вода и археологически останки наблизо.",
+      "description": "От другата страна на малкия полуостров Алики, срещу главния плаж с таверните, се намира заливът, познат от туристическите карти като Ruin’s Beach. Това е отделна естествена крайбрежна извивка. Двата залива са служили като пристанища още в древността. Наблизо се намират останки от археологическия комплекс, а пешеходните пътеки продължават към старите мраморни кариери по полуострова. Ruin’s Beach обикновено е по-спокоен от основния, по-организиран плаж на Алики. По брега има смесица от пясък и камъчета, както и скали по краищата, така че навлизането в морето трябва да става внимателно. При тихо време водата често е бистра и подходяща за плуване или предпазливо гмуркане с маска. Някои туристически описания споменават ограничен брой шезлонги, но актуалното им наличие, цени и условия не са потвърдени. Удобствата на главния плаж не бива да се приемат за налични и тук. Близката кантина „Та Киония“ е полезен ориентир, но часовете и услугите ѝ зависят от сезона. Мястото е подходящо за хора, които искат да съчетаят почивка край водата с разходка из древната история на Тасос. Пазете археологическите останки и се придържайте към разрешените маршрути.",
+      "practical_tips": "Изберете точно Ruin’s Beach, а не основния плаж Алики: заливите са от различни страни на полуострова. Пътеките край разкопките могат да бъдат неравни; носете стабилни обувки. Проверявайте камъните и дълбочината преди влизане в морето. Паркинг, обществени тоалетни, душове и шезлонги не са гарантирани. Вземете вода, слънцезащита и наблюдавайте децата. Не навлизайте в затворени археологически зони.",
+      "highlights": [
+        "Отделен естествен залив от главния плаж Алики",
+        "Антични останки и стари мраморни кариери",
+        "Пясък, камъчета и скалисти краища",
+        "Често бистра вода при спокойно море",
+        "По-тиха атмосфера от организирания основен плаж"
+      ],
+      "seo_title": "Ruin's Beach Тасос – археологическият залив на Алики",
+      "seo_description": "Посетете Ruin's Beach край Алики, Тасос: отделен залив, пясък и камъчета, древни руини, плуване и практични съвети.",
+      "social_caption": "🏛️🌊 Ruin’s Beach край Алики на Тасос: по-спокоен залив, кристални води и история на една разходка разстояние. #Тасос #Алики",
+      "photo_alt": "Заливът Ruin's Beach край Алики на Тасос с камъчета, пясък, синя вода и близки археологически останки."
+    },
+    "sr": {
+      "name": "Ruin's Beach (Aliki)",
+      "tagline": "Mirnija uvala uz antičke ostatke Alikija",
+      "summary": "Ruin’s Beach je uvala na severnoj strani poluostrva Aliki, odvojena od prometnije glavne plaže. Obala s peskom i oblucima, uglavnom bistra voda i obližnji arheološki ostaci daju joj poseban karakter.",
+      "description": "Na suprotnoj strani malog poluostrva Aliki od glavne plaže sa tavernama nalazi se mirnija uvala poznata na turističkim mapama kao Ruin’s Beach. Ova dva zaliva geografski su odvojena i korišćena su kao pristaništa još u antičko doba. U neposrednoj blizini nalaze se arheološki ostaci, a staze vode dalje do starih kamenoloma mermera na poluostrvu. Ruin’s Beach se obično opisuje kao znatno mirnija od popularne i uređene glavne plaže Aliki. Uz obalu se smenjuju pesak i obluci, dok su krajevi uvale stenoviti. Kada je more mirno, voda je često bistra i privlačna za plivanje ili pažljivo istraživanje podvodnog sveta maskom. Međutim, prilikom ulaska treba paziti na kamenje i promene dubine. Pojedini stariji turistički opisi pominju manji broj ležaljki, ali njihova trenutna dostupnost i uslovi korišćenja nisu potvrđeni. Sadržaji glavne plaže Aliki ne podrazumevaju se automatski i za ovu uvalu. U blizini se nalazi kantina Ta Kionia, korisna kao orijentir, ali su usluge sezonske. Ovo je mesto za posetioce koji vole manje uvale i žele da dan na moru spoje sa šetnjom kroz istoriju Tasosa. Arheološke spomenike i zaštićene zone treba poštovati.",
+      "practical_tips": "Za navigaciju izaberite Ruin’s Beach, a ne glavnu plažu Aliki, jer se nalaze na različitim stranama poluostrva. Staze oko iskopina mogu biti neravne, pa obujte stabilnu obuću. Pre ulaska u vodu proverite kamenje i dubinu. Parking, javni toaleti, tuševi i ležaljke nisu zagarantovani u ovoj uvali. Ponesite vodu i zaštitu od sunca, nadgledajte decu i ne ulazite u zabranjene arheološke zone.",
+      "highlights": [
+        "Posebna prirodna uvala, odvojena od glavnog Alikija",
+        "Arheološki ostaci i stari kamenolomi mermera",
+        "Pesak i obluci sa stenovitim rubovima",
+        "Često bistra voda kad je more mirno",
+        "Obično opuštenija atmosfera nego na glavnoj plaži"
+      ],
+      "seo_title": "Ruin's Beach Tasos – arheološka uvala kod Alikija",
+      "seo_description": "Istražite Ruin's Beach kod Alikija na Tasosu: mirniju zasebnu uvalu, ruševine, pesak, oblutke i korisne savete za posetu.",
+      "social_caption": "🏛️🌊 Ruin’s Beach, Aliki, Tasos: mirnija uvala pored drevnih ruševina, sa bistrom vodom i zanimljivom istorijom. #Tasos #Aliki",
+      "photo_alt": "Ruin's Beach kod Alikija na Tasosu sa peskom, oblucima, plavim morem i ostacima antičkog lokaliteta u blizini."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/ruins-beach/images/ruins-beach1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/ruins-beach/images/ruins-beach2.webp",
+      "destinations/thassos/beaches/ruins-beach/images/ruins-beach3.webp",
+      "destinations/thassos/beaches/ruins-beach/images/ruins-beach4.webp",
+      "destinations/thassos/beaches/ruins-beach/images/ruins-beach5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/ruins-beach/images/",
+    "suggested_asset_names": [
+      "ruins-beach1.webp",
+      "ruins-beach2.webp",
+      "ruins-beach3.webp",
+      "ruins-beach4.webp",
+      "ruins-beach5.webp"
+    ],
+    "image_policy": "Five local WebP image paths have been assigned from the filenames visible in the user-supplied screenshot, with image 1 as cover and images 2–5 as gallery. Before publication, verify that each image depicts the northern Ruin's Beach cove near the Alyki archaeological site (not the main southern Alyki beach, Gorgona or another cove). Confirm ownership or commercial-use permission, attribution obligations and any required rights to transfer or redistribute the photos. The WebP binaries were not provided with this JSON update.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_ruins_gps",
+      "kind": "beach_directory_geographic_point",
+      "title": "Grupa Biwakowa — Ruin's Beach, Thasos",
+      "url": "https://grupabiwakowa.pl/ruins-beach-thosos",
+      "detail": "Explicit place record for Ruins Beach by Alyki with coordinates 40.605490,24.742060, added November 2025. Coordinates are reference, not a verified public beach entrance or Google place pin.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_region_archaeology",
+      "kind": "regional_public_authority",
+      "title": "Eastern Macedonia and Thrace Tourism — Aliki Archaeological Site",
+      "url": "https://www.emtgreece.com/el/360o-eikoniki-periigisi/arhaiologikos-horos-alykis-thasos",
+      "detail": "Regional public authority describes two distinct natural bays on the Alyki peninsula and archaeological remains on the eastern bay shore. Supports separate geographic coves without asserting a modern official Ruin's Beach designation.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_discover_thassos",
+      "kind": "local_travel_guide",
+      "title": "Discover Thassos — Aliki two bays",
+      "url": "https://www.discover-thassos.com/el/listing/paralia-aliki/",
+      "detail": "Separates west organised Alyki beach and quieter eastern cove with places to bring one's own umbrella; general descriptions must not be treated as exact current facilities.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_thassos_view",
+      "kind": "local_travel_guide",
+      "title": "Thassos View — Aliki Beach (Greek)",
+      "url": "https://www.thassos-view.com/el/perioxes/paralies/aliki",
+      "detail": "Describes northern and southern Alyki beaches as geographically distinct, with northern bay quieter and partly organised, including sand/pebbles.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_which_greek",
+      "kind": "travel_guide",
+      "title": "Which Greek Island — Aliki Beach",
+      "url": "https://whichgreekisland.co.uk/islands/thassos/beaches/aliki/",
+      "detail": "Explicitly identifies the second Alyki beach as Ruins Beach and says it is more rugged, quieter and adjacent to archaeological site; older observations about loungers not current service confirmation.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_stay_thassos",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Complete list of beaches",
+      "url": "https://staythassos.gr/thassos-beaches/",
+      "detail": "Describes Ruins Beach as part of Alyki beach outing but differentiated from main resort/taverna bay. Useful to avoid counting the same north cove twice under variants.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_trip",
+      "kind": "map_business_directory",
+      "title": "Trip.com — Ruin's Beach, Alyki",
+      "url": "https://us.trip.com/travel-guide/attraction/thasos/ruin-s-beach-147542330/",
+      "detail": "Named Ruin's Beach POI in Alyki. Does not verify current amenities, beach entrance or geospatial boundaries.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_pame_alias_warning",
+      "kind": "regional_beach_directory",
+      "title": "Pame Paralia — Alyki with Ruin's alias",
+      "url": "https://pameparalia.com/beach/alyki-mainland-2",
+      "detail": "Lists a beach coordinate near 40.6056,24.7423 and the name Ruin's under generic Alyki; amenities on this broad listing may not refer to the northern cove alone. Avoid double count if a second record is created under alias Alyki North.",
+      "checked_on": "2026-10-24"
+    }
+  ],
+  "editorial": {
+    "status": "confirmed_distinct_cove_images_assigned_pending_access_and_final_review",
+    "facts_checked_on": "2026-10-24",
+    "translations_written_on": "2026-10-24",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Verify the exact Google Maps Ruin's Beach pin versus the reference GPS point and establish a safe public walking approach; this coordinate is not a verified gate or car park.",
+      "Confirm that this northern Alyki cove is not separately listed as Alyki North, Aliki Second Beach or Ruins under another existing JSON before GitHub publication; do not overlap with main Alyki or Gorgona.",
+      "Check current seasonal loungers, canteen services, public WC, showers, lifeguard, public parking, accessible entry and any costs.",
+      "Five local WebP filenames (ruins-beach1.webp through ruins-beach5.webp) are assigned; verify the actual photos show the northern Alyki Ruin's Beach cove, and document commercial-use, attribution and transfer/redistribution permissions before publishing.",
+      "Verify Greek local use of the label Ruin's Beach (not established as an official Greek name) and native proofreading of all six language texts.",
+      "Respect archaeological access restrictions and ensure beach visitor advice does not imply unrestricted access to ancient remains."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original multilingual editorial text retained; five local WebP paths assigned, but image ownership, commercial publishing and transferable reuse rights have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP image paths were assigned according to the user-provided directory screenshot. No image binaries were embedded or inspected here; geographic match and publication rights remain unverified."
+  }
+}

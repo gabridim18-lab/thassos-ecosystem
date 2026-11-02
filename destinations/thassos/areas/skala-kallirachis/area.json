@@ -1,0 +1,422 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-skala-kallirachis",
+  "slug": "skala-kallirachis",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Σκάλα Καλλιράχης",
+    "international_name": "Skala Kallirachis",
+    "aliases": [
+      "Skala Kallirachi",
+      "Skala Kalirachi",
+      "Skala Kallirahis",
+      "Scala Kallirachis",
+      "Skála Kalliráchis",
+      "Σκάλα Καλλιράχη",
+      "Σκάλα Καλλιράχης Θάσου"
+    ],
+    "area_type": "coastal_village",
+    "entity_scope": "Inhabited fishing village and waterfront on the west coast of Thassos, including its harbour, residential lanes, coastal amenities and immediate seafront. It is not synonymous with the entire neighbouring coastline or the inland village Kallirachi.",
+    "deduplication_warning": "The coastal Skala Kallirachis and the uphill Kallirachi are distinct settlements; their points are roughly 2.5-3 km apart by geography, not a verified walking route. The central Skala Kallirachis Beach is a separate BEACH record. The fishing harbour is not a ferry port. Klisma, Plaka, Lagada and other coastal sections should not be merged into the central village beach or automatically counted as separate beaches without verified mapped boundaries.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": true,
+    "coast": "west",
+    "part_of_island": "western",
+    "center": {
+      "lat": 40.70762,
+      "lng": 24.53417,
+      "coordinate_role": "OSM_place_village_node_for_settlement_reference_not_beach_harbour_navigation_or_vehicle_entrance",
+      "coordinate_source": "Mapcarta/OpenStreetMap node 342808503, place=village",
+      "coordinate_source_url": "https://mapcarta.com/13814196",
+      "verification_status": "OSM_village_reference_documented_google_maps_arrival_and_public_parking_pending_on_site_verification",
+      "verified_on": "2026-10-27"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "The mapped settlement is centred around 40.70762 N, 24.53417 E (OSM node 342808503). GeoNames 734259 lists a different reference position about 40.70641,24.53392, reinforcing that these are indicative settlement points, not navigation entrances. The mapped central beach feature is at approximately 40.71092,24.53358 (OSM way 725324406), a distinct place from the settlement reference point. Inland Kallirachi appears around 40.69288,24.55424 (OSM node 1477877629). No confirmed public vehicle-parking or arrival waypoint is attached."
+  },
+  "overview": {
+    "settlement_character": "inhabited_west_coast_fishing_village_with_harbour_quiet_holiday_rooms_and_sunset_waterfront",
+    "tourism_profile": [
+      "traditional_small_boat_fishing_harbour",
+      "seaside_houses_and_older_fishing_huts",
+      "relaxed_village_promenade_and_sunset_views",
+      "small_unorganised_central_village_beach",
+      "seaside_tavernas_and_local_cafes",
+      "family_rooms_apartments_and_independent_stays",
+      "olive_growing_and_local_oil_production_in_the_wider_community",
+      "nearby_small_beach_coves_and_coastal_stretches",
+      "distinct_upland_Kallirachi_village_for_a_separate_trip"
+    ],
+    "best_time_to_visit": "Late spring to early autumn for coastal walks, beach days and seasonal dining; quiet evenings and west-facing sunsets are appealing in settled weather. The settlement exists year-round, but visitor businesses and bathing services may be seasonal.",
+    "peak_season_notes": "Accommodation, tables at popular seaside tavernas and informal roadside parking may be busier in July and August. The central beach is small, with limited facilities; do not assume sunbeds, a lifeguard, step-free access, showers or toilets. Business opening hours and transport services change by season."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "historical_seaside_outpost_of_inland_Kallirachi",
+      "development_from_fishing_huts_into_permanent_coastal_homes",
+      "small_fishing_boat_and_working_waterfront_heritage",
+      "olive_cultivation_and_oil_processing_in_wider_Kallirachi_community",
+      "coastline_facing_mainland_Kavala_and_distant_Athos_landscape",
+      "historic_traditional_streets_museums_and_churches_belong_to_separate_inland_Kallirachi"
+    ],
+    "local_traditions": [
+      "small_boat_fishing_and_boathouse_culture",
+      "olive_growing_olive_oil_and_local_cooperative_products",
+      "seafront_taverna_meals_and_unhurried_evening_walks",
+      "village_community_life_beyond_peak_tourist_season"
+    ],
+    "local_food_specialties": [
+      "seasonal_fish_and_seafood_depending_on_landings_and_menu",
+      "grilled_fish_and_Greek_meze",
+      "Thassos_olives_and_local_olive_oil",
+      "local_preserves_sweets_and_traditional_products_where_sold"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "couples_seeking_a_calm_seaside_base",
+      "families_wanting_a_local_village_atmosphere_and_short_waterfront_walks",
+      "travellers_who_prefer_traditional_fishing_villages_to_large_resorts",
+      "sunset_photography_and_easygoing_dinners",
+      "independent_visitors_exploring_west_coast_beaches_by_car",
+      "visitors_interested_in_olive_and_fishing_heritage"
+    ],
+    "experiences": [
+      "walk_along_the_public_harbour_front_without_entering_working_berths",
+      "watch_fishing_boats_and_boathouses_from_public_areas",
+      "enjoy_evening_light_and_sunset_over_the_western_sea",
+      "eat_at_a_seafront_taverna_or_stop_at_a_local_cafe",
+      "use_the_central_village_beach_only_where_bathing_is_safe_and_separate_from_boat_activity",
+      "discover_nearby_small_coastal_stretches_as_distinct_places_after_validating_access",
+      "make_a_separate_road_trip_to_inland_Kallirachi_for_stone_lanes_and_traditional_architecture",
+      "use_the_paved_ring_road_for_short_excursions_to_Skala_Sotiros_and_Skala_Maries"
+    ],
+    "points_of_interest_summary": [
+      "Skala Kallirachis waterfront and fishing harbour — working small-boat harbour, NOT an island ferry terminal",
+      "Skala Kallirachis Beach — small central mixed sand-and-pebble bathing area, maintained as separate beach JSON",
+      "Historic seafront fishing huts / boathouses — part of village character; do not enter privately used shelters",
+      "Western sea views and sunset from accessible public waterfront",
+      "Kallirachi inland village — separate traditional hillside settlement with a folk/maritime museum; opening hours and visit conditions require checking",
+      "Klisma, Plaka and Lagada coastal sections — nearby named shores requiring individual geographical verification, not synonyms for the central village beach"
+    ],
+    "estimated_visit_duration": "Allow approximately 1–2 hours for a village stroll and a relaxed meal; a half-day or more if spending time at the beach or combining neighbouring beaches. These are editorial suggestions, not measured travel durations.",
+    "family_suitability": "The calm pace, tavernas and small central beach can suit families. The bathing area is narrow and contains sand, pebbles and stones; depth, waves and access need checking on arrival. Children should not swim or play among working harbour boats.",
+    "mobility_considerations": "Parts of the waterfront and village centre can be reached on foot, but kerbs, uneven paving, shared roads and harbour edges may be obstacles. No continuous step-free walking route, beach ramp, adapted toilet or sea-entry equipment has been independently confirmed.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "The village lies on the paved western coastal ring road between Skala Sotiros to the north and the Skala Maries/Limenaria direction to the south. The uphill road to inland Kallirachi leads to a different settlement. The settlement reference coordinate is not a validated entrance or parking destination.",
+    "public_transport": "Skala Kallirachi appears on published Go Thassos/KTEL bus tables connecting west-coast villages with Limenas and Limenaria/Potos. Times depend on month, weekday and operator updates; verify the latest timetable and stop position shortly before travel. No bus departures or fares are hard-coded here.",
+    "parking_overview": "Some on-street and harbour-adjacent parking may be possible depending on local signage and season, but no publicly accessible, dedicated parking point, pricing or availability has been confirmed. Do not block the ring road, ramps, moorings, boat access or private driveways.",
+    "pedestrian_access": "The small fishing harbour, waterfront tavernas, village streets and central bathing section can be explored locally on foot, with attention to traffic and the working-port environment. The beach is distinct from the harbour and some coast sections may require using the ring road.",
+    "accessibility_note": "A central paved road does not prove accessible beach entry. Wheelchair routes, steps, ramps, reserved accessible parking and toilets require a separate on-site audit before accessibility labels are published.",
+    "general_amenities": {
+      "supermarket": true,
+      "pharmacy": null,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": null,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "Avoid swimming among moored boats, ropes, harbour entrances or manoeuvring vessels. On the village beach assess pebbles, stones, underwater objects, waves and depth; a calm appearance does not guarantee supervised bathing. Keep clear of fishing operations and private boat sheds. Do not route to the village-centre GPS marker as if it were a legal parking entrance.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-skala-sotiros",
+      "gr-thassos-area-skala-maries",
+      "gr-thassos-area-skala-prinos"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-skala-kallirachis"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "The dedicated central beach gr-thassos-beach-skala-kallirachis is a verified existing dataset ID, not a duplicate settlement. Preserve nearby Skala Sotiros and Skala Maries as separate areas and their beaches as distinct entities; do not fabricate IDs for Klisma, Plaka, Lagada or the inland museum until corresponding records are created and verified. The nearby inland Kallirachi is not part of the current 20-area starter and should not be assigned a nonexistent area ID. The fishing harbour is NOT a ferry port. All proximity distances must be calculated from each independent beach/business/attraction GPS coordinate to the user, never substituted with this village reference node. Associated businesses are linked through area_id when verified.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "Skala Kallirachis harbour is for local boats, not the scheduled car-passenger ferry service. Mainland ferries use Limenas–Keramoti and Skala Prinos–Kavala. Store timetables, operator, seasonal validity, changes, last_checked timestamp and Europe/Athens timezone in a separate dynamic ferry module. Confirm any KTEL stop and schedule from a recent source before displaying."
+  },
+  "translations": {
+    "ro": {
+      "name": "Skala Kallirachis",
+      "tagline": "Un sat pescăresc autentic, cu port liniștit și apusuri peste mare",
+      "summary": "Skala Kallirachis este un sat de coastă din vestul insulei Thassos, cu un port pentru bărci mici, taverne, case de vacanță și o plajă centrală modestă. Este potrivit pentru plimbări fără grabă, seri la malul mării și explorarea micilor golfuri din apropiere.",
+      "description": "Skala Kallirachis păstrează farmecul unei așezări pescărești de pe coasta vestică a insulei Thassos. Satul se întinde de-a lungul șoselei de coastă, aproape de mare, și are un port cu ambarcațiuni mici, case, câteva magazine, cafenele și taverne unde ritmul vacanței este mai domol decât în stațiunile aglomerate. Între port și clădirile din apropiere, priveliștea spre mare și spre țărmul continental se schimbă frumos în lumina de după-amiază; apusul este unul dintre motivele pentru care merită să te oprești aici. Primele adăposturi de pe țărm au fost construite de pescari pentru bărci și unelte, apoi unele au devenit locuințe permanente, iar localitatea a crescut treptat. Încă se observă legătura dintre pescuit, măslini și viața de zi cu zi a comunității. În fața satului se află o plajă mică, cu porțiuni de nisip, pietricele și pietre; nu trebuie confundată cu întregul țărm din jur și nu este o plajă mare, complet amenajată. Pentru mai multă varietate, în apropiere există sectoare de coastă cunoscute sub nume precum Klisma, Plaka și Lagada, dar accesul și delimitările exacte trebuie verificate separat. Satul montan Kallirachi, aflat mai sus de coastă, este o destinație diferită, interesantă pentru străduțe tradiționale și un muzeu local, nu o parte a promenadei. Skala Kallirachis este o alegere bună pentru cupluri, familii și turiști independenți care preferă o bază de vacanță simplă, cu mare, mese relaxate și legături rutiere către alte plaje ale vestului insulei.",
+      "history_culture": "Skala Kallirachis a fost inițial ieșirea la mare a comunității din satul Kallirachi, situat în interiorul insulei. Pescarii au ridicat la țărm adăposturi pentru bărci și echipament, transformate treptat în locuințe. Pescuitul și cultivarea măslinelor au rămas repere ale zonei. Patrimoniul cu străzi pietruite, biserici și muzeul folcloric-maritim aparține satului montan Kallirachi, nu trebuie transferat artificial la Skala.",
+      "local_character": "Un sat grecesc locuit, cu port pescăresc, case aproape de țărm, mici afaceri locale și seri liniștite în care privirea se îndreaptă spre apus.",
+      "what_to_do": "Plimbă-te pe mal și în jurul portului din zonele accesibile publicului, privește bărcile, oprește-te la o tavernă și bucură-te de lumina serii. Pentru o baie scurtă, alege sectorul de plajă, nu portul. Dacă ai mașină, poți descoperi alte porțiuni de coastă și poți urca separat în satul tradițional Kallirachi.",
+      "practical_tips": "Centrul cartografic al localității este aproximativ 40.70762, 24.53417, dar nu reprezintă o intrare de parcare. Parcarea stradală depinde de locurile disponibile și de semnalizarea locală; lasă liber accesul bărcilor. Plaja centrală este mică, cu nisip și pietricele: adu propria umbră și verifică fundul apei înainte să intri. Nu înota în port. Există legături de autobuz pe coasta vestică, însă orarul și stația exactă trebuie confirmate pentru ziua vizitei. Nu confunda satul de coastă cu Kallirachi din interior.",
+      "highlights": [
+        "Port pescăresc și case tradiționale lângă apă",
+        "Atmosferă calmă, de sat locuit",
+        "Apusuri pe coasta vestică",
+        "Taverne și plajă centrală mică",
+        "Acces către satele și golfurile din vestul insulei"
+      ],
+      "seo_title": "Skala Kallirachis Thassos – port, plajă, apusuri și ghid",
+      "seo_description": "Explorează Skala Kallirachis din Thassos: port pescăresc, plajă mică, taverne, apusuri și informații despre acces și împrejurimi.",
+      "social_caption": "🌅 Skala Kallirachis, Thassos: bărci pescărești, taverne pe mal și apusuri liniștite. Un sat de coastă autentic, de descoperit fără grabă! 🇬🇷 #Thassos #SkalaKallirachis #ExploreThassos",
+      "photo_alt": "Satul Skala Kallirachis din Thassos, cu port pescăresc, case lângă mare și priveliște spre coasta vestică."
+    },
+    "en": {
+      "name": "Skala Kallirachis",
+      "tagline": "An authentic fishing village with a peaceful harbour and sea sunsets",
+      "summary": "Skala Kallirachis is a west-coast village on Thassos with a small-boat harbour, tavernas, holiday accommodation and a modest central beach. It is a relaxed base for waterfront walks, sunset evenings and exploring the nearby coastline.",
+      "description": "Skala Kallirachis retains the character of a working fishing settlement on the west coast of Thassos. The village stretches along the coastal road, close to the sea, and combines a small harbour with houses, a few shops, cafés and tavernas. Life moves at a gentler pace than in the island’s busier resorts, making it an appealing place for unhurried meals and evening strolls. From the public waterfront, the sea opens towards the Greek mainland, and the late-afternoon light often makes the harbour especially atmospheric. The settlement grew from simple fishing shelters: local fishermen once kept their boats and equipment close to the shore, and some of those structures gradually became permanent homes. Fishing and olive growing remain part of the wider area’s identity. In front of the village, a small beach offers a mixture of sand, pebbles and stones. It should not be mistaken for a long, fully equipped resort beach or for every stretch of coast under the same village name. The nearby shore includes places referred to as Klisma, Plaka and Lagada, although their exact access and geographic boundaries should be checked independently. Another distinction matters when exploring: Skala Kallirachis is the seaside settlement, while Kallirachi is a separate hillside village with traditional lanes and a local folklore and maritime museum. Visitors staying on the coast can explore that upland village as a separate trip. Skala Kallirachis particularly suits couples, families and independent travellers who prefer an inhabited Greek fishing village, easy access to the coastal road and quiet sunsets over a nightlife-focused resort.",
+      "history_culture": "The seaside settlement originally served as the coastal outlet of inland Kallirachi. Fishermen built modest huts to protect boats and gear, later extending some into homes as the village developed. Fishing, olives and olive oil help explain its local traditions. The cobbled lanes, churches and folklore-maritime museum belong to the separate uphill village of Kallirachi, rather than the coastal waterfront.",
+      "local_character": "An inhabited west-coast fishing village: small boats, modest waterfront houses, local businesses, relaxed tavernas and peaceful evenings by the sea.",
+      "what_to_do": "Stroll along the accessible public waterfront, watch the fishing boats without entering working areas, stop for a seaside meal and enjoy the sunset. For swimming, use the beach rather than the harbour basin. A car makes it easier to explore other nearby shore sections and visit inland Kallirachi.",
+      "practical_tips": "The map reference for the settlement is approximately 40.70762, 24.53417, not a verified car park. Street parking depends on local signs and availability; never block boat access. The central beach is small and mixes sand with pebbles, so bring shade, check the seabed and supervise children. Do not swim among harbour boats. Regional buses serve the west-coast corridor, but stops, days and times need checking against the latest operator schedule. Do not confuse Skala Kallirachis with the separate inland Kallirachi.",
+      "highlights": [
+        "Fishing harbour and old coastal boat shelters",
+        "Quiet, lived-in village atmosphere",
+        "West-facing sunset views",
+        "Seafront tavernas and a small local beach",
+        "Convenient base for other west-coast stops"
+      ],
+      "seo_title": "Skala Kallirachis Thassos – harbour, beach & sunset guide",
+      "seo_description": "Discover Skala Kallirachis on Thassos: a fishing village with a small beach, waterfront tavernas, sunsets, local heritage and practical tips.",
+      "social_caption": "🌅 Skala Kallirachis, Thassos: fishing boats, waterfront tavernas and a golden west-coast sunset. Discover a slower side of island life. 🇬🇷 #Thassos #SkalaKallirachis #GreekIslands",
+      "photo_alt": "Skala Kallirachis fishing village on Thassos, with small boats, harbour buildings and the western Aegean coastline."
+    },
+    "el": {
+      "name": "Σκάλα Καλλιράχης",
+      "tagline": "Αυθεντικό ψαροχώρι με ήσυχο λιμανάκι και όμορφα ηλιοβασιλέματα",
+      "summary": "Η Σκάλα Καλλιράχης είναι παραθαλάσσιος οικισμός στη δυτική Θάσο, με λιμανάκι, ταβέρνες, καταλύματα και μια μικρή παραλία κοντά στο κέντρο. Ταιριάζει σε όσους αναζητούν χαλαρούς περιπάτους, ήρεμες βραδιές και κοντινές εξορμήσεις.",
+      "description": "Η Σκάλα Καλλιράχης διατηρεί την ατμόσφαιρα ενός αυθεντικού ψαροχωριού στη δυτική ακτή της Θάσου. Ο οικισμός αναπτύσσεται κατά μήκος του παραλιακού δρόμου, δίπλα στη θάλασσα, με ένα λιμανάκι για μικρά σκάφη, σπίτια, λίγα καταστήματα, καφέ και ταβέρνες. Εδώ ο ρυθμός είναι πιο ήπιος από εκείνον των μεγάλων τουριστικών θέρετρων: οι επισκέπτες μπορούν να απολαύσουν έναν περίπατο δίπλα στο νερό, ένα χαλαρό γεύμα και το φως που χρωματίζει τη θάλασσα αργά το απόγευμα. Η ιστορία του παραθαλάσσιου χωριού συνδέεται με τους ψαράδες, οι οποίοι κατασκεύασαν αρχικά μικρές καλύβες για να προστατεύουν τις βάρκες και τον εξοπλισμό τους. Με τα χρόνια ορισμένες μετατράπηκαν σε μόνιμες κατοικίες και ο οικισμός μεγάλωσε. Το ψάρεμα και η ελαιοκαλλιέργεια εξακολουθούν να αποτελούν βασικά στοιχεία της τοπικής ταυτότητας. Μπροστά στο χωριό υπάρχει μια μικρή παραλία, με άμμο, βότσαλα και πέτρες, η οποία δεν πρέπει να συγχέεται με ολόκληρη τη γειτονική ακτογραμμή ούτε να θεωρείται πλήρως οργανωμένη. Στην ευρύτερη περιοχή αναφέρονται και άλλες ακτές, όπως το Κλίσμα, η Πλάκα και η Λαγκάδα, με την πρόσβαση και την ακριβή τους οριοθέτηση να χρειάζονται χωριστό έλεγχο. Η Καλλιράχη του βουνού είναι διαφορετικός οικισμός, με παραδοσιακά σοκάκια και λαογραφικό-ναυτικό μουσείο, που μπορεί κανείς να επισκεφθεί ξεχωριστά. Η Σκάλα Καλλιράχης είναι μια καλή βάση για ζευγάρια, οικογένειες και ταξιδιώτες που εκτιμούν τη γνήσια καθημερινότητα ενός παραθαλάσσιου χωριού.",
+      "history_culture": "Η Σκάλα υπήρξε το επίνειο της ορεινής Καλλιράχης. Τα πρώτα παραθαλάσσια καταλύματα ήταν καλύβες ψαράδων για βάρκες και εργαλεία, που σταδιακά εξελίχθηκαν σε σπίτια. Η αλιεία και η παραγωγή ελαιολάδου παραμένουν σημαντικά στοιχεία της παράδοσης. Τα πέτρινα καλντερίμια και το λαογραφικό-ναυτικό μουσείο βρίσκονται στην ξεχωριστή ορεινή Καλλιράχη, όχι στη Σκάλα.",
+      "local_character": "Ζωντανός παραθαλάσσιος οικισμός με ψαροκάικα, λιμανάκι, οικογενειακά καταλύματα, τοπικές ταβέρνες και ήρεμα βράδια με θέα προς τη δύση.",
+      "what_to_do": "Περπατήστε στους δημόσιους χώρους κοντά στο λιμάνι, παρατηρήστε τις βάρκες χωρίς να παρεμποδίζετε την εργασία των ψαράδων, απολαύστε φαγητό δίπλα στη θάλασσα και μείνετε για το ηλιοβασίλεμα. Για μπάνιο επιλέξτε την παραλία και όχι τη λεκάνη του λιμανιού. Με αυτοκίνητο μπορείτε να εξερευνήσετε τις γειτονικές ακτές και να επισκεφθείτε ξεχωριστά την ορεινή Καλλιράχη.",
+      "practical_tips": "Το γεωγραφικό σημείο αναφοράς του οικισμού είναι περίπου 40.70762, 24.53417, όχι επιβεβαιωμένη είσοδος στάθμευσης. Οι θέσεις στον δρόμο εξαρτώνται από τη σήμανση και τη διαθεσιμότητα. Μη φράζετε την πρόσβαση των σκαφών. Η μικρή παραλία έχει άμμο και βότσαλα: φέρτε σκιά, ελέγξτε τον βυθό και προσέχετε τα παιδιά. Αποφύγετε το κολύμπι μέσα στο λιμάνι. Ελέγχετε τις τρέχουσες στάσεις και τα δρομολόγια ΚΤΕΛ πριν από τη μετακίνηση.",
+      "highlights": [
+        "Γραφικό αλιευτικό λιμανάκι και παλιές καλύβες",
+        "Ήρεμη καθημερινή ζωή δίπλα στη θάλασσα",
+        "Όμορφο φως στο ηλιοβασίλεμα",
+        "Ταβέρνες και μικρή παραλία του οικισμού",
+        "Εξορμήσεις στη δυτική ακτή και την ορεινή Καλλιράχη"
+      ],
+      "seo_title": "Σκάλα Καλλιράχης Θάσος – λιμάνι, παραλία και ηλιοβασίλεμα",
+      "seo_description": "Ανακαλύψτε τη Σκάλα Καλλιράχης στη Θάσο: λιμανάκι, μικρή παραλία, ταβέρνες, ηλιοβασιλέματα και χρήσιμες πληροφορίες για την επίσκεψη.",
+      "social_caption": "🌅 Σκάλα Καλλιράχης, Θάσος: ψαρόβαρκες, ταβέρνες δίπλα στο κύμα και υπέροχο φως το σούρουπο. Η αυθεντική πλευρά της δυτικής ακτής! 🇬🇷 #Θάσος #ΣκάλαΚαλλιράχης #Ελλάδα",
+      "photo_alt": "Ο παραθαλάσσιος οικισμός Σκάλα Καλλιράχης στη Θάσο, με αλιευτικό λιμανάκι, βάρκες και σπίτια κοντά στη θάλασσα."
+    },
+    "de": {
+      "name": "Skala Kallirachis",
+      "tagline": "Ein authentisches Fischerdorf mit ruhigem Hafen und schönen Sonnenuntergängen",
+      "summary": "Skala Kallirachis ist ein Dorf an der Westküste von Thassos mit einem kleinen Fischerhafen, Tavernen, Ferienunterkünften und einem bescheidenen Ortsstrand. Es lädt zu Spaziergängen, entspannten Abenden und Ausflügen entlang der Küste ein.",
+      "description": "Skala Kallirachis bewahrt den Charakter eines bewohnten Fischerdorfes an der Westküste von Thassos. Der Ort erstreckt sich entlang der Küstenstraße dicht am Meer und bietet einen Hafen für kleine Boote, Wohnhäuser, einige Geschäfte, Cafés und Tavernen. Hier geht es meist ruhiger zu als in den großen Ferienzentren der Insel. Besonders angenehm sind ein Spaziergang am öffentlich zugänglichen Ufer, eine Mahlzeit mit Meerblick und das warme Licht am späten Nachmittag. Die Geschichte des Ortes begann mit einfachen Fischerhütten direkt an der Küste. Die Bewohner nutzten sie als Schutz für Boote und Ausrüstung; mit der Zeit wurden manche Hütten zu festen Wohnhäusern ausgebaut. Fischerei und Olivenanbau prägen die Region weiterhin. Vor dem Dorf liegt ein kleiner Strand mit Sand, Kieseln und einzelnen Steinen. Er ist weder mit der gesamten benachbarten Küstenlinie gleichzusetzen noch als großer, durchgehend bewirtschafteter Badestrand zu verstehen. In der Umgebung liegen weitere benannte Küstenabschnitte, darunter Klisma, Plaka und Lagada, deren genaue Grenzen und Zugänge gesondert geprüft werden sollten. Auch die Namen können leicht verwirren: Skala Kallirachis ist das Dorf am Meer, während Kallirachi ein eigener Ort am Hang ist. Dort befinden sich traditionelle Gassen und ein kleines Volkskunde- und Seefahrtsmuseum. Wer hier Urlaub macht, kann beide Orte erleben, sollte sie aber nicht miteinander verwechseln. Skala Kallirachis eignet sich besonders für Paare, Familien und Reisende, die eine unkomplizierte Unterkunft am Meer, Dorfatmosphäre und eine gute Ausgangslage für Ausflüge an der Westküste suchen.",
+      "history_culture": "Ursprünglich war Skala Kallirachis der Küsten- und Fischerplatz des höher gelegenen Dorfes Kallirachi. Aus kleinen Hütten zur Aufbewahrung von Booten und Geräten entwickelten sich nach und nach dauerhafte Häuser. Fischfang und Olivenanbau sind Teil der lokalen Geschichte. Das traditionelle Ortsbild und das Volkskunde- und Seefahrtsmuseum gehören dagegen zum gesonderten Bergdorf Kallirachi.",
+      "local_character": "Ein lebendiges Küstendorf mit Fischerbooten, einfachen Häusern nahe dem Wasser, lokalen Tavernen und entspannten Abendstunden.",
+      "what_to_do": "Spazieren Sie entlang der öffentlichen Uferbereiche, beobachten Sie die kleinen Boote aus sicherer Entfernung und genießen Sie ein Essen mit Blick aufs Meer. Zum Baden sollten Sie den Strand und nicht den Hafen nutzen. Mit dem Auto lassen sich weitere Küstenabschnitte und das eigenständige Bergdorf Kallirachi entdecken.",
+      "practical_tips": "Der kartografische Ortsmittelpunkt liegt ungefähr bei 40.70762, 24.53417 und ist kein bestätigter Parkplatz. Straßenparkplätze hängen von Beschilderung und freien Flächen ab; Hafenzufahrten müssen frei bleiben. Der kleine Ortsstrand besteht aus Sand und Kieseln, daher sind eigener Sonnenschutz, ein Blick auf den Meeresboden und Aufsicht für Kinder sinnvoll. Im Hafen nicht schwimmen. Busverbindungen bestehen auf der Westküstenroute; Haltestellen und Abfahrtszeiten bitte aktuell prüfen.",
+      "highlights": [
+        "Kleiner Fischerhafen und historische Bootshütten",
+        "Ruhige, authentische Dorfatmosphäre",
+        "Stimmungsvolle Sonnenuntergänge",
+        "Tavernen und ein kleiner Ortsstrand",
+        "Ausflüge an die Westküste und ins Bergdorf Kallirachi"
+      ],
+      "seo_title": "Skala Kallirachis Thassos – Fischerhafen, Strand und Sonnenuntergang",
+      "seo_description": "Skala Kallirachis auf Thassos entdecken: Fischerhafen, kleiner Ortsstrand, Tavernen, Sonnenuntergänge und praktische Tipps.",
+      "social_caption": "🌅 Skala Kallirachis auf Thassos: Fischerboote, Tavernen am Wasser und goldenes Abendlicht. Ein ruhiger Ort an der Westküste! 🇬🇷 #Thassos #SkalaKallirachis #Griechenland",
+      "photo_alt": "Fischerdorf Skala Kallirachis auf Thassos mit Hafen, Booten und Häusern entlang der westlichen Küste."
+    },
+    "bg": {
+      "name": "Скала Калирахис",
+      "tagline": "Автентично рибарско селище с тихо пристанище и красиви залези",
+      "summary": "Скала Калирахис е крайбрежно село на западния бряг на Тасос с малко рибарско пристанище, таверни, места за настаняване и скромен централен плаж. Подходящо е за спокойни разходки и почивка далеч от оживените курорти.",
+      "description": "Скала Калирахис пази атмосферата на истинско рибарско селище на западния бряг на остров Тасос. Селото се простира покрай крайбрежния път, близо до морето, с пристанище за малки лодки, къщи, няколко магазина, кафенета и таверни. Животът тук е по-спокоен от този в големите туристически центрове, а разходките край водата и вечерята с гледка към залеза са сред най-приятните преживявания. Първите постройки по брега били рибарски колиби, използвани за лодки и оборудване. Постепенно част от тях се превърнали в постоянни домове и селото се разраснало. Риболовът и отглеждането на маслини остават важна част от местната идентичност. Пред селото има малък плаж с пясък, камъчета и отделни камъни. Той не трябва да се бърка с цялото крайбрежие наоколо и не представлява голяма, изцяло оборудвана плажна ивица. В района се споменават и други крайбрежни места, като Клиcма, Плака и Лагада, но техните граници и достъп трябва да се проверяват отделно. Важно е да се прави разлика между Скала Калирахис, който е до морето, и Калирахи, традиционното село по-нагоре в планината. Там могат да се видят тесни улички и малък музей на местния бит и мореплаването. Скала Калирахис е добър избор за семейства, двойки и самостоятелни пътешественици, които търсят спокоен престой край морето и лесни излети към западните плажове на острова.",
+      "history_culture": "Скала Калирахис възниква като крайбрежно място за рибарите от планинското село Калирахи. Първоначалните колиби служели за лодки и мрежи, а по-късно някои станали жилища. Риболовът, маслиновите горички и местният зехтин са част от традициите. Калдъръмените улици, църквите и музеят на бита и мореплаването се намират в отделното планинско село Калирахи.",
+      "local_character": "Живописно крайбрежно село с малки рибарски лодки, таверни, къщи до морето и спокойни залези.",
+      "what_to_do": "Разходете се по достъпната за посетители крайбрежна част, наблюдавайте лодките без да пречите на рибарите и седнете в таверна с морска гледка. За плуване използвайте плажа, а не пристанището. С автомобил може да разгледате съседни заливчета и планинското село Калирахи.",
+      "practical_tips": "Картографската точка на селото е приблизително 40.70762, 24.53417, а не потвърден паркинг. Паркирането по улиците зависи от знаците и свободните места; не блокирайте лодките и частните входове. Централният плаж е малък, с пясък и камъчета, затова носете слънцезащита и проверявайте морското дъно. Не плувайте в пристанището и наглеждайте децата. Автобусните разписания и точните спирки трябва да се проверяват преди пътуване.",
+      "highlights": [
+        "Рибарско пристанище и стари лодкарски постройки",
+        "Спокойна атмосфера на истинско село",
+        "Красиви залези над морето",
+        "Таверни и малък централен плаж",
+        "Близки крайбрежни места и планинското Калирахи"
+      ],
+      "seo_title": "Скала Калирахис, Тасос – пристанище, плаж и залези",
+      "seo_description": "Открийте Скала Калирахис на Тасос: рибарско пристанище, малък плаж, таверни, красиви залези и полезни съвети.",
+      "social_caption": "🌅 Скала Калирахис, Тасос: рибарски лодки, таверни до морето и спокойни залези. Истинският ритъм на западния бряг! 🇬🇷 #Тасос #СкалаКалирахис #Гърция",
+      "photo_alt": "Крайбрежното село Скала Калирахис на Тасос с рибарско пристанище, лодки и къщи край морето."
+    },
+    "sr": {
+      "name": "Skala Kalirahi",
+      "tagline": "Autentično ribarsko selo sa mirnom lukom i lepim zalascima sunca",
+      "summary": "Skala Kalirahi je primorsko selo na zapadnoj obali Tasosa, sa malom ribarskom lukom, tavernama, smeštajem i skromnom plažom pored naselja. Odgovara posetiocima koji vole lagane šetnje, more i mirnije večeri.",
+      "description": "Skala Kalirahi čuva karakter pravog ribarskog sela na zapadnoj obali Tasosa. Naselje se pruža uz obalski put, nedaleko od mora, sa malom lukom za čamce, kućama, prodavnicama, kafićima i tavernama. Za razliku od većih letovališta, ovde se dan odvija mirnije: prijatno je prošetati uz vodu, sesti na večeru bez žurbe i gledati kako sunce zalazi nad morem. Prve obalne kućice koristili su ribari za čuvanje čamaca i opreme, a vremenom su neke prerasle u stalne kuće. Ribolov i maslinarstvo ostali su deo identiteta ovog kraja. Ispred naselja nalazi se mala plaža sa peskom, oblucima i ponekim kamenjem. Ona nije isto što i cela okolna obala i ne treba očekivati veliku, potpuno uređenu plažu sa svim sadržajima. U široj okolini nalaze se obalni delovi poznati kao Klisma, Plaka i Lagada, ali njihove tačne granice i pristup treba posebno proveriti. Važno je razlikovati Skalu Kalirahi, koja leži uz more, od planinskog sela Kalirahi na padini. To je zasebno mesto sa tradicionalnim uličicama i malim muzejom lokalne kulture i pomorstva, pogodno za poseban izlet. Skala Kalirahi odgovara parovima, porodicama i samostalnim putnicima koji žele opušten boravak u živom grčkom selu i dobru polaznu tačku za istraživanje zapadnih plaža Tasosa.",
+      "history_culture": "Skala Kalirahi prvobitno je služila kao obalska baza stanovnika sela Kalirahi u unutrašnjosti. Ribari su gradili skromne kolibe za čamce i alat, a pojedine su kasnije postale stalne kuće. Ribolov, masline i maslinovo ulje deo su lokalne tradicije. Kamene ulice, crkve i etnografsko-pomorski muzej nalaze se u zasebnom planinskom selu Kalirahi.",
+      "local_character": "Mirno, naseljeno ribarsko selo sa čamcima, malim lokalnim radnjama, tavernama uz more i opuštenim večerima.",
+      "what_to_do": "Prošetajte javno dostupnom obalom i pogledajte ribarske čamce bez ulaženja u radni deo luke. Uživajte u taverni i sačekajte zalazak sunca. Za kupanje birajte plažu, a ne luku. Automobilom možete obići susedne uvale i planinsko selo Kalirahi.",
+      "practical_tips": "Kartografska tačka naselja je približno 40.70762, 24.53417 i nije potvrđen parking. Parkiranje zavisi od znakova i slobodnih mesta; ne blokirajte prilaze čamcima. Mala plaža ima pesak i oblutke, pa ponesite zaštitu od sunca i proverite dno pre kupanja. Ne plivajte u luci i stalno nadgledajte decu. Autobuske linije postoje na zapadnoj obali, ali važeći red vožnje i stajališta treba proveriti.",
+      "highlights": [
+        "Ribarska luka i stara skloništa za čamce",
+        "Mirna atmosfera naseljenog sela",
+        "Lepi zalasci sunca na zapadnoj obali",
+        "Taverne i mala lokalna plaža",
+        "Izleti ka susednim uvalama i planinskom Kalirahiju"
+      ],
+      "seo_title": "Skala Kalirahi Tasos – ribarska luka, plaža i zalasci",
+      "seo_description": "Upoznajte Skalu Kalirahi na Tasosu: malo ribarsko naselje, plaža, taverne, zalasci i praktični saveti.",
+      "social_caption": "🌅 Skala Kalirahi, Tasos: ribarski čamci, večera uz more i mirni zalasci sunca. Otkrijte pravu atmosferu zapadne obale! 🇬🇷 #Tasos #SkalaKalirahi #Grcka",
+      "photo_alt": "Ribarsko selo Skala Kalirahi na Tasosu sa malom lukom, čamcima i kućama uz more."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/skala-kallirachis/images/skala-kallirachis1.webp",
+    "gallery": [
+      "destinations/thassos/areas/skala-kallirachis/images/skala-kallirachis2.webp",
+      "destinations/thassos/areas/skala-kallirachis/images/skala-kallirachis3.webp",
+      "destinations/thassos/areas/skala-kallirachis/images/skala-kallirachis4.webp",
+      "destinations/thassos/areas/skala-kallirachis/images/skala-kallirachis5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/skala-kallirachis/images/",
+    "suggested_asset_names": [
+      "skala-kallirachis1.webp",
+      "skala-kallirachis2.webp",
+      "skala-kallirachis3.webp",
+      "skala-kallirachis4.webp",
+      "skala-kallirachis5.webp"
+    ],
+    "image_policy": "Exactly five photographs with the predetermined file names: main cover and four gallery images. Ensure each photograph depicts this area; verify ownership, publication/transfer rights and attribution. Filenames are configured in advance; image binaries have not been provided.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_osm_village",
+      "kind": "openstreetmap_derived_mapping",
+      "title": "Mapcarta / OpenStreetMap — Skala Kallirachis village, node 342808503",
+      "url": "https://mapcarta.com/13814196",
+      "detail": "Settlement village node 40.70762,24.53417, not a road arrival point, pier or swimming beach. Maps inland Kallirachi separately.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_geonames",
+      "kind": "gazetteer_crosscheck",
+      "title": "GeoNames — Skála Kalliráchis, ID 734259",
+      "url": "https://www.geonames.org/734259",
+      "detail": "Alternate settlement reference 40.70641,24.53392. Point discrepancies are expected and require mapping review before routing; neither is confirmed entrance.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_osm_beach",
+      "kind": "openstreetmap_derived_mapping",
+      "title": "Mapcarta — Σκάλα Καλλιράχης beach, OSM way 725324406",
+      "url": "https://mapcarta.com/W725324406",
+      "detail": "Separately mapped beach feature around 40.71092,24.53358; do not substitute beach coordinate for village centre.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_osm_inland",
+      "kind": "openstreetmap_derived_mapping",
+      "title": "Mapcarta — Kallirachi village, OSM node 1477877629",
+      "url": "https://mapcarta.com/13817766",
+      "detail": "Inland Kallirachi at about 40.69288,24.55424, separate from coastal Skala Kallirachis.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Skala Kallirachi",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-kallirachi",
+      "detail": "Origins in fishing shelters, small harbour, coast, quieter village tourism and sunset views.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_greek",
+      "kind": "greek_language_local_guide",
+      "title": "Go Thassos (Greek) — Σκάλα Καλλιράχης",
+      "url": "https://www.go-thassos.gr/gr/about-thassos/places/skala-kallirachi",
+      "detail": "Greek account of former seaside huts, working coastal settlement and views toward mainland and Mount Athos.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "tourism_guide",
+      "title": "Nikana — Skala Kallirachi (updated October 2026)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/places/1963/skala-kallirachi",
+      "detail": "Fishing harbour, small generally unorganized mixed-material central village beach, local services and distinct inland Kallirachi.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_thassos_view",
+      "kind": "local_tourism_guide",
+      "title": "Thassos View — Skala Kallirachi village",
+      "url": "https://www.thassos-view.com/places/villages/skala-kallirachi",
+      "detail": "Fishing boat shelters, olive oil cooperative, Klisma/Plaka/Lagada nearby named coastal spots. Exact boundaries and current shops require independent confirmation.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_discover_village",
+      "kind": "travel_guide",
+      "title": "Discover Thassos — Skala Kallirachis",
+      "url": "https://www.discover-thassos.com/listing/skala-kallirachis-thassos/",
+      "detail": "Coastal counterpart of Kallirachi, fishing-village development and small port; historic route distances approximate.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_discover_beach",
+      "kind": "beach_guide",
+      "title": "Discover Thassos — Skala Kallirachi Beach",
+      "url": "https://www.discover-thassos.com/listing/skala-kallirachi-beach-thassos/",
+      "detail": "Small central beach near harbour with sand/pebbles and limited amenities. Content pertains to beach record, not all shores around village.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_inland",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Kallirachi inland village",
+      "url": "https://www.go-thassos.gr/about-thassos/places/kallirachi",
+      "detail": "Separately located upland settlement with traditional lanes, churches and folk/maritime museum; not a coastal attraction inside Skala.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_bus_current",
+      "kind": "seasonal_transport_schedule_reference",
+      "title": "Go Thassos — bus timetables and prices (October 2026)",
+      "url": "https://www.go-thassos.gr/thassos-bus-schedules-prices",
+      "detail": "October 2026 schedule explicitly lists Skala Kallirachi bus links toward Limenas and Limenaria/Potos. Timetable is changeable and omitted from static JSON.",
+      "checked_on": "2026-10-27"
+    }
+  ],
+  "editorial": {
+    "status": "researched_six_languages_completed_5_image_paths_preconfigured_pending_final_map_photo_and_native_editorial_review",
+    "facts_checked_on": "2026-10-27",
+    "translations_written_on": "2026-10-27",
+    "coverage": "full_coastal_village_profile_six_languages_12_source_references_five_preset_webp_paths_distinct_village_and_central_beach",
+    "requires_manual_review": [
+      "Confirm OSM settlement marker 40.70762,24.53417 vs GeoNames alternative 40.70641,24.53392; select validated navigation entrance and legal public parking separately before routing.",
+      "Confirm actual central beach extent and entry, distinct from harbour and other coastal sections Klisma, Plaka and Lagada; do not create duplicate beach POIs.",
+      "Do not merge Skala Kallirachis with upland Kallirachi; keep the folk and maritime museum in the inland village and confirm its current public visiting schedule before creating an attraction record.",
+      "Verify the exact village KTEL bus stop, current seasonal departures and prices before showing live transport data.",
+      "Verify pharmacy, ATM, fuel, medical services and exact business locations from separate up-to-date business POIs; avoid guessing availability.",
+      "Check on-site safety, accessible pedestrian routes, usable public parking and availability of any central-beach services and supervision.",
+      "Add exactly five images named skala-kallirachis1.webp through skala-kallirachis5.webp; confirm each depicts Skala Kallirachis and not inland Kallirachi or unrelated western Thassos beaches.",
+      "Verify ownership, publication/transfer permission, provenance and required attribution for all five WebP photographs.",
+      "Obtain final native-speaker proofreading in RO, EN, EL, DE, BG and SR, plus SEO titles, before publishing."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "All five local WebP filenames and paths are assigned in advance. The binary photos are not supplied and image rights or geographic match have not been independently verified. No external photographs were downloaded."
+  }
+}

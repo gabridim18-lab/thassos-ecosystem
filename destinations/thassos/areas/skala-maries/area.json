@@ -1,0 +1,432 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-skala-maries",
+  "slug": "skala-maries",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Σκάλα Μαριών",
+    "international_name": "Skala Maries",
+    "aliases": [
+      "Skala Marion",
+      "Skala Mariōn",
+      "Skala Marion Thassos",
+      "Skala Maries",
+      "Σκάλα Μαριών",
+      "Σκάλα Μαριών Θάσου"
+    ],
+    "area_type": "coastal_village",
+    "entity_scope": "Compact year-round coastal village and fishing harbour on the southwestern coast of Thassos, built around three distinct adjacent bays: northern Platanes, central Limanaki/Skala Maries and southern Atspas. This area record describes the village, lanes, facilities and waterfront; its three beaches are individual geographical POIs rather than aliases of the village.",
+    "deduplication_warning": "The name Skala Maries/Skala Marion identifies the coastal village, NOT the inland mountain village Maries. The central beach Skala Maries (Limanaki), northern Platanes (also called Sunset Beach) and southern Atspas (Sugar Beach) are three separate bays. Do not merge Platanes with Platana Beach near Skala Rachoniou. Fishing harbour here is not a public ferry terminal. Do not create a duplicate Atspas beach ID until the dedicated catalog record is verified.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": true,
+    "coast": "southwest",
+    "part_of_island": "western",
+    "center": {
+      "lat": 40.642,
+      "lng": 24.51526,
+      "coordinate_role": "OSM_place_village_center_reference_not_the_Limanaki_beach_centre_ferry_quay_car_park_or_access_point",
+      "coordinate_source": "Mapcarta / OpenStreetMap place=village node 280966629",
+      "coordinate_source_url": "https://mapcarta.com/13814186",
+      "verification_status": "OSM_village_point_verified_against_named_map_feature;_Google_Maps_navigation_arrival_and_village_polygon_not_verified",
+      "verified_on": "2026-10-27"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "Skala Marion village is tagged place=village by OSM node 280966629 at 40.64200,24.51526. Separate OSM beach features: central Σκάλα Μαριών 40.64264,24.51552 (way 1082546627), northern Πλάτανα/Platanes 40.64539,24.51492 (way 792486057), southern Atspas ~40.63924,24.51579 (way 692616793). These points locate named map features, NOT verified public swimming entrances or road/parking directions. Inland Maries village around 40.69088,24.62062 is a different geographic entity and not the same area centre. Nearby beaches must be ranked using their own verified geocoordinates rather than the village centre."
+  },
+  "overview": {
+    "settlement_character": "small_southwest_coast_fishing_village_wrapped_around_three_bays_with_intimate_seafront_tavernas",
+    "tourism_profile": [
+      "three_neighbouring_distinct_beach_bays",
+      "central_small_working_fishing_harbour",
+      "seafront_fish_tavernas_and_cafes",
+      "compact_winding_village_streets_and_traditional_houses",
+      "seasonal_rooms_studios_and_small_accommodation",
+      "western_evening_light_and_sea_sunsets",
+      "relaxed_family_holidays_with_a_choice_of_beach_conditions",
+      "regional_olive_oil_honey_and_fishing_traditions",
+      "road_links_to_Limenaria_and_inland_Maries"
+    ],
+    "best_time_to_visit": "Late spring to early autumn for swimming and seaside meals. May, June and September can feel less busy, while July and August are peak season. West-facing sunsets can be especially appealing on clear evenings; sea and beach conditions remain weather-dependent.",
+    "peak_season_notes": "The village is compact and each cove has limited space, especially the small Atspas and central Limanaki sections. Peak-summer parking and lounger availability may be restricted. Beach-bar equipment, restaurants and local shops follow seasonal/individual schedules, not a single guaranteed calendar."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "traditional_fishing_and_small_craft_harbour",
+      "coastal_outpost_historically_connected_to_inland_Maries",
+      "compact_old_houses_with_coloured_balcony_brackets_and_carved_ceiling_details",
+      "local_history_of_security_against_pirate_raids",
+      "historical_Mount_Athos_monastic_estates_of_Karakallou_Xiropotamou_and_Stavronikita",
+      "olive_growing_honey_and_Thassos_fishing_heritage"
+    ],
+    "local_traditions": [
+      "daily_rhythm_of_a_small_fishing_harbour",
+      "sharing_seafood_and_meze_at_waterside_tavernas",
+      "west_coast_sunset_walks",
+      "olive_oil_and_honey_as_local_island_products",
+      "regional_relationship_with_mountain_village_Maries"
+    ],
+    "local_food_specialties": [
+      "grilled_fish_and_seafood_subject_to_daily_catch",
+      "Greek_meze_salads_and_seasonal_local_dishes",
+      "Thassos_olives_and_olive_oil",
+      "local_honey_when_available",
+      "traditional_Greek_pies_and_baked_products"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "couples_seeking_a_quiet_seafront_base",
+      "families_wanting_a_choice_of_neighbouring_beaches",
+      "visitors_who_enjoy_slow_evening_walks_and_sunset_views",
+      "travellers_interested_in_fishing_village_atmosphere_and_seafood",
+      "photography_of_boats_harbour_and_close_set_houses",
+      "short_stays_combining_swimming_and_west_coast_excursions"
+    ],
+    "experiences": [
+      "walk_around_the_central_fishing_harbour_from_public_paths_without_entering_working_quays",
+      "compare_the_distinct_Platanes_Limanaki_and_Atspas_bays_with_site_specific_sea_entry_checks",
+      "eat_seafood_or_local_meze_at_a_seafront_taverna",
+      "enjoy_west-facing_evening_light_and_sunset_from_a_public_viewpoint",
+      "photograph_old_village_houses_narrow_lanes_and_small_fishing_boats",
+      "visit_Platanes_for_the_more_open_northern_bay_or_Atspas_for_a_compact_sand_cove",
+      "make_a_separate_excursion_to_mountain_Maries_and_Panagouda_monastery_subject_to_access_rules",
+      "combine_the_village_with_a_Limenaria_or_Tripiti_day_trip_using_independently_checked_routes"
+    ],
+    "points_of_interest_summary": [
+      "Village fishing harbour — small working boat harbour and waterfront tavernas; not a ferry port",
+      "Skala Maries Beach / Limanaki — separate central swimming beach beside the harbour",
+      "Platanes Beach — northern bay, sometimes called Sunset Beach; separate from Platana near Skala Rachoniou",
+      "Atspas / Sugar Beach — compact southern sandy bay, with a distinct OSM beach feature; dedicated beach catalog ID still to verify",
+      "Traditional settlement streets and historical village house details — enjoy from public streets",
+      "Inland Maries and Panagouda monastery — separate uphill trip, not within the coastal village"
+    ],
+    "estimated_visit_duration": "Allow roughly 1–2 hours for a waterfront stroll and a meal; a half-day or more to enjoy one or several nearby beaches. These are editorial planning ranges, not measured travel times.",
+    "family_suitability": "The village offers a choice of three small beaches, but the swimming conditions and depth vary between them. Atspas is often described as sandy with a gentler entry; central Limanaki is also used for small boats, so select designated bathing space away from harbour movements. Supervise children and examine rocks, waves and local currents.",
+    "mobility_considerations": "The village has lanes and slopes between its bays. Narrow streets, parked cars, steps and uneven approaches may complicate access. No continuous step-free walking route between all three beaches, accessible sea ramp or guaranteed adapted toilets has been independently verified.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "The settlement lies along the southwest coastal side of Thassos on the road network between Skala Kallirachis and Limenaria. Access to individual bays branches through compact village streets with slopes; do not assume a beach pin is also a safe driving destination.",
+    "public_transport": "Regional KTEL services circulate on west/southwest coastal routes and listings include Skala Maries. Frequencies, exact stop locations, school-day/seasonal variations and fares change; consult current operator or municipality-linked sources and confirm the stop before travel.",
+    "parking_overview": "Roadside or locally designated spaces may be available but parking is limited in narrow village streets, particularly in high summer and above the small coves. No universally available free car park, capacity or exact public arrival point has been verified; do not obstruct residents, emergency access or working harbour lanes.",
+    "pedestrian_access": "The waterfront, tavernas and central beach are close together, while reaching the other two bays usually involves a short stroll with inclines and possible road crossings. Use public streets, check steps and traffic, and avoid private accommodation paths.",
+    "accessibility_note": "No verified step-free continuous route between harbour, Platanes and Atspas; exact wheelchair-friendly sea access, beach equipment and accessible WC have not been confirmed. Evaluate each beach separately.",
+    "general_amenities": {
+      "supermarket": true,
+      "pharmacy": true,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": null,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "The harbour is a working small-boat space, not a swimming pool or passenger ferry quay. Swim only at suitable beach sections away from manoeuvring vessels and mooring lines. Check stones, local depth and waves separately at Limanaki, Platanes and Atspas. Coastal paths and viewpoint edges may be unguarded; keep children away from drop-offs. Pharmacy and grocery presence is reported but business opening hours must be verified individually.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-skala-kallirachis",
+      "gr-thassos-area-limenaria"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-skala-maries",
+      "gr-thassos-beach-platanes"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "Geographically distinguish coastal Skala Maries village from mountain Maries village. Skala Maries/Limanaki central beach and Platanes (north) have independently existing beach records; Atspas (south) is factually a distinct bay with OSM beach way 692616793 but no confirmed beach.json record in the available catalog, so do NOT invent a gr-thassos-beach-atspas link until its existence is checked. Do not merge Platanes with Platana near Skala Rachoniou, or treat the village fishing harbour as a scheduled ferry port. Nearby area IDs are curated geographical context only. Use each restaurant, attraction, beach and accommodation GPS for actual user-distance calculations; never substitute the area centre for its access point.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "The village fishing harbour is not a scheduled passenger/vehicle ferry terminal. The island ferry routes are Keramoti–Limenas and Kavala–Skala Prinos. Timetables, operator notices and seasonal KTEL departures must be sourced from a separate live or manually maintained transport data layer with last_checked, validity dates, timezone Europe/Athens and cancellation status. Never hard-code departure times or promise service frequency in this area JSON."
+  },
+  "translations": {
+    "ro": {
+      "name": "Skala Maries (Skala Marion)",
+      "tagline": "Un sat pescăresc cu trei golfuri și apusuri deasupra Mării Egee",
+      "summary": "Skala Maries este un sat de coastă din sud-vestul insulei Thassos, așezat în jurul unui port pescăresc și al trei golfuri diferite: Platanes, plaja centrală Limanaki și Atspas. Tavernele de lângă apă, casele tradiționale și atmosfera relaxată îl fac o alegere plăcută pentru o vacanță la mare.",
+      "description": "În Skala Maries, ritmul vacanței este dat de bărci mici, taverne cu mese aproape de apă și străduțe care urcă printre casele așezate compact pe coastă. Satul se află în sud-vestul insulei Thassos și păstrează caracterul unei așezări pescărești, chiar dacă astăzi primește oaspeți în studiouri, apartamente și mici unități de cazare. Particularitatea lui este apropierea a trei golfuri distincte. La nord se întinde Platanes, o plajă mai deschisă, cu nisip fin și porțiuni de pietricele. În centru se află mica plajă Skala Maries, cunoscută și drept Limanaki, lângă portul cu bărcile pescarilor. În partea sudică se ascunde Atspas, numită uneori Sugar Beach, un golf compact cu nisip și intrare în apă descrisă adesea ca lină. Fiecare loc are propriile condiții de înot, iar plaja centrală nu trebuie confundată cu spațiile folosite de bărci. Dincolo de mare, merită observate casele vechi construite foarte aproape una de alta și detaliile arhitecturale păstrate în sat. Pe mal, o masă cu pește sau preparate grecești poate deveni momentul preferat al zilei. Spre seară, orientarea vestică a coastei aduce o lumină frumoasă, iar apusurile sunt unul dintre motivele pentru care vizitatorii revin. Pentru o excursie diferită, satul montan Maries se află în interiorul insulei, dar este o localitate separată, nu o altă denumire pentru Skala Maries. Acesta este un loc pentru cei care preferă vacanțele fără grabă și posibilitatea de a alege între câteva plaje la distanță mică una de alta.",
+      "history_culture": "Skala Maries s-a dezvoltat ca așezare de coastă legată de satul Maries din interior. Pescuitul și legăturile maritime au marcat viața locală. Unele case vechi, construite apropiat, amintesc de perioadele în care localnicii căutau protecție împotriva incursiunilor piraților. Ghidurile locale documentează și legături istorice cu mănăstiri de pe Muntele Athos, inclusiv foste proprietăți monahale în zonă; acestea nu trebuie confundate cu obiective deschise astăzi vizitatorilor.",
+      "local_character": "Sat compact și liniștit, cu bărci pescărești, străzi înguste, mici magazine și taverne pe mal. Cele trei golfuri dau zonei varietate, fără atmosfera unei stațiuni foarte mari. Apusurile, produsele locale și viața de zi cu zi a portului completează experiența.",
+      "what_to_do": "Plimbă-te pe faleză și urmărește bărcile din port de pe traseele publice. Alege Platanes pentru o plajă mai deschisă, Limanaki pentru atmosfera centrală a satului sau Atspas pentru un golf nisipos mai mic, după ce verifici condițiile mării. Bucură-te de o cină pe mal, fotografiază casele vechi și apusul, iar într-o altă zi explorează satul montan Maries și împrejurimile sale.",
+      "practical_tips": "În sezonul de vârf, locurile de parcare și spațiul pe plajele mici se pot ocupa rapid. Străzile satului sunt înguste și există pante între golfuri; nu bloca accesul locuitorilor. Verifică separat intrarea în apă la fiecare plajă și nu înota în zona de manevră a bărcilor. Magazinele, farmacia și tavernele sunt menționate în ghiduri, dar programul lor poate varia. Pentru autobuze consultă orarul actualizat al operatorului; portul local nu are curse de feribot pentru pasageri. La Atspas sau Platanes, condițiile șezlongurilor se confirmă pe loc.",
+      "highlights": [
+        "Trei golfuri distincte: Platanes, Limanaki și Atspas",
+        "Port pescăresc și taverne lângă apă",
+        "Case tradiționale și străduțe înguste",
+        "Apusuri frumoase pe coasta sud-vestică",
+        "Punct de plecare spre Limenaria și satul montan Maries"
+      ],
+      "seo_title": "Skala Maries, Thassos – sat pescăresc, 3 plaje și apusuri",
+      "seo_description": "Descoperă Skala Maries din Thassos: port pescăresc, plajele Platanes, Limanaki și Atspas, taverne, cazare, acces și sfaturi utile.",
+      "social_caption": "🌅 Skala Maries, Thassos: un sat pescăresc fermecător, trei golfuri diferite și taverne lângă mare. ⚓ De la Platanes la Limanaki și Atspas, fiecare colț are atmosfera lui. 🇬🇷 #Thassos #SkalaMaries #ExploreThassos",
+      "photo_alt": "Satul pescăresc Skala Maries din Thassos, cu portul mic, casele de pe coastă și golful central al Mării Egee."
+    },
+    "en": {
+      "name": "Skala Maries (Skala Marion)",
+      "tagline": "A fishing village with three bays and glowing Aegean sunsets",
+      "summary": "Skala Maries is a relaxed coastal village in southwestern Thassos, arranged around a fishing harbour and three distinct bays: Platanes, central Limanaki and Atspas. Its waterfront tavernas, close-set houses and west-facing views make it a welcoming seaside base.",
+      "description": "In Skala Maries, the holiday pace follows the small fishing boats, tables overlooking the sea and narrow streets winding among tightly grouped houses. This southwest-coast village retains an intimate fishing-village identity while welcoming visitors to rooms, studios and small seaside accommodation. Its special attraction is a choice of three neighbouring but separate bays. To the north, Platanes has a broader, more open stretch of fine sand and some shingle. The central village beach, Skala Maries Beach or Limanaki, sits beside the little harbour, where fishing boats give the waterfront much of its character. South of the centre, Atspas, sometimes called Sugar Beach, is a compact sandy cove known for a generally gentle sea entry. Swimming conditions differ between these beaches, and the working harbour itself should not be treated as a bathing area. The village also rewards a slower look away from the water: older homes built close together, coloured balcony details and small lanes tell a story of traditional coastal life. Eating fish, seafood or Greek meze at a waterside taverna is an enjoyable way to experience the place without rushing between attractions. As afternoon turns into evening, the western aspect brings soft light and memorable sunsets over the Aegean. For a change of scenery, inland Maries and the Panagouda monastery area offer a separate excursion into the hills; the mountain village is not the same settlement as coastal Skala Maries. This is an appealing destination for travellers who value a personal village atmosphere and several beach options close to their accommodation.",
+      "history_culture": "Skala Maries developed as the coastal counterpart of the inland village of Maries, with fishing and the harbour at the heart of daily life. The close arrangement of its older houses is associated in local accounts with the need for protection against pirate raids, while some traditional architectural features have survived. Regional guides also document historical connections with Mount Athos monasteries, whose former dependencies in the area should not be mistaken for present-day public attractions.",
+      "local_character": "A compact, low-key waterfront settlement of working boats, narrow lanes, family accommodation, small shops and fish tavernas. The three neighbouring coves create variety without turning the village into a large resort. Local olive oil, honey and the rhythm of the harbour add to its character.",
+      "what_to_do": "Walk around the publicly accessible harbourfront and photograph the boats and traditional houses. Choose Platanes for the more open northern bay, Limanaki for a quick swim near the centre, or Atspas for a small sandy cove, after checking local sea conditions. Have an unhurried meal by the water and stay for sunset. On another day, make a separate trip to mountain Maries or continue along the coast toward Limenaria.",
+      "practical_tips": "Parking is limited in the village’s tight streets and the small coves can be busy in midsummer; do not block residents or harbour access. Paths between beaches may involve slopes, steps and roads with traffic. Check each swimming area separately and keep clear of boat manoeuvres in the harbour. Guides report small shops, eating places and a pharmacy, but opening hours can change. Bus routes are seasonal and should be confirmed from the latest KTEL information. The fishing harbour is not a passenger ferry port. Lounger conditions at each beach should be checked on arrival.",
+      "highlights": [
+        "Three separate bays: Platanes, Limanaki and Atspas",
+        "A small working fishing harbour and waterfront tavernas",
+        "Traditional houses and winding village streets",
+        "West-coast evening light and Aegean sunsets",
+        "A convenient base for Limenaria and inland Maries"
+      ],
+      "seo_title": "Skala Maries Thassos – fishing village, 3 beaches & sunsets",
+      "seo_description": "Explore Skala Maries on Thassos: fishing harbour, Platanes, Limanaki and Atspas beaches, waterfront tavernas, access and practical travel tips.",
+      "social_caption": "🌅 Skala Maries, Thassos: one welcoming fishing village, three different bays and sunset meals beside the sea. ⚓ Explore Platanes, Limanaki and Atspas at your own pace. 🇬🇷 #Thassos #SkalaMaries #GreekIslands",
+      "photo_alt": "Fishing village of Skala Maries, Thassos, with its small harbour, close-set seaside houses and central Aegean cove."
+    },
+    "el": {
+      "name": "Σκάλα Μαριών",
+      "tagline": "Ψαροχώρι με τρεις όρμους και υπέροχα ηλιοβασιλέματα στο Αιγαίο",
+      "summary": "Η Σκάλα Μαριών είναι ένας ήρεμος παραθαλάσσιος οικισμός στη νοτιοδυτική Θάσο, με μικρό αλιευτικό λιμάνι και τρεις ξεχωριστούς κόλπους: τις Πλάτανες, τη μικρή κεντρική παραλία Λιμανάκι και τον Ατσπά. Οι ταβέρνες δίπλα στη θάλασσα και τα παραδοσιακά σπίτια συμπληρώνουν τον χαρακτήρα της.",
+      "description": "Στη Σκάλα Μαριών οι διακοπές έχουν τον ρυθμό ενός μικρού ψαροχωριού: βάρκες στο λιμανάκι, τραπέζια δίπλα στο κύμα και στενά δρομάκια ανάμεσα σε σπίτια χτισμένα το ένα κοντά στο άλλο. Ο οικισμός βρίσκεται στη νοτιοδυτική ακτή της Θάσου και, παρά την ανάπτυξη των ενοικιαζόμενων δωματίων και των μικρών καταλυμάτων, διατηρεί αρκετά στοιχεία από την καθημερινή του ζωή. Το σημαντικότερο πλεονέκτημά του είναι οι τρεις διαφορετικοί όρμοι σε μικρή απόσταση μεταξύ τους. Βόρεια βρίσκονται οι Πλάτανες, μια πιο ανοιχτή παραλία με λεπτή άμμο και ψιλό βότσαλο. Στο κέντρο, η παραλία της Σκάλας Μαριών, γνωστή και ως Λιμανάκι, γειτονεύει με τον μικρό αλιευτικό λιμένα. Νοτιότερα, ο Ατσπάς είναι ένας μικρός αμμώδης κόλπος, που συχνά περιγράφεται ως κατάλληλος για πιο ήπια είσοδο στη θάλασσα. Οι συνθήκες κολύμβησης διαφέρουν από σημείο σε σημείο και ο χώρος όπου κινούνται τα σκάφη δεν είναι χώρος για μπάνιο. Αξίζει επίσης να παρατηρήσει κανείς τα παλιά σπίτια, τα μπαλκόνια και τις μικρές ανηφορικές γειτονιές. Οι παραθαλάσσιες ταβέρνες δίνουν την ευκαιρία για ψάρι, θαλασσινά και ελληνικούς μεζέδες, ενώ το απόγευμα το δυτικό άνοιγμα της ακτής χαρίζει όμορφο φως και θέα στο ηλιοβασίλεμα. Για μια διαφορετική εκδρομή, το ορεινό χωριό Μαριές και η περιοχή της Παναγούδας βρίσκονται στο εσωτερικό του νησιού και αποτελούν ξεχωριστό προορισμό. Η Σκάλα Μαριών ταιριάζει σε όσους προτιμούν μια χαλαρή παραμονή κοντά στη θάλασσα, χωρίς τη φασαρία ενός μεγάλου θερέτρου.",
+      "history_culture": "Η Σκάλα Μαριών συνδέεται ιστορικά με το ορεινό χωριό Μαριές και την αλιευτική δραστηριότητα της περιοχής. Τα παλαιότερα σπίτια, χτισμένα πυκνά, θυμίζουν την ανάγκη προστασίας από τις πειρατικές επιδρομές, ενώ ορισμένες διακοσμητικές λεπτομέρειες στα μπαλκόνια διατηρούνται έως σήμερα. Τοπικές πηγές αναφέρουν επίσης ιστορικές σχέσεις με μονές του Αγίου Όρους και παλαιά μετόχια στην περιοχή.",
+      "local_character": "Ένας μικρός, ζωντανός παραθαλάσσιος οικισμός με ψαροκάικα, στενούς δρόμους, οικογενειακά καταλύματα και ταβέρνες μπροστά στη θάλασσα. Οι τρεις κόλποι προσφέρουν επιλογές για διαφορετικές ώρες και διαθέσεις. Το ελαιόλαδο, το μέλι και τα προϊόντα της θάλασσας συνδέονται με την τοπική καθημερινότητα.",
+      "what_to_do": "Περπατήστε στο προσβάσιμο παραλιακό μέτωπο, δείτε τις ψαρόβαρκες και φωτογραφίστε τα παλιά σπίτια. Επιλέξτε τις Πλάτανες για πιο ανοιχτή ακτή, το Λιμανάκι για μια στάση κοντά στο κέντρο ή τον Ατσπά για μικρό αμμώδη όρμο, ανάλογα με τις συνθήκες της θάλασσας. Απολαύστε φαγητό δίπλα στο νερό και μείνετε μέχρι το ηλιοβασίλεμα. Για εκδρομή, επισκεφθείτε ξεχωριστά τις ορεινές Μαριές ή τα Λιμενάρια.",
+      "practical_tips": "Το καλοκαίρι η στάθμευση δυσκολεύει στα στενά δρομάκια, ενώ οι μικρές παραλίες γεμίζουν εύκολα. Η μετακίνηση ανάμεσα στους όρμους μπορεί να περιλαμβάνει ανηφόρες, σκαλιά και δρόμους με οχήματα. Μην κολυμπάτε στον χώρο ελιγμών των σκαφών. Για ξαπλώστρες, καταστήματα και ταβέρνες επιβεβαιώνετε τους τρέχοντες όρους και το ωράριο επιτόπου. Τα τοπικά δρομολόγια λεωφορείων αλλάζουν ανά εποχή και πρέπει να ελέγχονται από ενημερωμένη πηγή. Το αλιευτικό λιμάνι δεν εξυπηρετεί επιβατηγά φέρι.",
+      "highlights": [
+        "Τρεις ξεχωριστοί όρμοι: Πλάτανες, Λιμανάκι και Ατσπάς",
+        "Μικρό αλιευτικό λιμάνι και παραθαλάσσιες ταβέρνες",
+        "Παραδοσιακά σπίτια και στενά δρομάκια",
+        "Όμορφο απογευματινό φως και ηλιοβασίλεμα",
+        "Εκδρομές προς Λιμενάρια και ορεινές Μαριές"
+      ],
+      "seo_title": "Σκάλα Μαριών Θάσος – ψαροχώρι, 3 παραλίες και ηλιοβασίλεμα",
+      "seo_description": "Γνωρίστε τη Σκάλα Μαριών στη Θάσο: λιμανάκι, παραλίες Πλάτανες, Λιμανάκι και Ατσπάς, ταβέρνες, πρόσβαση και χρήσιμες συμβουλές.",
+      "social_caption": "🌅 Σκάλα Μαριών, Θάσος: ένα γραφικό ψαροχώρι με τρεις μικρούς όρμους και όμορφα ηλιοβασιλέματα. ⚓ Πλάτανες, Λιμανάκι και Ατσπάς σας περιμένουν! 🇬🇷 #Θάσος #ΣκάλαΜαριών #Ελλάδα",
+      "photo_alt": "Η Σκάλα Μαριών στη Θάσο με το μικρό αλιευτικό λιμάνι, τα σπίτια δίπλα στη θάλασσα και τον κεντρικό όρμο."
+    },
+    "de": {
+      "name": "Skala Maries (Skala Marion)",
+      "tagline": "Fischerdorf mit drei Badebuchten und Sonnenuntergängen über der Ägäis",
+      "summary": "Skala Maries ist ein ruhiger Küstenort im Südwesten von Thassos mit einem kleinen Fischerhafen und drei eigenen Buchten: Platanes, dem zentralen Limanaki und Atspas. Traditionelle Häuser, Tavernen direkt am Wasser und schöne Abendstimmung prägen das Dorf.",
+      "description": "In Skala Maries bestimmen kleine Fischerboote, enge Gassen und Tavernen mit Meerblick das Urlaubsgefühl. Der Ort liegt an der Südwestküste von Thassos und hat trotz seiner Gästezimmer, Studios und kleinen Ferienunterkünfte viel vom Charakter eines traditionellen Fischerdorfs bewahrt. Besonders reizvoll ist die Auswahl von drei benachbarten, aber geografisch getrennten Buchten. Im Norden liegt Platanes, ein offenerer Strand mit feinem Sand und stellenweise kleinen Kieseln. Direkt am Dorfzentrum befindet sich der kleine Strand Skala Maries, auch Limanaki genannt, neben dem Hafen mit seinen Fischerbooten. Südlich davon liegt Atspas, eine kleine Sandbucht, die häufig für einen vergleichsweise sanften Einstieg ins Wasser beschrieben wird. Die Bedingungen unterscheiden sich jedoch je nach Abschnitt, und das Hafenbecken ist kein Badebereich. Neben dem Strand lohnt es sich, die dicht gebauten älteren Häuser, die Details der Balkone und die verwinkelten Gassen zu entdecken. Eine gemütliche Mahlzeit mit Fisch, Meeresfrüchten oder griechischen Meze in einer Taverne am Wasser gehört zum besonderen Erlebnis. Durch die Lage an der Westküste sind das weiche Abendlicht und die Sonnenuntergänge oft besonders schön. Wer mehr vom Inselinneren kennenlernen möchte, kann einen eigenen Ausflug zum Bergdorf Maries und zur Gegend um das Kloster Panagouda unternehmen; dieses Dorf ist nicht mit dem Küstenort Skala Maries identisch. Hier fühlen sich vor allem Gäste wohl, die eine persönliche Atmosphäre und mehrere nahegelegene Bademöglichkeiten einer großen, geschäftigen Ferienanlage vorziehen.",
+      "history_culture": "Skala Maries entstand als Küstenort des weiter im Landesinneren gelegenen Dorfs Maries und entwickelte sich rund um Fischerei und Hafenleben. Die eng aneinanderstehenden älteren Häuser werden in lokalen Darstellungen mit dem Schutz vor Piratenüberfällen in Verbindung gebracht. Einzelne dekorative Elemente an Balkonen erinnern an die traditionelle Bauweise. Historische Berichte erwähnen außerdem Verbindungen zu Klöstern auf dem Berg Athos und frühere klösterliche Besitztümer in der Gegend.",
+      "local_character": "Ein überschaubares Dorf mit Fischerbooten, schmalen Gassen, kleinen Geschäften und Tavernen am Wasser. Die drei Buchten bringen Abwechslung, ohne dass die Atmosphäre eines großen Ferienorts entsteht. Inseltypisches Olivenöl, Honig und der Alltag im Hafen ergänzen das Bild.",
+      "what_to_do": "Spazieren Sie entlang der öffentlichen Uferwege, betrachten Sie die Fischerboote und fotografieren Sie die älteren Häuser. Platanes bietet einen offeneren nördlichen Strand, Limanaki einen Platz nahe dem Dorfzentrum und Atspas eine kleine Sandbucht; wählen Sie je nach Seegang und Einstieg. Genießen Sie ein Abendessen am Wasser und den Sonnenuntergang. Für einen weiteren Ausflug bieten sich das Bergdorf Maries oder Limenaria an.",
+      "practical_tips": "Die Parkmöglichkeiten in den engen Dorfstraßen sind begrenzt und die kleinen Buchten können im Hochsommer voll werden. Zwischen den Stränden gibt es Steigungen, Stufen und Straßenverkehr; private Zufahrten bitte freihalten. Baden Sie nicht im Manövrierbereich der Boote. Preise und Regeln für Liegen sowie Öffnungszeiten von Geschäften, Apotheken und Tavernen sind jeweils vor Ort zu prüfen. Busfahrpläne ändern sich saisonal und sollten aktuell nachgesehen werden. Der kleine Hafen ist kein Fährhafen für Passagiere.",
+      "highlights": [
+        "Drei getrennte Buchten: Platanes, Limanaki und Atspas",
+        "Kleiner Fischerhafen mit Tavernen direkt am Meer",
+        "Traditionelle Häuser und verwinkelte Gassen",
+        "Abendlicht und Sonnenuntergänge an der Westküste",
+        "Ausflüge nach Limenaria und ins Bergdorf Maries"
+      ],
+      "seo_title": "Skala Maries Thassos – Fischerdorf, 3 Strände & Sonnenuntergang",
+      "seo_description": "Skala Maries auf Thassos entdecken: Fischerhafen, Platanes, Limanaki und Atspas, Tavernen am Meer sowie praktische Tipps zur Anreise.",
+      "social_caption": "🌅 Skala Maries auf Thassos: ein charmantes Fischerdorf, drei unterschiedliche Buchten und Abendessen direkt am Meer. ⚓ Platanes, Limanaki und Atspas! 🇬🇷 #Thassos #SkalaMaries #Griechenland",
+      "photo_alt": "Fischerdorf Skala Maries auf Thassos mit kleinen Booten im Hafen, dicht gebauten Küstenhäusern und der zentralen Bucht."
+    },
+    "bg": {
+      "name": "Скала Мариес (Скала Марион)",
+      "tagline": "Рибарско селище с три залива и красиви залези над Егейско море",
+      "summary": "Скала Мариес е спокойно крайбрежно селище в югозападната част на Тасос, с малко рибарско пристанище и три отделни залива: Платанес, централния Лиманаки и Ацпас. Таверните до морето, традиционните къщи и вечерните гледки създават приятна ваканционна атмосфера.",
+      "description": "В Скала Мариес почивката следва ритъма на малко рибарско селище: лодки на пристанището, маси край водата и тесни улички между близко построени къщи. Селището се намира на югозападния бряг на Тасос и въпреки развитието на студиа, стаи и малки места за настаняване е запазило много от местния си характер. Най-голямото му предимство са трите близки, но различни залива. На север е Платанес – по-открит плаж с фин пясък и дребни камъчета на места. В центъра е малкият плаж Скала Мариес, известен и като Лиманаки, непосредствено до пристанището на рибарските лодки. На юг се намира Ацпас, наричан понякога Sugar Beach – компактен пясъчен залив, чието влизане във водата често се описва като по-плавно. Условията за къпане обаче се различават между заливите, а зоната на движещите се лодки не е място за плуване. Разходката из старите улички разкрива традиционни къщи, интересни балкони и гледки към морето. Вечеря с риба, морски дарове или гръцки мезета в крайбрежна таверна е естествена част от деня. Благодарение на западното изложение следобедната светлина е особено приятна, а залезите са запомнящи се. За разнообразие може да се направи отделна екскурзия до планинското село Мариес и района на манастира Панагуда; това не е същото населено място като крайбрежната Скала Мариес. Мястото е подходящо за хора, които търсят по-спокойна атмосфера и възможност да избират между няколко плажа в близост.",
+      "history_culture": "Скала Мариес е крайбрежното селище, исторически свързано с планинското село Мариес. Риболовът и малкото пристанище са част от местната традиция. Близко построените стари къщи се свързват в местните разкази със стремежа към защита от пиратски нападения, а някои архитектурни детайли са запазени. Исторически извори споменават и връзки с манастири от Света гора и техни някогашни имоти в района.",
+      "local_character": "Малко крайбрежно селище с рибарски лодки, тесни улици, семейни места за настаняване, магазинчета и таверни край водата. Трите залива придават разнообразие, без атмосферата на голям курорт. Зехтинът, медът и морските продукти са част от местния облик.",
+      "what_to_do": "Разходете се по обществените крайбрежни пътеки, снимайте лодките и старите къщи. Изберете Платанес за по-открит плаж, Лиманаки за кратко къпане близо до центъра или Ацпас за малък пясъчен залив според условията на морето. Хапнете край водата и останете за залеза. В друг ден може да посетите планинското село Мариес или Лименария.",
+      "practical_tips": "Паркирането по тесните улици е ограничено, особено през юли и август, а малките плажове се запълват бързо. Между заливите може да има наклони, стъпала и участъци с автомобили. Не плувайте в зоната за маневриране на лодките. Проверявайте правилата за шезлонги и актуалното работно време на магазините, аптеката и таверните. Автобусните разписания се променят сезонно и трябва да се потвърждават от актуален източник. Местното рибарско пристанище не обслужва пътнически фериботи.",
+      "highlights": [
+        "Три отделни залива: Платанес, Лиманаки и Ацпас",
+        "Малко рибарско пристанище и таверни до морето",
+        "Традиционни къщи и тесни улички",
+        "Красиви залези на западния бряг",
+        "Възможности за екскурзии до Лименария и планинското Мариес"
+      ],
+      "seo_title": "Скала Мариес, Тасос – рибарско село, 3 плажа и залези",
+      "seo_description": "Открийте Скала Мариес на Тасос: пристанище, плажовете Платанес, Лиманаки и Ацпас, таверни, достъп и съвети за почивка.",
+      "social_caption": "🌅 Скала Мариес, Тасос: уютно рибарско селище, три различни залива и вечери край морето. ⚓ Платанес, Лиманаки и Ацпас ви очакват! 🇬🇷 #Тасос #СкалаМариес #Гърция",
+      "photo_alt": "Рибарското селище Скала Мариес на Тасос с малко пристанище, къщи до брега и централния морски залив."
+    },
+    "sr": {
+      "name": "Skala Maries (Skala Marion)",
+      "tagline": "Ribarsko selo sa tri uvale i lepim zalascima sunca nad Egejskim morem",
+      "summary": "Skala Maries je mirno primorsko selo na jugozapadnoj obali Tasosa, sa malom ribarskom lukom i tri odvojene uvale: Platanes, centralnom Limanaki i Atspas. Taverne uz more, tradicionalne kuće i lepi večernji pogledi čine ga prijatnim mestom za odmor.",
+      "description": "U Skala Mariesu dan protiče u ritmu malog ribarskog mesta: čamci u luci, stolovi tik uz more i uske ulice između kuća koje stoje jedna do druge. Selo se nalazi na jugozapadnoj obali Tasosa i, iako danas nudi studije, apartmane i manje smeštajne objekte, zadržalo je mnogo od svog tradicionalnog karaktera. Posebno je zanimljivo to što se u neposrednoj blizini nalaze tri različite uvale. Severna je Platanes, otvorenija plaža sa sitnim peskom i ponekim oblutkom. U samom centru je mala plaža Skala Maries, poznata i kao Limanaki, pored ribarske luke. Južno od centra nalazi se Atspas, koji se ponekad naziva Sugar Beach, mala peščana uvala poznata po uglavnom postepenom ulasku u more. Uslovi za kupanje nisu jednaki na svim plažama, a deo luke u kome se kreću čamci nije namenjen plivanju. Vredi prošetati starim ulicama, pogledati tradicionalne kuće i detalje njihovih balkona. Ručak ili večera uz ribu, morske plodove i grčke meze u taverni pored mora deo su pravog lokalnog doživljaja. Zbog zapadne orijentacije obale popodnevna svetlost je prijatna, a zalasci sunca posebno upečatljivi. Za promenu ambijenta može se otići u planinsko selo Maries i do oblasti manastira Panagouda, ali to je drugo mesto, a ne alternativni naziv za Skala Maries. Ovaj kutak ostrva posebno prija posetiocima koji vole opušten odmor i nekoliko mogućnosti za kupanje u blizini.",
+      "history_culture": "Skala Maries je nastao kao primorsko naselje povezano sa planinskim selom Maries. Ribarstvo i mala luka obeležili su njegov svakodnevni život. Usko grupisane stare kuće u lokalnim pričama povezuju se sa zaštitom od nekadašnjih gusarskih napada, a na nekim kućama još se vide tradicionalni arhitektonski detalji. Lokalni vodiči beleže i istorijske veze sa manastirima Svete Gore i nekadašnjim manastirskim posedima u ovoj oblasti.",
+      "local_character": "Malo primorsko selo sa ribarskim čamcima, uskim ulicama, porodičnim smeštajem, radnjama i tavernama uz vodu. Tri uvale pružaju različite doživljaje bez gužve tipične za velike letovališne centre. Maslinovo ulje, med i sveža riba deo su lokalne tradicije.",
+      "what_to_do": "Prošetajte javnim delom obale, fotografišite čamce i stare kuće. Izaberite Platanes za otvoreniju severnu plažu, Limanaki za kupanje blizu centra ili Atspas za malu peščanu uvalu, u skladu sa uslovima na moru. Ručajte uz vodu i ostanite do zalaska sunca. Za poseban izlet možete krenuti ka planinskom selu Maries ili do Limenarije.",
+      "practical_tips": "Parking u uskim ulicama je ograničen, a male plaže mogu brzo da se popune leti. Između uvala postoje usponi, stepenice i delovi puta kojima prolaze automobili. Ne plivajte tamo gde čamci manevrišu u luci. Uslove za ležaljke i radno vreme prodavnica, apoteke i taverni proverite na licu mesta. Red vožnje autobusa zavisi od sezone i mora se proveriti u aktuelnom rasporedu. Ribarska luka nije pristanište putničkih trajekata.",
+      "highlights": [
+        "Tri odvojene uvale: Platanes, Limanaki i Atspas",
+        "Mala ribarska luka i taverne uz more",
+        "Tradicionalne kuće i uske ulice",
+        "Lepi zalasci sunca na zapadnoj obali",
+        "Izleti do Limenarije i planinskog sela Maries"
+      ],
+      "seo_title": "Skala Maries Tasos – ribarsko selo, 3 plaže i zalasci sunca",
+      "seo_description": "Otkrijte Skala Maries na Tasosu: ribarska luka, plaže Platanes, Limanaki i Atspas, taverne, pristup i praktični saveti.",
+      "social_caption": "🌅 Skala Maries, Tasos: šarmantno ribarsko selo, tri različite uvale i večere uz more. ⚓ Platanes, Limanaki i Atspas čekaju na vas! 🇬🇷 #Tasos #SkalaMaries #Grcka",
+      "photo_alt": "Ribarsko selo Skala Maries na Tasosu sa malom lukom, kućama uz obalu i centralnom uvalom Egejskog mora."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/skala-maries/images/skala-maries1.webp",
+    "gallery": [
+      "destinations/thassos/areas/skala-maries/images/skala-maries2.webp",
+      "destinations/thassos/areas/skala-maries/images/skala-maries3.webp",
+      "destinations/thassos/areas/skala-maries/images/skala-maries4.webp",
+      "destinations/thassos/areas/skala-maries/images/skala-maries5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/skala-maries/images/",
+    "suggested_asset_names": [
+      "skala-maries1.webp",
+      "skala-maries2.webp",
+      "skala-maries3.webp",
+      "skala-maries4.webp",
+      "skala-maries5.webp"
+    ],
+    "image_policy": "Exactly five photographs with the predetermined file names: main cover and four gallery images. Ensure each photograph depicts this area; verify ownership, publication/transfer rights and attribution. Filenames are configured in advance; image binaries have not been provided.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_mapcarta_village",
+      "kind": "openstreetmap_based_map",
+      "title": "Mapcarta — Skala Marion (OSM place=village node 280966629)",
+      "url": "https://mapcarta.com/13814186",
+      "detail": "Village centre at 40.64200,24.51526; distinct from mapped beach features. Cartographic reference, not public car access or Google Maps pin.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_thassos_village",
+      "kind": "local_tourism_guide",
+      "title": "Go Thassos — Skala Maries",
+      "url": "https://www.go-thassos.com/about-thassos/places/skala-maries",
+      "detail": "Three adjacent bays Platanes, central village beach and Atspas; small fishing harbour, local architecture, Mount Athos monastery history and sunsets.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_thassos_greek",
+      "kind": "local_tourism_guide_greek",
+      "title": "Go ΘΑΣΟΣ — Σκάλα Μαριών",
+      "url": "https://www.go-thassos.gr/gr/about-thassos/places/skala-maries",
+      "detail": "Greek-language cross-check for the three bays, architecture, former Athonite dependencies and local terminology.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_nikana_guide",
+      "kind": "tourism_guide",
+      "title": "Nikana — Skala Maries and Maries village",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/places/1964/skala-maries-and-maries-village",
+      "detail": "Independent description of harbour settlement, seaside and inland Maries distinction, small bays, tavernas, shopping and seasonal aspects; historical guide with mutable details requiring recheck.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_discover_village",
+      "kind": "tourism_guide",
+      "title": "Discover Thassos — Skala Maries village",
+      "url": "https://www.discover-thassos.com/listing/skala-maries-thassos/",
+      "detail": "Village and three-bay geography, accommodation and nearby Limenaria; promotional travel-distance claims not stored as fixed routes.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_local_guide",
+      "kind": "local_accommodation_guide",
+      "title": "Thassos Holiday — Local guide to Skala Maries",
+      "url": "https://thassosholiday.com/local-guide.html",
+      "detail": "First-hand local account of fishing boats, tavernas, shops and the relationship between Atspas, Platanes and central village beach. Current business conditions unverified.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_osm_center_beach",
+      "kind": "openstreetmap_based_map",
+      "title": "Mapcarta — Σκάλα Μαριών central beach (way 1082546627)",
+      "url": "https://mapcarta.com/W1082546627",
+      "detail": "Central beach feature mapped at 40.64264,24.51552; not the village centre and not proof of safe harbour swimming.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_osm_platanes",
+      "kind": "openstreetmap_based_map",
+      "title": "Mapcarta — Πλάτανα / Platanes beach (way 792486057)",
+      "url": "https://mapcarta.com/W792486057",
+      "detail": "Northern Platanes mapped independently around 40.64539,24.51492; not Platana Beach near Skala Rachoniou.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_osm_atspas",
+      "kind": "openstreetmap_based_map",
+      "title": "Mapcarta — Atspas Beach (way 692616793)",
+      "url": "https://mapcarta.com/W692616793",
+      "detail": "Southern Atspas independently mapped around 40.63924,24.51579; distinct bay and not an accommodation or beach bar.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_nikana_atspas",
+      "kind": "tourism_guide",
+      "title": "Nikana — Atspas / Sugar Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1938/atspas-sugar-beach",
+      "detail": "Beach-specific account of shallow sandy cove, high-season crowds and access; variable facility/pricing details intentionally excluded. Updated October 2026.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_maries_inland",
+      "kind": "local_tourism_guide",
+      "title": "Go Thassos — Maries (mountain village)",
+      "url": "https://www.go-thassos.com/about-thassos/places/maries",
+      "detail": "Documents separate inland village Maries approximately 12 km northeast of its coastal counterpart and Panagouda area.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_municipality_bus",
+      "kind": "official_transport_information",
+      "title": "Municipality of Thassos — KTEL bus schedules",
+      "url": "https://www.thassos.gr/en/dromologia-ktel/",
+      "detail": "Municipal links to current KTEL announcements and routes; consult dynamically instead of recording a fixed timetable.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_bus_2026",
+      "kind": "seasonal_transport_schedule",
+      "title": "Go Thassos — Thassos Bus Schedules & Ticket Prices (October 2026)",
+      "url": "https://www.go-thassos.com/thassos-bus-schedules-prices",
+      "detail": "October 2026 published timetable demonstrates variability by dates and day type; no fixed departures or fares embedded into area JSON.",
+      "checked_on": "2026-10-27"
+    }
+  ],
+  "editorial": {
+    "status": "researched_six_languages_completed_5_image_paths_preconfigured_pending_photo_rights_map_arrival_and_final_review",
+    "facts_checked_on": "2026-10-27",
+    "translations_written_on": "2026-10-27",
+    "coverage": "full_southwest_coastal_village_profile_six_languages_13_sources_three_bays_distinct_5_preset_webp_paths",
+    "requires_manual_review": [
+      "Confirm centre at OSM node 280966629 (40.64200,24.51526) as village reference, and separately determine exact public road arrival point, parking and safe access; do not route visitors directly to the OSM centroid.",
+      "Keep Skala Maries village separate from mountain Maries; central Skala Maries/Limanaki beach (OSM way 1082546627), northern Platanes (way 792486057), southern Atspas (way 692616793) are three distinct beach features, not synonyms.",
+      "Check that central Skala Maries beach record refers exclusively to Limanaki, while Platanes is NOT Platana near Skala Rachoniou. Confirm dedicated Atspas beach.json exists before adding any ID link; none was confirmed from the uploaded beach-record set.",
+      "Check exact pedestrian routes between the three beaches, safe swimming boundaries relative to harbour boats, depth and stone conditions and accessibility/steps.",
+      "Check current availability and public access of pharmacy, food stores, tavernas, ATMs and medical assistance against individually mapped business POIs. Do not advertise any guaranteed opening times.",
+      "Check actual parking rights and restrictions along narrow streets and at each bay; avoid promising free parking or an accessible route without local evidence.",
+      "Confirm bus stop location and current KTEL timetable from an official/current source. The local fishing harbour has no regular passenger ferry departures.",
+      "Confirm accuracy of Mount Athos monastic history and architectural descriptions with local Greek heritage materials if promoted as a dedicated historical attraction.",
+      "Add five actual locally sourced photos skala-maries1.webp through skala-maries5.webp; ensure geographical authenticity (village, harbour, different bays), verify image copyrights and necessary attribution.",
+      "Native-speaker review of RO, EN, EL, DE, BG and Serbian Latin translations and SEO before setting publish_ready true."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "Five local WebP paths are pre-assigned; image binaries were not provided and their exact location, provenance and commercial publication or transfer rights were not independently verified. No third-party photographs were downloaded."
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-limenas",
+  "slug": "limenas",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Λιμένας",
+    "international_name": "Limenas (Thassos Town)",
+    "aliases": [
+      "Thassos Town",
+      "Thasos Town",
+      "Limenas",
+      "Limenas Thasou",
+      "Λιμένας",
+      "Λιμένας Θάσου",
+      "Θάσος (πόλη)"
+    ],
+    "area_type": "seaside_town",
+    "entity_scope": "Main town and administrative centre of Thassos island, including the historic old harbour and urban amenities; not identical to Limenas Town Beach, the ferry terminal or the wider island.",
+    "deduplication_warning": "Thassos Town, Thasos, Limenas and Limenas Thasou denote the same town. Do not count Old Port, ferry port, Ancient Agora or Limenas Town Beach as separate settlements.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": true,
+    "coast": "north",
+    "part_of_island": "northern",
+    "center": {
+      "lat": 40.7782,
+      "lng": 24.70588,
+      "coordinate_role": "settlement_or_tourist_area_reference_point_not_navigation_destination",
+      "coordinate_source": "OpenStreetMap node 1704973093 via Mapcarta",
+      "coordinate_source_url": "https://mapcarta.com/13813866",
+      "verification_status": "verified_as_OSM_town_reference_point_not_navigation_or_precise_boundary",
+      "verified_on": "2026-10-27"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "Town occupies the north to northeast shoreline of Thassos. OSM town reference point is not the modern ferry terminal or the historic harbour entrance. Near-me discovery must calculate distances using individual POI coordinates."
+  },
+  "overview": {
+    "settlement_character": "island_capital_and_ferry_gateway",
+    "tourism_profile": [
+      "main_ferry_gateway",
+      "historic_town",
+      "archaeology_and_museums",
+      "waterfront_promenade",
+      "restaurants_and_shops",
+      "urban_beach_access",
+      "base_for_island_exploration"
+    ],
+    "best_time_to_visit": "May–October for outdoor sightseeing; summer for swimming and seasonal visitor services; museums and archaeological access depend on operating schedules.",
+    "peak_season_notes": "July–August can be busy around ferry arrivals, central streets and waterfront venues. Conditions differ outside the main tourist season."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "ancient_city_of_thasos",
+      "ancient_agora",
+      "archaeological_museum",
+      "ancient_theatre",
+      "acropolis_and_city_walls",
+      "old_fishing_harbour",
+      "thassian_marble_and_wine_history"
+    ],
+    "local_traditions": [
+      "fishing_harbour_culture",
+      "island_cuisine_and_evening_waterfront_strolls",
+      "traditional_house_exhibition_in_kalogeriko_when_open"
+    ],
+    "local_food_specialties": [
+      "local_olive_products",
+      "honey",
+      "fresh_fish_and_seafood",
+      "traditional_greek_meze"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "first_time_visitors",
+      "couples",
+      "families",
+      "history_lovers",
+      "food_and_shopping",
+      "walkable_town_breaks",
+      "travellers_arriving_by_ferry"
+    ],
+    "experiences": [
+      "walk_old_harbour",
+      "visit_archaeological_museum",
+      "explore_ancient_agora",
+      "view_ancient_theatre_if_access_permitted",
+      "discover_old_town_streets",
+      "enjoy_local_tavernas_and_cafes",
+      "browse_local_shops",
+      "combine_town_visit_with_nearby_beaches"
+    ],
+    "points_of_interest_summary": [
+      "Archaeological Museum of Thasos",
+      "Ancient Agora of Thasos",
+      "Ancient Theatre of Thasos",
+      "Ancient Acropolis and defensive walls",
+      "Old Harbour and Kalogeriko",
+      "Limenas Town Beach (separate beach record)"
+    ],
+    "estimated_visit_duration": "2–4 hours for town centre and waterfront; half to full day when museums/archaeological sites and meals are included.",
+    "family_suitability": "Suitable for families seeking short, flexible walks and urban services; archaeological uphill routes and summer heat require planning.",
+    "mobility_considerations": "Central waterfront includes paved paths, but historic pavements, kerbs, uneven archaeological surfaces and routes toward the theatre/acropolis may be difficult. Verified step-free routes are not asserted.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "Connected to the island coastal road network; the modern ferry port is the main gateway from Keramoti.",
+    "public_transport": "Ferry services connect Limenas with Keramoti; island bus and taxi options serve the town, but live departures and exact stops require separate verification.",
+    "parking_overview": "Town and harbour-area parking exists, but restrictions, prices and available spaces depend on season and location; do not promise free parking.",
+    "pedestrian_access": "Compact old-harbour and central commercial streets are suitable for exploring on foot, with variable surfaces.",
+    "accessibility_note": "Paved promenades do not establish step-free access to every shop, monument, museum or beach. Verify individual POI accessibility.",
+    "general_amenities": {
+      "supermarket": true,
+      "pharmacy": true,
+      "atm": true,
+      "medical_services": true,
+      "fuel_station": true,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "Take care around active ferry and fishing harbour operations; use designated pedestrian paths and cross roads carefully. Carry water in summer and assess steep/uneven ancient-site trails.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-skala-rachoniou",
+      "gr-thassos-area-pachis"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-limenas-town",
+      "gr-thassos-beach-nisteri",
+      "gr-thassos-beach-papias",
+      "gr-thassos-beach-makryammos"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "Other beaches, businesses, accommodations, attractions and services reference this area using area_id. Proximity is calculated from their own geocoordinates; featured lists are curated highlights only.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": true,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "Keramoti–Limenas is the main ferry connection. Port record IDs and live timetables belong to a future separately sourced transport database; no static departure times or ticket prices in area.json."
+  },
+  "translations": {
+    "ro": {
+      "name": "Limenas (Thassos Town)",
+      "tagline": "Poarta insulei Thassos, între portul pitoresc și istoria antică",
+      "summary": "Limenas este orașul principal al insulei Thassos și punctul de sosire pentru feriboturile din Keramoti. În jurul portului vechi se întâlnesc tavernele și promenada cu Agora antică, Muzeul Arheologic și străzi pline de viață.",
+      "description": "Limenas, cunoscut și ca Thassos Town, este locul în care mulți vizitatori descoperă pentru prima dată insula. Feriboturile sosesc în portul modern, dar farmecul orașului se simte mai ales în jurul portului vechi, unde bărcile, terasele și străzile comerciale alcătuiesc o atmosferă mediteraneeană relaxată. Limenas nu este doar o stațiune de litoral: orașul actual se suprapune cu vestigiile puternicei cetăți antice Thasos. La câțiva pași de centrul turistic poți explora Agora, poți vizita Muzeul Arheologic și poți descoperi urmele zidurilor, sanctuarelor și teatrului antic. Pentru o vizită plăcută, combină o plimbare pe faleză cu un muzeu sau un sit istoric, apoi oprește-te la o tavernă ori într-o cafenea. Orașul oferă magazine și numeroase servicii utile, fiind o bază comodă pentru explorarea părții nordice a insulei. În apropiere există și plaje, însă fiecare are propriul profil și propriul punct GPS în ecosistem. Vara centrul poate fi animat, în special la orele de sosire a feriboturilor; dimineața și spre seară plimbările sunt adesea mai plăcute.",
+      "history_culture": "Limenas ocupă zona vechiului oraș Thasos, important centru al lumii grecești antice. Agora, zidurile orașului, teatrul și sanctuarele amintesc de rolul său comercial și cultural. Muzeul Arheologic păstrează sculpturi din marmură, ceramică, inscripții și alte descoperiri din diferite epoci. În zona portului vechi, clădirea Kalogeriko este asociată cu prezentări și evenimente culturale, în funcție de program.",
+      "local_character": "Un amestec de oraș-port, patrimoniu antic, promenadă, mici magazine, taverne și viață insulară.",
+      "what_to_do": "Plimbă-te prin portul vechi, explorează Agora antică și Muzeul Arheologic, descoperă străduțele centrale, fotografiază ambarcațiunile, oprește-te la o tavernă și alege o plajă din apropiere. Pentru teatru și acropolă, verifică accesul și pregătește încălțăminte bună.",
+      "practical_tips": "Nu confunda terminalul de feribot cu portul vechi sau cu plaja orașului. Parcarea poate fi mai dificilă în sezon, iar orele și tarifele pentru obiective se verifică la sursa oficială înaintea vizitei. Pentru muzee și situri arheologice pot exista trepte, pante și suprafețe neregulate. Programul feriboturilor se actualizează separat și nu este garantat de această descriere.",
+      "highlights": [
+        "Port vechi cu promenadă și taverne",
+        "Agora și Muzeul Arheologic",
+        "Teatru antic și vestigii istorice",
+        "Magazine și servicii turistice",
+        "Acces la plaje și feribotul spre Keramoti"
+      ],
+      "seo_title": "Limenas, Thassos – port, atracții, plaje și ghid practic",
+      "seo_description": "Descoperă Limenas (Thassos Town): portul vechi, Agora, Muzeul Arheologic, plaje apropiate, restaurante și sfaturi utile de vizită.",
+      "social_caption": "⚓ Limenas, poarta insulei Thassos: bărci în portul vechi, taverne la malul mării și istorie antică la câțiva pași. 🇬🇷 #Limenas #Thassos #ExploreThassos",
+      "photo_alt": "Vedere a orașului Limenas din Thassos, cu portul, clădirile de pe faleză și marea."
+    },
+    "en": {
+      "name": "Limenas (Thassos Town)",
+      "tagline": "The island gateway where harbour life meets ancient history",
+      "summary": "Limenas is the principal town of Thassos and the arrival port for ferries from Keramoti. Around its picturesque old harbour, waterfront cafés and lively streets sit close to the Ancient Agora and Archaeological Museum.",
+      "description": "Limenas, also known as Thassos Town, is where many visitors first meet the island. Ferries arrive at the modern port, yet the town’s most atmospheric corner is the old harbour, with fishing boats, waterfront terraces and inviting streets to explore. This is much more than a convenient seaside base: today’s town stands around the remains of ancient Thasos, once an important centre of trade and culture. A short wander from the waterfront leads to the Ancient Agora and Archaeological Museum; farther around the historic landscape lie traces of defensive walls, sanctuaries and the ancient theatre. A rewarding day might pair a gentle harbour stroll with a museum or archaeological visit, followed by lunch in a traditional taverna. Shops, everyday essentials and visitor services make Limenas an easy base for exploring northern Thassos. Beaches in and around the town add opportunities for swimming, although each has its own geographic entry and access information in the wider guide. The centre can be lively in peak summer, particularly around ferry arrivals, so early mornings and evenings are appealing for unhurried walks.",
+      "history_culture": "The modern town occupies the landscape of ancient Thasos, a significant settlement in the ancient Greek world. Its Agora, city walls, sanctuaries and theatre preserve traces of that past. The Archaeological Museum presents marble sculpture, pottery, inscriptions and other finds spanning many eras. Near the old harbour, the Kalogeriko building is connected with local cultural displays and events when scheduled.",
+      "local_character": "A working ferry town and historic island capital with waterfront cafés, tavernas, small shops and ancient remains woven into daily life.",
+      "what_to_do": "Stroll around the old harbour, visit the Ancient Agora and Archaeological Museum, explore central streets, photograph the fishing boats, enjoy a waterfront meal and discover nearby beaches. Check opening and access arrangements before attempting the theatre or acropolis paths.",
+      "practical_tips": "The modern ferry terminal, old harbour and town beach are distinct places. Summer parking and traffic vary, while museum admission and hours may change. Expect steps and uneven ground at some historical sites. Ferry departures should always be checked from current official or operator information, not a static town guide.",
+      "highlights": [
+        "Picturesque old harbour and waterfront",
+        "Ancient Agora and Archaeological Museum",
+        "Ancient theatre and historic city remains",
+        "Restaurants, shops and practical services",
+        "Ferry gateway and nearby beaches"
+      ],
+      "seo_title": "Limenas Thassos Town – harbour, ancient sites & beaches",
+      "seo_description": "Explore Limenas on Thassos: old harbour, Ancient Agora, Archaeological Museum, nearby beaches, waterfront dining and useful travel tips.",
+      "social_caption": "⚓ Limenas, the gateway to Thassos: old harbour views, seaside tavernas and ancient history around the corner. 🇬🇷 #Limenas #Thassos #GreekIslands",
+      "photo_alt": "Panoramic view of Limenas on Thassos, showing the harbour, waterfront buildings and sea."
+    },
+    "el": {
+      "name": "Λιμένας (Θάσος)",
+      "tagline": "Η πύλη του νησιού, ανάμεσα στο γραφικό λιμάνι και την αρχαία ιστορία",
+      "summary": "Ο Λιμένας είναι η κύρια πόλη της Θάσου και το λιμάνι άφιξης των πλοίων από την Κεραμωτή. Γύρω από το παλιό λιμάνι, οι παραθαλάσσιες ταβέρνες και οι δρόμοι της πόλης βρίσκονται δίπλα στην Αρχαία Αγορά και το Αρχαιολογικό Μουσείο.",
+      "description": "Ο Λιμένας, γνωστός και ως πόλη της Θάσου, είναι η πρώτη εικόνα του νησιού για πολλούς ταξιδιώτες. Τα πλοία φτάνουν στο σύγχρονο λιμάνι, όμως η πιο χαρακτηριστική ατμόσφαιρα βρίσκεται γύρω από το παλιό λιμανάκι, με ψαροκάικα, καφέ, ταβέρνες και δρόμους γεμάτους ζωή. Η πόλη δεν είναι μόνο ένας βολικός παραθαλάσσιος προορισμός. Εδώ σώζονται σημαντικά ίχνη της αρχαίας Θάσου, που υπήρξε σπουδαίο εμπορικό και πολιτιστικό κέντρο. Λίγο πιο πέρα από την προκυμαία μπορεί κανείς να γνωρίσει την Αρχαία Αγορά και το Αρχαιολογικό Μουσείο, ενώ στην ευρύτερη ιστορική περιοχή βρίσκονται κατάλοιπα από τείχη, ιερά και το αρχαίο θέατρο. Μια όμορφη επίσκεψη συνδυάζει περίπατο στο παλιό λιμάνι, ιστορικά αξιοθέατα και στάση για φαγητό δίπλα στη θάλασσα. Τα καταστήματα και οι υπηρεσίες της πόλης την κάνουν πρακτική βάση για εκδρομές στη βόρεια Θάσο. Υπάρχουν επίσης κοντινές παραλίες, καθεμία με τη δική της καταχώριση και ακριβή στοιχεία πρόσβασης. Το καλοκαίρι το κέντρο έχει περισσότερη κίνηση, ιδιαίτερα τις ώρες άφιξης των πλοίων, ενώ το πρωί και το απόγευμα προσφέρονται για πιο χαλαρές βόλτες.",
+      "history_culture": "Ο σύγχρονος Λιμένας βρίσκεται στην περιοχή της αρχαίας Θάσου. Η Αγορά, τα τείχη, τα ιερά και το θέατρο μαρτυρούν την ιστορική σημασία της πόλης. Το Αρχαιολογικό Μουσείο παρουσιάζει μαρμάρινα γλυπτά, κεραμική, επιγραφές και ευρήματα από διαφορετικές περιόδους. Το Καλογερικό κοντά στο παλιό λιμάνι συνδέεται με πολιτιστικές εκθέσεις και εκδηλώσεις, όταν πραγματοποιούνται.",
+      "local_character": "Νησιωτική πρωτεύουσα με καθημερινή ζωή λιμανιού, αρχαιότητες, παραλιακό περίπατο, ταβέρνες και εμπορικά καταστήματα.",
+      "what_to_do": "Περπατήστε στο παλιό λιμάνι, επισκεφθείτε την Αρχαία Αγορά και το Αρχαιολογικό Μουσείο, εξερευνήστε το κέντρο, απολαύστε το φαγητό δίπλα στη θάλασσα και αναζητήστε τις κοντινές παραλίες. Ελέγξτε τη δυνατότητα πρόσβασης στο θέατρο και στην ακρόπολη.",
+      "practical_tips": "Το σύγχρονο λιμάνι των πλοίων, το παλιό λιμανάκι και η παραλία της πόλης είναι διαφορετικά σημεία. Το καλοκαίρι η στάθμευση μπορεί να απαιτεί χρόνο. Τα ωράρια και οι τιμές των μουσείων μεταβάλλονται. Στους αρχαιολογικούς χώρους υπάρχουν ανηφόρες και ανώμαλα σημεία. Για τα δρομολόγια πλοίων χρησιμοποιείτε τις πιο πρόσφατες ανακοινώσεις.",
+      "highlights": [
+        "Παλιό λιμάνι με περίπατο και ταβέρνες",
+        "Αρχαία Αγορά και Αρχαιολογικό Μουσείο",
+        "Αρχαίο θέατρο και ιστορικά κατάλοιπα",
+        "Καταστήματα και χρήσιμες υπηρεσίες",
+        "Σύνδεση με Κεραμωτή και κοντινές παραλίες"
+      ],
+      "seo_title": "Λιμένας Θάσου – λιμάνι, αρχαιότητες και παραλίες",
+      "seo_description": "Ανακαλύψτε τον Λιμένα Θάσου: παλιό λιμάνι, Αρχαία Αγορά, Αρχαιολογικό Μουσείο, κοντινές παραλίες και πρακτικές συμβουλές.",
+      "social_caption": "⚓ Λιμένας Θάσου: γραφικό παλιό λιμάνι, παραθαλάσσιες ταβέρνες και ιστορία σε κάθε γωνιά. 🇬🇷 #Θάσος #Λιμένας #Ελλάδα",
+      "photo_alt": "Πανοραμική άποψη του Λιμένα Θάσου με το λιμάνι, τα παραθαλάσσια κτίρια και τη θάλασσα."
+    },
+    "de": {
+      "name": "Limenas (Thassos-Stadt)",
+      "tagline": "Das Tor zur Insel zwischen Hafenflair und antiker Geschichte",
+      "summary": "Limenas ist der Hauptort von Thassos und Ankunftshafen der Fähren aus Keramoti. Am malerischen alten Hafen liegen Tavernen und Geschäfte nur wenige Schritte von der antiken Agora und dem Archäologischen Museum entfernt.",
+      "description": "Limenas, auch Thassos-Stadt genannt, ist für viele Reisende der erste Ort auf der Insel. Die Fähren legen am modernen Hafen an, doch die besondere Atmosphäre erlebt man rund um den alten Hafen mit Fischerbooten, Cafés, Tavernen und lebhaften Gassen. Limenas ist mehr als ein praktischer Badeort: Die heutige Stadt liegt auf dem Gebiet des antiken Thasos, einst ein bedeutendes Handels- und Kulturzentrum. Unweit der Uferpromenade befinden sich die antike Agora und das Archäologische Museum. In der weiteren Umgebung erinnern Mauern, Heiligtümer und das antike Theater an die lange Geschichte. Ein abwechslungsreicher Besuch verbindet einen Spaziergang am alten Hafen mit einem Museum oder einer Ausgrabungsstätte und einem gemütlichen Essen am Wasser. Geschäfte, Restaurants und Alltagsangebote machen Limenas zu einem guten Ausgangspunkt für Ausflüge im Norden von Thassos. Auch Strände liegen in der Nähe; sie werden im Reiseführer jeweils gesondert mit ihren eigenen Standorten beschrieben. Im Hochsommer kann es besonders bei Fährankünften lebhaft werden. Am Morgen und am Abend lässt sich die Stadt häufig entspannter erkunden.",
+      "history_culture": "Die moderne Stadt liegt im Gebiet des antiken Thasos. Agora, Stadtmauern, Heiligtümer und Theater erinnern an dessen Geschichte. Das Archäologische Museum zeigt Marmorskulpturen, Keramik, Inschriften und Funde aus verschiedenen Epochen. Das Kalogeriko am alten Hafen wird bei entsprechenden Veranstaltungen für kulturelle Ausstellungen genutzt.",
+      "local_character": "Lebendige Hafenstadt mit antiken Zeugnissen, Uferpromenade, Tavernen, Geschäften und typisch griechischem Inselalltag.",
+      "what_to_do": "Am alten Hafen spazieren, die antike Agora und das Archäologische Museum besuchen, durch die Einkaufsstraßen bummeln, Boote fotografieren, am Wasser essen und nahe Strände entdecken. Den Zugang zu Theater und Akropolis vorher prüfen.",
+      "practical_tips": "Fährhafen, alter Hafen und Stadtstrand sind verschiedene Orte. Im Sommer kann Parken schwierig sein. Museumszeiten und Eintrittspreise vorab offiziell prüfen. An antiken Stätten sind Treppen, Steigungen und unebener Boden möglich. Fährzeiten gehören in einen aktuellen Fahrplan und nicht in diesen statischen Ortsführer.",
+      "highlights": [
+        "Malerischer alter Hafen mit Promenade",
+        "Antike Agora und Archäologisches Museum",
+        "Antikes Theater und historische Überreste",
+        "Restaurants, Geschäfte und Dienstleistungen",
+        "Fährverbindung und Strände in der Nähe"
+      ],
+      "seo_title": "Limenas Thassos – Hafen, Sehenswürdigkeiten und Strände",
+      "seo_description": "Limenas auf Thassos erleben: alter Hafen, antike Agora, Archäologisches Museum, nahe Strände, Tavernen und praktische Reisetipps.",
+      "social_caption": "⚓ Limenas auf Thassos: alter Hafen, Tavernen am Meer und antike Geschichte direkt nebenan. 🇬🇷 #Limenas #Thassos #Griechenland",
+      "photo_alt": "Blick auf Limenas auf Thassos mit Hafen, Uferhäusern und Meer."
+    },
+    "bg": {
+      "name": "Лименас (град Тасос)",
+      "tagline": "Вратата към острова, където пристанищният чар среща античната история",
+      "summary": "Лименас е главният град на Тасос и пристанището за фериботите от Керамоти. Около старото пристанище се намират таверни, кафенета и магазини, а античната Агора и Археологическият музей са съвсем близо.",
+      "description": "Лименас, известен и като град Тасос, е първата спирка на острова за много пътешественици. Фериботите пристигат на съвременното пристанище, но най-характерната атмосфера се усеща около старото пристанище с рибарски лодки, заведения край морето и оживени улички. Градът не е само удобна отправна точка за почивка: тук се намират останки от древния Тасос, важен център на търговията и културата. Недалеч от крайбрежната алея могат да се посетят Античната агора и Археологическият музей, а в околната историческа зона личат следи от крепостни стени, светилища и античния театър. Приятната разходка съчетава старото пристанище, културна забележителност и почивка в таверна с гледка към морето. Магазините, ресторантите и полезните услуги превръщат Лименас в практична база за разглеждане на северната част на острова. В близост има и плажове, всеки със собствено местоположение и информация за достъпа в туристическия каталог. През лятото центърът може да бъде оживен, особено около пристигането на фериботите, докато сутрин и привечер разходките са по-спокойни.",
+      "history_culture": "Съвременният Лименас се намира върху територията на древния Тасос. Агората, крепостните стени, светилищата и театърът свидетелстват за значението на античния град. Археологическият музей представя мраморни скулптури, керамика, надписи и находки от различни епохи. Сградата Калоджерико край старото пристанище е свързана с местни културни изложби и събития.",
+      "local_character": "Островен град с активно пристанище, исторически обекти, крайбрежна алея, таверни, кафенета и магазини.",
+      "what_to_do": "Разходете се из старото пристанище, посетете Античната агора и Археологическия музей, разгледайте централните улици, снимайте лодките, опитайте местна кухня и посетете близките плажове. Проверете достъпа до театъра и акропола.",
+      "practical_tips": "Фериботното пристанище, старото пристанище и градският плаж са отделни места. Паркирането през лятото може да отнеме време. Работното време и входните такси на музеите подлежат на промяна. Археологическите обекти може да включват стълби и неравен терен. Проверявайте актуалните фериботни разписания от надежден източник.",
+      "highlights": [
+        "Старо пристанище и крайбрежни таверни",
+        "Антична агора и Археологически музей",
+        "Античен театър и исторически останки",
+        "Магазини и полезни туристически услуги",
+        "Фериботна връзка и близки плажове"
+      ],
+      "seo_title": "Лименас, Тасос – пристанище, забележителности и плажове",
+      "seo_description": "Разгледайте Лименас на Тасос: старо пристанище, Антична агора, Археологически музей, близки плажове и съвети за посещение.",
+      "social_caption": "⚓ Лименас, входът към Тасос: старо пристанище, таверни край морето и древна история. 🇬🇷 #Тасос #Лименас #Гърция",
+      "photo_alt": "Панорамна гледка към Лименас на Тасос с пристанище, крайбрежни сгради и море."
+    },
+    "sr": {
+      "name": "Limenas (grad Tasos)",
+      "tagline": "Kapija ostrva gde se lučki ambijent susreće sa antičkom istorijom",
+      "summary": "Limenas je glavni grad Tasosa i luka u koju stižu trajekti iz Keramotija. Oko slikovite stare luke nalaze se taverne, kafići i prodavnice, a antička Agora i Arheološki muzej su u neposrednoj blizini.",
+      "description": "Limenas, poznat i kao grad Tasos, mnogim putnicima je prvi susret sa ostrvom. Trajekti pristaju u savremenoj luci, ali pravi šarm mesta oseća se oko stare luke, uz ribarske čamce, lokale pored mora i živopisne ulice. Limenas je više od praktične turističke baze: današnji grad nalazi se na području antičkog Tasosa, nekada značajnog trgovačkog i kulturnog centra. Nedaleko od šetališta mogu se obići antička Agora i Arheološki muzej, dok se u okolini nalaze ostaci gradskih zidina, svetilišta i antičkog pozorišta. Lep dan ovde može da spoji laganu šetnju oko stare luke, posetu muzeju ili arheološkom nalazištu i odmor u taverni uz more. Prodavnice, restorani i korisne usluge čine Limenas pogodnim polazištem za obilazak severnog dela ostrva. U blizini su i plaže, ali svaka ima svoj poseban zapis sa koordinatama i savetima za pristup. Tokom vrhunca leta centar je življi, posebno kada stižu trajekti, dok su jutro i predveče često prijatniji za mirne šetnje.",
+      "history_culture": "Savremeni Limenas nalazi se na prostoru antičkog Tasosa. Agora, gradske zidine, svetilišta i pozorište svedoče o njegovoj prošlosti. Arheološki muzej čuva mermerne skulpture, keramiku, natpise i predmete iz različitih epoha. Zgrada Kalogeriko kraj stare luke povezana je sa kulturnim izložbama i događajima kada se organizuju.",
+      "local_character": "Živ grad-luka sa antičkim nasleđem, obalnim šetalištem, tavernama, kafićima, prodavnicama i svakodnevnim ostrvskim životom.",
+      "what_to_do": "Prošetajte starom lukom, posetite antičku Agoru i Arheološki muzej, istražite centar, fotografišite brodove, uživajte u ručku pored mora i otkrijte obližnje plaže. Pre obilaska pozorišta i akropolja proverite pristup.",
+      "practical_tips": "Trajektna luka, stara luka i gradska plaža nisu isto mesto. Leti parking može biti zauzet. Radno vreme muzeja i cene ulaznica proverite na zvaničnim stranicama. Na arheološkim lokalitetima ima uspona i neravnog tla. Red vožnje trajekata uvek proverite iz aktuelnih informacija.",
+      "highlights": [
+        "Stara luka sa šetalištem i tavernama",
+        "Antička Agora i Arheološki muzej",
+        "Antičko pozorište i istorijski ostaci",
+        "Prodavnice i korisne usluge",
+        "Trajektna veza i obližnje plaže"
+      ],
+      "seo_title": "Limenas Tasos – luka, znamenitosti i plaže",
+      "seo_description": "Otkrijte Limenas na Tasosu: staru luku, antičku Agoru, Arheološki muzej, obližnje plaže, restorane i praktične savete.",
+      "social_caption": "⚓ Limenas, kapija Tasosa: stara luka, taverne uz more i antička istorija na svakom koraku. 🇬🇷 #Tasos #Limenas #Grcka",
+      "photo_alt": "Panoramski pogled na Limenas na Tasosu sa lukom, obalnim zgradama i morem."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/limenas/images/limenas1.webp",
+    "gallery": [
+      "destinations/thassos/areas/limenas/images/limenas2.webp",
+      "destinations/thassos/areas/limenas/images/limenas3.webp",
+      "destinations/thassos/areas/limenas/images/limenas4.webp",
+      "destinations/thassos/areas/limenas/images/limenas5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/limenas/images/",
+    "suggested_asset_names": [
+      "limenas1.webp",
+      "limenas2.webp",
+      "limenas3.webp",
+      "limenas4.webp",
+      "limenas5.webp"
+    ],
+    "image_policy": "Exactly five photographs with the predetermined file names: main cover and four gallery images. Ensure each photograph depicts this area; verify ownership, publication/transfer rights and attribution. Filenames are configured in advance; image binaries have not been provided.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_osm_town",
+      "kind": "openstreetmap_town_node",
+      "title": "Mapcarta / OpenStreetMap – Thassos town node 1704973093",
+      "url": "https://mapcarta.com/13813866",
+      "detail": "Town reference point 40.7782,24.70588; OSM place=town, not a harbour entrance or driving target.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_limenas",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos – Limenas",
+      "url": "https://www.go-thassos.gr/about-thassos/places/limenas",
+      "detail": "Principal island town, port from Keramoti, old harbour, shopping, restaurants, beaches, tourism and historic character.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_visitgreece_museum",
+      "kind": "official_tourism",
+      "title": "Visit Greece – Archaeological Museum of Thasos",
+      "url": "https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/archaeological-museum-of-thasos",
+      "detail": "Archaeological Museum beside ancient Agora, major exhibits and historical context. Admission and opening times intentionally not copied as static facts.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_municipality_history",
+      "kind": "municipality_official",
+      "title": "Municipality of Thassos – Brief Historical Overview",
+      "url": "https://www.thassos.gr/en/dimos/thasos-syntomi-istoriki-anaskopisi/",
+      "detail": "Overview of ancient Thasos, Agora, walls, theatre, museum and cultural heritage.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_culture",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos – Things to Do",
+      "url": "https://www.go-thassos.gr/about-thassos/things-to-do-on-thassos",
+      "detail": "Ancient Agora, theatre, acropolis, old city walls, traditional-house exhibition at Kalogeriko.",
+      "checked_on": "2026-10-27"
+    }
+  ],
+  "editorial": {
+    "status": "researched_six_languages_completed_media_paths_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-27",
+    "translations_written_on": "2026-10-27",
+    "coverage": "complete_area_profile_six_languages_five_image_paths_source_backed_town_center",
+    "requires_manual_review": [
+      "Confirm separately a safe public parking/arrival coordinate and specific passenger ferry terminal; current coordinate is the OSM town centre reference, not a navigable entrance.",
+      "Verify availability, hours, fees and accessibility of archaeological museum, Agora, theatre, Kalogeriko and all related POIs before displaying live visitor status.",
+      "Verify local transport stops, current ferry routes and live sailings in their own transport dataset.",
+      "Check featured beach IDs against real registered beach JSON inventory, and do not assume all are within walking distance.",
+      "Obtain and inspect five appropriately licensed local WebP photographs matching Limenas; paths are configured but binary files and rights are not verified.",
+      "Review all six translations with native speakers and check localized metadata before publication."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "Five predetermined WebP paths are present; image files, exact photographic identity and commercial/transfer rights have not been checked."
+  }
+}

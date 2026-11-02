@@ -1,0 +1,364 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-pepe",
+  "slug": "pepe",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": null,
+    "international_name": "Pepe Beach",
+    "aliases": [
+      "Pepe Beach Thassos",
+      "Pepe Beach Limenaria",
+      "Pepe Beach Pefkari",
+      "Παραλία Πέπε (unofficial Greek rendering)",
+      "Metalia Beach II (possible third-party label, unconfirmed alias)"
+    ],
+    "entity_scope": "A small natural swimming cove/shoreline point on the rocky coast between Metalia and Pefkari, southeast of Limenaria. Reference coordinates submitted by the user: 40.62227061254622, 24.589025720992424. The exact footprint of the named cove is pending geographic review.",
+    "deduplication_warning": "Do not confuse with the main Metalia Beach farther west, main Pefkari Beach farther east, a nearby informal naturist cove or resort-operated beach sections. An independent beach directory titled Metalia Beach II contains reviews explicitly calling that place Pepe Beach; plausible alternative label but exact polygon has not been confirmed. Count as geographically distinct only after comparing shoreline boundaries against Metalia and adjacent small coves."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south / southwestern shoreline between Metalia and Pefkari, east of Limenaria",
+    "settlements": [
+      "Limenaria",
+      "Pefkari",
+      "Potos (broader area)"
+    ],
+    "lat": 40.62227061254622,
+    "lng": 24.589025720992424,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.62227061254622%2C24.589025720992424",
+    "coordinate_source_reference": "s_user_pin",
+    "coordinate_type": "user_supplied_reference_point_not_confirmed_public_access_or_beach_polygon",
+    "coordinate_review_status": "Coordinates supplied directly by user for Pepe Beach; the pin is retained as a user-provided reference, not independently verified as the Google Maps canonical beach-centre pin. Nearby source listings corroborate the name and general Limenaria-Pefkari coast, but exact shoreline footprint and access point need manual map check.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "small_cove_with_fine_pebbles_and_stony_rocky_edges_reported; exact_sand_fraction_unverified",
+    "seabed_near_shore": "pebbles_and_rocks_likely; individual_water_entry_must_be_inspected",
+    "water_entry": "uneven_rocky_or_pebbly_shallower_entry_in_places; do_not_assume_sand_or_safe_access",
+    "nearshore_depth": "variable_not_measured",
+    "water_clarity": "usually_reported_clear_in_good_conditions; variable_by_weather",
+    "wave_conditions": "weather_and_wind_dependent_rocky_coast",
+    "exposure": "small_open_south_coast_cove_between_rocky_headlands",
+    "natural_shade_on_sand": "not_confirmed; vegetation_on_upper_slopes_does_not_guarantee_shade",
+    "beach_length_m": null,
+    "length_note": "A beach-directory entry possibly referring to Pepe Beach describes a roughly 24 m small cove, but precise identity and shoreline limits have not been independently matched; length deliberately left null.",
+    "backdrop": "rocky shoreline and green Mediterranean coastal slopes along the Limenaria-Pefkari walking area",
+    "shoreline_type": "very_small_natural_pocket_beach_or_stony_cove"
+  },
+  "visitor_experience": {
+    "organization": "small_unserviced_natural_cove_reported; no_confirmed_beach_operator",
+    "suitable_for": [
+      "visitors_seeking_small_natural_coves",
+      "sure_footed_walkers",
+      "experienced_swimmers_in_calm_conditions",
+      "careful_snorkelers",
+      "coastal_photography"
+    ],
+    "notable_for": [
+      "small_secluded_shore",
+      "limenaria_pefkari_coastal_path",
+      "pebbles_and_rocky_edges",
+      "usually_clear_water",
+      "limited_services",
+      "name_pepe_beach_on_map_directories"
+    ],
+    "activities_possible": [
+      "swimming_if_conditions_allow",
+      "careful_snorkeling",
+      "nature_photography",
+      "short_coastal_exploration"
+    ],
+    "estimated_crowd_peak": "no_reliable_seasonal_counts; limited_space_can_fill_quickly",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Some accounts of the small coves here describe steep or rocky descents. There may be loose stones, slippery wet rocks and uneven footing near the sea. Check the path and sea conditions on site, avoid cliff jumping, do not assume lifeguards or rescue support, and supervise children. No route through private land should be presumed."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": null,
+      "seasonal": null
+    },
+    "umbrellas": {
+      "available_in_some_sections": null,
+      "seasonal": null
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "No confirmed publicly accessible toilets at the exact small cove; facilities on nearby organized beaches do not count here."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "No independently verified shower at the named small cove."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": null,
+    "cafes_nearby": null,
+    "parking_nearby": null,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": null,
+    "lifeguard": null,
+    "lifeguard_note": "No credible confirmation of an on-duty lifeguard at this small cove. Never infer coverage from Metalia or Pefkari.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Rocky/steep paths are reported for this part of the coast; accessible public entry and beach equipment are not confirmed.",
+    "free_unserviced_space": null,
+    "facilities_scope": "There is no reliable evidence that loungers, umbrellas, toilets, showers, lifeguard or retail service belong to this specific cove. A directory entry potentially matching Pepe describes an unserviced beach; keep all uncertain facility flags null pending on-site verification."
+  },
+  "access_and_cost": {
+    "road_access": "via_limenaria_pefkari_area_then_coastal_walking_trail; exact_safe_trailhead_unverified",
+    "public_transport": null,
+    "parking_type": "no_verified_dedicated_beach_parking; park_legally_at_confirmed_public_spaces_before_walking",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "No confirmed commercial lounger operator at Pepe Beach; do not infer a fee or a free service.",
+    "best_arrival_advice": "Check the user-supplied reference point against the coast and identify a lawful footpath before departure. Take grippy shoes for uneven rock, water shoes for stones, sufficient drinking water and sun protection. Avoid attempting an unknown descent at dusk, in rain, or with limited mobility; never park where access is restricted.",
+    "distance_from_limenas_km": null,
+    "distance_note": "No route-verified road or walking distance from Limenas. Distances to the neighboring beaches differ by path and must not be inferred from straight-line spacing."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Retrieve current conditions dynamically and do not claim water-quality awards or guaranteed services for this cove based on nearby sites."
+  },
+  "translations": {
+    "ro": {
+      "name": "Pepe Beach",
+      "tagline": "Un mic golf natural între Metalia și Pefkari",
+      "summary": "Pepe Beach este un mic punct de coastă pentru baie între Limenaria și Pefkari, într-o zonă cu stânci, pietricele și poteci pe lângă mare. Este diferită de plajele principale Metalia și Pefkari și se adresează celor care caută locuri mai retrase, fără facilități garantate.",
+      "description": "Pepe Beach se află pe porțiunea de coastă mai puțin amenajată dintre Metalia și Pefkari, la est de Limenaria. Spre deosebire de plajele mari, cu acces rutier și rânduri de șezlonguri, aici experiența este legată de un golfuleț natural, de stâncile de la marginea mării și de descoperirea unor locuri mici, departe de zona turistică aglomerată. Numele Pepe Beach apare pe hărți și în directoare turistice; un alt catalog de plaje folosește denumirea Metalia Beach II pentru un golf din aceeași vecinătate, dar identitatea exactă a celor două puncte necesită încă o verificare a hărții. Peisajul combină pietricele, porțiuni cu rocă și vegetația mediteraneană de pe pante. În zilele cu mare liniștită, apa poate fi limpede și tentantă pentru o scurtă baie sau pentru explorare atentă cu masca, însă intrarea în apă nu trebuie considerată lină ori lipsită de pietre. Drumul de coastă dintre Limenaria și Pefkari trece printr-un relief cu mici golfuri și poteci; accesul efectiv la Pepe poate include o coborâre pe teren denivelat. Nu există o confirmare sigură a toaletelor, dușurilor, șezlongurilor sau serviciilor de salvamar la acest punct precis. Tocmai dimensiunile mici și caracterul natural pot face locul atrăgător pentru cei care preferă explorarea lentă, dar cer mai multă pregătire decât o plajă amenajată. Plaja principală Metalia, aflată mai spre Limenaria, și Pefkari, aflată mai spre est, sunt locații distincte și nu trebuie confundate cu acest golfuleț.",
+      "practical_tips": "Folosește coordonatele de referință pentru a identifica zona, nu drept garanție că există intrare auto până la apă. Verifică traseul pietonal și posibilitatea de parcare legală înainte să pornești. Poartă pantofi cu talpă aderentă pentru potecile și pietrele de pe mal, iar pentru înot sunt utile încălțările de apă. Ia apă, protecție solară și tot ce îți trebuie; nu conta pe șezlonguri, toalete, bar sau salvamar. Evită coborârile pe stânci instabile și nu intra în mare dacă sunt valuri sau curenți puternici. Pentru copii mici ori persoane cu mobilitate redusă, caută un sector cu acces confirmat.",
+      "highlights": [
+        "Golfuleț natural între Metalia și Pefkari",
+        "Țărm mic, cu pietricele și stânci",
+        "Peisaj potrivit pentru explorare și fotografii",
+        "Posibil snorkeling cu prudență pe mare calmă",
+        "Accesul pietonal și facilitățile trebuie verificate"
+      ],
+      "seo_title": "Pepe Beach Thassos – golf ascuns, localizare și acces",
+      "seo_description": "Descoperă Pepe Beach între Metalia și Pefkari, Thassos: un mic golf natural, cu pietricele, stânci, traseu pietonal și sfaturi practice.",
+      "social_caption": "🌊 Pepe Beach, Thassos: un golfuleț discret pe coasta dintre Metalia și Pefkari, cu stânci, pietricele și mare albastră. 🥾 Verifică poteca și vino pregătit pentru o plajă naturală! #Thassos #PepeBeach #ExploreThassos",
+      "photo_alt": "Mică zonă de plajă Pepe Beach pe coasta dintre Metalia și Pefkari, cu pietricele, stânci și mare albastră."
+    },
+    "en": {
+      "name": "Pepe Beach",
+      "tagline": "A quiet natural pocket cove between Metalia and Pefkari",
+      "summary": "Pepe Beach is a small coastal swimming spot between Limenaria and Pefkari on the southern side of Thassos. Pebbles, rocky edges and coastal walking paths give it a less developed character than the main Metalia and Pefkari beaches, with no amenities that can be relied upon.",
+      "description": "Pepe Beach lies along the less developed coastal stretch between Metalia and Pefkari, east of Limenaria on the southern side of Thassos. Rather than a broad sandy resort beach, this is a small shore encountered among rocky slopes, short coves and the walking route between the neighbouring seaside areas. Its name appears on map services and travel directories, while another beach directory uses the label Metalia Beach II for a small cove in roughly the same area. A visitor review explicitly refers to that location as Pepe Beach, although the precise equivalence and shoreline boundaries still need independent map confirmation. The landscape is best approached as a mix of pebbly ground, rocky margins and Mediterranean vegetation above the water. When the sea is calm, clear-looking water can make this coast inviting for a short swim, careful snorkelling or photography, but the first metres may contain loose stones and uneven submerged rock. This is not a place where a smooth sand-bottom entry should be assumed. Travel guides describe attractive but irregular footpaths and small secluded inlets along the Limenaria–Pefkari coastline. The exact safe turnoff and descent to the named cove have not been verified, and nearby accommodation or beach services should not be mistaken for amenities at Pepe itself. There is no reliable confirmation of public toilets, showers, organised loungers or an on-duty lifeguard on this specific patch of shore. Visitors who enjoy discovering small natural places may find the setting appealing, provided they are comfortable checking access on the ground and bringing their own supplies. The main beaches of Metalia to the west and Pefkari to the east remain separate places.",
+      "practical_tips": "Use the supplied map point to locate the general cove, not as proof that a road reaches the water. Check the lawful walking approach and parking before leaving; some coastal paths involve steep, rocky sections. Bring grippy walking shoes, water shoes, drinking water and sun protection. Do not count on toilets, refreshments, hired umbrellas, lifeguards or mobile signal at the exact spot. Avoid unstable rock descents, cliff jumping and entering the sea in difficult weather. Families with very small children or visitors requiring step-free access should choose a confirmed accessible beach instead.",
+      "highlights": [
+        "Small natural cove between Metalia and Pefkari",
+        "Pebbly shore with rocky coastal edges",
+        "Secluded coastal walking and photography setting",
+        "Careful snorkelling in suitable calm conditions",
+        "Access route and public facilities still require verification"
+      ],
+      "seo_title": "Pepe Beach Thassos – small cove, location and access",
+      "seo_description": "Find Pepe Beach between Metalia and Pefkari on Thassos: a small natural cove, rocky entry, coastal footpaths and practical visiting advice.",
+      "social_caption": "🌊 Pepe Beach, Thassos: a tucked-away little shoreline between Metalia and Pefkari, framed by rock and the blue Aegean. 🥾 Check the footpath and bring the essentials. #Thassos #PepeBeach #GreekIslands",
+      "photo_alt": "Small Pepe Beach cove between Metalia and Pefkari on Thassos, with a pebbly shore, rocky margins and blue sea."
+    },
+    "el": {
+      "name": "Pepe Beach (ανεπίσημη ονομασία)",
+      "tagline": "Μικρός φυσικός όρμος ανάμεσα στα Μεταλλεία και το Πευκάρι",
+      "summary": "Η Pepe Beach είναι ένα μικρό παραθαλάσσιο σημείο ανάμεσα στα Λιμενάρια και το Πευκάρι, στη νότια Θάσο. Η ακτή συνδυάζει βότσαλα και βράχια, ενώ η πρόσβαση και οι παροχές χρειάζονται επιβεβαίωση πριν από την επίσκεψη.",
+      "description": "Η Pepe Beach βρίσκεται στο λιγότερο οργανωμένο τμήμα της ακτογραμμής ανάμεσα στα Μεταλλεία και το Πευκάρι, ανατολικά από τα Λιμενάρια. Δεν πρόκειται για μια μεγάλη αμμώδη παραλία με συνεχή σειρά από ξαπλώστρες, αλλά για ένα μικρό φυσικό σημείο κοντά σε βραχώδεις ακτές, μικρούς όρμους και παραθαλάσσια μονοπάτια. Η ονομασία Pepe Beach εμφανίζεται σε υπηρεσίες χαρτών και ταξιδιωτικούς καταλόγους. Ένας άλλος κατάλογος παρουσιάζει έναν μικρό όρμο της περιοχής ως Metalia Beach II και περιλαμβάνει σχόλιο επισκέπτη που τον αποκαλεί Pepe Beach. Ωστόσο, η ακριβής ταύτιση των ορίων τους δεν έχει επιβεβαιωθεί ανεξάρτητα. Το περιβάλλον χαρακτηρίζεται από βότσαλα, πέτρες και μεσογειακή βλάστηση στις πλαγιές πάνω από τη θάλασσα. Όταν επικρατεί νηνεμία, τα νερά μπορεί να είναι ιδιαίτερα διαυγή, προσφέροντας ευκαιρίες για μια σύντομη βουτιά και προσεκτική εξερεύνηση με μάσκα. Η είσοδος στο νερό όμως δεν πρέπει να θεωρείται ομαλή, καθώς μπορεί να υπάρχουν ασταθείς πέτρες και βραχώδη σημεία. Οι περιγραφές της διαδρομής Λιμενάρια–Πευκάρι αναφέρουν όμορφα μονοπάτια και μικρούς απομονωμένους όρμους, χωρίς να τεκμηριώνουν συγκεκριμένη ασφαλή κατάβαση σε αυτό ακριβώς το σημείο. Δεν έχουν επιβεβαιωθεί δημόσιες τουαλέτες, ντους, οργανωμένες ξαπλώστρες ή ναυαγοσώστης στην Pepe Beach. Η γοητεία του τόπου βρίσκεται στη φυσική ατμόσφαιρα, αρκεί ο επισκέπτης να είναι κατάλληλα προετοιμασμένος. Η κεντρική παραλία Μεταλλεία και η παραλία Πευκάρι αποτελούν ξεχωριστές ακτές και δεν πρέπει να συγχέονται με αυτόν τον μικρό όρμο.",
+      "practical_tips": "Χρησιμοποιήστε το σημείο του χάρτη για να εντοπίσετε την περιοχή, όχι ως επιβεβαίωση πρόσβασης με αυτοκίνητο. Ελέγξτε εκ των προτέρων τη νόμιμη πεζή διαδρομή και τη δυνατότητα στάθμευσης. Φορέστε σταθερά παπούτσια για το ανώμαλο έδαφος και παπούτσια θαλάσσης για τις πέτρες μέσα στο νερό. Πάρτε μαζί πόσιμο νερό, αντηλιακή προστασία και όλα τα απαραίτητα, καθώς οι υπηρεσίες δεν είναι επιβεβαιωμένες. Μην κατεβαίνετε από ασταθείς βράχους, αποφύγετε τις βουτιές από ύψος και ελέγχετε τον καιρό. Για μικρά παιδιά και άτομα με περιορισμένη κινητικότητα είναι προτιμότερη μια παραλία με επαληθευμένη εύκολη πρόσβαση.",
+      "highlights": [
+        "Μικρός όρμος ανάμεσα στα Μεταλλεία και το Πευκάρι",
+        "Βότσαλα και βραχώδεις άκρες",
+        "Φυσικό τοπίο για εξερεύνηση και φωτογραφίες",
+        "Προσεκτική χρήση μάσκας με ήρεμη θάλασσα",
+        "Η διαδρομή και οι παροχές απαιτούν τοπική επιβεβαίωση"
+      ],
+      "seo_title": "Pepe Beach Θάσος – μικρός όρμος, τοποθεσία και πρόσβαση",
+      "seo_description": "Γνωρίστε την Pepe Beach ανάμεσα στα Μεταλλεία και το Πευκάρι της Θάσου: βότσαλα, βράχια, μονοπάτια και πρακτικές συμβουλές.",
+      "social_caption": "🌊 Pepe Beach, Θάσος: ένας μικρός φυσικός όρμος ανάμεσα στα Μεταλλεία και το Πευκάρι. 🥾 Ελέγξτε τη διαδρομή και ελάτε προετοιμασμένοι! #Θάσος #PepeBeach #Ελλάδα",
+      "photo_alt": "Μικρός όρμος Pepe Beach ανάμεσα στα Μεταλλεία και το Πευκάρι στη Θάσο, με βότσαλα, βράχια και γαλάζια θάλασσα."
+    },
+    "de": {
+      "name": "Pepe Beach",
+      "tagline": "Eine kleine Naturbucht zwischen Metalia und Pefkari",
+      "summary": "Pepe Beach ist eine kleine Badestelle an der Südküste von Thassos zwischen Limenaria und Pefkari. Kiesel, Felsen und Küstenpfade prägen diese wenig erschlossene Umgebung; verlässliche öffentliche Einrichtungen sind nicht bestätigt.",
+      "description": "Pepe Beach liegt an dem ruhigeren Küstenabschnitt zwischen Metalia und Pefkari, östlich von Limenaria auf Thassos. Anders als die größeren Strände mit Zufahrtsstraßen und bewirtschafteten Flächen handelt es sich um eine kleine natürliche Badestelle zwischen felsigen Hängen und winzigen Buchten. Der Name erscheint auf digitalen Karten und in Reiseverzeichnissen. Ein weiteres Strandverzeichnis bezeichnet eine kleine Bucht derselben Gegend als Metalia Beach II und enthält einen Besucherkommentar, der ausdrücklich Pepe Beach erwähnt. Ob beide Einträge genau dieselbe Strandfläche erfassen, muss jedoch noch auf der Karte geprüft werden. Am Ufer dominieren nach den vorliegenden Beschreibungen kleine Kiesel und Steine; an den Rändern liegen Felsen, und auf den Hängen wächst mediterrane Vegetation. Bei ruhiger See kann das Wasser sehr klar wirken und zum kurzen Schwimmen, vorsichtigen Schnorcheln oder Fotografieren einladen. Der Einstieg ins Meer ist aber keinesfalls überall sandig oder eben. Lockeres Geröll, rutschige Steine und unregelmäßige Felsflächen erfordern Aufmerksamkeit. Reiseführer erwähnen einen schönen, stellenweise unebenen Küstenweg von Limenaria Richtung Pefkari sowie mehrere kleine, abgeschiedene Buchten. Der tatsächliche sichere Abzweig zu Pepe Beach und die Bedingungen für den Abstieg sind noch nicht unabhängig bestätigt. Ebenso gibt es keinen zuverlässigen Nachweis für öffentliche Toiletten, Duschen, Liegenverleih oder einen Rettungsschwimmer genau an dieser Stelle. Wer gern kleinere Naturplätze entdeckt und seine Ausrüstung selbst mitbringt, findet hier möglicherweise eine reizvolle Alternative zu den bekannteren Stränden. Der Hauptstrand Metalia liegt weiter westlich, Pefkari weiter östlich; beide dürfen nicht mit dieser kleinen Bucht gleichgesetzt werden.",
+      "practical_tips": "Nutzen Sie den angegebenen Kartenpunkt nur zur Orientierung, nicht als Zusage einer befahrbaren Zufahrt bis ans Wasser. Erkundigen Sie sich nach dem erlaubten Fußweg und legalen Parkmöglichkeiten. Für felsige Pfade empfehlen sich griffige Schuhe, für die Steine im Wasser Badeschuhe. Bringen Sie Trinkwasser, Sonnenschutz und Ihre gesamte Ausrüstung mit. Rechnen Sie nicht mit WC, Duschen, Strandbar, Sonnenliegen oder Rettungsschwimmern. Meiden Sie instabile Abstiege und Sprünge von Felsen und beurteilen Sie vor dem Baden Wind und Wellen. Für Kleinkinder oder Personen mit eingeschränkter Mobilität ist ein leicht zugänglicher Strand vorzuziehen.",
+      "highlights": [
+        "Kleine Naturbucht zwischen Metalia und Pefkari",
+        "Kies und felsige Uferbereiche",
+        "Küstenwanderung und Fotomotive",
+        "Vorsichtiges Schnorcheln bei ruhiger See",
+        "Zugang und Einrichtungen noch nicht endgültig bestätigt"
+      ],
+      "seo_title": "Pepe Beach Thassos – Naturbucht, Lage und Zugang",
+      "seo_description": "Pepe Beach zwischen Metalia und Pefkari auf Thassos: kleine Naturbucht, kieseliger Strand, felsiger Zugang und praktische Hinweise.",
+      "social_caption": "🌊 Pepe Beach auf Thassos: eine kleine Naturbucht zwischen Metalia und Pefkari mit Felsen und blauem Meer. 🥾 Den Weg vorab prüfen und gut ausgerüstet kommen! #Thassos #PepeBeach #Griechenland",
+      "photo_alt": "Kleine Pepe-Beach-Bucht zwischen Metalia und Pefkari auf Thassos mit Kieseln, Felsen und blauem Meer."
+    },
+    "bg": {
+      "name": "Плаж Пепе (Pepe Beach)",
+      "tagline": "Малко естествено заливче между Металия и Пефкари",
+      "summary": "Плаж Пепе е малко място за къпане по южния бряг на Тасос, между Лименария и Пефкари. Камъчетата, скалистите краища и крайбрежните пътеки му придават по-див характер, но удобствата и точният достъп все още не са потвърдени.",
+      "description": "Плаж Пепе се намира по по-слабо застроения бряг между Металия и Пефкари, източно от Лименария на остров Тасос. Това не е голяма курортна плажна ивица с редици чадъри, а малко естествено място сред скали, ниски заливчета и крайбрежни пътеки. Името Pepe Beach присъства в картографски услуги и туристически справочници. Друг справочник нарича малък залив в същата зона Metalia Beach II, като в публикувано мнение посетител използва името Pepe Beach. Точната връзка между тези две обозначения и границите на плажа обаче трябва да се проверят допълнително. Пейзажът съчетава дребни камъчета, каменисти участъци и средиземноморска растителност по склоновете над морето. В спокойни дни водата може да бъде много прозрачна и да предлага приятни условия за кратко плуване или внимателно гмуркане с маска. Първите метри във водата обаче не бива да се приемат за равни или изцяло песъчливи: възможни са хлъзгави камъни и неравно дъно. Местни пътеводители описват интересния крайбрежен маршрут между Лименария и Пефкари и малките по-уединени заливи по него. Не е потвърдено точно кое отклонение от пътеката осигурява безопасен обществен достъп до Пепе. Няма надеждно потвърждение за обществени тоалетни, душове, шезлонги, заведение или дежурен спасител точно тук. Мястото може да привлече любителите на по-тихи природни кътчета, които носят всичко необходимо за престоя си. Основните плажове Металия и Пефкари остават отделни места и не бива да се смесват с този малък залив.",
+      "practical_tips": "Използвайте посочените координати като ориентир, а не като доказателство за автомобилен път до водата. Проверете предварително разрешената пешеходна пътека и местата за законно паркиране. Носете стабилни обувки за скалистия терен и обувки за вода за камъните в морето. Вземете питейна вода, слънцезащита и всички необходими вещи, защото услугите не са потвърдени. Не слизайте по нестабилни скали и не скачайте от височина. Следете вятъра, вълните и децата. За хора с ограничена подвижност е по-добре да се избере плаж с проверен лесен достъп.",
+      "highlights": [
+        "Малък естествен залив между Металия и Пефкари",
+        "Брегова ивица с камъчета и скали",
+        "Живописен район за разходки и снимки",
+        "Внимателно гмуркане с маска при спокойно море",
+        "Достъпът и удобствата изискват проверка"
+      ],
+      "seo_title": "Плаж Пепе, Тасос – местоположение и достъп",
+      "seo_description": "Открийте плаж Пепе между Металия и Пефкари на Тасос: малък естествен залив, камъчета, скали, крайбрежни пътеки и съвети.",
+      "social_caption": "🌊 Плаж Пепе, Тасос: малко естествено заливче между Металия и Пефкари, със скали и бистра вода. 🥾 Проверете пътеката преди посещение! #Тасос #PepeBeach #Гърция",
+      "photo_alt": "Малкият залив на плаж Пепе между Металия и Пефкари на Тасос, с камъчета, скали и синьо море."
+    },
+    "sr": {
+      "name": "Plaža Pepe",
+      "tagline": "Mala prirodna uvala između Metalije i Pefkarija",
+      "summary": "Plaža Pepe je mali deo obale pogodan za kupanje između Limenarije i Pefkarija, na jugu Tasosa. Šljunak, kamenite ivice i obalske staze daju joj mirniji, prirodniji karakter, dok tačan prilaz i usluge još nisu pouzdano potvrđeni.",
+      "description": "Plaža Pepe nalazi se na manje uređenom delu obale između Metalije i Pefkarija, istočno od Limenarije na ostrvu Tasos. Za razliku od velikih turističkih plaža, ovo je malo prirodno kupalište među stenama, uskim uvalama i stazama koje prate more. Naziv Pepe Beach pojavljuje se na digitalnim mapama i u turističkim direktorijumima. Jedan drugi direktorijum malu uvalu u približno istoj oblasti vodi kao Metalia Beach II, a komentar posetioca izričito pominje Pepe Beach. Ipak, precizno poklapanje tih oznaka i granice uvale još nisu potvrđeni nezavisnom proverom mape. Predelom dominiraju obluci i kamenite ivice, dok se na padinama iznad obale nalazi mediteransko rastinje. Kada je more mirno, voda može biti veoma bistra i privlačna za kratko kupanje, pažljivo ronjenje s maskom ili fotografisanje. Ulaz u more nije svuda ravan i peskovit. Kamenje pod vodom, klizave stene i neravna podloga zahtevaju oprez. Turistički vodiči opisuju slikovite, ali neravne staze između Limenarije i Pefkarija, kao i nekoliko malih skrivenih uvala. Međutim, tačno skretanje i bezbedna staza do plaže Pepe nisu pouzdano potvrđeni. Za ovo konkretno mesto nema sigurnih podataka o javnim toaletima, tuševima, ležaljkama, baru ili spasiocu. Najviše će prijati posetiocima koji vole manje prirodne kutke i spremni su da ponesu svu potrebnu opremu. Glavna plaža Metalija leži zapadnije, a Pefkari istočnije, pa ih ne treba mešati sa ovom malom uvalom.",
+      "practical_tips": "Navedene koordinate koristite za orijentaciju, ne kao potvrdu da kolima možete stići do mora. Pre polaska proverite dozvoljenu pešačku stazu i legalno mesto za parkiranje. Za kamenit teren obujte stabilne patike, a za more ponesite obuću za vodu. Ponesite vodu za piće, zaštitu od sunca i sve što vam je potrebno, jer usluge na plaži nisu potvrđene. Izbegavajte nestabilne stene, skokove u vodu i kupanje kada su talasi jaki. Nadzirite decu; osobama slabije pokretljivosti i porodicama sa vrlo malom decom pogodnija je plaža sa proverenim lakim prilazom.",
+      "highlights": [
+        "Mala prirodna uvala između Metalije i Pefkarija",
+        "Šljunkovita obala i stenovite ivice",
+        "Obalske staze i lepi prizori za fotografisanje",
+        "Pažljivo ronjenje s maskom kada je more mirno",
+        "Prilaz i dostupnost usluga još se proveravaju"
+      ],
+      "seo_title": "Plaža Pepe Tasos – mala uvala, lokacija i prilaz",
+      "seo_description": "Upoznajte plažu Pepe između Metalije i Pefkarija na Tasosu: malu prirodnu uvalu, šljunak, stene, pešačke staze i praktične savete.",
+      "social_caption": "🌊 Plaža Pepe na Tasosu: mala prirodna uvala između Metalije i Pefkarija, među stenama i plavim morem. 🥾 Proverite stazu pre polaska! #Tasos #PepeBeach #Grcka",
+      "photo_alt": "Mala uvala plaže Pepe između Metalije i Pefkarija na Tasosu, sa oblucima, stenama i plavim morem."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/pepe/images/pepe1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/pepe/images/pepe2.webp",
+      "destinations/thassos/beaches/pepe/images/pepe3.webp",
+      "destinations/thassos/beaches/pepe/images/pepe4.webp",
+      "destinations/thassos/beaches/pepe/images/pepe5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/pepe/images/",
+    "suggested_asset_names": [
+      "pepe1.webp",
+      "pepe2.webp",
+      "pepe3.webp",
+      "pepe4.webp",
+      "pepe5.webp"
+    ],
+    "image_policy": "Publish only user-supplied, owned or appropriately licensed images genuinely depicting Pepe Beach between Metalia and Pefkari. Five local WebP paths were assigned from filenames visible in the user-supplied screenshot; confirm the precise photographed location, authorship, commercial publication/transfer permissions and any required attribution before publishing.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_user_pin",
+      "kind": "user_supplied_map_reference",
+      "title": "User-provided Pepe Beach coordinates",
+      "url": "https://www.google.com/maps/search/?api=1&query=40.62227061254622%2C24.589025720992424",
+      "detail": "Coordinates 40.62227061254622, 24.589025720992424 provided by the user. Not independently established as an official central beach point or public access marker.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_yandex",
+      "kind": "map_directory",
+      "title": "Yandex Maps — Pepe Beach, Thassos",
+      "url": "https://yandex.com/maps/org/pepe_beach/84206154280/",
+      "detail": "Place explicitly named Pepe Beach on Thassos, labelled as a beach; listing supplies no dependable physical, facility, public access or legal data.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_trip",
+      "kind": "travel_directory",
+      "title": "Trip.com — Pepe Beach (Thasos)",
+      "url": "https://www.trip.com/travel-guide/attraction/thasos/pepe-beach-147444070/",
+      "detail": "Independent named tourist point Pepe Beach on Thassos; descriptive material sparse, not a certification for facilities or water quality.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_metalia_ii",
+      "kind": "beach_directory",
+      "title": "BeachSearcher — Metalia Beach II near Pefkari",
+      "url": "https://beachsearcher.com/ro/beach/300207130/metalia-beach-ii",
+      "detail": "Small, pebbly, reportedly unserviced cove around 0.9 km from Pefkari. A user review explicitly asks why the place is called Pepe Beach; plausible alias/cross-reference, but exact beach polygon and 24 m length not adopted as verified Pepe facts. Reports steep/rocky approach, while other access wording is inconsistent.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_staythassos_path",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Secluded coves between Pefkari and Limenaria",
+      "url": "https://staythassos.gr/nudist-beaches-in-thassos/",
+      "detail": "Confirms several natural coastal coves and paths between Pefkari and Limenaria; describes regional walking and beach geography, not specific Pepe services, official nudist status or exact entrance.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_nikana_metalia",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Metalia Beach guide",
+      "url": "https://ns1.nikana.gr/en/tourist-guide/thassos/beaches/1924/metalia-beach",
+      "detail": "Describes the main Metalia Beach and further small wild coves, supporting careful geographic distinction; do not conflate primary Metalia services with Pepe.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_nikana_pefkari",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Pefkari Beach guide",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1920/pefkari-beach",
+      "detail": "Documents Pefkari as an organized multi-section beach, distinct from the less-serviced small coves west toward Limenaria.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_imperial_path",
+      "kind": "local_tourism_business_guide",
+      "title": "Imperial Car Rental — Potos/Pefkari coastal walking description",
+      "url": "https://www.imperial-car-rental.com/potos-car-rental",
+      "detail": "Mentions coastal walk beginning at Pepe Beach continuing toward Nude Beach and rocky coves; business-written content, does not verify public path access, beach dimensions or facilities.",
+      "checked_on": "2026-10-24"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_exact_beach_boundary_access_and_final_review",
+    "facts_checked_on": "2026-10-24",
+    "translations_written_on": "2026-10-24",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Verify that the user-supplied Pepe pin lies precisely on the intended cove and not an adjacent shoreline; mark actual pedestrian entry separately.",
+      "Resolve whether BeachSearcher label Metalia Beach II refers to exactly the same small beach as Pepe Beach, and compare polygons with the existing Metalia and Pefkari records to rule out geographic duplicate.",
+      "Confirm safe and lawful coastal footpath, steepness, any private property restrictions and legal parking from the main road.",
+      "Inspect exact shore material, wave exposure and suitability for swimming/snorkelling at the specified pin; regional photos and descriptions do not prove local conditions.",
+      "Verify current toilets, showers, services, lifeguards, accessibility and any entry conditions; no beach facility is guaranteed by the listed sources.",
+      "Confirm that pepe1.webp–pepe5.webp genuinely depict Pepe Beach at the user-supplied pin; verify the photographer, commercial image publication/transfer rights and any required attribution.",
+      "Read six-language text with native speakers prior to publishing; Greek name Pepe is not verified as a traditional official toponym."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original multilingual editorial text; commercial publishing and transfer permissions for the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths were assigned from filenames shown in the supplied screenshot. Image files are not bundled in this JSON; exact photographed locations and usage rights have not been independently verified."
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-nisteri",
+  "slug": "nisteri",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Νυστέρι",
+    "international_name": "Nisteri Beach",
+    "aliases": [
+      "Nisteri",
+      "Nisteri Beach",
+      "Nysteri Beach",
+      "Nysteri",
+      "Nisteri Thassos",
+      "Παραλία Νυστέρι",
+      "Νυστέρι",
+      "Παραλία Νιστέρι",
+      "Νιστέρι"
+    ],
+    "entity_scope": "The named Nisteri sandy shoreline on the northern/northwestern edge of Limenas (Thassos Town), by Hotel Villa Nisteri and Villa Morfeas, on the road west toward Prinos. Covers the Nisteri bathing shore only, not the neighbouring named Tarsanas or Glyfada beaches and not any private hotel-only facilities as public rights.",
+    "deduplication_warning": "Nisteri/Nysteri/Νυστέρι/Νιστέρι are transliteration variants for the same beach. Do not merge with Tarsanas east/southeast, Glyfada west, or Papalimani farther west. Nearby hotels and restaurants using Nisteri in their names are businesses, not separate beaches. Historical guide distances conflict (1–1.5 km versus 8 km from Limenas); on-the-ground route and reference origin require confirmation."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "north / northwest shore, west of Limenas toward Prinos",
+    "settlements": [
+      "Limenas (Thassos Town)",
+      "Skala Rachoni (regional direction)"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nisteri%20Beach%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_google_maps_search",
+    "coordinate_type": "unverified_exact_beach_pin_not_published",
+    "coordinate_review_status": "The beach is geographically corroborated around 40.7801 N, 24.6847 E by independent Pame Paralia. Go Thassos publishes 40.780892,24.683586 for nearby Hotel Villa Nisteri and 40.779954,24.683482 for nearby Villa Morfeas, which are PROPERTY pins, not verified Google Maps beach or public-access points. All location coordinates remain null pending exact Google Maps beach pin and access verification.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "predominantly_fine_sand_with_local_stony_patches",
+    "seabed_near_shore": "mostly_sandy_with_local_rock_slabs_or_stones_reported_at_first_metres",
+    "water_entry": "usually_gentle_sandy_sloping_with_local_rocky_patches",
+    "nearshore_depth": "generally_shallow_and_gradual_but_variable",
+    "water_clarity": "often_clear",
+    "wave_conditions": "generally_sheltered_feeling_in_calm_weather_but_north_coast_wind_dependent",
+    "exposure": "north_facing_coastal_strip_close_to_limenas",
+    "natural_shade_on_sand": "relatively_abundant_tree_and_pine_shade_along_parts_of_shore_varies_by_time",
+    "beach_length_m": null,
+    "length_note": "A travel guide suggests slightly more than 250 m, but a reliable independent shoreline measurement and exact section endpoints were not confirmed; no fixed length published.",
+    "backdrop": "pine trees, greener slopes, accommodation set back from the sand and views across the sea toward Limenas",
+    "shoreline_type": "narrow_named_sandy_strip_not_adjacent_tarsanas_or_glyfada"
+  },
+  "visitor_experience": {
+    "organization": "mixed_serviced_sections_and_open_towel_space",
+    "suitable_for": [
+      "families_with_children_under_supervision",
+      "couples",
+      "relaxed_swimming",
+      "visitors_staying_in_limenas",
+      "people_seeking_tree_shade",
+      "quiet_beach_time"
+    ],
+    "notable_for": [
+      "natural_pine_shade",
+      "mostly_sandy_shore",
+      "gentle_entry_in_many_spots",
+      "taverna_by_water",
+      "close_to_limenas",
+      "mixed_loungers_and_open_space"
+    ],
+    "activities_possible": [
+      "swimming",
+      "wading",
+      "relaxation",
+      "seaside_photography",
+      "short_shore_walk",
+      "careful_snorkeling_where_conditions_allow"
+    ],
+    "estimated_crowd_peak": "often_described_as_quieter_than_central_town_beaches_but_crowds_and_space_vary_in_peak_season",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Shallow water does not mean supervised or risk-free. Older firsthand accounts describe isolated flat stone slabs and stones in the first metres. Check each entry spot, changing wind/waves and boat activity and supervise children; lifeguard status is unverified."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Go Thassos lists WC but public access, precise provider and seasonal availability are not separately established."
+    },
+    "showers": {
+      "available_in_some_sections": true,
+      "note": "Mentioned by Go Thassos and Nikana; operating condition and whether available to non-guests requires checking."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": true,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No authoritative, beach-specific seasonal lifeguard schedule confirmed; do not label this beach as supervised.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Easy approach from road is reported, but step-free continuous access, adapted facilities, and wheelchair movement onto the sand are not verified.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Amenities, sunbeds, umbrellas, toilets and showers reported by guides may be provided by beachfront hotels or seasonal food operators. Free loungers mentioned on Villa Nisteri and Villa Morfeas property pages may be benefits for THEIR guests, not necessarily all beach visitors. Do not advertise hotel-only amenities as public beach entitlements."
+  },
+  "access_and_cost": {
+    "road_access": "near_main_paved_limenas_to_prinos_coastal_road_with_short_local_beach_approach",
+    "public_transport": "no_verified_bus_stop_at_beach; walk_from_limenas_reported_about_30_minutes_depending_on_origin_and_route",
+    "parking_type": "limited_informal_tree_shaded_or_nearby_beach_parking_reported_and_some_hotel_private_parking",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Older sources mention drink-purchase arrangements, while nearby properties advertise complimentary loungers as an accommodation amenity. Neither a current public tariff nor a universal minimum-consumption policy is verified; ask the relevant operator on arrival.",
+    "best_arrival_advice": "Approach from Limenas on the coast road toward Prinos. Confirm the public pathway and parking signage rather than turning into a hotel-only entrance. Arrive earlier in peak summer for shade and unserviced space; bring your own beach mat and sun protection, and watch for stone slabs in the shallows.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Hotel Villa Nisteri itself states about 1.5 km from Limenas; Nikana and Which Greek Island say about 1 km, while an older broad Nikana beach roundup says 8 km, apparently inconsistent with the verified neighbouring-property locations. A single navigated distance from a specific Limenas origin is not verified."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Nisteri Beach (Nysteri)",
+      "tagline": "Nisip fin și umbră de pini, la câteva minute de Limenas",
+      "summary": "Nisteri este o plajă nisipoasă de pe coasta nordică a insulei Thassos, la vest de Limenas. Intrarea în mare este în general lină, iar copacii oferă multă umbră naturală; pe anumite porțiuni există șezlonguri, umbrele și o tavernă aproape de apă.",
+      "description": "Nisteri Beach este una dintre opțiunile plăcute pentru o zi liniștită la mare atunci când te afli în Limenas, capitala insulei Thassos. Plaja se întinde pe coasta nordică, spre drumul care duce către Prinos, și se deosebește de golfulețul Tarsanas din apropiere și de Glyfada, aflată mai departe spre vest. Nisipul predomină atât pe țărm, cât și pe fundul mării, iar apa se adâncește de regulă treptat. În anumite puncte pot exista însă pietre sau porțiuni de rocă chiar la intrare, deci merită să alegi cu atenție locul în care intri în apă. Unul dintre cele mai apreciate atuuri este umbra copacilor, în special a pinilor, care ajunge pe unele porțiuni de nisip și creează o atmosferă mai răcoroasă decât pe plajele complet expuse. De-a lungul țărmului se găsesc zone cu șezlonguri și umbrele, dar și locuri pentru cei care vin cu propriul prosop. În apropiere funcționează Nisteri Restaurant, legat de Hotel Villa Nisteri, o opțiune pentru o pauză de masă cu vedere la mare. Deși multe ghiduri descriu plaja ca relativ calmă și mai puțin aglomerată, sezonul, vântul și ocuparea spațiului pot schimba experiența de la o zi la alta. Nisteri este o alegere atrăgătoare pentru familii și pentru cei care preferă o plajă accesibilă, cu vegetație și servicii în apropiere, fără agitația din centrul orașului.",
+      "practical_tips": "Din Limenas urmează drumul de coastă spre Prinos și caută accesul către Nisteri, nu intrarea rezervată unei proprietăți. Parcarea există în apropiere, dar locurile nu sunt garantate, iar anumite spații sunt private. Adu un prosop sau o umbrelă dacă nu dorești să folosești șezlongurile operatorilor. Verifică la fața locului dacă dușurile, toaletele și cabinele de schimb sunt deschise vizitatorilor din exterior. Nu presupune că șezlongurile gratuite oferite oaspeților hotelului sunt disponibile tuturor. Ai grijă la porțiunile cu piatră din apă, supraveghează copiii și urmărește vântul și valurile. Umbra se mută pe parcursul zilei.",
+      "highlights": [
+        "Plajă predominant nisipoasă, cu intrare de regulă lină",
+        "Umbră naturală oferită de pini și alți copaci",
+        "Sectoare cu șezlonguri și spațiu pentru prosop propriu",
+        "Tavernă în imediata apropiere a mării",
+        "Acces convenabil din zona Limenas"
+      ],
+      "seo_title": "Nisteri Beach Thassos – umbră de pini, acces și facilități",
+      "seo_description": "Descoperă Nisteri Beach lângă Limenas, Thassos: nisip, apă cu intrare lină, umbră de pini, șezlonguri, tavernă, parcare și sfaturi utile.",
+      "social_caption": "🌲🏖️ Nisteri Beach, Thassos: nisip fin, umbră de pini și apă limpede, foarte aproape de Limenas. 🌊 Un loc potrivit pentru o zi relaxată la mare! 🇬🇷 #Thassos #NisteriBeach #ExploreGreece",
+      "photo_alt": "Plaja Nisteri din Thassos, cu nisip deschis la culoare, pini pe mal și apă albastră limpede."
+    },
+    "en": {
+      "name": "Nisteri Beach (Nysteri)",
+      "tagline": "A pine-shaded sandy escape just outside Limenas",
+      "summary": "Nisteri is a sandy beach on the northern coast of Thassos, a short distance west of Limenas. Its typically gentle sea entry and tree shade make it attractive for a relaxed swim, with some serviced sections and a waterfront taverna nearby.",
+      "description": "Just outside Thassos Town, Nisteri Beach offers a noticeably greener setting than the busy waterfront of Limenas. The beach lies along the northern coast on the road toward Prinos, occupying its own named strip of shore between the Tarsanas area to the east and Glyfada farther west. Much of the beach is sandy, and the seabed generally slopes gently into shallow water. Some earlier visitor accounts describe flat rock shelves or stones in the first few metres at particular entry points, so it is worth looking before wading in. Pines and other mature trees are among Nisteri’s defining features: their branches shade portions of the sand and give the beach a relaxed, tucked-away atmosphere. Some sections have seasonal loungers and parasols, while other stretches have been described as suitable for setting down your own towel. Close to the beach, Nisteri Restaurant at Hotel Villa Nisteri provides a place to enjoy Greek food with sea views, although individual hotel benefits are not automatically available to every visitor. Nisteri is often presented as quieter than the central town beaches, but it is not an empty or privately reserved cove; the amount of free space changes with the season and time of day. For visitors based in Limenas, it combines the convenience of a short trip with sand, welcome shade and a slower coastal rhythm.",
+      "practical_tips": "From Limenas, follow the coastal road toward Prinos and use a clearly public beach approach rather than assuming a hotel driveway is open to non-guests. Limited parking is reported by the trees and near the beach, but check signs and do not rely on private accommodation spaces. Bring a towel and sun protection even though the shore has tree shade, which shifts during the day. Confirm the current policy and charges for loungers before taking one; complimentary loungers advertised by nearby villas may be for registered guests only. WC, showers and changing facilities are reported but their public availability should be checked on site. Watch for occasional stones or rock slabs in the shallows and supervise children regardless of the gentle gradient.",
+      "highlights": [
+        "Mostly sandy beach and usually gradual sea entry",
+        "Natural shade from pines and mature shoreline trees",
+        "Seasonal loungers alongside reported open towel space",
+        "Waterfront dining close to the sand",
+        "Short coastal journey from Limenas"
+      ],
+      "seo_title": "Nisteri Beach Thassos – pine shade, access and facilities",
+      "seo_description": "Visit Nisteri Beach near Limenas, Thassos: sandy shallows, pine-tree shade, seasonal loungers, seaside dining, parking and practical beach advice.",
+      "social_caption": "🌲🏖️ Nisteri Beach, Thassos: a sandy shore, gentle shallows and the welcome shade of pine trees just outside Limenas. 🌊 Save this easygoing seaside escape! 🇬🇷 #Thassos #NisteriBeach #GreeceTravel",
+      "photo_alt": "Nisteri Beach on Thassos with a sandy shoreline, coastal pine trees and clear blue water."
+    },
+    "el": {
+      "name": "Παραλία Νυστέρι (Nisteri Beach)",
+      "tagline": "Αμμώδης ακτή με σκιά από πεύκα, λίγο έξω από τον Λιμένα",
+      "summary": "Το Νυστέρι είναι μια αμμώδης παραλία στη βόρεια ακτή της Θάσου, δυτικά από τον Λιμένα. Η συνήθως ομαλή είσοδος στο νερό, η φυσική σκιά των δέντρων και οι κοντινές επιλογές για φαγητό την κάνουν ελκυστική για μια χαλαρή ημέρα δίπλα στη θάλασσα.",
+      "description": "Λίγο έξω από την πόλη της Θάσου, η παραλία Νυστέρι προσφέρει ένα ήρεμο παραθαλάσσιο περιβάλλον με πεύκα και αμμουδιά. Βρίσκεται στη βόρεια ακτή, στον δρόμο από τον Λιμένα προς τον Πρίνο, και αποτελεί ξεχωριστή παραλία από τον Ταρσανά, προς την πλευρά της πόλης, και τη Γλυφάδα, πιο δυτικά. Το μεγαλύτερο μέρος της ακτής έχει άμμο, ενώ ο βυθός βαθαίνει συνήθως σταδιακά, δημιουργώντας ευχάριστες συνθήκες για χαλαρό μπάνιο. Σε ορισμένα σημεία, ωστόσο, έχουν αναφερθεί πέτρες ή επίπεδες βραχώδεις πλάκες κοντά στην είσοδο, γι’ αυτό χρειάζεται προσοχή στην επιλογή σημείου. Ένα ιδιαίτερο πλεονέκτημα του Νυστεριού είναι η φυσική σκιά: τα πεύκα και άλλα δέντρα αγγίζουν σχεδόν την ακτή, κάνοντας το περιβάλλον πιο δροσερό και πράσινο. Κατά την καλοκαιρινή περίοδο υπάρχουν σε ορισμένα τμήματα ξαπλώστρες και ομπρέλες, ενώ έχουν περιγραφεί και ελεύθεροι χώροι για προσωπική πετσέτα. Δίπλα στη θάλασσα λειτουργεί το εστιατόριο Nisteri, κοντά στο Hotel Villa Nisteri, για φαγητό με θέα στο νερό. Οι παροχές των καταλυμάτων δεν πρέπει να θεωρούνται αυτόματα διαθέσιμες σε όλους τους λουόμενους. Παρότι συχνά παρουσιάζεται ως πιο ήσυχη επιλογή σε σχέση με τις κεντρικές παραλίες της πόλης, η κίνηση μεταβάλλεται ανάλογα με την εποχή. Είναι μια όμορφη στάση για όσους αναζητούν άμμο, σκιά και σχετικά εύκολη πρόσβαση.",
+      "practical_tips": "Από τον Λιμένα ακολουθήστε τον παραλιακό δρόμο προς τον Πρίνο και αναζητήστε τη δημόσια πρόσβαση στην παραλία. Υπάρχουν αναφορές για στάθμευση κοντά στα δέντρα, όχι όμως εγγυημένες θέσεις· ορισμένοι χώροι ανήκουν σε καταλύματα. Πάρτε μαζί πετσέτα και αντηλιακή προστασία, επειδή η σκιά αλλάζει στη διάρκεια της ημέρας. Ελέγξτε τις χρεώσεις ή τους όρους κατανάλωσης πριν χρησιμοποιήσετε ξαπλώστρες και μην υποθέτετε ότι οι δωρεάν παροχές των ξενοδοχείων ισχύουν για επισκέπτες εκτός καταλύματος. Τουαλέτες, ντους και αποδυτήρια έχουν αναφερθεί, αλλά η διαθεσιμότητά τους χρειάζεται επιτόπιο έλεγχο. Προσέξτε τυχόν πέτρες στην είσοδο και επιβλέπετε συνεχώς τα παιδιά.",
+      "highlights": [
+        "Αμμώδης ακτή και γενικά ομαλή είσοδος στο νερό",
+        "Φυσική σκιά από πεύκα και άλλα δέντρα",
+        "Ξαπλώστρες εποχικά και σημεία για προσωπική πετσέτα",
+        "Εστιατόριο κοντά στην παραλία",
+        "Μικρή απόσταση από τον Λιμένα"
+      ],
+      "seo_title": "Παραλία Νυστέρι Θάσος – σκιά, πρόσβαση και παροχές",
+      "seo_description": "Γνωρίστε το Νυστέρι κοντά στον Λιμένα Θάσου: αμμώδης ακτή, ρηχά νερά, σκιά από πεύκα, ξαπλώστρες, φαγητό και χρήσιμες συμβουλές.",
+      "social_caption": "🌲🏖️ Νυστέρι, Θάσος: αμμώδης παραλία με πεύκα, φυσική σκιά και όμορφα νερά λίγο έξω από τον Λιμένα. 🌊 Ιδανική ιδέα για χαλαρές καλοκαιρινές στιγμές! 🇬🇷 #Θάσος #Νυστέρι #Ελλάδα",
+      "photo_alt": "Η αμμώδης παραλία Νυστέρι στη Θάσο, με πεύκα δίπλα στη θάλασσα και καθαρά γαλάζια νερά."
+    },
+    "de": {
+      "name": "Nisteri Beach (Nysteri)",
+      "tagline": "Sandstrand mit Pinien-Schatten nur wenige Minuten von Limenas",
+      "summary": "Nisteri ist ein überwiegend sandiger Strand an der Nordküste von Thassos, westlich von Limenas. Meist flach abfallendes Wasser, schattenspendende Bäume und eine Taverne direkt am Meer machen ihn zu einem angenehmen Ziel für einen entspannten Strandtag.",
+      "description": "Wenige Minuten außerhalb der Inselhauptstadt Limenas liegt der Nisteri Beach in einer grünen, von Bäumen gesäumten Küstenlandschaft. Er befindet sich an der nördlichen Küstenstraße in Richtung Prinos und ist als eigener Strandabschnitt von Tarsanas auf der Stadtseite sowie von Glyfada weiter westlich zu unterscheiden. Am Ufer und im Wasser überwiegt Sand; der Meeresboden fällt an vielen Stellen sanft ab und bietet angenehme Bedingungen zum Baden. Vereinzelt können im Eingangsbereich aber Steine oder flache Felsplatten liegen, wie ältere Besucherberichte schildern. Deshalb lohnt es sich, die Stelle für den Einstieg bewusst auszuwählen. Besonders charakteristisch sind die Pinien und anderen alten Bäume, die an Teilen des Strandes Schatten spenden und für eine angenehm natürliche Atmosphäre sorgen. In einigen Abschnitten stehen während der Saison Liegen und Sonnenschirme; andere Bereiche werden als frei nutzbarer Platz für das eigene Handtuch beschrieben. Direkt am Wasser befindet sich das Nisteri Restaurant beim Hotel Villa Nisteri, das griechische Küche mit Meerblick verbindet. Kostenlos angebotene Liegen benachbarter Unterkünfte sind allerdings nicht automatisch für externe Badegäste bestimmt. Viele Reiseführer beschreiben Nisteri als vergleichsweise ruhig, doch in der Hauptsaison können sowohl Schattenplätze als auch freie Sandflächen knapp werden. So verbindet der Strand die Nähe zur Stadt mit einer entspannteren, von Bäumen geprägten Umgebung.",
+      "practical_tips": "Von Limenas aus der Küstenstraße Richtung Prinos folgen und auf einen allgemein zugänglichen Strandweg achten, statt eine private Hotelzufahrt vorauszusetzen. In Strandnähe werden Parkmöglichkeiten beschrieben; Hotelparkplätze sind jedoch möglicherweise nur für Gäste vorgesehen. Wer nicht auf bewirtschaftete Plätze angewiesen sein möchte, sollte ein eigenes Handtuch mitbringen. Vor der Nutzung von Liegen nach aktuellen Preisen beziehungsweise Mindestverzehr fragen. Toiletten, Duschen und Umkleidekabinen werden in Reiseführern genannt, ihre Nutzung durch externe Besucher ist aber nicht in jedem Fall bestätigt. Der Baumschatten wandert im Tagesverlauf. An vereinzelten steinigen Stellen vorsichtig ins Wasser gehen, Wind und Wellen beobachten und Kinder auch im flachen Bereich beaufsichtigen.",
+      "highlights": [
+        "Überwiegend feiner Sand und meist sanfter Wassereinstieg",
+        "Natürlicher Schatten durch Pinien und andere Küstenbäume",
+        "Saisonale Liegen sowie offene Strandbereiche",
+        "Taverne unmittelbar am Meer",
+        "Günstige Lage nahe Limenas"
+      ],
+      "seo_title": "Nisteri Beach Thassos – Pinien-Schatten, Anfahrt und Ausstattung",
+      "seo_description": "Nisteri Beach nahe Limenas auf Thassos: Sandstrand, flacher Wassereinstieg, Pinien-Schatten, Liegen, Taverne, Parken und praktische Tipps.",
+      "social_caption": "🌲🏖️ Nisteri Beach auf Thassos: Sand, klares Meer und wohltuender Pinien-Schatten unweit von Limenas. 🌊 Ein schönes Ziel für einen ruhigen Strandtag! 🇬🇷 #Thassos #NisteriBeach #Griechenland",
+      "photo_alt": "Sandstrand Nisteri auf Thassos mit schattenspendenden Pinien und klarem blauem Meer."
+    },
+    "bg": {
+      "name": "Плаж Нистери (Nisteri Beach)",
+      "tagline": "Пясък и естествена борова сянка близо до Лименас",
+      "summary": "Нистери е пясъчен плаж на северния бряг на Тасос, малко западно от Лименас. Обикновено плавното навлизане във водата, сянката на дърветата и крайбрежното заведение го правят приятен избор за спокойна почивка край морето.",
+      "description": "Недалеч от столицата на остров Тасос, плаж Нистери предлага по-зелена и спокойна обстановка от оживения бряг в центъра на Лименас. Намира се по северния крайбрежен път към Принос и представлява отделна плажна ивица, различна от Тарсанас на изток и Глифада по-нататък на запад. По брега преобладава пясък, а морското дъно на много места се спуска плавно, така че плитчините са удобни за спокойни водни занимания. На отделни точки обаче има сведения за камъни и плоски скални участъци в първите метри, затова е добре да огледате мястото, преди да влезете. Голямото предимство на Нистери са боровете и другите крайбрежни дървета, чиято сянка достига до част от пясъка и създава естествено прохладна атмосфера. През сезона в някои части има шезлонги и чадъри, а на други места посетителите могат да използват собствена кърпа. Наблизо се намира ресторант Nisteri към Hotel Villa Nisteri, където може да се хапне с изглед към морето. Безплатните шезлонги, рекламирани от близки места за настаняване, не означават непременно свободно ползване от всички. Плажът често се описва като сравнително тих, но през натоварените летни дни наличното пространство и броят посетители се променят. Нистери е удачен избор за семейства и за хора, които искат пясък, сянка и бърз достъп от Лименас.",
+      "practical_tips": "От Лименас следвайте крайбрежния път към Принос и използвайте обозначен или ясно обществен подход към плажа. В близост има места за паркиране, но наличността им не е гарантирана, а част от паркингите принадлежат на хотели. Носете кърпа и слънцезащита, защото естествената сянка се мести през деня. Преди да заемете шезлонги, попитайте за актуалните условия и цена; безплатните места за гостите на вилите може да не са достъпни за външни посетители. Тоалетни, душове и кабини за преобличане са описани в пътеводители, но работата им трябва да се провери на място. Внимавайте за отделни камъни в плитчините, следете вятъра и вълните и наблюдавайте децата непрекъснато.",
+      "highlights": [
+        "Предимно пясъчен бряг с плавно навлизане във водата",
+        "Естествена сянка от борове и други дървета",
+        "Сезонни шезлонги и свободни места за кърпа",
+        "Ресторант край самото море",
+        "Близост до Лименас"
+      ],
+      "seo_title": "Плаж Нистери, Тасос – сянка, достъп и удобства",
+      "seo_description": "Открийте плаж Нистери до Лименас на Тасос: пясък, плитки води, борова сянка, шезлонги, крайбрежен ресторант, паркиране и съвети.",
+      "social_caption": "🌲🏖️ Нистери, Тасос: пясъчен бряг, бистро море и естествена сянка от борове съвсем близо до Лименас. 🌊 Чудесно място за спокойна морска почивка! 🇬🇷 #Тасос #Нистери #Гърция",
+      "photo_alt": "Пясъчният плаж Нистери на Тасос, с крайбрежни борове и чиста синя морска вода."
+    },
+    "sr": {
+      "name": "Plaža Nisteri (Nysteri)",
+      "tagline": "Peščana obala u hladu borova nadomak Limenasa",
+      "summary": "Nisteri je pretežno peščana plaža na severnoj obali Tasosa, nedaleko zapadno od Limenasa. Postepen ulazak u more, prirodan hlad drveća i taverna uz obalu čine je privlačnom za miran dan na plaži.",
+      "description": "Nedaleko od Limenasa, glavnog grada Tasosa, plaža Nisteri pruža drugačiji, zeleniji ambijent od prometnijih gradskih kupališta. Nalazi se uz severni obalski put prema Prinosu i ima svoj prepoznatljiv deo obale, odvojen po nazivu od Tarsanasa prema gradu i Glifade dalje na zapadu. Na većem delu plaže dominira pesak, a dno se uglavnom postepeno spušta, pa je ulazak u more prijatan kada su vremenski uslovi dobri. Ipak, stariji utisci posetilaca pominju poneke ravne kamene ploče ili kamenje u prvim metrima vode, tako da nije svaki prilaz jednako udoban. Poseban kvalitet Nisterija je hlad borova i drugog drveća uz samu obalu. Na pojedinim mestima krošnje zaklanjaju sunce iznad peska, stvarajući mirniji ugođaj za odmor. Tokom sezone postoje delovi sa ležaljkama i suncobranima, kao i mesta na kojima se može raširiti sopstveni peškir. Pored plaže nalazi se restoran Nisteri u sklopu hotela Villa Nisteri, sa grčkim jelima i pogledom na more. Besplatne ležaljke koje najavljuju obližnji smeštajni objekti ne treba automatski smatrati ponudom za sve posetioce. Plaža je često manje prometna od centralne obale Limenasa, ali broj ljudi i slobodnog prostora zavisi od sezone. Za porodice i putnike koji borave u gradu Nisteri spaja praktičnu blizinu, pesak i prijatnu prirodnu hladovinu.",
+      "practical_tips": "Iz Limenasa pratite obalski put prema Prinosu i pronađite prilaz koji je dostupan svim posetiocima, bez pretpostavke da je hotelski ulaz javan. Parking se pominje u blizini plaže, ali kapacitet nije zagarantovan, a deo mesta pripada privatnim objektima. Ponesite peškir i zaštitu od sunca iako ima drveća, jer se senka tokom dana pomera. Pre korišćenja ležaljki proverite aktuelna pravila i eventualnu konzumaciju; pogodnosti za hotelske goste ne moraju važiti za druge. Vodiči pominju toalete, tuševe i kabine za presvlačenje, ali njihovu dostupnost treba proveriti na licu mesta. Pazite na poneki kamen ili stenovitu ploču u plićaku i stalno nadgledajte decu.",
+      "highlights": [
+        "Pretežno peščana obala sa uglavnom postepenim ulaskom",
+        "Prirodan hlad borova i drugog drveća",
+        "Sezonske ležaljke i delovi za sopstveni peškir",
+        "Restoran uz morsku obalu",
+        "Blizina Limenasa i lakši dolazak"
+      ],
+      "seo_title": "Plaža Nisteri Tasos – hlad borova, prilaz i sadržaji",
+      "seo_description": "Upoznajte Nisteri blizu Limenasa na Tasosu: peščana obala, plitka voda, hlad borova, ležaljke, taverna, parking i praktični saveti.",
+      "social_caption": "🌲🏖️ Nisteri, Tasos: peščana plaža, čisto more i dragocen hlad borova tik izvan Limenasa. 🌊 Sačuvajte je kao ideju za opušten dan na ostrvu! 🇬🇷 #Tasos #NisteriBeach #Grcka",
+      "photo_alt": "Peščana plaža Nisteri na Tasosu sa borovima duž obale i bistrom plavom morskom vodom."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/nisteri/images/nisteri1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/nisteri/images/nisteri2.webp",
+      "destinations/thassos/beaches/nisteri/images/nisteri3.webp",
+      "destinations/thassos/beaches/nisteri/images/nisteri4.webp",
+      "destinations/thassos/beaches/nisteri/images/nisteri5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/nisteri/images/",
+    "suggested_asset_names": [
+      "nisteri1.webp",
+      "nisteri2.webp",
+      "nisteri3.webp",
+      "nisteri4.webp",
+      "nisteri5.webp"
+    ],
+    "image_policy": "Only user-provided, owned or appropriately licensed photographs of Nisteri Beach on Thassos may be published. Image paths are assigned from the filenames in the supplied screenshot; verify exact location, provenance, reuse rights and any required attribution.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_gothassos_beach",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Nisteri Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/nisteri-beach",
+      "detail": "Named beach, sand/pebble/rock categories, shallow sections; lists WC, showers, food and drink, loungers, umbrellas and parking. Facilities not independently confirmed open every day.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_gothassos_gr",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Νυστέρι",
+      "url": "https://www.go-thassos.gr/gr/about-thassos/places/nisteri-beach",
+      "detail": "Greek spelling Νυστέρι and local corroboration of identity, amenities and geographical placement.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_en",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Nisteri Beach (updated 6 July 2024)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/2130/nisteri-beach",
+      "detail": "Sandy gentle entry, shade from trees, some serviced and open sections, nearby restaurant, shower/changing cabin, parking; published arrangements may be old.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_ro",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Plaja Nisteri (Romanian guide)",
+      "url": "https://nikana.gr/ro/ghid/thassos/plaje/2130/plaja-nisteri",
+      "detail": "Romanian version of local guide, updated 2024; supports terminology and seasonal guide descriptions.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_route",
+      "kind": "travel_guide",
+      "title": "Nikana — Beaches on Thassos and access",
+      "url": "https://nikana.gr/en/tourist-guide/blog/beaches/1676/beaches-on-thassos-description-and-how-to-get-there",
+      "detail": "Lists Tarsanas, Nisteri and Papalimani separately; Nisteri described as shaded, although a broad-list 8 km distance conflicts with beach-specific and accommodation sources.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_whichgreekisland",
+      "kind": "travel_guide",
+      "title": "Which Greek Island — Nisteri Beach, Thassos",
+      "url": "https://whichgreekisland.co.uk/islands/thassos/beaches/nisteri/",
+      "detail": "Narrow tree-lined sand, shallow entry, a mixture of loungers/free space, hotel taverna, near Limenas. Unverified length estimate not adopted; photo credit Alan without license.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_hotel_official",
+      "kind": "property_official",
+      "title": "Beach Hotel Villa Nisteri — official website",
+      "url": "https://www.nisteri.gr/",
+      "detail": "Beachfront hotel and taverna; identifies beach near Limenas about 1.5 km west along the road toward Prinos. Amenities offered by hotel do not imply public access.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_hotel_location",
+      "kind": "property_official",
+      "title": "Hotel Villa Nisteri — location and services",
+      "url": "https://www.nisteri.gr/location-beach-hotel-villa-nisteri-thassos/",
+      "detail": "Hotel claims restaurant, parking and free loungers/umbrellas, but those are hotel amenities and public conditions must be checked.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_restaurant_official",
+      "kind": "business_official",
+      "title": "Nisteri Restaurant — beachfront dining official site",
+      "url": "https://nisteri-restaurant.gr/",
+      "detail": "Confirms a standalone operational website for seaside restaurant at Nisteri Beach, with Greek cuisine and shaded waterfront dining; opening conditions can change.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_morfeas_official",
+      "kind": "property_official",
+      "title": "Villa Morfeas — official site",
+      "url": "https://www.villa-morfeas.gr/",
+      "detail": "Neighbouring accommodation names Nisteri as sandy and pine-backed near Limenas. Its free loungers belong to the property offering, not general public access.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_morfeas_gothassos",
+      "kind": "property_listing",
+      "title": "Go Thassos — Morfeas Villa",
+      "url": "https://www.go-thassos.gr/visiting-thassos/hotels/morfeas-villa",
+      "detail": "Nearby PROPERTY reference at GPS 40.779954,24.683482, plus proximity to Nisteri; not a verified beach pin.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nisteri_hotel_gothassos",
+      "kind": "property_listing",
+      "title": "Go Thassos — Hotel Villa Nisteri",
+      "url": "https://www.go-thassos.gr/visiting-thassos/hotels/beach-hotel-villa-nisteri",
+      "detail": "Hotel/property GPS 40.780892,24.683586, not the exact beach coordinates; lists accommodation services.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_pameparalia",
+      "kind": "beach_directory",
+      "title": "Pame Paralia — Nisteri Beach",
+      "url": "https://pameparalia.com/beach/nisteri-mainland",
+      "detail": "Independent mapped approximate beach reference 40.7801,24.6847; guide claims sand, shallow water, shade and parking. Coordinates not attributed to Google Maps.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_thassos_view",
+      "kind": "local_travel_guide",
+      "title": "Thassos View — Nisteri Beach",
+      "url": "https://www.thassos-view.com/places/beaches/nisteri-beach",
+      "detail": "Named beach near Thassos Town/Limenas; independent confirmation of distinct tourism identity.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_greeka",
+      "kind": "travel_guide",
+      "title": "Greeka — Thassos Nisteri Beach",
+      "url": "https://www.greeka.com/eastern-aegean/thassos/beaches/nisteri/",
+      "detail": "Independent dedicated Nisteri beach listing with description and photos; details not assumed beyond listing.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_google_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Nisteri Beach, Thassos (search only)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nisteri%20Beach%2C%20Thassos%2C%20Greece",
+      "detail": "Name-based search URL only; does not independently establish pin coordinates or vehicle access.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_limanaki",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — Thasos Poli/Limanaki 2026 (different beach)",
+      "url": "https://www.blueflag.gr/el/beach/thasos-poli-limanaki",
+      "detail": "Award shown is expressly for Thasos Poli/Limanaki, not evidence of Blue Flag certification for Nisteri; do not merge certification between beaches.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Verify the exact Nisteri beach pin and public pedestrian entrance in Google Maps; published 40.7801,24.6847 from an independent directory and 40.780892,24.683586 from a HOTEL listing must not be passed off as a verified Google Maps beach pin.",
+      "Confirm the distinction between the Nisteri sand strip, named Tarsanas to the east and Glyfada to the west, particularly where generic Limenas beach listings overlap.",
+      "Confirm present public use of WC, showers, changing rooms, operator loungers and unserviced sand; nearby hotel guest amenities must not be advertised as public rights.",
+      "Confirm the actual seasonal parking situation and whether any advertised spaces belong only to hotels.",
+      "Do not adopt historic minimum-consumption prices or free hotel-guest sunbeds as a universal public price; ask operator.",
+      "Check any lifeguard provision, accessible route, nearshore stones and windy-day sea conditions in person.",
+      "Confirm whether 2026 Blue Flag status exists for a specifically named Nisteri shore segment; the verified Limanaki award does not apply.",
+      "Confirm that nisteri1.webp–nisteri5.webp depict Nisteri Beach near Limenas rather than neighbouring Tarsanas or Glyfada; document image ownership, licensing and any required attribution.",
+      "Native-speaker review of all six translations (notably Greek and Serbian Latin) before public launch."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; commercial reuse rights to the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local image paths assigned from filenames shown in the user-provided screenshot. Actual WebP files, exact geographic identity and publication rights have not been independently verified."
+  }
+}

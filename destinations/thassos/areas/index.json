@@ -1,0 +1,395 @@
+{
+  "schema_version": 1,
+  "destination_id": "gr-thassos",
+  "record_type": "areas_index",
+  "description": "Twenty curated Thassos areas: 15 on the coast and 5 heritage inland. Area data and media paths are initialized; editorial research and GPS verification are pending.",
+  "counts": {
+    "total": 20,
+    "coastal": 15,
+    "inland": 5,
+    "planned_images": 100
+  },
+  "coordinate_policy": "center is a provisional reference point ONLY, not a confirmed navigation or parking point. Do not enable precise distance, travel-time or nearby assertions in production until verified.",
+  "area_entries": [
+    {
+      "id": "gr-thassos-area-limenas",
+      "slug": "limenas",
+      "name": "Limenas (Thassos Town)",
+      "name_el": "Λιμένας",
+      "area_type": "seaside_town",
+      "coastal": true,
+      "priority": 1,
+      "center": {
+        "lat": 40.7782,
+        "lng": 24.7059,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/limenas/area.json",
+      "cover_path": "destinations/thassos/areas/limenas/images/limenas1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-skala-rachoniou",
+      "slug": "skala-rachoniou",
+      "name": "Skala Rachoniou",
+      "name_el": "Σκάλα Ραχωνίου",
+      "area_type": "coastal_village",
+      "coastal": true,
+      "priority": 2,
+      "center": {
+        "lat": 40.7795,
+        "lng": 24.6131,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/skala-rachoniou/area.json",
+      "cover_path": "destinations/thassos/areas/skala-rachoniou/images/skala-rachoniou1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-pachis",
+      "slug": "pachis",
+      "name": "Pachis",
+      "name_el": "Παχύς",
+      "area_type": "coastal_tourism_area",
+      "coastal": true,
+      "priority": 3,
+      "center": {
+        "lat": 40.79048,
+        "lng": 24.63046,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/pachis/area.json",
+      "cover_path": "destinations/thassos/areas/pachis/images/pachis1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-skala-prinos",
+      "slug": "skala-prinos",
+      "name": "Skala Prinos (Ormos Prinou)",
+      "name_el": "Σκάλα Πρίνου",
+      "area_type": "port_coastal_village",
+      "coastal": true,
+      "priority": 4,
+      "center": {
+        "lat": 40.75857,
+        "lng": 24.577,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/skala-prinos/area.json",
+      "cover_path": "destinations/thassos/areas/skala-prinos/images/skala-prinos1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-skala-sotiros",
+      "slug": "skala-sotiros",
+      "name": "Skala Sotiros",
+      "name_el": "Σκάλα Σωτήρος",
+      "area_type": "coastal_village",
+      "coastal": true,
+      "priority": 5,
+      "center": {
+        "lat": 40.72812,
+        "lng": 24.5472,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/skala-sotiros/area.json",
+      "cover_path": "destinations/thassos/areas/skala-sotiros/images/skala-sotiros1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-skala-kallirachis",
+      "slug": "skala-kallirachis",
+      "name": "Skala Kallirachis",
+      "name_el": "Σκάλα Καλλιράχης",
+      "area_type": "coastal_village",
+      "coastal": true,
+      "priority": 6,
+      "center": {
+        "lat": 40.70762,
+        "lng": 24.53417,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/skala-kallirachis/area.json",
+      "cover_path": "destinations/thassos/areas/skala-kallirachis/images/skala-kallirachis1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-skala-maries",
+      "slug": "skala-maries",
+      "name": "Skala Maries",
+      "name_el": "Σκάλα Μαριών",
+      "area_type": "coastal_village",
+      "coastal": true,
+      "priority": 7,
+      "center": {
+        "lat": 40.642,
+        "lng": 24.51526,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/skala-maries/area.json",
+      "cover_path": "destinations/thassos/areas/skala-maries/images/skala-maries1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-limenaria",
+      "slug": "limenaria",
+      "name": "Limenaria",
+      "name_el": "Λιμενάρια",
+      "area_type": "seaside_town",
+      "coastal": true,
+      "priority": 8,
+      "center": {
+        "lat": 40.6274,
+        "lng": 24.5747,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/limenaria/area.json",
+      "cover_path": "destinations/thassos/areas/limenaria/images/limenaria1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-pefkari",
+      "slug": "pefkari",
+      "name": "Pefkari",
+      "name_el": "Πευκάρι",
+      "area_type": "coastal_tourism_area",
+      "coastal": true,
+      "priority": 9,
+      "center": {
+        "lat": 40.61833,
+        "lng": 24.59789,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/pefkari/area.json",
+      "cover_path": "destinations/thassos/areas/pefkari/images/pefkari1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-potos",
+      "slug": "potos",
+      "name": "Potos",
+      "name_el": "Ποτός",
+      "area_type": "coastal_resort",
+      "coastal": true,
+      "priority": 10,
+      "center": {
+        "lat": 40.6105,
+        "lng": 24.6074,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/potos/area.json",
+      "cover_path": "destinations/thassos/areas/potos/images/potos1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-astris",
+      "slug": "astris",
+      "name": "Astris (Astrida)",
+      "name_el": "Αστρίς",
+      "area_type": "coastal_village",
+      "coastal": true,
+      "priority": 11,
+      "center": {
+        "lat": 40.58923,
+        "lng": 24.65552,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/astris/area.json",
+      "cover_path": "destinations/thassos/areas/astris/images/astris1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-alyki",
+      "slug": "alyki",
+      "name": "Alyki (Aliki)",
+      "name_el": "Αλυκή",
+      "area_type": "coastal_historic_area",
+      "coastal": true,
+      "priority": 12,
+      "center": {
+        "lat": 40.60509,
+        "lng": 24.74109,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/alyki/area.json",
+      "cover_path": "destinations/thassos/areas/alyki/images/alyki1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-kinira",
+      "slug": "kinira",
+      "name": "Kinira (Koinyra)",
+      "name_el": "Κοίνυρα",
+      "area_type": "coastal_village",
+      "coastal": true,
+      "priority": 13,
+      "center": {
+        "lat": 40.66551,
+        "lng": 24.76231,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/kinira/area.json",
+      "cover_path": "destinations/thassos/areas/kinira/images/kinira1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-skala-potamia",
+      "slug": "skala-potamia",
+      "name": "Skala Potamia (Chrysi Akti)",
+      "name_el": "Σκάλα Ποταμιάς",
+      "area_type": "coastal_resort",
+      "coastal": true,
+      "priority": 14,
+      "center": {
+        "lat": 40.7073,
+        "lng": 24.7609,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/skala-potamia/area.json",
+      "cover_path": "destinations/thassos/areas/skala-potamia/images/skala-potamia1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-chrysi-ammoudia",
+      "slug": "chrysi-ammoudia",
+      "name": "Chrysi Ammoudia (Skala Panagia)",
+      "name_el": "Χρυσή Αμμουδιά",
+      "area_type": "coastal_resort",
+      "coastal": true,
+      "priority": 15,
+      "center": {
+        "lat": 40.7312,
+        "lng": 24.76,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/chrysi-ammoudia/area.json",
+      "cover_path": "destinations/thassos/areas/chrysi-ammoudia/images/chrysi-ammoudia1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-theologos",
+      "slug": "theologos",
+      "name": "Theologos",
+      "name_el": "Θεολόγος",
+      "area_type": "traditional_inland_village",
+      "coastal": false,
+      "priority": 16,
+      "center": {
+        "lat": 40.65945,
+        "lng": 24.692,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/theologos/area.json",
+      "cover_path": "destinations/thassos/areas/theologos/images/theologos1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-panagia",
+      "slug": "panagia",
+      "name": "Panagia",
+      "name_el": "Παναγία",
+      "area_type": "traditional_inland_village",
+      "coastal": false,
+      "priority": 17,
+      "center": {
+        "lat": 40.73126,
+        "lng": 24.72921,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/panagia/area.json",
+      "cover_path": "destinations/thassos/areas/panagia/images/panagia1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-potamia",
+      "slug": "potamia",
+      "name": "Potamia",
+      "name_el": "Ποταμιά",
+      "area_type": "traditional_inland_village",
+      "coastal": false,
+      "priority": 18,
+      "center": {
+        "lat": 40.71617,
+        "lng": 24.72833,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/potamia/area.json",
+      "cover_path": "destinations/thassos/areas/potamia/images/potamia1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-kastro",
+      "slug": "kastro",
+      "name": "Kastro",
+      "name_el": "Κάστρο",
+      "area_type": "historic_inland_village",
+      "coastal": false,
+      "priority": 19,
+      "center": {
+        "lat": 40.67082,
+        "lng": 24.65508,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/kastro/area.json",
+      "cover_path": "destinations/thassos/areas/kastro/images/kastro1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    },
+    {
+      "id": "gr-thassos-area-kazaviti",
+      "slug": "kazaviti",
+      "name": "Kazaviti (Megalo & Mikro)",
+      "name_el": "Καζαβίτι",
+      "area_type": "traditional_inland_village_group",
+      "coastal": false,
+      "priority": 20,
+      "center": {
+        "lat": 40.72432,
+        "lng": 24.62368,
+        "verification_status": "provisional"
+      },
+      "nearby_enabled": false,
+      "data_path": "destinations/thassos/areas/kazaviti/area.json",
+      "cover_path": "destinations/thassos/areas/kazaviti/images/kazaviti1.webp",
+      "image_count_planned": 5,
+      "publish_ready": false
+    }
+  ]
+}

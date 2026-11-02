@@ -1,0 +1,354 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-paradise",
+  "slug": "paradise",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παράδεισος",
+    "international_name": "Paradise Beach",
+    "aliases": [
+      "Paradise",
+      "Paradeisos",
+      "Paradeisos Beach",
+      "Paradisou",
+      "Makryammos of Kinira",
+      "Makryammos Koinyron"
+    ],
+    "entity_scope": "Main sandy Paradise Beach bay south of Kinira; adjacent rocky naturist section is contextual, not another independent beach record.",
+    "deduplication_warning": "Do not conflate Paradise Beach near Kinira with Paradise Beach elsewhere in Greece or with Makryammos near Limenas. Historic name Makryammos of Kinira is context-specific."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "east / southeast",
+    "settlements": [
+      "Kinira"
+    ],
+    "lat": 40.648084688479,
+    "lng": 24.766547302246,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://maps.google.com/?daddr=40.648084688479%2C24.766547302246",
+    "coordinate_source_reference": "s_map",
+    "coordinate_type": "representative_beach_pin_not_specific_access",
+    "coordinate_review_status": "google_maps_directions_point_linked_by_local_guide; final navigation entrance requires manual check",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "fine_sand",
+    "seabed_near_shore": "mostly_sandy_with_possible_hollows",
+    "water_entry": "generally_gradual_when_calm",
+    "nearshore_depth": "usually_shallow_near_shore_but_variable",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "exposed_to_easterly_wind; waves_can_be_strong",
+    "exposure": "east_facing_bay",
+    "natural_shade_on_sand": "limited; some shade by trees and rocks at edges",
+    "beach_length_m": null,
+    "length_note": "Different published measurements may include different portions of the bay; no exact length asserted.",
+    "backdrop": "pine-covered hills, granite rocks and views towards Kinira islet",
+    "shoreline_type": "sandy_bay_with_rocky_edges"
+  },
+  "visitor_experience": {
+    "organization": "mixed_organized_and_free",
+    "suitable_for": [
+      "couples",
+      "groups",
+      "nature_photography",
+      "swimming_when_calm",
+      "families_when_calm",
+      "beach_relaxation"
+    ],
+    "notable_for": [
+      "fine_sand",
+      "turquoise_water",
+      "pine_hills",
+      "rocky_cove",
+      "kinira_islet_view",
+      "waves_in_easterly_winds"
+    ],
+    "activities_possible": [
+      "swimming_when_conditions_allow",
+      "sunbathing",
+      "photography",
+      "beach_volleyball",
+      "snorkelling_near_rocks_when_safe"
+    ],
+    "estimated_crowd_peak": "very_popular_in_high_summer",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Strong waves and shifting sandy depressions can occur, especially with easterly winds. Do not label shallow water as inherently safe; supervise children and follow local warnings.",
+    "naturism_note": "The northern rocky edge has been traditionally used by naturists; local use can vary by season and crowding."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Reported at seasonal beach operators, not guaranteed along entire bay."
+    },
+    "showers": {
+      "available_in_some_sections": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": true,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": true,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "Seasonal lifeguard reported by a local guide; coverage and hours not independently confirmed.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Unpaved approaches and beach access require a site-specific accessibility check.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Availability varies by season, exact stretch and operator."
+  },
+  "access_and_cost": {
+    "road_access": "main_island_road_then_local_unpaved_access_road_or_path",
+    "public_transport": "island_bus_reportedly_stops_near_main_road; walk_to_beach_required",
+    "parking_type": "roadside_and_local_unpaved_parking_areas",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Fees or minimum-consumption packages vary with operator and season; do not publish unverified prices.",
+    "best_arrival_advice": "Arrive early in busy summer weeks for more parking and beach-space options.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Published road distances differ by starting point and road access; verify through routing before publishing a number."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": 2026,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, water temperature, UV, wave or facility-availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Paradise Beach (Paradeisos)",
+      "tagline": "Un golf cu nisip fin, apă turcoaz și pini coborând spre mare",
+      "summary": "Paradise Beach se află pe coasta estică a insulei Thassos, la sud de Kinira. Este cunoscută pentru nisipul fin, apa de mică adâncime în condiții calme și peisajul cu pădure, stânci și o insuliță în larg.",
+      "description": "Paradise Beach, numită și Paradeisos, se ascunde într-un golf pitoresc de pe coasta estică a insulei Thassos, la aproximativ doi kilometri sud de Kinira. Nisipul deschis la culoare, marea în nuanțe de turcoaz, stâncile de la capetele golfului și versanții împăduriți creează un peisaj deosebit. În zilele liniștite, intrarea în apă este în general lină, iar plaja atrage familii și iubitori ai înotului. Totuși, expunerea la vânturile dinspre est poate aduce valuri puternice și schimbări ale reliefului nisipos de sub apă; supravegherea copiilor și evaluarea condițiilor din ziua vizitei sunt esențiale. Pe plajă există sectoare amenajate cu șezlonguri și umbrele, alături de spații unde vizitatorii își pot așeza propriul prosop. În sezon funcționează servicii de alimentație și unele facilități sanitare, dar disponibilitatea diferă în funcție de operator. Accesul se face de la șoseaua insulei pe un drum secundar cu porțiuni neasfaltate și apoi, după caz, pe jos. La extremitatea stâncoasă nordică a existat tradițional o zonă frecventată de naturiști; aceasta nu trebuie confundată cu sectorul principal, folosit de familii. Pentru un peisaj mai liniștit și fotografii frumoase, merită să ajungi în afara orelor aglomerate.",
+      "practical_tips": "Verifică vântul și valurile înainte de a intra în apă; pe vreme agitată, condițiile pot fi nepotrivite pentru copii. Ultima parte a accesului poate include drum de pământ și mers pe jos, deci verifică traseul pentru vehiculul tău. În iulie–august parcările și șezlongurile se pot ocupa rapid. Serviciile sunt sezoniere, iar prețurile nu sunt unice pentru toată plaja. Pinii oferă un decor verde, dar umbra naturală direct pe nisip nu trebuie presupusă; ia protecție solară.",
+      "highlights": [
+        "Golf cu nisip fin și apă turcoaz",
+        "Vedere spre insulița Kinira",
+        "Versanți verzi și stânci spectaculoase",
+        "Intrare în apă adesea lină pe vreme calmă",
+        "Sectoare amenajate și porțiuni libere"
+      ],
+      "seo_title": "Paradise Beach Thassos – acces, facilități și sfaturi de vizitare",
+      "seo_description": "Ghid Paradise Beach din Thassos: golf nisipos lângă Kinira, acces și parcare, valuri, facilități, recomandări pentru familii și informații utile.",
+      "social_caption": "🏝️ Paradise Beach, Thassos: nisip deschis, apă turcoaz și pădure verde până aproape de mare. 🌊 Un loc superb, mai ales când marea este liniștită. Salvează plaja pentru vacanța ta! 🇬🇷 #Thassos #ParadiseBeach #ExploreGreece",
+      "photo_alt": "Paradise Beach din Thassos, golf cu nisip și apă turcoaz lângă Kinira."
+    },
+    "en": {
+      "name": "Paradise Beach (Paradeisos)",
+      "tagline": "Fine sand, turquoise water and wooded hills around a sheltered-looking bay",
+      "summary": "Paradise Beach lies on the eastern coast of Thassos, south of Kinira. Its fine sand, turquoise shallows in calm weather, pine-covered slopes and rocky edges make it one of the island’s most photogenic bays.",
+      "description": "Paradise Beach, also known as Paradeisos, occupies a scenic bay on the eastern coast of Thassos, around two kilometres south of Kinira. Light sand, turquoise water, rocky headlands and densely green hills form a memorable setting, with the small islet of Kinira visible offshore. When conditions are calm, the entry into the water is generally gentle and visitors often choose this beach for swimming and relaxing with family or friends. The east-facing shore can, however, experience strong waves and shifting sandy hollows; calm-looking shallows should never be taken as a guarantee of safety, particularly for children. Some stretches are serviced with sunloungers and umbrellas, while others allow visitors to bring their own beach equipment. Food, drinks and facilities such as toilets or showers are typically associated with seasonal operators rather than guaranteed across the entire shore. The final approach from the island’s main road can involve an unpaved track and a walk from parking areas. Beyond the main family-oriented sands, the northern rocky edge has a tradition of naturist use; it is not the same as the principal beach area. Visit earlier or outside the busiest weeks if you prefer a quieter atmosphere and easier parking.",
+      "practical_tips": "Check wind and wave conditions on the day; easterly winds can produce substantial surf. The last stretch from the main road may be unpaved and require some walking. In peak summer, parking areas and serviced spaces can fill up early. Do not assume fixed lounger prices or public access to operator facilities. Bring sun protection because greenery around the bay does not mean reliable shade on the sand.",
+      "highlights": [
+        "Fine sandy cove and turquoise water",
+        "Views towards Kinira islet",
+        "Green slopes and striking rocky edges",
+        "Generally gradual entry when seas are calm",
+        "Serviced and free-use areas"
+      ],
+      "seo_title": "Paradise Beach Thassos – access, amenities and visitor tips",
+      "seo_description": "Explore Paradise Beach on Thassos: sandy bay near Kinira, directions, parking, waves, seasonal amenities and practical tips for a safe visit.",
+      "social_caption": "🏝️ Paradise Beach, Thassos: bright sand, turquoise sea and a green hillside backdrop. 🌊 A wonderful place to discover when the water is calm. Save it for your island itinerary! 🇬🇷 #Thassos #ParadiseBeach #GreeceTravel",
+      "photo_alt": "Paradise Beach bay near Kinira on Thassos, with pale sand and turquoise water."
+    },
+    "el": {
+      "name": "Παραλία Παράδεισος (Paradise Beach)",
+      "tagline": "Ψιλή άμμος, γαλαζοπράσινα νερά και καταπράσινοι λόφοι",
+      "summary": "Η παραλία Παράδεισος βρίσκεται στην ανατολική Θάσο, νότια από τα Κοίνυρα. Ξεχωρίζει για τη λεπτή άμμο, τα γαλαζοπράσινα νερά, τους βραχώδεις σχηματισμούς και την πυκνή βλάστηση που αγκαλιάζει τον κόλπο.",
+      "description": "Η παραλία Παράδεισος απλώνεται σε έναν όμορφο κόλπο στην ανατολική πλευρά της Θάσου, περίπου δύο χιλιόμετρα νότια από τα Κοίνυρα. Η ανοιχτόχρωμη άμμος, τα γαλαζοπράσινα νερά, τα βράχια στις άκρες και οι κατάφυτες πλαγιές δημιουργούν ένα ιδιαίτερα φωτογενές τοπίο, ενώ στο βάθος διακρίνεται το μικρό νησί των Κοινύρων. Όταν η θάλασσα είναι ήρεμη, η είσοδος στο νερό είναι γενικά ομαλή και ο κόλπος αποτελεί αγαπημένο προορισμό για κολύμπι και χαλάρωση. Η ανατολική του έκθεση, ωστόσο, σημαίνει ότι με συγκεκριμένους ανέμους μπορεί να εμφανιστούν έντονα κύματα και μεταβολές στον αμμώδη βυθό. Η επίβλεψη των παιδιών είναι απαραίτητη ακόμη και όταν το νερό μοιάζει ρηχό. Υπάρχουν οργανωμένα σημεία με ξαπλώστρες και ομπρέλες, καθώς και ελεύθεροι χώροι για προσωπικό εξοπλισμό. Υπηρεσίες εστίασης, τουαλέτες και ντους λειτουργούν κυρίως εποχικά και μπορεί να εξαρτώνται από τα καταστήματα. Η πρόσβαση από τον περιφερειακό δρόμο περιλαμβάνει κατά τόπους χωματόδρομο και πιθανό περπάτημα από τη στάθμευση. Το βραχώδες βόρειο άκρο συνδέεται παραδοσιακά με επισκέπτες που προτιμούν τον γυμνισμό, ξεχωριστά από το κεντρικό οικογενειακό τμήμα. Για πιο ήσυχη επίσκεψη, επιλέξτε τις πρωινές ώρες ή περιόδους εκτός αιχμής.",
+      "practical_tips": "Ελέγξτε τον άνεμο και τον κυματισμό πριν κολυμπήσετε, ιδιαίτερα αν έχετε παιδιά. Το τελευταίο τμήμα της διαδρομής μπορεί να είναι χωμάτινο και να χρειάζεται περπάτημα. Το καλοκαίρι προτιμήστε πρωινή άφιξη. Οι παροχές και οι χρεώσεις για ξαπλώστρες μεταβάλλονται ανά εποχή και επιχείρηση. Έχετε μαζί σας προστασία από τον ήλιο, γιατί η σκιά πάνω στην άμμο δεν είναι εξασφαλισμένη.",
+      "highlights": [
+        "Λεπτή άμμος και γαλαζοπράσινα νερά",
+        "Θέα προς τη νησίδα των Κοινύρων",
+        "Καταπράσινες πλαγιές και βραχώδη άκρα",
+        "Συνήθως ομαλή είσοδος όταν η θάλασσα είναι ήρεμη",
+        "Οργανωμένοι και ελεύθεροι χώροι"
+      ],
+      "seo_title": "Παραλία Παράδεισος Θάσος – πρόσβαση, παροχές και συμβουλές",
+      "seo_description": "Ανακαλύψτε την παραλία Παράδεισος στη Θάσο, κοντά στα Κοίνυρα: άμμος, κύματα, πρόσβαση, στάθμευση, εποχικές παροχές και χρήσιμες οδηγίες.",
+      "social_caption": "🏝️ Παραλία Παράδεισος, Θάσος: απαλή άμμος, γαλαζοπράσινη θάλασσα και καταπράσινες πλαγιές. 🌊 Απολαύστε τη μαγεία του κόλπου όταν η θάλασσα είναι ήρεμη! 🇬🇷 #Θάσος #Παράδεισος #Ελλάδα",
+      "photo_alt": "Η παραλία Παράδεισος κοντά στα Κοίνυρα της Θάσου, με άμμο και γαλαζοπράσινα νερά."
+    },
+    "de": {
+      "name": "Paradise Beach (Paradeisos)",
+      "tagline": "Feiner Sand, türkisfarbenes Meer und grüne Berghänge",
+      "summary": "Paradise Beach liegt an der Ostküste von Thassos südlich von Kinira. Feiner Sand, bei ruhiger See flaches Wasser, felsige Buchtränder und dicht bewachsene Hänge prägen diesen besonders fotogenen Strand.",
+      "description": "Paradise Beach, auch Paradeisos genannt, liegt in einer malerischen Bucht an der Ostküste von Thassos, rund zwei Kilometer südlich von Kinira. Heller Sand, türkisfarbenes Meer, felsige Landzungen und dicht bewachsene Hänge bilden eine eindrucksvolle Landschaft. Vor der Küste ist die kleine Insel Kinira zu erkennen. Bei ruhigem Meer fällt der Einstieg ins Wasser meist sanft ab, weshalb die Bucht für entspannte Strandtage und Familienausflüge beliebt ist. Die nach Osten offene Küste kann bei Wind jedoch kräftige Wellen aufweisen; auch Sandvertiefungen unter Wasser können sich verändern. Kinder sollten deshalb immer beaufsichtigt werden. An einigen Stellen gibt es bewirtschaftete Bereiche mit Liegen und Sonnenschirmen, daneben freie Flächen für eigene Handtücher und Schirme. Gastronomie, Toiletten und Duschen sind vor allem an saisonale Anbieter gebunden und nicht an jedem Strandabschnitt garantiert. Die Zufahrt von der Inselstraße kann über einen unbefestigten Weg führen; je nach Parkplatz folgt ein Fußweg. Der felsige nördliche Rand der Bucht wird traditionell teilweise von Naturisten genutzt und ist vom Hauptstrand zu unterscheiden. Wer es ruhiger mag, kommt morgens oder außerhalb der stark besuchten Ferienwochen.",
+      "practical_tips": "Vor dem Schwimmen Wind und Wellengang prüfen, besonders mit Kindern. Der letzte Teil der Zufahrt kann unbefestigt sein und einen Fußweg erfordern. Im Hochsommer früh ankommen. Preise für Liegen und die Verfügbarkeit von Sanitäranlagen hängen vom jeweiligen Betreiber ab. Trotz der umliegenden Vegetation gibt es nicht überall natürlichen Schatten auf dem Sand.",
+      "highlights": [
+        "Feiner Sand und türkisfarbenes Wasser",
+        "Blick auf die kleine Insel Kinira",
+        "Bewaldete Hänge und Felsen",
+        "Meist flacher Einstieg bei ruhiger See",
+        "Bewirtschaftete und freie Bereiche"
+      ],
+      "seo_title": "Paradise Beach Thassos – Anfahrt, Ausstattung und Strandtipps",
+      "seo_description": "Paradise Beach auf Thassos entdecken: Sandbucht bei Kinira, Zufahrt, Parken, Wellen, saisonale Einrichtungen und praktische Hinweise.",
+      "social_caption": "🏝️ Paradise Beach auf Thassos: heller Sand, türkisfarbenes Wasser und grüne Hügel bis ans Meer. 🌊 Besonders schön an ruhigen Tagen! 🇬🇷 #Thassos #ParadiseBeach #Griechenland",
+      "photo_alt": "Sandige Bucht Paradise Beach nahe Kinira auf Thassos mit türkisfarbenem Meer."
+    },
+    "bg": {
+      "name": "Парадайз Бийч (Парадисос)",
+      "tagline": "Фин пясък, тюркоазено море и зелени склонове",
+      "summary": "Плажът Парадайз се намира на източния бряг на Тасос, южно от Кинира. Известен е с финия пясък, тюркоазената вода в спокойни дни, скалистите краища на залива и гъстата зеленина.",
+      "description": "Парадайз Бийч, известен и като Парадисос, е разположен в живописен залив по източното крайбрежие на остров Тасос, на около два километра южно от Кинира. Светлият пясък, тюркоазеното море, скалите в двата края и залесените хълмове създават впечатляваща гледка, а в морето се вижда малкият остров Кинира. При спокойно време навлизането във водата обикновено е плавно, затова плажът е приятен за плуване и семейна почивка. Източното изложение обаче означава, че при силен вятър могат да се появят големи вълни и промени в пясъчното дъно. Децата трябва да бъдат наблюдавани постоянно, дори когато водата изглежда плитка. На плажа има организирани зони с шезлонги и чадъри, както и свободни участъци за личен инвентар. Храна, напитки, тоалетни и душове се предлагат предимно сезонно и зависят от работещите заведения. Достъпът от главния островен път може да включва черен път и кратко ходене от мястото за паркиране. Скалистият северен край традиционно е посещаван и от нудисти, за разлика от основната семейна част. За по-спокойна атмосфера изберете сутрешните часове или период извън пиковия сезон.",
+      "practical_tips": "Проверявайте вятъра и вълните преди къпане, особено ако сте с деца. Последната част от пътя може да е неасфалтирана и да изисква ходене пеша. През лятото идвайте рано. Наличността на удобства и цените на шезлонгите зависят от сезонните оператори. Носете защита от слънцето — зеленината около плажа не гарантира сянка върху пясъка.",
+      "highlights": [
+        "Фин пясък и тюркоазени води",
+        "Изглед към островчето Кинира",
+        "Зелени хълмове и скалисти носове",
+        "Обикновено плавно навлизане при спокойно море",
+        "Организирани и свободни участъци"
+      ],
+      "seo_title": "Парадайз Бийч, Тасос – достъп, удобства и съвети",
+      "seo_description": "Открийте Парадайз Бийч на Тасос: пясъчен залив край Кинира, паркиране, вълни, сезонни удобства и полезни съвети.",
+      "social_caption": "🏝️ Парадайз Бийч, Тасос: светъл пясък, тюркоазено море и зелени склонове. 🌊 Запазете това място за следващата си почивка! 🇬🇷 #Тасос #ParadiseBeach #Гърция",
+      "photo_alt": "Плажът Парадайз край Кинира на Тасос, със светъл пясък и тюркоазено море."
+    },
+    "sr": {
+      "name": "Paradise Beach (Paradeisos)",
+      "tagline": "Sitni pesak, tirkizno more i šumoviti obronci",
+      "summary": "Plaža Paradise nalazi se na istočnoj obali Tasosa, južno od Kinire. Poznata je po finom pesku, tirkiznom plićaku za mirnog vremena, stenovitim krajevima uvale i gustoj zelenoj vegetaciji.",
+      "description": "Paradise Beach, poznata i kao Paradeisos, smeštena je u slikovitoj uvali na istočnoj obali Tasosa, oko dva kilometra južno od Kinire. Svetao pesak, tirkizna voda, stene na krajevima obale i šumoviti obronci stvaraju izuzetno lep prizor, a na pučini se vidi malo ostrvo Kinira. Kada je more mirno, ulazak u vodu je uglavnom postepen, pa je plaža privlačna za kupanje i porodični odmor. Ipak, zbog otvorenosti prema istočnim vetrovima mogu nastati snažni talasi, dok se peščane udubine pod vodom menjaju. Decu treba stalno nadgledati, čak i kada voda izgleda plitko. Postoje uređeni delovi sa ležaljkama i suncobranima, ali i slobodni prostori za sopstvenu opremu. Hrana, piće, toaleti i tuševi uglavnom zavise od sezonskih objekata i nisu jednako dostupni duž cele obale. Sa glavnog ostrvskog puta do plaže se stiže sporednim putem koji ponegde nije asfaltiran, uz moguće pešačenje od parkinga. Stenoviti severni deo tradicionalno posećuju i naturisti, odvojeno od glavnog dela koji posećuju porodice. Za mirniji doživljaj najbolje je doći ranije ili van najprometnijih letnjih nedelja.",
+      "practical_tips": "Proverite vetar i talase pre ulaska u vodu, naročito ako ste sa decom. Poslednji deo puta može biti zemljani, uz pešačenje od parkinga. U špicu sezone dođite rano. Sadržaji i cene ležaljki zavise od pojedinačnih objekata. Ponesite zaštitu od sunca: okolno zelenilo ne znači da na pesku uvek ima hlada.",
+      "highlights": [
+        "Fini pesak i tirkizna voda",
+        "Pogled na ostrvce Kinira",
+        "Zeleni obronci i stenovita obala",
+        "Uglavnom postepen ulazak pri mirnom moru",
+        "Uređeni i slobodni delovi"
+      ],
+      "seo_title": "Paradise Beach Tasos – prilaz, sadržaji i saveti",
+      "seo_description": "Upoznajte Paradise Beach na Tasosu: peščana uvala kod Kinire, parking, talasi, sezonski sadržaji i praktične informacije.",
+      "social_caption": "🏝️ Paradise Beach, Tasos: svetao pesak, tirkizno more i šumoviti obronci. 🌊 Sačuvajte je za sledeće letovanje! 🇬🇷 #Tasos #ParadiseBeach #Grcka",
+      "photo_alt": "Uvala Paradise Beach kod Kinire na Tasosu, sa svetlim peskom i tirkiznom vodom."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/paradise/images/paradise1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/paradise/images/paradise2.webp",
+      "destinations/thassos/beaches/paradise/images/paradise3.webp",
+      "destinations/thassos/beaches/paradise/images/paradise4.webp",
+      "destinations/thassos/beaches/paradise/images/paradise5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/paradise/images/",
+    "suggested_asset_names": [
+      "paradise1.webp",
+      "paradise2.webp",
+      "paradise3.webp",
+      "paradise4.webp",
+      "paradise5.webp"
+    ],
+    "image_policy": "Publish only user-provided, owned or appropriately licensed photographs depicting Paradise Beach near Kinira, Thassos. The five local paths were assigned from filenames shown in the supplied screenshot; verify geographic identity, provenance, commercial-use permission, and required attribution before publication.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_map",
+      "kind": "map_link",
+      "title": "MyThassos Paradise Beach — Google Maps directions point",
+      "url": "https://mythassos.app/en/places/227",
+      "detail": "Maps directions link resolves to 40.648084688479,24.766547302246; reference point, not validated parking/access.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_visitgreece",
+      "kind": "national_tourism",
+      "title": "Visit Greece — Beaches on Thasos Island",
+      "url": "https://www.visitgreece.gr/en/experiences/architecture/picturesque-villages/beaches-on-thasos-island",
+      "detail": "Describes natural scenery, fine sand, facilities and combined road/pedestrian access.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_gothassos",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Paradise",
+      "url": "https://www.go-thassos.gr/about-thassos/places/paradise",
+      "detail": "Sandy bay, hills, rocky areas, parking limitations, bus stop at ring road and naturism context.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_mythassos",
+      "kind": "travel_guide",
+      "title": "MyThassos — Paradise Beach",
+      "url": "https://mythassos.app/en/places/227",
+      "detail": "Local name history, 2 km south of Kinira, wave conditions and operator facilities; seasonal lifeguard claim not independently verified.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide",
+      "title": "Nikana — Paradise Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1921/paradise-beach",
+      "detail": "Updated August 2026. Organised and free sections, waves, sanitary facilities at operators and natural shade limitations.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_travelfind",
+      "kind": "travel_guide",
+      "title": "TravelFind — Paradise Beach",
+      "url": "https://thasos.travelfind.gr/en/info/spot/paradise-beach",
+      "detail": "Location near Kinira, fine sand, parking approach and seasonal facilities.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_mapcarta",
+      "kind": "geographic_reference",
+      "title": "Mapcarta — Paradise Beach OSM shoreline reference",
+      "url": "https://mapcarta.com/W158929686",
+      "detail": "OSM polygon independently supports location near 40.64524,24.7671, which differs from the third-party Google Maps reference point; review exact preferred navigation point.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm preferred Google Maps location and safe route/parking entrance",
+      "Verify that paradise1.webp–paradise5.webp depict Paradise Beach near Kinira, Thassos, rather than another beach; document provenance, permission for commercial publication and any required attribution",
+      "Confirm current services, prices, lifeguard coverage and accessibility",
+      "Native-speaker editorial review of the six translations before final publication"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; commercial publication and transfer rights for the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths were assigned based on filenames visible in the supplied screenshot. The actual WebP files, exact photographed subjects and usage rights have not been independently verified."
+  }
+}

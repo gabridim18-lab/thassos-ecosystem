@@ -1,0 +1,459 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-panagia",
+  "slug": "panagia",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παναγία",
+    "international_name": "Panagia",
+    "aliases": [
+      "Παναγία",
+      "Παναγία Θάσου",
+      "Panagia",
+      "Panagia Thassos",
+      "Panagía",
+      "Panagia Thasos"
+    ],
+    "area_type": "traditional_inland_village",
+    "entity_scope": "The inhabited historic mountain village of Panagia, on the northeastern hills of Thassos, including its village square, three springs, local architecture, church and traditional olive-mill heritage. It is not the coastal tourist settlement Skala Panagia / Chrysi Ammoudia and is not Golden Beach.",
+    "deduplication_warning": "Separate Panagia (OSM village node 280965058, 40.73126,24.72921) from Skala Panagia/Chrysi Ammoudia near the coast (separate area record) and from Panagia-related chapels or monasteries elsewhere on Thassos (including the Holy Monastery near Maries). Golden Beach is a beach record, not a second inland village or Panagia village beach.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": false,
+    "coast": null,
+    "part_of_island": "northeastern_inland_foothills",
+    "center": {
+      "lat": 40.73126,
+      "lng": 24.72921,
+      "coordinate_role": "OSM_place_village_node_280965058_settlement_reference_not_parking_or_vehicular_destination",
+      "coordinate_source": "Mapcarta / OpenStreetMap node 280965058; place=village",
+      "coordinate_source_url": "https://mapcarta.com/13815240",
+      "verification_status": "OSM_geographic_village_reference_crosschecked_with_Greek_Travel_Pages_and_regional_sources;_arrival_point_unverified",
+      "verified_on": "2026-10-28"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "Inhabited mountain village on the northeast-facing slopes of Thassos, above the Golden Beach area and roughly 8 km by road from Limenas according to tourism sources. Mapcarta places the village reference at approximately 230 m elevation; sources differ on approximate elevation and road distance. The mapped centre is not an entry or parking point. Chrysi Ammoudia / Skala Panagia is a different coastal settlement, and the church in Panagia village is not the Panagia monastery near Maries."
+  },
+  "overview": {
+    "settlement_character": "Year-round traditional mountain village with slate-roofed stone houses, narrow historic streets, running spring water, a church, cafés/tavernas and an olive-oil heritage museum. Strong local identity rather than a purpose-built seaside resort.",
+    "tourism_profile": [
+      "traditional_inland_village",
+      "historic_village",
+      "former_island_capital",
+      "traditional_macedonian_architecture",
+      "mountain_springs",
+      "three_springs_square",
+      "church_of_dormition",
+      "olive_oil_museum",
+      "water_powered_olive_mill",
+      "local_cuisine",
+      "village_walks",
+      "cultural_festivals",
+      "photography",
+      "golden_beach_excursion_base"
+    ],
+    "best_time_to_visit": "Spring and autumn suit comfortable walking and photography; summer brings more visitors and events around the Dormition feast on 15 August. Winters can be quiet, and opening periods vary for private attractions and eateries.",
+    "peak_season_notes": "The centre and narrow streets can be busy on summer afternoons, during the 15 August church celebration and around seasonal festivities. For the Sotirelis museum, verify current dates and hours with the operator; these change by season."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "Panagia became an administrative capital of Thassos in the period after the Greek uprising in 1821, before modern-day Limenas resumed the central role.",
+      "Historical movement from the exposed coast to safer inland hillside settlements during periods of piracy and insecurity, contributing to the village’s growth.",
+      "Historic settlement with Macedonian-influenced traditional buildings, roofs covered in grey slate, timber balconies and narrow streets; both Panagia and Theologos are documented in a 1972 protection notice, subject to legal-check before stronger preservation claims.",
+      "Holy Church of the Dormition of the Theotokos (Κοίμηση της Θεοτόκου), a landmark three-aisled basilica. The parish history records a major 1831 rebuilding/consecration episode; avoid implying its original foundation date is settled.",
+      "Three freshwater springs and stone water channels shaping village daily life and the character of the square.",
+      "Sotirelis family’s traditional water-powered olive press, established in 1915, now interpreted in a visitable museum; historic machinery and olive production are distinct from the modern factory in Limenas."
+    ],
+    "local_traditions": [
+      "Annual religious celebrations dedicated to the Dormition of the Virgin Mary on 15 August, with events subject to the parish/organisers’ current programme.",
+      "Clean Monday (Kathara Deftera) carnival activities, sometimes featuring satirical costumes and parades; precise timing and public schedule depend on year.",
+      "Traditional hospitality around the village square, springs, coffeehouses and local tavernas.",
+      "Olive cultivation and olive oil making illustrated through water-powered historic equipment and the local museum."
+    ],
+    "local_food_specialties": [
+      "Regional lamb or goat dishes, including spit-roasted preparations where a taverna offers them.",
+      "Locally produced olive oil and olives; specific provenance must be checked for each product.",
+      "Traditional Greek coffee and spoon sweets, including walnut sweet when available.",
+      "Thassian honey and regional sweets, depending on the business and season.",
+      "Seasonal religious feast foods, which are community traditions rather than guaranteed regular menu items."
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "traditional_architecture",
+      "culture_and_history",
+      "photography",
+      "couples",
+      "families_able_to_walk_uneven_streets",
+      "slow_travel",
+      "olive_oil_heritage",
+      "local_food",
+      "day_trips_from_limenas_and_golden_beach"
+    ],
+    "experiences": [
+      "Explore the village on foot, following stone-paved streets between slate-roofed houses and the small channels of spring water.",
+      "Spend time at the square and the three springs, combining a coffee or dessert with close-up views of local architecture.",
+      "Visit the exterior of the Church of the Dormition and enter only when open, following any religious service etiquette.",
+      "Explore the historic Sotirelis water-powered olive mill museum when open, learning how a local spring-powered press operated since 1915.",
+      "Try a locally prepared meal, such as roasted lamb or goat, or buy regional olive products from legitimate local shops.",
+      "Combine the village with a separate outing to Golden Beach at the coast; the beach is not within Panagia itself.",
+      "Attend an official 15 August celebration or Clean Monday festival if dates, locations and visitor conditions are confirmed."
+    ],
+    "points_of_interest_summary": [
+      "Historic Panagia village centre and Macedonian-style slate roofs",
+      "Village square, three springs and flowing water channels",
+      "Holy Church of the Dormition of the Theotokos (Panagia church)",
+      "Sotirelis Traditional Olive Mill / Olive Oil Museum",
+      "Small historic lanes, fountain details and panoramic views toward the coast",
+      "Golden Beach / Chrysi Akti — nearby coast, separate beach record",
+      "Seasonal Dormition festivities on 15 August; Clean Monday carnival when organised"
+    ],
+    "estimated_visit_duration": "Allow approximately 1–2 hours for a relaxed village walk and coffee, or 2–3 hours with the olive mill museum if it is open and a meal; longer if participating in a verified cultural event.",
+    "family_suitability": "Good for families looking for short cultural walks and a café stop, provided children are supervised near roads, steps and the channels of flowing water. The historic streets can be challenging for prams.",
+    "mobility_considerations": "Sloping lanes, narrow pavements, irregular stone paving, steps and mixed local traffic may limit accessibility. No verified continuous wheelchair-accessible circuit, step-free museum entrance or designated accessible parking is documented.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "Panagia is accessible by an inland hillside road from the Limenas side and is connected to the eastern-coast destinations by the local road network. The historic centre has narrow streets and limited manoeuvring space; follow current road signs and do not use the village reference coordinates as a car-arrival or parking point.",
+    "public_transport": "Bus connections between Limenas, Panagia and Potamia are shown in operator-linked October 2026 schedules. Frequency, stops and seasonal service change; consult the current KTEL timetable via the municipality rather than storing times or prices here.",
+    "parking_overview": "A precise, legal, public parking point and capacity were not independently verified. Use marked spaces where permitted and avoid obstructing residential lanes or private entrances. Arrival_point remains null.",
+    "pedestrian_access": "The historic core is best explored on foot on narrow, often sloping stone streets. Be mindful of local traffic, slippery paving after rain and water channels beside walking routes.",
+    "accessibility_note": "No independent field audit of step-free access to the square, church, springs or olive mill museum. Visitors with reduced mobility should enquire locally before expecting accessible parking or a barrier-free itinerary.",
+    "general_amenities": {
+      "supermarket": null,
+      "pharmacy": null,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": null,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "Wear non-slip shoes, expect gradients and some steps, and supervise children by roadways and water channels. Do not drink from springs without a current potable-water notice; spring water is a cultural feature, not independently certified here. Verify museum opening hours, religious access, festival logistics and bus services on the travel date.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-chrysi-ammoudia",
+      "gr-thassos-area-skala-potamia",
+      "gr-thassos-area-potamia",
+      "gr-thassos-area-limenas"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-golden"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "Other beaches, attractions, accommodations and businesses reference Panagia through area_id when geographically appropriate. Golden Beach belongs to the coast and remains a single distinct beach ID, also featured by Skala Potamia/Chrysi Ammoudia. No individual POI IDs may be invented; use separately verified attraction records once available.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "Panagia has no ferry port. Boat times belong in separate live/recently verified ferry route records, not static town JSON. Verify KTEL lines against the travel date and island operating season."
+  },
+  "translations": {
+    "ro": {
+      "name": "Panagia",
+      "tagline": "Izvoare, acoperișuri de piatră și tradiții vii deasupra mării",
+      "summary": "Panagia este un sat tradițional de munte din nord-estul insulei Thassos, cunoscut pentru acoperișurile din piatră, izvoarele din centrul vechi, biserica Adormirii Maicii Domnului și moara istorică de ulei de măsline Sotirelis.",
+      "description": "Deasupra golfului Golden Beach, între versanți înverziți și străzi înguste, Panagia dezvăluie o altă față a insulei Thassos. Nu este o stațiune de plajă, ci un sat locuit tot anul, în care casele tradiționale cu acoperișuri de ardezie, micile balcoane din lemn și apa care curge pe lângă ulițe creează o atmosferă aparte. Panagia și Skala Panagia, de pe litoral, sunt două locuri diferite: aici vii pentru patrimoniu și tihnă, iar la Golden Beach pentru mare și nisip.\n\nO vizită începe firesc în centrul vechi, lângă piațetă și cele trei izvoare. Apa de munte, canalele de piatră și fațadele deschise la culoare fac din plimbarea pe jos o experiență plăcută pentru cei care iubesc fotografia și arhitectura. Așază-te la o cafenea pentru o cafea grecească sau un dulce tradițional, apoi explorează pe îndelete străduțele. Unele clădiri sunt locuințe private; farmecul satului se descoperă fără a intra în curțile oamenilor.\n\nPanagia are și un loc important în istoria insulei. După evenimentele din 1821, a îndeplinit rolul de capitală administrativă a Thassosului, iar dezvoltarea așezărilor din interior este legată și de vremurile în care locuitorii căutau mai multă siguranță departe de atacurile venite de pe mare. Biserica Adormirii Maicii Domnului, cu arhitectura sa de bazilică, este un reper spiritual și istoric; sursele parohiei documentează reconstrucția și sfințirea din 1831, fără a stabili cu certitudine data primei biserici. Ziua de 15 august are o semnificație specială pentru comunitate.\n\nO experiență care merită inclusă este vechea presă de ulei de măsline Sotirelis, transformată în muzeu. Începând din 1915, familia a folosit puterea apei izvoarelor pentru a pune în mișcare utilajele de producție. Astăzi, povestea morii și a agriculturii locale este prezentată prin echipamente, imagini și explicații, atunci când muzeul este deschis. În sat găsești și taverne unde poți încerca preparate cu miel sau capră, produse din măsline ori dulciuri regionale, în funcție de meniu și sezon.\n\nRezervă timp pentru o plimbare relaxată, nu doar pentru o oprire rapidă în drum spre plajă. Primăvara și toamna sunt potrivite pentru explorare, iar vara centrul poate deveni mai animat, mai ales în jurul sărbătorii Adormirii Maicii Domnului sau al altor evenimente locale. Poartă încălțăminte aderentă, ține cont de pante și verifică în ziua vizitei programul muzeului și autobuzelor. Panagia își păstrează frumusețea tocmai prin întâlnirea dintre viața de sat, istorie și natură.",
+      "history_culture": "Panagia s-a dezvoltat ca așezare de refugiu în interiorul insulei, într-o perioadă în care incursiunile piraților făceau vulnerabile localitățile de coastă. După mișcările din 1821, satul a fost capitală a Thassosului pentru o perioadă. Casele cu acoperișuri de ardezie și balcoane de lemn păstrează caracterul arhitectural local. Biserica Adormirii Maicii Domnului are o istorie documentată de reconstrucție și sfințire în 1831. Izvoarele au alimentat inclusiv moara de ulei Sotirelis, începută în 1915. În comunitate au importanță sărbătoarea de la 15 august și, când se organizează, carnavalul de Lunea Curată.",
+      "local_character": "Un sat viu, nu un decor turistic: fântâni, apă curgătoare, ulițe înguste, cafenele umbrite și acoperișuri de piatră. Atmosfera este calmă în afara orelor aglomerate și mai festivă în timpul sărbătorilor locale.",
+      "what_to_do": "Plimbă-te prin centrul tradițional și pe lângă cele trei izvoare; admiră exteriorul bisericii Adormirii Maicii Domnului; descoperă muzeul morii de ulei Sotirelis când este deschis; oprește-te la o tavernă și fotografiază satul de pe căile publice. Pentru mare, continuă separat către Golden Beach, în zona Skala Panagia / Skala Potamia.",
+      "practical_tips": "Satul este pe deal, nu pe plajă. Străzile au pante, trepte și pavaj neregulat; poartă încălțăminte comodă. Verifică programul sezonier al muzeului și curselor KTEL, fără să te bazezi pe un orar vechi. Coordonatele afișează centrul satului, nu o parcare verificată. Apa izvoarelor nu trebuie considerată potabilă fără indicații locale actuale.",
+      "highlights": [
+        "Piațeta și cele trei izvoare",
+        "Case tradiționale cu acoperișuri de ardezie",
+        "Biserica Adormirii Maicii Domnului",
+        "Moara de ulei și muzeul Sotirelis",
+        "Taverne, tradiții și priveliști spre coastă"
+      ],
+      "seo_title": "Panagia, Thassos – Sat tradițional, izvoare și muzeul uleiului",
+      "seo_description": "Descoperă Panagia din Thassos: case tradiționale, cele trei izvoare, biserica istorică, muzeul Sotirelis și sfaturi pentru vizită.",
+      "social_caption": "La câteva serpentine de mare, Panagia te așteaptă cu izvoare, case de piatră și gustul autentic al Thassosului. 🌿🏡",
+      "photo_alt": "Satul tradițional Panagia din Thassos, cu acoperișuri de piatră și dealuri înverzite."
+    },
+    "en": {
+      "name": "Panagia",
+      "tagline": "Mountain springs, slate rooftops and living island traditions",
+      "summary": "Panagia is a historic mountain village in northeastern Thassos, known for its slate-roofed houses, three springs, the Church of the Dormition and the traditional Sotirelis olive-oil mill museum.",
+      "description": "High above the Golden Beach bay, Panagia reveals a quieter, historic side of Thassos. This is not a seaside resort but a year-round mountain village, where whitewashed houses, grey slate roofs, wooden balconies and channels of fresh spring water shape the streetscape. Panagia itself should not be confused with Skala Panagia, the coastal holiday settlement below: visit the village for heritage and atmosphere, and travel separately to Golden Beach for swimming.\n\nThe heart of Panagia lies around its small square and three springs. Water flows through stone channels between traditional homes and shaded meeting places, making the old streets rewarding to explore without a fixed itinerary. Sit down for Greek coffee, perhaps with a walnut spoon sweet if available, then take your time looking at old doorways, projecting balconies and the distinctive rooflines. Many of these are private homes rather than visitor attractions, so stay on public routes and photograph respectfully.\n\nPanagia also has a remarkable place in island history. After the events of the Greek uprising in 1821, it served for a time as a capital of Thassos. The village grew partly through earlier periods when coastal residents sought greater protection from piracy and insecurity inland. Its landmark Church of the Dormition of the Theotokos is an imposing historic basilica. The parish documents a major rebuilding and consecration in 1831, although the date of the original foundation remains uncertain. The community’s celebration on 15 August continues to be a significant occasion.\n\nAnother rewarding stop is the Sotirelis traditional olive-oil mill museum. From 1915, the family used the power of water from Panagia’s springs to drive oil-press equipment. The museum interprets this heritage with historic machinery, images and explanations; check the operator’s seasonal opening arrangements before making the visit. The wider village experience includes tavernas, local olive products, regional sweets and lamb or goat dishes when offered. A stroll and a meal can easily make a satisfying half-day outing.\n\nPanagia is beautiful in spring and autumn, when village walking can be more comfortable, as well as in summer when festivals bring extra life to the centre. Seasonal Clean Monday carnival customs and the 15 August religious feast are worth looking out for, but specific public programmes need confirmation for each year. Allow time for the hills, uneven paving and narrow streets; do not assume there is accessible parking beside the square or that spring water has been tested for drinking. Panagia rewards visitors who slow down and discover Thassos beyond its beaches.",
+      "history_culture": "The growth of inland Panagia is associated with the search for safer hillside homes during periods of piracy along the coast. Following the 1821 uprising, Panagia served as a capital of Thassos for a period. The old village retains Macedonian-influenced architecture with slate roofs, wooden balconies and narrow lanes. The Church of the Dormition has documented nineteenth-century rebuilding and consecration in 1831, while its first foundation date is less certain. The three springs also powered the Sotirelis family olive mill from 1915. The 15 August feast and occasional Clean Monday carnival celebrations remain important parts of local culture.",
+      "local_character": "Panagia feels like a real, lived-in village: running water, stone lanes, shaded cafés, traditional roofs and small daily routines. It is calm between tourist peaks and lively around local celebrations.",
+      "what_to_do": "Wander around the village square and the three springs, admire the Church of the Dormition, visit the historic Sotirelis olive mill museum when open and stop for coffee or a traditional meal. Photograph homes from public streets. Combine your visit with a separate trip to Golden Beach at Skala Panagia / Skala Potamia if you also want the sea.",
+      "practical_tips": "Panagia is an inland hillside village, not a beach. Expect slopes, steps and uneven paving. Verify seasonal museum hours and current KTEL bus schedules rather than relying on old timetables. The village GPS is a settlement reference, not a confirmed parking or driving arrival point. Do not assume spring water is safe to drink without current local signs.",
+      "highlights": [
+        "The square and three mountain springs",
+        "Traditional houses and slate roofs",
+        "Church of the Dormition of the Theotokos",
+        "Sotirelis olive-oil mill museum",
+        "Village tavernas and views toward the coast"
+      ],
+      "seo_title": "Panagia, Thassos – Traditional Village, Springs & Olive Museum",
+      "seo_description": "Explore Panagia in Thassos: historic slate-roofed streets, three springs, the Dormition church, the Sotirelis olive mill and practical travel tips.",
+      "social_caption": "A little above the sea, Panagia reveals another side of Thassos: spring water, stone rooftops and traditions still alive. 🌿🏡",
+      "photo_alt": "Traditional Panagia mountain village in Thassos with stone roofs and green hillsides."
+    },
+    "el": {
+      "name": "Παναγία",
+      "tagline": "Τρεχούμενα νερά, πετρόχτιστες στέγες και ζωντανή παράδοση",
+      "summary": "Η Παναγία είναι παραδοσιακό ορεινό χωριό στη βορειοανατολική Θάσο, γνωστό για τις σχιστολιθικές στέγες, τις τρεις πηγές, τον ναό της Κοιμήσεως της Θεοτόκου και το παλιό ελαιοτριβείο Σωτηρέλη.",
+      "description": "Πάνω από τον κόλπο της Χρυσής Αμμουδιάς, η Παναγία αποκαλύπτει μια διαφορετική, πιο ιστορική όψη της Θάσου. Δεν είναι παραθαλάσσιο θέρετρο, αλλά ζωντανό ορεινό χωριό, με λευκά σπίτια, γκρίζες σχιστολιθικές στέγες, ξύλινα μπαλκόνια και τρεχούμενο νερό στα στενά του. Η Παναγία δεν πρέπει να συγχέεται με τη Σκάλα Παναγίας, τον παραθαλάσσιο οικισμό που βρίσκεται χαμηλότερα. Εδώ έρχεται κανείς για την αρχιτεκτονική και την τοπική ιστορία· για μπάνιο κατευθύνεται ξεχωριστά στη Χρυσή Αμμουδιά.\n\nΗ βόλτα αρχίζει ιδανικά από την πλατεία με τις τρεις πηγές. Το νερό διασχίζει πέτρινα αυλάκια ανάμεσα στα σπίτια και δίνει στον οικισμό τον χαρακτηριστικό ήχο και τη δροσιά του. Καθίστε για ελληνικό καφέ ή για ένα γλυκό του κουταλιού, αν υπάρχει διαθέσιμο, και περπατήστε στα δρομάκια ανακαλύπτοντας παλιές πόρτες, αυλές και ξύλινα σαχνισιά. Αρκετά από τα κτίρια είναι κατοικίες, γι’ αυτό χρειάζεται διακριτικότητα και σεβασμός στους ιδιωτικούς χώρους.\n\nΗ Παναγία συνδέεται στενά με την ιστορία του νησιού. Μετά τα γεγονότα του 1821 υπήρξε για ένα διάστημα πρωτεύουσα της Θάσου, ενώ η ανάπτυξή της συνδέεται και με τη μετακίνηση κατοίκων από την ακτή προς ασφαλέστερες ορεινές θέσεις σε παλαιότερες εποχές. Ο επιβλητικός ναός της Κοιμήσεως της Θεοτόκου αποτελεί σημαντικό θρησκευτικό και αρχιτεκτονικό μνημείο. Η ιστορία της ενορίας καταγράφει ανοικοδόμηση και εγκαίνια το 1831, χωρίς να είναι βέβαιη η χρονολογία της αρχικής θεμελίωσης. Η 15η Αυγούστου είναι ιδιαίτερα σημαντική για την κοινότητα.\n\nΜια ξεχωριστή εμπειρία είναι το παραδοσιακό ελαιοτριβείο Σωτηρέλη, που σήμερα λειτουργεί ως επισκέψιμος χώρος ιστορίας της ελαιοπαραγωγής. Από το 1915 η οικογένεια αξιοποιούσε τη δύναμη του νερού των πηγών για τη λειτουργία των μηχανημάτων. Ο παλιός εξοπλισμός, οι φωτογραφίες και οι παρουσιάσεις αφηγούνται αυτή την ιστορία, όταν το μουσείο είναι ανοιχτό. Στις ταβέρνες μπορείτε, ανάλογα με την εποχή και το μενού, να δοκιμάσετε ντόπιες γεύσεις με αρνί ή κατσίκι, ελιές και γλυκίσματα.\n\nΗ άνοιξη και το φθινόπωρο είναι ευχάριστες εποχές για περπάτημα, ενώ το καλοκαίρι η Παναγία αποκτά περισσότερο κόσμο, ιδιαίτερα σε γιορτές. Οι εκδηλώσεις της Παναγίας τον Δεκαπενταύγουστο και τα έθιμα της Καθαράς Δευτέρας έχουν το δικό τους χαρακτήρα, όμως το ακριβές πρόγραμμα ελέγχεται κάθε χρόνο. Προτιμήστε παπούτσια κατάλληλα για ανηφόρες και πέτρινες επιφάνειες και επιβεβαιώστε τα ωράρια του μουσείου και των λεωφορείων. Το χωριό αξίζει μια επίσκεψη χωρίς βιασύνη.",
+      "history_culture": "Η ανάπτυξη της Παναγίας συνδέεται με τις μετακινήσεις κατοίκων προς την ενδοχώρα σε περιόδους πειρατικών επιδρομών. Μετά το 1821 αποτέλεσε για ένα διάστημα πρωτεύουσα της Θάσου. Ο οικισμός διατηρεί παραδοσιακή αρχιτεκτονική με σχιστολιθικές στέγες και ξύλινα μπαλκόνια. Για τον ναό της Κοιμήσεως της Θεοτόκου καταγράφονται ανοικοδόμηση και εγκαίνια το 1831, ενώ η αρχική θεμελίωσή του δεν έχει εξακριβωθεί. Οι τρεις πηγές τροφοδοτούσαν και το ελαιοτριβείο Σωτηρέλη, με ιστορία από το 1915. Ο Δεκαπενταύγουστος και τα τοπικά αποκριάτικα έθιμα παραμένουν σημαντικά.",
+      "local_character": "Ζωντανός ορεινός οικισμός με τρεχούμενα νερά, στενά λιθόστρωτα, παλιά σπίτια και καφενεία. Η ατμόσφαιρα είναι ήρεμη τις περισσότερες ώρες και πιο γιορτινή στις μεγάλες τοπικές εκδηλώσεις.",
+      "what_to_do": "Περπατήστε στην πλατεία και στις τρεις πηγές, θαυμάστε τον ναό της Κοιμήσεως της Θεοτόκου, επισκεφθείτε το παλιό ελαιοτριβείο Σωτηρέλη όταν είναι ανοιχτό και δοκιμάστε τοπικές γεύσεις. Φωτογραφίστε από δημόσιους χώρους. Για θάλασσα συνδυάστε ξεχωριστή εκδρομή στη Χρυσή Αμμουδιά.",
+      "practical_tips": "Η Παναγία βρίσκεται στην πλαγιά, όχι πάνω στην παραλία. Υπάρχουν ανηφόρες, σκαλιά και ανώμαλα λιθόστρωτα. Ελέγξτε τα εποχικά ωράρια του μουσείου και τα τρέχοντα δρομολόγια ΚΤΕΛ. Οι συντεταγμένες αφορούν τον οικισμό, όχι επιβεβαιωμένο χώρο στάθμευσης. Μην θεωρείτε το νερό των πηγών πόσιμο χωρίς πρόσφατη σχετική σήμανση.",
+      "highlights": [
+        "Η πλατεία και οι τρεις πηγές",
+        "Παραδοσιακά σπίτια με πέτρινες στέγες",
+        "Ναός Κοιμήσεως της Θεοτόκου",
+        "Παλιό ελαιοτριβείο και μουσείο Σωτηρέλη",
+        "Ταβέρνες και θέα προς την ακτή"
+      ],
+      "seo_title": "Παναγία Θάσου – Παραδοσιακό χωριό, πηγές και ελαιοτριβείο",
+      "seo_description": "Γνωρίστε την Παναγία Θάσου: τρεις πηγές, πέτρινες στέγες, ιστορικός ναός, μουσείο ελαιοτριβείου Σωτηρέλη και πρακτικές πληροφορίες.",
+      "social_caption": "Λίγο πάνω από τη θάλασσα, η Παναγία προσφέρει πηγές, παραδοσιακές στέγες και την αυθεντική ζωή της Θάσου. 🌿🏡",
+      "photo_alt": "Το παραδοσιακό ορεινό χωριό Παναγία στη Θάσο, με πέτρινες στέγες και πράσινες πλαγιές."
+    },
+    "de": {
+      "name": "Panagia",
+      "tagline": "Bergquellen, Schieferdächer und gelebte Traditionen",
+      "summary": "Panagia ist ein historisches Bergdorf im Nordosten von Thassos, bekannt für seine schiefergedeckten Häuser, die drei Quellen, die Kirche Mariä Entschlafung und das traditionelle Olivenölmühlen-Museum Sotirelis.",
+      "description": "Hoch über der Bucht von Golden Beach zeigt Panagia eine ursprüngliche, geschichtsträchtige Seite von Thassos. Das Dorf ist kein Badeort, sondern eine ganzjährig bewohnte Bergsiedlung mit weiß verputzten Häusern, grauen Schieferdächern, Holzbalkonen und kleinen Wasserläufen entlang der Gassen. Panagia darf nicht mit Skala Panagia an der Küste verwechselt werden: Hier stehen Architektur und Dorfleben im Mittelpunkt, während der Strand von Golden Beach einen eigenen Ausflug wert ist.\n\nEin Spaziergang beginnt am besten auf dem kleinen Dorfplatz bei den drei Quellen. Das klare Bergwasser fließt durch steinerne Rinnen, vorbei an alten Häusern und schattigen Treffpunkten. Bei einem griechischen Kaffee oder einer traditionellen Süßigkeit, sofern angeboten, lässt sich die Atmosphäre in Ruhe genießen. Wer danach durch die engen Straßen schlendert, entdeckt Schieferdächer, alte Türen und vorspringende Holzbalkone. Viele Gebäude sind privat bewohnt; bei Fotos sollte man auf die Privatsphäre achten.\n\nPanagia spielte auch in der Geschichte der Insel eine bedeutende Rolle. Nach den Ereignissen von 1821 war das Dorf zeitweise die Hauptstadt von Thassos. Das Wachstum der Bergsiedlung hängt zudem mit Epochen zusammen, in denen Küstenbewohner vor Piratenangriffen und Unsicherheit im Landesinneren Schutz suchten. Die Kirche der Entschlafung der Gottesmutter ist ein markantes historisches Gotteshaus. Die Kirchengemeinde dokumentiert einen großen Wiederaufbau und die Weihe im Jahr 1831; das Datum der ursprünglichen Gründung ist jedoch nicht eindeutig belegt. Am 15. August hat das religiöse Gemeindeleben einen besonderen Höhepunkt.\n\nEinen weiteren Einblick bietet die historische Olivenölmühle Sotirelis, die heute als Museum besucht werden kann. Seit 1915 nutzte die Familie das Wasser der Dorfquellen, um die Maschinen für das Pressen der Oliven anzutreiben. Alte Anlagen, Fotos und Erläuterungen machen diese Produktionsgeschichte anschaulich. Da der Museumsbetrieb saisonal ist, sollten die aktuellen Öffnungszeiten vor der Anreise geprüft werden. In den Tavernen stehen je nach Angebot Gerichte mit Lamm oder Ziege, Olivenprodukte und regionale Süßspeisen auf der Karte.\n\nFrühling und Herbst eignen sich gut für gemütliche Dorfrundgänge; im Sommer ist rund um Feste und Ferien mehr los. Besonders die Feier zu Mariä Entschlafung am 15. August und die örtlichen Bräuche am Reinen Montag gehören zum kulturellen Leben, doch das konkrete Jahresprogramm muss jeweils überprüft werden. Tragen Sie feste Schuhe für Steigungen und unregelmäßiges Pflaster und planen Sie genügend Zeit ein. Panagia ist ein Ort, den man am besten ohne Eile entdeckt.",
+      "history_culture": "Panagia entwickelte sich auch durch die Ansiedlung von Menschen, die in Zeiten von Piratenüberfällen die gefährdete Küste verließen. Nach 1821 war es zeitweise die Hauptstadt von Thassos. Schieferdächer, Holzbalkone und schmale Gassen prägen die historische Architektur. Der Wiederaufbau und die Weihe der Kirche Mariä Entschlafung sind für 1831 dokumentiert, das Datum des ersten Kirchenbaus bleibt ungewiss. Die drei Quellen lieferten auch die Wasserkraft für die Olivenölmühle der Familie Sotirelis, deren Geschichte 1915 beginnt. Das Fest am 15. August und lokale Karnevalsbräuche sind Teil der Dorfkultur.",
+      "local_character": "Ein echtes, bewohntes Bergdorf mit fließendem Wasser, alten Steingassen, traditionellen Häusern und kleinen Cafés. Außerhalb der touristischen Spitzenzeiten herrscht eine ruhige Atmosphäre.",
+      "what_to_do": "Besuchen Sie den Dorfplatz und die drei Quellen, bewundern Sie die Kirche Mariä Entschlafung, entdecken Sie die historische Olivenölmühle Sotirelis bei geöffnetem Museum und genießen Sie eine lokale Mahlzeit. Fotografieren Sie private Häuser nur von öffentlichen Wegen. Für einen Strandtag führt ein separater Ausflug nach Golden Beach.",
+      "practical_tips": "Panagia liegt auf einem Berghang, nicht direkt am Meer. Rechnen Sie mit Steigungen, Stufen und unebenem Steinpflaster. Saisonale Museumszeiten und aktuelle KTEL-Busverbindungen müssen überprüft werden. Die GPS-Koordinaten kennzeichnen das Dorf, keinen bestätigten Parkplatz. Wasser aus den Quellen sollte ohne aktuelle Trinkwasserkennzeichnung nicht als bedenkenlos trinkbar gelten.",
+      "highlights": [
+        "Dorfplatz und drei Bergquellen",
+        "Traditionelle Häuser mit Schieferdächern",
+        "Kirche Mariä Entschlafung",
+        "Historische Sotirelis-Olivenölmühle",
+        "Tavernen und Ausblicke zur Küste"
+      ],
+      "seo_title": "Panagia, Thassos – Bergdorf, Quellen und Olivenölmuseum",
+      "seo_description": "Entdecken Sie Panagia auf Thassos: Schieferdächer, drei Quellen, historische Kirche, Sotirelis-Olivenölmühle und praktische Besuchstipps.",
+      "social_caption": "Oberhalb des Meeres zeigt Panagia die stille Seite von Thassos: Bergquellen, Steindächer und lebendige Traditionen. 🌿🏡",
+      "photo_alt": "Traditionelles Bergdorf Panagia auf Thassos mit Schieferdächern und grünen Hügeln."
+    },
+    "bg": {
+      "name": "Панагия",
+      "tagline": "Планински извори, каменни покриви и живи традиции",
+      "summary": "Панагия е традиционно планинско село в североизточната част на Тасос, известно с къщите с каменни покриви, трите извора, църквата „Успение Богородично“ и старото маслобойно съоръжение на семейство Сотирелис.",
+      "description": "Над залива на Golden Beach Панагия разкрива една различна, историческа страна на остров Тасос. Това не е морски курорт, а обитавано през цялата година планинско село с бели къщи, сиви каменни покриви, дървени балкони и течаща вода покрай тесните улички. Панагия не бива да се бърка със Скала Панагия на крайбрежието: тук се идва заради архитектурата и атмосферата, докато плажът е отделна спирка.\n\nРазходката може да започне от малкия площад с трите извора. Водата се движи по каменни канали между къщите и придава на селото характерния му звук. Седнете за гръцко кафе или традиционен сладкиш, ако се предлага, а после разгледайте старите врати, уличките и балконите. Част от сградите са частни домове, затова е добре снимките да се правят от обществени места и с уважение към жителите.\n\nПанагия има важно място и в историята на острова. След събитията от 1821 г. тя за известно време е изпълнявала ролята на столица на Тасос. Разрастването на вътрешните селища е свързано с периоди, когато хората са търсели защита от нападения по крайбрежието. Историческата църква „Успение Богородично“ е един от основните символи на селото. Енорията документира възстановяване и освещаване през 1831 г., но първоначалната дата на основаване не е напълно установена. Празникът на 15 август има особено значение за общността.\n\nСред най-интересните места е традиционната маслобойна Сотирелис, днес представена като музей на зехтинопроизводството. От 1915 г. семейството е използвало силата на водата от изворите, за да задвижва машините. Старото оборудване и снимките разказват историята на този занаят, когато музеят е отворен. В местните таверни може да опитате ястия с агнешко или козе месо, маслини и регионални десерти според менюто и сезона.\n\nПролетта и есента са приятни за разходки, а през лятото селото е по-оживено, особено около религиозните празници и местните събития. Честването на Успение Богородично на 15 август и обичаите на Чист понеделник са част от традицията, но точната програма се потвърждава всяка година. Носете удобни обувки за наклонени и неравни каменни улици и проверявайте актуалното работно време на музея и автобусите. Най-хубавото в Панагия се открива без бързане.",
+      "history_culture": "Развитието на Панагия е свързано с преселването на жители от по-уязвимото крайбрежие към по-защитените планински места. След 1821 г. селото за известно време е столица на остров Тасос. Традиционните къщи имат каменни покриви и дървени балкони. Историята на църквата „Успение Богородично“ включва възстановяване и освещаване през 1831 г., докато началната дата на строежа остава неясна. Трите извора са захранвали водната маслобойна на семейство Сотирелис от 1915 г. Важни са празникът на 15 август и местните карнавални обичаи.",
+      "local_character": "Живо планинско село, а не само туристическа забележителност: течаща вода, тесни каменни улици, стари къщи и спокойни кафенета. По време на празници центърът става по-оживен.",
+      "what_to_do": "Разходете се до площада и трите извора, разгледайте отвън църквата „Успение Богородично“, посетете музея на старата маслобойна Сотирелис, когато е отворен, и опитайте местна кухня. Снимайте от обществени места. За плаж продължете отделно към Golden Beach.",
+      "practical_tips": "Панагия е по планински склон, а не на плажа. Има наклони, стъпала и неравни каменни настилки. Проверявайте сезонното работно време на музея и актуалното разписание на автобусите KTEL. GPS точката обозначава селото, не потвърден паркинг. Не приемайте водата от изворите за питейна без актуална местна обозначителна табела.",
+      "highlights": [
+        "Площадът и трите извора",
+        "Традиционни къщи с каменни покриви",
+        "Църквата „Успение Богородично“",
+        "Старата маслобойна и музеят Сотирелис",
+        "Таверни и гледки към крайбрежието"
+      ],
+      "seo_title": "Панагия, Тасос – Традиционно село, извори и музей",
+      "seo_description": "Посетете Панагия на Тасос: три извора, каменни покриви, историческа църква, музей на Сотирелис и полезни съвети.",
+      "social_caption": "Над морето Панагия пази другия облик на Тасос: планински извори, стари покриви и истински традиции. 🌿🏡",
+      "photo_alt": "Традиционното планинско село Панагия на остров Тасос с каменни покриви и зелени склонове."
+    },
+    "sr": {
+      "name": "Panagija",
+      "tagline": "Planinski izvori, kameni krovovi i živa ostrvska tradicija",
+      "summary": "Panagija je tradicionalno planinsko selo na severoistoku Tasosa, poznato po kamenim krovovima, tri izvora, crkvi Uspenja Presvete Bogorodice i staroj uljari porodice Sotirelis.",
+      "description": "Iznad zaliva Golden Beach, Panagija otkriva mirniju i istorijsku stranu Tasosa. Ovo nije primorsko letovalište, već planinsko selo u kome se živi tokom cele godine. Bele kuće, sivi kameni krovovi, drveni balkoni i voda koja teče kroz uske ulice stvaraju poseban ambijent. Panagiju ne treba mešati sa Skalom Panagijom na obali: u selo se dolazi zbog tradicije i arhitekture, dok je odlazak na plažu poseban deo izleta.\n\nŠetnju započnite na malom trgu sa tri izvora. Voda protiče kamenim kanalima između kuća i daje selu prepoznatljiv zvuk. Zastanite na grčkoj kafi ili tradicionalnom slatkom, ako ga lokal nudi, pa polako istražite stare prolaze, vrata i balkone. Mnoge kuće su privatne, zato fotografišite sa javnih staza i poštujte mir meštana.\n\nPanagija zauzima važno mesto u istoriji ostrva. Posle događaja iz 1821. godine jedno vreme je bila prestonica Tasosa. Razvoj planinskih sela povezan je i sa ranijim periodima kada su stanovnici obale tražili sigurnost u unutrašnjosti zbog napada pirata. Istorijska crkva Uspenja Presvete Bogorodice jedan je od najvažnijih spomenika u mestu. Parohijski izvori beleže obnovu i osvećenje 1831. godine, dok prvobitni datum osnivanja nije pouzdano utvrđen. Praznik 15. avgusta posebno je važan za zajednicu.\n\nVredi posetiti i staru uljaru Sotirelis, danas muzejski prostor posvećen proizvodnji maslinovog ulja. Porodica je od 1915. godine koristila snagu vode iz seoskih izvora za pokretanje mašina. Stara oprema, fotografije i objašnjenja prikazuju kako se nekada proizvodilo ulje, ali posetu treba uskladiti sa sezonskim radnim vremenom. U tavernama možete pronaći jela od jagnjetine ili jaretine, masline i lokalne poslastice, u zavisnosti od ponude.\n\nProleće i jesen pogodni su za mirne šetnje, dok je leti više posetilaca i prazničnih događaja. Proslava Uspenja Bogorodice 15. avgusta i običaji na Čisti ponedeljak deo su lokalnog života, ali se tačan program proverava svake godine. Ponesite obuću pogodnu za uzbrdice i neravne kamene površine, proverite radno vreme muzeja i polaske autobusa. Panagija je najlepša kada joj posvetite vreme bez žurbe.",
+      "history_culture": "Panagija se razvijala i kroz doseljavanje stanovnika koji su u planinskoj unutrašnjosti tražili zaštitu od napada na obalu. Posle 1821. godine selo je određeno vreme bilo prestonica Tasosa. Sačuvane su tradicionalne kuće sa kamenim krovovima i drvenim balkonima. Obnova i osvećenje crkve Uspenja Presvete Bogorodice dokumentovani su 1831, dok prvobitni datum izgradnje nije sasvim poznat. Tri izvora su pokretala i staru uljaru porodice Sotirelis, čija istorija počinje 1915. Verski praznik 15. avgusta i lokalni karnevalski običaji ostaju važni za zajednicu.",
+      "local_character": "Stvarno planinsko selo sa tekućom vodom, uskim kamenim ulicama, starim kućama i malim kafićima. Obično je mirno, a tokom lokalnih praznika mnogo življe.",
+      "what_to_do": "Prošetajte do trga i tri izvora, pogledajte crkvu Uspenja Presvete Bogorodice, obiđite muzej stare uljare Sotirelis kada je otvoren i probajte lokalnu hranu. Fotografije pravite sa javnih površina. Za kupanje planirajte poseban izlet do plaže Golden Beach.",
+      "practical_tips": "Panagija je planinsko selo, a ne plaža. Očekujte uspone, stepenice i neravne kamene ulice. Proverite sezonsko radno vreme muzeja i aktuelne KTEL autobuske polaske. GPS označava položaj sela, ne provereno mesto za parkiranje. Voda iz izvora ne treba da se smatra pitkom bez novog lokalnog obaveštenja.",
+      "highlights": [
+        "Trg i tri planinska izvora",
+        "Tradicionalne kuće sa kamenim krovovima",
+        "Crkva Uspenja Presvete Bogorodice",
+        "Stara uljara i muzej Sotirelis",
+        "Taverne i pogled prema obali"
+      ],
+      "seo_title": "Panagija, Tasos – Tradicionalno selo, izvori i muzej ulja",
+      "seo_description": "Otkrijte Panagiju na Tasosu: tri izvora, kamene krovove, istorijsku crkvu, muzej Sotirelis i korisne savete za posetu.",
+      "social_caption": "Iznad mora Panagija čuva drugu stranu Tasosa: izvore, kamene krovove i tradiciju koja traje. 🌿🏡",
+      "photo_alt": "Tradicionalno planinsko selo Panagija na Tasosu sa kamenim krovovima i zelenim padinama."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/panagia/images/panagia1.webp",
+    "gallery": [
+      "destinations/thassos/areas/panagia/images/panagia2.webp",
+      "destinations/thassos/areas/panagia/images/panagia3.webp",
+      "destinations/thassos/areas/panagia/images/panagia4.webp",
+      "destinations/thassos/areas/panagia/images/panagia5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/panagia/images/",
+    "suggested_asset_names": [
+      "panagia1.webp",
+      "panagia2.webp",
+      "panagia3.webp",
+      "panagia4.webp",
+      "panagia5.webp"
+    ],
+    "image_policy": "Exactly five authentic, licensed landscape WebP photos to be provided: (1) recognisable overview of inland Panagia, (2) three springs and old square, (3) traditional slate roofs/stone lanes, (4) Church of the Dormition exterior, (5) Sotirelis historic olive mill exterior or authentic documented olive heritage. Do not substitute Skala Panagia/Golden Beach photography for the inland village. Verify identity, photographer consent, commercial reuse rights, attribution, privacy and any relevant access before publication. Five names/paths are only placeholders; no photographs are included.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "osm_panagia",
+      "kind": "osm_mapped_settlement",
+      "title": "Mapcarta / OpenStreetMap — Panagia, Thassos",
+      "url": "https://mapcarta.com/13815240",
+      "detail": "Mapped village node 280965058, 40.73126 N 24.72921 E, elevation about 230 m. Reference point is not access/parking.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "discover_greece_villages",
+      "kind": "official_national_tourism",
+      "title": "Discover Greece — Mountain village-hopping in Thassos",
+      "url": "https://www.discovergreece.com/experiences/thassos-mountain-villages",
+      "detail": "Panagia old capital, three springs, architecture, Dormition, Clean Monday and 15 August celebration, olive museum and watermill.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "municipal_gtp",
+      "kind": "greek_travel_geographic_register",
+      "title": "Greek Travel Pages — Παναγία Θάσου",
+      "url": "https://www.gtp.gr/LocPage.asp?id=63928&lng=1",
+      "detail": "Geographic context and elevation 229 m, near Limenas and coastal Chrysi Ammoudia; distinguish inland community.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "parish_architecture",
+      "kind": "official_parish",
+      "title": "Panagia Thassos Parish — Church architecture",
+      "url": "https://www.inpth.com/en/architecture",
+      "detail": "Church of Dormition: three-aisled domed basilica; historic monument and local context.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "parish_history",
+      "kind": "official_parish",
+      "title": "Panagia Thassos Parish — History",
+      "url": "https://www.inpth.com/history",
+      "detail": "Greek parish source for restoration/consecration at 15 August 1831, original foundation not certain.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "parish_site",
+      "kind": "official_parish",
+      "title": "Panagia Thassos Parish — Church and contact/coordinates",
+      "url": "https://www.inpth.com/contact",
+      "detail": "Church inside Panagia village (not the separate monastery at Maries); specific church GPS distinct from village node.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "olive_museum_official",
+      "kind": "official_attraction_website",
+      "title": "Sotirelis Olive Oil — Museum",
+      "url": "https://www.sotirelisoliveoil.gr/museum",
+      "detail": "Panagia water-powered traditional olive press, family activity from 1915 and museum interpretation.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "olive_museum_opening",
+      "kind": "official_attraction_website",
+      "title": "Sotirelis Olive Oil — Visitor information",
+      "url": "https://www.sotirelisoliveoil.gr/contact-5",
+      "detail": "Seasonal opening May to around mid-October plus Easter in current site notes; hours vary, must recheck.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "olive_mill_history",
+      "kind": "official_attraction_website",
+      "title": "Sotirelis family — Traditional Olive Oil Mill",
+      "url": "https://www.sotirelis.gr/olive-oil-mill",
+      "detail": "Historic watermill operation and exhibition; production history and water-powered mechanism.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "go_thassos_panagia",
+      "kind": "regional_tourism",
+      "title": "Go Thassos — Panagia",
+      "url": "https://www.go-thassos.com/about-thassos/places/panagia",
+      "detail": "Village architecture, springs, historic capital, foot exploration, separate nearby coast.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "thasos_travelfind_panagia",
+      "kind": "tourism_directory",
+      "title": "Thasos Travelfind — Panagia",
+      "url": "https://thasos.travelfind.gr/en/info/spot/panagia",
+      "detail": "Village context, religious celebration and Clean Monday carnival, artisan and water features.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "heritage_protection_notice",
+      "kind": "heritage_secondary_register",
+      "title": "All Over Greece — Παναγία, protected historic settlement reference",
+      "url": "https://www.allovergreece.com/Village/Descr/44/628/el",
+      "detail": "Secondary citation to ΦΕΚ 875/Β/23-10-1972 concerning Panagia and Theologos as historic settlements; verify primary gazette for legal claims.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "municipal_bus",
+      "kind": "official_municipality_transport",
+      "title": "Municipality of Thassos — Bus schedules",
+      "url": "https://www.thassos.gr/en/dromologia-ktel/",
+      "detail": "Official gateway to bus information, routes and updates; no timetable hardcoded.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "bus_october_2026",
+      "kind": "dated_regional_bus_schedule",
+      "title": "Go Thassos — October 2026 bus schedules",
+      "url": "https://www.go-thassos.com/thassos-bus-schedules-prices",
+      "detail": "Dated 1–31 October 2026 Limenas–Panagia–Potamia services; seasonal and not future guaranteed.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "greeka_panagia",
+      "kind": "travel_guide",
+      "title": "Greeka — Panagia village",
+      "url": "https://www.greeka.com/eastern-aegean/thassos/villages/panagia/",
+      "detail": "Independent travel guide background on village characteristics and visual identity.",
+      "checked_on": "2026-10-28"
+    }
+  ],
+  "editorial": {
+    "status": "six_language_historic_inland_village_profile_complete_pending_photos_rights_and_local_navigation_check",
+    "facts_checked_on": "2026-10-28",
+    "translations_written_on": "2026-10-28",
+    "coverage": "historic_mountain_village_6_editorial_languages_15_sources_5_preset_webp_image_paths_existing_golden_beach_id_only",
+    "requires_manual_review": [
+      "Confirm OSM place=village node 280965058 (40.73126,24.72921) as settlement reference. GreekTravelPages historical page includes a conflicting map GPS elsewhere; do not use that differing point for routes.",
+      "The center coordinate is not parking or road entry. Verify a legal vehicle arrival point, public parking restrictions, and any pedestrian-only roads; retain arrival_point null until field-verified.",
+      "Keep Panagia mountain village distinct from Skala Panagia/Chrysi Ammoudia (coastal settlement) and Golden Beach (single shared beach ID), and from a Panagia monastery by Maries.",
+      "Church history dates need nuance: parish history records the major rebuilding/consecration in 1831; founding date remains uncertain. Verify any claims of church visits/interior access and events with parish.",
+      "The 1972 protection decree appears in secondary heritage listing; confirm the primary Greek gazette before displaying protected status as a legally certified claim.",
+      "Check availability, admissions and seasonal museum hours directly with Sotirelis; operator says hours vary and visit days are seasonal. Do not promise working mill demonstrations.",
+      "Confirm annual 15 August events and Clean Monday carnival programme locally; no fixed annual programme or attendance guarantees.",
+      "Verify KTEL route, stop, operating dates and fares via municipality/operator for each travel date. October 2026 published timetable must not be presented as future live data.",
+      "Do not promise potable drinking water from springs without independently current local safety notice.",
+      "Do not assert wheelchair access, accessible parking or reliable amenity/business availability without individual field check.",
+      "All exact POI identifiers remain empty until separate attraction records are created and validated; church and olive museum are text-only named POIs currently.",
+      "Add authentic landscape images panagia1.webp through panagia5.webp at the preset paths; verify subject is inland Panagia, source, commercial licence and any required attribution.",
+      "Have native speakers review modern Greek usage and Bulgarian/Serbian terminology, religious references and SEO prior to publication."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "All five WebP file paths are placeholders; no image binaries, licences, photographer releases or credits have been provided."
+  }
+}

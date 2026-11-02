@@ -1,0 +1,227 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "gr-thassos-services-thassos-daily-cruises-panagia-axion-esti",
+  "slug": "thassos-daily-cruises-panagia-axion-esti",
+  "name": "Thassos Daily Cruises Panagia Axion Esti",
+  "displayName": "Thassos Daily Cruises – Panagia Axion Esti",
+  "category": "services",
+  "subcategory": "boat-cruises",
+  "serviceTypes": [
+    "daily-cruises",
+    "boat-trips",
+    "sea-excursions",
+    "sunset-cruises",
+    "private-events"
+  ],
+  "operator": {
+    "name": "Thassos Daily Cruises",
+    "brandAliases": [
+      "Blue Sky Cruises"
+    ],
+    "vesselMentioned": "Panagia Axion Esti",
+    "vesselAssignmentNote": "The supplied information indicates that Panagia Axion Esti is one of the vessels used by the operator. Not every advertised experience is guaranteed to run with this specific vessel."
+  },
+  "location": {
+    "country": "Greece",
+    "island": "Thassos",
+    "areaSlug": "limenaria",
+    "departureArea": "Limenaria",
+    "departurePoint": "Old Port of Limenaria",
+    "address": "Limenaria 640 04, Greece",
+    "latitude": null,
+    "longitude": null,
+    "mapsSource": "user-provided listing text",
+    "routeRegion": [
+      "south-thassos",
+      "south-east-thassos",
+      "selected-west-coast-coves"
+    ]
+  },
+  "contact": {
+    "phones": [
+      "+30 694 761 1273",
+      "+30 694 399 3259"
+    ],
+    "primaryPhone": "+30 694 761 1273",
+    "email": "info@dailycruisesthassos.gr",
+    "website": "https://dailycruisesthassos.gr/"
+  },
+  "openingHours": {
+    "timezone": "Europe/Athens",
+    "listingReported": {
+      "monday": "08:00-02:00",
+      "tuesday": "08:00-02:00",
+      "wednesday": "08:00-02:00",
+      "thursday": "08:00-02:00",
+      "friday": "08:00-02:00",
+      "saturday": "08:00-02:00",
+      "sunday": "08:00-02:00"
+    },
+    "officialScheduleConfirmed": false,
+    "note": "Hours were supplied from a listing snapshot and should be reconfirmed for the season."
+  },
+  "highlights": {
+    "reportedExperience": [
+      "Traditional day cruises with swim stops",
+      "Sunset cruise option",
+      "Lunch or drink included on selected trips",
+      "Views of Giola, Aliki and secluded coves depending on conditions",
+      "Friendly crew and relaxed atmosphere reported by visitors"
+    ],
+    "bestFor": [
+      "families",
+      "couples",
+      "groups of friends",
+      "boat-day seekers",
+      "swimming stops"
+    ]
+  },
+  "amenitiesAndPolicies": {
+    "barOnBoard": true,
+    "lifeJacketsAvailable": true,
+    "vegetarianMealReported": true,
+    "petsAcceptedReported": true,
+    "disabledTransportPolicyReported": true,
+    "privateEventsAvailableReported": true,
+    "accessibilityRequiresConfirmation": true,
+    "refundPolicyReported": "Refund may be available when cancellation is requested at least five days before departure.",
+    "weatherPolicyReported": "If the trip is postponed due to weather, change of date or refund is reported as available."
+  },
+  "pricingGuide": {
+    "currency": "EUR",
+    "note": "Displayed prices are sourced from the user-provided material and may vary by season or trip type.",
+    "sampleFromPrices": [
+      {
+        "experienceSlug": "traditional-morning-cruise",
+        "fromEUR": 40
+      },
+      {
+        "experienceSlug": "romantic-sunset-cruise",
+        "fromEUR": 20
+      },
+      {
+        "experienceSlug": "special-cruise-around-the-island",
+        "fromEUR": 55
+      },
+      {
+        "experienceSlug": "glass-bottom-morning-cruise",
+        "fromEUR": 20
+      }
+    ]
+  },
+  "reputation": {
+    "platform": "Google Maps",
+    "visitorReviewThemes": [
+      "breathtaking views",
+      "friendly crew",
+      "good atmosphere",
+      "swim stops",
+      "lunch on board",
+      "good value"
+    ],
+    "sampleReviewSummaries": [
+      "Visitors praised the 6-hour trip for multiple swim stops, clear water and a relaxed uncrowded atmosphere.",
+      "Several reviews describe the crew as friendly, professional and attentive.",
+      "Lunch is generally appreciated, though one visitor noted limited meat choice on a specific trip."
+    ],
+    "reviewSnapshotDynamic": true
+  },
+  "relatedData": {
+    "experiencesPath": "experiences.json",
+    "imageManifestPath": "imagini_manifest.json"
+  },
+  "content": {
+    "ro": {
+      "short": "Croaziere de o zi și la apus din Limenaria, cu opriri pentru înot, golfuri spectaculoase și experiențe relaxate pe mare în jurul insulei Thassos.",
+      "long": "Thassos Daily Cruises – Panagia Axion Esti este o opțiune foarte atractivă pentru cei care vor să descopere Thassos de pe apă. Plecările sunt asociate cu Portul Vechi din Limenaria, iar experiențele includ, în funcție de cursă și de condițiile mării, opriri pentru înot, zone spectaculoase precum Giola, golfuri liniștite, panorame ale coastei și momente de relaxare la bord. Din materialul furnizat reiese că operatorul oferă croaziere tradiționale de zi, variante la apus, excursii mai lungi în jurul insulei și soluții pentru grupuri sau evenimente private. Unele pachete includ prânz la grătar sau o băutură, iar recenziile evidențiază atmosfera plăcută, echipajul prietenos și peisajele memorabile. Programul exact, tarifele finale și ambarcațiunea alocată fiecărei excursii trebuie reconfirmate la rezervare.",
+      "tagline": "Thassos de pe mare, cu opriri pentru înot și priveliști memorabile.",
+      "hero": "Croaziere din Limenaria spre golfuri superbe, ape clare și locuri emblematice ale insulei.",
+      "seoTitle": "Thassos Daily Cruises – Panagia Axion Esti | Croaziere din Limenaria, Thassos",
+      "seoDescription": "Descoperă Thassos Daily Cruises – Panagia Axion Esti: croaziere de zi, opriri pentru înot, excursii la apus și experiențe maritime din Portul Vechi Limenaria."
+    },
+    "en": {
+      "short": "Daily and sunset cruises from Limenaria with swim stops, beautiful coves and a relaxed way to explore Thassos from the sea.",
+      "long": "Thassos Daily Cruises – Panagia Axion Esti is an appealing choice for travellers who want to experience Thassos from the water. Departures are linked to the Old Port of Limenaria, and the trips described in the supplied material include swim stops, clear water, scenic coves, iconic places such as Giola and memorable views of the island’s coastline. The operator presents traditional day cruises, sunset options, longer island tours and private arrangements for groups or special events. Some experiences reportedly include a barbecue lunch or a drink, while visitor feedback consistently highlights the friendly crew, enjoyable atmosphere and excellent scenery. Final schedules, current prices and the exact vessel assigned to each departure should always be reconfirmed when booking.",
+      "tagline": "See Thassos from the sea, with swim stops and unforgettable coastal views.",
+      "hero": "Cruises from Limenaria to turquoise bays, crystal-clear water and iconic Thassos scenery.",
+      "seoTitle": "Thassos Daily Cruises – Panagia Axion Esti | Boat Trips from Limenaria, Thassos",
+      "seoDescription": "Explore Thassos Daily Cruises – Panagia Axion Esti: day cruises, swim stops, sunset trips and sea experiences departing from the Old Port of Limenaria."
+    }
+  },
+  "seo": {
+    "ro": {
+      "title": "Thassos Daily Cruises – Panagia Axion Esti | Croaziere din Limenaria, Thassos",
+      "description": "Descoperă Thassos Daily Cruises – Panagia Axion Esti: croaziere de zi, opriri pentru înot, excursii la apus și experiențe maritime din Portul Vechi Limenaria.",
+      "suggestedCanonicalPath": "/thassos/services/thassos-daily-cruises-panagia-axion-esti/"
+    },
+    "en": {
+      "title": "Thassos Daily Cruises – Panagia Axion Esti | Boat Trips from Limenaria, Thassos",
+      "description": "Explore Thassos Daily Cruises – Panagia Axion Esti: day cruises, swim stops, sunset trips and sea experiences departing from the Old Port of Limenaria.",
+      "suggestedCanonicalPath": "/en/thassos/services/thassos-daily-cruises-panagia-axion-esti/"
+    }
+  },
+  "media": {
+    "hero": "images/Golful-turcoaz-cu-salupa-langa-plaja.webp",
+    "gallery": [
+      {
+        "file": "images/Golful-turcoaz-cu-salupa-langa-plaja.webp",
+        "role": "cover",
+        "galleryCategory": "bay-stop",
+        "altEn": "A sheltered bay with turquoise water, a small boat and beachgoers."
+      },
+      {
+        "file": "images/Giola-oprire-in-turul-de-croaziera.webp",
+        "role": "route-highlight",
+        "galleryCategory": "giola",
+        "altEn": "Visitors at Giola, one of the most recognisable highlights mentioned in the cruise routes."
+      },
+      {
+        "file": "images/Vas-Blue-Sky-in-croaziera-pe-langa-coasta.webp",
+        "role": "boat",
+        "galleryCategory": "vessel",
+        "altEn": "A Blue Sky Cruises boat at sea near the Thassos coastline."
+      },
+      {
+        "file": "images/La-bord-spre-portul-din-Limenaria.webp",
+        "role": "onboard",
+        "galleryCategory": "onboard",
+        "altEn": "Passengers relaxing on deck while approaching Limenaria."
+      },
+      {
+        "file": "images/Oprire-pentru-inot-in-marea-limpede.webp",
+        "role": "swim-stop",
+        "galleryCategory": "experience",
+        "altEn": "Guests swimming during a cruise stop in clear water."
+      },
+      {
+        "file": "images/Limenaria-vazuta-din-larg-cu-vas-de-excursie.webp",
+        "role": "destination",
+        "galleryCategory": "limenaria",
+        "altEn": "A cruise vessel in Limenaria bay with the resort and mountains behind."
+      },
+      {
+        "file": "images/Ambarcatiune-traditionala-in-portul-din-Limenaria.webp",
+        "role": "boat",
+        "galleryCategory": "harbour",
+        "altEn": "Traditional excursion boat moored in Limenaria harbour."
+      },
+      {
+        "file": "images/Vas-ancorat-in-golf-cu-apa-smarald.webp",
+        "role": "boat-stop",
+        "galleryCategory": "bay-stop",
+        "altEn": "Cruise boat anchored near a green-blue cove where guests swim ashore."
+      },
+      {
+        "file": "images/Golf-salbatic-cu-ambarcatiune-vazut-de-sus.webp",
+        "role": "aerial",
+        "galleryCategory": "route-highlight",
+        "altEn": "Aerial view of a secluded cove and a small cruise boat."
+      }
+    ]
+  },
+  "verificationNotes": [
+    "The vessel name Panagia Axion Esti appears in the listing title, while some supplied imagery clearly shows other boats operated under Blue Sky Cruises.",
+    "The 15:45 / 16:00 departure-time discrepancy for the afternoon trip should be checked before publishing as a fixed schedule.",
+    "The exact route depends on weather and sea conditions."
+  ]
+}

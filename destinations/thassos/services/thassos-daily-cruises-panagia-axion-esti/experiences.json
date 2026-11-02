@@ -1,0 +1,208 @@
+{
+  "schemaVersion": "1.0.0",
+  "service": "Thassos Daily Cruises Panagia Axion Esti",
+  "operator": "Thassos Daily Cruises",
+  "currency": "EUR",
+  "experiences": [
+    {
+      "slug": "traditional-morning-cruise",
+      "name": {
+        "ro": "Traditional Morning Cruise",
+        "en": "Traditional Morning Cruise"
+      },
+      "publishedAsOfficialByOperator": true,
+      "fromEUR": 40,
+      "durationHours": 6,
+      "startTimeLocal": "09:00",
+      "endTimeLocal": "15:00",
+      "departurePoint": "Old Port of Limenaria",
+      "summary": {
+        "ro": "Excursie de zi cu patru opriri planificate, inclusiv înot, snorkeling și pauză de prânz cu preparate la grătar.",
+        "en": "Day cruise with four planned stops, including swimming, snorkelling and a barbecue lunch break."
+      },
+      "includedReported": [
+        "four stops",
+        "barbecue lunch",
+        "salad",
+        "tzatziki",
+        "bread",
+        "one drink"
+      ],
+      "notes": [
+        "Vegetarian meal reported as available on request.",
+        "Route may follow Plan A or Plan B depending on weather.",
+        "Vessel may vary."
+      ]
+    },
+    {
+      "slug": "romantic-sunset-cruise",
+      "name": {
+        "ro": "Romantic Sunset Cruise",
+        "en": "Romantic Sunset Cruise"
+      },
+      "publishedAsOfficialByOperator": true,
+      "fromEUR": 20,
+      "durationHoursApprox": 3,
+      "startTimeLocal": "18:00",
+      "endTimeNote": {
+        "ro": "după apus",
+        "en": "after sunset"
+      },
+      "summary": {
+        "ro": "Croazieră de seară cu două opriri pentru înot, o băutură inclusă și priveliști de apus.",
+        "en": "Evening cruise with two swim stops, one included drink and sunset views."
+      },
+      "includedReported": [
+        "two swim stops",
+        "one drink"
+      ],
+      "notes": [
+        "The supplied text states that Panagia Axion Esti can be one of the allocated vessels."
+      ]
+    },
+    {
+      "slug": "afternoon-traditional-trip",
+      "name": {
+        "ro": "Afternoon Traditional Trip",
+        "en": "Afternoon Traditional Trip"
+      },
+      "publishedAsOfficialByOperator": true,
+      "fromEUR": 40,
+      "startTimeLocalReported": [
+        "15:45",
+        "16:00"
+      ],
+      "durationNote": {
+        "ro": "până la apus",
+        "en": "until sunset"
+      },
+      "summary": {
+        "ro": "Variantă de după-amiază a croazierei tradiționale, prezentată cu masă la grătar și traseu de după-amiază.",
+        "en": "Afternoon version of the traditional cruise, presented with a barbecue meal and a later departure."
+      },
+      "notes": [
+        "Exact departure time should be reconfirmed.",
+        "Route and duration can vary."
+      ]
+    },
+    {
+      "slug": "private-cruises-special-events",
+      "name": {
+        "ro": "Private Cruises & Special Events",
+        "en": "Private Cruises & Special Events"
+      },
+      "publishedAsOfficialByOperator": true,
+      "priceMode": "on-request",
+      "summary": {
+        "ro": "Închiriere exclusivă pentru familii, grupuri, aniversări și evenimente private.",
+        "en": "Exclusive charter option for families, groups, birthdays and private events."
+      },
+      "notes": [
+        "Programme, route and price are custom and must be requested directly."
+      ]
+    },
+    {
+      "slug": "special-cruise-around-the-island",
+      "name": {
+        "ro": "Special Cruise Around the Island",
+        "en": "Special Cruise Around the Island"
+      },
+      "publishedAsOfficialByOperator": true,
+      "fromEUR": 55,
+      "durationHours": 9,
+      "startTimeLocal": "09:00",
+      "endTimeLocal": "18:00",
+      "summary": {
+        "ro": "Tur extins în jurul insulei, cu opriri pentru înot și locuri precum Atspas, Marble Beach, Paradise Beach, Aliki și Giola.",
+        "en": "Extended around-the-island cruise with swim stops and places such as Atspas, Marble Beach, Paradise Beach, Aliki and Giola."
+      },
+      "notes": [
+        "Operator notes that other vessels from the fleet may be used."
+      ]
+    },
+    {
+      "slug": "glass-bottom-morning-cruise",
+      "name": {
+        "ro": "Glass-bottom Morning Cruise",
+        "en": "Glass-bottom Morning Cruise"
+      },
+      "publishedAsOfficialByOperator": true,
+      "fromEUR": 20,
+      "durationHours": 3,
+      "summary": {
+        "ro": "Experiență pe vas cu observare subacvatică, cu opriri pentru înot și o băutură inclusă.",
+        "en": "Short cruise on a special vessel with underwater viewing, swim stops and one included drink."
+      },
+      "notes": [
+        "This is explicitly described as a different boat than Panagia Axion Esti."
+      ]
+    }
+  ],
+  "routePlans": {
+    "planA": {
+      "label": {
+        "ro": "Plan A – Coasta sudică și sud-estică",
+        "en": "Plan A – South and south-east coast"
+      },
+      "distanceMiles": 25,
+      "stopsSequence": [
+        "Limenaria",
+        "Salonikios",
+        "Giola",
+        "Arsanas",
+        "Aliki",
+        "Notos",
+        "Limenaria"
+      ],
+      "note": {
+        "ro": "Descris ca traseul cu Giola și Aliki. Nu fiecare loc este neapărat o oprire completă.",
+        "en": "Described as the route featuring Giola and Aliki. Not every named place is necessarily a full stop."
+      }
+    },
+    "planB": {
+      "label": {
+        "ro": "Plan B – Rută alternativă",
+        "en": "Plan B – Alternative route"
+      },
+      "distanceMiles": 28,
+      "stopsSequence": [
+        "Limenaria",
+        "Salonikios",
+        "Notos",
+        "Kefalas",
+        "Skala Marion",
+        "Limenaria"
+      ],
+      "note": {
+        "ro": "Folosit când condițiile mării nu permit traseul principal în siguranță.",
+        "en": "Used when sea conditions do not allow the main route to run safely."
+      }
+    }
+  },
+  "commercialPoliciesReported": {
+    "children0to3": {
+      "ro": "gratuit",
+      "en": "free"
+    },
+    "children3to12": {
+      "ro": "40% reducere, exceptând Sunset Cruise",
+      "en": "40% discount, except Sunset Cruise"
+    },
+    "returningCustomers": {
+      "ro": "20% reducere",
+      "en": "20% discount"
+    },
+    "groups10to19": {
+      "ro": "10% reducere",
+      "en": "10% discount"
+    },
+    "groups20plus": {
+      "ro": "20% reducere",
+      "en": "20% discount"
+    },
+    "pets": {
+      "ro": "acceptate gratuit, sub supraveghere",
+      "en": "accepted free of charge under supervision"
+    }
+  }
+}

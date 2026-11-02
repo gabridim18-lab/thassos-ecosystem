@@ -1,0 +1,325 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-secret-beach",
+  "slug": "secret-beach",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": null,
+    "international_name": "Secret Beach",
+    "aliases": [
+      "Secret Beach (Kefalas area, working geographic qualifier)"
+    ],
+    "entity_scope": "Secret Beach at the user-confirmed GPS point 40.62475117964279, 24.528741563846708 on southwestern Thassos, between Skala Maries and Tripiti. Confirmed as a beach entry in the Thassos inventory by user identification; exact shoreline boundary and possible Kefalas-area alias remain to be independently mapped.",
+    "deduplication_warning": "Secret Beach is a generic reused label. Other mapped Secret Beach POIs occur farther north around Fari (roughly 40.637,24.520-24.522) and in other parts of Thassos. This point may be in the Kefalas coastal area but equivalence to Kefalas Beach is NOT proven; do not merge with Fari or Trypiti without geometry review."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southwestern coastline between Skala Maries and Tripiti, near Kefalas",
+    "settlements": [
+      "Skala Maries",
+      "Limenaria (broader surrounding area)"
+    ],
+    "lat": 40.62475117964279,
+    "lng": 24.528741563846708,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.62475117964279%2C24.528741563846708",
+    "coordinate_source_reference": "s_user_pin",
+    "coordinate_type": "user_supplied_google_maps_coordinate_not_independently_verified_beach_pin_or_access",
+    "coordinate_review_status": "User supplied and reconfirmed this GPS location as Secret Beach, accepted into the confirmed Thassos beach inventory. External map POI matching, precise shoreline footprint and land access have not been independently established.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": null,
+    "seabed_near_shore": null,
+    "water_entry": null,
+    "nearshore_depth": null,
+    "water_clarity": null,
+    "wave_conditions": null,
+    "exposure": "southwestern_thassos_coast_geographic_context_only",
+    "natural_shade_on_sand": null,
+    "beach_length_m": null,
+    "length_note": "No independently mapped beach boundary or measurement for the exact GPS point.",
+    "backdrop": "Kefalas coastal area; precise cove terrain requires visual/on-site verification",
+    "shoreline_type": "beach_confirmed_by_user_physical_characteristics_pending"
+  },
+  "visitor_experience": {
+    "organization": null,
+    "suitable_for": [
+      "visitors_researching_lesser_known_coastal_locations"
+    ],
+    "notable_for": [
+      "user_identified_secret_beach_pin",
+      "near_kefalas_coastal_area",
+      "multiple_similar_names_on_island"
+    ],
+    "activities_possible": [
+      "coastal_sightseeing_if_safe_access_confirmed"
+    ],
+    "estimated_crowd_peak": null,
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "A mapped POI is not proof of safe or legal pedestrian access, a usable swimming entry or lifeguard presence. Avoid steep or unstable coastal approaches; check wind, rocks and boat traffic. Never treat alleged access-by-sea descriptions of nearby Kefalas as confirmed for this precise point."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": null,
+      "seasonal": null
+    },
+    "umbrellas": {
+      "available_in_some_sections": null,
+      "seasonal": null
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Not verified for this exact point."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "Not verified for this exact point."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": null,
+    "cafes_nearby": null,
+    "parking_nearby": null,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": null,
+    "lifeguard": null,
+    "lifeguard_note": "No lifeguard coverage confirmed.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "No accessible route or equipment verified.",
+    "free_unserviced_space": null,
+    "facilities_scope": "No beach facilities are evidenced for the user's exact GPS point. Do not transfer Kefalas, Fari, Skala Maries or Tripiti amenities into this record."
+  },
+  "access_and_cost": {
+    "road_access": null,
+    "public_transport": null,
+    "parking_type": null,
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "No sunbeds or prices independently confirmed for this location.",
+    "best_arrival_advice": "Confirm precise beach identity and safe/permitted access before visiting; the nearby Kefalas boat-stop description must not be treated as a validated route to the GPS point.",
+    "distance_from_limenas_km": null,
+    "distance_note": "No verified road route or access endpoint available."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Fetch weather and sea conditions at display time; no live or speculative values stored."
+  },
+  "translations": {
+    "ro": {
+      "name": "Secret Beach",
+      "tagline": "Un punct de coastă retras, între Skala Maries și Tripiti",
+      "summary": "Secret Beach este numele afișat pentru un punct de pe coasta sud-vestică a insulei Thassos, în zona Kefalas, între Skala Maries și Tripiti. Delimitarea exactă a plajei, accesul și facilitățile nu sunt încă verificate independent.",
+      "description": "Secret Beach este un nume folosit pentru mai multe golfuri din Thassos, de aceea acest profil se referă exclusiv la punctul GPS 40.624751, 24.528742, indicat pe hartă pentru zona de coastă dintre Skala Maries și Tripiti. Regiunea din apropierea promontoriului Kefalas este cunoscută pentru țărmul său fragmentat și golfurile mai puțin vizitate. Operatorii de excursii menționează o Kefalas Beach accesibilă dinspre mare, însă nu există încă o confirmare că acea plajă și punctul Secret Beach din această fișă sunt exact același loc. De asemenea, alte hărți folosesc numele Secret Beach pentru o plajă aflată mai la nord, spre Fari. Până la verificarea identității geografice nu atribuim acestui punct în mod automat un anumit tip de nisip, adâncime a apei, servicii sau traseu de acces. Este o locație de explorat doar după identificarea corectă a țărmului și a modului sigur și permis de a ajunge acolo.",
+      "practical_tips": "Folosește coordonatele GPS pentru orientare, nu numele generic Secret Beach. Nu porni pe trasee neamenajate și nu presupune că există acces pe jos sau cu mașina. Dacă alegi o excursie cu barca, verifică exact locul de oprire. Ia apă și protecție solară; facilitățile, salvamarul și accesul public nu sunt confirmate.",
+      "highlights": [
+        "Poziție GPS precisă furnizată pentru identificare",
+        "Coasta dintre Skala Maries și Tripiti",
+        "În apropierea zonei Kefalas",
+        "Denumirea este ambiguă pe hărți",
+        "Accesul și caracteristicile plajei necesită verificare"
+      ],
+      "seo_title": "Secret Beach Thassos – localizare în zona Kefalas",
+      "seo_description": "Secret Beach, între Skala Maries și Tripiti, Thassos: coordonate GPS, diferențiere față de alte golfuri și informații de acces în curs de verificare.",
+      "social_caption": "🌊 Secret Beach, Thassos: un punct de coastă de explorat în zona Kefalas, între Skala Maries și Tripiti. 📍 Verifică localizarea exactă și accesul înainte de vizită. #Thassos #SecretBeach",
+      "photo_alt": "Zona de coastă a punctului Secret Beach din apropiere de Kefalas, Thassos; imaginea trebuie verificată ca aparținând coordonatelor exacte."
+    },
+    "en": {
+      "name": "Secret Beach",
+      "tagline": "A lesser-known coastal point between Skala Maries and Tripiti",
+      "summary": "Secret Beach is a map label associated with a point on the southwestern Thassos coastline near the Kefalas area, between Skala Maries and Tripiti. Its exact beach boundaries, access and facilities have not yet been independently verified.",
+      "description": "Several places on Thassos are called Secret Beach, so this record is tied specifically to the user-supplied GPS point 40.624751, 24.528742 on the coast between Skala Maries and Tripiti. The coastline around the Kefalas headland is known for smaller coves and stretches reached by boat. Local cruise operators describe a beach named Kefalas that is accessible from the sea, but the precise identity of that stop with this Secret Beach pin has not been established. Other mapping sources place a beach also named Secret Beach farther north, near Fari, and the two locations must not be merged. Until the precise shoreline and access are confirmed, the record does not promise a particular sand or pebble composition, water depth, beach facilities or a safe land route. Visitors should treat this as a location requiring careful identification rather than assume it has the infrastructure of a conventional organised beach.",
+      "practical_tips": "Navigate by the exact coordinates rather than the generic name Secret Beach. Do not assume a public road, safe footpath or car parking exists. If visiting by boat, ask the operator to confirm the actual swimming stop. Bring water and sun protection; amenities, lifeguards and public access have not been verified.",
+      "highlights": [
+        "Exact GPS reference supplied for this record",
+        "Southwestern Thassos between Skala Maries and Tripiti",
+        "Close to the Kefalas coastal area",
+        "Name shared by other Thassos locations",
+        "Access and precise beach identity require review"
+      ],
+      "seo_title": "Secret Beach Thassos – Kefalas area location guide",
+      "seo_description": "Find the Secret Beach GPS point near Kefalas, between Skala Maries and Tripiti, Thassos, and understand what still needs confirmation before visiting.",
+      "social_caption": "🌊 Secret Beach, Thassos: a little-known point on the coast near Kefalas, between Skala Maries and Tripiti. 📍 Check the exact location and access before visiting. #Thassos #SecretBeach",
+      "photo_alt": "Coastal location linked to Secret Beach near Kefalas, Thassos; confirm that any photograph depicts the exact GPS point."
+    },
+    "el": {
+      "name": "Secret Beach",
+      "tagline": "Ένα λιγότερο γνωστό παράκτιο σημείο ανάμεσα στη Σκάλα Μαριών και την Τρυπητή",
+      "summary": "Το όνομα Secret Beach συνδέεται εδώ με ένα σημείο στη νοτιοδυτική ακτή της Θάσου, στην περιοχή του Κεφαλά, ανάμεσα στη Σκάλα Μαριών και την Τρυπητή. Τα ακριβή όρια της παραλίας, η πρόσβαση και οι παροχές δεν έχουν επαληθευτεί ανεξάρτητα.",
+      "description": "Στη Θάσο η ονομασία Secret Beach χρησιμοποιείται για περισσότερες από μία παράκτιες τοποθεσίες. Η παρούσα καταχώριση αφορά αποκλειστικά τις συντεταγμένες 40.624751, 24.528742, ανάμεσα στη Σκάλα Μαριών και την Τρυπητή. Η περιοχή κοντά στο ακρωτήριο Κεφαλάς περιλαμβάνει μικρότερους όρμους και ακτές που συχνά προσεγγίζονται από τη θάλασσα. Επιχειρήσεις θαλάσσιων εκδρομών περιγράφουν την παραλία Κεφαλάς, χωρίς όμως να έχει επιβεβαιωθεί ότι πρόκειται ακριβώς για το σημείο που φέρει εδώ την ένδειξη Secret Beach. Επιπλέον, άλλοι χάρτες τοποθετούν μια ομώνυμη παραλία βορειότερα, κοντά στο Φάρι. Για τον λόγο αυτό δεν αποδίδουμε χωρίς επιβεβαίωση συγκεκριμένη σύσταση ακτής, βάθος νερού, υποδομές ή ασφαλή χερσαία πρόσβαση. Πριν από επίσκεψη χρειάζεται σαφής ταυτοποίηση του σημείου και του επιτρεπόμενου τρόπου προσέγγισης.",
+      "practical_tips": "Χρησιμοποιήστε τις ακριβείς συντεταγμένες και όχι μόνο το γενικό όνομα Secret Beach. Μην θεωρείτε δεδομένο ότι υπάρχει προσβάσιμος δρόμος, μονοπάτι ή στάθμευση. Σε θαλάσσια εκδρομή επιβεβαιώστε με τον διοργανωτή τον πραγματικό όρμο της στάσης. Πάρτε νερό και αντηλιακή προστασία· οι παροχές και η παρουσία ναυαγοσώστη δεν έχουν επιβεβαιωθεί.",
+      "highlights": [
+        "Συγκεκριμένο σημείο GPS",
+        "Ακτή ανάμεσα στη Σκάλα Μαριών και την Τρυπητή",
+        "Κοντά στην περιοχή Κεφαλά",
+        "Ονομασία που χρησιμοποιείται και αλλού",
+        "Χρειάζεται έλεγχος πρόσβασης και ταυτότητας"
+      ],
+      "seo_title": "Secret Beach Θάσος – τοποθεσία κοντά στον Κεφαλά",
+      "seo_description": "Το σημείο Secret Beach στη νοτιοδυτική Θάσο, ανάμεσα στη Σκάλα Μαριών και την Τρυπητή: συντεταγμένες και εκκρεμείς έλεγχοι πρόσβασης.",
+      "social_caption": "🌊 Secret Beach, Θάσος: ένα παράκτιο σημείο κοντά στον Κεφαλά, ανάμεσα στη Σκάλα Μαριών και την Τρυπητή. 📍 Επιβεβαιώστε την πρόσβαση πριν την επίσκεψη. #Θάσος",
+      "photo_alt": "Παράκτιο σημείο Secret Beach κοντά στον Κεφαλά της Θάσου· απαιτείται επιβεβαίωση της ακριβούς θέσης της φωτογραφίας."
+    },
+    "de": {
+      "name": "Secret Beach",
+      "tagline": "Ein wenig bekannter Küstenpunkt zwischen Skala Maries und Tripiti",
+      "summary": "Secret Beach bezeichnet hier einen Kartenpunkt an der Südwestküste von Thassos nahe der Gegend Kefalas, zwischen Skala Maries und Tripiti. Die genauen Strandgrenzen, Zugangsmöglichkeiten und Einrichtungen sind noch nicht unabhängig bestätigt.",
+      "description": "Auf Thassos wird der Name Secret Beach für verschiedene Küstenstellen verwendet. Dieser Datensatz bezieht sich ausschließlich auf den angegebenen GPS-Punkt 40.624751, 24.528742 zwischen Skala Maries und Tripiti. Die Küste rund um das Kap Kefalas umfasst kleinere Buchten, von denen manche vom Meer aus erreicht werden. Ausflugsanbieter beschreiben einen Strand namens Kefalas Beach, doch es ist noch nicht gesichert, dass dieser genau dem hier bezeichneten Secret Beach entspricht. Andere Karten zeigen eine gleichnamige Stelle deutlich weiter nördlich bei Fari. Deshalb dürfen diese Punkte nicht ungeprüft zusammengeführt werden. Solange die genaue Bucht nicht bestätigt ist, werden weder Sand- oder Kiesbeschaffenheit noch Wassertiefe, Strandservice oder ein sicherer Zugang über Land zugesichert. Vor einem Besuch ist die eindeutige Identifikation der Stelle wichtig.",
+      "practical_tips": "Nutzen Sie die exakten Koordinaten statt nur den Namen Secret Beach. Ein befahrbarer Weg, ein öffentlicher Fußpfad und Parkplätze sind nicht bestätigt. Fragen Sie bei Bootsausflügen nach dem genauen Haltepunkt. Nehmen Sie Wasser und Sonnenschutz mit; Einrichtungen und Rettungsschwimmer sind nicht verifiziert.",
+      "highlights": [
+        "Konkreter GPS-Punkt zur Unterscheidung",
+        "Südwestküste zwischen Skala Maries und Tripiti",
+        "In der Nähe des Gebiets Kefalas",
+        "Mehrdeutiger Strandname",
+        "Zugang und Strandidentität noch zu prüfen"
+      ],
+      "seo_title": "Secret Beach Thassos – Lage bei Kefalas",
+      "seo_description": "Secret Beach nahe Kefalas auf Thassos: GPS-Punkt zwischen Skala Maries und Tripiti, Namensabgrenzung und noch unbestätigter Zugang.",
+      "social_caption": "🌊 Secret Beach auf Thassos: ein versteckter Küstenpunkt bei Kefalas zwischen Skala Maries und Tripiti. 📍 Vor dem Besuch Lage und Zugang prüfen. #Thassos",
+      "photo_alt": "Küstenstelle Secret Beach nahe Kefalas auf Thassos; die genaue Fotoposition muss mit den GPS-Daten abgeglichen werden."
+    },
+    "bg": {
+      "name": "Secret Beach",
+      "tagline": "По-малко известна крайбрежна точка между Скала Мариес и Трипити",
+      "summary": "Secret Beach е име, свързано тук с точка на югозападния бряг на Тасос край района Кефалас, между Скала Мариес и Трипити. Точните граници, достъпът и удобствата още не са независимо потвърдени.",
+      "description": "На остров Тасос названието Secret Beach се среща за повече от едно крайбрежно място. Този запис се отнася единствено до подадените координати 40.624751, 24.528742, между Скала Мариес и Трипити. Крайбрежието около нос Кефалас включва малки заливи, част от които се посещават с лодка. Местни организатори на морски екскурзии описват плаж Кефалас, но не е потвърдено, че той съвпада точно с отбелязаната тук точка Secret Beach. На други карти плаж със същото име е разположен по на север, близо до Фари. Поради това не е правилно тези места да се обединяват без проверка. Докато точният бряг не бъде установен, не посочваме като сигурни вида на пясъка или камъчетата, дълбочината, услугите или безопасен сухопътен маршрут. Посещението трябва да се планира едва след уточняване на местоположението и разрешения подход.",
+      "practical_tips": "Ориентирайте се по точните координати, а не само по общото име Secret Beach. Не приемайте, че има автомобилен път, безопасна пътека или паркинг. При разходка с лодка проверете точния залив за спиране. Носете вода и слънцезащита; удобствата и спасителното обслужване не са потвърдени.",
+      "highlights": [
+        "Конкретни GPS координати",
+        "Брегът между Скала Мариес и Трипити",
+        "Близо до района Кефалас",
+        "Име, използвано за различни места",
+        "Достъпът и идентичността се проверяват"
+      ],
+      "seo_title": "Secret Beach Тасос – местоположение край Кефалас",
+      "seo_description": "Secret Beach в югозападен Тасос: GPS точка между Скала Мариес и Трипити, разграничаване от други заливи и проверка на достъпа.",
+      "social_caption": "🌊 Secret Beach, Тасос: крайбрежна точка близо до Кефалас, между Скала Мариес и Трипити. 📍 Проверете достъпа преди посещение. #Тасос",
+      "photo_alt": "Крайбрежният район на Secret Beach край Кефалас, Тасос; снимката трябва да бъде проверена спрямо точните координати."
+    },
+    "sr": {
+      "name": "Secret Beach",
+      "tagline": "Manje poznata tačka na obali između Skala Marijesa i Tripitija",
+      "summary": "Secret Beach je naziv vezan za tačku na jugozapadnoj obali Tasosa, u blizini oblasti Kefalas, između Skala Marijesa i Tripitija. Tačne granice plaže, pristup i sadržaji još nisu nezavisno potvrđeni.",
+      "description": "Na Tasosu se naziv Secret Beach koristi za više priobalnih mesta. Ovaj zapis odnosi se isključivo na dostavljene koordinate 40.624751, 24.528742, na obali između Skala Marijesa i Tripitija. Područje oko rta Kefalas poznato je po manjim uvalama i delovima obale kojima se ponekad prilazi sa mora. Lokalni organizatori izleta pominju Kefalas Beach, ali nije pouzdano potvrđeno da je to potpuno isto mesto kao tačka Secret Beach iz ovog zapisa. Na drugim mapama postoji još jedna Secret Beach severnije, blizu Farija. Zbog toga ne treba spajati te lokacije bez provere. Dok se tačna uvala ne utvrdi, ne navodimo kao potvrđene vrstu podloge, dubinu vode, usluge na plaži niti bezbedan kopneni prilaz. Posetu treba planirati tek nakon provere gde se zaista nalazi obala za kupanje i kako se do nje može dozvoljeno doći.",
+      "practical_tips": "Koristite tačne GPS koordinate, a ne samo ime Secret Beach. Ne pretpostavljajte da postoje put, prohodna pešačka staza ili parking. Kod izleta brodom proverite tačno mesto zaustavljanja. Ponesite vodu i zaštitu od sunca; sadržaji i spasilac nisu potvrđeni.",
+      "highlights": [
+        "Tačan GPS orijentir",
+        "Obala između Skala Marijesa i Tripitija",
+        "Blizina oblasti Kefalas",
+        "Naziv se koristi za različite lokacije",
+        "Pristup i identitet plaže zahtevaju proveru"
+      ],
+      "seo_title": "Secret Beach Tasos – lokacija u oblasti Kefalas",
+      "seo_description": "Secret Beach na Tasosu: GPS tačka između Skala Marijesa i Tripitija, razlikovanje od drugih uvala i još nepotvrđen pristup.",
+      "social_caption": "🌊 Secret Beach, Tasos: manje poznata tačka na obali kod Kefalasa, između Skala Marijesa i Tripitija. 📍 Proverite lokaciju i pristup pre odlaska. #Tasos",
+      "photo_alt": "Obala na lokaciji Secret Beach kod Kefalasa na Tasosu; fotografiju treba proveriti prema preciznim koordinatama."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/secret-beach/images/secret-beach1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/secret-beach/images/secret-beach2.webp",
+      "destinations/thassos/beaches/secret-beach/images/secret-beach3.webp",
+      "destinations/thassos/beaches/secret-beach/images/secret-beach4.webp",
+      "destinations/thassos/beaches/secret-beach/images/secret-beach5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/secret-beach/images/",
+    "suggested_asset_names": [
+      "secret-beach1.webp",
+      "secret-beach2.webp",
+      "secret-beach3.webp",
+      "secret-beach4.webp",
+      "secret-beach5.webp"
+    ],
+    "image_policy": "Use only user-provided, owned or appropriately commercially licensed photos. Five local WebP paths were assigned from filenames shown in the user-supplied screenshot. Independently confirm that each file depicts the EXACT user-confirmed Secret Beach GPS point (40.62475117964279, 24.528741563846708), rather than another Secret Beach near Fari, Kefalas Beach or a nearby Thassos cove. Verify source, permissions, commercial redistribution rights and any required attribution before publication. The screenshot confirms filenames, not the actual image files or geographic accuracy.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_user_pin",
+      "kind": "user_supplied_map_coordinate",
+      "title": "User-provided Secret Beach map location, 40.62475117964279,24.528741563846708",
+      "url": "https://www.google.com/maps/search/?api=1&query=40.62475117964279%2C24.528741563846708",
+      "detail": "Primary location provided by user; coordinate-based Google Maps search URL generated from that input. Not independently verified as Google Maps beach POI, sea access or boundary.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_kefalas_operator",
+      "kind": "regional_primary_tour_operator",
+      "title": "Blue Sky Cruises — Kefalas Beach",
+      "url": "https://dailycruisesthassos.gr/kefalas-daily/",
+      "detail": "Local operator describes a beach named Kefalas on western Thassos reached by sea. Geographic context only; exact correspondence to the user's Secret Beach GPS point NOT verified.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_discover_greece",
+      "kind": "regional_travel_guide",
+      "title": "Discover Greece — A boat trip around Thassos",
+      "url": "https://www.discovergreece.com/experiences/boat-trip-around-magical-thassos",
+      "detail": "Describes westward boat routes mentioning Tripiti and Kefalas Bay. Context for the southwestern coast, not identity proof for exact user pin.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_nikana_coves",
+      "kind": "local_tourism_guide",
+      "title": "Nikana — Beaches on Thassos: Wild bays after Skala Maries",
+      "url": "https://nikana.gr/en/tourist-guide/blog/beaches/1676/beaches-on-thassos-description-and-how-to-get-there",
+      "detail": "Describes smaller wild coves on the Skala Maries-to-Limenaria side, including ones near the ancient pottery factory. Does NOT fix the exact Secret Beach pin and may refer to coves farther north.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_other_secret_poi",
+      "kind": "map_directory_for_deduplication_only",
+      "title": "HikersBay — a different Secret Beach POI near Fari",
+      "url": "https://hikersbay.com/beach/greece/thassos/2770873?lang=en&lat=40.6371511&lon=24.5203327&rname=beach",
+      "detail": "Shows another Secret Beach near 40.6371511,24.5203327, more than a kilometre away. Used solely to flag name ambiguity; MUST NOT be used to transfer its physical attributes to the user pin.",
+      "checked_on": "2026-10-24"
+    }
+  ],
+  "editorial": {
+    "status": "confirmed_in_beach_inventory_images_assigned_pending_detail_and_rights_review",
+    "facts_checked_on": "2026-10-24",
+    "translations_written_on": "2026-10-24",
+    "coverage": "six_language_profile_confirmed_inventory_location_details_pending",
+    "requires_manual_review": [
+      "Confirm exact shoreline boundaries at the user-confirmed Secret Beach GPS point and distinguish from other places with the same name near Fari.",
+      "Investigate whether Kefalas Beach is an alias or nearby separate cove; this does not block inclusion of user-confirmed Secret Beach as its own inventory record.",
+      "Check whether public land access exists; nearby Kefalas is reported by a cruise operator as sea-only access, but this cannot be assigned to this pin without verification.",
+      "Confirm shore material, safe water entry, physical bounds, access, parking and any amenities on site.",
+      "Review all six translations after place identity is confirmed; remove cautions only when evidence exists.",
+      "Verify each locally referenced secret-beach1.webp–secret-beach5.webp depicts the exact user-confirmed GPS location, and confirm authorship, commercial reuse/transfer rights and any required credit."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text supplied; commercial reuse and transferable rights of the five locally referenced WebP images have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP image paths were assigned from filenames visible in the user-supplied screenshot. No WebP binaries are embedded in this JSON or independently checked; exact geographic identification and image rights remain unverified.",
+    "user_confirmation_note": "2026-10-24: User explicitly confirmed Secret Beach as a distinct missing entry in the beach inventory and reports finding images; counted as confirmed. Independent checks of the exact beach footprint, access and physical details remain open."
+  }
+}

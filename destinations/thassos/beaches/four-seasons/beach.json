@@ -1,0 +1,423 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-four-seasons",
+  "slug": "four-seasons",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Four Seasons (τοπική τουριστική ονομασία)",
+    "international_name": "Four Seasons Beach",
+    "aliases": [
+      "Four Season Beach",
+      "Four Season",
+      "Four Seasons",
+      "Four Seasons Hotel Beach",
+      "Four Season Beach Thassos",
+      "Παραλία Four Season",
+      "Παραλία Four Seasons"
+    ],
+    "entity_scope": "A small, named beach cove on the northwestern shore of Thassos, described in local beach guides as the first cove beyond Papalimani toward Glykadi, across the main island road from Four Seasons Hotel. Treated as a micro-beach/sector with a separate visitor identity, not as all of the Papalimani or Glykadi shore.",
+    "deduplication_warning": "Do not merge automatically with Papalimani or Glykadi. Nikana distinguishes Four Season as the first cove after Papalimani and identifies Glykadi as another beach farther west. Accommodation sites sometimes market nearby shores under Glykadi, so precise shoreline boundaries, images and map pins require on-site verification. Do not confuse with Four Seasons hotels/resorts outside Thassos."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "northwest coast, west of Limenas; Papalimani–Glykadi stretch",
+    "settlements": [
+      "Limenas (Thassos Town)",
+      "Glykadi (nearby area)",
+      "Skala Rachoni (regional direction)"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Four%20Season%20Beach%20Papalimani%20Thassos%20Greece",
+    "coordinate_source_reference": "s_google_maps_search",
+    "coordinate_type": "named_search_only_no_verified_independent_beach_pin",
+    "coordinate_review_status": "Local beach guide places it in first cove after Papalimani towards Glykadi, opposite the Four Seasons Hotel. Exact Google Maps beach pin, cove boundary and safe approach were not independently established; hotel coordinates are not to be substituted for beach coordinates.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "narrow_sandy_strip_with_gravel_and_stones_at_the_waterline",
+    "seabed_near_shore": "gravel_larger_stones_and_possible_sea_urchins_near_entry; sand_further_out_reported",
+    "water_entry": "variable_uneven_gravel_and_rocky_first_metres",
+    "nearshore_depth": "not_reliably_measured; varies_by_exact_cove_and_sea_conditions",
+    "water_clarity": "often_clear_in_calm_conditions",
+    "wave_conditions": "weather_and_wind_dependent; exposed_to_northwest_coastal_conditions",
+    "exposure": "small_northwest_coast_cove_with_pine_backdrop",
+    "natural_shade_on_sand": "some_natural_shade_near_treeline_reported; varies_by_hour",
+    "beach_length_m": null,
+    "length_note": "Described as a small narrow beach; no independently verified shoreline measurement.",
+    "backdrop": "pine-covered slopes and vegetation near the main coast road; small hotel-linked coves",
+    "shoreline_type": "small_narrow_cove_distinct_from_neighboring_papalimani_and_glykadi_beach_entries"
+  },
+  "visitor_experience": {
+    "organization": "historically_hotel_associated_small_beach_current_public_services_unverified",
+    "suitable_for": [
+      "couples",
+      "quiet_coastal_stops",
+      "swimming_when_calm",
+      "visitors_wearing_water_shoes",
+      "visitors_who_prefer_smaller_coves"
+    ],
+    "notable_for": [
+      "small_pine_backed_cove",
+      "historic_association_with_four_seasons_hotel",
+      "gravel_and_rocky_water_entry",
+      "possible_sea_urchins",
+      "proximity_to_papalimani_and_glykadi"
+    ],
+    "activities_possible": [
+      "swimming",
+      "careful_shallow_water_exploration",
+      "coastal_photography",
+      "relaxing_by_the_shore"
+    ],
+    "estimated_crowd_peak": "small_shoreline_capacity; summer_occupancy_not_independently_measured",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Published guides describe stones and sea urchins near the entry; use water shoes and watch your footing. Do not swim beyond safe depth to avoid hazards. The main road can be busy and a dedicated parking or marked approach is not confirmed. No verified lifeguard coverage."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": null,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": null,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Hotel services nearby must not be assumed to be public toilets accessible to beach visitors."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "No current reliable verification of a public beach shower."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": null,
+    "parking_nearby": null,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No independently verified seasonal lifeguard service for this specific small cove.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "No verified step-free path from the road to this narrow shore; do not advertise accessibility without on-site inspection.",
+    "free_unserviced_space": null,
+    "facilities_scope": "An older local guide mentions loungers and umbrellas associated with the hotel. A nearby hotel restaurant and other hotel amenities are not automatically available to non-guests. The current beach operator, outsider access and 2026 charges need an on-site check."
+  },
+  "access_and_cost": {
+    "road_access": "main_coastal_road_from_limenas_towards_skala_rachoni_and_prinos; locate_short_cove_foot_approach_without_assuming_vehicle_access",
+    "public_transport": "no_verified_bus_stop_or_safe_walk_from_stop_for_this_specific_cove",
+    "parking_type": "no_dedicated_beach_car_park_confirmed; older_guide_reports_none",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Historically loungers and umbrellas were reported, but no verified current policy, guest restriction, consumption minimum or price for outside visitors.",
+    "best_arrival_advice": "Use Papalimani and Glykadi as orientation references, not as proof of a public parking entrance. Check the road crossing and legal parking before approaching the shore. Wear water shoes because of uneven stones and possible urchins; carry drinking water and sun protection even if hotel facilities are visible.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Four Seasons hotel registry gives a hotel-to-town distance of about 3 km, whereas some commercial listings use other starting points. This is not verified road distance to the beach cove, so no numeric beach distance is stored."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Four Seasons Beach (Four Season)",
+      "tagline": "Un golf discret printre pini, cu nisip și intrare pietroasă în apă",
+      "summary": "Four Seasons este o mică plajă de pe coasta nord-vestică a insulei Thassos, între Papalimani și Glykadi, în apropierea hotelului cu același nume. Are o fâșie îngustă de nisip, umbră parțială de la pini și o intrare în mare unde pot apărea pietre și arici de mare.",
+      "description": "Four Seasons Beach nu este una dintre plajele mari ale insulei, ci un mic golf de pe drumul de coastă care pleacă din Limenas către Skala Rachoni și Prinos. Ghidurile locale îl identifică drept primul golf după Papalimani, în direcția Glykadi, în dreptul hotelului Four Seasons. Această poziționare îi oferă o identitate proprie, însă trebuie evitată confuzia cu plaja Glykadi sau cu întregul sector Papalimani. Peisajul este unul tipic coastei nordice: vegetație bogată, pini aproape de apă și o porțiune îngustă de mal pe care predomină nisipul. În primele metri ai mării, pietrișul și pietrele pot face intrarea mai dificilă, iar în descrierile locale sunt menționați arici de mare. Mai departe de mal au fost descrise zone cu fund nisipos, dar acest lucru nu înseamnă că trebuie să înoți spre larg pentru a ocoli obstacolele. În trecut, plaja a fost asociată cu șezlonguri și umbrele ale hotelului; disponibilitatea actuală, regulile pentru vizitatorii din exterior și tarifele nu sunt confirmate. Four Seasons poate atrage turiștii care preferă golfurile mici și priveliștea verde, nu pe cei care caută o plajă lată, amenajată complet sau cu acces auto garantat. O oprire aici merită planificată cu atenție la traversarea drumului și la condițiile de intrare în apă.",
+      "practical_tips": "Caută golful dintre Papalimani și Glykadi, dar nu folosi automat un pin al hotelului ca intrare pe plajă. Accesul pietonal și locul unde se poate parca legal trebuie verificate la fața locului; un ghid mai vechi nu menționează o parcare proprie. Ia încălțăminte de apă pentru pietriș, pietre și posibili arici de mare. Nu te baza pe șezlonguri, toalete, dușuri sau pe accesul la serviciile hotelului fără confirmare. Umbrirea naturală se schimbă pe parcursul zilei; ia apă și protecție solară. Cu copii mici, verifică personal fundul mării înainte de intrare.",
+      "highlights": [
+        "Golf mic, între Papalimani și Glykadi",
+        "Pini aproape de mal și umbră parțială",
+        "Nisip îngust, cu pietre la intrarea în mare",
+        "Legătură istorică cu hotelul Four Seasons",
+        "Facilități sezoniere care trebuie reconfirmate"
+      ],
+      "seo_title": "Four Seasons Beach Thassos – acces, pietre și sfaturi",
+      "seo_description": "Ghid pentru Four Seasons Beach din Thassos, între Papalimani și Glykadi: nisip, umbră de pini, intrare pietroasă, acces și facilități de verificat.",
+      "social_caption": "🌲 Four Seasons Beach, Thassos: un golf mic și verde, ascuns între Papalimani și Glykadi. 🌊 Încălțămintea de apă e utilă la intrarea printre pietre. 🇬🇷 #Thassos #FourSeasonsBeach #GreekIslands",
+      "photo_alt": "Micul golf Four Seasons de pe coasta nord-vestică a insulei Thassos, cu nisip îngust și pini în apropierea apei."
+    },
+    "en": {
+      "name": "Four Seasons Beach (Four Season)",
+      "tagline": "A pine-backed little cove with sand and a stony sea entry",
+      "summary": "Four Seasons is a small beach cove on the northwestern coast of Thassos, between Papalimani and Glykadi, close to the hotel of the same name. A narrow sandy shore meets clear water, with shade from nearby pines and stones at the waterline.",
+      "description": "Four Seasons Beach is an easily overlooked small cove rather than one of Thassos’s broad resort beaches. Local beach guides place it immediately beyond Papalimani in the direction of Glykadi, on the coastal road leading west from Limenas. The name comes from the nearby Four Seasons Hotel, but it should not be used for the whole neighbouring Papalimani or Glykadi shoreline. The setting is intimate: pines and thick greenery reach close to a slender strip of sand, providing pockets of shade at certain hours. What looks like an inviting sandy swimming spot requires care at the waterline. Published local descriptions mention gravel, larger stones and sea urchins in the first metres, with sand further offshore. This is not an invitation to swim out to bypass the rocks; conditions and depth need to be judged on the day. Sunbeds and umbrellas have historically been associated with this hotel-side beach, but there is no dependable confirmation that they are currently installed, or that visitors who are not hotel guests may use them. Although accommodation and dining options exist in the wider area, these do not mean there are guaranteed public toilets, showers or refreshments directly on the sand. The appeal here is the secluded-feeling green coastal scenery and the chance to explore a smaller corner of the island, provided you arrive prepared for a basic beach stop and use a safe, legal route from the main road.",
+      "practical_tips": "Use Papalimani and Glykadi as reference points, not a hotel map pin as proof of a beach entrance. Check the safe walking route and legal parking locally; an older guide reports no dedicated beach car park. Wear water shoes for gravel, stones and possible sea urchins, and check the bottom before entering. Do not assume access to hotel loungers, bathrooms, showers or food service. Bring drinking water and sun protection as the natural shade moves during the day. Families with young children should be particularly cautious at the uneven sea entry.",
+      "highlights": [
+        "Small cove between Papalimani and Glykadi",
+        "Pines and patches of natural shade",
+        "Narrow sand with stones at the waterline",
+        "Historic association with Four Seasons Hotel",
+        "Seasonal beach services requiring confirmation"
+      ],
+      "seo_title": "Four Seasons Beach Thassos – access, shore and tips",
+      "seo_description": "Explore Four Seasons Beach in Thassos near Papalimani and Glykadi: small pine-backed cove, sandy shore, stony water entry and practical access tips.",
+      "social_caption": "🌲 Four Seasons Beach, Thassos: a little green cove between Papalimani and Glykadi. 🌊 Bring water shoes for the pebbly, rocky shallows. 🇬🇷 #Thassos #FourSeasonsBeach #GreeceTravel",
+      "photo_alt": "Narrow sandy cove known as Four Seasons Beach on northwestern Thassos, with pines bordering the shoreline."
+    },
+    "el": {
+      "name": "Παραλία Four Seasons (Four Season)",
+      "tagline": "Μικρός όρμος με πεύκα, άμμο και πέτρες στην είσοδο της θάλασσας",
+      "summary": "Η παραλία Four Seasons είναι ένας μικρός όρμος στη βορειοδυτική Θάσο, ανάμεσα στο Παπαλιμάνι και το Γλυκάδι, κοντά στο ομώνυμο ξενοδοχείο. Έχει στενή αμμώδη ακτή, λίγη φυσική σκιά από πεύκα και πέτρες στα πρώτα μέτρα μέσα στο νερό.",
+      "description": "Η παραλία Four Seasons είναι μια μικρή γωνιά της ακτής και όχι μια μεγάλη, συνεχόμενη αμμουδιά. Οι τοπικοί ταξιδιωτικοί οδηγοί την τοποθετούν στον πρώτο όρμο μετά το Παπαλιμάνι με κατεύθυνση προς το Γλυκάδι, κοντά στον παραλιακό δρόμο που συνδέει τον Λιμένα με τη Σκάλα Ραχωνίου και τον Πρίνο. Η ονομασία της προέρχεται από το κοντινό ξενοδοχείο Four Seasons, όμως δεν πρέπει να συγχέεται με ολόκληρη την παραλία Παπαλιμάνι ούτε με το Γλυκάδι, που αναφέρεται χωριστά. Το τοπίο χαρακτηρίζεται από πυκνή βλάστηση, πεύκα κοντά στη θάλασσα και μια στενή λωρίδα άμμου. Η φυσική σκιά μπορεί να είναι ευχάριστη ορισμένες ώρες, χωρίς να καλύπτει απαραίτητα όλη την ακτή. Στην είσοδο της θάλασσας έχουν αναφερθεί χαλίκια, μεγαλύτερες πέτρες και αχινοί. Πιο έξω περιγράφεται αμμώδης βυθός, αλλά δεν είναι ασφαλές να κολυμπά κανείς προς τα βαθιά μόνο για να αποφύγει τα εμπόδια. Παλαιότερες περιγραφές αναφέρουν ξαπλώστρες και ομπρέλες που συνδέονταν με το ξενοδοχείο. Η σημερινή λειτουργία τους, η πρόσβαση επισκεπτών εκτός ξενοδοχείου και τυχόν χρεώσεις δεν έχουν επιβεβαιωθεί. Πρόκειται για επιλογή κυρίως για όσους εκτιμούν μικρούς όρμους με πράσινο φόντο και είναι πρόθυμοι να ελέγξουν προσεκτικά την πρόσβαση και τις συνθήκες κολύμβησης.",
+      "practical_tips": "Χρησιμοποιήστε το Παπαλιμάνι και το Γλυκάδι ως σημεία προσανατολισμού, χωρίς να θεωρείτε τη θέση του ξενοδοχείου επιβεβαιωμένη είσοδο στην παραλία. Ελέγξτε επιτόπου την ασφαλή πεζή πρόσβαση και τη νόμιμη στάθμευση, καθώς παλαιότερος οδηγός δεν αναφέρει ειδικό χώρο πάρκινγκ. Προτιμήστε παπούτσια θαλάσσης για τις πέτρες και τους πιθανούς αχινούς. Μη θεωρείτε δεδομένες τις ξαπλώστρες, τις τουαλέτες, τα ντους ή τις υπηρεσίες του ξενοδοχείου. Πάρτε νερό και αντηλιακή προστασία. Με μικρά παιδιά απαιτείται ιδιαίτερη προσοχή στην είσοδο της θάλασσας.",
+      "highlights": [
+        "Μικρός όρμος ανάμεσα σε Παπαλιμάνι και Γλυκάδι",
+        "Πεύκα και φυσική σκιά κατά τόπους",
+        "Στενή αμμουδιά με πέτρες στο νερό",
+        "Σύνδεση της ονομασίας με το ξενοδοχείο Four Seasons",
+        "Εποχικές παροχές που χρειάζονται επιβεβαίωση"
+      ],
+      "seo_title": "Παραλία Four Seasons Θάσος – πρόσβαση και συμβουλές",
+      "seo_description": "Γνωρίστε την παραλία Four Seasons στη Θάσο, ανάμεσα σε Παπαλιμάνι και Γλυκάδι: μικρός όρμος, πεύκα, πέτρες στην είσοδο και χρήσιμες συμβουλές.",
+      "social_caption": "🌲 Four Seasons, Θάσος: ένας μικρός καταπράσινος όρμος ανάμεσα στο Παπαλιμάνι και το Γλυκάδι. 🌊 Παπούτσια θαλάσσης για τις πέτρες! 🇬🇷 #Θάσος #FourSeasonsBeach #Ελλάδα",
+      "photo_alt": "Μικρός αμμώδης όρμος Four Seasons στη βορειοδυτική Θάσο, με πεύκα κοντά στο νερό."
+    },
+    "de": {
+      "name": "Four Seasons Beach (Four Season)",
+      "tagline": "Kleine Bucht mit Pinien, Sand und steinigem Einstieg",
+      "summary": "Four Seasons ist eine kleine Badebucht an der Nordwestküste von Thassos zwischen Papalimani und Glykadi, nahe dem gleichnamigen Hotel. Ein schmaler Sandstreifen, Pinien und teils steinige Flachwasserbereiche prägen den Ort.",
+      "description": "Der Four Seasons Beach ist keine große Ferienstrand-Anlage, sondern eine kleine Bucht entlang der Küstenstraße westlich von Limenas. Lokale Strandführer beschreiben ihn als erste Bucht nach Papalimani in Richtung Glykadi, gegenüber dem Four Seasons Hotel. Der Name bezieht sich auf das nahe Hotel; die Bucht sollte jedoch weder mit dem gesamten Papalimani-Strand noch mit dem separat aufgeführten Glykadi Beach gleichgesetzt werden. Die Landschaft wirkt grün und ruhig: Pinien wachsen nahe an einem schmalen Sandstreifen, sodass sich zu bestimmten Tageszeiten natürliche Schattenplätze ergeben. Der Einstieg ins Meer ist weniger unkompliziert, als das sandige Ufer vermuten lässt. In älteren örtlichen Beschreibungen werden Kies, größere Steine und Seeigel auf den ersten Metern genannt. Weiter draußen soll sich sandiger Meeresboden befinden, doch man sollte keinesfalls ins tiefere Wasser hinausschwimmen, nur um die Steine zu umgehen. Früher wurden an diesem hotelnahen Abschnitt Liegen und Sonnenschirme angeboten. Ob sie aktuell aufgestellt sind, welche Bedingungen für Nicht-Hotelgäste gelten und was sie kosten, konnte nicht verlässlich bestätigt werden. Auch Hotelrestaurant und weitere Angebote in der Umgebung dürfen nicht automatisch als frei zugängliche Strandversorgung verstanden werden. Die Bucht eignet sich besonders für Besucher, die kleine Küstenabschnitte mit viel Grün mögen und bereit sind, Zufahrt, Parkplatzsuche und Badebedingungen vor Ort sorgfältig zu prüfen.",
+      "practical_tips": "Papalimani und Glykadi helfen bei der Orientierung; ein Hotelstandort ist aber kein bestätigter Strandzugang. Prüfen Sie den sicheren Fußweg und die erlaubten Parkmöglichkeiten vor Ort. Ein älterer Reiseführer nennt keinen eigenen Strandparkplatz. Wegen Kies, Steinen und möglicherweise Seeigeln sind Badeschuhe sinnvoll. Verlassen Sie sich nicht auf öffentliche Toiletten, Duschen oder die Nutzung von Hotelliegen. Trinkwasser und Sonnenschutz gehören ins Gepäck, auch wenn die Pinien zeitweise Schatten spenden. Mit kleinen Kindern den Meeresgrund besonders sorgfältig prüfen.",
+      "highlights": [
+        "Kleine Bucht zwischen Papalimani und Glykadi",
+        "Pinien und stellenweise natürlicher Schatten",
+        "Schmaler Sandstreifen mit Steinen am Wassereinstieg",
+        "Historische Verbindung zum Four Seasons Hotel",
+        "Saisonangebote ohne bestätigte aktuelle Verfügbarkeit"
+      ],
+      "seo_title": "Four Seasons Beach Thassos – Anfahrt und Badetipps",
+      "seo_description": "Four Seasons Beach auf Thassos entdecken: kleine Bucht zwischen Papalimani und Glykadi, Pinien, sandiges Ufer, steiniger Wassereinstieg und Zugangstipps.",
+      "social_caption": "🌲 Four Seasons Beach auf Thassos: eine grüne kleine Bucht zwischen Papalimani und Glykadi. 🌊 Badeschuhe sind hier sehr hilfreich! 🇬🇷 #Thassos #FourSeasonsBeach #Griechenland",
+      "photo_alt": "Schmale Sandbucht Four Seasons an der Nordwestküste von Thassos mit Pinien nahe dem Meer."
+    },
+    "bg": {
+      "name": "Плаж Four Seasons (Four Season)",
+      "tagline": "Малък залив с борове, пясък и каменисто влизане във водата",
+      "summary": "Four Seasons е малък залив на северозападния бряг на Тасос, между Папалимани и Гликади, до едноименния хотел. Тясна пясъчна ивица, борова сянка и камъни при навлизане в морето са основните му особености.",
+      "description": "Плаж Four Seasons е малко крайбрежно заливче, а не голям курортен плаж. Местните пътеводители го посочват като първия залив след Папалимани в посока Гликади, покрай крайбрежния път западно от Лименас. Името идва от близкия хотел Four Seasons, но това място не бива да се бърка нито с целия плаж Папалимани, нито със съседния Гликади, който е описван отделно. Крайбрежието е зелено, с борове, които достигат близо до тясната пясъчна ивица. На някои места и в определени часове дърветата осигуряват приятна естествена сянка. При влизане в морето обаче има участъци с чакъл и по-големи камъни. В по-стари местни описания се споменават и морски таралежи. По-навътре е описано пясъчно дъно, но това не означава, че е разумно да се плува към дълбокото, за да се избегнат камъните. В миналото на плажа е имало шезлонги и чадъри, свързвани с хотела. Дали те работят сега, дали са достъпни за външни посетители и какви са условията, не е потвърдено. Хотелските ресторант и удобства също не трябва да се приемат за обществени услуги на самия плаж. Four Seasons е интересен за хора, които харесват малки заливи с много зеленина и са готови да проверят достъпа и условията за къпане на място.",
+      "practical_tips": "Ориентирайте се по Папалимани и Гликади, но не използвайте координатите на хотела като сигурен вход към плажа. Проверете безопасната пешеходна пътека и разрешените места за паркиране. По-стар пътеводител не съобщава за самостоятелен паркинг. Вземете обувки за вода заради чакъла, камъните и възможните морски таралежи. Не разчитайте на обществени тоалетни, душове или ползване на хотелските шезлонги без потвърждение. Носете питейна вода и слънцезащита. При малки деца проверете дъното преди влизане.",
+      "highlights": [
+        "Малко заливче между Папалимани и Гликади",
+        "Борове и естествена сянка на места",
+        "Тясна пясъчна ивица с камъни във водата",
+        "Името е свързано с хотел Four Seasons",
+        "Сезонни услуги с непотвърдена наличност"
+      ],
+      "seo_title": "Плаж Four Seasons, Тасос – достъп и полезни съвети",
+      "seo_description": "Открийте плаж Four Seasons на Тасос между Папалимани и Гликади: малък залив с борове, пясък, каменисто влизане и съвети за достъп.",
+      "social_caption": "🌲 Four Seasons, Тасос: зелен малък залив между Папалимани и Гликади. 🌊 Носете обувки за вода за каменистото дъно! 🇬🇷 #Тасос #FourSeasonsBeach #Гърция",
+      "photo_alt": "Тесният пясъчен залив Four Seasons в северозападната част на Тасос, ограден от борове."
+    },
+    "sr": {
+      "name": "Plaža Four Seasons (Four Season)",
+      "tagline": "Mala uvala sa borovima, peskom i kamenitim ulaskom u more",
+      "summary": "Four Seasons je mala uvala na severozapadnoj obali Tasosa, između Papalimanija i Glikadija, u blizini istoimenog hotela. Uska peščana obala, borova hladovina i kamenje na ulazu u more njene su glavne odlike.",
+      "description": "Plaža Four Seasons je malo priobalno mesto, a ne jedna od velikih uređenih plaža Tasosa. Lokalni vodiči smeštaju je u prvu uvalu posle Papalimanija u pravcu Glikadija, uz obalski put zapadno od Limenasa. Naziv potiče od obližnjeg hotela Four Seasons, ali uvalu ne treba poistovećivati sa čitavim Papalimanijem niti sa plažom Glikadi, koja se navodi kao posebno mesto. Okruženje je zeleno i prijatno, sa borovima koji se približavaju uskoj traci peska. Drveće pruža prirodnu hladovinu na pojedinim mestima i u određeno doba dana. Ipak, sam ulazak u more može biti nezgodan. Stariji lokalni opisi pominju šljunak, krupnije kamenje i morske ježeve u prvih nekoliko metara. Dalje se navodi peščano dno, ali to nikako nije razlog da se pliva ka dubljoj vodi samo da bi se zaobišle prepreke. Ranije su u ovom delu postojale ležaljke i suncobrani povezani sa hotelom. Njihova današnja dostupnost, uslovi korišćenja za goste koji nisu smešteni u hotelu i cene nisu pouzdano potvrđeni. Ni restoran i drugi hotelski sadržaji ne predstavljaju automatski javne usluge na plaži. Four Seasons može biti lep izbor za one koji vole male zelene uvale, ali do nje treba stići promišljeno, uz proveru staze, parkiranja i stanja mora.",
+      "practical_tips": "Za orijentaciju koristite Papalimani i Glikadi, ali nemojte pretpostavljati da hotelska mapa pokazuje ulaz na plažu. Proverite bezbedan pešački prilaz i dozvoljeno parkiranje; stariji vodič ne navodi poseban parking. Obuća za vodu korisna je zbog šljunka, kamenja i mogućih morskih ježeva. Nemojte računati na javne toalete, tuševe ni korišćenje hotelskih ležaljki bez provere. Ponesite vodu za piće i zaštitu od sunca, jer se senka borova menja tokom dana. Sa malom decom posebno pažljivo proverite morsko dno.",
+      "highlights": [
+        "Mala uvala između Papalimanija i Glikadija",
+        "Borovi i prirodna hladovina ponegde",
+        "Uzak pesak sa kamenjem na ulazu u more",
+        "Naziv povezan sa hotelom Four Seasons",
+        "Sezonske usluge koje treba ponovo proveriti"
+      ],
+      "seo_title": "Plaža Four Seasons Tasos – prilaz i saveti za kupanje",
+      "seo_description": "Upoznajte plažu Four Seasons na Tasosu, između Papalimanija i Glikadija: mala uvala, borovi, peščana obala, kamenit ulaz i praktični saveti.",
+      "social_caption": "🌲 Four Seasons, Tasos: mala zelena uvala između Papalimanija i Glikadija. 🌊 Obuća za vodu je dobar izbor zbog kamenja! 🇬🇷 #Tasos #FourSeasonsBeach #Grcka",
+      "photo_alt": "Mala peščana uvala Four Seasons na severozapadnom Tasosu sa borovima uz obalu."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/four-seasons/images/four-seasons1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/four-seasons/images/four-seasons2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/four-seasons/images/four-seasons3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/four-seasons/images/four-seasons4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/four-seasons/images/four-seasons5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/four-seasons/images/",
+    "suggested_asset_names": [
+      "four-seasons1.webp",
+      "four-seasons2.webp",
+      "four-seasons3.webp",
+      "four-seasons4.webp",
+      "four-seasons5.webp"
+    ],
+    "image_policy": "Use only images supplied or approved by the project owner, with verified rights for commercial publication. Image 1 is the cover; images 2–5 appear in numeric gallery order. Confirm the photos depict the intended Four Seasons coastal section.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_nikana_four_season",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Beaches on Thassos: Four Season section",
+      "url": "https://nikana.gr/en/tourist-guide/blog/beaches/1676/beaches-on-thassos-description-and-how-to-get-there",
+      "detail": "Describes distinct first small cove after Papalimani across the road from Four Seasons Hotel; narrow sand, natural shade, historical sunbeds/parasols, stones/urchins at sea entry and lack of sign/dedicated parking in older account.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_sr",
+      "kind": "local_travel_guide",
+      "title": "Nikana Serbian — Plaže na Tasosu: Four Season",
+      "url": "https://nikana.gr/sr/vodic/blog/plaze/1676/plaze-na-tasosu-opis-i-kako-stici",
+      "detail": "Serbian-language confirmation of relative position between Papalimani and Glykadi; text appears to reproduce same original local-guide content, not independent corroboration.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_athasi",
+      "kind": "local_destination_guide",
+      "title": "Athasi — Thassos visitor area and beach list",
+      "url": "https://www.athasi.gr/en/experience/",
+      "detail": "Lists Four Season separately among Limenas-area beaches following Papalimani and before Glikadi.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_hotel_chamber",
+      "kind": "official_accommodation_registry",
+      "title": "Hellenic Chamber of Hotels — FOUR SEASONS",
+      "url": "https://www.grhotels.gr/en/listing/four-seasons/",
+      "detail": "Confirms a Four Seasons lodging business in Thassos, seasonality and self-reported hotel-to-beach distance; is not a beach facility or public access authority.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_hotel_operator",
+      "kind": "operator_website",
+      "title": "Thassotel Group — Four Seasons Hotel",
+      "url": "https://www.thassotel.com/",
+      "detail": "Places Four Seasons Hotel in Glykadi, Thassos and describes pine surroundings, an onsite restaurant/bar; these are hotel offerings not guaranteed public beach amenities.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_booking_hotel",
+      "kind": "accommodation_listing",
+      "title": "Booking.com — Four Season, Glykadi",
+      "url": "https://www.booking.com/hotel/gr/four-season.html",
+      "detail": "Places hotel in Glykadi; hotel amenities (including private parking) must not be attributed to a specific public beach.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_travel_2026",
+      "kind": "tour_operator",
+      "title": "CK FISCHER — Four Seasons Hotel Thassos",
+      "url": "https://www.fischer.cz/recko/thassos/thassos-limenas/four-seasons-hotel",
+      "detail": "Markets seasonal hotel beach lounger availability; gives distances and identifies a nearby Glykadi beach. Marketing material does not establish that all beach facilities are open to non-guests or which exact cove is pictured.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_recent_traveler",
+      "kind": "traveler_report",
+      "title": "Tripadvisor — Four Seasons Hotel, traveller reviews through 2026",
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1189851-d1126739-Reviews-Four_Seasons_Hotel-Glikadi_Thasos_Northeast_Aegean_Islands.html",
+      "detail": "A September 2025 traveller described two nearby small coves with different entries, about 150 m and 230 m from hotel; other 2026 review describes clear swimming water. User reports are anecdotal and may refer to different micro-coves.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_papalimani",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Papalimani Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1771/papalimani-beach",
+      "detail": "Papalimani is an independent named beach; provides nearby orientation and historical service closure warning. Do not transfer its facilities to Four Seasons.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_glykadi",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Glykadi Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1772/glykadi-beach",
+      "detail": "Glykadi is separately described; do not identify hotel-associated small coves automatically as Glykadi Beach.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_official",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — 2026 award list",
+      "url": "https://www.blueflag.gr/el/awards/2026",
+      "detail": "Lists five awards for Thassos, none named Four Season/Four Seasons; this does not establish water quality or exclude older awards under another named section.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_google_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Four Season Beach Papalimani Thassos (search only)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Four%20Season%20Beach%20Papalimani%20Thassos%20Greece",
+      "detail": "A name search, not a validated Google beach pin or verified safe approach; coordinates intentionally null.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_photo_touroperator",
+      "kind": "candidate_photo_source",
+      "title": "CK FISCHER — Hotel Four Seasons beach images",
+      "url": "https://www.fischer.cz/recko/thassos/thassos-limenas/four-seasons-hotel",
+      "detail": "Possible candidate views of a hotel-neighbouring beach; copyright/identity not cleared.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_photo_tripadvisor",
+      "kind": "candidate_photo_source",
+      "title": "Tripadvisor — Four Seasons guest-submitted gallery",
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1189851-d1126739-Reviews-Four_Seasons_Hotel-Glikadi_Thasos_Northeast_Aegean_Islands.html",
+      "detail": "Possible candidate photographic context only; licences, visual match to exact beach and original photo ownership not established.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_media_paths_configured_pending_asset_check_and_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages; distinct_named_cove_but_access_and_exact_micro_cove_boundary_pending",
+    "requires_manual_review": [
+      "Confirm precise shoreline and whether First cove after Papalimani is geographically independent from Papalimani and smaller hotel coves; distinguish Glykadi.",
+      "Confirm exact Google Maps BEACH pin and legal safe pedestrian approach; do not substitute coordinates for Four Seasons Hotel.",
+      "Verify legal roadside/other parking options, road crossing and pedestrian safety.",
+      "Confirm whether sunbeds/umbrellas are installed this season and whether non-hotel guests may use them, with exact charges/policies.",
+      "Verify any public toilets, showers, changing facilities, drinks/food, lifeguard and accessibility.",
+      "Inspect rocky water entry and any sea-urchin concentrations before recommending family swimming.",
+      "Check that four-seasons1.webp through four-seasons5.webp exist under the declared images folder, depict the intended Four Seasons coastal section and are authorized for commercial use.",
+      "Native-speaker proofread for Greek, Bulgarian and Serbian translations.",
+      "No Blue Flag 2026 listing under Four Seasons; if an alternative certified name is proposed, verify exact section on official registry."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Five project-owner-selected local image paths configured from supplied filename screenshot. Actual WebP files and commercial reproduction permissions have not been independently checked.",
+    "photo_source_disclaimer": "Cover and gallery reference local project filenames, not third-party photo candidate URLs. File existence, visual location match and publication rights remain to be verified."
+  }
+}

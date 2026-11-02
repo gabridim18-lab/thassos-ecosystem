@@ -1,0 +1,429 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-skala-potamia",
+  "slug": "skala-potamia",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Σκάλα Ποταμιάς",
+    "international_name": "Skala Potamia (Skala Potamias)",
+    "aliases": [
+      "Skala Potamia",
+      "Skala Potamias",
+      "Skála Potamiás",
+      "Skala Potamija",
+      "Σκάλα Ποταμιάς",
+      "Χρυσή Ακτή",
+      "Chrysi Akti",
+      "Chrissi Akti",
+      "Golden Coast"
+    ],
+    "area_type": "coastal_resort_village",
+    "entity_scope": "The real seafront settlement of Skala Potamia at the SOUTHERN end of the Golden Beach bay on east-northeast Thassos, developed as the coastal counterpart of inland Potamia. Includes settlement centre, local harbour and nearby built-up seaside streets. It is not the entire Golden Beach/Chrysi Ammoudia bay or inland Potamia.",
+    "deduplication_warning": "IMPORTANT: Chrysi Akti/Golden Coast is used for the southern beach and sometimes the village of Skala Potamia. Golden Beach/Chrysi Ammoudia is a continuous mapped beach shared with the northern settlement Skala Panagia/Chrysi Ammoudia. Do not create separate independent beach counts for Golden Coast, Golden Beach and Skala Potamia Beach solely because names differ. Skala Potamia and inland Potamia are different settlements; Skala Panagia at north end remains a separate settlement.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": true,
+    "coast": "east / northeast-facing bay",
+    "part_of_island": "east-northeastern",
+    "center": {
+      "lat": 40.70729,
+      "lng": 24.7609,
+      "coordinate_role": "OSM_place_village_node_for_Skala_Potamia_alias_Chrysi_Akti_not_beach_point_parking_or_arrival",
+      "coordinate_source": "OpenStreetMap village node 1477905082, via Mapcarta Chrysi Akti / Skala Potamias",
+      "coordinate_source_url": "https://mapcarta.com/13814180",
+      "verification_status": "OSM_village_reference_confirmed;_precise_Google_Maps_arrival_parking_and_access_not_verified",
+      "verified_on": "2026-10-27"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "OSM village node (40.70729,24.76090) is the locality reference, not a beach, bus-stop, marina, accessible route or public parking point. The Golden Beach record separately represents the lengthy sandy bay; its stored point is not interchangeable with this village centre. Skala Potamia/Chrysi Akti names usually denote the southern bay end; Chrysi Ammoudia/Skala Panagia refers to the northern end. Potamia is the distinct mountain village inland. Exact resort boundary, public entrances and arrival coordinates require visual/on-site checking."
+  },
+  "overview": {
+    "settlement_character": "established_east_coast_seaside_village_and_busy_summer_resort_at_southern_Golden_Beach_bay_with_small_harbour_promenade_tavernas_accommodation_and_Ipsarion_backdrop",
+    "tourism_profile": [
+      "genuine_coastal_village_with_a_walkable_seafront_centre_near_the_southern_bay",
+      "direct_access_to_the_southern_section_of_the_continuous_Golden_Beach_sandy_bay",
+      "wide_choice_of_seasonal_hotels_apartments_studios_rooms_and_small_resorts",
+      "tavernas_cafes_bakeries_minimarkets_and_summer_tourist_shops_reported",
+      "small_local_fishing_harbour_not_mainland_ferry_terminal",
+      "Tarsanas_former_boatyard_cultural_exhibition_location_subject_to_current_access",
+      "mountain_backdrop_and_westward_excursions_to_inland_Potamia_and_Panagia",
+      "beach_and_water_sports_in_dedicated_seasonal_sections_subject_to_operator_conditions",
+      "family_friendly_option_when_sea_is_calm_and_safe_bathing_section_selected"
+    ],
+    "best_time_to_visit": "Late May–September for a beach-focused visit; June and September often suit visitors seeking somewhat less intense summer crowds, while July–August usually bring the most activity. Spring and autumn can suit scenery and inland outings but business hours, swimming conditions and transport services vary.",
+    "peak_season_notes": "In high summer beach entrances, beachfront lanes and informal parking areas can be busy; not every hotel lies directly beside the harbour even when advertised as Skala Potamia. Select the exact accommodation or beach entrance before navigating. Facilities, events and beach equipment depend on operator and season."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "historically_the_seaward_settlement_and_access_point_of_inland_Potamia",
+      "small_fishing_harbour_and_older_boat_repair_activity_on_the_coast",
+      "Tarsanas_former_boatyard_area_repurposed_for_arts_exhibitions_reported_by_local_tourism_guide",
+      "regional_Thassian_fishing_olive_growing_and_seaside_hospitality_traditions",
+      "nearby_inland_Potamia_home_of_sculptor_Polygnotos_Vagis_and_his_museum_not_in_Skala_Potamia",
+      "the_large_Golden_Beach_bay_and_mount_Ipsarion_as_longstanding_geographic_landmarks"
+    ],
+    "local_traditions": [
+      "small_scale_fishing_boats_and_harbour_side_village_life",
+      "leisurely_Greek_taverna_meals_with_local_and_seasonal_seafood",
+      "coastal_strolls_at_dawn_and_in_the_evenings",
+      "island_olive_oil_olives_honey_and_local_food_products",
+      "seasonal_community_art_events_at_Tarsanas_where_organised_and_publicly_accessible"
+    ],
+    "local_food_specialties": [
+      "fresh_fish_and_seafood_when_available_from_each_taverna",
+      "Greek_meze_grilled_octopus_or_squid_where_menu_offers",
+      "grilled_meat_Greek_salads_local_cheese_and_vegetable_dishes",
+      "Thassian_olive_oil_olives_and_honey_as_regional_products"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "families_seeking_sand_and_a_wide_bay_with_local_facilities",
+      "couples_who_like_evening_walks_and_seafront_dining",
+      "visitors_wishing_to_stay_close_to_Golden_Beach",
+      "holidaymakers_without_a_car_subject_to_current_KTEL_timetables",
+      "photographers_of_coastal_sunrise_and_Ipsarion_mountain_backdrop",
+      "travellers_combining_sea_days_with_traditional_Potamia_and_Panagia_excursions",
+      "visitors_preferring_a_resort_village_not_an_isolated_beach"
+    ],
+    "experiences": [
+      "swim_and_relax_on_a_suitable_sandy_section_of_Golden_Beach_when_conditions_allow",
+      "walk_from_the_local_harbour_along_the_southern_seafront",
+      "choose_a_taverna_or_cafe_overlooking_the_bay",
+      "photograph_morning_light_and_the_Ipsarion_mountain_backdrop",
+      "explore_the_former_Tarsanas_boatyard_area_from_permitted_public_spaces",
+      "visit_inland_Potamia_for_traditional_village_atmosphere_and_Polygnotos_Vagis_Museum_when_open",
+      "explore_Panagia_and_wider_Thassos_using_accurate_individual_POI_coordinates",
+      "try_locally_offered_water_sports_only_with_operating_provider_and_safety_briefing"
+    ],
+    "points_of_interest_summary": [
+      "Skala Potamia village waterfront — walkable collection of seaside tavernas, local small harbour and holiday streets; exact parking or arrival point not established.",
+      "Golden Beach / Chrysi Ammoudia — one long named beach spanning the southern Skala Potamia and northern Skala Panagia ends; keep a single existing beach record unless a verified section is explicitly modeled as subordinate.",
+      "Golden Coast / Chrysi Akti — southern shore name associated with Skala Potamia, not a second automatically independent beach.",
+      "Tarsanas — the former boatyard zone, reported as a space for cultural or art exhibitions; event calendar and opening unverified.",
+      "Mount Ipsarion — visible natural backdrop, not a trailhead in this settlement.",
+      "Potamia — separate inland village, known for traditional setting and the Polygnotos Vagis museum; not located on Skala Potamia seafront.",
+      "Skala Panagia / Chrysi Ammoudia — northern settlement around the same bay and a separate area record."
+    ],
+    "estimated_visit_duration": "Plan roughly 1–2 hours for a harbour walk and relaxed meal without a swim, or half to full day for the beachfront and nearby dining. A longer stay is practical for accommodation; these are editorial suggestions, not official visitor-duration claims.",
+    "family_suitability": "The sandy bay and generally gradual entry attract families, but depth varies and wind, waves and currents change; use an appropriate supervised-by-family bathing sector, check signs and operator conditions, and never assume on-duty lifeguards without confirmation.",
+    "mobility_considerations": "Some paved streets and seafront sections may be easier to negotiate than natural beach sand, but continuous step-free access, accessible beach equipment, toilets and sea-entry ramps are not independently verified at a defined point. Ask specific venues about their actual accessibility and use confirmed route entrances.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "Reach Skala Potamia by paved east-coast roads from Limenas via Panagia or the inland Potamia direction, depending on origin. The resort spreads along the southern Golden Beach bay, so navigate to the precise accommodation, parking facility or beach entrance rather than just the mapped village-centre coordinate.",
+    "public_transport": "KTEL Thassos regional buses list services between Limenas and Skala Potamia (and connections through Panagia/Potamia) in the October 2026 timetable. Days, times, fares, stop coordinates, last-mile pedestrian access and seasonality change; verify current operator announcements before relying on a departure. Do not hard-code schedule times in area.json.",
+    "parking_overview": "Parking may be available in roadside or local spaces near parts of the resort and beach, but capacity, legality, surface, fees and hotel/customer restrictions vary. High-summer demand can make parking harder. No guaranteed public parking lot or exact access coordinate established.",
+    "pedestrian_access": "The southern resort centre, local harbour and adjoining beachfront can be explored on foot; some accommodations stretch farther along the bay. Beach-to-beach distances depend on the actual paths and tides/shore conditions; do not assume continuous accessible pavement along all sand or a safe route over rocks.",
+    "accessibility_note": "Paved routes in the built-up area do not establish verified wheelchair passage onto sand or the sea. Exact accessible ramps, reserved parking, toilets and operator services require fresh field evidence.",
+    "general_amenities": {
+      "supermarket": true,
+      "pharmacy": null,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": null,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "Golden Beach is generally sandy with many gradual-entry stretches, but conditions differ along the large bay. Northeast winds can generate waves; supervise children, observe beach flags and marked swimming zones, avoid active small-boat harbour waters, and use licensed water-sport services. Beware heat and limited shade on exposed sand. Driving and parking must respect local access rules.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-chrysi-ammoudia",
+      "gr-thassos-area-potamia",
+      "gr-thassos-area-panagia",
+      "gr-thassos-area-kinira"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-golden"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "The single EXISTING Golden Beach record gr-thassos-beach-golden covers the continuous bay; Golden Coast/Chrysi Akti at Skala Potamia is a named southern section, NOT automatically a separate independent beach count. Skala Panagia/Chrysi Ammoudia is the northern settlement, Potamia inland village. Reference other areas by exact IDs after areas/index.json audit. Beach, local business, museum, harbour, accommodation and parking need individual geocoded POI records; compute proximity from those records rather than the Skala Potamia village-centre coordinate. No fabricated attraction, business, bus stop or port IDs. This locality is not a mainland ferry port.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "Skala Potamia fishing harbour is not a scheduled mainland ferry port. For mainland ferries use the independently mapped Limenas or Skala Prinos terminals. Any ferry timetable or seasonal water taxi must live in a separately verified, dated transport feed; do not store service claims, prices or departure times as static area facts."
+  },
+  "translations": {
+    "ro": {
+      "name": "Skala Potamia (Chrysi Akti)",
+      "tagline": "Nisip auriu, port pescăresc și muntele Ipsarion deasupra golfului",
+      "summary": "Skala Potamia este o localitate turistică de pe coasta estică a insulei Thassos, la capătul sudic al golfului Golden Beach. Plaja lungă cu nisip, micul port, tavernele de pe mal și dealurile verzi o transformă într-o bază foarte practică pentru vacanțe la mare.",
+      "description": "Skala Potamia este unul dintre locurile în care atmosfera unui sat pescăresc se îmbină firesc cu energia unei stațiuni de vară. Aflată la capătul sudic al amplului golf Golden Beach, pe coasta estică a insulei Thassos, localitatea are un mic port, străzi cu cazări, magazine și taverne, iar în fața ei se deschide o plajă lungă, predominant nisipoasă. În spate se ridică versanții împăduriți ai masivului Ipsarion, care oferă un contrast frumos între mare și munte. Secțiunea sudică a plajei este cunoscută și sub numele Chrysi Akti sau Golden Coast. Ea face parte din întinderea de nisip a Golden Beach, care continuă spre nord până în zona Skala Panagia, numită și Chrysi Ammoudia; nu sunt două plaje complet independente doar pentru că apar denumiri diferite în ghiduri. În sezon, de-a lungul golfului se întâlnesc zone cu șezlonguri și umbrele, alături de sectoare unde poți veni cu echipamentul propriu. Intrarea în apă este adesea lină în porțiunile nisipoase, dar adâncimea, vântul și valurile trebuie verificate la fața locului, mai ales când călătorești cu copii. După plajă, partea dinspre port este potrivită pentru o plimbare, o cafea sau o cină cu preparate grecești și pește, atunci când este disponibil. Un element mai puțin cunoscut este Tarsanas, fostă zonă de șantier și reparații de bărci, menționată în ghidurile locale ca spațiu pentru expoziții artistice; accesul și evenimentele se verifică separat. Localitatea este legată istoric de Potamia, satul din interior, unde se află muzeul sculptorului Polygnotos Vagis. Împreună cu Panagia, acesta poate completa o zi de mare cu tradiții și peisaje montane. Skala Potamia este o alegere bună pentru cei care vor plajă, restaurante și servicii în apropiere, fără să piardă farmecul estic al insulei.",
+      "history_culture": "Skala Potamia s-a dezvoltat ca punct de coastă pentru satul Potamia din interior, într-un peisaj în care pescuitul și activitățile legate de mare coexistă cu plantațiile de măslini de pe insulă. În zona portului, Tarsanas păstrează amintirea vechilor activități de construcție și reparație a bărcilor; sursele locale menționează aici expoziții artistice, însă nu există un program permanent confirmat. Muzeul Polygnotos Vagis se găsește în Potamia, nu în Skala Potamia, și reprezintă o vizită culturală separată.",
+      "local_character": "Vara, satul se animă cu familii, cupluri, plimbări spre port, restaurante, cafenele și micile magazine. Dimineața atmosfera este potrivită pentru fotografii către mare, iar peste golf se văd versanții muntelui Ipsarion. În afara sezonului, unele servicii turistice funcționează limitat.",
+      "what_to_do": "Petrece câteva ore pe porțiunea potrivită din Golden Beach, apoi mergi spre micul port pentru o masă la tavernă. Explorează promenada, fotografiază golful și muntele Ipsarion, caută un eveniment la Tarsanas dacă este deschis și dedică o excursie separată satului Potamia sau Panagia. Activitățile nautice sunt posibile doar acolo unde funcționează operatori autorizați și vremea permite.",
+      "practical_tips": "Pentru navigație folosește adresa exactă a cazării, a parcării sau a intrării pe plajă: reperul GPS al satului nu este un punct de sosire confirmat. Golden Beach este lungă, iar distanța până la port diferă mult între proprietăți. În iulie și august locurile de parcare și zonele populare pot fi aglomerate. Verifică vântul, valurile, adâncimea și regulile șezlongurilor înainte de a te instala. Autobuzele spre Limenas sunt menționate în orarele KTEL, dar orele, stațiile și tarifele se reconfirmă pentru data călătoriei. Portul local nu este terminal de feribot spre continent.",
+      "highlights": [
+        "Capătul sudic al golfului Golden Beach, cu nisip fin",
+        "Mic port pescăresc, taverne și plimbări la malul mării",
+        "Panoramă spre masivul verde Ipsarion",
+        "Tarsanas, fostă zonă de șantier naval cu rol cultural",
+        "Excursii spre satele Potamia și Panagia"
+      ],
+      "seo_title": "Skala Potamia Thassos – Golden Beach, port și ghid turistic",
+      "seo_description": "Descoperă Skala Potamia din Thassos: Golden Beach, portul, tavernele, Tarsanas, accesul, transportul și sfaturi utile pentru vacanță.",
+      "social_caption": "🏖️ Skala Potamia, Thassos: nisipul de pe Golden Beach, taverne lângă micul port și munții verzi la orizont. 🌊 O combinație perfectă pentru zile liniștite la mare! 🇬🇷 #Thassos #SkalaPotamia #GoldenBeach",
+      "photo_alt": "Priveliște asupra satului Skala Potamia din Thassos, cu micul port, partea sudică a Golden Beach și muntele Ipsarion în fundal."
+    },
+    "en": {
+      "name": "Skala Potamia (Chrysi Akti)",
+      "tagline": "Golden sand, a fishing harbour and the green Ipsarion backdrop",
+      "summary": "Skala Potamia is an established seaside village at the southern end of the Golden Beach bay on eastern Thassos. Its long sandy shore, small harbour, waterfront tavernas and mountain views make it a convenient base for a relaxed island holiday.",
+      "description": "Skala Potamia combines the familiar charm of a Greek coastal village with the energy of a lively summer resort. At the southern end of the broad Golden Beach bay on eastern Thassos, the settlement gathers around a small harbour, coastal lanes, accommodation and waterfront places to eat. Beyond the village, sandy shore stretches northwards while the forested slopes of Mount Ipsarion rise behind the bay, creating one of the island’s distinctive sea-and-mountain settings. The southern beach section is frequently called Chrysi Akti, or Golden Coast. It is part of the continuous Golden Beach shoreline that runs towards Skala Panagia and Chrysi Ammoudia at the northern end; the different names do not automatically mean separate geographical beaches. In summer, some sections offer loungers and umbrellas through seasonal operators, while other stretches leave room for visitors bringing their own beach equipment. Much of the bay has fine sand and a generally gradual entry, which is appealing to families, but actual depth, wind and waves change and should always be checked before swimming. Around the southern harbour you can slow down over a coffee or choose a taverna for Greek dishes and seafood when offered. Skala Potamia also has a less obvious cultural side: the old Tarsanas boatyard area is mentioned by local guides as a setting for art exhibitions, although events and public access cannot be assumed on a particular day. The resort grew as the coastal counterpart to the inland village of Potamia. A short excursion uphill offers traditional village scenery and the Polygnotos Vagis Museum, which is located in Potamia itself, not down by the beach. Nearby Panagia adds another opportunity to discover stone streets and mountain village life. Visitors who want sand, varied places to stay, easy evening strolls and a landscape that rewards exploration will find Skala Potamia an inviting base.",
+      "history_culture": "Skala Potamia developed as the coastal counterpart of the inland village of Potamia. Local life has long been connected with fishing and small-boat activity, while olive cultivation remains part of the wider island setting. The former boatyard district known as Tarsanas recalls the working waterfront; local guides also refer to art exhibitions there, but opening arrangements must be checked. The museum of sculptor Polygnotos Vagis belongs to inland Potamia and should be presented as a separate excursion, not as an on-site Skala Potamia attraction.",
+      "local_character": "Summer brings a pleasant mixture of busy beach days, family stays, waterfront meals and evening walks. The harbour creates a recognisable village centre, while holiday accommodation extends farther along the bay. Outside the principal visitor season, some tourism services have shorter hours or close.",
+      "what_to_do": "Spend time on a suitable stretch of Golden Beach and enjoy the view of Ipsarion above the bay. Walk around the local harbour, stop for coffee or a leisurely taverna meal, and explore permitted public parts of the old Tarsanas area. If an exhibition is advertised, verify its programme before travelling. On another outing visit the mountain village of Potamia and the Polygnotos Vagis Museum, or explore Panagia. Water sports are an option only through operating providers and in suitable conditions.",
+      "practical_tips": "The mapped village centre is an orientation point, not a verified beach entrance, car park or hotel arrival. Skala Potamia extends along the southern bay, so check the exact address of your stay. Summer traffic and parking demand can be high. Choose a beach section according to actual sea entry, winds, waves and available services, and clarify any lounger minimum-spend or rental rules before use. KTEL timetables list connections with Limenas, but route times, stops and fares are seasonal and should be checked for the travel date. The small harbour is not a mainland ferry terminal.",
+      "highlights": [
+        "Southern end of the Golden Beach sandy bay",
+        "Fishing harbour and relaxed waterfront tavernas",
+        "Dramatic green slopes beneath Mount Ipsarion",
+        "Historic Tarsanas boatyard and possible art events",
+        "Easy combination with inland Potamia and Panagia"
+      ],
+      "seo_title": "Skala Potamia Thassos – Golden Beach, harbour and travel guide",
+      "seo_description": "Plan a stay in Skala Potamia on Thassos: Golden Beach, the fishing harbour, Tarsanas, tavernas, buses and useful tips for visiting.",
+      "social_caption": "🏖️ Skala Potamia, Thassos: long golden sands, waterfront tavernas and a little harbour beneath green mountains. 🌅 Discover the southern side of Golden Beach! 🇬🇷 #Thassos #SkalaPotamia #GoldenBeach",
+      "photo_alt": "Skala Potamia on Thassos showing the fishing harbour, southern Golden Beach shoreline and the green Mount Ipsarion backdrop."
+    },
+    "el": {
+      "name": "Σκάλα Ποταμιάς (Χρυσή Ακτή)",
+      "tagline": "Χρυσαφένια άμμος, γραφικό λιμανάκι και το πράσινο του Υψάριου",
+      "summary": "Η Σκάλα Ποταμιάς είναι παραθαλάσσιος οικισμός στην ανατολική Θάσο, στο νότιο άκρο του μεγάλου κόλπου της Χρυσής Αμμουδιάς. Η αμμώδης ακτή, το μικρό λιμάνι, οι ταβέρνες και το ορεινό τοπίο την κάνουν δημοφιλή βάση διακοπών.",
+      "description": "Η Σκάλα Ποταμιάς συνδυάζει τον χαρακτήρα ενός παραθαλάσσιου χωριού με τη ζωντάνια ενός αγαπημένου καλοκαιρινού προορισμού. Βρίσκεται στο νότιο άκρο του μεγάλου κόλπου της Χρυσής Αμμουδιάς, στην ανατολική Θάσο, και απλώνεται γύρω από ένα μικρό λιμανάκι, δρόμους με καταλύματα, καταστήματα, καφέ και ταβέρνες. Μπροστά της απλώνεται μια μεγάλη αμμώδης ακτή, ενώ στο βάθος υψώνονται οι καταπράσινες πλαγιές του Υψάριου, δημιουργώντας ένα όμορφο τοπίο θάλασσας και βουνού. Το νότιο τμήμα της ακτής είναι γνωστό και ως Χρυσή Ακτή ή Golden Coast. Αποτελεί μέρος της συνεχόμενης παραλίας Golden Beach, που φτάνει μέχρι τη Σκάλα Παναγίας και τη Χρυσή Αμμουδιά στο βόρειο τμήμα του κόλπου· οι διαφορετικές ονομασίες δεν δηλώνουν από μόνες τους ανεξάρτητες παραλίες. Το καλοκαίρι υπάρχουν οργανωμένα σημεία με ξαπλώστρες και ομπρέλες, αλλά και χώροι για όσους προτιμούν δικό τους εξοπλισμό. Η άμμος είναι γενικά λεπτή και η είσοδος στη θάλασσα σε πολλά σημεία ομαλή, όμως ο άνεμος, τα κύματα και το βάθος διαφέρουν και χρειάζονται πάντα έλεγχο, ιδιαίτερα με παιδιά. Κοντά στο λιμανάκι, η βόλτα συνδυάζεται εύκολα με καφέ ή φαγητό δίπλα στο νερό. Ένα λιγότερο γνωστό στοιχείο είναι ο Ταρσανάς, η παλιά περιοχή επισκευής σκαφών, που αναφέρεται σε τοπικούς οδηγούς και ως χώρος καλλιτεχνικών εκθέσεων· το πρόγραμμα και η πρόσβαση πρέπει να επιβεβαιώνονται. Η Σκάλα Ποταμιάς συνδέεται ιστορικά με το ορεινό χωριό Ποταμιά, όπου βρίσκεται το Μουσείο Πολύγνωτου Βαγή. Μια εκδρομή στην Ποταμιά ή στην Παναγία προσθέτει παραδοσιακή αρχιτεκτονική και ορεινές εικόνες σε μια μέρα δίπλα στη θάλασσα. Είναι προορισμός για όσους θέλουν μεγάλη παραλία, επιλογές διαμονής και όμορφες βραδινές βόλτες.",
+      "history_culture": "Η Σκάλα Ποταμιάς αναπτύχθηκε ως παραθαλάσσιος οικισμός της Ποταμιάς, με δραστηριότητες συνδεδεμένες με το ψάρεμα και τα μικρά σκάφη. Ο παλιός Ταρσανάς θυμίζει την παράδοση ναυπήγησης και επισκευής βαρκών, ενώ αναφέρονται και περιοδικές εκθέσεις τέχνης, χωρίς σταθερό επιβεβαιωμένο ωράριο. Το Μουσείο Πολύγνωτου Βαγή βρίσκεται στην ορεινή Ποταμιά και αποτελεί ξεχωριστή επίσκεψη.",
+      "local_character": "Το καλοκαίρι ο παραθαλάσσιος οικισμός γεμίζει επισκέπτες, οικογένειες, βραδινές βόλτες και τραπεζάκια δίπλα στο νερό. Το μικρό λιμάνι δίνει έναν ανθρώπινο χαρακτήρα στην τουριστική περιοχή, ενώ το βουνό παραμένει ορατό σχεδόν από παντού.",
+      "what_to_do": "Κάντε μπάνιο σε κατάλληλο τμήμα της μεγάλης παραλίας, περπατήστε μέχρι το λιμανάκι και δοκιμάστε τοπικές γεύσεις σε ταβέρνα. Φωτογραφίστε τον κόλπο με φόντο το Υψάριο, δείτε τον χώρο του Ταρσανά όπου επιτρέπεται η πρόσβαση και ενημερωθείτε για τυχόν εκθέσεις. Για μια διαφορετική εμπειρία, επισκεφθείτε την Ποταμιά και το Μουσείο Πολύγνωτου Βαγή ή το χωριό Παναγία.",
+      "practical_tips": "Το στίγμα του οικισμού είναι γεωγραφικό σημείο αναφοράς, όχι επιβεβαιωμένη είσοδος σε χώρο στάθμευσης ή παραλία. Η περιοχή εκτείνεται κατά μήκος του κόλπου, επομένως ελέγξτε την ακριβή θέση του καταλύματος. Το καλοκαίρι η στάθμευση μπορεί να δυσκολεύει. Ρωτήστε για τους όρους χρήσης ξαπλωστρών, προσέξτε τον άνεμο και τα κύματα και επιβλέπετε τα παιδιά. Υπάρχουν αναφορές για λεωφορειακά δρομολόγια με τον Λιμένα, αλλά οι ώρες και οι στάσεις επιβεβαιώνονται πριν από τη μετακίνηση. Το λιμανάκι δεν είναι λιμάνι ακτοπλοϊκής σύνδεσης με την ηπειρωτική Ελλάδα.",
+      "highlights": [
+        "Νότιο άκρο της μεγάλης αμμώδους Golden Beach",
+        "Μικρό ψαρολίμανο και ταβέρνες δίπλα στο κύμα",
+        "Πράσινο τοπίο με θέα στο Υψάριο",
+        "Παλιά ναυπηγική περιοχή Ταρσανάς",
+        "Εκδρομές στην Ποταμιά και την Παναγία"
+      ],
+      "seo_title": "Σκάλα Ποταμιάς Θάσος – Χρυσή Ακτή, λιμάνι και οδηγός",
+      "seo_description": "Ανακαλύψτε τη Σκάλα Ποταμιάς στη Θάσο: Χρυσή Ακτή, λιμανάκι, ταβέρνες, Ταρσανάς, πρόσβαση, συγκοινωνίες και χρήσιμες συμβουλές.",
+      "social_caption": "🏖️ Σκάλα Ποταμιάς, Θάσος: χρυσαφένια αμμουδιά, μικρό λιμανάκι, ταβέρνες και το καταπράσινο Υψάριο στο βάθος. 🌊 Μια υπέροχη καλοκαιρινή γωνιά! 🇬🇷 #Θάσος #ΣκάλαΠοταμιάς #ΧρυσήΑκτή",
+      "photo_alt": "Πανοραμική άποψη της Σκάλας Ποταμιάς με το μικρό λιμάνι, τη νότια Χρυσή Ακτή και το βουνό Υψάριο στο βάθος."
+    },
+    "de": {
+      "name": "Skala Potamia (Chrysi Akti)",
+      "tagline": "Goldener Sand, Fischerhafen und grüne Berghänge am Meer",
+      "summary": "Skala Potamia liegt am südlichen Ende der Golden-Beach-Bucht an der Ostküste von Thassos. Der lange Sandstrand, der kleine Hafen, gemütliche Tavernen und die Kulisse des Ipsarion machen den Ort zu einem beliebten Urlaubsziel.",
+      "description": "Skala Potamia verbindet das Flair eines kleinen griechischen Küstenortes mit dem lebendigen Alltag eines beliebten Sommerferienziels. Der Ort liegt am südlichen Ende der weitläufigen Golden-Beach-Bucht im Osten von Thassos. Rund um den kleinen Hafen findet man Unterkünfte, Geschäfte, Cafés und Tavernen; davor zieht sich die sandige Küste entlang des Meeres. Dahinter erheben sich die bewaldeten Hänge des Ipsarion, sodass der Blick von vielen Stellen über eine besonders reizvolle Landschaft zwischen Strand und Bergen schweift. Der südliche Küstenabschnitt wird häufig Chrysi Akti oder Golden Coast genannt. Er gehört zum zusammenhängenden Strand Golden Beach, der sich bis Skala Panagia und Chrysi Ammoudia am nördlichen Ende der Bucht erstreckt. Unterschiedliche Namen bedeuten deshalb nicht automatisch eigenständige Strände. Im Sommer werden bestimmte Bereiche mit Liegen und Sonnenschirmen bewirtschaftet, während andere Abschnitte Platz für den eigenen Sonnenschutz bieten. Der Untergrund ist vielerorts feinsandig und der Einstieg ins Wasser meist recht sanft. Dennoch können Wassertiefe, Wind und Wellengang wechseln; besonders Familien sollten den Badeplatz mit Bedacht wählen. Nach dem Strandbesuch lohnt ein Spaziergang zum kleinen Hafen mit einer Pause in einer Taverne, wo griechische Gerichte und je nach Angebot auch Fisch serviert werden. Etwas abseits der üblichen Strandtipps liegt der ehemalige Bootsbau- und Reparaturbereich Tarsanas. Lokale Reiseführer erwähnen dort zeitweise Kunstausstellungen, deren Termine und Zugänglichkeit jedoch vorab geprüft werden müssen. Historisch ist Skala Potamia mit dem bergwärts gelegenen Dorf Potamia verbunden. Dort befindet sich das Museum des Bildhauers Polygnotos Vagis, das nicht mit einem Museum direkt am Strand verwechselt werden sollte. Auch ein Ausflug nach Panagia lässt sich gut mit einem Aufenthalt an der Küste verbinden. Wer Sand, Strandrestaurants, vielseitige Unterkünfte und kurze Ausflüge in die Bergdörfer sucht, findet in Skala Potamia einen angenehmen Ausgangspunkt.",
+      "history_culture": "Skala Potamia entstand als Küstensiedlung des weiter im Landesinneren gelegenen Dorfes Potamia. Der Fischfang und die Arbeit mit kleinen Booten prägten die maritime Vergangenheit. An diese Zeit erinnert Tarsanas, der frühere Bootsbau- und Reparaturbereich, in dem laut lokalen Quellen auch Kunstausstellungen stattfinden können. Ein regelmäßiger öffentlicher Betrieb ist nicht bestätigt. Das Polygnotos-Vagis-Museum liegt im Bergdorf Potamia und ist eine eigenständige Sehenswürdigkeit.",
+      "local_character": "Im Sommer herrscht am Wasser eine lebendige, familienfreundliche Ferienatmosphäre mit Tavernen, kleinen Läden und Spaziergängen entlang der Küste. Der Hafen gibt dem Ort ein eigenes Gesicht, während die Unterkünfte über weitere Teile der Bucht verteilt sind. Außerhalb der Saison kann das touristische Angebot eingeschränkt sein.",
+      "what_to_do": "Wählen Sie einen geeigneten Sandabschnitt der Golden Beach, spazieren Sie zum Hafen und genießen Sie eine Mahlzeit am Meer. Fotografieren Sie die Bucht mit den grünen Hängen des Ipsarion im Hintergrund. Schauen Sie sich den öffentlich zugänglichen Bereich des ehemaligen Tarsanas an und erkundigen Sie sich gegebenenfalls nach Ausstellungen. Für einen Ausflug bieten sich Potamia mit dem Polygnotos-Vagis-Museum und das Bergdorf Panagia an.",
+      "practical_tips": "Die Ortskoordinate ist nur ein Orientierungspunkt und keine bestätigte Park- oder Strandzufahrt. Skala Potamia erstreckt sich entlang der südlichen Bucht; die genaue Unterkunftsadresse ist wichtig. In der Hochsaison können Parkplätze knapp werden. Informieren Sie sich über Bedingungen und Preise der Strandliegen und prüfen Sie Wind, Wellen und Wassertiefe. Saisonale KTEL-Busse verbinden den Ort mit Limenas, Fahrpläne und Haltestellen müssen für den Reisetag kontrolliert werden. Am kleinen Hafen verkehren keine regulären Festlandfähren.",
+      "highlights": [
+        "Südlicher Bereich der langen Golden Beach",
+        "Kleiner Fischerhafen mit Tavernen am Meer",
+        "Bergpanorama des grünen Ipsarion",
+        "Ehemalige Bootswerft Tarsanas als lokaler Kulturort",
+        "Ausflüge zu den Dörfern Potamia und Panagia"
+      ],
+      "seo_title": "Skala Potamia Thassos – Golden Beach, Hafen und Reisetipps",
+      "seo_description": "Skala Potamia auf Thassos entdecken: Golden Beach, kleiner Hafen, Tavernen, Tarsanas, Anreise, Busverbindungen und praktische Urlaubstipps.",
+      "social_caption": "🏖️ Skala Potamia auf Thassos: goldener Sand, kleine Tavernen am Hafen und grüne Berghänge im Hintergrund. 🌊 Ein schönes Ziel für entspannte Tage! 🇬🇷 #Thassos #SkalaPotamia #GoldenBeach",
+      "photo_alt": "Blick auf Skala Potamia auf Thassos mit kleinem Hafen, dem südlichen Teil der Golden Beach und grünen Ipsarion-Hängen."
+    },
+    "bg": {
+      "name": "Скала Потамия (Хриси Акти)",
+      "tagline": "Златист пясък, рибарско пристанище и зеленият Ипсарион",
+      "summary": "Скала Потамия е крайбрежно селище в източната част на остров Тасос, при южния край на залива Голдън Бийч. Дългият пясъчен плаж, малкото пристанище, таверните и планинският фон го правят удобно място за морска почивка.",
+      "description": "Скала Потамия съчетава атмосферата на гръцко крайбрежно село с оживлението на популярна лятна дестинация. Селището е разположено в южния край на широкия залив Голдън Бийч, на източния бряг на Тасос. Около малкото пристанище има места за настаняване, магазини, кафенета и таверни, а пред тях се простира дълга пясъчна ивица. Зад брега се издигат зелените склонове на планината Ипсарион, които създават впечатляваща гледка между морето и планината. Южната част на плажа е известна още като Хриси Акти или Golden Coast. Тя е част от общата плажна ивица Golden Beach, която продължава на север до Скала Панагия и Хриси Амудия. Различните имена не означават непременно различни географски плажове. През лятото някои участъци предлагат шезлонги и чадъри, докато други са подходящи за посетители със собствено оборудване. Пясъкът е предимно фин, а в много части на залива навлизането в морето е плавно, но вълните, вятърът и дълбочината винаги трябва да се проверяват на място. След плажа разходката покрай малкото пристанище е приятно допълнение към деня, особено ако спрете за кафе или вечеря в местна таверна. По-малко известна страница от историята на селото е Тарсанас, някогашно място за строене и ремонт на лодки, което се споменава и като пространство за художествени изложби. Не бива обаче да се приема, че събития се провеждат всеки ден или че мястото винаги е отворено. Скала Потамия е свързана с планинското село Потамия, където се намира музеят на скулптора Полигнотос Вагис. Близката Панагия също е подходяща за кратка екскурзия из традиционните селища. Това е чудесен избор за семейства, двойки и хора, които искат море, заведения и удобна отправна точка за опознаване на острова.",
+      "history_culture": "Скала Потамия се е развила като крайбрежна част на село Потамия, със стопански живот, свързан с риболова и лодките. Старият Тарсанас напомня за местното лодкостроене и ремонтни дейности; туристически източници посочват и художествени изложби, но няма потвърден постоянен график. Музеят на Полигнотос Вагис е в планинското село Потамия, а не в самата Скала Потамия.",
+      "local_character": "През лятото крайбрежието е оживено с туристи, семейства, таверни, магазини и вечерни разходки. Малкото пристанище запазва местния характер, а зелените склонове на Ипсарион се виждат над залива. Извън сезона някои услуги работят ограничено.",
+      "what_to_do": "Изберете подходяща част от Golden Beach за плуване, разходете се до пристанището и опитайте гръцка кухня край морето. Снимайте залива и планинските склонове, разгледайте разрешените за посещение места около стария Тарсанас и проверете дали има изложби. За разнообразие посетете планинското село Потамия и музея на Полигнотос Вагис или се разходете в Панагия.",
+      "practical_tips": "Координатите на селището са само ориентир, а не потвърден вход към плаж или паркинг. Курортната зона се простира по южната част на залива, затова проверете точния адрес на мястото за настаняване. През юли и август паркирането може да е трудно. Уточнете условията за шезлонги и чадъри, следете вятъра и вълните и наблюдавайте децата. Има автобусни връзки с Лименас, но разписанията, спирките и цените трябва да се проверяват за конкретната дата. Малкото пристанище не е фериботен терминал.",
+      "highlights": [
+        "Южният край на дългия пясъчен Golden Beach",
+        "Малко рибарско пристанище и крайбрежни таверни",
+        "Красив фон от планината Ипсарион",
+        "Старият лодкостроителен район Тарсанас",
+        "Екскурзии до Потамия и Панагия"
+      ],
+      "seo_title": "Скала Потамия, Тасос – Голдън Бийч, пристанище и съвети",
+      "seo_description": "Открийте Скала Потамия на Тасос: Golden Beach, рибарско пристанище, таверни, Тарсанас, транспорт и полезни съвети за почивка.",
+      "social_caption": "🏖️ Скала Потамия, Тасос: златист пясък, малко пристанище, уютни таверни и зелени планини над морето. 🌊 Идеално място за морски дни! 🇬🇷 #Тасос #СкалаПотамия #GoldenBeach",
+      "photo_alt": "Изглед към Скала Потамия на Тасос с малкото пристанище, южния край на Golden Beach и зелените склонове на Ипсарион."
+    },
+    "sr": {
+      "name": "Skala Potamija (Skala Potamia)",
+      "tagline": "Zlatni pesak, ribarska luka i zelene padine Ipsariona",
+      "summary": "Skala Potamija je primorsko naselje na istočnoj obali Tasosa, na južnom kraju velikog zaliva Golden Beach. Duga peščana obala, mala luka, taverne i pogled na planine čine ga praktičnim izborom za letovanje.",
+      "description": "Skala Potamija spaja šarm grčkog primorskog sela sa živom atmosferom poznatog letovališta. Smeštena je na južnom kraju prostranog zaliva Golden Beach na istočnoj obali Tasosa. Oko male ribarske luke nalaze se smeštaji, prodavnice, kafići i taverne, dok se duž mora pruža duga peščana obala. Iza naselja uzdižu se zelene padine planine Ipsarion, pa pejzaž na zanimljiv način povezuje more i planinu. Južni deo plaže poznat je i kao Hrisi Akti ili Golden Coast. To je deo istog neprekinutog peščanog pojasa Golden Beach koji se proteže do Skala Panagije i Hrisi Amudije na severnom kraju zaliva. Različiti nazivi ne znače automatski da su u pitanju zasebne plaže. Tokom leta pojedini delovi imaju ležaljke i suncobrane, dok na drugim mestima posetioci mogu koristiti svoju opremu. Pesak je uglavnom sitan, a ulazak u vodu na mnogim mestima postepen, što odgovara porodicama. Ipak, dubina, vetar i talasi nisu uvek isti i treba ih proveriti pre kupanja. Nakon dana na plaži prijatno je prošetati do luke, popiti kafu ili večerati u taverni uz more. Zanimljiv deo lokalne prošlosti je Tarsanas, nekadašnji prostor za gradnju i popravku čamaca, koji se u turističkim vodičima pominje i kao mesto povremenih umetničkih izložbi. Raspored događaja i mogućnost posete nisu stalno potvrđeni. Naselje je istorijski povezano sa planinskim selom Potamija, gde se nalazi muzej vajara Polignotosa Vagisa. Izlet do Potamije ili susedne Panagije lepo dopunjuje odmor na moru tradicionalnim kućama i drugačijim pogledima na ostrvo. Skala Potamija je odlična baza za goste koji žele prostranu plažu, blizinu restorana i mogućnost lakšeg obilaska istočnog Tasosa.",
+      "history_culture": "Skala Potamija razvila se kao obalsko naselje planinske Potamije, uz ribarstvo i poslove povezane sa manjim plovilima. Stari prostor Tarsanas čuva sećanje na gradnju i popravku čamaca, a lokalni vodiči pominju i umetničke izložbe bez potvrđenog stalnog rasporeda. Muzej Polignotosa Vagisa nalazi se u unutrašnjem selu Potamija i treba ga predstaviti kao posebno mesto za izlet.",
+      "local_character": "Leti je mesto živahno, sa porodicama na plaži, tavernama uz more, prodavnicama i večernjim šetnjama. Mala luka daje mu prepoznatljiv karakter, dok se duž zaliva prostiru različiti smeštaji. Van glavne sezone pojedine turističke usluge rade skraćeno ili ne rade.",
+      "what_to_do": "Provedite dan na pogodnom peščanom delu Golden Beacha, prošetajte do male luke i uživajte u grčkim jelima uz more. Fotografisite zaliv i zelene padine Ipsariona, pogledajte pristupačne javne delove nekadašnjeg Tarsanasa i proverite da li se održava neka izložba. Za kraći izlet posetite Potamiju i muzej Polignotosa Vagisa ili tradicionalno selo Panagiju.",
+      "practical_tips": "Koordinate naselja služe za orijentaciju, a nisu potvrđen parking, ulaz na plažu ili dolazna tačka. Skala Potamija se proteže duž južnog dela zaliva pa je važno proveriti tačnu adresu smeštaja. U špicu leta parkiranje može biti otežano. Raspitajte se o pravilima korišćenja ležaljki i suncobrana, proverite vetar, talase i dubinu i nadgledajte decu. Autobuske veze sa Limenasom postoje u objavljenim redovima vožnje, ali se termini, stanice i cene menjaju. Mala luka nije terminal trajekata za kopno.",
+      "highlights": [
+        "Južni kraj dugačke peščane plaže Golden Beach",
+        "Mala ribarska luka i taverne uz obalu",
+        "Zelene padine planine Ipsarion",
+        "Nekadašnji brodogradilišni prostor Tarsanas",
+        "Izleti u planinska sela Potamija i Panagija"
+      ],
+      "seo_title": "Skala Potamija Tasos – Golden Beach, luka i vodič",
+      "seo_description": "Upoznajte Skala Potamiju na Tasosu: Golden Beach, ribarska luka, taverne, Tarsanas, autobuske veze i korisni saveti za letovanje.",
+      "social_caption": "🏖️ Skala Potamija, Tasos: zlatni pesak, mala luka, taverne pored mora i zelene planine u pozadini. 🌊 Prava atmosfera grčkog ostrva! 🇬🇷 #Tasos #SkalaPotamija #GoldenBeach",
+      "photo_alt": "Pogled na Skala Potamiju na Tasosu sa malom ribarskom lukom, južnim delom plaže Golden Beach i zelenim Ipsarionom u pozadini."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/skala-potamia/images/skala-potamia1.webp",
+    "gallery": [
+      "destinations/thassos/areas/skala-potamia/images/skala-potamia2.webp",
+      "destinations/thassos/areas/skala-potamia/images/skala-potamia3.webp",
+      "destinations/thassos/areas/skala-potamia/images/skala-potamia4.webp",
+      "destinations/thassos/areas/skala-potamia/images/skala-potamia5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/skala-potamia/images/",
+    "suggested_asset_names": [
+      "skala-potamia1.webp",
+      "skala-potamia2.webp",
+      "skala-potamia3.webp",
+      "skala-potamia4.webp",
+      "skala-potamia5.webp"
+    ],
+    "image_policy": "Exactly five user-selected WebP photographs: (1) clear wide view of the genuine Skala Potamia village at southern Golden Beach, (2) small fishing harbour / south seafront, (3) local beach section identified correctly as southern Golden Beach/Chrysi Akti, (4) real village street/taverna or Tarsanas from permitted public viewpoint, (5) bay panorama and Ipsarion background. Do not substitute photos of inland Potamia, Skala Panagia, northern Chrysi Ammoudia or unrelated east-coast beach as if depicting the Skala Potamia settlement. Photos are named in advance; no binary images or publication, commercial, derivative, attribution or onward-transfer rights were inspected.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_osm_village",
+      "kind": "osm_mapped_settlement",
+      "title": "Mapcarta / OpenStreetMap — Chrysi Akti / Skala Potamias",
+      "url": "https://mapcarta.com/13814180",
+      "detail": "OSM node 1477905082, place=village at 40.70729,24.76090. Village reference coordinate, NOT parking, ferry, beach entry or arrival.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_katatopisi",
+      "kind": "geographic_reference",
+      "title": "Katatopisi — Skala Potamias locality",
+      "url": "https://katatopisi.gr/en/place/skala-potamias/",
+      "detail": "Lists Skala Potamias as village and gives 40.7073,24.7609; independent listing matching the OSM node.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_skala_potamia",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Skala Potamia",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-potamia",
+      "detail": "Southern end of Golden Beach, surrounding mountains, seaside settlement, hotels, services and regional bus availability; broad descriptions, seasonal claims require review.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_golden_coast",
+      "kind": "beach_guide",
+      "title": "Go Thassos — Golden Coast Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/golden-coast-beach",
+      "detail": "Golden Coast names southern bay section by Skala Potamia, not a second automatically independent beach feature in this dataset.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_golden_beach",
+      "kind": "beach_guide",
+      "title": "Go Thassos — Golden Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/golden-beach",
+      "detail": "Documents continuous Golden Beach bay with sandy shore, swimming and seasonal organised sections.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_skala_panagia",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Skala Panagia",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-panagia",
+      "detail": "Northern settlement of same bay, tourism services and mountain setting; distinct area from Skala Potamia.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_staythassos_skala",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Skala Potamia guide",
+      "url": "https://staythassos.gr/skala-potamia/",
+      "detail": "Skala Potamia southern end of Golden Beach, Potamia distinct inland village, harbour and accommodation distribution.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_nikana_skala",
+      "kind": "travel_guide",
+      "title": "Nikana — Skala Potamia",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/places/1965/skala-potamia",
+      "detail": "Reports seafront resort features, differing distances of lodgings from village centre; exact counts and dated prices excluded.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_culture",
+      "kind": "regional_cultural_guide",
+      "title": "Go Thassos — Things to Do (Museums and exhibitions)",
+      "url": "https://www.go-thassos.gr/about-thassos/things-to-do-on-thassos",
+      "detail": "Mentions folklore museum in Skala Potamia and Tarsanas former boatyard area as occasional arts exhibition space; current opening not verified.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_discover_potamia",
+      "kind": "national_tourism_guide",
+      "title": "Discover Greece — Mountain village-hopping in Thassos",
+      "url": "https://www.discovergreece.com/experiences/thassos-mountain-villages",
+      "detail": "Locates Polygnotos Vagis Museum and traditional culture in inland Potamia; not mistakenly assigned to Skala Potamia.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_potamia",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Potamia",
+      "url": "https://www.go-thassos.gr/about-thassos/places/potamia",
+      "detail": "Confirms Potamia inland, separate from Skala Potamia, and its sculptor museum/traditions.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_bus_202610",
+      "kind": "dated_local_bus_timetable",
+      "title": "Go Thassos — KTEL Bus schedules, 1–31 October 2026",
+      "url": "https://www.go-thassos.gr/thassos-bus-schedules-prices",
+      "detail": "Lists Limenas–Skala Potamia services for Oct 2026; historic dated evidence of service only, NOT a durable timetable. Verify operator and dates before navigation.",
+      "checked_on": "2026-10-27"
+    }
+  ],
+  "editorial": {
+    "status": "researched_six_languages_completed_5_WebP_paths_configured_pending_photo_and_arrival_verification",
+    "facts_checked_on": "2026-10-27",
+    "translations_written_on": "2026-10-27",
+    "coverage": "full_coastal_village_profile_six_languages_twelve_sources_single_Golden_Beach_record_five_preset_WebP_slots",
+    "requires_manual_review": [
+      "Confirm OSM village node 1477905082 centre at 40.70729,24.76090 in independent map; use only as settlement reference and never as verified beach/parking/arrivals.",
+      "Verify exact public beach entrance, safe walking paths, road access and any parking zones separately; keep arrival_point null until confirmed.",
+      "Keep one Golden Beach beach.json with ID gr-thassos-beach-golden. Golden Coast/Chrysi Akti is southern section; do not manufacture a separate beach or confuse northern Skala Panagia.",
+      "Check local boundaries and area-index entry for Skala Potamia, Skala Panagia/Chrysi Ammoudia and inland Potamia before automatic nearby sorting.",
+      "Verify Tarsanas exhibition venue, current permission to visit, cultural event programme and any reported local folklore display before adding a navigable attraction ID.",
+      "Confirm current KTEL bus stops, operating dates, schedules and fares directly with the operator; October 2026 guide is dated and must not be used as recurring schedule.",
+      "Check seasonal restaurants, convenience shops, pharmacies, ATMs, medical services, accessible facilities and parking separately from geocoded business or services records; null means not confirmed.",
+      "Confirm beach conditions, waves, sandy access, water-sports operators and lifeguard status for actual day and section; do not transfer old Blue Flag information across seasons.",
+      "Add exactly skala-potamia1.webp through skala-potamia5.webp to matching images directory; verify geographic subject, authorship, credits, commercial use and onward-transfer rights.",
+      "Proofread translations with native speakers (RO, EN, EL, DE, BG, Serbian Latin) and review localized SEO/social content before publication."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "Only five local image filenames/paths are preconfigured. No WebP binaries, photographer credits, geographic image identity or publication/transfer rights have been verified or included."
+  }
+}

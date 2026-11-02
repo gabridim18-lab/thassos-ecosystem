@@ -1,0 +1,424 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-skidia",
+  "slug": "skidia",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Σκίδια",
+    "international_name": "Skidia Beach",
+    "aliases": [
+      "Skidia",
+      "Skidia Beach",
+      "Paralia Skidia",
+      "Σκίδια",
+      "Παραλία Σκίδια",
+      "Skidi Beach"
+    ],
+    "entity_scope": "Tiny sandy pocket and immediately bordering rock-edged swimming shoreline mapped as Skidia / Σκίδια on southeastern Thassos, approximately 250 metres east of the separately mapped Kekes beach and west of the Alyki peninsula. This record is restricted to the mapped Skidia cove, rather than the whole Kekes rock-shelf / taverna coast.",
+    "deduplication_warning": "HIGH PRIORITY: OpenStreetMap/Mapcarta maps Σκίδια as its own beach feature (way 725295643), east of Kekes (way 1082551427). However Terrabook, Xanthinea and some Greek listings call the wider rocky coast \"Kekes or Skidia\" and Kekes Beach lodging / Skidia Tavern also uses Skidia as its address. Distinct mapped feature permits a separately researched Skidia pocket-beach record, but exact boundaries must be checked visually or on site before counting it as an independent geographical beach. Do not duplicate the Kekes rock slabs or claim that the tavern is located on the Skidia sand."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southeastern shoreline between Thimonia and Alyki, immediately east of Kekes",
+    "settlements": [
+      "Skidia (local coastal name)",
+      "Alyki (Aliki)",
+      "Thimonia (Thymonia)"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Skidia%20Beach%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_google_maps_search",
+    "coordinate_type": "third_party_osm_beach_geometry_known_google_maps_pin_unverified",
+    "coordinate_review_status": "OpenStreetMap beach way 725295643 shown by Mapcarta at approximately 40.60437, 24.72876; BeachAtlas independently reproduces approximately 40.604384,24.728762 and Pame Paralia rounds to 40.6044,24.7288. These are OSM / third-party mapped feature coordinates, NOT verified Google Maps beach-pin or access point coordinates. The separate Kekes operator advertises 40.603820,24.726942 for its establishment; do not use that for Skidia. Leave stored lat/lng null until the exact Google Maps pin and path are reviewed.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "tiny_sandy_pocket_amid_pale_rock_slabs_and_stones",
+    "seabed_near_shore": "sand_patches_with_rocky_sections_and_submerged_stones",
+    "water_entry": "small_sandy_access_point_but_rocky_edges;_depth_can_increase_quickly",
+    "nearshore_depth": "relatively_quick_deepening_reported;_highly_variable_between_rock_and_sand",
+    "water_clarity": "typically_clear_when_sea_is_calm",
+    "wave_conditions": "swell_and_wind_can_make_rocky_access_hazardous",
+    "exposure": "small_southeast_coast_pocket_cove_bordered_by_rocks",
+    "natural_shade_on_sand": "limited;_pines_in_surrounding_rocky_coastal_backdrop",
+    "beach_length_m": null,
+    "length_note": "All guides emphasize an exceptionally small sandy patch, but no authoritative shoreline length or measured usable area was verified.",
+    "backdrop": "pale seaside rock platforms, low cliffs, pine trees and the adjacent Skidia/Kekes coastal landscape",
+    "shoreline_type": "tiny_sandy_cove_surrounded_by_rocky_swimming_shore"
+  },
+  "visitor_experience": {
+    "organization": "unserviced_tiny_natural_cove_with_nearby_private_businesses",
+    "suitable_for": [
+      "couples_comfortable_with_rocks",
+      "confident_swimmers",
+      "snorkeling_in_calm_weather",
+      "quiet_nature_visits",
+      "photography",
+      "visitors_who_travel_light"
+    ],
+    "notable_for": [
+      "small_sandy_pocket",
+      "pale_rock_edges",
+      "clear_water",
+      "quiet_character",
+      "snorkeling",
+      "distinct_map_feature_near_kekes"
+    ],
+    "activities_possible": [
+      "swimming_when_conditions_suit",
+      "careful_snorkeling",
+      "shoreline_photography",
+      "relaxing_on_rocks_where_safe"
+    ],
+    "estimated_crowd_peak": "usually_quieter_than_major_beaches_but_few_visitors_can_fill_tiny_sand_patch",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Reports describe quickly deepening water, rocky bottom and potentially slippery/uneven ledges. Small children and nonswimmers may find this unsuitable. Never recommend diving or jumping from rocks: submerged obstacles and depth must never be assumed. Wind and waves increase risk along stone edges. No verified on-duty lifeguard."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": false,
+      "seasonal": null
+    },
+    "umbrellas": {
+      "available_in_some_sections": false,
+      "seasonal": null
+    },
+    "toilets": {
+      "available_in_some_sections": false,
+      "note": "No toilets confirmed on the small public sand pocket. Nearby Skidia/Kekes taverna or lodging toilets are private facilities; public access not guaranteed."
+    },
+    "showers": {
+      "available_in_some_sections": false,
+      "note": "Independent travel guides report no public showers directly at the Skidia pocket beach."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": false,
+      "requires_site_check": true
+    },
+    "beach_bars": false,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": null,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": false,
+    "volleyball": false,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No beach-specific certified lifeguard coverage confirmed; do not imply supervised swimming.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Uneven approach and rocks are described; no reliable evidence of a continuous step-free path or accessible beach equipment.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Very small natural beach itself is generally described as unorganized, with no own sunbeds, WC or showers. Skidia Tavern and Kekes accommodation serve the adjacent coastal area, not automatically the Skidia public cove. Proximity does not establish access rights, operating season, prices or publicly usable amenities. Conditions require local recheck."
+  },
+  "access_and_cost": {
+    "road_access": "paved_main_island_road_near_alyki_then_local_approach_and_final_short_uneven_walk;_exact_public_route_unverified",
+    "public_transport": "island_bus_services_serve_the_aliki_area_but_nearest_stop_and_last_walking_route_to_skidia_not_verified",
+    "parking_type": "parking_reported_at_or_near_the_kekes_skidia_business_area;_customer_guest_conditions_and_public_spaces_not_verified",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "No rented sunbeds confirmed at the Skidia sand pocket; avoid applying any pricing or consumption rule from nearby businesses to the beach itself.",
+    "best_arrival_advice": "Travel light and wear footwear with grip for the final walk. Use water shoes on stone patches, and carry drinking water and shade because Skidia has no reliable on-beach services. Check whether parking or any path through the nearby private complex is open to day visitors; do not block private entrances. Avoid rough seas and jumping from rocks, and keep children out of deep or rocky areas.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Travel guides cite roughly 32–33 km from Limenas for the wider Kekes/Skidia area, but no authoritative navigated route specifically ending at the Skidia pocket cove was confirmed."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Skidia Beach (Σκίδια)",
+      "tagline": "Un petic de nisip ascuns între stânci albe și pini",
+      "summary": "Skidia este un golfuleț minuscul de pe coasta sud-estică a insulei Thassos, între Kekes și Aliki. Un spațiu foarte mic de nisip este încadrat de pietre deschise la culoare și apă limpede; locul atrage mai ales vizitatori care preferă liniștea și snorkelingul, nu confortul unei plaje amenajate.",
+      "description": "Skidia Beach este unul dintre acele locuri de pe Thassos care pot fi trecute ușor cu vederea dacă urmărești numai plajele mari de pe șoseaua insulei. În apropiere de Aliki, pe coasta sud-estică, un petic surprinzător de mic de nisip se ascunde între stânci palide, cu pini deasupra țărmului și apă care, în zilele liniștite, lasă să se vadă pietrele de pe fund. Aici nu vii pentru rânduri de umbrele sau pentru o faleză animată: mica zonă nisipoasă poate fi ocupată de numai câțiva vizitatori, iar mulți aleg să stea pe rocile relativ netede din jur, acolo unde condițiile permit. Intrarea în apă nu este uniformă. Lângă nisip pot exista porțiuni mai comode, dar marginile golfului sunt stâncoase, iar adâncimea poate crește destul de repede. Pentru înotători experimentați, snorkelingul atent în apropierea pietrelor este una dintre atracții atunci când marea este calmă. Skidia apare pe hărți ca plajă separată, la est de Kekes; totuși, unele ghiduri grecești folosesc numele Skidia și pentru sectorul stâncos Kekes și pentru taverna din zonă. De aceea, locul trebuie înțeles ca un golf mic, identificabil în această vecinătate, nu ca nume pentru toate platformele stâncoase din jur. Există o tavernă și unități de cazare în apropierea sectorului Kekes, însă facilitățile lor nu sunt servicii garantate pentru cei care stau la Skidia. Accesul final implică o scurtă deplasare pe jos, pe teren neregulat; tocmai dimensiunea redusă și drumul mai puțin comod contribuie la atmosfera sa retrasă.",
+      "practical_tips": "Poartă încălțăminte stabilă pentru ultima porțiune de drum și încălțări de apă pentru pietrele din mare. Nu presupune că există șezlonguri, dușuri, toalete sau umbră suficientă chiar pe nisip; adu apă, protecție solară și numai echipamentul necesar. Parcarea menționată de unele ghiduri este în zona complexului Kekes/Skidia și poate fi destinată clienților; verifică local dreptul de acces și nu bloca intrările. Fundul stâncos și adâncimea care crește repede fac locul nepotrivit pentru copii foarte mici și persoane care nu înoată sigur. Nu sări de pe stânci și renunță la înotul de lângă ele când sunt valuri. Nu confunda Skidia cu lunga porțiune de roci numită Kekes sau cu plaja Aliki.",
+      "highlights": [
+        "Golfuleț foarte mic, cu nisip între stânci",
+        "Apă limpede potrivită pentru snorkeling prudent",
+        "Peisaj cu rocă deschisă la culoare și pini",
+        "Atmosferă retrasă, fără amenajări pe plajă",
+        "Acces final pe jos și delimitare de Kekes de verificat"
+      ],
+      "seo_title": "Skidia Beach Thassos – golf ascuns, acces și snorkeling",
+      "seo_description": "Descoperă Skidia Beach din Thassos, între Kekes și Aliki: un golf mic cu nisip, stânci albe, apă limpede, acces pe jos și sfaturi utile.",
+      "social_caption": "🌊 Skidia Beach, Thassos: un mic secret între stânci deschise la culoare și pini, lângă Kekes și Aliki. 🤿 Ia masca și încălțările de apă, dar alege o zi cu mare calmă. 🇬🇷 #Thassos #SkidiaBeach #GreekIslands",
+      "photo_alt": "Micul golf Skidia din Thassos, cu un petic de nisip între stânci albe, apă verde-albăstruie și pini deasupra coastei."
+    },
+    "en": {
+      "name": "Skidia Beach (Σκίδια)",
+      "tagline": "A tiny sandy hideaway among pale rocks and pines",
+      "summary": "Skidia is a very small pocket beach on the southeastern coast of Thassos, between Kekes and Alyki. A sliver of sand sits among light-coloured rocks and clear water, making it appealing to visitors who appreciate quiet scenery and careful snorkelling rather than a fully serviced beach.",
+      "description": "Skidia Beach is the sort of Thassos shoreline that is easy to miss when searching only for the island’s broad, popular beaches. Close to Alyki on the southeastern coast, an exceptionally small sandy pocket sits between pale rock ledges, with pine trees in the surrounding landscape and water that can look remarkably transparent on calm days. The sand holds only a handful of people, so visitors sometimes spread a towel on the smoother surrounding rocks where it is safe to do so. Skidia is not a beach lined with loungers, kiosks or a promenade. Its attraction is the intimate setting and the chance to explore a quiet corner of coastline without the bustle of a resort strip. Swimming conditions require more care than the small strip of sand might suggest: there are submerged stones, rocky edges and reports that the water deepens fairly quickly. Confident swimmers may enjoy cautious snorkelling along the margins when visibility and sea conditions are good, but rock jumping should not be treated as a safe activity. On maps based on OpenStreetMap, Skidia is a separately identified beach east of Kekes. Some Greek guides, however, use “Skidia” and “Kekes” interchangeably for the wider stretch of rocks, and Skidia is also the name of a nearby taverna. This guide refers specifically to the small mapped cove, not to every rock platform by the Kekes business. A restaurant and accommodation are found in the wider Kekes/Skidia area, but their private services must not be assumed available to everyone on this little beach. Reaching the shore normally means a short walk on uneven ground after arriving in the vicinity. Bring only what you can carry comfortably and enjoy the place without expecting conventional beach facilities.",
+      "practical_tips": "Wear shoes with good grip for the uneven last approach and water shoes for submerged stones. Bring your own water, sun protection and basic supplies; the tiny sand pocket has no confirmed public toilets, showers or loungers. Parking described near the Kekes/Skidia business may be for guests or customers, and use of any access through the property should be checked locally. The steepening water and rocks make Skidia a poor fit for toddlers and inexperienced swimmers. Avoid entering beside the rocks in rough conditions and never jump in without verified depth and a clear exit; the safer advice is not to jump. Keep Skidia distinct from the wider Kekes rock shelves and the tourist beach at Alyki.",
+      "highlights": [
+        "Tiny sand pocket surrounded by pale rock ledges",
+        "Clear sea and cautious snorkelling on calm days",
+        "Pine-framed coastal scenery",
+        "Unserviced and usually peaceful character",
+        "Uneven final approach; separate mapped cove beside Kekes"
+      ],
+      "seo_title": "Skidia Beach Thassos – hidden cove, access & snorkelling",
+      "seo_description": "Explore Skidia Beach on Thassos near Kekes and Alyki: a tiny sandy cove, pale rocks, clear water, snorkelling conditions and practical access tips.",
+      "social_caption": "🌊 Skidia Beach, Thassos: a pocket-sized sandy hideaway among pale rocks and pines, near Kekes and Alyki. 🤿 Pack water shoes and explore only when the sea is calm. 🇬🇷 #Thassos #SkidiaBeach #GreekIslands",
+      "photo_alt": "Tiny Skidia Beach cove on Thassos, with a narrow sandy pocket, pale rock ledges, clear green-blue water and pine trees above the shore."
+    },
+    "el": {
+      "name": "Παραλία Σκίδια",
+      "tagline": "Μια μικροσκοπική αμμουδιά ανάμεσα σε λευκά βράχια και πεύκα",
+      "summary": "Τα Σκίδια είναι ένας πολύ μικρός όρμος στη νοτιοανατολική Θάσο, ανάμεσα στον Κεκέ και την Αλυκή. Μια στενή αμμουδιά πλαισιώνεται από ανοιχτόχρωμα βράχια και διάφανα νερά, προσφέροντας ένα ήσυχο σημείο για κολύμπι και προσεκτική εξερεύνηση του βυθού αντί για οργανωμένη παραλία.",
+      "description": "Η παραλία Σκίδια είναι ένα από τα διακριτικά μικρά σημεία της νοτιοανατολικής ακτής της Θάσου, κοντά στην Αλυκή. Ανάμεσα σε ανοιχτόχρωμες βραχώδεις επιφάνειες σχηματίζεται μια τόσο μικρή λωρίδα άμμου, ώστε χωρά λίγους μόνο λουόμενους. Τα πεύκα στο γύρω τοπίο και το καθαρό, συχνά γαλαζοπράσινο νερό δημιουργούν μια ιδιαίτερα όμορφη εικόνα, χωρίς τη φασαρία μιας μεγάλης οργανωμένης ακτής. Αρκετοί επισκέπτες προτιμούν να καθίσουν σε ομαλότερες πέτρινες επιφάνειες, εφόσον αυτές είναι στεγνές και ασφαλείς. Η είσοδος στη θάλασσα, πάντως, χρειάζεται προσοχή: υπάρχουν πέτρες και βράχια κοντά στην ακτή, ενώ το βάθος μπορεί να αυξηθεί σχετικά γρήγορα. Όταν επικρατεί άπνοια, οι βραχώδεις άκρες προσφέρονται για ήρεμη παρατήρηση του βυθού με μάσκα από έμπειρους κολυμβητές. Οι βουτιές από τα βράχια δεν αποτελούν ασφαλή σύσταση, καθώς δεν είναι γνωστό τι βρίσκεται κάτω από την επιφάνεια. Στους χάρτες που βασίζονται στο OpenStreetMap, τα Σκίδια σημειώνονται ως ξεχωριστή μικρή παραλία ανατολικά από τον Κεκέ. Ωστόσο, ορισμένοι ελληνικοί ταξιδιωτικοί οδηγοί χρησιμοποιούν τις ονομασίες «Κεκές» και «Σκίδια» για την ίδια ευρύτερη βραχώδη ακτή, ενώ «Σκίδια» ονομάζεται και η γειτονική ταβέρνα. Εδώ περιγράφεται αποκλειστικά ο μικρός χαρτογραφημένος όρμος, με την ακριβή οριοθέτηση να χρειάζεται επιτόπια επιβεβαίωση. Η ταβέρνα και τα καταλύματα στην περιοχή του Κεκέ είναι χρήσιμα σημεία αναφοράς, όχι εγγύηση για ελεύθερη χρήση των εγκαταστάσεών τους. Η τελευταία πρόσβαση γίνεται με περπάτημα σε ανώμαλο έδαφος, γι’ αυτό το μέρος ταιριάζει περισσότερο σε όσους ταξιδεύουν με λίγα πράγματα και αναζητούν ησυχία.",
+      "practical_tips": "Φορέστε σταθερά παπούτσια για το τελευταίο, ανώμαλο τμήμα της διαδρομής και παπούτσια θαλάσσης για τις πέτρες μέσα στο νερό. Πάρτε πόσιμο νερό, αντηλιακή προστασία και τον απαραίτητο εξοπλισμό, αφού δεν έχουν επιβεβαιωθεί δημόσιες τουαλέτες, ντους ή ξαπλώστρες πάνω στη μικρή αμμουδιά. Ο χώρος στάθμευσης κοντά στις επιχειρήσεις Κεκές/Σκίδια ενδέχεται να εξυπηρετεί αποκλειστικά πελάτες ή ενοίκους· ελέγξτε τους όρους τοπικά. Τα βράχια και το σχετικά απότομο βάθεμα δεν είναι κατάλληλα για μικρά παιδιά ή άπειρους κολυμβητές. Μην πηδάτε από βράχια και αποφύγετε την είσοδο όταν υπάρχει έντονος κυματισμός. Μην ταυτίζετε αυτόματα τον μικρό όρμο με ολόκληρη τη βραχώδη ακτή Κεκέ.",
+      "highlights": [
+        "Πολύ μικρή αμμουδιά ανάμεσα σε ανοιχτόχρωμα βράχια",
+        "Διαυγή νερά για προσεκτική εξερεύνηση με μάσκα",
+        "Πεύκα στο παράκτιο τοπίο",
+        "Ήσυχο φυσικό περιβάλλον χωρίς οργάνωση",
+        "Πεζή προσέγγιση και γειτνίαση με τον Κεκέ"
+      ],
+      "seo_title": "Σκίδια Θάσος – μικρός όρμος, πρόσβαση και μάσκα",
+      "seo_description": "Γνωρίστε την παραλία Σκίδια στη Θάσο, κοντά στον Κεκέ και την Αλυκή: μικρή αμμουδιά, λευκά βράχια, διάφανα νερά και συμβουλές πρόσβασης.",
+      "social_caption": "🌊 Σκίδια, Θάσος: μια μικρή αμμουδιά ανάμεσα σε λευκά βράχια και πεύκα, κοντά στον Κεκέ και την Αλυκή. 🤿 Με μάσκα και προσοχή όταν η θάλασσα είναι ήρεμη! 🇬🇷 #Θάσος #Σκίδια #Ελλάδα",
+      "photo_alt": "Ο μικρός όρμος Σκίδια στη Θάσο, με στενή αμμουδιά, λευκούς βράχους, διάφανα γαλαζοπράσινα νερά και πεύκα."
+    },
+    "de": {
+      "name": "Skidia Beach (Σκίδια)",
+      "tagline": "Ein winziger Sandstrand zwischen hellen Felsen und Pinien",
+      "summary": "Skidia ist eine sehr kleine Badebucht an der südöstlichen Küste von Thassos zwischen Kekes und Alyki. Ein schmales Stück Sand liegt zwischen hellen Felsflächen und klarem Wasser. Der Ort eignet sich vor allem für Ruhesuchende und erfahrene Schnorchler, weniger für einen Strandtag mit umfangreicher Infrastruktur.",
+      "description": "Der Skidia Beach gehört zu den winzigen Küstenwinkeln von Thassos, die abseits der bekannten großen Strände liegen. Nicht weit von Alyki an der südöstlichen Inselküste findet man eine kleine Sandfläche zwischen hellen, teils flachen Felsplatten. Pinien prägen die Umgebung, und an ruhigen Tagen schimmert das Meer türkis und lässt die Steine unter der Oberfläche erkennen. Auf dem Sand finden nur wenige Menschen Platz. Wer sich hier aufhält, legt seine Sachen manchmal auf die flacheren Felsen, sofern diese trocken und gefahrlos erreichbar sind. Ein klassischer Strand mit Liegenreihen, Strandbar und befestigter Promenade ist Skidia nicht. Gerade das macht seinen Reiz aus: Man kommt wegen der Landschaft, der Ruhe und des besonderen Zusammenspiels von Sand und Fels. Beim Baden ist dennoch Vorsicht nötig, denn der Meeresboden ist nicht durchgehend sandig und das Wasser kann recht rasch tiefer werden. Bei ruhiger See und guter Sicht können sichere Schwimmer die Felsränder vorsichtig mit der Schnorchelmaske erkunden. Von Sprüngen ins Wasser sollte man absehen; Tiefe und versteckte Hindernisse lassen sich vom Ufer nicht zuverlässig beurteilen. Auf OpenStreetMap-basierten Karten ist Skidia als eigener kleiner Strand östlich von Kekes eingezeichnet. Manche griechische Reiseführer verwenden „Kekes“ und „Skidia“ jedoch für denselben weiteren Felsabschnitt. Außerdem heißt die benachbarte Taverne Skidia. Dieser Eintrag bezieht sich nur auf die gesondert kartierte kleine Bucht und nicht auf alle Felsflächen beim Kekes-Komplex. Dort gibt es eine Taverne und Unterkünfte, deren Einrichtungen aber nicht automatisch öffentlich zugänglich sind. Für den letzten Weg zum Wasser muss man über unebenes Gelände laufen. Am besten kommt man mit leichtem Gepäck und ohne die Erwartung, vor Ort alle üblichen Serviceangebote zu finden.",
+      "practical_tips": "Für den letzten Weg sind feste Schuhe mit gutem Profil sinnvoll; zum Baden helfen Badeschuhe wegen der Steine. Trinken, Sonnenschutz und das Nötigste selbst mitnehmen, da auf dem kleinen Sandstreifen keine öffentlichen Toiletten, Duschen oder Liegen verlässlich bestätigt sind. Parkplätze beim Kekes-/Skidia-Betrieb können Gästen oder Kunden vorbehalten sein; Zufahrt und Zugang vor Ort klären und private Eingänge freihalten. Wegen der Felsen und des schnell zunehmenden Tiefgangs ist die Bucht für Kleinkinder und ungeübte Schwimmer ungeeignet. Bei Wellengang nicht an den Felsrändern ins Wasser gehen und niemals von den Felsen springen. Skidia nicht mit der gesamten benachbarten Felsküste von Kekes verwechseln.",
+      "highlights": [
+        "Winzige Sandbucht zwischen hellen Felsplatten",
+        "Klares Meer zum vorsichtigen Schnorcheln",
+        "Pinien und natürliche Felskulisse",
+        "Meist ruhiger Platz ohne eigene Strandangebote",
+        "Unebener Fußweg und Nähe zum Strand Kekes"
+      ],
+      "seo_title": "Skidia Beach Thassos – kleine Bucht, Zugang & Schnorcheln",
+      "seo_description": "Skidia Beach auf Thassos entdecken: kleine Sandbucht zwischen Kekes und Alyki, helle Felsen, klares Wasser, unebener Zugang und Tipps.",
+      "social_caption": "🌊 Skidia Beach auf Thassos: ein winziger Sandfleck zwischen hellen Felsen und Pinien, nahe Kekes und Alyki. 🤿 Badeschuhe mitnehmen und nur bei ruhiger See erkunden! 🇬🇷 #Thassos #SkidiaBeach #Griechenland",
+      "photo_alt": "Kleine Bucht Skidia auf Thassos mit schmalem Sandstreifen, hellen Felsplatten, klarem türkisgrünem Meer und Pinien."
+    },
+    "bg": {
+      "name": "Плаж Скидия (Σκίδια)",
+      "tagline": "Мъничко пясъчно заливче сред светли скали и борове",
+      "summary": "Скидия е много малък залив на югоизточния бряг на Тасос, между Кекес и Алики. Тясна пясъчна ивица е обградена от светли скали и прозрачна вода. Мястото привлича хора, които търсят тишина и внимателно гмуркане с маска, а не удобствата на организиран плаж.",
+      "description": "Плаж Скидия е едно от онези малки крайбрежни кътчета на остров Тасос, които лесно остават незабелязани сред по-известните плажове. Близо до Алики, на югоизточния бряг, между светли скални площадки се крие миниатюрна пясъчна ивица. Боровете в околния пейзаж и бистрата, често тюркоазена вода създават красиво усещане за уединение. На самия пясък има място само за няколко души и някои посетители разполагат хавлиите си върху по-гладките сухи скали, когато това е безопасно. Тук няма редици от шезлонги или оживена крайбрежна алея. Най-голямото очарование идва от естествения вид на брега, тишината и възможността да видите подводните камъни през чистата вода. Плуването обаче изисква внимание. Дъното не е навсякъде пясъчно, край скалите има неравности, а морето може да става дълбоко сравнително бързо. В спокойни дни опитните плувци могат да наблюдават с маска крайбрежните скали, без да подценяват вълните или подводните препятствия. Скачането от скали не е препоръчително. В картите, основани на OpenStreetMap, Скидия е обозначена като отделен малък плаж източно от Кекес. Част от гръцките пътеводители обаче използват имената „Кекес“ и „Скидия“ за един и същ по-широк скалист участък; Скидия е и името на близката таверна. Тази информация се отнася конкретно до малкото заливче, отбелязано на картата, а точната граница с Кекес трябва да се провери на място. В съседната зона има заведение и места за настаняване, но техните удобства не са непременно свободно достъпни за всички. Последният подход до водата е пеша по неравен терен, затова е добре да носите малко багаж и всичко необходимо за кратък спокоен престой.",
+      "practical_tips": "Носете удобни обувки с добро сцепление за неравния път и обувки за вода за каменистите места. Вземете питейна вода, слънцезащита и най-важните принадлежности, защото на миниатюрната плажна ивица няма потвърдени обществени тоалетни, душове или шезлонги. Паркирането край комплекса Кекес/Скидия може да е предназначено за гости или клиенти; проверете условията и не препречвайте частни входове. Скалите и бързо увеличаващата се дълбочина правят мястото неудобно за малки деца и неопитни плувци. Избягвайте водата край скалите при вълни и не скачайте от тях. Не смесвайте малкия залив Скидия с цялата съседна скалиста зона Кекес.",
+      "highlights": [
+        "Много малък пясъчен залив сред светли скали",
+        "Прозрачна вода за внимателно гмуркане с маска",
+        "Борове и естествен скалист пейзаж",
+        "Спокойна атмосфера без организирани удобства",
+        "Пешеходен достъп и близост до Кекес"
+      ],
+      "seo_title": "Плаж Скидия, Тасос – достъп, залив и гмуркане",
+      "seo_description": "Открийте Скидия на остров Тасос до Кекес и Алики: малко пясъчно заливче, светли скали, чисто море, достъп пеша и съвети.",
+      "social_caption": "🌊 Скидия, Тасос: съвсем малък пясъчен залив сред светли скали и борове, близо до Кекес и Алики. 🤿 С обувки за вода и внимание при спокойно море! 🇬🇷 #Тасос #Скидия #Гърция",
+      "photo_alt": "Малкият залив Скидия на Тасос със светли скали, тясна пясъчна ивица, прозрачна тюркоазена вода и борове."
+    },
+    "sr": {
+      "name": "Plaža Skidija (Skidia)",
+      "tagline": "Sićušna peščana uvala među svetlim stenama i borovima",
+      "summary": "Skidija je veoma mala uvala na jugoistočnoj obali Tasosa, između Kekesa i Alikija. Uzanu peščanu površinu okružuju svetle stene i bistro more. Mesto je privlačno posetiocima koji više vole mir i pažljivo ronjenje s maskom nego sadržaje uređene plaže.",
+      "description": "Plaža Skidija je jedno od malih skrovitih mesta na Tasosu koje je lako prevideti kada se traže samo poznate duge plaže. Nedaleko od Alikija, na jugoistočnoj obali ostrva, između svetlih kamenih ploča nalazi se sićušan komad peska. Borovi iznad obale i prozirno more, koje za mirnog dana poprima tirkizne nijanse, čine ovaj kutak posebno slikovitim. Na samom pesku ima mesta za svega nekoliko ljudi. Posetioci ponekad prostiru peškire na ravnijim stenama, ali samo tamo gde je podloga suva i bezbedna. Skidija nije uređena plaža sa redovima ležaljki, barovima ili dugim šetalištem. U nju se dolazi zbog tišine, prirodnog ambijenta i zanimljivog spoja stena i mora. Ulazak u vodu ipak zahteva oprez: dno je mestimično kamenito, oko ivica su stene, a dubina može relativno brzo da raste. Iskusni plivači za mirnog mora mogu pažljivo da razgledaju podvodni svet s maskom uz stene, ali skakanje u more nije bezbedan izbor jer se ne zna pouzdano šta je ispod površine. Na kartama zasnovanim na OpenStreetMap-u Skidija je označena kao zasebna mala plaža istočno od Kekesa. Pojedini grčki turistički vodiči, međutim, nazivima „Kekes“ i „Skidija“ označavaju šire isto stenovito područje, a Skidija je i naziv obližnje taverne. Zato ovaj opis obuhvata samo malu uvalu označenu na karti, a ne sve kamene platforme kod kompleksa Kekes. U blizini se nalaze taverna i smeštajni objekti, ali nije potvrđeno da su njihove usluge dostupne svim kupačima. Poslednji deo prilaza prolazi preko neravnog terena pešice, pa je najbolje doći sa malo stvari i bez očekivanja uobičajenih plažnih pogodnosti.",
+      "practical_tips": "Za poslednji deo prilaza obujte stabilne patike sa dobrim đonom, a za kamenje u vodi obuću za plažu. Ponesite vodu za piće, zaštitu od sunca i osnovne potrepštine jer na malom peščanom delu nisu potvrđeni javni toaleti, tuševi ni ležaljke. Parking kod objekata Kekes/Skidija može biti namenjen gostima ili mušterijama; proverite pravila na licu mesta i ne blokirajte privatne ulaze. Zbog kamenja i mora koje brzo postaje dublje, uvala nije dobar izbor za malu decu i neiskusne plivače. Ne ulazite uz stene kada ima talasa i nemojte skakati sa njih. Ne mešajte Skidiju sa celom susednom stenovitom obalom Kekes.",
+      "highlights": [
+        "Sićušna peščana uvala između svetlih stena",
+        "Bistro more za oprezno ronjenje s maskom",
+        "Borovi i prirodan stenoviti pejzaž",
+        "Mirna, neuređena obala bez sopstvenih sadržaja",
+        "Neravan pešački prilaz i blizina Kekesa"
+      ],
+      "seo_title": "Plaža Skidija Tasos – pristup, uvala i ronjenje",
+      "seo_description": "Upoznajte Skidiju na Tasosu, blizu Kekesa i Alikija: sićušna peščana uvala, svetle stene, bistro more i praktični saveti.",
+      "social_caption": "🌊 Skidija na Tasosu: sićušan peščani kutak između svetlih stena i borova, blizu Kekesa i Alikija. 🤿 Ponesite obuću za vodu i uživajte kada je more mirno! 🇬🇷 #Tasos #Skidija #Grčka",
+      "photo_alt": "Mala uvala Skidija na Tasosu sa uskom peščanom obalom, svetlim kamenim pločama, prozirnim tirkiznim morem i borovima."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/skidia/images/skidia1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/skidia/images/skidia2.webp",
+      "destinations/thassos/beaches/skidia/images/skidia3.webp",
+      "destinations/thassos/beaches/skidia/images/skidia4.webp",
+      "destinations/thassos/beaches/skidia/images/skidia5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/skidia/images/",
+    "suggested_asset_names": [
+      "skidia1.webp",
+      "skidia2.webp",
+      "skidia3.webp",
+      "skidia4.webp",
+      "skidia5.webp"
+    ],
+    "image_policy": "Five local WebP paths assigned from filenames shown in the user-provided screenshot. Publish only user-owned or appropriately licensed photographs with documented rights and attribution. Verify that each image actually depicts the separately mapped tiny Skidia sandy pocket, not the broader adjacent Kekes rock shelves, Skidia Tavern area or Alyki. Screenshot filenames do not independently establish geographic accuracy, original image availability or reuse rights.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_mapcarta_skidia",
+      "kind": "openstreetmap_derived_mapping",
+      "title": "Mapcarta — Σκίδια beach (OSM way 725295643)",
+      "url": "https://mapcarta.com/W725295643",
+      "detail": "Separately mapped beach feature at approximately 40.60437,24.72876, 250 m east of Kekes and west of Alyki. OSM-based coordinates, not Google Maps confirmation.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_mapcarta_kekes",
+      "kind": "openstreetmap_derived_mapping",
+      "title": "Mapcarta — Kekes beach (OSM way 1082551427)",
+      "url": "https://mapcarta.com/W1082551427",
+      "detail": "Independently named neighbouring mapped rock-shore feature west of Skidia. Confirms need for explicit geographic deduplication.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_staythassos_quiet",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Best Quiet Beaches in Thassos (Skidia section)",
+      "url": "https://staythassos.gr/best-quiet-beaches-in-thassos/",
+      "detail": "Describes Skidia as tiny sandy pocket in rocky surroundings with short off-track walk, no beach-service infrastructure, calm water appeal and advice to pack essentials; includes a photo and video labelled Skidia. Recent 2026 article.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_whichgreekisland",
+      "kind": "travel_guide",
+      "title": "Which Greek Island — Skidia Beach Thassos",
+      "url": "https://whichgreekisland.co.uk/islands/thassos/beaches/skidia/",
+      "detail": "Separate Skidia guide: tiny sandy area, rocks, relatively fast-deepening water, no on-beach sunbeds/WC/showers; parking claimed by restaurant, with visitor usage not independently verified. Older page.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachatlas",
+      "kind": "beach_directory",
+      "title": "BeachAtlas — Skidia Beach",
+      "url": "https://www.beachatlas.com/skidia",
+      "detail": "Separate Skidia beach page with rocks, tranquillity, snorkelling and coordinates 40.604384/24.728762; walking access description is approximate, not a verified public entrance.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_pameparalia",
+      "kind": "coastal_beach_directory",
+      "title": "Pame Paralia — Skidia beach",
+      "url": "https://pameparalia.com/beach/skidia-mainland",
+      "detail": "Locates Skidia at 40.6044/24.7288, distinguishes Kekes 250 m west, categorizes natural and harder-to-reach with relatively deep water and rocky hazards. Crowd/wave forecasts not copied.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_driverstories",
+      "kind": "greek_travel_guide",
+      "title": "Driver Stories — Θάσος: 25 παραλίες (Σκίδια)",
+      "url": "https://www.driverstories.gr/%CE%B8%CE%AC%CF%83%CE%BF%CF%82-25-%CF%88%CE%B1%CE%B3%CE%BC%CE%AD%CE%BD%CE%B5%CF%82-%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B5%CF%82-%CE%B1%CE%BE%CE%B9%CE%BF%CE%B8%CE%AD%CE%B1%CF%84%CE%B1-%CF%84/",
+      "detail": "Greek guide lists Skidia separately from Thimonia: small rocky cove between Alyki and Thimonia, clear water, pale rocks, pines, difficult access, nearby Kekes Skidia Tavern. Older reference.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_terrabook_conflict",
+      "kind": "naming_conflict",
+      "title": "Terrabook — Κεκές (Σκίδια)",
+      "url": "https://greece.terrabook.com/el/thassos/page/kekes-skidia/",
+      "detail": "Explicitly treats Kekes and Skidia as alternative names for a broader rocky cove. Important naming conflict that prevents assuming fully independent geographical boundaries.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_kekes",
+      "kind": "adjacent_beach_guide",
+      "title": "Nikana — Kekes Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1932/kekes-beach",
+      "detail": "Describes Kekes rock platforms and tiny sandy pockets near Skidia Tavern. Material applies to adjacent complex and may overlap colloquial Skidia naming; do not transfer its exact facilities to Skidia.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_kekes_owner",
+      "kind": "nearby_venue_official",
+      "title": "Kekes Beach — operator website",
+      "url": "https://kekesbeach.gr/",
+      "detail": "The operator lists its accommodation and Skidia Tavern with location 40.603820,24.726942. This is NOT the independently mapped Skidia beach coordinate or proof of public use of property parking.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_katatopisi",
+      "kind": "geo_context",
+      "title": "Katatopisi — Skidia location and bathing water context",
+      "url": "https://katatopisi.gr/en/place/skidia/",
+      "detail": "Maps Skidia settlement and separates beach features from officially classified EEA bathing-water sites; nearby Alyki 2024 classification is not transferable to Skidia.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_official",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — 2026 award map index",
+      "url": "https://www.blueflag.gr/en/node/4058",
+      "detail": "Official 2026 awarded-beach map index for Greece; no site-specific Skidia 2026 certificate confirmed. All Blue Flag certification record fields remain null.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_list",
+      "kind": "regional_awards_reporting",
+      "title": "Kavala News — 2026 Blue Flag list for Thassos",
+      "url": "https://www.kavalanews.gr/node/59594",
+      "detail": "Lists Thassos five 2026 award sections: Limanaki, Makryammos, Pefkari 2, Prinos Dasylio 2, Chrysi Ammoudia. Skidia not listed. Does not prove a negative beyond this year’s listed awards.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_photo_wnieznane",
+      "kind": "photo_reference",
+      "title": "Wnieznane — Skidia beach photo",
+      "url": "https://www.wnieznane.pl/thassos,70,4,zdjecia,foto-8579",
+      "detail": "Visual-only candidate with apparent Skidia caption; attribution/license not confirmed, and uncorroborated description of sea-only access not used.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_google_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Skidia Beach search (not verified pin)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Skidia%20Beach%2C%20Thassos%2C%20Greece",
+      "detail": "Name-based search only; neither precise beach geometry nor legal parking / walking entrance established.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_geographic_deduplication_and_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages_with_kekes_skidia_overlap_flag",
+    "requires_manual_review": [
+      "PRIORITY: Compare OSM way 725295643 (Skidia) and way 1082551427 (Kekes) using high-resolution satellite mapping and/or a local site visit. Some Greek sources explicitly treat Kekes and Skidia as the same broad cove; confirm whether tiny Skidia pocket deserves its own unique beach POI or should become a Kekes sub-location.",
+      "Open Google Maps and confirm exact beach pin, water access and safe legal pedestrian route; OSM-derived feature approx 40.60437,24.72876 is not verified Google Maps data.",
+      "Check actual legal access through or beside Kekes bungalows and Skidia Tavern; confirm public parking spaces and whether business parking is restricted to customers.",
+      "Recheck if on-beach amenities are still absent in current season; do not mistake tavern/private accommodation facilities for public beach toilets, showers or loungers.",
+      "Verify swimming entry, submerged rocks, speed of depth change and whether any sea steps belong to the neighbouring Kekes rock shelves; never recommend jumping from rocks.",
+      "Confirm whether an authorized lifeguard or any accessible beach path exists, rather than inferring safety from quiet conditions.",
+      "Verify that skidia1.webp–skidia5.webp accurately depict the small mapped Skidia cove, not the wider Kekes/Skidia coastline; confirm each actual WebP asset is present in the repository and document provenance, commercial reuse/transfer rights and required attribution.",
+      "Check any bathing-water classification specifically against the Skidia monitoring point; do not borrow 2024 Alyki EEA classification or any 2026 Blue Flag award from a different beach.",
+      "Native-speaker proofreading of RO, EN, EL, DE, BG and Serbian Latin before public launch."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original six-language editorial text is included. Five locally referenced WebP assets have been assigned by filename, but no independently verified commercial publication or transfer rights for them have been established. The geographic independence of Skidia from Kekes also requires final review.",
+    "photo_source_disclaimer": "Five local WebP paths were assigned using the user-provided screenshot of filenames; this JSON does not embed the image binaries. The photographs’ exact geographic identity, presence in the repository and licensing/provenance have not been independently verified; no external candidate photos imported."
+  }
+}

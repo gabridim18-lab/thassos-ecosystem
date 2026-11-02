@@ -1,0 +1,376 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-limenaria",
+  "slug": "limenaria",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Λιμενάρια",
+    "international_name": "Limenaria Beach",
+    "aliases": [
+      "Limenaria Beach",
+      "Paralia Limenaria",
+      "Παραλία Λιμεναρίων",
+      "Limenaria Long Beach",
+      "Limenaria Town Beach (nearby central sector)"
+    ],
+    "entity_scope": "The predominantly long beach along the southwest coast west of Limenaria town towards Tripiti. The small port-side town beach may be called Limenaria City Beach; both need sector-level mapping before splitting. Tripiti and Metalia are different beaches.",
+    "deduplication_warning": "Do not conflate the long westward Limenaria Beach with the small port-front city beach, Stelakis named section, Tripiti Beach westward or Metalia Beach east of the Palataki headland. Map boundaries before counting named sectors separately."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southwest / south",
+    "settlements": [
+      "Limenaria"
+    ],
+    "lat": 40.62453,
+    "lng": 24.55898,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&destination=40.62453%2C24.55898",
+    "coordinate_source_reference": "s_water_site",
+    "coordinate_type": "representative_bathing_water_site_in_long_western_beach_not_town_center_or_confirmed_access",
+    "coordinate_review_status": "Coordinates supplied by independently mapped designated bathing-water site with a Google Maps directions link; Google Maps place pin and preferred access point NOT directly verified. Confirm before publication.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "predominantly_sand_with_pebble_or_gravel_sections",
+    "seabed_near_shore": "variable_sand_pebbles_rocky_slabs_in_parts",
+    "water_entry": "varies_by_section_from_gradual_to_rocky",
+    "nearshore_depth": "variable; some gradual sandy sections; do not assume child-safe everywhere",
+    "water_clarity": "often_clear_conditions_dependent",
+    "wave_conditions": "wind_and_weather_dependent",
+    "exposure": "south_to_southwest_facing_coast",
+    "natural_shade_on_sand": "generally_limited",
+    "beach_length_m": null,
+    "length_note": "Local guides describe a beach stretching approximately 2 to 2.5 km, but measurements differ with endpoints; length deliberately left unset.",
+    "backdrop": "Limenaria town, coastal hotels and the southern Thassos hills",
+    "shoreline_type": "long_mixed_sandy_coast_with_named_sections"
+  },
+  "visitor_experience": {
+    "organization": "mixed_organized_and_free_areas",
+    "suitable_for": [
+      "couples",
+      "groups",
+      "swimming_in_sandy_sectors",
+      "long_beach_walks",
+      "relaxed_day",
+      "families_in_selected_shallow_sections"
+    ],
+    "notable_for": [
+      "long_coastline",
+      "town_amenities_nearby",
+      "mix_of_quiet_and_serviced_sections",
+      "walking_space",
+      "southern_thassos_base"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunbathing",
+      "walking",
+      "seasonal_water_sports_in_some_sections"
+    ],
+    "estimated_crowd_peak": "varies_by_section; serviced places busier, long open sections can be quieter",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Bottom and sea entry change along this long beach. Some places have rocks or sea urchins; inspect before entering, use water shoes where needed, supervise children and heed sea conditions."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "May be provided by beach operators, accommodation or nearby businesses; not verified along all sections."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "Some guide entries report showers in resort-serviced sections, but visitor accounts dispute continuous availability."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": true,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No verified year-round or full-length lifeguard coverage. Ask locally about the exact section and season.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Step-free approaches or accessible beach equipment are not confirmed across the full beach.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Facilities vary substantially between central waterfront, hotel fronts and longer western stretches; some amenities belong to private operators."
+  },
+  "access_and_cost": {
+    "road_access": "paved_road_to_limenaria_and_local_access_roads_to_beach_sections",
+    "public_transport": "bus_to_limenaria_town; frequency_and_beach_walk_depend_on_season_and_stop",
+    "parking_type": "local_street_and_small_parking_places_near_selected_sections",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Pricing and food/drink minimums depend on operator and season; verify on arrival.",
+    "best_arrival_advice": "Choose the exact stretch before setting out. Arrive earlier in peak season if you want loungers or parking near a particular hotel.",
+    "distance_from_limenas_km": null,
+    "distance_note": "No single distance: the beach is long and both routes and parking points depend on the chosen segment."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": {
+      "classification": "Excellent",
+      "assessed_season": 2024,
+      "site_name": "Limenaria / Λιμενάρια",
+      "monitoring_code": "GRBW129011014101",
+      "applies_to": "designated_monitoring_site_not_every_metre_or_real_time",
+      "source_ref": "s_water_site",
+      "note": "Historical 2024 bathing-water category based on official EEA series; not a 2026 on-the-day condition."
+    }
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Limenaria Beach",
+      "tagline": "O plajă întinsă, cu zone liniștite și taverne aproape",
+      "summary": "Limenaria Beach urmărește țărmul sud-vestic al insulei Thassos, din apropierea localității spre Tripiti. Are porțiuni cu nisip fin, altele cu pietriș și pietre în apă, plus sectoare amenajate și spații libere pentru relaxare.",
+      "description": "Limenaria Beach este una dintre cele mai întinse zone de plajă din sud-vestul insulei Thassos. De la marginea localității Limenaria, țărmul continuă spre vest, în direcția Tripiti, alternând porțiuni de nisip cu zone unde apar pietricele, pietre sau plăci stâncoase sub apă. Tocmai această varietate face importantă alegerea sectorului potrivit. În fața unor hoteluri și beach baruri vei găsi, în sezon, șezlonguri și umbrele, în timp ce alte porțiuni oferă mai mult spațiu pentru prosopul propriu și plimbări lungi pe malul mării. Apropierea de Limenaria este un avantaj: restaurantele, cafenelele și magazinele se află la îndemână, mai ales spre zona localității. Pentru familiile cu copii sunt preferabile sectoarele nisipoase, cu intrare treptată în mare; nu toate porțiunile au însă același fund marin. Micul sector de plajă de lângă port, Tripiti din vest și Metalia din est nu trebuie confundate cu întregul țărm Limenaria. Alege locul în funcție de intrarea în apă, umbră și facilitățile de care ai nevoie, nu doar după numele de pe hartă.",
+      "practical_tips": "Verifică intrarea în apă înainte să înoți: în unele locuri sunt pietre sau arici de mare, iar papucii de apă pot fi utili. Umbra naturală este limitată; adu o umbrelă dacă nu alegi un sector organizat. Toaletele, dușurile și vestiarele nu sunt garantate pe toată lungimea plajei. Întreabă operatorul despre prețul șezlongurilor sau consumația minimă. Pentru plimbările lungi, alege orele mai răcoroase.",
+      "highlights": [
+        "Plajă lungă, cu multe locuri de ales",
+        "Nisip și pietricele, în funcție de sector",
+        "Porțiuni libere și sectoare cu șezlonguri",
+        "Restaurante și servicii în Limenaria",
+        "Posibilitate de plimbări lungi pe țărm"
+      ],
+      "seo_title": "Limenaria Beach Thassos – plajă, acces și facilități",
+      "seo_description": "Ghid pentru Limenaria Beach în Thassos: zone nisipoase și pietroase, sectoare amenajate, acces, facilități și sfaturi pentru înot.",
+      "social_caption": "🏖️ Limenaria Beach, Thassos: kilometri de țărm, nisip, golfulețe și locuri unde te poți bucura de mare în ritmul tău. 🌊 Alege sectorul potrivit și descoperă farmecul sud-vestului insulei! 🇬🇷 #Thassos #Limenaria #ExploreGreece",
+      "photo_alt": "Plaja Limenaria din Thassos, cu nisip, mare și localitatea în apropiere."
+    },
+    "en": {
+      "name": "Limenaria Beach",
+      "tagline": "A long shoreline with relaxed stretches and town comforts nearby",
+      "summary": "Limenaria Beach runs along the southwest coast of Thassos, from the town area westward towards Tripiti. Sandy parts alternate with pebbles and rocky patches, with both serviced and open stretches.",
+      "description": "Limenaria Beach is one of the long coastal stretches on the southwest side of Thassos. From the edge of Limenaria town, the shore continues west towards Tripiti, changing from broad sandy sections to places where pebbles, stones and submerged rock slabs appear. This makes choosing the right stretch particularly important. In front of some hotels and beach bars, seasonal loungers and umbrellas provide an easy-going resort experience. Elsewhere, there is room to settle with your own towel and enjoy a leisurely walk by the sea. Being close to Limenaria is a major advantage: cafés, tavernas and shops are within reach, especially nearer town. Families may prefer the sandy areas where the water entry is more gradual, while swimmers should be aware that the seabed is not uniform all along the coast. The small port-front town beach is often discussed separately; Metalia lies beyond the eastern headland and Tripiti farther west. Neither should automatically be treated as the same beach. Rather than seeking one ideal spot for everyone, choose the part of Limenaria Beach that fits your plans, from convenient services to a quieter walk along the shoreline.",
+      "practical_tips": "Check the seabed before entering the sea: stones and occasional sea urchins make water shoes useful in some sections. Natural shade is scarce, so bring an umbrella unless you plan to use a serviced area. Toilets, showers and changing cabins are not confirmed everywhere. Lounger prices and minimum orders vary by operator. For walking, morning or late afternoon can be more comfortable in summer.",
+      "highlights": [
+        "Long coastline with room to explore",
+        "Sand, pebbles and rocky patches depending on section",
+        "Seasonal serviced areas and free stretches",
+        "Limenaria restaurants and shops nearby",
+        "Relaxed walks beside the sea"
+      ],
+      "seo_title": "Limenaria Beach Thassos – Guide, access and facilities",
+      "seo_description": "Explore Limenaria Beach on Thassos: sandy and rocky sections, sunbeds, access, nearby amenities and practical swimming tips.",
+      "social_caption": "🏖️ Limenaria Beach, Thassos: a long stretch of coastline, a choice of sandy spots and cafés close by. 🌊 Find your favourite section and enjoy a slower island day! 🇬🇷 #Thassos #LimenariaBeach #GreeceTravel",
+      "photo_alt": "View of Limenaria Beach on Thassos with sandy shoreline and the nearby town."
+    },
+    "el": {
+      "name": "Παραλία Λιμεναρίων",
+      "tagline": "Μεγάλη ακτογραμμή με ήσυχα σημεία και ανέσεις κοντά στον οικισμό",
+      "summary": "Η παραλία των Λιμεναρίων εκτείνεται στη νοτιοδυτική Θάσο, από την περιοχή του οικισμού προς την Τρυπητή. Η αμμουδιά εναλλάσσεται με βότσαλα και πετρώδη τμήματα, ενώ υπάρχουν οργανωμένα και ελεύθερα σημεία.",
+      "description": "Η παραλία των Λιμεναρίων αποτελεί μια εκτεταμένη ακτογραμμή στη νοτιοδυτική πλευρά της Θάσου. Από τα δυτικά του οικισμού η ακτή συνεχίζεται προς την Τρυπητή, με τμήματα αμμώδη αλλά και σημεία όπου υπάρχουν βότσαλα, πέτρες ή βραχώδεις πλάκες μέσα στη θάλασσα. Γι’ αυτό αξίζει να επιλέξετε προσεκτικά το σημείο όπου θα κολυμπήσετε. Μπροστά από ορισμένα ξενοδοχεία και beach bars λειτουργούν το καλοκαίρι οργανωμένα τμήματα με ξαπλώστρες και ομπρέλες, ενώ σε άλλες περιοχές μπορείτε να απλώσετε τον δικό σας εξοπλισμό και να απολαύσετε μια μεγάλη βόλτα στην ακτή. Τα Λιμενάρια προσφέρουν εύκολη πρόσβαση σε ταβέρνες, καφέ και καταστήματα, ιδιαίτερα κοντά στον οικισμό. Οι οικογένειες μπορούν να αναζητήσουν τα αμμώδη τμήματα με πιο ομαλή είσοδο στο νερό, έχοντας υπόψη ότι ο βυθός αλλάζει από σημείο σε σημείο. Η μικρή παραλία κοντά στο λιμάνι, τα Μεταλλεία ανατολικά και η Τρυπητή δυτικά αποτελούν διαφορετικά σημεία αναφοράς και δεν πρέπει να συγχέονται. Επιλέξτε την περιοχή που ταιριάζει στις ανάγκες σας για κολύμπι, ησυχία και παροχές.",
+      "practical_tips": "Ελέγξτε τον βυθό προτού μπείτε στο νερό, καθώς σε ορισμένα σημεία υπάρχουν πέτρες ή αχινοί. Παπούτσια θαλάσσης μπορεί να φανούν χρήσιμα. Η φυσική σκιά είναι περιορισμένη, γι’ αυτό πάρτε ομπρέλα αν δεν χρησιμοποιήσετε οργανωμένο τμήμα. Τουαλέτες, ντους και αποδυτήρια δεν είναι εξασφαλισμένα παντού. Οι χρεώσεις για ξαπλώστρες διαφέρουν ανά επιχείρηση.",
+      "highlights": [
+        "Εκτεταμένη ακτή με διαφορετικά σημεία",
+        "Αμμώδη και βοτσαλωτά τμήματα",
+        "Οργανωμένες και ελεύθερες ζώνες",
+        "Ταβέρνες και καταστήματα στα Λιμενάρια",
+        "Ιδανική για βόλτες δίπλα στη θάλασσα"
+      ],
+      "seo_title": "Παραλία Λιμεναρίων Θάσος – πρόσβαση και παροχές",
+      "seo_description": "Οδηγός για την παραλία Λιμεναρίων στη Θάσο: άμμος, βότσαλα, οργανωμένα τμήματα, πρόσβαση, παροχές και συμβουλές για κολύμπι.",
+      "social_caption": "🏖️ Παραλία Λιμεναρίων, Θάσος: μεγάλη ακτογραμμή, αμμουδιές και πολλές επιλογές για χαλάρωση. 🌊 Ανακαλύψτε το δικό σας αγαπημένο σημείο στη νοτιοδυτική πλευρά του νησιού! 🇬🇷 #Θάσος #Λιμενάρια #Ελλάδα",
+      "photo_alt": "Η παραλία Λιμεναρίων στη Θάσο με αμμώδη ακτή και τον οικισμό στο βάθος."
+    },
+    "de": {
+      "name": "Limenaria Beach",
+      "tagline": "Langer Strand mit ruhigen Abschnitten und dem Ort ganz in der Nähe",
+      "summary": "Der Strand von Limenaria liegt an der Südwestküste von Thassos und zieht sich vom Ort in Richtung Tripiti. Sandige Bereiche wechseln mit Kieseln und Steinen; es gibt bewirtschaftete und freie Abschnitte.",
+      "description": "Limenaria Beach gehört zu den ausgedehnten Küstenabschnitten im Südwesten von Thassos. Vom Ortsrand von Limenaria zieht sich der Strand nach Westen in Richtung Tripiti. Dabei wechseln breite Sandflächen mit Bereichen, in denen Kiesel, Steine oder Felsplatten im Wasser liegen. Deshalb lohnt es sich, den gewünschten Badeplatz bewusst auszuwählen. Vor einigen Hotels und Strandbars werden während der Saison Liegen und Sonnenschirme angeboten. Andere Abschnitte bieten Platz für das eigene Handtuch und ausgedehnte Spaziergänge am Meer. Die Nähe zum Ort ist praktisch: Tavernen, Cafés und Geschäfte sind besonders in den ortsnahen Teilen gut erreichbar. Familien können nach sandigen Bereichen mit sanfterem Einstieg suchen, sollten aber beachten, dass der Meeresboden nicht überall gleich beschaffen ist. Der kleine Stadtstrand am Hafen wird teilweise getrennt beschrieben; Metalia liegt östlich des markanten Hügels und Tripiti weiter westlich. Diese benachbarten Strände sollten nicht mit dem gesamten Strand von Limenaria gleichgesetzt werden. Wer die verschiedenen Abschnitte kennt, findet leichter den passenden Ort für einen bequemen Badetag oder einen ruhigen Spaziergang.",
+      "practical_tips": "Vor dem Baden auf Steine und mögliche Seeigel achten; stellenweise sind Badeschuhe sinnvoll. Natürlicher Schatten ist begrenzt, daher empfiehlt sich ein Sonnenschirm. Toiletten, Duschen und Umkleiden sind nicht entlang des gesamten Strandes gesichert. Preise oder Mindestverzehr für Liegen direkt beim jeweiligen Anbieter erfragen. Für längere Spaziergänge sind kühlere Tageszeiten angenehm.",
+      "highlights": [
+        "Lange Küste mit vielseitigen Strandabschnitten",
+        "Sand, Kies und stellenweise Fels im Wasser",
+        "Bewirtschaftete und freie Bereiche",
+        "Tavernen und Läden in Limenaria",
+        "Schöne Möglichkeiten für Strandspaziergänge"
+      ],
+      "seo_title": "Limenaria Beach Thassos – Strandführer und Ausstattung",
+      "seo_description": "Limenaria Beach auf Thassos entdecken: Sand und Kies, Strandabschnitte, Liegen, Zugang, Angebote und praktische Tipps.",
+      "social_caption": "🏖️ Limenaria Beach auf Thassos: eine lange Küste, verschiedene Badeplätze und der lebendige Ort ganz in der Nähe. 🌊 Entdecken Sie Ihren Lieblingsabschnitt! 🇬🇷 #Thassos #Limenaria #Griechenland",
+      "photo_alt": "Strand von Limenaria auf Thassos mit sandiger Küste und dem Ort im Hintergrund."
+    },
+    "bg": {
+      "name": "Плаж Лименария",
+      "tagline": "Дълга крайбрежна ивица с тихи места и удобства наблизо",
+      "summary": "Плажът на Лименария се простира по югозападния бряг на Тасос от града на запад към Трипити. Пясъчните участъци се редуват с чакъл и камъни, а някои зони са организирани, докато други остават свободни.",
+      "description": "Плажът Лименария е част от дългата брегова ивица в югозападната част на остров Тасос. От края на селището брегът продължава на запад към Трипити и се променя по цялото си протежение: има широки пясъчни участъци, но и места с дребни камъчета, по-едри камъни или скални плочи под водата. Затова е важно внимателно да изберете къде да влезете в морето. Пред някои хотели и плажни барове през сезона се предлагат шезлонги и чадъри, докато на други места можете да поставите собствената си постелка и да се разходите спокойно по брега. Близостта до Лименария е удобство: в града има таверни, кафенета и магазини, които са особено достъпни в източната част на плажната зона. Семействата могат да потърсят пясъчни участъци с по-плавно навлизане във водата, но трябва да имат предвид, че морското дъно е различно на отделните места. Малкият градски плаж до пристанището, Металия на изток и Трипити на запад са отделни ориентири и не бива да се смесват с цялата ивица на Лименария. Изберете участъка според желанието си за спокойствие, плуване и удобства.",
+      "practical_tips": "Преди плуване проверете дъното: на места има камъни или морски таралежи и обувките за вода могат да бъдат полезни. Естествената сянка е ограничена, затова носете чадър, ако няма да използвате организирана зона. Тоалетни, душове и съблекални не са потвърдени по цялата ивица. Цените на шезлонгите и изискването за консумация се различават според обекта.",
+      "highlights": [
+        "Дълга брегова ивица с различни зони",
+        "Пясък, чакъл и каменисти участъци",
+        "Организирани и свободни места",
+        "Таверни и магазини в Лименария",
+        "Добра възможност за разходки край морето"
+      ],
+      "seo_title": "Плаж Лименария, Тасос – достъп и удобства",
+      "seo_description": "Разгледайте плаж Лименария на Тасос: пясък, камъчета, различни зони, шезлонги, достъп и полезни съвети.",
+      "social_caption": "🏖️ Лименария, Тасос: дълъг плаж, разнообразни кътчета за почивка и таверни наблизо. 🌊 Открийте любимото си място на югозападния бряг! 🇬🇷 #Тасос #Лименария #Гърция",
+      "photo_alt": "Плажът на Лименария на остров Тасос с пясъчен бряг и селището наблизо."
+    },
+    "sr": {
+      "name": "Plaža Limenarija",
+      "tagline": "Duga obala sa mirnijim delovima i sadržajima u blizini",
+      "summary": "Plaža Limenarija pruža se duž jugozapadne obale Tasosa, od naselja prema Tripitiju. Peščani delovi smenjuju se sa šljunkom i kamenjem, a postoje uređeni i slobodni delovi obale.",
+      "description": "Plaža Limenarija obuhvata dugačak deo obale na jugozapadu Tasosa. Od naselja Limenarija pruža se prema zapadu, u pravcu Tripitija, uz promene u izgledu obale: neki delovi su široki i peščani, dok se na drugim mestima pojavljuju šljunak, kamenje ili kamene ploče u vodi. Zbog toga je važno pažljivo izabrati mesto za kupanje. Ispred pojedinih hotela i barova na plaži tokom sezone dostupne su ležaljke i suncobrani. Ostali delovi pružaju prostor za sopstvenu prostirku i duge šetnje uz more. Blizina Limenarije je velika prednost, jer su taverne, kafići i prodavnice lako dostupni, naročito bliže naselju. Porodice mogu potražiti peščane delove sa postepenijim ulaskom u more, ali treba znati da dno nije svuda isto. Mala gradska plaža kraj luke često se opisuje zasebno, dok su Metalija istočno i Tripiti zapadno druge plaže. Njih ne treba mešati sa čitavom obalom Limenarije. Izaberite deo koji najbolje odgovara vašem planu, bilo da želite uređeno mesto za odmor ili mirniju šetnju uz obalu.",
+      "practical_tips": "Proverite morsko dno pre ulaska: ponegde ima kamenja ili morskih ježeva, pa obuća za vodu može biti korisna. Prirodnog hlada nema mnogo; ponesite suncobran ako ne koristite uređeni deo. Toaleti, tuševi i kabine nisu potvrđeni na celoj dužini plaže. Cene ležaljki i uslovi minimalne potrošnje zavise od lokala.",
+      "highlights": [
+        "Duga obala sa različitim delovima",
+        "Pesak, šljunak i kamenje na pojedinim mestima",
+        "Uređeni i slobodni delovi",
+        "Taverne i prodavnice u Limenariji",
+        "Prijatne šetnje uz more"
+      ],
+      "seo_title": "Plaža Limenarija Tasos – vodič, prilaz i sadržaji",
+      "seo_description": "Otkrijte plažu Limenarija na Tasosu: peščani i kameniti delovi, ležaljke, prilaz, sadržaji i saveti za kupanje.",
+      "social_caption": "🏖️ Limenarija, Tasos: duga obala, raznovrsna mesta za odmor i taverne u blizini. 🌊 Pronađite svoj omiljeni deo plaže! 🇬🇷 #Tasos #Limenarija #Grcka",
+      "photo_alt": "Plaža Limenarija na Tasosu sa peščanom obalom i naseljem u pozadini."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/limenaria/images/limenaria1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/limenaria/images/limenaria2.webp",
+      "destinations/thassos/beaches/limenaria/images/limenaria3.webp",
+      "destinations/thassos/beaches/limenaria/images/limenaria4.webp",
+      "destinations/thassos/beaches/limenaria/images/limenaria5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/limenaria/images/",
+    "suggested_asset_names": [
+      "limenaria1.webp",
+      "limenaria2.webp",
+      "limenaria3.webp",
+      "limenaria4.webp",
+      "limenaria5.webp"
+    ],
+    "image_policy": "Only user-provided, owned or appropriately licensed photographs of Limenaria Beach on Thassos may be published. Paths are assigned from the user-provided screenshot filenames; verify the depicted coastline sector, image provenance and publication rights.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_water_site",
+      "kind": "official_data_aggregator",
+      "title": "Limenaria designated bathing-water site (EEA historical assessments)",
+      "url": "https://katatopisi.gr/en/beach/limenaria/",
+      "detail": "Mapped coastal monitoring site at 40.62453,24.55898 with Google Maps directions; historical 2024 Excellent class and EEA code; coordinate is not verified town-center Google Maps beach POI.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "regional_travel_guide",
+      "title": "Go Thassos — Limenaria",
+      "url": "https://www.go-thassos.gr/about-thassos/places/limenaria",
+      "detail": "Distinguishes small town beach from longer western stretch and Metalia east of town; local food and services.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_city",
+      "kind": "regional_travel_guide",
+      "title": "Nikana — Limenaria city beach and long beach",
+      "url": "https://ns1.nikana.gr/en/tourist-guide/thassos/beaches/1929/limenaria-city-beach",
+      "detail": "Updated April 2026; long western beach surface and facilities vary; individual visitor comment contests showers on city section.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_guide",
+      "kind": "regional_travel_guide",
+      "title": "Nikana — Beaches on Thassos",
+      "url": "https://nikana.gr/en/blog/1676/beaches-on-thassos-description-and-how-to-get-there",
+      "detail": "Separates Stelakis section, city beach, Metalia and Tripiti; documents rocky areas and potential sea urchins.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_staythassos",
+      "kind": "regional_travel_guide",
+      "title": "Stay Thassos — Limenaria Beaches",
+      "url": "https://staythassos.gr/limenaria-beaches/",
+      "detail": "Long coastline; uneven seabed, sections with fine sand and gradual depth; beach conveniences not universal.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_local_apts",
+      "kind": "local_accommodation_guide",
+      "title": "Thassian Apartments — Limenaria Beach",
+      "url": "https://www.thassianapartments.gr/en/info/locations",
+      "detail": "Describes long westward beach, seasonal loungers, watersports, eateries, and distinction from Metalia.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons",
+      "kind": "media_category_research",
+      "title": "Wikimedia Commons — Category: Limenaria Beach",
+      "url": "https://commons.wikimedia.org/wiki/Category:Limenaria_Beach",
+      "detail": "Lists nine media files associated with Limenaria Beach. File-level author, rights and exact identity unverified.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_mapcarta",
+      "kind": "openstreetmap_based_geography",
+      "title": "Mapcarta — Limenaria beach geographic record",
+      "url": "https://mapcarta.com/N6285722595",
+      "detail": "Independent place reference 40.6259,24.56924, differs from designated bathing water site; demonstrates that various parts of shore receive different coordinates.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_thassosview",
+      "kind": "regional_travel_guide",
+      "title": "Thassos View — Limenaria Beach",
+      "url": "https://www.thassos-view.com/places/beaches/limenaria-beach",
+      "detail": "Describes long beach towards Tripiti, mainly sand with some pebbles and seasonal serviced parts.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm Google Maps beach pin and preferred road/parking entrance; current coordinate is a monitored beach site, not necessarily the town beach.",
+      "Decide whether small central port-side city beach needs its own POI and avoid duplicating Limenaria/Tripiti/Stelakis.",
+      "Check operator-specific showers, toilets, changing rooms, water sports and lifeguard coverage for the target season.",
+      "Confirm limenaria1.webp–limenaria5.webp depict the correct Limenaria shoreline sections (not Metalia or Tripiti) and document image publication rights and any required attribution.",
+      "Native review of all six translations prior to public launch."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original authored text; rights to use the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local image paths assigned from the user-provided screenshot of filenames; actual image files, exact beach sector, provenance and reuse rights have not been independently verified."
+  }
+}

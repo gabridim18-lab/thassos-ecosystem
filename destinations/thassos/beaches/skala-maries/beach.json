@@ -1,0 +1,386 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-skala-maries",
+  "slug": "skala-maries",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Σκάλας Μαριών",
+    "international_name": "Skala Maries Beach",
+    "aliases": [
+      "Skala Marion Beach",
+      "Skala Maries Town Beach",
+      "Skala Maries City Beach",
+      "Limanaki Beach Skala Maries",
+      "Skala Marion Limanaki",
+      "Παραλία Σκάλας Μαριών",
+      "Σκάλα Μαριών",
+      "Λιμανάκι Σκάλας Μαριών"
+    ],
+    "entity_scope": "Only the small central village/harbour cove (Limanaki) at Skala Maries on southwestern Thassos. Not the wider three-bay destination and not Platanes or Atspas.",
+    "deduplication_warning": "Some guides use Skala Maries Beach for all three village coves. This record covers ONLY the central town/harbour beach. Platanes (also called Sunset in some guides) is the larger northern bay; Atspas/Sugar Beach is the southern bay. Do not merge these beaches or count the whole village as one beach.",
+    "related_records": [
+      {
+        "id": "gr-thassos-beach-platanes",
+        "relationship": "separate_northern_village_bay_pending_record"
+      },
+      {
+        "id": "gr-thassos-beach-atspas",
+        "relationship": "separate_southern_village_bay_pending_record"
+      }
+    ]
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southwest",
+    "settlements": [
+      "Skala Maries",
+      "Skala Marion"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Skala+Maries+Town+Beach+Thassos+Greece",
+    "coordinate_source_reference": null,
+    "coordinate_type": "google_maps_search_no_exact_pin_confirmed",
+    "coordinate_review_status": "Exact Google Maps pin must be selected and confirmed for the central harbour beach; do not automatically substitute the town centre or Atspas/Platanes.",
+    "coordinate_candidate": {
+      "lat": 40.64264,
+      "lng": 24.51552,
+      "source_ref": "s_mapcarta",
+      "source_type": "openstreetmap_based_centroid_not_google_maps",
+      "note": "Approximate polygon position for central beach from OpenStreetMap/Mapcarta. Research aid only, not final coordinate_source."
+    },
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mostly_sand_with_some_pebble_patches_reported",
+    "seabed_near_shore": "mixed_sand_and_rocks; rock patches possible even close to shore",
+    "water_entry": "generally_gradual_with_uneven_rocky_patches",
+    "nearshore_depth": "often_shallow_near_shore_but_varies_with_exact_entry",
+    "water_clarity": "often_clear_when_conditions_calm; not guaranteed near working harbour",
+    "wave_conditions": "usually_more_sheltered_than_exposed_west_coast; weather_dependent",
+    "exposure": "small_harbour_cove_southwest_coast",
+    "natural_shade_on_sand": "some_spots_reported; not continuous",
+    "beach_length_m": null,
+    "length_note": "This record describes only the small harbour beach, with no independently checked shoreline-length measurement.",
+    "backdrop": "Fishing boats, a harbour wall, small waterfront houses and village tavernas",
+    "shoreline_type": "small_village_harbour_cove"
+  },
+  "visitor_experience": {
+    "organization": "mixed_reports; some sunbeds mentioned, but status/extent not confirmed",
+    "suitable_for": [
+      "couples",
+      "village_stays",
+      "short_swims",
+      "quiet_relaxation",
+      "waterfront_walks",
+      "taverna_visits",
+      "coastal_photography"
+    ],
+    "notable_for": [
+      "central_fishing_harbour",
+      "traditional_village",
+      "nearby_fish_tavernas",
+      "small_sandy_cove",
+      "local_atmosphere"
+    ],
+    "activities_possible": [
+      "swimming_when_conditions_safe",
+      "relaxed_sunbathing",
+      "photographing_village_and_harbour",
+      "seafront_dining",
+      "walking_to_viewpoints"
+    ],
+    "estimated_crowd_peak": "often_quieter_than_large_resort_beaches_but_small_space_can_fill",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Some rocks and potentially slippery submerged stones occur in shallow water. This cove is next to a fishing harbour: stay clear of boat movements and do not swim in operating harbour lanes. Sea conditions and local notices take precedence."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": null,
+      "seasonal": true,
+      "note": "Go Thassos lists sunbeds/umbrellas, while Nikana calls the central beach unorganized; check this season and exact operator."
+    },
+    "umbrellas": {
+      "available_in_some_sections": null,
+      "seasonal": true,
+      "note": "Not guaranteed across the central harbour beach."
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Some guides indicate WC, others report no beach-specific facilities. Nearby tavern toilets are not guaranteed public facilities."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "Sources disagree; confirm on site before advertising."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No verified lifeguard provision for the village-centre beach.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Waterfront streets may be accessible on foot, but adapted entrance and equipment for sea access have not been verified.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Do not import the showers, bars or loungers of Atspas or Platanes into this small central beach. Village restaurants are near the cove, not necessarily beach operators."
+  },
+  "access_and_cost": {
+    "road_access": "Via paved local streets into Skala Maries village. The final waterfront streets are narrow, and driving/parking beside the beach is not guaranteed.",
+    "public_transport": "Check current island bus services and seasonal timetables; a stop adjacent to this beach has not been verified.",
+    "parking_type": "limited_village_street_or_local_parking; exact public parking area unverified",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Neither availability nor current minimum-consumption rules for any loungers are confirmed.",
+    "best_arrival_advice": "Approach the centre on foot where practical, park legally without blocking the narrow lanes, and combine the short beach stop with a stroll and a meal in the fishing village.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Route distance and driving time depend on departure point and final parking area; calculate dynamically from a mapping service."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not store current weather, sea temperature, wind, waves or prices permanently in this beach JSON; retrieve at runtime and label conditions appropriately."
+  },
+  "translations": {
+    "ro": {
+      "name": "Skala Maries Beach (Limanaki)",
+      "tagline": "Un golf mic, cu atmosferă pescărească și taverne chiar lângă mare",
+      "summary": "Plaja din centrul satului Skala Maries ocupă un golfuleț nisipos lângă portul pescăresc. Este potrivită pentru o oprire relaxată, o baie scurtă și o masă la tavernele de pe faleză; în apă există și porțiuni cu pietre.",
+      "description": "În centrul micului sat pescăresc Skala Maries, pe coasta sud-vestică a insulei Thassos, se află un golfuleț diferit de plajele mari ale insulei. Skala Maries Beach, cunoscută și ca Limanaki, are un țărm în mare parte nisipos, încadrat de case, terase și de portul unde pot fi văzute ambarcațiunile localnicilor. Este un loc pentru cei cărora le place să combine înotul cu atmosfera unui sat grecesc autentic: după câteva ore lângă apă, poți merge câțiva pași până la o tavernă cu preparate din pește. Intrarea în mare este de regulă lină, însă pe fund apar și pietre, uneori alunecoase, așa că încălțămintea de apă poate fi utilă. Golful este mic și adesea mai liniștit decât plajele mari, dar spațiul disponibil poate deveni limitat. Unele ghiduri menționează șezlonguri și dușuri, iar altele descriu o plajă neamenajată; nu te baza pe aceste servicii fără verificare. Dacă vrei întinderi mai largi de nisip, reține că Platanes și Atspas sunt alte două golfuri ale localității, separate de această plajă centrală.",
+      "practical_tips": "Plaja se află chiar lângă portul pescăresc: înoată doar în zona potrivită și păstrează distanța față de ambarcațiuni. Pietrele submerse pot fi alunecoase, deci papucii de apă pot ajuta. Străduțele din sat sunt înguste, iar parcarea din apropiere nu este garantată. Verifică local șezlongurile, toaletele și dușurile; tavernele sunt aproape, însă facilitățile lor nu sunt automat publice. Pentru o altă experiență de plajă, caută separat Platanes sau Atspas.",
+      "highlights": [
+        "Golfuleț în centrul satului pescăresc",
+        "Nisip pe mal și zone cu pietre sub apă",
+        "Taverne și cafenele la câțiva pași",
+        "Priveliște spre port și casele de pe faleză",
+        "Atmosferă locală, potrivită pentru o oprire fără grabă"
+      ],
+      "seo_title": "Skala Maries Beach Thassos – plaja centrală, acces și sfaturi",
+      "seo_description": "Explorează Skala Maries Beach (Limanaki): plaja mică de lângă port, apă limpede, pietre la intrare, taverne și informații utile pentru vizită.",
+      "social_caption": "🇬🇷 În Thassos există și plaje care se descoperă la pas, printre case și taverne. 🌊 Skala Maries Beach este un golfuleț din inima unui sat pescăresc, perfect de combinat cu o masă lângă mare. Salvează-l pentru o zi mai liniștită! #Thassos #SkalaMaries #GreekIslands",
+      "photo_alt": "Golful central Skala Maries, cu plajă nisipoasă, port pescăresc și taverne pe malul mării, în Thassos."
+    },
+    "en": {
+      "name": "Skala Maries Beach (Limanaki)",
+      "tagline": "A small fishing-village cove with seaside tavernas",
+      "summary": "The central beach of Skala Maries sits in a small sandy cove beside the fishing harbour. It is a pleasant stop for a relaxed swim and a waterfront meal, although rocks occur in the shallow water.",
+      "description": "At the heart of the fishing village of Skala Maries, on the southwest coast of Thassos, a compact cove offers a very different atmosphere from the island’s long resort beaches. Also known as Limanaki, Skala Maries Beach has a mostly sandy shore framed by waterfront houses, small cafés and the local harbour where fishing boats come and go. This is a place to enjoy the rhythm of village life as much as the sea: after a gentle beach stop, fish tavernas and other places to eat are only a short stroll away. The water entry is often gradual, but submerged stones and uneven patches call for care, and water shoes can be helpful. Its small size makes the beach feel intimate, although there may be limited space in busy periods. Guides disagree about whether there are regularly available sunbeds, showers and other beach amenities, so treat these as unconfirmed rather than guaranteed. The village also has two separate bays—Platanes to the north and Atspas to the south—which should not be confused with this central harbour beach.",
+      "practical_tips": "The beach is beside an active fishing harbour, so keep well away from boats and harbour traffic when swimming. Submerged rocks can be slippery; water shoes may help. Streets around the waterfront are narrow and parking is limited. Check current lounger, toilet and shower availability locally rather than relying on facilities listed for other bays. Nearby tavernas offer an appealing way to round off the visit.",
+      "highlights": [
+        "Small sandy cove in the centre of a fishing village",
+        "Some rocks in the nearshore water",
+        "Tavernas and cafés a short walk away",
+        "Fishing harbour and traditional waterfront scenery",
+        "Relaxed alternative to large resort beaches"
+      ],
+      "seo_title": "Skala Maries Beach Thassos – harbour beach guide and access",
+      "seo_description": "Discover Skala Maries Beach (Limanaki), the small central fishing-harbour cove with sandy shore, rocky seabed patches, tavernas and practical tips.",
+      "social_caption": "🌊 Want a different side of Thassos? In Skala Maries, a tiny sandy cove sits right beside a fishing harbour and local tavernas. 🇬🇷 Come for the seaside atmosphere and stay for a slow meal by the water. #Thassos #SkalaMaries #GreekIslandLife",
+      "photo_alt": "Central Skala Maries sandy cove framed by the village fishing harbour and waterfront tavernas on Thassos."
+    },
+    "el": {
+      "name": "Παραλία Σκάλας Μαριών (Λιμανάκι)",
+      "tagline": "Μικρός όρμος δίπλα στο ψαρολίμανο και στις παραθαλάσσιες ταβέρνες",
+      "summary": "Η κεντρική παραλία της Σκάλας Μαριών βρίσκεται σε έναν μικρό αμμώδη όρμο δίπλα στο αλιευτικό λιμανάκι. Συνδυάζει μια χαλαρή βουτιά με βόλτα και φαγητό στο χωριό, αν και υπάρχουν πέτρες σε τμήματα του βυθού.",
+      "description": "Στην καρδιά της Σκάλας Μαριών, στη νοτιοδυτική Θάσο, μια μικρή παραλία διατηρεί τον χαρακτήρα του παραδοσιακού ψαροχωριού. Η παραλία του οικισμού, γνωστή και ως Λιμανάκι, βρίσκεται δίπλα στο αλιευτικό καταφύγιο, με σπίτια, καφέ και ταβέρνες πολύ κοντά στο νερό. Η ακτή είναι κυρίως αμμώδης και προσφέρεται για μια σύντομη, ήρεμη στάση δίπλα στη θάλασσα πριν από μια βόλτα στο χωριό ή ένα γεύμα με θαλασσινά. Η είσοδος στο νερό είναι συνήθως ομαλή, όμως σε αρκετά σημεία υπάρχουν πέτρες στον βυθό που μπορεί να γλιστρούν. Τα παπούτσια θαλάσσης είναι χρήσιμα για όσους προτιμούν μεγαλύτερη σιγουριά. Λόγω του μικρού μεγέθους της, η παραλία μπορεί να έχει περιορισμένο διαθέσιμο χώρο τις ημέρες με κίνηση. Οι ταξιδιωτικοί οδηγοί διαφωνούν σχετικά με τη σταθερή παρουσία ξαπλωστρών και ντους, επομένως οι παροχές αυτές δεν πρέπει να θεωρούνται δεδομένες. Η Πλατάνα ή Πλατανές και ο Ατσπάς είναι δύο διαφορετικοί όρμοι της Σκάλας Μαριών και δεν ανήκουν στην παρούσα καταχώριση.",
+      "practical_tips": "Η παραλία είναι κοντά στο ενεργό ψαρολίμανο· κολυμπήστε μόνο σε ασφαλές σημείο μακριά από τις κινήσεις των σκαφών. Προσέξτε τις πέτρες μέσα στο νερό και προτιμήστε παπούτσια θαλάσσης όπου χρειάζεται. Οι δρόμοι του οικισμού είναι στενοί και η στάθμευση δεν είναι εξασφαλισμένη. Ελέγξτε επιτόπου τη διαθεσιμότητα ξαπλωστρών, τουαλετών και ντους. Οι κοντινές ταβέρνες είναι μια ωραία επιλογή για φαγητό μετά το μπάνιο.",
+      "highlights": [
+        "Μικρός αμμώδης όρμος στο κέντρο του χωριού",
+        "Πέτρες σε τμήματα του βυθού",
+        "Ταβέρνες και καφέ δίπλα στη θάλασσα",
+        "Θέα στο αλιευτικό λιμάνι",
+        "Ήρεμη ατμόσφαιρα παραδοσιακού οικισμού"
+      ],
+      "seo_title": "Παραλία Σκάλας Μαριών Θάσος – πρόσβαση και χρήσιμες πληροφορίες",
+      "seo_description": "Ανακαλύψτε την κεντρική παραλία της Σκάλας Μαριών (Λιμανάκι): άμμος, πέτρες στον βυθό, ταβέρνες, πρόσβαση και πρακτικές συμβουλές.",
+      "social_caption": "🇬🇷 Μια μικρή παραλία δίπλα σε ψαρολίμανο, σπιτάκια και ταβέρνες: αυτή είναι η Σκάλα Μαριών! 🌊 Ιδανική για μια χαλαρή στάση και φαγητό δίπλα στη θάλασσα. #Θάσος #ΣκάλαΜαριών #ΕλληνικάΝησιά",
+      "photo_alt": "Η μικρή κεντρική παραλία της Σκάλας Μαριών με το ψαρολίμανο και τις ταβέρνες δίπλα στη θάλασσα."
+    },
+    "de": {
+      "name": "Skala Maries Beach (Limanaki)",
+      "tagline": "Kleine Dorfstrandbucht direkt am Fischerhafen",
+      "summary": "Der zentrale Strand von Skala Maries liegt in einer kleinen Sandbucht neben dem Fischerhafen. Er eignet sich für einen ruhigen Badestopp und einen Besuch der Tavernen; unter Wasser gibt es jedoch auch steinige Stellen.",
+      "description": "Mitten im Fischerdorf Skala Maries an der Südwestküste von Thassos liegt eine kleine Bucht, die sich deutlich von den großen Ferienstränden der Insel unterscheidet. Der Dorfstrand, auch Limanaki genannt, hat überwiegend sandigen Untergrund am Ufer und wird von Häusern, Cafés und dem Hafen mit seinen Fischerbooten eingerahmt. Wer nicht nur am Strand liegen, sondern auch das Alltagsleben eines griechischen Küstenortes erleben möchte, ist hier richtig. Nach einer kurzen Badepause sind Tavernen mit Fischgerichten und weitere Lokale in wenigen Schritten erreichbar. Der Einstieg ins Meer fällt meist sanft ab, jedoch befinden sich im Wasser Steine und stellenweise rutschiger Untergrund. Badeschuhe können daher sinnvoll sein. Wegen der geringen Größe ist der Platz am Strand begrenzt, auch wenn die Atmosphäre oft ruhiger wirkt als an den bekannten Badebuchten. Die Angaben zu Sonnenliegen, Duschen und weiteren Einrichtungen widersprechen sich je nach Quelle; ihre Verfügbarkeit sollte vor Ort geprüft werden. Platanes im Norden und Atspas im Süden sind zwei andere Buchten des Ortes und gehören nicht zu diesem zentralen Dorfstrand.",
+      "practical_tips": "Da sich der Strand unmittelbar neben einem genutzten Fischerhafen befindet, beim Schwimmen Abstand zu Booten und Hafenzufahrten halten. Auf rutschige Steine im Wasser achten; Badeschuhe können helfen. Die Gassen sind eng, Parkmöglichkeiten begrenzt. Liegen, Toiletten und Duschen nicht als garantiert ansehen. Die Tavernen in der Nähe lassen sich gut mit einem Besuch verbinden.",
+      "highlights": [
+        "Kleine Sandbucht mitten im Fischerdorf",
+        "Steinige Bereiche im flachen Wasser",
+        "Tavernen und Cafés direkt in der Nähe",
+        "Blick auf Hafen und Uferhäuser",
+        "Ruhiger Charakter statt großer Strandpromenade"
+      ],
+      "seo_title": "Skala Maries Beach Thassos – Dorfstrand, Anfahrt und Tipps",
+      "seo_description": "Skala Maries Beach (Limanaki) auf Thassos entdecken: kleine Sandbucht am Fischerhafen, Steine im Wasser, Tavernen und praktische Hinweise.",
+      "social_caption": "🌊 Ein kleiner Sandstrand, Fischerboote und Tavernen direkt am Wasser: Skala Maries zeigt die gemütliche Seite von Thassos. 🇬🇷 Perfekt für einen entspannten Zwischenstopp! #Thassos #SkalaMaries #Griechenland",
+      "photo_alt": "Kleine Sandbucht von Skala Maries mit Fischerhafen und Tavernen an der Uferpromenade auf Thassos."
+    },
+    "bg": {
+      "name": "Плаж Скала Мариес (Лиманаки)",
+      "tagline": "Малък залив до рибарското пристанище и крайбрежните таверни",
+      "summary": "Централният плаж на Скала Мариес е в малък пясъчен залив до рибарското пристанище. Подходящ е за спокойна почивка и обяд край морето, но под водата има и камъни.",
+      "description": "В сърцето на рибарското селце Скала Мариес, на югозападния бряг на Тасос, има малък залив с атмосфера, различна от големите курортни плажове. Централният плаж, известен и като Лиманаки, е предимно пясъчен на брега, а около него се намират къщи, кафенета, таверни и пристанището с лодките на местните рибари. Това е приятно място за кратко къпане, разходка из селцето и вечеря с рибни специалитети. Влизането в морето обикновено е плавно, но на морското дъно има камъни, които могат да бъдат хлъзгави. Обувките за вода са полезни. Заливът е малък и често предлага спокойна атмосфера, но през по-натоварените дни свободното място може да е ограничено. Източниците дават различна информация за шезлонги, душове и други удобства, затова не е добре да разчитате на тях без проверка. Платанес и Ацпас са други два отделни залива край Скала Мариес и не трябва да се бъркат с този централен плаж.",
+      "practical_tips": "Плажът е близо до действащо рибарско пристанище: плувайте далеч от лодките и местата за маневриране. Внимавайте за камъни под водата и използвайте обувки за вода при нужда. Уличките на селцето са тесни, а паркирането не е гарантирано. Проверявайте на място наличието на шезлонги, тоалетни и душове. Комбинирайте посещението с разходка или обяд в близките таверни.",
+      "highlights": [
+        "Малък залив в центъра на рибарско селце",
+        "Пясъчен бряг с камъни под водата",
+        "Таверни и кафенета наблизо",
+        "Живописно пристанище и крайбрежни къщи",
+        "Спокойна атмосфера за кратка почивка"
+      ],
+      "seo_title": "Скала Мариес, Тасос – централен плаж, достъп и съвети",
+      "seo_description": "Открийте плажа Скала Мариес (Лиманаки): малък пясъчен залив до рибарското пристанище, камъни във водата, таверни и полезна информация.",
+      "social_caption": "🇬🇷 Понякога най-приятните кътчета на Тасос са между рибарските лодки и малките таверни! 🌊 Скала Мариес е чудесен избор за спокойна спирка край морето. #Тасос #СкалаМариес #Гърция",
+      "photo_alt": "Централният плаж в Скала Мариес с рибарско пристанище, пясъчен бряг и таверни на остров Тасос."
+    },
+    "sr": {
+      "name": "Skala Marijes (Limanaki)",
+      "tagline": "Mala seoska uvala uz ribarsku luku i taverne",
+      "summary": "Gradska plaža Skala Marijes smeštena je u maloj peščanoj uvali uz ribarsku luku. Prijatna je za kraće kupanje i obrok pored mora, ali u plićaku ima i kamenja.",
+      "description": "U samom centru ribarskog mesta Skala Marijes, na jugozapadnoj obali Tasosa, nalazi se mala uvala drugačija od velikih turističkih plaža. Gradska plaža, poznata i pod imenom Limanaki, ima pretežno peščanu obalu, dok se oko nje nalaze kuće, kafići, taverne i mala ribarska luka. Ovde možete spojiti kratko kupanje, šetnju kroz mesto i ručak ili večeru uz svežu ribu. Ulazak u more uglavnom je postepen, ali se u vodi nalaze kamenje i neravne površine koje mogu biti klizave, pa obuća za vodu može dobro doći. Zbog malih dimenzija uvala ima prijatan, intiman karakter, mada mesta na obali u prometnijim danima može biti manje. Vodiči se ne slažu oko stalne dostupnosti ležaljki, tuševa i drugih sadržaja, zato ih ne treba unapred podrazumevati. Platanes na severnoj i Atspas na južnoj strani mesta jesu dve posebne uvale i nisu deo ove centralne gradske plaže.",
+      "practical_tips": "Plaža je odmah uz aktivnu ribarsku luku, pa tokom plivanja držite odstojanje od čamaca i prilaza luci. U vodi može biti klizavog kamenja; preporučuje se obuća za vodu. Ulice u mestu su uske, a parking nije zagarantovan. Ležaljke, toalete i tuševe proverite na licu mesta. U blizini ima taverni za prijatnu pauzu posle kupanja.",
+      "highlights": [
+        "Mala peščana uvala u centru ribarskog mesta",
+        "Pojedine kamenite površine u plićaku",
+        "Taverne i kafići na nekoliko koraka",
+        "Pogled na ribarsku luku",
+        "Mirnija atmosfera od velikih turističkih plaža"
+      ],
+      "seo_title": "Skala Marijes Tasos – gradska plaža, prilaz i saveti",
+      "seo_description": "Upoznajte gradsku plažu Skala Marijes (Limanaki): mala peščana uvala uz ribarsku luku, kamenje u vodi, taverne i saveti za posetu.",
+      "social_caption": "🌊 Mala peščana uvala, ribarski čamci i taverne tik uz more — to je Skala Marijes na Tasosu. 🇬🇷 Sačuvajte ovo mesto za opušten dan! #Tasos #SkalaMarijes #Grcka",
+      "photo_alt": "Mala centralna plaža Skala Marijes uz ribarsku luku i taverne na ostrvu Tasos."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/skala-maries/images/skala-maries1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/skala-maries/images/skala-maries2.webp",
+      "destinations/thassos/beaches/skala-maries/images/skala-maries3.webp",
+      "destinations/thassos/beaches/skala-maries/images/skala-maries4.webp",
+      "destinations/thassos/beaches/skala-maries/images/skala-maries5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/skala-maries/images/",
+    "suggested_asset_names": [
+      "skala-maries1.webp",
+      "skala-maries2.webp",
+      "skala-maries3.webp",
+      "skala-maries4.webp",
+      "skala-maries5.webp"
+    ],
+    "image_policy": "Five user-selected local WebP image paths have been assigned based on filenames visible in the supplied folder screenshot. Before publication, confirm that every photo depicts the CENTRAL Skala Maries harbour beach (Limanaki), not the distinct Platanes or Atspas bays, and verify ownership, commercial publication and transfer rights, provenance and any required attribution. WebP binaries were not provided in this JSON and have not been independently inspected.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_gothassos_village",
+      "kind": "local_tourism_directory",
+      "title": "Go Thassos — Skala Maries, three-bay distinction",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-maries",
+      "detail": "Identifies Platanes as the northern bay, central harbour Skala Maries Beach as the second bay, and Atspas as the third bay. Critical to avoid duplicate beach records.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_gothassos_beach",
+      "kind": "local_tourism_directory",
+      "title": "Go Thassos — Skala Maries Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-maries-beach",
+      "detail": "Lists WC, showers, food/drink, loungers and parking as directory features, but does not prove availability of each during the current season. Conflicts with Nikana guide.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana_beach",
+      "kind": "travel_guide",
+      "title": "Nikana — Skala Maries city beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1905/skala-maries-city-beach",
+      "detail": "Describes the SMALL central sandy cove, gradual entry with rocks, local shade and tavernas; reports no showers/changing cabins.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana_ro",
+      "kind": "travel_guide",
+      "title": "Nikana Romania — Plaja orășănească Skala Maries",
+      "url": "https://ns1.nikana.gr/ro/ghid/thassos/plaje/1905/plaja-orasaneasca-skala-maries",
+      "detail": "Romanian version notes the central village beach is small, stony in parts, generally calm, and separate from Sunset/Platanes and Atspas. Last reported update April 2026.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_mapcarta",
+      "kind": "open_geographic_reference",
+      "title": "Mapcarta / OpenStreetMap — Σκάλα Μαριών beach",
+      "url": "https://mapcarta.com/W1082546627",
+      "detail": "OpenStreetMap way 1082546627, representative centre approx. 40.64264, 24.51552. NOT independently verified with Google Maps; used only as research coordinate candidate.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_beachatlas",
+      "kind": "travel_guide",
+      "title": "BeachAtlas — Skala Maries Beach",
+      "url": "https://www.beachatlas.com/skala-maries",
+      "detail": "Discusses harbour-centre Limanaki with sandy/rocky entry and nearby tavernas; some content describes all three village bays together, so the central-only scope must be enforced.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_commons",
+      "kind": "media_catalog",
+      "title": "Wikimedia Commons — Beaches of Thasos gallery",
+      "url": "https://commons.wikimedia.org/wiki/Category:Beaches_of_Thasos",
+      "detail": "Lists a file named Skala Marion, Greece - panoramio (1).jpg. Individual file author, rights and depiction not yet independently verified.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_discover_thassos",
+      "kind": "local_tourism_guide",
+      "title": "Discover Thassos — Skala Maries Beach (Limanaki)",
+      "url": "https://www.discover-thassos.com/listing/skala-maries-beach-thassos/",
+      "detail": "Supports the central beach name Limanaki and distinguishes neighbouring Atspas and Platanes. Page contains an apparently misplaced Limenas information widget; those unrelated directions are intentionally not reused.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_google_maps_confirmation_and_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Choose central beach pin in Google Maps; replace null latitude/longitude and confirm public shoreline access",
+      "Five WebP filenames are assigned from the user screenshot; verify all images show central Skala Maries harbour beach (Limanaki), NOT Platanes or Atspas, and confirm original files, provenance, commercial reuse/transfer rights and attribution.",
+      "Re-check seasonal sunbeds, toilets, showers and beach service operators",
+      "Check safe swimming zone adjacent to fishing harbour and any current local signage",
+      "Verify parking access and public transport seasonal changes",
+      "Review six-language copy before publishing"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text supplied; five local photo paths are referenced in media but the actual WebP files, geographic match and commercial publication/transfer rights have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP image paths were assigned from filenames shown in the user-provided screenshot. The WebP binaries are not embedded in this JSON; exact beach identity and image use rights remain unverified."
+  }
+}

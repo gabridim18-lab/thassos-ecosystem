@@ -1,0 +1,410 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-fari",
+  "slug": "fari",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Φαρί",
+    "international_name": "Fari Beach",
+    "aliases": [
+      "Fari",
+      "Fari Beach Thassos",
+      "Fary Beach",
+      "Fari Bay",
+      "Παραλία Φαρί",
+      "Φαρί Θάσου",
+      "Fari Skala Maries"
+    ],
+    "entity_scope": "Separate natural beach and small adjoining shoreline recesses east/southeast of Atspas, near Skala Maries on the southwestern coast of Thassos. Record describes the Fari beach area only; nearby fenced Fari pottery archaeological site is an associated inland/coastal landmark, not part of the bathing beach.",
+    "deduplication_warning": "Do not merge with Atspas (Sugar Beach), Skala Maries central/Limanaki, Platanes, or the archaeological pottery workshop at Fari. Some first-hand descriptions mention two contiguous visible/partly hidden stretches at Fari; treat them as one local beach entity unless georeferenced independent names and boundaries are confirmed. Do not mistake Faros or similarly named beaches elsewhere in Greece for Fari Thassos."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southwest / south-facing coves near Skala Maries",
+    "settlements": [
+      "Skala Maries (Skala Marion)",
+      "Limenaria (regional approach)"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fari%20Beach%2C%20Skala%20Maries%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": "s_maps_search",
+    "coordinate_type": "name_based_map_search_unverified_pin",
+    "coordinate_review_status": "BeachAtlas independently publishes 40.636344,24.523786 for Fari Beach, but this is not a verified Google Maps beach pin or safe parking/access point. Coordinates intentionally null until checked against a map and coastline; do not assign BeachAtlas data to Google Maps provenance.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "sand_mixed_with_pebbles_and_small_stones; sections_differ",
+    "seabed_near_shore": "mixed_stones_rocks_and_sandy_patches; large_submerged_rocks_reported",
+    "water_entry": "uneven_in_places_due_to_rocks; choose_clear_path_in_good_visibility",
+    "nearshore_depth": "variable; some_sections_deepen_faster_than_gentle_family_beaches",
+    "water_clarity": "typically_clear_turquoise_in_calm_weather",
+    "wave_conditions": "wind_and_weather_dependent; no_verified_year_round_shelter_or_wave_height",
+    "exposure": "natural_coastal_cove_with_rocky_headlands",
+    "natural_shade_on_sand": "very_limited; scattered_pines_and_trees_not_reliable_for_shade",
+    "beach_length_m": null,
+    "length_note": "Published descriptions do not establish a reliable measured length or a consistent boundary between the small beach segments; no precise figure recorded.",
+    "backdrop": "rocky coastal slopes, low green vegetation, pines and undeveloped headlands",
+    "shoreline_type": "natural_unserviced_beach_with_rocky_edges_and_minor_recesses"
+  },
+  "visitor_experience": {
+    "organization": "unorganized_natural_beach_no_confirmed_permanent_beach_services",
+    "suitable_for": [
+      "couples",
+      "independent_explorers",
+      "quiet_beach_days",
+      "snorkeling_in_calm_conditions",
+      "nature_photography",
+      "visitors_comfortable_with_rough_tracks_and_short_walking_access"
+    ],
+    "notable_for": [
+      "undeveloped_setting",
+      "clear_water",
+      "stony_sea_entry",
+      "snorkeling_rocks",
+      "quiet_relative_to_serviced_beaches",
+      "limited_shade",
+      "near_fari_ancient_pottery_site"
+    ],
+    "activities_possible": [
+      "swimming_with_care",
+      "snorkeling_in_calm_conditions",
+      "nature_photography",
+      "relaxed_beach_visit",
+      "coastal_sightseeing"
+    ],
+    "estimated_crowd_peak": "often_quieter_than_organized_beaches_but_no_guaranteed_seclusion_in_high_summer",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Access requires care on an uneven dirt road and/or foot approach; underwater and shore rocks make entry uneven. Water depth, wind, currents and boat activity may change. No verified lifeguard service; children need close supervision. Do not scramble across unstable cliff edges or enter the fenced archaeological area. Keep away from underwater rocks in rough sea."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": false,
+      "seasonal": null
+    },
+    "umbrellas": {
+      "available_in_some_sections": false,
+      "seasonal": null
+    },
+    "toilets": {
+      "available_in_some_sections": false,
+      "note": "Local travel guides describe Fari as unserviced; no independently confirmed public toilet on the beach. Seasonal changes require site check."
+    },
+    "showers": {
+      "available_in_some_sections": false,
+      "note": "No shower service reported at this beach; verify on-site if this is critical."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": false,
+      "requires_site_check": true
+    },
+    "beach_bars": false,
+    "tavernas_restaurants_nearby": false,
+    "cafes_nearby": false,
+    "parking_nearby": null,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": false,
+    "volleyball": false,
+    "accommodation_nearby": null,
+    "lifeguard": null,
+    "lifeguard_note": "No reliable confirmation of staffed lifeguard cover; never imply supervised bathing.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Uneven dirt-road and pedestrian access are reported; do not promise a continuous accessible route or specialized beach equipment.",
+    "free_unserviced_space": true,
+    "facilities_scope": "2026 local coverage and older guides describe an unorganized natural shore with no on-beach food, rentals or sanitary facilities. Do not transpose services from nearby Atspas or Skala Maries to Fari. Operation, parking and entry conditions must be reconfirmed for the actual travel date."
+  },
+  "access_and_cost": {
+    "road_access": "turn_from_island_coastal_road_near_archaeological_site_fari_sign; unpaved_track_with_condition_depending_on_weather; walk_last_section",
+    "public_transport": "no_confirmed_beachfront_bus_stop; regional_bus_to_nearby_settlement_or_main_road_only_with_last_section_on_foot",
+    "parking_type": "informal_stop_or_parking_near_access_track_reported; exact_legality_capacity_and_safe_entrance_unverified",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Beach is described as unorganized with no documented lounger operator; there is no meaningful current lounger price to publish.",
+    "best_arrival_advice": "Use the Fari archaeological-site road sign only as an orientation landmark, not a guarantee of safe vehicle access. Inspect unpaved route and rental-car restrictions; park only where legal and safe, then walk in secure footwear. Pack drinking water, food, a sun umbrella, sunscreen, rubbish bag and water shoes. Check weather and wave conditions and leave the cove before dark if unsure of the return path.",
+    "distance_from_limenas_km": null,
+    "distance_note": "One local guide gives about 32 km from Limenas, but no routing reference or fixed parking point was verified. Use navigation to a verified public access point rather than asserting a definitive route distance."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Fari Beach (Φαρί)",
+      "tagline": "Un țărm sălbatic cu apă turcoaz, stânci și liniște lângă Skala Maries",
+      "summary": "Fari este o plajă naturală din sud-vestul insulei Thassos, aproape de Skala Maries și diferită de Atspas. Nisipul amestecat cu pietricele, stâncile din apă și accesul pe drum neasfaltat îi păstrează atmosfera retrasă; nu există facilități de plajă pe care să te poți baza.",
+      "description": "La mică distanță de agitația stațiunii Skala Maries, Fari Beach dezvăluie o altă față a insulei Thassos: o coastă aproape neamenajată, mărginită de versanți pietroși și vegetație mediteraneană. Aici nu vii pentru muzică, rânduri de șezlonguri sau restaurante la doi pași, ci pentru culoarea apei, spațiul deschis și o zi petrecută în ritmul naturii. Plaja este distinctă de golful Atspas și de plaja centrală din Skala Maries. Pe țărm se întâlnesc nisipul, pietricelele și pietrele, iar sub apă apar bolovani și porțiuni stâncoase. În zilele calme, transparența mării permite observarea fundului și face interesant snorkelingul de-a lungul marginilor golfului, dar intrarea nu este peste tot lină, iar adâncimea poate varia. Umbra naturală este puțină, chiar dacă pe pante există pini și alte plante. Nu sunt confirmate servicii permanente pentru turiști, astfel că locul se descoperă cel mai bine cu propriul echipament. Accesul este parte din experiență: din șoseaua insulei se intră pe o cale neasfaltată, semnalată în apropierea zonei arheologice Fari, apoi se continuă pe jos, în funcție de starea drumului și de locul unde poate fi lăsată mașina. În apropiere se află urmele unui vechi atelier de ceramică, dar situl arheologic este un obiectiv separat, cu propriile reguli de protecție. Fari poate părea foarte liniștită în comparație cu plajele organizate, fără ca acest lucru să însemne că vei fi singur în mijlocul verii.",
+      "practical_tips": "Nu presupune că un autoturism obișnuit poate coborî fără probleme pe drumul de pământ: verifică suprafața, condițiile după ploaie și regulile mașinii închiriate. Lasă vehiculul numai într-un loc permis și sigur, apoi mergi pe jos cu încălțăminte stabilă. Ia apă suficientă, gustări, umbrelă, cremă solară și un sac pentru deșeuri; la Fari nu te poți baza pe toalete, dușuri sau puncte de vânzare. Încălțămintea de apă ajută la trecerea peste pietrele și bolovanii de la intrarea în mare. Pentru snorkeling alege o zi liniștită și evită stâncile când sunt valuri. Supraveghează atent copiii; nu există salvamar confirmat. Nu intra în zona arheologică împrejmuită și nu încerca scurtături periculoase pe versanți.",
+      "highlights": [
+        "Golf natural aproape de Skala Maries, separat de Atspas",
+        "Nisip și pietricele, cu bolovani în apropierea țărmului",
+        "Apă limpede și snorkeling în condiții calme",
+        "Peisaj stâncos cu pini și foarte puțină umbră pe plajă",
+        "Acces pe drum neasfaltat; fără facilități confirmate"
+      ],
+      "seo_title": "Fari Beach Thassos – acces, snorkeling și sfaturi practice",
+      "seo_description": "Explorează Fari Beach lângă Skala Maries, Thassos: plajă sălbatică, apă turcoaz, pietre în mare, acces pe drum de pământ și sfaturi utile.",
+      "social_caption": "🌊 Fari Beach, Thassos: un golf sălbatic aproape de Skala Maries, cu apă limpede și stânci spectaculoase. 🥾 Adu încălțări de apă, provizii și umbrelă — aici natura este atracția principală. 🇬🇷 #Thassos #FariBeach #ExploreGreece",
+      "photo_alt": "Plaja Fari de lângă Skala Maries, Thassos, cu țărm deschis la culoare, mare turcoaz și versanți stâncoși cu vegetație."
+    },
+    "en": {
+      "name": "Fari Beach",
+      "tagline": "A wild turquoise cove with rocky scenery near Skala Maries",
+      "summary": "Fari is an undeveloped beach on the southwestern coast of Thassos, near Skala Maries but separate from Atspas. Its mix of sand and pebbles, submerged rocks and unpaved approach suit prepared visitors looking for scenery, quiet and careful snorkelling rather than beach services.",
+      "description": "A short distance from the resort setting of Skala Maries, Fari Beach reveals a less developed stretch of the Thassos coastline. Rocky slopes, sparse pines and Mediterranean vegetation frame a pale shore where the sea often looks strikingly clear in calm weather. The appeal lies in the landscape and a slower day by the water, not in music, beach bars or rows of rental loungers. Fari is its own coastal spot, distinct from nearby Atspas and the central beach of Skala Maries. The shore has sand mixed with pebbles and stones, while large rocks and uneven patches continue below the surface. When visibility and sea conditions are good, these rocky margins can be rewarding for careful snorkelling. Swimming requires more attention than on a broad, gently shelving sandy beach: footing and depth vary, and rougher conditions can make the rocks hazardous. Although trees grow on the surrounding slopes, dependable shade on the actual beach is scarce. Local guides describe it as unorganised, with no reliable food, toilets, showers or lounger rental on site. Reaching Fari also takes some planning. Travellers follow an unpaved side road near the sign for the Fari archaeological area and may need to leave their vehicle uphill and complete the approach on foot. Nearby are the remains of an ancient pottery workshop, a separate protected heritage place rather than part of the bathing area. Fari is often quieter than the major serviced beaches, but its peaceful reputation should not be taken as a promise of solitude in peak season.",
+      "practical_tips": "Check the dirt-road surface and any restrictions on your rental vehicle before driving down; conditions can change after rain. Park only where it is safe and permitted, and use sturdy shoes for the remaining walk. Bring ample drinking water, snacks, sunscreen, a personal umbrella and a bag for your rubbish because no dependable on-beach services are confirmed. Water shoes are useful for pebbles and underwater boulders. Snorkel only in calm, clear conditions and avoid rocky margins when waves rise. Keep children close, and do not assume a lifeguard is present. Respect fencing and signage around the nearby archaeological area; do not use cliffside shortcuts to reach the shore.",
+      "highlights": [
+        "Unserviced natural beach near Skala Maries",
+        "Mixed sand and pebbles with rocks offshore",
+        "Clear turquoise water for calm-day snorkelling",
+        "Rocky slopes and pines with limited beach shade",
+        "Dirt-track and walking access requiring preparation"
+      ],
+      "seo_title": "Fari Beach Thassos – access, snorkelling & practical guide",
+      "seo_description": "Discover Fari Beach near Skala Maries, Thassos: a wild cove with clear water, rocky swimming entry, unpaved access and tips for an unserviced beach.",
+      "social_caption": "🌊 Fari Beach, Thassos: a wild little escape close to Skala Maries, with transparent water and beautiful rocky shores. 🥾 Pack water shoes, supplies and your own shade. 🇬🇷 #Thassos #FariBeach #GreekIslands",
+      "photo_alt": "Fari Beach near Skala Maries on Thassos, showing a pale sand-and-pebble shore, turquoise sea and vegetation-covered rocky slopes."
+    },
+    "el": {
+      "name": "Παραλία Φαρί",
+      "tagline": "Άγρια ακτή με γαλαζοπράσινα νερά και βραχώδες τοπίο κοντά στη Σκάλα Μαριών",
+      "summary": "Το Φαρί είναι μια φυσική, μη οργανωμένη παραλία στη νοτιοδυτική Θάσο, κοντά στη Σκάλα Μαριών αλλά ξεχωριστή από τον Ατσπά. Η άμμος με βότσαλα, οι βράχοι μέσα στη θάλασσα και η πρόσβαση από χωματόδρομο ταιριάζουν σε επισκέπτες που προτιμούν την ησυχία και το τοπίο από τις οργανωμένες παροχές.",
+      "description": "Λίγο έξω από τη Σκάλα Μαριών, η παραλία Φαρί αποκαλύπτει μια πιο ανεπιτήδευτη πλευρά της Θάσου. Βραχώδεις πλαγιές, χαμηλή μεσογειακή βλάστηση και διάσπαρτα πεύκα πλαισιώνουν μια ανοιχτόχρωμη ακτή, όπου το νερό παίρνει έντονες γαλαζοπράσινες αποχρώσεις όταν η θάλασσα είναι ήρεμη. Εδώ ο επισκέπτης έρχεται κυρίως για το φυσικό τοπίο και τις ήσυχες στιγμές, όχι για μουσική, beach bar ή σειρές με ξαπλώστρες. Το Φαρί αποτελεί ξεχωριστό παράκτιο σημείο από τον κοντινό Ατσπά και την κεντρική παραλία της Σκάλας Μαριών. Στην ακτή υπάρχουν άμμος, βότσαλα και πέτρες, ενώ στο νερό συναντώνται μεγάλοι βράχοι και ανώμαλος βυθός. Όταν υπάρχει καλή ορατότητα και ήπιος κυματισμός, οι βραχώδεις άκρες προσφέρονται για προσεκτική εξερεύνηση με μάσκα. Η είσοδος όμως δεν είναι παντού ομαλή και το βάθος διαφέρει, οπότε χρειάζεται μεγαλύτερη προσοχή απ’ ό,τι σε μια εκτεταμένη ρηχή αμμουδιά. Παρά τα δέντρα στις πλαγιές, η φυσική σκιά επάνω στην παραλία είναι περιορισμένη. Οι τοπικοί οδηγοί περιγράφουν την ακτή ως μη οργανωμένη, χωρίς αξιόπιστες παροχές φαγητού, τουαλέτας, ντους ή ενοικίασης εξοπλισμού. Η πρόσβαση γίνεται από χωματόδρομο κοντά στη σήμανση προς τον αρχαιολογικό χώρο Φαρί και ενδέχεται να απαιτεί περπάτημα μετά τη στάθμευση. Στην περιοχή υπάρχουν κατάλοιπα αρχαίου κεραμικού εργαστηρίου, το οποίο αποτελεί ξεχωριστό προστατευόμενο μνημείο και όχι τμήμα της παραλίας. Το Φαρί είναι συνήθως πιο ήσυχο από τις οργανωμένες ακτές, χωρίς όμως να αποκλείεται η πολυκοσμία το καλοκαίρι.",
+      "practical_tips": "Ελέγξτε την κατάσταση του χωματόδρομου και τους όρους του ενοικιαζόμενου αυτοκινήτου πριν προχωρήσετε, ιδιαίτερα μετά από βροχή. Σταθμεύστε μόνο σε ασφαλές και επιτρεπόμενο σημείο και χρησιμοποιήστε σταθερά παπούτσια για το περπάτημα. Πάρτε αρκετό νερό, φαγητό, αντηλιακό, δική σας ομπρέλα και σακούλα απορριμμάτων, καθώς δεν υπάρχουν επιβεβαιωμένες υπηρεσίες στην ακτή. Τα παπούτσια θαλάσσης βοηθούν στα βότσαλα και τους υποθαλάσσιους βράχους. Για μάσκα επιλέξτε ημέρα με ήρεμη και καθαρή θάλασσα. Προσέχετε ιδιαίτερα τα παιδιά και μην θεωρείτε δεδομένη την παρουσία ναυαγοσώστη. Σεβαστείτε την περίφραξη του αρχαιολογικού χώρου και αποφύγετε επικίνδυνα περάσματα από βράχια.",
+      "highlights": [
+        "Μη οργανωμένη φυσική ακτή κοντά στη Σκάλα Μαριών",
+        "Άμμος και βότσαλα με βράχους μέσα στο νερό",
+        "Καθαρά γαλαζοπράσινα νερά για μάσκα με άπνοια",
+        "Βραχώδες τοπίο και λίγη φυσική σκιά",
+        "Πρόσβαση από χωματόδρομο και πεζή διαδρομή"
+      ],
+      "seo_title": "Παραλία Φαρί Θάσος – πρόσβαση, βυθός και συμβουλές",
+      "seo_description": "Ανακαλύψτε το Φαρί κοντά στη Σκάλα Μαριών στη Θάσο: άγρια παραλία, καθαρά νερά, βράχια, χωματόδρομος και συμβουλές για επίσκεψη.",
+      "social_caption": "🌊 Φαρί, Θάσος: μια άγρια παραλία κοντά στη Σκάλα Μαριών, με διάφανα νερά και βραχώδες τοπίο. 🥾 Φέρτε παπούτσια θαλάσσης, νερό και δική σας σκιά. 🇬🇷 #Θάσος #Φαρί #Ελλάδα",
+      "photo_alt": "Η παραλία Φαρί κοντά στη Σκάλα Μαριών της Θάσου, με ανοιχτόχρωμη ακτή, γαλαζοπράσινο νερό και βραχώδεις πλαγιές με βλάστηση."
+    },
+    "de": {
+      "name": "Fari Beach (Paralia Fari)",
+      "tagline": "Eine wilde türkisfarbene Bucht mit Felsen nahe Skala Maries",
+      "summary": "Fari ist ein naturbelassener, unbewirtschafteter Strand im Südwesten von Thassos, nahe Skala Maries, aber getrennt von Atspas. Sand und Kies, Felsen im Wasser und die Anfahrt über einen unbefestigten Weg machen ihn zu einem Ziel für gut vorbereitete Ruhesuchende.",
+      "description": "Nur eine kurze Strecke von Skala Maries entfernt zeigt Fari Beach eine ursprünglichere Seite der Küste von Thassos. Felsige Hänge, niedrige mediterrane Vegetation und einzelne Kiefern umrahmen ein helles Ufer, vor dem das Meer bei ruhigem Wetter türkis leuchtet. Wer hierherkommt, sucht vor allem Landschaft, Wasser und eine stille Pause statt lauter Musik, Strandbars oder dicht stehender Liegen. Fari ist eine eigene Küstenbucht und nicht mit dem benachbarten Atspas oder dem Ortsstrand von Skala Maries gleichzusetzen. Der Untergrund besteht je nach Stelle aus Sand, Kieseln und Steinen. Größere Felsen reichen bis in die Flachwasserzone, und der Meeresboden ist nicht überall eben. Bei guter Sicht und ruhigem Wasser lassen sich die felsigen Ränder vorsichtig mit Schnorchel und Maske erkunden. Der Einstieg ist jedoch weniger bequem als an einem flach abfallenden Sandstrand; Tiefe und Trittsicherheit können sich auf wenigen Metern ändern. Obwohl auf den Hängen Bäume wachsen, ist natürlicher Schatten direkt auf dem Strand knapp. Örtliche Reiseführer beschreiben Fari als nicht organisiert, ohne verlässlich verfügbare Gastronomie, Toiletten, Duschen oder Liegenverleih. Die Zufahrt zweigt im Bereich der Beschilderung zur archäologischen Stätte Fari von der Inselstraße auf einen Feldweg ab. Je nach Zustand des Weges ist ein Stück zu Fuß zurückzulegen. In der Nähe liegen Überreste einer antiken Töpferei; dieser geschützte Fundort ist eine eigenständige Sehenswürdigkeit, kein Teil der Badefläche. Häufig wirkt Fari ruhiger als die erschlossenen Strände, doch absolute Einsamkeit ist im Hochsommer nicht garantiert.",
+      "practical_tips": "Prüfen Sie den Zustand der Schotter- bzw. Erdstraße und die Bedingungen Ihres Mietwagens, bevor Sie weiterfahren. Nach Regen kann die Strecke schwieriger sein. Parken Sie ausschließlich sicher und erlaubt und nehmen Sie feste Schuhe für den Fußweg mit. Trinkwasser, Verpflegung, Sonnenschutz, eigener Schirm und ein Müllbeutel gehören ins Gepäck, da es keine bestätigten Strandservices gibt. Badeschuhe erleichtern den Einstieg zwischen Kieseln und Felsen. Schnorcheln empfiehlt sich nur bei ruhigem Wasser und guter Sicht; bei Wellen Abstand zu Felsen halten. Kinder müssen aufmerksam beaufsichtigt werden, ein Rettungsschwimmer ist nicht bestätigt. Absperrungen an der archäologischen Stätte beachten und keine riskanten Abkürzungen über Felskanten nutzen.",
+      "highlights": [
+        "Naturstrand abseits der Strandbars von Skala Maries",
+        "Sand und Kies mit größeren Felsen im Wasser",
+        "Klares türkisfarbenes Meer zum Schnorcheln bei ruhiger See",
+        "Felsige Landschaft mit begrenztem Schatten",
+        "Unbefestigte Zufahrt und Fußweg ohne gesicherte Infrastruktur"
+      ],
+      "seo_title": "Fari Beach Thassos – Anfahrt, Schnorcheln und Strandtipps",
+      "seo_description": "Fari Beach bei Skala Maries auf Thassos: wilder Naturstrand, türkisfarbenes Wasser, Felsen beim Einstieg, Schotterweg und praktische Tipps.",
+      "social_caption": "🌊 Fari Beach auf Thassos: naturbelassene Küste nahe Skala Maries, kristallklares Wasser und eindrucksvolle Felsen. 🥾 Badeschuhe, Proviant und eigenen Schirm mitnehmen! 🇬🇷 #Thassos #FariBeach #Griechenland",
+      "photo_alt": "Fari Beach bei Skala Maries auf Thassos mit hellem Sand-Kies-Ufer, türkisfarbenem Meer und bewachsenen felsigen Hängen."
+    },
+    "bg": {
+      "name": "Плаж Фари (Fari Beach)",
+      "tagline": "Див тюркоазен залив със скали близо до Скала Мариес",
+      "summary": "Фари е естествен, неорганизиран плаж в югозападната част на Тасос, близо до Скала Мариес, но отделен от Ацпас. Пясъкът, камъчетата, подводните скали и черният път го правят подходящ за добре подготвени посетители, които търсят спокойствие и природа.",
+      "description": "Недалеч от Скала Мариес плаж Фари показва по-дивата страна на крайбрежието на Тасос. Каменисти склонове, ниска средиземноморска растителност и отделни борове обграждат светлата ивица край морето, което в спокойни дни блести в тюркоазени нюанси. Тук хората идват заради гледките, чистата вода и по-тихата атмосфера, а не заради музика, плажни барове или редици шезлонги. Фари е самостоятелно крайбрежно място и не трябва да се смесва със съседния Ацпас или централния плаж на Скала Мариес. По брега има пясък, дребни камъчета и камъни, а под водата се срещат големи скали и неравни участъци. Когато морето е тихо и видимостта е добра, скалистите краища са приятни за внимателно плуване с маска. Влизането във водата обаче не е еднакво лесно навсякъде, а дълбочината се променя, затова мястото изисква повече предпазливост от широките плитки пясъчни плажове. Макар по склоновете да растат дървета, естествената сянка върху самата плажна ивица е малко. Местните пътеводители описват Фари като неорганизиран плаж без надеждно налични заведения, тоалетни, душове или шезлонги под наем. Достига се по черен път в района на табелата за археологическия обект Фари, като може да се наложи последната част да се извърви пеша. В близост има останки от древна керамична работилница, но тя е отделен защитен обект, а не част от плажа. Фари често е по-спокоен от популярните организирани плажове, без това да гарантира уединение в пиковия сезон.",
+      "practical_tips": "Преди да слезете по черния път, проверете настилката и условията на автомобила под наем, особено след дъжд. Паркирайте само на безопасно и позволено място и носете стабилни обувки за пешеходната част. Вземете достатъчно вода, храна, слънцезащита, собствен чадър и торба за отпадъци, защото на плажа няма потвърдени услуги. Обувките за вода са полезни за камъчетата и подводните скали. За гмуркане с маска изберете тихо и чисто море; при вълни стойте далеч от скалите. Наблюдавайте внимателно децата и не разчитайте на спасител. Спазвайте огражденията на археологическия обект и не минавайте по опасни скални преки пътища.",
+      "highlights": [
+        "Естествен неорганизиран плаж близо до Скала Мариес",
+        "Пясък и камъчета с големи скали във водата",
+        "Тюркоазено море за плуване с маска в тихи дни",
+        "Красиви склонове и малко сянка върху плажа",
+        "Достъп по черен път и пеша без гарантирани удобства"
+      ],
+      "seo_title": "Плаж Фари, Тасос – достъп, гмуркане и съвети",
+      "seo_description": "Открийте плаж Фари до Скала Мариес, Тасос: див бряг, тюркоазена вода, камъни в морето, достъп по черен път и полезни съвети.",
+      "social_caption": "🌊 Фари, Тасос: див плаж близо до Скала Мариес, с прозрачна вода и скалисти гледки. 🥾 Носете обувки за вода, провизии и собствен чадър. 🇬🇷 #Тасос #Фари #Гърция",
+      "photo_alt": "Плаж Фари край Скала Мариес на Тасос със светла ивица от пясък и камъчета, тюркоазена вода и скалисти зелени склонове."
+    },
+    "sr": {
+      "name": "Plaža Fari (Fari Beach)",
+      "tagline": "Divlja tirkizna uvala sa stenama blizu Skala Marijesa",
+      "summary": "Fari je prirodna, neuređena plaža na jugozapadu Tasosa, blizu Skala Marijesa, ali odvojena od Atspasa. Mešavina peska i oblutaka, stene u vodi i prilaz zemljanim putem odgovaraju spremnim putnicima koji više vole mir i prirodu nego uređene sadržaje.",
+      "description": "Nadomak Skala Marijesa, plaža Fari otkriva manje izgrađenu stranu obale Tasosa. Kamenite padine, nisko mediteransko rastinje i poneki bor okružuju svetlu obalu uz more koje u mirnim danima dobija izražene tirkizne nijanse. Ovde se dolazi zbog prirode, bistre vode i sporijeg ritma, a ne zbog muzike, barova na plaži ili redova ležaljki. Fari je zasebno obalno mesto i ne treba ga poistovećivati sa obližnjim Atspasom ili gradskom plažom Skala Marijesa. Na obali se smenjuju pesak, sitni obluci i kamenje, dok u vodi ima krupnih stena i neravnih delova dna. Kada su more i vidljivost dobri, stenovite ivice mogu biti zanimljive za pažljivo ronjenje s maskom. Ipak, ulazak u vodu nije podjednako lak na svakom mestu, a dubina može da se promeni već na maloj udaljenosti, pa je potreban veći oprez nego na dugim plitkim peščanim plažama. Iako na okolnim padinama raste drveće, prirodnog hlada na samoj obali ima malo. Lokalni vodiči opisuju Fari kao neuređenu plažu bez pouzdano dostupnih restorana, toaleta, tuševa ili iznajmljivanja ležaljki. Prilaz vodi zemljanim putem blizu putokaza za arheološko nalazište Fari, a završni deo može zahtevati pešačenje, u zavisnosti od stanja puta. U blizini se nalaze ostaci antičke grnčarske radionice, ali to je posebno zaštićeno kulturno dobro, a ne deo prostora za kupanje. Fari često deluje mirnije od poznatih uređenih plaža, mada u špicu sezone nema garancije da ćete biti sami.",
+      "practical_tips": "Pre silaska proverite stanje zemljanog puta i pravila za iznajmljeni automobil, posebno posle kiše. Parkirajte samo gde je dozvoljeno i bezbedno, a za hodanje ponesite stabilnu obuću. Potrebni su voda za piće, hrana, zaštita od sunca, sopstveni suncobran i kesa za otpatke, jer na plaži nema potvrđenih usluga. Obuća za vodu olakšava ulazak preko kamenčića i podvodnih stena. Za ronjenje s maskom birajte mirno more i dobru vidljivost; pri talasima se držite dalje od stena. Pazite na decu i ne računajte na prisustvo spasioca. Poštujte ogradu arheološkog nalazišta i ne birajte rizične prečice preko litica.",
+      "highlights": [
+        "Prirodna neuređena plaža blizu Skala Marijesa",
+        "Pesak i obluci sa većim stenama u vodi",
+        "Bistra tirkizna voda za masku kada je mirno",
+        "Stenovito okruženje i malo prirodnog hlada",
+        "Zemljani prilaz i pešačenje bez garantovanih usluga"
+      ],
+      "seo_title": "Plaža Fari Tasos – prilaz, ronjenje i praktični saveti",
+      "seo_description": "Otkrijte plažu Fari blizu Skala Marijesa na Tasosu: divlja obala, tirkizna voda, kamenito dno, zemljani prilaz i saveti za posetu.",
+      "social_caption": "🌊 Fari na Tasosu: divlja plaža kod Skala Marijesa, sa bistrom vodom i upečatljivim stenama. 🥾 Ponesite obuću za vodu, vodu i sopstveni suncobran. 🇬🇷 #Tasos #FariBeach #Grčka",
+      "photo_alt": "Plaža Fari blizu Skala Marijesa na Tasosu sa svetlom obalom od peska i oblutaka, tirkiznim morem i stenovitim zelenim padinama."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/fari/images/fari1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/fari/images/fari2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/fari/images/fari3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/fari/images/fari4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/fari/images/fari5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/fari/images/",
+    "suggested_asset_names": [
+      "fari1.webp",
+      "fari2.webp",
+      "fari3.webp",
+      "fari4.webp",
+      "fari5.webp"
+    ],
+    "image_policy": "Use only images supplied or approved by the project owner, with verified rights for commercial publication. Image 1 is the cover; images 2–5 appear in numeric gallery order. Verify that each image depicts Fari Beach on Thassos.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_discover_thassos",
+      "kind": "local_travel_guide",
+      "title": "Discover Thassos — Fari Beach",
+      "url": "https://www.discover-thassos.com/listing/fari-beach-thassos/",
+      "detail": "Distinct Fari near Skala Maries and Atspas, sandy shore with rocks in water, snorkelling, challenging access, very limited shade, bring water and supplies.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_thassos_view",
+      "kind": "local_travel_guide",
+      "title": "Thassos View — Φαρί",
+      "url": "https://www.thassos-view.com/el/perioxes/paralies/fari",
+      "detail": "Greek local name, distinct unorganised beach near Skala Maries, rocky slopes and pines, hard access and scenic water.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_staythassos_2026",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Best Quiet Beaches in Thassos, 23 May 2026",
+      "url": "https://staythassos.gr/best-quiet-beaches-in-thassos/",
+      "detail": "Describes Fari as unorganised, rocky/sandy-pebbly, clear water, unpaved approach from Fari Archaeological Site sign and limited shade.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_potos_car",
+      "kind": "local_travel_guide",
+      "title": "Potos Car Rentals — Quiet Beaches of Thassos",
+      "url": "https://www.rentacarpotos.gr/blog/top-5-secluded-beaches-in-thassos/",
+      "detail": "Independent local guide on dirt-road signposted approach, need to walk/assess road, no sunbeds or drink service, snorkelling.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beach_atlas",
+      "kind": "beach_directory",
+      "title": "BeachAtlas — Fari Beach",
+      "url": "https://www.beachatlas.com/fari",
+      "detail": "Independent directory placing beach near Skala Maries at 40.636344/24.523786, with rocky water entry, limited shade and uncertain walking approach; coordinates not Google verified.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beach_searcher",
+      "kind": "beach_directory",
+      "title": "BeachSearcher — Fari Beach, Thassos",
+      "url": "https://beachsearcher.com/ro/beach/300207120/fari-beach",
+      "detail": "Photographs credited to Google contributors, natural beach with mixed surface and location near Skala Maries; no photo reuse rights inferred.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_eagme",
+      "kind": "public_geotourism_agency",
+      "title": "Hellenic Survey of Geology and Mineral Exploration (EAGME) — Skala Marion–Alyki geotrail",
+      "url": "https://geotreasures.eagme.gr/en/skala-marion-alyki",
+      "detail": "Official geological tourism agency identifies road sign for Fari archaeological site approx 1 km east of Skala Marion and a fenced archaeological area near the sea; not proof of car park or direct beach road.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_golden_greece",
+      "kind": "archaeological_guide",
+      "title": "Golden Greece — Ancient Pottery of Fary",
+      "url": "https://golden-greece.gr/en/archaeological/egeo/thasos/arxaio-ageioplasteio-fari",
+      "detail": "Describes ancient pottery workshop in Fari near Skala Maries; cultural landmark should not be conflated with bathing beach.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_firsthand_two_sections",
+      "kind": "community_firsthand",
+      "title": "Forum Thassos — Fari Beach discussion (2020)",
+      "url": "https://forum.forumthassos.ro/viewtopic.php?p=81488&t=1602",
+      "detail": "First-hand account describes two adjoining visible/hidden portions of Fari; informal evidence only, no independent names/boundaries.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_official",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — 2026 award listings/maps",
+      "url": "https://www.blueflag.gr/en/node/4058",
+      "detail": "Official 2026 programme listing of awarded coastlines: no verified Fari-specific award. Absence of listing is not a water-quality classification.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_list",
+      "kind": "award_list_reporting",
+      "title": "2026 Blue Flag list — regional unit Thassos",
+      "url": "https://www.keeptalkinggreece.com/2026/05/15/blue-flags-2026-greece-full-map/",
+      "detail": "Publishes five named Blue Flag 2026 sectors on Thassos, none named Fari.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_maps_search",
+      "kind": "map_search",
+      "title": "Google Maps — Fari Beach Thassos (search only)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fari%20Beach%2C%20Skala%20Maries%2C%20Thassos%2C%20Greece",
+      "detail": "Name-based search link only, not a coordinate source; exact pin, safe vehicle access and parking require manual map confirmation.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_media_paths_configured_pending_asset_check_and_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Verify the Google Maps pin for Fari Beach rather than importing the independent BeachAtlas coordinates (40.636344,24.523786) as Google data; verify safe walking entrance separately.",
+      "Confirm where road traffic legally ends and parking begins, rental-vehicle restrictions, seasonal road conditions and actual trail difficulty; sources vary considerably.",
+      "Verify exact division of the visible and hidden adjacent Fari stretches; keep one record unless distinct named coves are evidenced.",
+      "Check that unserviced conditions still apply during the travel season; never promise toilets, freshwater, sunbeds, food, parking or lifeguard.",
+      "Confirm any current boating restrictions and seabed hazards before recommending snorkelling.",
+      "Do not treat nearby fenced Fari ancient pottery remains as freely accessible; separate attraction data and rules must be checked.",
+      "Check that fari1.webp–fari5.webp exist in destinations/thassos/beaches/fari/images/, depict Fari Beach on Thassos, and are approved for commercial publication with any required rights and attribution.",
+      "Native-language proofread all six texts before public release, especially place-name transliterations and Serbian Latin script.",
+      "No award named Fari in the 2026 Blue Flag list; do not mark Fari Blue Flag or assert an official water-quality grade."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original multilingual editorial text; image paths now reference the five locally named Fari photos indicated by the project owner. Actual image files and commercial publication rights have not been independently verified.",
+    "photo_source_disclaimer": "Local photo paths are configured from the owner-provided folder screenshot (fari1.webp–fari5.webp). No external candidate photos have been imported; actual files, location match and rights remain to be checked before publication."
+  }
+}

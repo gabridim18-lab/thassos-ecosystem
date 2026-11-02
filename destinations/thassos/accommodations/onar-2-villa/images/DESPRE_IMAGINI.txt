@@ -1,0 +1,5 @@
+Copiaza aici cele 22 fisiere WebP din directorul tau local Onar 2 VILLA/assets/images/.
+Pastram EXACT numele, inclusiv diacriticele si parantezele (1)/(2).
+21 imagini sunt in galerie si mobil.webp este pentru hero mobil.
+Lista completa este in imagini_manifest.json.
+Nu sunt incluse fotografii in ZIP.

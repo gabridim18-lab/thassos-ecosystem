@@ -1,0 +1,412 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-skala-rachoniou",
+  "slug": "skala-rachoniou",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Σκάλα Ραχωνίου",
+    "international_name": "Skala Rachoniou",
+    "aliases": [
+      "Skala Rachoniou",
+      "Skala Rachoni",
+      "Scala Rachoni",
+      "Scala Rahoni",
+      "Skala Rahoni",
+      "Σκάλα Ραχωνίου",
+      "Σκάλα Ραχώνι"
+    ],
+    "area_type": "coastal_village",
+    "entity_scope": "Seaside settlement of Skala Rachoniou on the northwestern coast of Thassos, historically the coastal counterpart of inland Rachoni. Includes its small fishing harbour, waterfront and adjacent settlement services; do not mistake the extensive Rachoniou beach shoreline for a single, precisely bounded town centre.",
+    "deduplication_warning": "Skala Rachoni, Skala Rahoni, Skala Rachoniou and Greek Σκάλα Ραχωνίου name the same coastal settlement. Inland Rachoni (Ραχώνι) is a distinct village, not a synonym or another record for the beach. Rachoniou Beach is a separate beach record, while nearby Pachis, Platana and business-branded beach sectors must not be counted as duplicate settlements or beaches.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": true,
+    "coast": "northwest",
+    "part_of_island": "northwestern",
+    "center": {
+      "lat": 40.7795,
+      "lng": 24.6131,
+      "coordinate_role": "settlement_reference_point_not_beach_centre_bus_stop_parking_or_navigation_destination",
+      "coordinate_source": "Katatopisi — Skala Rachoniou village location, OSM-linked map context",
+      "coordinate_source_url": "https://katatopisi.gr/en/place/skala-rachoniou/",
+      "verification_status": "corroborated_published_village_reference_point_precise_geometry_and_arrival_not_verified",
+      "verified_on": "2026-10-27"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "Skala Rachoniou sits on a wide, low northwestern coastal plain with olive groves and pine-lined sandy bays, between the Pachis stretch towards Limenas and the Platana/Skala Prinos side. The inland village Rachoni has different coordinates (OSM/Mapcarta approx. 40.75576,24.63727). The Skala Rachoniou settlement point is not the beach-centre coordinate (OSM beach approx. 40.77943,24.61057), a verified bus stop, a marina entrance or a public parking point. Compute near-me results from the visitor and individually geocoded POIs."
+  },
+  "overview": {
+    "settlement_character": "relaxed_seaside_village_with_olive_groves_and_pine_framed_sandy_coves",
+    "tourism_profile": [
+      "quiet_seaside_stays",
+      "family_friendly_shore_sections",
+      "olive_groves_and_pine_shade",
+      "small_fishing_harbour",
+      "sunset_walks",
+      "beachside_tavernas",
+      "seasonal_beach_bars",
+      "base_for_northwest_coast_exploration"
+    ],
+    "best_time_to_visit": "Late spring to early autumn for seaside stays and coastal walking; the main swimming and beach-service season is usually summer. Conditions, operators and transport vary by season.",
+    "peak_season_notes": "July–August bring more visitors to popular hotel and beach-bar sectors, especially near the shoreline; other stretches may feel less busy. Never promise an empty beach or guaranteed shade."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "historical_coastal_outlet_of_inland_rachoni",
+      "local_fishing_and_small_harbour",
+      "olive_cultivation_on_northwest_coastal_plain",
+      "agricultural_and_seaside_tourism_transition"
+    ],
+    "local_traditions": [
+      "small_scale_fishing_and_working_waterfront",
+      "olive_growing_and_local_olive_products",
+      "informal_evening_strolls_along_the_shore"
+    ],
+    "local_food_specialties": [
+      "fresh_fish_and_seafood_when_available",
+      "thassos_olives_and_olive_oil",
+      "regional_greek_meze",
+      "local_honey_and_seasonal_products"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "families_using_suitable_shallow_sections",
+      "couples",
+      "slow_beach_days",
+      "travellers_staying_near_the_coast",
+      "sunset_photography",
+      "visitors_who_prefer_quieter_settlements",
+      "taverna_and_seafood_outings"
+    ],
+    "experiences": [
+      "walk_small_fishing_harbour_and_waterfront",
+      "explore_distinct_sandy_coves_on_rachoniou_shore",
+      "seek_natural_shade_under_pines_where_accessible",
+      "swim_in_a_suitable_section_after_checking_seabed",
+      "enjoy_seaside_meal_and_local_olive_products",
+      "photograph_westward_evening_light",
+      "visit_nearby_pachis_and_platana_as_separate_beach_areas",
+      "consider_inland_rachoni_as_separate_village_excursion"
+    ],
+    "points_of_interest_summary": [
+      "Small fishing harbour and waterfront of Skala Rachoniou",
+      "Skala Rachoniou / Rachoniou Beach (separate beach record)",
+      "Pine-framed sandy stretches and olive groves",
+      "Pachis Beach nearby to the northeast (separate beach record)",
+      "Platana Beach towards Skala Prinos (separate beach record)",
+      "Inland Rachoni village — distinct settlement"
+    ],
+    "estimated_visit_duration": "1–2 hours for a waterfront walk and refreshment; half a day or longer for swimming and a seaside meal. This is an indicative planning range, not a fixed visiting time.",
+    "family_suitability": "Many shoreline sectors are sandy and initially shallow, appealing to families; some have submerged stones, weed patches, variable depth and seasonal facilities. Check the chosen entry and supervise children at all times.",
+    "mobility_considerations": "Roadside shops and some waterfront sections are accessible by paved routes, but no continuous step-free route to every sandy cove, toilet or water entrance has been independently confirmed. Verify each facility separately.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "Reached by the island’s paved northwestern coastal road between Limenas and Skala Prinos; individual beaches and accommodation properties may use smaller turnoffs through olive groves. Confirm the specific entrance before setting navigation.",
+    "public_transport": "KTEL Thassos seasonal routes use the northwest coastal corridor, and published timetables have listed Skala Rachoni / Pachis stops. Stop location, departures, service days and frequency must be checked against the latest official operator information; do not infer a departure from an area centre point.",
+    "parking_overview": "Roadside and venue-associated parking is reported in parts of the village and by some beaches; it may be seasonal, restricted or reserved for customers. No universally available public car park, free parking policy or reliable live capacity has been verified.",
+    "pedestrian_access": "The village has a small waterfront and separate sandy shore sections suitable for short walks in good conditions. There is no verified continuous, accessible promenade linking every cove; olive-grove lanes and roadside crossings require attention.",
+    "accessibility_note": "Do not assume that beaches shaded by trees, natural sand, or paths beside accommodation are suitable for wheelchairs. Exact step-free access, accessible WC and assisted entry into the sea require on-site confirmation.",
+    "general_amenities": {
+      "supermarket": true,
+      "pharmacy": true,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": true,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "Choose a bathing section away from moored fishing boats and vessel manoeuvring areas; check for submerged rocks or seagrass, waves, depth and signs before swimming. Natural shade varies with the chosen sector and time of day. In summer, follow road traffic precautions at coastal crossings.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-pachis",
+      "gr-thassos-area-skala-prinos",
+      "gr-thassos-area-limenas"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-rachoniou",
+      "gr-thassos-beach-pachis",
+      "gr-thassos-beach-platana"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "Other beaches, businesses, accommodations, attractions and services reference this area using area_id. Proximity is computed from independently verified individual POI GPS coordinates, not from Skala Rachoniou settlement-centre position; the featured beach list is editorial and includes nearby distinct beach records, not necessarily all walkable.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "No public car/passenger ferry terminal inside Skala Rachoniou. Limenas (Keramoti route) and Skala Prinos (Kavala route) are separate ports to link when the transport catalog exists. Do not store times, ticket prices or unverified port IDs in static area.json."
+  },
+  "translations": {
+    "ro": {
+      "name": "Skala Rachoniou (Skala Rachoni)",
+      "tagline": "Golfuri cu nisip, pini aproape de apă și liniștea coastei nord-vestice",
+      "summary": "Skala Rachoniou este o localitate de coastă liniștită din nord-vestul insulei Thassos, cunoscută pentru plajele nisipoase umbrite pe alocuri de pini, livezile de măslini, micul port pescăresc și tavernele de lângă mare.",
+      "description": "Skala Rachoniou, numită frecvent și Skala Rachoni, se întinde pe coasta nord-vestică a insulei Thassos, într-o zonă verde în care livezile de măslini se apropie de mare, iar pinii oferă umbră naturală în unele sectoare ale plajei. Localitatea nu are agitația unei stațiuni mari: farmecul ei se descoperă în golfurile cu nisip, la micul port cu bărci de pescuit și la terasele unde poți încheia o zi de plajă cu o masă liniștită. Linia țărmului este destul de lungă și nu arată peste tot la fel. Există porțiuni cu nisip fin și intrare treptată în apă, potrivite pentru familii care aleg cu atenție locul de înot, dar și sectoare cu pietre sau vegetație subacvatică. De-a lungul coastei întâlnești atât spații libere, cât și zone deservite sezonier de hoteluri sau beach baruri; disponibilitatea șezlongurilor și condițiile de folosire diferă de la un operator la altul. O plimbare în zona portului și priveliștea luminii de seară adaugă farmecul unei așezări pescărești, iar în apropiere se pot descoperi plajele Pachis și Platana, fiecare cu identitatea sa. Skala Rachoniou reprezintă partea de la mare a satului Rachoni, situat mai departe în interiorul insulei: sunt două așezări diferite. Pentru cei care preferă o vacanță fără program încărcat, aici ritmul este simplu — plajă, peisaj verde, mâncare grecească și seri în apropierea apei.",
+      "history_culture": "Skala Rachoniou s-a dezvoltat ca așezare de coastă asociată satului Rachoni din interior. Viața locală a fost legată de pescuit și de agricultura câmpiei nord-vestice, în special de cultivarea măslinilor. Portul mic și plantațiile din jur amintesc de această legătură dintre mare și pământ. Turismul a adăugat ulterior unități de cazare și taverne, fără să elimine complet caracterul rural al zonei. Pentru tradițiile satelor din interior, Rachoni trebuie explorat ca localitate separată.",
+      "local_character": "O atmosferă de sat de coastă, cu pini, măslini, alei liniștite și plaje împărțite în mai multe sectoare naturale.",
+      "what_to_do": "Explorează malul nisipos și alege zona de înot potrivită; plimbă-te pe lângă micul port pescăresc; admiră apusul; încearcă o tavernă de pe coastă; descoperă separat Pachis sau Platana și, pentru o schimbare de peisaj, satul Rachoni din interior.",
+      "practical_tips": "Ajungi pe drumul de coastă dintre Limenas și Skala Prinos, dar intrările către plaje și cazări diferă. Unele sectoare au pini care oferă umbră, nu toate. Verifică fundul apei înainte de înot și supraveghează copiii. Parcarea poate fi limitată sau destinată clienților unor localuri; nu presupune că este gratuită. Există legături de autobuz în zonă, însă stația și orarul trebuie confirmate pentru ziua călătoriei. Pentru apropierea reală de restaurante, plaje și servicii, folosește punctul GPS al fiecărei locații, nu centrul satului.",
+      "highlights": [
+        "Plaje cu nisip și umbră naturală în unele sectoare",
+        "Livezi de măslini și pini lângă coastă",
+        "Mic port pescăresc și peisaj de seară",
+        "Taverne și opțiuni de cazare lângă mare",
+        "Pachis și Platana ca plaje distincte din apropiere"
+      ],
+      "seo_title": "Skala Rachoniou Thassos – plaje, port și sfaturi utile",
+      "seo_description": "Descoperă Skala Rachoniou din Thassos: plaje cu nisip, pini, măslini, taverne, micul port, acces, transport și recomandări.",
+      "social_caption": "🌿 Skala Rachoniou, Thassos: pini lângă mare, golfuri cu nisip, livezi de măslini și seri liniștite pe coastă. 🌅 #Thassos #SkalaRachoniou",
+      "photo_alt": "Skala Rachoniou din Thassos, cu plajă nisipoasă, pini, mare și peisajul verde al coastei."
+    },
+    "en": {
+      "name": "Skala Rachoniou (Skala Rachoni)",
+      "tagline": "Sandy coves, shoreline pines and the calm of northwest Thassos",
+      "summary": "Skala Rachoniou is a relaxed coastal settlement on northwestern Thassos, known for sandy shorelines with pockets of pine shade, olive groves, a small fishing harbour and tavernas close to the sea.",
+      "description": "Skala Rachoniou, often shortened to Skala Rachoni, occupies a green stretch of the northwestern coast of Thassos where olive groves extend towards the sea and pine trees shelter parts of the sandy shore. It has a gentler pace than the island’s busier resort centres. The charm lies in the sequence of small coastal bays, the modest fishing harbour and the opportunity to sit down for an unhurried meal with the sea nearby. The shoreline is extensive and varies from section to section: some places offer fine sand and generally gradual entry into the water, while others have stones or patches of underwater vegetation. Families may appreciate the shallower stretches, but water depth and the seabed should still be checked at the actual swimming spot. Along the coast there are open areas for visitors with their own beach equipment, as well as sections served seasonally by hotels or beach bars. Do not assume that the same loungers, shade or facilities are available everywhere. A walk beside the small harbour and the warm evening light create a different experience from spending the entire day on the sand. Nearby Pachis and Platana are worth exploring as distinct beaches, each with its own setting. Skala Rachoniou is historically the coastal counterpart of Rachoni, the separate inland village; the two names should not be used as though they identify the same location. With olive-covered surroundings, waterfront tavernas and quiet seaside accommodation, this is a good base for visitors who prefer slow days and easy coastal exploration.",
+      "history_culture": "The settlement developed as the seaside outlet of inland Rachoni, with daily life connected to fishing and the olive-growing coastal plain. Its small working harbour and groves reflect this relationship between local agriculture and the sea. Accommodation and seasonal beach businesses later expanded its tourism role, while the landscape retains a notably rural character. Inland Rachoni has a separate identity and its own village heritage.",
+      "local_character": "Low-key seaside atmosphere, olive-lined lanes, pine-backed beaches and a small fishing waterfront rather than a busy resort centre.",
+      "what_to_do": "Pick a suitable sandy cove for swimming, stroll by the fishing harbour, watch the evening light, enjoy seafood or Greek meze at a coastal taverna, visit Pachis or Platana as separate beaches, or drive inland to explore Rachoni village.",
+      "practical_tips": "Access is via the island’s northwest coastal road, but beach and accommodation turnoffs differ. Pine shade is available in some stretches, not guaranteed at every spot. Check the seabed and supervise children even where water appears shallow. Parking may be seasonal or attached to private venues. Local bus routes pass along this side of Thassos, but confirm the stop and current timetable before travelling. For nearby searches use individual beach and business coordinates, not the settlement centre.",
+      "highlights": [
+        "Sandy coast with natural pine shade in selected sections",
+        "Olive groves reaching towards the sea",
+        "Small fishing harbour and pleasant evening views",
+        "Seaside tavernas and relaxed accommodation",
+        "Distinct nearby beaches at Pachis and Platana"
+      ],
+      "seo_title": "Skala Rachoniou Thassos – beaches, harbour & tips",
+      "seo_description": "Explore Skala Rachoniou on Thassos: sandy coves, shoreline pines, olive groves, fishing harbour, tavernas, access and transport tips.",
+      "social_caption": "🌿 Discover Skala Rachoniou, Thassos: sandy coves, pines by the sea, olive groves and relaxed sunset evenings. 🌅 #Thassos #SkalaRachoniou",
+      "photo_alt": "Skala Rachoniou coastline on Thassos with sandy shore, pine trees, sea and olive-green surroundings."
+    },
+    "el": {
+      "name": "Σκάλα Ραχωνίου",
+      "tagline": "Αμμουδιές, πεύκα δίπλα στη θάλασσα και ήρεμη ατμόσφαιρα στη βορειοδυτική Θάσο",
+      "summary": "Η Σκάλα Ραχωνίου είναι ένας ήσυχος παραθαλάσσιος οικισμός στη βορειοδυτική Θάσο, με αμμώδεις ακτές, πεύκα που προσφέρουν σκιά σε ορισμένα σημεία, ελαιώνες, μικρό αλιευτικό λιμανάκι και ταβέρνες κοντά στο νερό.",
+      "description": "Η Σκάλα Ραχωνίου βρίσκεται στη βορειοδυτική ακτή της Θάσου, σε μια καταπράσινη περιοχή όπου οι ελαιώνες πλησιάζουν τη θάλασσα και τα πεύκα σκιάζουν τμήματα της αμμουδιάς. Ο οικισμός έχει πιο χαλαρό ρυθμό από τα μεγάλα τουριστικά κέντρα του νησιού. Η γοητεία του βρίσκεται στους μικρούς αμμώδεις όρμους, στο λιτό αλιευτικό λιμανάκι και στις παραθαλάσσιες ταβέρνες, όπου μπορεί κανείς να απολαύσει ένα γεύμα χωρίς βιασύνη. Η ακτογραμμή εκτείνεται σε αρκετά σημεία και δεν είναι παντού ίδια: σε ορισμένα τμήματα η άμμος είναι ψιλή και η είσοδος στο νερό γενικά ομαλή, ενώ αλλού υπάρχουν πέτρες ή θαλάσσια βλάστηση στον βυθό. Οι οικογένειες μπορούν να επιλέξουν πιο ρηχά σημεία, αρκεί να ελέγχουν πάντα το συγκεκριμένο μέρος και να επιβλέπουν τα παιδιά. Δίπλα στη θάλασσα συνυπάρχουν ελεύθερες εκτάσεις και εποχικά οργανωμένες ζώνες ξενοδοχείων ή beach bar. Η διαθεσιμότητα ξαπλωστρών, ομπρελών και άλλων υπηρεσιών διαφέρει ανάλογα με τον χώρο και την εποχή. Μια μικρή βόλτα στο λιμανάκι και η απογευματινή θέα συμπληρώνουν όμορφα μια μέρα στη θάλασσα. Οι γειτονικές παραλίες Παχύς και Πλατάνα αποτελούν ξεχωριστές ακτές που μπορούν να συνδυαστούν με την επίσκεψη. Η Σκάλα Ραχωνίου είναι ο παραθαλάσσιος οικισμός που συνδέεται ιστορικά με το χωριό Ραχώνι, το οποίο βρίσκεται στην ενδοχώρα και δεν πρέπει να συγχέεται με τη Σκάλα. Πρόκειται για μια επιλογή που ταιριάζει σε όσους αγαπούν τη φύση, τις ήρεμες διακοπές και τις απλές παραθαλάσσιες απολαύσεις.",
+      "history_culture": "Η Σκάλα Ραχωνίου αναπτύχθηκε ως παραθαλάσσιος οικισμός του χωριού Ραχώνι. Η αλιεία και η ελαιοκαλλιέργεια της εύφορης πεδιάδας υπήρξαν σημαντικά στοιχεία της τοπικής ζωής, κάτι που φαίνεται ακόμη στο μικρό λιμάνι και στο τοπίο με τους ελαιώνες. Με τον καιρό προστέθηκαν καταλύματα και τουριστικές επιχειρήσεις. Το Ραχώνι στην ενδοχώρα παραμένει ξεχωριστό χωριό, με τη δική του φυσιογνωμία.",
+      "local_character": "Ήρεμος παραθαλάσσιος οικισμός με ελιές, πεύκα, μικρό λιμανάκι και αμμουδιές σε διαδοχικούς όρμους.",
+      "what_to_do": "Διαλέξτε μια κατάλληλη αμμουδιά για μπάνιο, περπατήστε κοντά στο αλιευτικό λιμανάκι, απολαύστε το απογευματινό φως, δοκιμάστε τοπικές γεύσεις σε ταβέρνα και εξερευνήστε ξεχωριστά τις κοντινές παραλίες Παχύς και Πλατάνα ή το ορεινότερο Ραχώνι.",
+      "practical_tips": "Η πρόσβαση γίνεται από τον παραλιακό δρόμο ανάμεσα στον Λιμένα και τη Σκάλα Πρίνου, όμως κάθε παραλία ή κατάλυμα μπορεί να έχει διαφορετική είσοδο. Η φυσική σκιά δεν καλύπτει όλη την ακτή. Ελέγξτε τον βυθό και προσέχετε τα παιδιά. Οι θέσεις στάθμευσης μπορεί να ανήκουν σε επιχειρήσεις ή να έχουν εποχικούς περιορισμούς. Υπάρχουν λεωφορειακές συνδέσεις στην περιοχή, αλλά η ακριβής στάση και το ισχύον πρόγραμμα χρειάζονται επιβεβαίωση. Οι αποστάσεις προς υπηρεσίες πρέπει να υπολογίζονται από τις δικές τους συντεταγμένες.",
+      "highlights": [
+        "Αμμώδεις ακτές με φυσική σκιά σε ορισμένα σημεία",
+        "Ελαιώνες και πεύκα κοντά στη θάλασσα",
+        "Μικρό αλιευτικό λιμανάκι",
+        "Παραθαλάσσιες ταβέρνες και ήρεμη διαμονή",
+        "Παχύς και Πλατάνα ως ξεχωριστές κοντινές παραλίες"
+      ],
+      "seo_title": "Σκάλα Ραχωνίου Θάσος – παραλίες, λιμάνι και πρόσβαση",
+      "seo_description": "Γνωρίστε τη Σκάλα Ραχωνίου στη Θάσο: αμμώδεις ακτές, πεύκα, ελαιώνες, μικρό λιμάνι, ταβέρνες και πρακτικές συμβουλές.",
+      "social_caption": "🌿 Σκάλα Ραχωνίου στη Θάσο: αμμουδιές, πεύκα δίπλα στο κύμα, ελαιώνες και όμορφα απογεύματα. 🌅 #Θάσος #ΣκάλαΡαχωνίου",
+      "photo_alt": "Η Σκάλα Ραχωνίου στη Θάσο με αμμώδη ακτή, πεύκα, γαλάζια θάλασσα και πράσινο τοπίο."
+    },
+    "de": {
+      "name": "Skala Rachoniou (Skala Rachoni)",
+      "tagline": "Sandbuchten, Kiefern am Meer und entspannte Tage im Nordwesten von Thassos",
+      "summary": "Skala Rachoniou ist ein ruhiger Küstenort im Nordwesten von Thassos. Sandige Strandabschnitte mit stellenweise natürlichem Kiefernschatten, Olivenhaine, ein kleiner Fischerhafen und Tavernen am Meer prägen die Umgebung.",
+      "description": "Skala Rachoniou, häufig auch Skala Rachoni genannt, liegt an der grünen Nordwestküste von Thassos. Hier reichen Olivenhaine bis in die Nähe des Meeres, und an manchen sandigen Buchten spenden hohe Kiefern angenehmen Schatten. Der Ort wirkt gelassener als die großen Urlaubsorte der Insel. Statt einer einzigen dicht bebauten Strandpromenade prägen mehrere Küstenabschnitte, ein kleiner Fischerhafen und gemütliche Tavernen das Bild. Die ausgedehnte Küste ist nicht überall gleich beschaffen. Manche Bereiche bestehen aus feinem Sand und haben einen meist sanften Einstieg ins Meer; an anderen Stellen finden sich Steine oder Seegras am Boden. Für Familien sind die flacheren Abschnitte attraktiv, doch Tiefe, Untergrund und Wetter sollten immer direkt am gewählten Badeplatz geprüft werden. Neben freien Strandflächen gibt es saisonal bewirtschaftete Zonen von Hotels und Strandbars. Liegen, Sonnenschirme und weitere Angebote stehen daher nicht überall zu denselben Bedingungen zur Verfügung. Ein Spaziergang am kleinen Hafen und der Blick auf das Licht des späten Nachmittags sind eine schöne Ergänzung zu einem Badetag. In der Umgebung liegen Pachis und Platana, die als eigenständige Strände besucht werden können. Skala Rachoniou war traditionell der Küstenort des weiter landeinwärts gelegenen Dorfes Rachoni. Beide Siedlungen sind geografisch verschieden und sollten bei der Orientierung nicht verwechselt werden. Wer Urlaub zwischen Olivenbäumen, Strand und griechischen Tavernen sucht und keinen ausgefüllten Veranstaltungskalender braucht, findet hier eine angenehme Basis für den Nordwesten von Thassos.",
+      "history_culture": "Der Küstenort entwickelte sich als Zugang des Dorfes Rachoni zum Meer. Fischerei sowie der Olivenanbau in der fruchtbaren Küstenebene prägten lange die lokale Wirtschaft. Der kleine Hafen und die Olivenhaine erinnern an diese Verbindung zwischen Land und Wasser. Mit dem Tourismus kamen Unterkünfte und saisonale Gastronomie hinzu. Das im Inselinneren gelegene Rachoni bleibt ein eigenständiges Dorf.",
+      "local_character": "Eine ruhige Küstensiedlung mit Olivenhainen, Kiefern, kleinen Buchten und einem bescheidenen Fischerhafen.",
+      "what_to_do": "An einer passenden Sandbucht schwimmen, am Fischerhafen spazieren gehen, die Abendstimmung genießen, regionale Gerichte in einer Taverne probieren und die nahe gelegenen Strände Pachis und Platana oder das getrennt liegende Dorf Rachoni erkunden.",
+      "practical_tips": "Skala Rachoniou ist über die Küstenstraße zwischen Limenas und Skala Prinos erreichbar. Die Zufahrten zu Stränden und Unterkünften unterscheiden sich. Schatten durch Bäume gibt es nur abschnittsweise. Prüfen Sie den Meeresboden und beaufsichtigen Sie Kinder. Parkplätze können zu Betrieben gehören oder saisonal eingeschränkt sein. Busverbindungen sind beschrieben, Haltestellen und aktuelle Fahrpläne müssen vor der Fahrt geprüft werden. Für Entfernungen zu Restaurants und Stränden sind deren eigene GPS-Punkte maßgeblich.",
+      "highlights": [
+        "Sandstrände mit Kiefernschatten an einzelnen Stellen",
+        "Olivenhaine und grünes Küstenland",
+        "Kleiner Fischerhafen und schöne Abendstimmung",
+        "Tavernen und entspannte Unterkünfte am Meer",
+        "Pachis und Platana als eigenständige Nachbarstrände"
+      ],
+      "seo_title": "Skala Rachoniou Thassos – Strände, Hafen und Tipps",
+      "seo_description": "Skala Rachoniou auf Thassos entdecken: Sandbuchten, Kiefern, Olivenhaine, Fischerhafen, Tavernen und Hinweise zu Anfahrt und Bus.",
+      "social_caption": "🌿 Skala Rachoniou auf Thassos: Sandbuchten, Kiefern am Meer, Olivenhaine und ruhige Abende an der Küste. 🌅 #Thassos #SkalaRachoniou",
+      "photo_alt": "Sandige Küste von Skala Rachoniou auf Thassos mit Kiefern, blauem Meer und grüner Umgebung."
+    },
+    "bg": {
+      "name": "Скала Рахониу (Skala Rachoniou)",
+      "tagline": "Пясъчни заливи, борове край морето и спокойствие в северозападен Тасос",
+      "summary": "Скала Рахониу е спокойно крайбрежно селище в северозападната част на Тасос, известно с пясъчни плажове, сянка от борове на отделни места, маслинови горички, малко рибарско пристанище и таверни край морето.",
+      "description": "Скала Рахониу, наричана още Скала Рахони, се намира на зеления северозападен бряг на остров Тасос. Тук маслиновите горички се доближават до морето, а високи борове хвърлят естествена сянка върху отделни части от пясъчната ивица. Селището има по-бавен ритъм от големите туристически центрове. Очарованието му е в поредицата малки заливи, скромното рибарско пристанище и крайбрежните таверни, където човек може спокойно да прекара вечерта. Брегът е сравнително дълъг и не е еднакъв навсякъде: има участъци с фин пясък и плавно навлизане във водата, но на други места се срещат камъни или подводна растителност. За семейства по-плитките места могат да бъдат удобни, стига дъното и дълбочината да се проверяват на място, а децата да бъдат наблюдавани постоянно. Покрай плажа се редуват свободни зони и участъци, обслужвани сезонно от хотели или плажни барове. Не бива да се приема, че навсякъде има шезлонги, чадъри или еднакви условия за ползване. Разходката край малкото пристанище и меката вечерна светлина правят мястото приятно и извън часовете за къпане. Наблизо са отделните плажове Пахис и Платана, които заслужават самостоятелно посещение. Скала Рахониу исторически е крайбрежното селище на село Рахони, разположено навътре в острова: двете места не трябва да се смесват. За туристите, които предпочитат море, зеленина, местна храна и по-тиха почивка, това е естествен избор в северозападен Тасос.",
+      "history_culture": "Скала Рахониу се развива като морски излаз на вътрешното село Рахони. Риболовът и отглеждането на маслини в плодородната крайбрежна равнина са традиционни занимания. Малкото пристанище и маслиновите насаждения напомнят за тази история. По-късно туризмът добавя места за настаняване и сезонни заведения, без напълно да промени спокойния характер на района. Село Рахони навътре в острова е отделно населено място.",
+      "local_character": "Спокойно крайбрежно селище сред маслини и борове, с малко пристанище и няколко пясъчни залива.",
+      "what_to_do": "Изберете подходящ пясъчен участък за плуване, разходете се до рибарското пристанище, насладете се на залезната светлина, опитайте местни ястия в таверна и посетете отделно плажовете Пахис и Платана или вътрешното село Рахони.",
+      "practical_tips": "Достъпът е по крайбрежния път между Лименас и Скала Принос, но отбивките към плажовете и местата за настаняване са различни. Естествена сянка има само на части от брега. Проверявайте дъното и наблюдавайте децата. Паркирането може да е ограничено или предназначено за клиенти. В района има автобусни връзки, но актуалните спирки и разписания трябва да се потвърдят. Разстоянията до обекти се изчисляват според техните собствени GPS координати.",
+      "highlights": [
+        "Пясъчни участъци с естествена сянка от борове",
+        "Маслинови горички близо до морето",
+        "Малко рибарско пристанище",
+        "Таверни и спокойна морска атмосфера",
+        "Отделни близки плажове Пахис и Платана"
+      ],
+      "seo_title": "Скала Рахониу, Тасос – плажове, пристанище и достъп",
+      "seo_description": "Открийте Скала Рахониу на Тасос: пясъчни заливи, борове, маслини, рибарско пристанище, таверни и практични съвети.",
+      "social_caption": "🌿 Скала Рахониу, Тасос: пясъчни заливи, борове до водата, маслинови горички и тихи вечери край морето. 🌅 #Тасос #SkalaRachoniou",
+      "photo_alt": "Скала Рахониу на Тасос с пясъчна ивица, зелени борове и синьо море."
+    },
+    "sr": {
+      "name": "Skala Rahoni (Skala Rachoniou)",
+      "tagline": "Peščane uvale, borovi uz more i mir severozapadnog Tasosa",
+      "summary": "Skala Rahoni je mirno primorsko mesto na severozapadu Tasosa, poznato po peščanim delovima obale sa hladovinom borova, maslinjacima, maloj ribarskoj luci i tavernama blizu mora.",
+      "description": "Skala Rahoni, poznata i kao Skala Rachoniou, leži na zelenoj severozapadnoj obali Tasosa, gde se maslinjaci približavaju moru, a visoki borovi zaklanjaju sunce na pojedinim delovima plaže. Ovo naselje ima mirniji ritam od velikih turističkih centara. Posebnu atmosferu stvaraju male peščane uvale, skromna ribarska luka i taverne uz obalu u kojima možete provesti opušteno veče. Obala je dugačka i nije svuda ista: negde ima sitnog peska i uglavnom postepenog ulaska u more, dok se na drugim mestima javljaju kamenje i morska vegetacija na dnu. Plići delovi mogu odgovarati porodicama, ali treba proveriti konkretan ulaz, dubinu i uslove, uz stalan nadzor dece. Duž obale smenjuju se slobodne površine i delovi na kojima hoteli ili barovi sezonski nude ležaljke i suncobrane. Oprema, cene i pravila korišćenja nisu jednaki na celoj plaži. Šetnja pored malog pristaništa i toplo svetlo predveče daju poseban šarm ovom mestu. U blizini su plaže Pahis i Platana, koje treba posmatrati kao zasebne obalne lokacije. Skala Rahoni je istorijski primorski deo sela Rahoni, koje se nalazi dalje u unutrašnjosti ostrva; to su dva različita naselja. Posetiocima koji vole more, masline, domaću kuhinju i odmor bez žurbe ova oblast nudi prijatnu osnovu za istraživanje severozapadnog Tasosa.",
+      "history_culture": "Naselje se razvijalo kao izlaz sela Rahoni na more. Ribolov i gajenje maslina u plodnoj priobalnoj ravnici predstavljali su važan deo lokalnog života, što se i danas vidi u maloj luci i maslinjacima. Kasnije su se razvili smeštaj i sezonske turističke usluge. Selo Rahoni u unutrašnjosti zadržava poseban identitet.",
+      "local_character": "Tiha primorska atmosfera sa borovima, maslinjacima, malom ribarskom lukom i nekoliko peščanih uvala.",
+      "what_to_do": "Pronađite odgovarajući peščani deo za kupanje, prošetajte do ribarske luke, uživajte u večernjem svetlu, probajte ribu ili grčke specijalitete u taverni i posetite susedne plaže Pahis i Platana ili odvojeno selo Rahoni.",
+      "practical_tips": "Do mesta vodi priobalni put između Limenasa i Skale Prinos, ali prilazi pojedinim plažama i smeštaju mogu se razlikovati. Prirodnog hlada nema svuda. Proverite dno i pazite na decu. Parking može biti vezan za lokalne objekte ili sezonski ograničen. Autobuske veze postoje u ovom delu ostrva, ali stanicu i važeći red vožnje proverite pre puta. Blizinu restorana i plaža računajte na osnovu njihovih GPS tačaka, ne centra naselja.",
+      "highlights": [
+        "Peščane plaže sa hladom borova na pojedinim mestima",
+        "Maslinjaci blizu mora",
+        "Mala ribarska luka i lepi večernji prizori",
+        "Taverne i miran boravak uz obalu",
+        "Pahis i Platana kao posebne obližnje plaže"
+      ],
+      "seo_title": "Skala Rahoni Tasos – plaže, luka i saveti",
+      "seo_description": "Otkrijte Skalu Rahoni na Tasosu: peščane uvale, borove, maslinjake, ribarsku luku, taverne, pristup i korisne savete.",
+      "social_caption": "🌿 Skala Rahoni, Tasos: peščane uvale, borovi uz more, maslinjaci i mirne večeri na obali. 🌅 #Tasos #SkalaRahoni",
+      "photo_alt": "Peščana obala Skale Rahoni na Tasosu sa borovima, plavim morem i zelenim pejzažem."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/skala-rachoniou/images/skala-rachoniou1.webp",
+    "gallery": [
+      "destinations/thassos/areas/skala-rachoniou/images/skala-rachoniou2.webp",
+      "destinations/thassos/areas/skala-rachoniou/images/skala-rachoniou3.webp",
+      "destinations/thassos/areas/skala-rachoniou/images/skala-rachoniou4.webp",
+      "destinations/thassos/areas/skala-rachoniou/images/skala-rachoniou5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/skala-rachoniou/images/",
+    "suggested_asset_names": [
+      "skala-rachoniou1.webp",
+      "skala-rachoniou2.webp",
+      "skala-rachoniou3.webp",
+      "skala-rachoniou4.webp",
+      "skala-rachoniou5.webp"
+    ],
+    "image_policy": "Exactly five photographs with the predetermined file names: main cover and four gallery images. Ensure each photograph depicts this area; verify ownership, publication/transfer rights and attribution. Filenames are configured in advance; image binaries have not been provided.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "sr_katatopisi_location",
+      "kind": "map_village_reference",
+      "title": "Katatopisi — Skala Rachoniou village",
+      "url": "https://katatopisi.gr/en/place/skala-rachoniou/",
+      "detail": "Explicit village reference coordinates 40.7795,24.6131. The point is a place-level reference, not validated beach geometry, precise village boundary, designated bus stop, public car park or driving access. Bathing-water site information elsewhere on the page must not be transferred as a classification of the whole coast.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "sr_commons_settlement",
+      "kind": "map_identity_reference",
+      "title": "Wikimedia Commons — Category Skala Rachoniou, Thasos",
+      "url": "https://commons.wikimedia.org/wiki/Category:Skala_Rachoniou_(Thasos)",
+      "detail": "Wikidata-linked coastal settlement distinct from inland Rachoni; OSM node ID 342806019 and geographic point approximately 40.78163,24.61417. Different coordinate representations emphasize that centre/representative point is not exact geometry. Category photos are references only; licenses vary by file.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "sr_go_thassos_village",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Skala Rachoni",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-rachoni",
+      "detail": "Northwest seaside scenery, olive groves, sandy coves and pine shade in some sections, tavernas, accommodation, some supermarkets/pharmacies and filling stations in the broader area. Do not generalize on-site beach facilities.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "sr_nikana_village",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Skala Rachoni settlement",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/places/1966/skala-rachoni",
+      "detail": "Coastal village with fishing pier and promenade, Saint Paraskevi church, green sandy sections, food outlets and nearby Pachis; local guide revised Oct 2026, but operator details and lounger policies require season-specific rechecking.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "sr_nikana_beach",
+      "kind": "local_beach_guide",
+      "title": "Nikana — Skala Rachoni City Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1783/skala-rachoni-city-beach",
+      "detail": "Long varied sandy shoreline, pine/olive shade, some rocky areas and seagrass in water, seasonal hotel-served sections. These are broad-area descriptions and do not establish constant shallow water or uniform amenities.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "sr_mythassos_profile",
+      "kind": "regional_tourism_guide",
+      "title": "MyThassos — Skala Rachoni",
+      "url": "https://mythassos.app/en/places/620",
+      "detail": "Seaside settlement historically paired with inland Rachoni, pine-framed beach, small harbour and westward evening views. Approximate distance claims differ across guides and are not hard-coded as navigated routes.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "sr_municipal_village",
+      "kind": "municipality_attributed_travel_reference",
+      "title": "e-Thassos — Village Skala Rachoniou (municipality-sourced description)",
+      "url": "https://www.e-thassos.com/en/monument/village-skala-rachoniou-thassos-32/",
+      "detail": "Describes fishing, olive-growing, agriculture, tourism and relationship of coastal Skala Rachoniou to Rachoni; published as information attributed to Municipality of Thassos.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "sr_municipal_bus",
+      "kind": "municipal_transport_reference",
+      "title": "Municipality of Thassos — Bus schedules",
+      "url": "https://www.thassos.gr/en/dromologia-ktel/",
+      "detail": "Municipal transport information page, connects to regional passenger schedule resources; not evidence for a specific current village stop position or promised departure time.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "sr_go_thassos_bus",
+      "kind": "published_seasonal_timetable",
+      "title": "Go Thassos — Bus Schedules & Ticket Prices",
+      "url": "https://www.go-thassos.gr/thassos-bus-schedules-prices",
+      "detail": "October 2026 timetables include Skala Rachoni/Pachis on certain weekday routes and change by season and day; no fixed routes, times or prices are stored in area profile.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "sr_osm_beach",
+      "kind": "mapped_beach_geometry",
+      "title": "Mapcarta/OSM — Σκάλα Ραχώνι beach",
+      "url": "https://mapcarta.com/W725326243",
+      "detail": "OSM beach geometry approximate center 40.77943,24.61057; this is not Skala Rachoniou settlement centre or a verified beach entry. Keep its mapped beach distinct from the village.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "sr_osm_inland_rachoni",
+      "kind": "mapped_inland_village",
+      "title": "Mapcarta/OSM — Rachoni village",
+      "url": "https://mapcarta.com/13814516",
+      "detail": "Distinct inland Rachoni village centered at approx 40.75576,24.63727, not the same as coastal Skala Rachoniou.",
+      "checked_on": "2026-10-27"
+    }
+  ],
+  "editorial": {
+    "status": "researched_six_languages_completed_media_paths_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-27",
+    "translations_written_on": "2026-10-27",
+    "coverage": "complete_area_profile_six_languages_five_image_paths_source_backed_settlement_point_separate_beach_pois",
+    "requires_manual_review": [
+      "Map confirmation: Katatopisi place reference is 40.7795,24.6131, while Wikidata/OSM settlement node is slightly different and the OSM beach feature has a distinct centre. Verify exact area geometry, public entry/parking and any separate arrival point before enabling navigation.",
+      "Keep coastal Skala Rachoniou distinct from inland Rachoni. Review boundaries of named Rachoniou Beach and nearby Pachis/Platana; do not add Arriba or hotel sections as duplicate independent beaches.",
+      "Confirm individual supermarket, pharmacy, fuel-station and restaurant geocoordinates, service hours and accessibility; currently overview-level amenities are not a live business inventory.",
+      "Check the current bus operator timetable and precise stop before route directions. October 2026 posted schedules are time-sensitive and not embedded.",
+      "Verify beach water entry, shade, toilets, showers, sunbed operator policies and parking rules for the exact named sector rather than generalizing the long coastline.",
+      "Check all featured beach IDs against the registered beach catalog and verify each independently geocoded POI before computing proximity/ETA.",
+      "Add five genuine WebP files skala-rachoniou1.webp–skala-rachoniou5.webp; inspect location identity and verify commercial use/transfer rights and any required credits.",
+      "Native-speaker proofreading of RO, EN, EL, DE, BG and SR and localized SEO before public release."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "Five exact local WebP paths have been preconfigured. No image binaries or commercial/transfer rights were verified; photo gallery is not yet publish-ready."
+  }
+}

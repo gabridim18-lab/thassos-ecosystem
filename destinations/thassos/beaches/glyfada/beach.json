@@ -1,0 +1,361 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-glyfada",
+  "slug": "glyfada",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Γλυφάδα",
+    "international_name": "Glyfada Beach",
+    "aliases": [
+      "Glifada Beach",
+      "Glyfada",
+      "Glifada",
+      "Paralia Glyfada",
+      "Παραλία Γλυφάδα"
+    ],
+    "entity_scope": "Small sandy beach by Hotel Glyfada, west of Limenas and east of La Scala Beach; not Glyfada in Athens or Corfu.",
+    "deduplication_warning": "Do not merge Glyfada with La Scala, Papalimani, Glykadi or Glyfoneri. Some online sources confusingly place a Glyfada pin at La Scala's mapped coordinates (40.78368, 24.67211) or describe another long beach farther west. Review the exact beach position on Google Maps before publication."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "north / northwest",
+    "settlements": [
+      "Limenas (Thassos Town)"
+    ],
+    "lat": 40.782022,
+    "lng": 24.675982,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.782022%2C24.675982",
+    "coordinate_source_reference": "s_historic_coords",
+    "coordinate_type": "candidate_beach_pin_not_confirmed_access_point",
+    "coordinate_review_status": "Candidate numeric coordinates from an older published Thassos guide. Google Maps link is generated for review, NOT proof that Google Maps verified the position. Confirm beach versus hotel and La Scala before use for navigation.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "fine_sand",
+    "seabed_near_shore": "mostly_sandy",
+    "water_entry": "generally_gradual",
+    "nearshore_depth": "relatively_shallow_near_shore",
+    "water_clarity": "often_clear",
+    "wave_conditions": "wind_dependent",
+    "exposure": "north_facing_small_cove",
+    "natural_shade_on_sand": "partial_near_back_of_beach",
+    "beach_length_m": null,
+    "length_note": "Small and narrow beach; published lengths differ and there is no reliable standardized measurement.",
+    "backdrop": "Green vegetation and the beachfront Glyfada Hotel",
+    "shoreline_type": "small_sandy_cove"
+  },
+  "visitor_experience": {
+    "organization": "small_hotel_associated_organized_section",
+    "suitable_for": [
+      "families",
+      "couples",
+      "quiet_swimming",
+      "relaxation",
+      "short_beach_visit"
+    ],
+    "notable_for": [
+      "small_sandy_beach",
+      "generally_shallow_water",
+      "green_surroundings",
+      "quieter_setting",
+      "beachfront_hotel"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunbathing",
+      "relaxed_shoreline_time"
+    ],
+    "estimated_crowd_peak": "often_quieter_than_nearby_beach_clubs_but_space_limited",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "The entry is often gradual, but depth, waves and beach conditions vary. Children require supervision; verify wind and sea conditions before swimming."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true,
+      "note": "Hotel facilities primarily for guests; conditions for non-guests subject to the operator."
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true,
+      "note": "Official hotel information confirms umbrellas for staying guests."
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Listed by Go Thassos; access and hours may depend on the nearby property."
+    },
+    "showers": {
+      "available_in_some_sections": true,
+      "note": "Listed by Go Thassos; availability for public visitors not independently verified."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": null,
+    "cafes_nearby": null,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No verified current lifeguard schedule for this beach.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "The short approach from the road is reported as relatively steep; do not assume wheelchair access without site verification.",
+    "free_unserviced_space": null,
+    "facilities_scope": "Amenities are associated mainly with Hotel Glyfada and may be restricted or operated seasonally. Do not assume unrestricted access for non-guests."
+  },
+  "access_and_cost": {
+    "road_access": "main_coastal_road_then_short_steep_paved_descent_reported",
+    "public_transport": "not_independently_verified_for_nearest_stop",
+    "parking_type": "small_local_or_hotel_parking_area",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "A much older guide gives a historical price, but it is not valid evidence for 2026; ask the operator whether non-guests may use loungers and under which conditions.",
+    "best_arrival_advice": "Arrive early if you want a nearby parking spot; the cove is small and hotel guests may have priority.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Guides describe the beach as approximately 3–3.5 km west of Limenas; exact road distance varies by starting point."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Glyfada Beach",
+      "tagline": "Un golfuleț liniștit, cu nisip fin și vegetație verde lângă Limenas",
+      "summary": "Glyfada este o plajă mică și nisipoasă de pe coasta nordică a insulei Thassos, la vest de Limenas, în apropierea hotelului cu același nume. Este o opțiune pentru înot relaxat, mai discretă decât zonele cu beach cluburi mari.",
+      "description": "Glyfada Beach este un golfuleț intim de pe coasta nordică a insulei Thassos, aflat la vest de Limenas, înainte de zona La Scala. Plaja îngustă, cu nisip fin și o intrare în apă în general lină, este încadrată de vegetație și de hotelul Glyfada, construit foarte aproape de țărm. Atmosfera poate fi mai calmă decât la beach cluburile cunoscute din apropiere, însă spațiul disponibil pe nisip este redus. Șezlongurile și umbrelele sunt asociate în principal hotelului, iar posibilitatea de a le utiliza fără cazare trebuie confirmată la fața locului. Există un acces scurt, asfaltat, dar relativ abrupt, dinspre drumul de coastă; parcarea din apropiere este limitată și poate fi rezervată oaspeților. Pentru familii, apa puțin adâncă în apropierea malului poate reprezenta un avantaj în zilele liniștite, cu supravegherea obișnuită a copiilor. Glyfada este potrivită mai ales dacă preferi o oprire liniștită la mare, într-un cadru verde, și nu cauți o plajă întinsă, cu numeroase servicii.",
+      "practical_tips": "Nu confunda Glyfada cu La Scala, Papalimani, Glykadi sau Glyfoneri. Verifică exact pinul de pe hartă înainte de plecare. Intrarea rutieră este scurtă, dar înclinată, iar locurile de parcare sunt limitate. Întreabă la hotel dacă vizitatorii din exterior pot folosi șezlongurile, dușurile ori toaletele și în ce condiții. Nu te baza pe un tarif istoric publicat online. În zilele cu vânt, verifică valurile înainte de înot.",
+      "highlights": [
+        "Plajă mică, cu nisip fin",
+        "Intrare în apă în general lină",
+        "Cadru verde și atmosferă relaxată",
+        "Hotel chiar pe malul mării",
+        "La scurtă distanță de Limenas"
+      ],
+      "seo_title": "Glyfada Beach Thassos – acces, facilități și sfaturi",
+      "seo_description": "Descoperă Glyfada Beach, lângă Limenas în Thassos: nisip fin, apă cu intrare lină, acces, parcare, facilități și recomandări utile.",
+      "social_caption": "🏖️ Cauți o plajă mică și liniștită în Thassos? Glyfada, lângă Limenas, te întâmpină cu nisip fin, un golfuleț verde și apă primitoare. 🌿 Salvează locul pentru o zi de relaxare! 🇬🇷 #Thassos #GlyfadaBeach #ExploreGreece",
+      "photo_alt": "Micul golf nisipos Glyfada, lângă Limenas, cu vegetație verde și hotelul de pe malul mării."
+    },
+    "en": {
+      "name": "Glyfada Beach",
+      "tagline": "A small sandy cove with greenery and a quieter feel near Limenas",
+      "summary": "Glyfada is a small sandy beach on the northern coast of Thassos, west of Limenas, beside the hotel of the same name. It offers a compact, relaxed seaside setting away from the larger beach-club atmosphere nearby.",
+      "description": "Glyfada Beach is a small, tucked-away cove on the northern coast of Thassos, west of Limenas and just before the La Scala area. The shoreline is narrow and sandy, with generally gentle entry into the water, backed by greenery and the beachfront Glyfada Hotel. Compared with some of the better-known beach clubs nearby, the atmosphere can feel quieter, although there is only limited space on the sand. Loungers and umbrellas are mainly linked to the hotel, and visitors who are not staying there should confirm whether they may use them. A short, paved but relatively steep lane leads down from the coastal road; parking close to the beach is limited and may be reserved for hotel guests. The gently shelving nearshore water can appeal to families on calm days, but young swimmers still need supervision. Glyfada is best considered a small, peaceful beach stop rather than a long, fully public resort beach with extensive facilities.",
+      "practical_tips": "Do not confuse Glyfada with La Scala, Papalimani, Glykadi or Glyfoneri. Confirm the precise map pin before setting off. The final paved approach is short but steep, and parking is limited. Ask the hotel whether non-guests can use loungers, toilets or showers, and under what terms. Ignore historic online lounger prices; current conditions can differ. Check wind and waves before swimming.",
+      "highlights": [
+        "Small stretch of fine sand",
+        "Generally gentle sea entry",
+        "Green, relaxed surroundings",
+        "Beachfront accommodation",
+        "Convenient to Limenas"
+      ],
+      "seo_title": "Glyfada Beach Thassos – guide, access and facilities",
+      "seo_description": "Explore Glyfada Beach near Limenas, Thassos: a small sandy cove, shallow shoreline, parking, hotel-linked facilities and practical visitor tips.",
+      "social_caption": "🏖️ Looking for a quieter beach near Limenas? Glyfada offers a small sandy cove, leafy surroundings and inviting water. 🌿 Save this little Thassos spot for a relaxed island day! 🇬🇷 #Thassos #GlyfadaBeach #GreeceTravel",
+      "photo_alt": "Small sandy cove of Glyfada near Limenas, with green vegetation and a beachfront hotel."
+    },
+    "el": {
+      "name": "Παραλία Γλυφάδα",
+      "tagline": "Μικρός αμμώδης όρμος με πράσινο και ήρεμη ατμόσφαιρα κοντά στον Λιμένα",
+      "summary": "Η Γλυφάδα είναι μια μικρή αμμώδης παραλία στη βόρεια ακτή της Θάσου, δυτικά του Λιμένα, δίπλα στο ομώνυμο ξενοδοχείο. Προσφέρει ένα πιο ήσυχο περιβάλλον σε σχέση με τα μεγαλύτερα beach clubs της περιοχής.",
+      "description": "Η παραλία Γλυφάδα βρίσκεται σε έναν μικρό όρμο στη βόρεια ακτή της Θάσου, δυτικά του Λιμένα και πριν από την περιοχή της La Scala. Η στενή αμμώδης ακτή έχει γενικά ομαλή είσοδο στο νερό, με πράσινη βλάστηση στο πίσω μέρος της και το ξενοδοχείο Glyfada πολύ κοντά στη θάλασσα. Η ατμόσφαιρα μπορεί να είναι πιο ήρεμη από εκείνη των γνωστών beach clubs της περιοχής, όμως ο ελεύθερος χώρος είναι περιορισμένος. Οι ξαπλώστρες και οι ομπρέλες συνδέονται κυρίως με το ξενοδοχείο, επομένως όσοι δεν διαμένουν εκεί χρειάζεται να ρωτήσουν αν μπορούν να τις χρησιμοποιήσουν. Από τον παραλιακό δρόμο οδηγεί στην ακτή ένα σύντομο αλλά σχετικά απότομο ασφαλτοστρωμένο πέρασμα. Οι διαθέσιμες θέσεις στάθμευσης κοντά στην παραλία είναι λίγες και ενδέχεται να προορίζονται για τους πελάτες του ξενοδοχείου. Τα συνήθως ρηχά νερά κοντά στην ακτή είναι ευχάριστα για οικογένειες όταν η θάλασσα είναι ήρεμη, με την απαραίτητη επίβλεψη των παιδιών. Η Γλυφάδα ταιριάζει περισσότερο σε μια χαλαρή στάση παρά σε όσους αναζητούν μεγάλη παραλία με πολλές υπηρεσίες.",
+      "practical_tips": "Μην μπερδεύετε τη Γλυφάδα με τη La Scala, το Παπαλιμάνι, το Γλυκάδι ή το Γλυφονέρι. Επιβεβαιώστε το ακριβές σημείο στον χάρτη πριν ξεκινήσετε. Η τελική πρόσβαση είναι σύντομη αλλά κατηφορική και οι θέσεις στάθμευσης περιορισμένες. Ρωτήστε το ξενοδοχείο για τη χρήση ξαπλωστρών, τουαλετών και ντους από επισκέπτες εκτός καταλύματος. Οι παλιές τιμές στο διαδίκτυο μπορεί να μην ισχύουν. Ελέγχετε άνεμο και κύματα πριν κολυμπήσετε.",
+      "highlights": [
+        "Μικρή αμμώδης ακτή",
+        "Γενικά ομαλή είσοδος στη θάλασσα",
+        "Πράσινο και χαλαρή ατμόσφαιρα",
+        "Ξενοδοχείο δίπλα στο νερό",
+        "Κοντά στον Λιμένα"
+      ],
+      "seo_title": "Παραλία Γλυφάδα Θάσος – πρόσβαση και παροχές",
+      "seo_description": "Ανακαλύψτε τη μικρή παραλία Γλυφάδα κοντά στον Λιμένα Θάσου: άμμος, ρηχά νερά, στάθμευση, υπηρεσίες ξενοδοχείου και χρήσιμες συμβουλές.",
+      "social_caption": "🏖️ Μια ήσυχη γωνιά της Θάσου κοντά στον Λιμένα! Η Γλυφάδα συνδυάζει μικρή αμμώδη ακτή, πράσινο και όμορφη θάλασσα. 🌿 Κρατήστε την για μια χαλαρή καλοκαιρινή στάση! 🇬🇷 #Θάσος #Γλυφάδα #Ελλάδα",
+      "photo_alt": "Μικρός αμμώδης όρμος στη Γλυφάδα της Θάσου, με πράσινο και ξενοδοχείο δίπλα στη θάλασσα."
+    },
+    "de": {
+      "name": "Glyfada Beach",
+      "tagline": "Kleine Sandbucht mit grüner Umgebung nahe Limenas",
+      "summary": "Glyfada ist ein kleiner Sandstrand an der Nordküste von Thassos, westlich von Limenas und direkt beim gleichnamigen Hotel. Hier geht es meist ruhiger zu als an den größeren Beachclubs der Umgebung.",
+      "description": "Glyfada Beach liegt in einer kleinen Bucht an der Nordküste von Thassos, westlich von Limenas und noch vor dem Bereich La Scala. Der schmale Sandstrand fällt im Uferbereich meist sanft zum Meer hin ab. Grüne Vegetation und das unmittelbar am Wasser gelegene Hotel Glyfada prägen das Bild. Wer sich eine entspanntere Atmosphäre als an den größeren Beachclubs wünscht, könnte sich hier wohlfühlen; allerdings ist der Platz auf dem Sand begrenzt. Liegen und Sonnenschirme gehören hauptsächlich zum Hotel, weshalb Tagesgäste die Nutzung vorher abklären sollten. Vom Küstenweg führt eine kurze, befestigte, aber relativ steile Zufahrt zum Strand. Parkmöglichkeiten direkt unten sind begrenzt und können Hotelgästen vorbehalten sein. Das meist flache Wasser nahe am Ufer ist an ruhigen Tagen für Familien angenehm, trotzdem müssen Kinder beaufsichtigt werden. Glyfada eignet sich für einen stillen Badestopp und nicht als ausgedehnter Strand mit umfassendem öffentlichem Serviceangebot.",
+      "practical_tips": "Glyfada nicht mit La Scala, Papalimani, Glykadi oder Glyfoneri verwechseln. Den genauen Kartenpunkt vor der Abfahrt kontrollieren. Die letzte Zufahrt ist kurz, aber steil, und Parkplätze sind knapp. Im Hotel nachfragen, ob Nichtgäste Liegen, Toiletten oder Duschen nutzen dürfen. Ältere Preisangaben im Internet sind nicht verlässlich. Vor dem Baden Wind und Wellengang prüfen.",
+      "highlights": [
+        "Kleiner Strand mit feinem Sand",
+        "Meist sanfter Einstieg ins Wasser",
+        "Grüne und ruhige Umgebung",
+        "Hotel direkt am Strand",
+        "Nicht weit von Limenas"
+      ],
+      "seo_title": "Glyfada Beach Thassos – Anfahrt, Ausstattung, Tipps",
+      "seo_description": "Glyfada Beach bei Limenas auf Thassos: kleine Sandbucht, meist flacher Einstieg, Parkmöglichkeiten und praktische Hinweise zu den Hoteleinrichtungen.",
+      "social_caption": "🏖️ Eine kleine, ruhige Bucht auf Thassos entdecken: Glyfada nahe Limenas bietet Sand, grüne Umgebung und das Meer direkt vor der Nase. 🌿 Für den nächsten Inseltag vormerken! 🇬🇷 #Thassos #GlyfadaBeach #Griechenland",
+      "photo_alt": "Kleine Sandbucht Glyfada bei Limenas auf Thassos, umgeben von Grün und einem Hotel am Ufer."
+    },
+    "bg": {
+      "name": "Плаж Глифада",
+      "tagline": "Малък пясъчен залив със зеленина и спокойна атмосфера край Лименас",
+      "summary": "Глифада е малък пясъчен плаж на северния бряг на Тасос, западно от Лименас, до едноименния хотел. Мястото предлага по-спокойна атмосфера в сравнение с големите плажни клубове наблизо.",
+      "description": "Плаж Глифада се намира в малък залив на северния бряг на Тасос, западно от Лименас и преди района на La Scala. Ивицата е тясна, с фин пясък и обикновено плавно навлизане в морето. Зад нея има зелена растителност, а хотел Glyfada е непосредствено до брега. Атмосферата често е по-тиха от тази на популярните плажни клубове, но свободното пространство е ограничено. Шезлонгите и чадърите са свързани основно с хотела, затова посетителите, които не са негови гости, трябва предварително да уточнят условията за ползване. От крайбрежния път води кратък асфалтиран, но сравнително стръмен подход. Местата за паркиране в близост са малко и е възможно да са предназначени за гостите на хотела. Плитката вода близо до брега може да е удобна за семейства в спокойни дни, но децата винаги трябва да са под наблюдение. Глифада е подходяща за тиха почивка край морето, а не за тези, които търсят голям плаж с многобройни обществени удобства.",
+      "practical_tips": "Не бъркайте Глифада с La Scala, Папалимани, Гликади или Глифонери. Проверете точното местоположение на картата преди тръгване. Последният участък е кратък, но стръмен, а паркирането е ограничено. Попитайте хотела дали външни посетители могат да ползват шезлонги, тоалетни и душове и при какви условия. Старите публикувани цени може да не са актуални. Следете вятъра и вълните преди плуване.",
+      "highlights": [
+        "Малък плаж с фин пясък",
+        "Обикновено плавен вход към морето",
+        "Зеленина и спокойствие",
+        "Хотел непосредствено до брега",
+        "Близо до Лименас"
+      ],
+      "seo_title": "Плаж Глифада Тасос – достъп, удобства и съвети",
+      "seo_description": "Разгледайте плаж Глифада край Лименас на Тасос: фин пясък, плитки води, паркиране, хотелски услуги и полезни съвети.",
+      "social_caption": "🏖️ Малко и спокойно кътче край Лименас на Тасос! Глифада предлага фин пясък, зеленина и красиво море. 🌿 Запазете мястото за следващата си почивка! 🇬🇷 #Тасос #Глифада #Гърция",
+      "photo_alt": "Малкият пясъчен залив Глифада край Лименас, със зеленина и хотел до морето."
+    },
+    "sr": {
+      "name": "Plaža Glifada",
+      "tagline": "Mala peščana uvala u zelenilu, blizu Limenasa",
+      "summary": "Glifada je mala peščana plaža na severnoj obali Tasosa, zapadno od Limenasa, pored istoimenog hotela. Namenjena je onima koji vole mirniji ambijent od velikih plažnih klubova u okolini.",
+      "description": "Plaža Glifada nalazi se u maloj uvali na severnoj obali Tasosa, zapadno od Limenasa i pre područja La Scala. Obala je uska, sa finim peskom i uglavnom postepenim ulaskom u more. Iza plaže raste zelenilo, a hotel Glyfada stoji neposredno uz vodu. Ambijent može biti mirniji nego na poznatim plažnim klubovima u blizini, mada je prostor na pesku ograničen. Ležaljke i suncobrani uglavnom pripadaju hotelu, pa posetioci koji nisu njegovi gosti treba da provere da li i pod kojim uslovima mogu da ih koriste. Sa obalskog puta vodi kratak asfaltiran, ali relativno strm prilaz. Parking mesta su ograničena i mogu biti namenjena gostima hotela. Voda uz obalu obično postepeno postaje dublja, što porodicama može odgovarati kada je more mirno, ali je nadzor nad decom neophodan. Glifada je bolji izbor za kraće, opušteno kupanje nego za posetioce koji očekuju veliku plažu sa brojnim javnim sadržajima.",
+      "practical_tips": "Nemojte pomešati Glifadu sa La Scalom, Papalimanijem, Glikadijem ili Glifonerijem. Proverite tačnu tačku na mapi pre polaska. Poslednji prilaz je kratak, ali strm, a parking je ograničen. U hotelu pitajte da li posetioci sa strane mogu da koriste ležaljke, toalete ili tuševe. Stare cene objavljene na internetu možda više ne važe. Proverite vetar i talase pre plivanja.",
+      "highlights": [
+        "Mala plaža sa finim peskom",
+        "Uglavnom postepen ulazak u more",
+        "Zelenilo i opušten ambijent",
+        "Hotel uz samu obalu",
+        "Blizu Limenasa"
+      ],
+      "seo_title": "Plaža Glifada Tasos – prilaz, sadržaji i saveti",
+      "seo_description": "Otkrijte malu plažu Glifada kod Limenasa na Tasosu: fini pesak, plićak, parking, hotelske usluge i praktični saveti za posetu.",
+      "social_caption": "🏖️ Tražite mirniji kutak blizu Limenasa na Tasosu? Glifada nudi mali peščani zaliv, zelenilo i prijatno more. 🌿 Sačuvajte je za sledeći odmor! 🇬🇷 #Tasos #Glifada #Grcka",
+      "photo_alt": "Mala peščana uvala Glifada kraj Limenasa na Tasosu, sa zelenilom i hotelom uz more."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/glyfada/images/glyfada1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/glyfada/images/glyfada2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/glyfada/images/glyfada3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/glyfada/images/glyfada4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/glyfada/images/glyfada5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/glyfada/images/",
+    "suggested_asset_names": [
+      "glyfada1.webp",
+      "glyfada2.webp",
+      "glyfada3.webp",
+      "glyfada4.webp",
+      "glyfada5.webp"
+    ],
+    "image_policy": "Use only the project owner-supplied or approved photographs, with verified rights for commercial publication. Image 1 is the cover; images 2–5 appear in numerical gallery order.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_nikana",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Glyfada Beach, Thassos",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1782/glyfada-beach",
+      "detail": "Beach close to Hotel Glyfada west of Limenas; narrow sand, short steep paved descent, limited parking, historically lounger use subject to operator. Old price omitted as outdated.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_gothassos",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Glyfada Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/glyfada-beach",
+      "detail": "Beach listing and broad amenity types including toilets, showers, refreshments and parking, not independently guaranteed to non-guests.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_hotel",
+      "kind": "operator_official",
+      "title": "Hotel Glyfada — official website",
+      "url": "https://glyfada-thassos.com/",
+      "detail": "Beachfront hotel confirms sun loungers and umbrellas for guests, small beach bar and guest parking; do not infer the same access for general public.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana_area",
+      "kind": "local_travel_guide",
+      "title": "Nikana — Beaches around Limenas",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/2347/beaches-around-limenas",
+      "detail": "Positions Glyfada east of La Scala and describes its small sandy, naturally shaded, hotel-associated setting.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_historic_coords",
+      "kind": "historical_local_guide",
+      "title": "Kompletan vodič za Tasos — Glyfada approximate GPS",
+      "url": "https://www.scribd.com/document/624040856/Kompletan-vodi%25C4%258D-za-Tasos",
+      "detail": "Older published guide gives candidate coordinates 40.782022, 24.675982. Used only as preliminary location; still requires matching exact beach pin in Google Maps.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_coord_conflict",
+      "kind": "map_crosscheck",
+      "title": "Mapcarta — La Scala (different beach)",
+      "url": "https://mapcarta.com/W725312682",
+      "detail": "40.78368, 24.67211 identifies La Scala, not Glyfada. Some Glyfada travel listings appear to reuse this point; do not import it.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_calmbeach",
+      "kind": "comparison_source",
+      "title": "CalmBeach — Glyfada (Thassos)",
+      "url": "https://calmbeach.gr/el/beaches/thasos/833-paralia-glyfada-thasos/",
+      "detail": "Describes sand, shallow entry and facilities, but its listed coordinates coincide with La Scala, so do not trust that pin for Glyfada.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_media_paths_configured_pending_asset_check_and_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm location candidate 40.782022, 24.675982 directly in Google Maps; avoid La Scala's 40.78368, 24.67211",
+      "Confirm beach entry route and whether visitor parking is available outside hotel guest area",
+      "Check 2027 season public access, lounger pricing and hotel amenity access before republishing",
+      "Verify that glyfada1.webp through glyfada5.webp exist in the expected images folder, depict Glyfada Beach on Thassos, and are authorized for commercial publication.",
+      "Verify toilets, showers, beach-bar operating season and any accessible access",
+      "Review final six-language copy before public release"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original dataset text; five locally named owner-provided image paths configured from a folder screenshot. Photograph ownership and commercial-use permissions have not been independently verified.",
+    "photo_source_disclaimer": "Media paths refer to the five photographs shown in the project owner’s local folder screenshot; the actual WebP files and their publication rights were not independently verified. No external image candidates used."
+  }
+}

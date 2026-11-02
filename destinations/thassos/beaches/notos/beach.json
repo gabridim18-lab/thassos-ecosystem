@@ -1,0 +1,358 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-notos",
+  "slug": "notos",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Νότος",
+    "international_name": "Notos Beach",
+    "aliases": [
+      "South Beach",
+      "Notos South Beach",
+      "Notos Thassos",
+      "Παραλία Νότος"
+    ],
+    "entity_scope": "Small independent cove on the south coast, separated from Rosogremos Beach by a rocky headland.",
+    "deduplication_warning": "Notos is near Rosogremos and may be listed as Small Rosogremos or South Beach. Keep separate from Rosogremos and Agia Anna; verify boundaries manually."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south",
+    "settlements": [
+      "Potos"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Notos%20Beach%20Thassos",
+    "coordinate_source_reference": null,
+    "coordinate_type": "google_maps_pin_pending_manual_confirmation",
+    "coordinate_review_status": "not_confirmed_from_google_maps_do_not_publish_coordinates",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null,
+    "independent_geo_candidate": {
+      "lat": 40.59374,
+      "lng": 24.62028,
+      "source_ref": "s_mapcarta",
+      "status": "candidate_only_not_google_maps_verified"
+    }
+  },
+  "physical_profile": {
+    "shore_material": "predominantly_fine_sand_some_pebbles",
+    "seabed_near_shore": "mostly_sandy_with_rocky_edges",
+    "water_entry": "generally_gradual_sandy_section",
+    "nearshore_depth": "generally_shallow_sandy_section_variable",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "weather_dependent",
+    "exposure": "small_south_coast_cove",
+    "natural_shade_on_sand": "limited_and_variable",
+    "beach_length_m": null,
+    "length_note": "Small cove; no precise surveyed shoreline length independently verified.",
+    "backdrop": "Rocky headlands and low Mediterranean vegetation",
+    "shoreline_type": "small_sandy_cove"
+  },
+  "visitor_experience": {
+    "organization": "partly_organized_seasonally_to_verify",
+    "suitable_for": [
+      "couples",
+      "swimming",
+      "scenic_cove",
+      "short_beach_visit",
+      "families_if_steep_access_manageable"
+    ],
+    "notable_for": [
+      "turquoise_water",
+      "fine_sand",
+      "small_cove",
+      "rocky_headlands",
+      "steep_footpath_access"
+    ],
+    "activities_possible": [
+      "swimming",
+      "relaxing",
+      "photography",
+      "snorkelling_near_rocks_when_conditions_allow"
+    ],
+    "estimated_crowd_peak": "can_be_busy_due_to_limited_space",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "The steep path can be slippery and improvised steps may be uneven; supervision is required for children. Sea conditions vary and rocks may be present near the cove edges."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true,
+      "requires_site_check": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true,
+      "requires_site_check": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Reported by some guides, not independently confirmed for the 2026 operating season."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "Some guides mention showers; availability depends on the current operator."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": false,
+    "cafes_nearby": null,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": false,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No verified coverage information.",
+    "wheelchair_beach_access": false,
+    "wheelchair_access_note": "A steep uneven path is reported; no accessible alternative independently verified.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Small, season-dependent beach. Guides conflict about the presence of a bar, toilets, changing facilities and showers; verify before publication."
+  },
+  "access_and_cost": {
+    "road_access": "coastal_road_to_roadside_parking_then_short_steep_footpath",
+    "public_transport": null,
+    "parking_type": "limited_roadside_spaces_near_entrance",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Published prices are inconsistent or season-dependent; confirm on arrival if an operator is present.",
+    "best_arrival_advice": "Arrive early in peak season; parking and beach space are limited. Wear shoes with good grip for the steep descent.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Approx. 3 km east of Potos by coastal road, not a precise routing distance. Path length is reported differently across guides."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Notos Beach (South Beach)",
+      "tagline": "Un golf mic, cu apă turcoaz, ascuns sub șoseaua de coastă",
+      "summary": "La est de Potos, imediat după Rosogremos, Notos este un golfuleț nisipos cu apă limpede și intrare în mare în general lină. Peisajul este fermecător, însă coborârea pe poteca abruptă și spațiul limitat pe nisip merită luate în calcul.",
+      "description": "Notos Beach, cunoscută și ca South Beach, este un mic golf de pe coasta sudică a insulei Thassos, la aproximativ trei kilometri est de Potos. O stâncă o desparte de Rosogremos, dar atmosfera este diferită: în locul unei plaje întinse descoperi o fâșie restrânsă de nisip fin, apă transparentă în nuanțe de turcoaz și margini stâncoase care încadrează golful. Intrarea în apă este în general lină în zona nisipoasă, deși pot apărea pietre în unele puncte, iar condițiile se schimbă odată cu vremea. Locul poate fi o alegere foarte frumoasă pentru înot și relaxare, dar dimensiunile mici înseamnă că se aglomerează repede în sezon. Pentru a ajunge pe plajă, se parchează în locurile permise de lângă drumul principal și se coboară o potecă scurtă, abruptă și uneori alunecoasă, cu trepte improvizate. Unele ghiduri menționează șezlonguri, umbrele și servicii sezoniere, în timp ce altele le descriu diferit; nu te baza pe disponibilitatea lor fără verificare locală. Farmecul plajei este apropierea de natură și culoarea mării, nu infrastructura extinsă.",
+      "practical_tips": "Vino devreme în plin sezon: locurile de parcare de lângă șosea și spațiul liber de pe plajă sunt limitate. Poartă încălțăminte cu talpă aderentă pentru coborâre; accesul poate fi nepotrivit pentru cărucioare sau persoane cu mobilitate redusă. Ia apă, protecție solară și, dacă preferi, propria umbrelă. Înainte să folosești șezlongurile, verifică disponibilitatea și condițiile operatorului. Supraveghează copiii atât pe potecă, cât și în apă.",
+      "highlights": [
+        "Golf mic cu apă turcoaz și foarte limpede",
+        "Nisip fin și intrare în apă în general lină",
+        "Margini stâncoase cu peisaj fotogenic",
+        "Aproape de Rosogremos și Potos",
+        "Acces pe potecă abruptă, cu locuri limitate pe nisip"
+      ],
+      "seo_title": "Notos Beach Thassos – acces, nisip, facilități și sfaturi",
+      "seo_description": "Descoperă Notos Beach din Thassos, lângă Rosogremos: golf nisipos, apă turcoaz, potecă abruptă, parcare la șosea și informații practice.",
+      "social_caption": "🌊 Un golf minuscul, o apă incredibil de limpede: Notos Beach, lângă Potos, este unul dintre acele locuri care merită descoperite devreme. 🏖️ Atenție: coborârea până la plajă este abruptă. 🇬🇷 #Thassos #NotosBeach #ExploreGreece",
+      "photo_alt": "Micul golf Notos din Thassos, cu nisip deschis la culoare, apă turcoaz și stânci la marginea plajei."
+    },
+    "en": {
+      "name": "Notos Beach (South Beach)",
+      "tagline": "A tiny turquoise cove tucked below the coastal road",
+      "summary": "East of Potos, immediately beyond Rosogremos, Notos is a small sandy cove with clear water and a generally gentle entry into the sea. Its beauty comes with a steep descent and very limited space on the beach.",
+      "description": "Notos Beach, also called South Beach, is a small cove on the southern coast of Thassos, roughly three kilometres east of Potos. A rocky headland separates it from neighbouring Rosogremos. Instead of a wide shoreline, you will find a compact stretch of fine sand, strikingly clear turquoise water and rocky edges that give the bay its distinctive character. Entry into the sea is generally gradual across the sandy section, though occasional stones and changing weather mean visitors should always check conditions. The cove can be delightful for a refreshing swim or a slow beach morning, but its small footprint fills up quickly in peak summer. Reaching the sand involves parking legally near the coastal road and walking down a short, steep path with uneven or improvised steps. Some guides describe seasonal loungers, parasols and refreshments, while others report fewer services, so do not assume they will be operating on the day you visit. Notos is best appreciated for its scenery and transparent water rather than for extensive facilities.",
+      "practical_tips": "Arrive early in high season because roadside parking and free space on the sand are limited. Wear shoes with good grip for the steep, sometimes slippery descent; the approach may not suit pushchairs or people with reduced mobility. Bring drinking water, sun protection and your own umbrella if needed. Ask about lounger availability and charges before settling in. Supervise children on both the path and the beach.",
+      "highlights": [
+        "Small turquoise-water cove",
+        "Fine sand and generally gradual sea entry",
+        "Photogenic rocky headlands",
+        "Close to Rosogremos and Potos",
+        "Short but steep access path and limited beach space"
+      ],
+      "seo_title": "Notos Beach Thassos – access, sand and visitor tips",
+      "seo_description": "Visit Notos Beach near Potos on Thassos: a small sandy turquoise cove, steep path, roadside parking, seasonal amenities and practical beach tips.",
+      "social_caption": "🌊 Tiny cove, unforgettable turquoise water. Notos Beach near Potos rewards an early visit—but remember the descent to the sand is steep. 🏖️🇬🇷 #Thassos #NotosBeach #GreekIslands",
+      "photo_alt": "Small Notos cove on Thassos, with pale sand, turquoise water and rocky edges."
+    },
+    "el": {
+      "name": "Παραλία Νότος (South Beach)",
+      "tagline": "Ένας μικρός γαλαζοπράσινος όρμος κάτω από τον παραλιακό δρόμο",
+      "summary": "Ανατολικά του Ποτού και αμέσως μετά τον Ρωσογκρεμό, η παραλία Νότος είναι ένας μικρός αμμώδης όρμος με διαυγή νερά και γενικά ομαλή είσοδο στη θάλασσα. Η απότομη κατάβαση και ο περιορισμένος χώρος απαιτούν λίγη προετοιμασία.",
+      "description": "Η παραλία Νότος, γνωστή και ως South Beach, βρίσκεται στη νότια ακτή της Θάσου, περίπου τρία χιλιόμετρα ανατολικά του Ποτού. Ένας βραχώδης σχηματισμός τη χωρίζει από τον κοντινό Ρωσογκρεμό. Πρόκειται για έναν μικρό κόλπο με λεπτή άμμο, εντυπωσιακά διαυγή γαλαζοπράσινα νερά και βραχώδη άκρα που δημιουργούν ένα ιδιαίτερα όμορφο τοπίο. Στο αμμώδες τμήμα η είσοδος στη θάλασσα είναι συνήθως ομαλή, αλλά κατά τόπους μπορεί να υπάρχουν πέτρες και οι συνθήκες αλλάζουν ανάλογα με τον καιρό. Η μικρή έκταση του όρμου σημαίνει ότι τους μήνες αιχμής μπορεί να γεμίσει γρήγορα. Η πρόσβαση γίνεται από τον παραλιακό δρόμο, όπου πρέπει να σταθμεύσετε νόμιμα, και στη συνέχεια από ένα σύντομο αλλά απότομο μονοπάτι με ανώμαλα, αυτοσχέδια σκαλοπάτια. Ορισμένοι ταξιδιωτικοί οδηγοί αναφέρουν εποχικές ξαπλώστρες, ομπρέλες και αναψυκτικά, ενώ άλλοι καταγράφουν λιγότερες υπηρεσίες. Επομένως είναι καλύτερο να μη βασιστείτε σε παροχές που δεν έχουν επιβεβαιωθεί επιτόπου. Η πραγματική γοητεία του Νότου είναι το νερό και η αίσθηση ενός μικρού κρυμμένου όρμου.",
+      "practical_tips": "Φτάστε νωρίς την υψηλή περίοδο, επειδή οι θέσεις στάθμευσης κοντά στον δρόμο και ο ελεύθερος χώρος στην παραλία είναι περιορισμένοι. Φορέστε παπούτσια με καλή πρόσφυση για την απότομη, ενδεχομένως ολισθηρή κατάβαση. Η διαδρομή δεν είναι κατάλληλη για όλους, ιδιαίτερα για καρότσια και άτομα με μειωμένη κινητικότητα. Πάρτε νερό, αντηλιακή προστασία και ομπρέλα αν τη χρειάζεστε. Επιβεβαιώστε επιτόπου τις διαθέσιμες υπηρεσίες και τις χρεώσεις.",
+      "highlights": [
+        "Μικρός όρμος με γαλαζοπράσινα νερά",
+        "Λεπτή άμμος και γενικά ομαλή είσοδος",
+        "Βραχώδη άκρα με όμορφη θέα",
+        "Κοντά στον Ρωσογκρεμό και τον Ποτό",
+        "Απότομο μονοπάτι και περιορισμένος χώρος"
+      ],
+      "seo_title": "Παραλία Νότος Θάσος – πρόσβαση, άμμος και συμβουλές",
+      "seo_description": "Γνωρίστε την παραλία Νότος κοντά στον Ποτό: μικρός αμμώδης όρμος, γαλαζοπράσινα νερά, απότομο μονοπάτι και χρήσιμες πληροφορίες.",
+      "social_caption": "🌊 Μικρή παραλία, απίθανα καθαρά νερά! Ο Νότος κοντά στον Ποτό αξίζει μια πρωινή επίσκεψη. Προσοχή στην απότομη κατάβαση. 🏖️🇬🇷 #Θάσος #ΠαραλίαΝότος #Ελλάδα",
+      "photo_alt": "Μικρός αμμώδης όρμος Νότος στη Θάσο, με γαλαζοπράσινα νερά και βράχια στις άκρες."
+    },
+    "de": {
+      "name": "Notos Beach (South Beach)",
+      "tagline": "Eine kleine türkisfarbene Bucht unterhalb der Küstenstraße",
+      "summary": "Östlich von Potos, direkt hinter Rosogremos, liegt die kleine Sandbucht Notos mit klarem Wasser und meist sanftem Einstieg ins Meer. Der steile Abstieg und das begrenzte Platzangebot sollten bei der Planung berücksichtigt werden.",
+      "description": "Notos Beach, auch South Beach genannt, liegt an der Südküste von Thassos etwa drei Kilometer östlich von Potos. Ein felsiger Vorsprung trennt die Bucht vom benachbarten Rosogremos. Statt eines langen Strandes erwartet Sie hier ein kleiner Abschnitt mit feinem Sand, ausgesprochen klarem türkisfarbenem Wasser und felsigen Rändern. Im sandigen Teil fällt der Meeresboden meist langsam ab; stellenweise können jedoch Steine liegen, und die Badebedingungen hängen vom Wetter ab. Gerade die überschaubare Größe macht den Reiz dieser Bucht aus, sorgt aber auch dafür, dass es im Hochsommer schnell voll werden kann. Man parkt an einer erlaubten Stelle entlang der Küstenstraße und steigt über einen kurzen, steilen Pfad mit unregelmäßigen, teilweise provisorischen Stufen hinunter. Manche Reiseführer nennen saisonale Liegen, Sonnenschirme und Getränkeangebote, andere berichten von weniger Ausstattung. Verlassen Sie sich deshalb nicht ohne aktuelle Prüfung auf diese Einrichtungen. Notos ist vor allem wegen seines Landschaftsbildes und des klaren Wassers einen Besuch wert.",
+      "practical_tips": "In der Hochsaison möglichst früh kommen, da Parkmöglichkeiten am Straßenrand und freie Strandflächen knapp sind. Für den steilen und stellenweise rutschigen Abstieg feste Schuhe mit gutem Profil tragen. Der Weg ist für Kinderwagen und Menschen mit eingeschränkter Mobilität möglicherweise ungeeignet. Trinkwasser, Sonnenschutz und bei Bedarf einen eigenen Schirm mitnehmen. Preise und Verfügbarkeit von Liegen vor Ort erfragen.",
+      "highlights": [
+        "Kleine Bucht mit türkisfarbenem Wasser",
+        "Feiner Sand und meist flacher Einstieg",
+        "Fotogene Felsen an den Buchträndern",
+        "In der Nähe von Rosogremos und Potos",
+        "Kurzer, aber steiler Zugangsweg"
+      ],
+      "seo_title": "Notos Beach Thassos – Zugang, Sandstrand und Tipps",
+      "seo_description": "Notos Beach bei Potos entdecken: kleine Sandbucht mit türkisfarbenem Meer, steiler Zugang, Parken an der Straße und praktische Hinweise.",
+      "social_caption": "🌊 Klein, aber wunderschön: Notos Beach bei Potos begeistert mit glasklarem, türkisfarbenem Wasser. Früh kommen und feste Schuhe für den Abstieg einpacken! 🏖️🇬🇷 #Thassos #NotosBeach #Griechenland",
+      "photo_alt": "Kleine Sandbucht Notos auf Thassos mit türkisfarbenem Wasser und felsigen Ufern."
+    },
+    "bg": {
+      "name": "Нотос Бийч (South Beach)",
+      "tagline": "Малък тюркоазен залив под крайбрежния път",
+      "summary": "Източно от Потос, непосредствено след Росогремос, Нотос е малък пясъчен залив с прозрачна вода и обикновено плавно навлизане в морето. Стръмната пътека и ограниченото място на плажа изискват предварителна подготовка.",
+      "description": "Нотос Бийч, известен и като South Beach, се намира на южния бряг на Тасос, на около три километра източно от Потос. Скалист нос отделя малкия залив от съседния Росогремос. Тук няма дълга плажна ивица, а уютно пространство с фин пясък, изключително прозрачна тюркоазена вода и живописни скали от двете страни. В пясъчната част навлизането в морето обикновено е плавно, но на места има камъни, а условията зависят от времето. Красотата на залива го прави предпочитан за спокойно плуване, въпреки че през активния летен сезон малката площ бързо се запълва. До брега се стига от главния крайбрежен път, където трябва да паркирате на разрешено място, а след това да слезете по къса, но стръмна пътека с неравни и импровизирани стъпала. Някои пътеводители споменават сезонни шезлонги, чадъри и напитки, а други описват по-ограничени услуги. Затова е разумно да проверите удобствата на място. Основното очарование на Нотос е природният пейзаж и чистата вода.",
+      "practical_tips": "През силния сезон пристигайте рано, защото местата за паркиране край пътя и свободното пространство на пясъка са ограничени. Носете обувки с добро сцепление за стръмното, на места хлъзгаво спускане. Пътеката може да е неподходяща за детски колички и хора с ограничена подвижност. Вземете вода, слънцезащита и собствен чадър при нужда. Проверете наличността и цените на шезлонгите на място.",
+      "highlights": [
+        "Малък залив с тюркоазена вода",
+        "Фин пясък и обикновено плавно навлизане",
+        "Живописни скали от двете страни",
+        "Близо до Росогремос и Потос",
+        "Къса, но стръмна пътека за достъп"
+      ],
+      "seo_title": "Нотос Бийч, Тасос – достъп, пясък и полезни съвети",
+      "seo_description": "Открийте Нотос близо до Потос: малък пясъчен залив, тюркоазена вода, стръмна пътека, паркиране край пътя и сезонни удобства.",
+      "social_caption": "🌊 Малък залив с впечатляващо прозрачна вода! Нотос край Потос е чудесен за ранна морска почивка. Не забравяйте удобни обувки за стръмната пътека. 🏖️🇬🇷 #Тасос #NotosBeach #Гърция",
+      "photo_alt": "Малкият пясъчен залив Нотос на Тасос с тюркоазена вода и скалисти краища."
+    },
+    "sr": {
+      "name": "Notos Beach (South Beach)",
+      "tagline": "Mala tirkizna uvala ispod obalnog puta",
+      "summary": "Istočno od Potosa, odmah iza Rosogremosa, nalazi se mala peščana uvala Notos sa bistrom vodom i uglavnom postepenim ulaskom u more. Strma staza do obale i ograničen prostor na pesku zahtevaju malo planiranja.",
+      "description": "Plaža Notos, poznata i kao South Beach, smeštena je na južnoj obali Tasosa, oko tri kilometra istočno od Potosa. Od susednog Rosogremosa odvaja je stenoviti rt. Umesto duge obale, ovde vas dočekuju mala peščana površina, izuzetno bistra tirkizna voda i stene koje uokviruju zaliv. Ulazak u more je u peščanom delu uglavnom postepen, mada se ponegde pojavljuju kamenčići, a uslovi zavise od vremena. Notos je privlačan za kupanje i miran odmor, ali se zbog male veličine leti brzo popunjava. Do plaže se dolazi od glavnog obalnog puta, gde automobil treba ostaviti na dozvoljenom mestu, a zatim sići kratkom, strmom stazom sa neravnim, mestimično improvizovanim stepenicama. Neki vodiči pominju sezonske ležaljke, suncobrane i posluženje pića, dok drugi navode manje usluga. Zato raspoloživost sadržaja treba proveriti na licu mesta. Najveća vrednost Notosa su njegov slikovit ambijent i prozirno more, a ne razvijena infrastruktura.",
+      "practical_tips": "U špicu sezone dođite ranije jer je parking uz put ograničen, kao i slobodno mesto na pesku. Za strmu i ponegde klizavu stazu potrebna je obuća sa dobrim đonom. Prilaz može biti neprikladan za kolica i osobe sa smanjenom pokretljivošću. Ponesite vodu, zaštitu od sunca i sopstveni suncobran po potrebi. Raspitajte se o ležaljkama i cenama pre korišćenja.",
+      "highlights": [
+        "Mala uvala sa tirkiznom vodom",
+        "Sitni pesak i uglavnom postepen ulazak",
+        "Fotogenične stene oko zaliva",
+        "Blizu Rosogremosa i Potosa",
+        "Kratak, ali strm pristup plaži"
+      ],
+      "seo_title": "Notos Beach Tasos – pristup, pesak i korisni saveti",
+      "seo_description": "Upoznajte Notos blizu Potosa na Tasosu: mala peščana uvala, tirkizna voda, strma staza, parking uz put i praktične preporuke.",
+      "social_caption": "🌊 Mala plaža, neverovatno bistra voda! Notos kod Potosa idealan je za rano jutarnje kupanje. Ponesite obuću za strm prilaz. 🏖️🇬🇷 #Tasos #NotosBeach #Grcka",
+      "photo_alt": "Mala peščana uvala Notos na Tasosu, sa tirkiznom vodom i stenama na obodu."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/notos/images/notos1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/notos/images/notos2.webp",
+      "destinations/thassos/beaches/notos/images/notos3.webp",
+      "destinations/thassos/beaches/notos/images/notos4.webp",
+      "destinations/thassos/beaches/notos/images/notos5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/notos/images/",
+    "suggested_asset_names": [
+      "notos1.webp",
+      "notos2.webp",
+      "notos3.webp",
+      "notos4.webp",
+      "notos5.webp"
+    ],
+    "image_policy": "Publish only user-provided, owned or appropriately licensed photographs depicting Notos Beach on Thassos. Paths were assigned from filenames shown in the user screenshot; confirm each photo’s location, provenance, publication rights and required attribution before release.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_nikana_2026",
+      "kind": "travel_guide",
+      "title": "Nikana — Notos Beach (updated October 2026)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1923/notos-beach",
+      "detail": "Location near Rosogremos; fine sand; short steep path and improvised steps; reports seasonal loungers, refreshments, showers and changing facilities. Prices not imported.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_staythassos",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Notos Beach local guide",
+      "url": "https://staythassos.gr/notos-beach/",
+      "detail": "No direct beach parking, roadside spaces, steep footpath and difficulty for visitors with mobility constraints.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_allovergreece",
+      "kind": "travel_guide",
+      "title": "AllOverGreece — Notos Beach",
+      "url": "https://www.allovergreece.com/Beaches/Descr/44/1001/en",
+      "detail": "Small sandy cove; reports amenities differently from Nikana. WARNING: displayed GPS point 39.44793,20.00441 is outside Thassos and is rejected.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_mapcarta",
+      "kind": "open_map_derivative",
+      "title": "Mapcarta — Notos mapped beach (OSM way 208159693)",
+      "url": "https://mapcarta.com/W208159693",
+      "detail": "Candidate beach centroid 40.59374,24.62028 from OpenStreetMap mapping, not verified Google Maps coordinate. Attribution and ODbL obligations should be evaluated before reuse.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_pame",
+      "kind": "travel_guide",
+      "title": "Pame Paralia — Notos (Thasos)",
+      "url": "https://pameparalia.com/beach/notos-mainland",
+      "detail": "Nearby small cove, mix of sand and stones and difficult parking; geographic point differs slightly from mapped OSM feature.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_greek_info",
+      "kind": "travel_guide",
+      "title": "Grčka Info — Notos beach visitor guide",
+      "url": "https://grckainfo.com/sr/blog/notos-plaza-na-tasosu-kako-stici-opis-plaze-iskustva/986/",
+      "detail": "Pictures and local beach description. Photos referenced for research only, no reuse rights assumed.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana_overview",
+      "kind": "travel_guide",
+      "title": "Nikana — Beaches near Potos and Limenaria",
+      "url": "https://ns1.nikana.gr/en/tourist-guide/thassos/beaches/2588/beaches-near-potos-and-limenaria",
+      "detail": "Distinguishes Notos from Rosogremos; mentions seasonal loungers and limited roadside parking.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_coordinate_and_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm preferred Google Maps beach pin, set lat/lng only from confirmed map point",
+      "Confirm access path condition and safe/legal parking",
+      "Check seasonal lounger, bar, shower and changing facilities with current operator",
+      "Confirm that notos1.webp–notos5.webp depict Notos Beach on Thassos rather than neighbouring Rosogremos or Agia Anna; document photograph provenance, commercial reuse permissions and required attributions",
+      "Review translations with native speakers before public release"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; commercial publication and redistribution rights for the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths assigned from filenames visible in the user screenshot. Actual image files, exact geographic subjects and publication rights have not been independently verified."
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 1,
+  "id": "gr-thassos-beach-bar-gossip-beach-bar",
+  "slug": "gossip-beach-bar",
+  "category": "beach-bars",
+  "name": "GOSSIP Beach Bar",
+  "venueType": "beach_bar",
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "areaSlug": "skala-sotiros",
+    "address": "Σκάλα Σωτήρος 640 10, Greece",
+    "latitude": 40.72822827993907,
+    "longitude": 24.546703444888248,
+    "beachSlug": "skala-sotiros",
+    "setting": [
+      "beachfront",
+      "seaside"
+    ],
+    "coordinatesSource": "user_supplied_google_maps_coordinates"
+  },
+  "contact": {
+    "phone": "+30 698 188 8403",
+    "phoneUri": "tel:+306981888403",
+    "instagramHandle": "gossipbeachbarthassos"
+  },
+  "experience": {
+    "ambience": [
+      "casual",
+      "cosy",
+      "relaxed",
+      "romantic_at_sunset"
+    ],
+    "suitableFor": [
+      "families",
+      "groups",
+      "couples",
+      "solo_visitors"
+    ],
+    "beachAreaObserved": [
+      "sun_loungers",
+      "straw_parasols",
+      "seating_near_sea"
+    ],
+    "seatingObserved": [
+      "shaded_terrace",
+      "outdoor_tables",
+      "lounge_seating"
+    ],
+    "diningOptionsReported": [
+      "dine_in",
+      "takeaway",
+      "delivery",
+      "table_service"
+    ],
+    "drinksReported": [
+      "coffee",
+      "soft_drinks",
+      "cocktails",
+      "beer",
+      "wine",
+      "spirits"
+    ],
+    "foodObservedOrMenuDocumented": [
+      "burgers",
+      "club_sandwiches",
+      "salads",
+      "pancakes",
+      "gyros",
+      "souvlaki",
+      "desserts",
+      "fish_dishes"
+    ]
+  },
+  "beachService": {
+    "loungersAvailable": true,
+    "parasolsAvailable": true,
+    "pricingClaim": "A visitor reported free sun loungers for terrace customers; a photograph also shows a FREE sign. No current official terms have been confirmed.",
+    "freeForCustomersConfirmedByOperator": false,
+    "minimumConsumptionConfirmed": false,
+    "reservationPolicyConfirmed": false,
+    "serviceAtLoungersConfirmed": false
+  },
+  "practical": {
+    "amenitiesReported": [
+      "toilet",
+      "gender_neutral_toilet",
+      "free_wifi"
+    ],
+    "paymentMethodsReported": [
+      "credit_card",
+      "debit_card",
+      "NFC_contactless"
+    ],
+    "parkingReported": [
+      "free_street_parking",
+      "free_parking_lot"
+    ],
+    "familyFriendlyReported": true,
+    "dogsAllowedReported": true,
+    "reservationStatus": "walk_in_reported_in_reviews_but_official_policy_unconfirmed"
+  },
+  "openingHours": {
+    "listingClaim": "24_hours_daily",
+    "verifiedByOperator": false,
+    "publishAsConfirmedHours": false,
+    "note": "Google Maps data supplied by user show 24 hours every day; may be inaccurate or seasonal. Do not state that the venue operates 24/7 without confirmation.",
+    "timezone": "Europe/Athens"
+  },
+  "pricingGuide": {
+    "currency": "EUR",
+    "minPerPerson": 10,
+    "maxPerPerson": 25,
+    "basis": "Google Maps visitor-reported typical spend (63 people in user snapshot), not a guaranteed price or official tariff",
+    "reportedPriceOutliersExist": true
+  },
+  "reputation": {
+    "source": "Google Maps user-provided snapshot",
+    "rating": 4.6,
+    "ratingScale": 5,
+    "reviewCountAtSnapshot": 252,
+    "reviewSummaries": [
+      "Visitors praised the food and welcoming service.",
+      "Some visitors described a relaxed, quiet beachfront atmosphere.",
+      "One review reported free loungers for customers, pending confirmation."
+    ],
+    "ratingsMayChange": true
+  },
+  "menu": {
+    "file": "menu.json",
+    "status": "historical_reference_unverified",
+    "publishAsCurrent": false
+  },
+  "translations": {
+    "ro": {
+      "tagline": "Relaxare pe plajă, preparate gustoase și apusuri la Marea Egee",
+      "shortDescription": "Beach bar în Skala Sotiros, Thassos, cu șezlonguri pe nisip, zone de lounge, băuturi, cocktailuri și preparate pentru o zi întreagă la mare.",
+      "description": "GOSSIP Beach Bar este un loc de relaxare chiar lângă mare, în Skala Sotiros, pe insula Thassos. Șezlongurile și umbrelele din paie, locurile umbrite pentru servirea mesei și priveliștea spre apele albastre creează o atmosferă potrivită pentru o zi liniștită la plajă. Oferta prezentată în meniurile fotografiate cuprinde cafea, băuturi răcoritoare, cocktailuri, gustări, burgeri, sandvișuri, salate și preparate grecești. Spre seară, terasa și zona de plajă capătă un farmec aparte la apus. Este o alegere plăcută pentru cupluri, familii sau grupuri de prieteni care vor să alterneze înotul cu pauzele de relaxare. Condițiile pentru șezlonguri, programul și prețurile trebuie reconfirmate la fața locului.",
+      "seoTitle": "GOSSIP Beach Bar Skala Sotiros | Plajă, șezlonguri și cocktailuri",
+      "seoDescription": "Descoperă GOSSIP Beach Bar din Skala Sotiros, Thassos: plajă cu șezlonguri, gustări, cafea, cocktailuri și fotografii cu apusul."
+    },
+    "en": {
+      "tagline": "Beachside relaxation, good food and Aegean sunsets",
+      "shortDescription": "A beach bar in Skala Sotiros, Thassos, with sun loungers, shaded lounge seating, coffees, cocktails and food by the sea.",
+      "description": "GOSSIP Beach Bar sits beside the sea in Skala Sotiros on Thassos. Straw parasols, beach loungers, shaded tables and open views of the water make it an inviting place to spend a relaxed day by the coast. The photographed menus include coffee, soft drinks, cocktails, snacks, burgers, club sandwiches, salads and Greek-style dishes. In the evening, the beachfront setting is especially appealing as the sun goes down. Couples, families and groups of friends can enjoy an easy-going beach stop with something to eat or drink between swims. Lounger terms, seasonal opening hours and current prices should be confirmed with the venue.",
+      "seoTitle": "GOSSIP Beach Bar Skala Sotiros | Loungers, Food & Sunset",
+      "seoDescription": "Explore GOSSIP Beach Bar in Skala Sotiros, Thassos: seaside loungers, coffee, cocktails, food, sunset views and photos."
+    },
+    "el": {
+      "tagline": "Χαλάρωση στην παραλία, νόστιμες γεύσεις και ηλιοβασίλεμα στο Αιγαίο",
+      "shortDescription": "Beach bar στη Σκάλα Σωτήρος της Θάσου με ξαπλώστρες, σκιερούς χώρους, καφέδες, κοκτέιλ και φαγητό δίπλα στη θάλασσα.",
+      "description": "Το GOSSIP Beach Bar βρίσκεται δίπλα στη θάλασσα στη Σκάλα Σωτήρος της Θάσου. Οι ψάθινες ομπρέλες, οι ξαπλώστρες, τα σκιερά τραπέζια και η ανοιχτή θέα στο νερό δημιουργούν ένα χαλαρό σκηνικό για μια ημέρα στην παραλία. Στα φωτογραφημένα μενού εμφανίζονται καφέδες, αναψυκτικά, κοκτέιλ, σνακ, μπέργκερ, σάντουιτς, σαλάτες και ελληνικά πιάτα. Το απόγευμα, το παραθαλάσσιο περιβάλλον γίνεται ιδιαίτερα όμορφο την ώρα του ηλιοβασιλέματος. Είναι μια ευχάριστη επιλογή για ζευγάρια, οικογένειες και παρέες. Οι όροι χρήσης των ξαπλωστρών, το εποχικό ωράριο και οι σημερινές τιμές χρειάζονται επιβεβαίωση από την επιχείρηση.",
+      "seoTitle": "GOSSIP Beach Bar Σκάλα Σωτήρος | Ξαπλώστρες και κοκτέιλ",
+      "seoDescription": "GOSSIP Beach Bar στη Σκάλα Σωτήρος Θάσου: ξαπλώστρες, καφές, κοκτέιλ, φαγητό και θέα στο ηλιοβασίλεμα."
+    },
+    "de": {
+      "tagline": "Entspannung am Strand, gutes Essen und Sonnenuntergänge an der Ägäis",
+      "shortDescription": "Beachbar in Skala Sotiros auf Thassos mit Sonnenliegen, schattigen Sitzplätzen, Kaffee, Cocktails und Speisen direkt am Meer.",
+      "description": "Die GOSSIP Beach Bar liegt direkt am Meer in Skala Sotiros auf Thassos. Sonnenschirme aus Stroh, Liegen am Strand, schattige Tische und der freie Blick aufs Wasser schaffen eine entspannte Atmosphäre für einen Tag an der Küste. Auf den fotografierten Speisekarten finden sich Kaffee, Erfrischungsgetränke, Cocktails, Snacks, Burger, Sandwiches, Salate und griechische Gerichte. Besonders stimmungsvoll wird es am Abend, wenn die Sonne über dem Meer untergeht. Die Bar eignet sich für Paare, Familien und Freundesgruppen, die Baden und gemütliche Pausen miteinander verbinden möchten. Konditionen für Sonnenliegen, saisonale Öffnungszeiten und aktuelle Preise sollten vor Ort bestätigt werden.",
+      "seoTitle": "GOSSIP Beach Bar Skala Sotiros | Liegen, Essen und Cocktails",
+      "seoDescription": "GOSSIP Beach Bar auf Thassos: Sonnenliegen in Skala Sotiros, Kaffee, Cocktails, Speisen und Sonnenuntergang am Meer."
+    },
+    "bg": {
+      "tagline": "Почивка на плажа, вкусна храна и залези над Егейско море",
+      "shortDescription": "Плажен бар в Скала Сотирос, Тасос, с шезлонги, сенчести места за отдих, кафе, коктейли и храна край морето.",
+      "description": "GOSSIP Beach Bar се намира до морето в Скала Сотирос на остров Тасос. Сламените чадъри, шезлонгите, сенчестите маси и гледката към водата създават приятна обстановка за спокоен ден на плажа. На заснетите менюта се виждат кафе, безалкохолни напитки, коктейли, закуски, бургери, сандвичи, салати и гръцки ястия. Вечер крайбрежната атмосфера е особено красива при залез слънце. Мястото е подходящо за двойки, семейства и приятелски компании, които искат да съчетаят къпането с почивка и хапване. Условията за ползване на шезлонги, сезонното работно време и актуалните цени трябва да се потвърдят от заведението.",
+      "seoTitle": "GOSSIP Beach Bar Скала Сотирос | Плаж, храна и коктейли",
+      "seoDescription": "GOSSIP Beach Bar в Скала Сотирос, Тасос: шезлонги, кафе, коктейли, храна и красиви морски залези."
+    },
+    "sr": {
+      "tagline": "Opuštanje na plaži, ukusna hrana i zalasci sunca nad Egejom",
+      "shortDescription": "Bar na plaži u Skali Sotiros na Tasosu, sa ležaljkama, mestima u hladu, kafom, koktelima i hranom uz more.",
+      "description": "GOSSIP Beach Bar nalazi se uz more u Skali Sotiros na Tasosu. Suncobrani od slame, ležaljke, stolovi u hladu i otvoren pogled na more stvaraju prijatnu atmosferu za opušten dan na plaži. Na fotografisanim jelovnicima nalaze se kafa, bezalkoholna pića, kokteli, grickalice, burgeri, sendviči, salate i grčka jela. Predveče je ambijent posebno lep dok sunce zalazi nad morem. Mesto je privlačno parovima, porodicama i društvu koje želi da spoji kupanje, odmor i lagani obrok. Uslove korišćenja ležaljki, sezonsko radno vreme i aktuelne cene potrebno je proveriti kod osoblja.",
+      "seoTitle": "GOSSIP Beach Bar Skala Sotiros | Plaža, hrana i kokteli",
+      "seoDescription": "GOSSIP Beach Bar na Tasosu: ležaljke u Skali Sotiros, kafa, kokteli, hrana i zalasci sunca uz more."
+    }
+  },
+  "media": {
+    "folder": "images/",
+    "cover": "images/Panoramă însorită la plajă cu șezlonguri.webp",
+    "logoOrEntrancePhoto": "images/Intrarea vibrantă la Gossip Beach Bar.webp",
+    "images": [
+      {
+        "file": "images/Panoramă însorită la plajă cu șezlonguri.webp",
+        "role": "beach",
+        "alt": {
+          "ro": "Plaja cu șezlonguri și umbrele",
+          "en": "Beachfront sun loungers and parasols"
+        }
+      },
+      {
+        "file": "images/Burger gourmet cu cartofi și bere la plajă.webp",
+        "role": "food",
+        "alt": {
+          "ro": "Burger cu cartofi și bere",
+          "en": "Burger, potatoes and beer"
+        }
+      },
+      {
+        "file": "images/Deserturi aurii cu inimi de scorțișoară.webp",
+        "role": "dessert",
+        "alt": {
+          "ro": "Platou de deserturi",
+          "en": "Assorted desserts"
+        }
+      },
+      {
+        "file": "images/Sandviș crocant cu cartofi prăjiți pe plajă.webp",
+        "role": "food",
+        "alt": {
+          "ro": "Sandviș cu cartofi, cu marea în fundal",
+          "en": "Sandwich and potatoes overlooking the sea"
+        }
+      },
+      {
+        "file": "images/Salon de plajă la apus.webp",
+        "role": "sunbeds",
+        "alt": {
+          "ro": "Zona de șezlonguri la apus",
+          "en": "Sun loungers at sunset"
+        }
+      },
+      {
+        "file": "images/Pește la grătar cu garnituri mediteraneene.webp",
+        "role": "food",
+        "alt": {
+          "ro": "Pește la grătar cu garnituri",
+          "en": "Grilled fish with accompaniments"
+        }
+      },
+      {
+        "file": "images/Cocktail și meniu la apus pe plajă.webp",
+        "role": "drinks",
+        "alt": {
+          "ro": "Cocktail și meniu la apus",
+          "en": "Cocktail and menu at sunset"
+        }
+      },
+      {
+        "file": "images/Burger gourmet cu nachos la soare.webp",
+        "role": "food",
+        "alt": {
+          "ro": "Burger cu nachos",
+          "en": "Burger with nachos"
+        }
+      },
+      {
+        "file": "images/Stațiune mediteraneană cu umbrele de paie.webp",
+        "role": "beach",
+        "alt": {
+          "ro": "Umbrele pe plajă și vedere la mare",
+          "en": "Beach parasols and sea view"
+        }
+      },
+      {
+        "file": "images/Intrarea vibrantă la Gossip Beach Bar.webp",
+        "role": "entrance",
+        "alt": {
+          "ro": "Intrarea Gossip Beach Bar",
+          "en": "Gossip Beach Bar entrance"
+        }
+      },
+      {
+        "file": "images/Bară de plajă colorată sub umbrele.webp",
+        "role": "bar",
+        "alt": {
+          "ro": "Zona de mese și bar",
+          "en": "Beach bar seating area"
+        }
+      }
+    ],
+    "videosFolder": "videos/",
+    "videos": []
+  },
+  "publication": {
+    "status": "draft",
+    "reasons": [
+      "Verify current opening hours and seasonal operation.",
+      "Confirm current menu prices, ingredients and allergens.",
+      "Verify official lounger conditions and charges.",
+      "Confirm commercial image rights for all photos.",
+      "Verify delivery and pickup services and reservation policy."
+    ],
+    "sources": [
+      "User-supplied Google Maps business listing/reviews",
+      "User-supplied menu screenshots",
+      "User-supplied local image filenames screenshot (base names preserved; extension .webp requested)"
+    ]
+  }
+}

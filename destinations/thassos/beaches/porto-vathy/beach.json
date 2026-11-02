@@ -1,0 +1,338 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-porto-vathy",
+  "slug": "porto-vathy",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Πόρτο Βαθύ",
+    "international_name": "Porto Vathy Beach",
+    "aliases": [
+      "Porto Vathi",
+      "Porto Vati",
+      "Porto Vathy Marble Beach",
+      "Πόρτο Βαθύ",
+      "Porto Vathy"
+    ],
+    "entity_scope": "Small marble-shingle cove near Saliara on the northeastern coast of Thassos; separately identified from Saliara (Marble Beach) and Vathy Beach farther along the coast.",
+    "deduplication_warning": "Porto Vathy / Porto Vathi is not Saliara (Marble Beach) or Vathy Beach. Also distinguish the beach itself from the beach-bar business using the same name."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "northeast",
+    "settlements": [
+      "Limenas (Thassos Town)",
+      "Chrysi Ammoudia (Golden Beach area)"
+    ],
+    "lat": 40.747655498385,
+    "lng": 24.751324767967,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://maps.google.com/?daddr=40.747655498385%2C24.751324767967",
+    "coordinate_source_reference": "s_map",
+    "coordinate_type": "beach_operator_reference_pin_not_confirmed_road_access",
+    "coordinate_review_status": "google_maps_directions_point_from_local_listing; final preferred beach access point pending manual review",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "white_marble_grit_and_small_pebbles",
+    "seabed_near_shore": "light_colored_marble_granules_and_stones_reported",
+    "water_entry": "variable_check_locally",
+    "nearshore_depth": "variable_not_independently_verified",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "wind_dependent",
+    "exposure": "small_northeastern_coastal_cove",
+    "natural_shade_on_sand": "very_limited",
+    "beach_length_m": null,
+    "length_note": "No independently verified measured beach length; compact cove.",
+    "backdrop": "pine-covered slopes, rocky edges and a distinctive white marble landscape",
+    "shoreline_type": "small_marbly_cove"
+  },
+  "visitor_experience": {
+    "organization": "seasonally_organized_with_some_free_space",
+    "suitable_for": [
+      "couples",
+      "groups",
+      "swimming",
+      "photography",
+      "relaxed_day",
+      "coastal_exploration"
+    ],
+    "notable_for": [
+      "white_marble_shore",
+      "intense_turquoise_water",
+      "small_cove",
+      "near_saliara",
+      "scenic_photography"
+    ],
+    "activities_possible": [
+      "swimming",
+      "photography",
+      "relaxing",
+      "coastal_sightseeing",
+      "snorkeling_if_conditions_allow"
+    ],
+    "estimated_crowd_peak": "can_be_busy_in_peak_summer_and_when_beach_bar_operates",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Light-coloured gravel can hide uneven stones. Sea conditions, footing and depth can change; supervise children and avoid entering near slippery rocks or in rough water."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Claimed by beach operator in its 2026 listing; verify seasonal opening and access conditions."
+    },
+    "showers": {
+      "available_in_some_sections": true
+    },
+    "changing_rooms": {
+      "available_in_some_sections": true,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": null,
+    "lifeguard": null,
+    "lifeguard_note": "Presence and schedule not independently confirmed.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Unpaved approach and marble-grit beach; accessible route and equipment not independently confirmed.",
+    "free_unserviced_space": true,
+    "facilities_scope": "A beach-bar operator advertises showers, changing rooms, toilets, drinks and dining for its managed area. Services and free-space availability can change between seasons; not municipal facilities across the entire cove."
+  },
+  "access_and_cost": {
+    "road_access": "unpaved_dusty_coastal_track_from_makryammos_via_saliara",
+    "public_transport": "no_confirmed_regular_bus_service_to_beach",
+    "parking_type": "limited_local_parking_near_cove",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "2026 guide reports loungers offered with consumption rather than a separate fixed rental fee; reconfirm directly with the operator for the visit date.",
+    "best_arrival_advice": "Leave extra time for the dusty, uneven approach and arrive early in peak summer when parking and preferred loungers may be limited.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Some guides describe roughly 7 km from Limenas and about 500 m beyond Saliara; not stored as a precise route length due to differences in start point and road conditions."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave, operator hours or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Porto Vathy Beach",
+      "tagline": "Marmură albă și apă turcoaz într-un golf mic, ascuns între pini",
+      "summary": "Porto Vathy este un mic golf cu pietriș alb de marmură, pe coasta de nord-est a insulei Thassos, la mică distanță de Saliara. Contrastul dintre țărmul luminos, apa turcoaz și dealurile împădurite îl face un loc deosebit pentru înot și fotografii.",
+      "description": "Porto Vathy este una dintre acele plaje din Thassos unde peisajul surprinde prin culorile sale. Într-un golf compact de pe coasta de nord-est, granulele și pietricelele albe de marmură dau țărmului un aspect aproape strălucitor, iar apa limpede capătă nuanțe intense de turcoaz. În spate se ridică versanți verzi, iar marginile stâncoase completează cadrul pentru fotografii. Plaja se află la aproximativ o jumătate de kilometru după Saliara, cunoscută și drept Marble Beach, dar este un loc distinct, nu un alt nume pentru aceeași plajă. Pentru a ajunge aici dinspre Limenas, traseul obișnuit trece pe lângă Makryammos și continuă pe un drum de pământ, prăfos și uneori denivelat. În sezonul 2026 a revenit un beach bar, cu șezlonguri și umbrele, iar operatorul menționează și facilități precum dușuri, toalete și vestiare; acestea depind de funcționarea sezonieră și nu trebuie considerate servicii publice permanente. Există și porțiuni în care vizitatorii își pot așeza propriul prosop, dar spațiul este limitat. Dacă îți dorești o zi de plajă spectaculoasă, merită să ajungi devreme și să iei în calcul starea drumului înainte de plecare.",
+      "practical_tips": "Drumul de acces este neasfaltat și poate avea praf sau denivelări; condu încet și verifică dacă este potrivit mașinii tale, mai ales după ploaie. Locurile de parcare sunt limitate. Umbra naturală pe plajă este foarte puțină, deci ia protecție solară și apă. Șezlongurile, consumația minimă și facilitățile trebuie confirmate la fața locului. Nu confunda Porto Vathy cu Saliara sau cu Vathy Beach, aflată mai departe pe coastă.",
+      "highlights": [
+        "Pietriș alb de marmură și apă turcoaz",
+        "Golf mic cu peisaj fotogenic",
+        "Aproape de Saliara, dar plajă distinctă",
+        "Beach bar și șezlonguri în sezon",
+        "Acces pe drum neasfaltat"
+      ],
+      "seo_title": "Porto Vathy Thassos – plajă de marmură, acces și facilități",
+      "seo_description": "Descoperă Porto Vathy din Thassos: pietriș alb de marmură, apă turcoaz, drumul dinspre Saliara, șezlonguri, facilități și sfaturi utile.",
+      "social_caption": "🤍 Porto Vathy, Thassos: un golf mic, pietricele albe de marmură și o mare incredibil de turcoaz! 💎🌊 Drumul este prăfos, dar priveliștea merită descoperită. Salvează locul pentru următoarea vacanță! 🇬🇷 #Thassos #PortoVathy #GreekBeaches",
+      "photo_alt": "Porto Vathy din Thassos, golf cu pietriș alb de marmură, apă turcoaz și versanți verzi."
+    },
+    "en": {
+      "name": "Porto Vathy Beach",
+      "tagline": "White marble and turquoise water in a pine-fringed cove",
+      "summary": "A small marble-white cove on the northeastern coast of Thassos, a short distance beyond Saliara. Porto Vathy is known for bright pale gravel, clear turquoise water and a striking green backdrop.",
+      "description": "Porto Vathy is a compact cove on the northeastern coast of Thassos, best known for the striking contrast of bright marble-white shore and vivid turquoise sea. Fine marble grit and small pale pebbles catch the light, while wooded slopes and rocky edges frame the water. Although it lies only a short distance beyond Saliara, often called Marble Beach, Porto Vathy is a separate beach and should not be confused with Vathy Beach farther along the coast. From Limenas, the common driving approach passes Makryammos and continues along a dusty, uneven unpaved road. It is worth allowing more time than a short distance on a map might suggest. A beach bar returned for the 2026 season, bringing loungers and umbrellas back to part of the cove; the operator also lists showers, changing rooms and toilets. These are seasonal business facilities rather than guaranteed public amenities. There is some room to lay down your own towel outside the managed section, although this is not a vast beach. Porto Vathy rewards visitors who come for scenery, swimming and memorable photographs, especially when they arrive early enough to choose their spot.",
+      "practical_tips": "Expect a dusty and sometimes rutted track beyond Makryammos; drive slowly and consider your vehicle and recent weather before setting out. Parking space is limited in high season. There is little natural shade on the shore, so carry water and sun protection. Check the beach operator's current prices and facilities when you arrive. Porto Vathy, Saliara and Vathy Beach are three different places.",
+      "highlights": [
+        "White marble grit and bright turquoise water",
+        "Small photogenic coastal cove",
+        "Close to, but distinct from, Saliara",
+        "Seasonal beach bar and loungers",
+        "Unpaved access road"
+      ],
+      "seo_title": "Porto Vathy Thassos – marble beach, access and facilities",
+      "seo_description": "Explore Porto Vathy in Thassos: white marble beach, turquoise sea, access via Saliara, seasonal sunbeds, parking and practical travel tips.",
+      "social_caption": "🤍 Meet Porto Vathy, Thassos: a little cove where marble-white pebbles meet brilliant turquoise water. 💎🌊 Save this beautiful spot for your next island adventure! 🇬🇷 #Thassos #PortoVathy #GreekIslands",
+      "photo_alt": "Porto Vathy cove on Thassos with white marble pebbles, turquoise sea and forested slopes."
+    },
+    "el": {
+      "name": "Πόρτο Βαθύ",
+      "tagline": "Λευκό μάρμαρο και τιρκουάζ νερά σε έναν μικρό όρμο",
+      "summary": "Μικρή παραλία με λευκά μαρμάρινα χαλίκια στη βορειοανατολική Θάσο, λίγο μετά τη Σαλιάρα. Το φωτεινό ακρογιάλι, η γαλαζοπράσινη θάλασσα και το πράσινο των γύρω λόφων συνθέτουν ένα εντυπωσιακό τοπίο.",
+      "description": "Το Πόρτο Βαθύ είναι ένας μικρός όρμος στη βορειοανατολική ακτή της Θάσου, που ξεχωρίζει για την αντίθεση ανάμεσα στο λευκό μαρμάρινο υλικό της παραλίας και τα έντονα γαλαζοπράσινα νερά. Μικρά χαλίκια και λεπτό μαρμάρινο χαλίκι φωτίζουν την ακτογραμμή, ενώ οι καταπράσινες πλαγιές και οι βραχώδεις άκρες δημιουργούν ένα ιδιαίτερα φωτογενές σκηνικό. Βρίσκεται σε μικρή απόσταση μετά τη Σαλιάρα, γνωστή και ως Marble Beach, αλλά πρόκειται για διαφορετική παραλία· επίσης δεν πρέπει να συγχέεται με την παραλία Βαθύ που βρίσκεται πιο πέρα. Η συνηθισμένη πρόσβαση από τον Λιμένα περνά από την περιοχή Μακρύαμμος και συνεχίζει σε χωματόδρομο, ο οποίος μπορεί να είναι σκονισμένος και ανώμαλος. Για τη σεζόν του 2026 αναφέρθηκε ξανά λειτουργία beach bar με ξαπλώστρες και ομπρέλες. Η επιχείρηση δηλώνει ακόμη ντους, αποδυτήρια και τουαλέτες, όμως οι συγκεκριμένες υπηρεσίες εξαρτώνται από τη λειτουργία της και δεν αποτελούν εγγυημένες δημόσιες παροχές. Υπάρχει και περιορισμένος ελεύθερος χώρος για προσωπικό εξοπλισμό. Για περισσότερη άνεση, προτιμήστε πρωινή άφιξη και ελέγξτε την κατάσταση του δρόμου.",
+      "practical_tips": "Ο δρόμος μετά τη Μακρύαμμο είναι χωμάτινος, με σκόνη και πιθανές ανωμαλίες· οδηγήστε προσεκτικά και λάβετε υπόψη τον καιρό και το όχημά σας. Οι θέσεις στάθμευσης είναι περιορισμένες. Η φυσική σκιά πάνω στην παραλία είναι ελάχιστη, γι’ αυτό χρειάζονται νερό και αντηλιακή προστασία. Επιβεβαιώστε επιτόπου τις χρεώσεις και τις παροχές του beach bar. Το Πόρτο Βαθύ, η Σαλιάρα και η παραλία Βαθύ είναι ξεχωριστές τοποθεσίες.",
+      "highlights": [
+        "Λευκά μαρμάρινα χαλίκια και τιρκουάζ νερά",
+        "Μικρός και φωτογενής όρμος",
+        "Κοντά στη Σαλιάρα αλλά διαφορετική παραλία",
+        "Εποχικό beach bar και ξαπλώστρες",
+        "Πρόσβαση από χωματόδρομο"
+      ],
+      "seo_title": "Πόρτο Βαθύ Θάσος – παραλία, πρόσβαση και παροχές",
+      "seo_description": "Γνωρίστε το Πόρτο Βαθύ στη Θάσο: λευκό μάρμαρο, τιρκουάζ νερά, πρόσβαση από Σαλιάρα, εποχικές παροχές και χρήσιμες συμβουλές.",
+      "social_caption": "🤍 Πόρτο Βαθύ, Θάσος: λευκά μαρμάρινα χαλικάκια και απίθανα τιρκουάζ νερά σε έναν μικρό όρμο! 💎🌊 Κρατήστε το για τις επόμενες διακοπές σας! 🇬🇷 #Θάσος #ΠόρτοΒαθύ #Ελλάδα",
+      "photo_alt": "Ο όρμος Πόρτο Βαθύ στη Θάσο με λευκά μαρμάρινα χαλίκια, τιρκουάζ θάλασσα και πράσινες πλαγιές."
+    },
+    "de": {
+      "name": "Porto Vathy Beach",
+      "tagline": "Weißer Marmor und türkisfarbenes Meer in einer kleinen Bucht",
+      "summary": "Eine kleine Bucht mit hellen Marmorkieseln an der Nordostküste von Thassos, unweit von Saliara. Der fast weiße Strand, das klare türkisblaue Wasser und die bewaldeten Hänge machen Porto Vathy besonders fotogen.",
+      "description": "Porto Vathy liegt in einer kleinen Bucht an der Nordostküste von Thassos. Bekannt ist der Strand für seine hellen Marmorkiesel und den feinen weißen Marmorgrus, der zusammen mit dem klaren Meerwasser intensive Türkistöne entstehen lässt. Grüne Hänge und felsige Uferabschnitte bilden die Kulisse für einen ungewöhnlichen Strandtag. Die Bucht liegt nur ein kurzes Stück hinter Saliara, dem bekannten Marble Beach, ist aber ein eigenständiger Strand. Auch mit dem weiter entfernten Vathy Beach sollte Porto Vathy nicht verwechselt werden. Die übliche Zufahrt von Limenas führt über die Gegend von Makryammos und anschließend über eine staubige, teilweise unebene Schotterpiste. Planen Sie für diesen Abschnitt genügend Zeit ein. Zur Saison 2026 wurde wieder ein Beachbar-Betrieb mit Liegen und Sonnenschirmen gemeldet. Der Betreiber nennt außerdem Duschen, Umkleiden und Toiletten; dabei handelt es sich um saisonale Angebote des Betriebs und nicht um dauerhaft garantierte öffentliche Einrichtungen. Etwas Platz für eigene Handtücher ist außerhalb des bewirtschafteten Bereichs vorhanden, die Bucht ist insgesamt jedoch klein. Wer schöne Küstenmotive, helles Marmorgestein und ein erfrischendes Bad sucht, wird hier besonders früh am Tag fündig.",
+      "practical_tips": "Die Zufahrt ab Makryammos verläuft auf einer staubigen und teils holprigen Piste. Fahren Sie langsam und prüfen Sie die Bedingungen nach Regen sowie die Eignung Ihres Fahrzeugs. Parkplätze sind begrenzt. Natürlicher Schatten ist kaum vorhanden; Wasser und Sonnenschutz gehören ins Gepäck. Preise, Mindestverzehr und verfügbare Einrichtungen vor Ort bestätigen lassen. Porto Vathy ist nicht identisch mit Saliara oder Vathy Beach.",
+      "highlights": [
+        "Helle Marmorkiesel und türkisfarbenes Wasser",
+        "Kleine, fotogene Bucht",
+        "Nahe Saliara, aber eigener Strand",
+        "Saisonale Strandbar mit Liegen",
+        "Staubige Schotterzufahrt"
+      ],
+      "seo_title": "Porto Vathy Thassos – Marmorstrand, Anfahrt und Ausstattung",
+      "seo_description": "Porto Vathy auf Thassos entdecken: weiße Marmorkiesel, türkises Meer, Anfahrt über Saliara, saisonale Liegen und praktische Tipps.",
+      "social_caption": "🤍 Porto Vathy auf Thassos: eine kleine Bucht mit weißen Marmorkieseln und leuchtend türkisfarbenem Wasser. 💎🌊 Merkt euch dieses Ausflugsziel! 🇬🇷 #Thassos #PortoVathy #Griechenland",
+      "photo_alt": "Kleine Bucht Porto Vathy auf Thassos mit weißen Marmorkieseln, türkisfarbenem Meer und grünen Hängen."
+    },
+    "bg": {
+      "name": "Порто Вати",
+      "tagline": "Бял мрамор и тюркоазено море в малък залив",
+      "summary": "Малък залив с бели мраморни камъчета на североизточния бряг на Тасос, недалеч от Салиара. Светлият бряг, прозрачната тюркоазена вода и зелените склонове правят Порто Вати много живописно място.",
+      "description": "Порто Вати е малък залив на североизточния бряг на Тасос, известен с необичайно светлия си бряг и ярките тюркоазени нюанси на морето. Дребният мраморен чакъл и белите камъчета отразяват слънчевата светлина, а околните зелени склонове и скали допълват впечатляващия пейзаж. Плажът се намира малко след Салиара, често наричана Мраморния плаж, но представлява отделно място. Не бива да се бърка и с плажа Вати, който е по-нататък по крайбрежието. Обичайният път от Лименас минава покрай Макриамос и продължава по прашен, неравен черен път. За този участък отделете допълнително време. През сезон 2026 на Порто Вати отново работи плажен бар с шезлонги и чадъри. Операторът посочва също душове, съблекални и тоалетни, но тези услуги са сезонни и не са гарантирани обществени удобства. Има ограничено свободно място за собствени кърпи извън организираната зона. Ако обичате красиви крайбрежни гледки, снимки и плуване, пристигането по-рано ще ви даде по-голям избор на място.",
+      "practical_tips": "След Макриамос пътят е неасфалтиран, прашен и на места неравен. Шофирайте бавно и проверете условията, особено след дъжд. Паркоместата са ограничени. На самия плаж почти няма естествена сянка, затова носете вода и слънцезащита. Проверявайте на място цените и работещите удобства. Порто Вати, Салиара и Вати са различни плажове.",
+      "highlights": [
+        "Бели мраморни камъчета и тюркоазено море",
+        "Малък живописен залив",
+        "Близо до Салиара, но отделен плаж",
+        "Сезонен плажен бар и шезлонги",
+        "Достъп по черен път"
+      ],
+      "seo_title": "Порто Вати, Тасос – мраморен плаж, достъп и удобства",
+      "seo_description": "Открийте Порто Вати на Тасос: бели мраморни камъчета, тюркоазена вода, пътят през Салиара, сезонни удобства и практични съвети.",
+      "social_caption": "🤍 Порто Вати, Тасос: бели мраморни камъчета, тюркоазена вода и зелен хълм над малкия залив! 💎🌊 Запазете го за следващата си почивка! 🇬🇷 #Тасос #PortoVathy #Гърция",
+      "photo_alt": "Малкият залив Порто Вати на Тасос с бели мраморни камъчета, тюркоазена вода и зелени склонове."
+    },
+    "sr": {
+      "name": "Porto Vati (Porto Vathy)",
+      "tagline": "Beli mermerni kamenčići i tirkizno more u maloj uvali",
+      "summary": "Mala uvala sa belim mermernim kamenčićima na severoistočnoj obali Tasosa, nedaleko od plaže Saliara. Svetla obala, prozirna tirkizna voda i zelene padine stvaraju veoma upečatljiv prizor.",
+      "description": "Porto Vati je mala uvala na severoistočnoj obali Tasosa, prepoznatljiva po gotovo beloj obali i intenzivnim tirkiznim nijansama mora. Sitni mermerni šljunak i svetli kamenčići na suncu posebno dolaze do izražaja, dok zelene padine i stenoviti krajevi uvale upotpunjuju pogled. Plaža se nalazi nedaleko iza Saliare, poznate kao Mermerna plaža, ali je zasebna lokacija. Ne treba je mešati ni sa plažom Vati koja se nalazi dalje duž obale. Uobičajeni dolazak iz Limenasa vodi pored Makrijamosa, a zatim prašnjavim i ponegde neravnim makadamskim putem. Zato je dobro ostaviti dovoljno vremena za prilaz. Tokom sezone 2026. ponovo radi bar na plaži sa ležaljkama i suncobranima. Operater navodi i tuševe, svlačionice i toalete, ali su to sezonski sadržaji, a ne stalno garantovane javne usluge. Postoji i ograničen prostor za sopstvene peškire van uređenog dela. Porto Vati je lep izbor za kupanje, fotografisanje i uživanje u zanimljivom pejzažu, naročito ako dođete rano i pronađete mesto koje vam odgovara.",
+      "practical_tips": "Prilaz od Makrijamosa je zemljani i može biti prašnjav ili neravan, pa vozite polako i proverite stanje puta nakon kiše. Parking mesta su ograničena. Prirodnog hlada na plaži gotovo da nema; ponesite vodu i zaštitu od sunca. Cene, uslove korišćenja ležaljki i dostupne sadržaje proverite na licu mesta. Porto Vati, Saliara i plaža Vati nisu isto mesto.",
+      "highlights": [
+        "Beli mermerni kamenčići i tirkizna voda",
+        "Mala fotogenična uvala",
+        "Blizu Saliare, ali zasebna plaža",
+        "Sezonski bar i ležaljke",
+        "Prilaz makadamskim putem"
+      ],
+      "seo_title": "Porto Vati Tasos – mermerna plaža, prilaz i sadržaji",
+      "seo_description": "Otkrijte Porto Vati na Tasosu: beli mermerni šljunak, tirkizno more, prilaz preko Saliare, sezonski sadržaji i korisni saveti.",
+      "social_caption": "🤍 Porto Vati, Tasos: mali zaliv sa belim mermernim kamenčićima i nestvarno tirkiznim morem! 💎🌊 Sačuvajte za sledeće letovanje! 🇬🇷 #Tasos #PortoVathy #Grcka",
+      "photo_alt": "Porto Vati na Tasosu, mala uvala sa belim mermernim kamenčićima, tirkiznim morem i zelenim padinama."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/porto-vathy/images/porto-vathy1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/porto-vathy/images/porto-vathy2.webp",
+      "destinations/thassos/beaches/porto-vathy/images/porto-vathy3.webp",
+      "destinations/thassos/beaches/porto-vathy/images/porto-vathy4.webp",
+      "destinations/thassos/beaches/porto-vathy/images/porto-vathy5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/porto-vathy/images/",
+    "suggested_asset_names": [
+      "porto-vathy1.webp",
+      "porto-vathy2.webp",
+      "porto-vathy3.webp",
+      "porto-vathy4.webp",
+      "porto-vathy5.webp"
+    ],
+    "image_policy": "Use only photographs supplied by the user or covered by documented commercial reuse rights, with provenance and required attribution. Five local file paths were assigned from the user-provided Windows folder screenshot. Before publication, verify that every photo truly depicts Porto Vathy Beach in Thassos (not nearby Saliara or Vathy Beach), and confirm image rights and any derivative-use conditions; the actual WebP binaries have not been inspected.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_map",
+      "kind": "map_link",
+      "title": "MyThassos — Porto Vathi Marble Beach and Google Maps directions point",
+      "url": "https://mythassos.app/en/places/679",
+      "detail": "The listing's Maps directions link resolves to 40.747655498385, 24.751324767967. This is a business/beach reference, not independently confirmed as the best driving entrance.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana_2026",
+      "kind": "local_tourist_guide",
+      "title": "Nikana — Porto Vathy Marble Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/2342/porto-vathy-marble-beach",
+      "detail": "Separate location from Saliara, light marble shoreline, dusty road, limited parking, little natural shade, beach bar returned in the 2026 season, some space for personal equipment and variable consumption conditions.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_operator",
+      "kind": "business_listing_operator_claims",
+      "title": "MyThassos — Porto Vathi Marble Beach operator listing",
+      "url": "https://mythassos.app/en/places/679",
+      "detail": "Operator claims organized loungers, umbrellas, shower/changing/toilet facilities, parking, bar/restaurant; seasonal status and public accessibility not verified independently.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_osm_geography",
+      "kind": "open_geodata_secondary_check",
+      "title": "Mapcarta / OpenStreetMap — Πόρτο Βαθύ beach",
+      "url": "https://mapcarta.com/W708460367",
+      "detail": "OpenStreetMap-derived Porto Vathy beach feature centred around 40.74719, 24.75175; independently supports geographical identity and separation from Saliara.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_staythassos",
+      "kind": "local_tourist_guide",
+      "title": "StayThassos — How to see Porto Vathy Beach",
+      "url": "https://staythassos.gr/porto-vathy/",
+      "detail": "Locally authored visitor guide on the dusty road, early arrival and setting; contains potentially outdated operator/transport details not treated as confirmed current prices or schedules.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm preferred Google Maps beach access point, particularly because operator's pin is not a verified parking entrance",
+      "Review dusty road condition on visit date and suitability for low-clearance rental cars",
+      "Verify the five assigned local photographs porto-vathy1.webp–porto-vathy5.webp depict Porto Vathy rather than Saliara or Vathy Beach; document provenance, commercial reuse/transfer rights and any required attribution. The image files themselves have not been inspected.",
+      "Verify current seasonal beach bar, toilets, showers, changing facilities and sunbed purchase conditions",
+      "Check accessibility, lifeguard status and any restricted areas on site",
+      "Review six-language tourism copy with native readers before publication"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial dataset text supplied; five local WebP paths have been assigned, but ownership, licensing, commercial publication and transferable rights to the referenced images have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths were assigned from filenames visible in the user screenshot; image binary data is not embedded in this JSON and file contents, geographic identity and reuse permissions have not been independently verified."
+  }
+}

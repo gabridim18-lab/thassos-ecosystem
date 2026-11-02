@@ -1,0 +1,355 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-platana",
+  "slug": "platana",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Πλατάνα",
+    "international_name": "Platana Beach",
+    "aliases": [
+      "Platana",
+      "Platana Beach Bar",
+      "Paralia Platana",
+      "Παραλία Πλατάνα",
+      "Platana Beach Skala Rachoni"
+    ],
+    "entity_scope": "Sandy beach area and seasonal serviced section between Skala Rachoniou and Skala Prinos on the north-western coast of Thassos.",
+    "deduplication_warning": "Do not merge Platana Beach near Skala Rachoniou/Skala Prinos (c. 40.7703, 24.5922) with Platanes/Platanes Beach near Skala Maries (c. 40.645, 24.515). They are different beaches. Also avoid automatically treating the beach-bar operator and the beach as two geographic beaches."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "northwest",
+    "settlements": [
+      "Skala Rachoniou",
+      "Skala Prinos"
+    ],
+    "lat": 40.7703,
+    "lng": 24.5922,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Platana%20Beach%20Skala%20Rachoniou%20Thassos",
+    "coordinate_source_reference": "s_geographic_reference",
+    "coordinate_type": "approximate_representative_beach_point_not_verified_entrance",
+    "coordinate_review_status": "Coordinates read from third-party geographic source Pame Paralia, NOT yet independently confirmed in Google Maps. Google Maps URL is a search link, not a verified place pin. Confirm and update before publication.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "fine_sand",
+    "seabed_near_shore": "mostly_sandy",
+    "water_entry": "generally_gradual",
+    "nearshore_depth": "shallow_for_considerable_distance_variable_by_season",
+    "water_clarity": "often_clear_conditions_dependent",
+    "wave_conditions": "wind_dependent",
+    "exposure": "northwest_coast_open_to_western_winds",
+    "natural_shade_on_sand": "pine_shade_especially_behind_shore",
+    "beach_length_m": null,
+    "length_note": "Descriptions vary between small beach and a longer coastal strand; no measurement asserted until boundary is mapped.",
+    "backdrop": "Pine grove reaching near the sandy shore; open sea views and sunset aspect.",
+    "shoreline_type": "sandy_strip_with_serviced_and_less_serviced_areas"
+  },
+  "visitor_experience": {
+    "organization": "seasonally_organized_with_open_areas",
+    "suitable_for": [
+      "families",
+      "couples",
+      "quiet_beach_day",
+      "relaxed_swimming",
+      "sunset_watching",
+      "short_beach_walks"
+    ],
+    "notable_for": [
+      "natural_pine_shade",
+      "shallow_sandy_water",
+      "relaxed_atmosphere",
+      "sunset_views",
+      "seasonal_beach_bar"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunbathing",
+      "beach_walks",
+      "sunset_photography",
+      "seasonal_paddleboarding_or_canoeing_if_available"
+    ],
+    "estimated_crowd_peak": "usually_less_famous_than_major_beaches_but_can_fill_in_summer",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Shallow water is not a safety guarantee. Supervise children and check for waves, changing seabed conditions and current operator guidance."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Historically reported at the beach-bar operation; 2026 opening and guest access not independently checked on site."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "Reported in travel descriptions, but current availability needs direct confirmation."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": null,
+    "cafes_nearby": null,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "Not independently verified.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "No verified accessibility route or beach assistance equipment.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Most equipment and refreshments are operator-dependent and may vary by season. Do not describe all facilities as permanently public."
+  },
+  "access_and_cost": {
+    "road_access": "access_from_main_northwest_coast_road_via_local_turnoff",
+    "public_transport": "unverified_for_beach_entrance",
+    "parking_type": "local_parking_area_behind_or_near_beach",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Older guides report loungers with a drink purchase; no reliable uniform or current 2026 charge can be guaranteed. Ask the operator before using facilities.",
+    "best_arrival_advice": "Choose a morning visit for easier parking and shade; consider staying for the sunset and re-check operating hours.",
+    "distance_from_limenas_km": null,
+    "distance_note": "An indicative distance of around 14 km is reported by a local directory, but route and access point are not verified; omitted as a fixed figure."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Never store live weather, sea temperatures, wind, UV or real-time business opening status as static facts."
+  },
+  "translations": {
+    "ro": {
+      "name": "Platana Beach",
+      "tagline": "Nisip fin, umbra pinilor și apusuri liniștite",
+      "summary": "O plajă nisipoasă de pe coasta de nord-vest a insulei Thassos, între Skala Rachoni și Skala Prinos, cunoscută pentru apa puțin adâncă, umbra pinilor și atmosfera relaxată.",
+      "description": "Platana Beach se află pe țărmul de nord-vest al insulei Thassos, între Skala Rachoni și Skala Prinos. Nu impresionează prin stânci spectaculoase sau aglomerația marilor stațiuni, ci printr-o combinație plăcută de nisip fin, mare cu intrare în general lină și pini care se apropie de mal. Este o alegere potrivită pentru cei care caută câteva ore de relaxare, inclusiv familii cu copii, cu condiția supravegherii permanente în apă. Unele porțiuni sunt amenajate sezonier cu șezlonguri și umbrele, iar în apropiere există servicii de băuturi și gustări asociate beach barului. Umbra naturală se găsește mai ales către marginea plajei, nu uniform pe tot nisipul. Poziția vestică face din Platana și un loc plăcut pentru a urmări lumina caldă a apusului. Verifică înainte de vizită accesul, disponibilitatea facilităților și regulile pentru șezlonguri, care pot diferi de la un sezon la altul.",
+      "practical_tips": "Drumul se face din șoseaua de coastă între Skala Rachoni și Skala Prinos, cu acces local care poate fi ușor de trecut cu vederea. În sezon, vino mai devreme pentru parcare și un loc la umbră. Apa este adesea puțin adâncă, dar vântul și condițiile mării se schimbă; supraveghează copiii. Nu presupune că șezlongurile, toaletele sau dușurile sunt disponibile gratuit ori în fiecare zi.",
+      "highlights": [
+        "Plajă cu nisip fin",
+        "Apă în general puțin adâncă",
+        "Pini și umbră naturală în apropierea malului",
+        "Atmosferă mai liniștită decât pe plajele foarte cunoscute",
+        "Priveliști potrivite pentru apus"
+      ],
+      "seo_title": "Platana Beach Thassos – plajă cu pini, acces și facilități",
+      "seo_description": "Descoperă Platana Beach în Thassos, între Skala Rachoni și Skala Prinos: nisip fin, apă puțin adâncă, umbră de pini, acces și sfaturi practice.",
+      "social_caption": "🌲🏖️ Platana Beach, Thassos: nisip fin, pini lângă mare și apă de obicei puțin adâncă. Un loc plăcut pentru o zi fără grabă și pentru lumina apusului. Salvează-l pentru vacanța ta! 🇬🇷 #Thassos #PlatanaBeach #GreeceTravel",
+      "photo_alt": "Plaja Platana din Thassos, cu nisip fin, umbrele de plajă și pini de-a lungul țărmului."
+    },
+    "en": {
+      "name": "Platana Beach",
+      "tagline": "Soft sand, pine-tree shade and relaxed sunsets",
+      "summary": "A sandy beach on the northwestern coast of Thassos between Skala Rachoniou and Skala Prinos, appreciated for its usually shallow water, nearby pine shade and laid-back setting.",
+      "description": "Platana Beach lies along the northwestern shoreline of Thassos, between Skala Rachoniou and Skala Prinos. Rather than dramatic cliffs or a busy resort strip, its appeal is the quiet combination of soft sand, generally gradual entry into the sea and pine trees growing close to the shore. This makes it a pleasant choice for an unhurried beach day and an option for families with children, provided adults always supervise swimming. In summer, parts of the beach may be serviced with loungers and umbrellas, with refreshments and light food associated with the local beach-bar operation. Natural shade is mainly found near the tree line rather than across every part of the sand. Its west-facing outlook also makes Platana attractive later in the day, when the light softens toward sunset. Because facilities and lounger arrangements can change between seasons, confirm what is available and any minimum-spend rules locally before settling in.",
+      "practical_tips": "Reach the area from the coastal road between Skala Rachoniou and Skala Prinos; the local turnoff may be easy to miss. Arrive earlier during busy summer weeks if parking and shaded spots matter to you. The nearshore sea is usually shallow, but waves and depth can vary, so watch children closely. Check the current status of the bar, loungers, toilets and showers rather than assuming they are always operating or free.",
+      "highlights": [
+        "Soft sandy shore",
+        "Generally shallow water close to the beach",
+        "Pines and natural shade near the shoreline",
+        "Calmer atmosphere than better-known resort beaches",
+        "Appealing west-coast sunset views"
+      ],
+      "seo_title": "Platana Beach Thassos – sandy beach, access and facilities",
+      "seo_description": "Plan a visit to Platana Beach on Thassos, between Skala Rachoniou and Skala Prinos: shallow sandy water, pine shade, access and useful tips.",
+      "social_caption": "🌲🏖️ Discover Platana Beach on Thassos: soft sand, pine trees close to the sea and generally shallow water. Stay for the quieter mood and golden-hour views. 🇬🇷 #Thassos #PlatanaBeach #GreekIslands",
+      "photo_alt": "Platana Beach in Thassos with soft sand, beach umbrellas and pine trees close to the shoreline."
+    },
+    "el": {
+      "name": "Παραλία Πλατάνα",
+      "tagline": "Απαλή άμμος, σκιά από πεύκα και ήρεμα ηλιοβασιλέματα",
+      "summary": "Μια αμμώδης παραλία στη βορειοδυτική Θάσο, ανάμεσα στη Σκάλα Ραχωνίου και τη Σκάλα Πρίνου, γνωστή για τα συνήθως ρηχά νερά, τη σκιά των πεύκων και τη χαλαρή ατμόσφαιρα.",
+      "description": "Η παραλία Πλατάνα βρίσκεται στη βορειοδυτική ακτή της Θάσου, ανάμεσα στη Σκάλα Ραχωνίου και τη Σκάλα Πρίνου. Η γοητεία της δεν στηρίζεται σε εντυπωσιακούς βράχους ή σε ένα πολυσύχναστο παραθαλάσσιο κέντρο, αλλά στον συνδυασμό της απαλής άμμου, της συνήθως ομαλής εισόδου στη θάλασσα και των πεύκων που φτάνουν κοντά στο νερό. Προσφέρεται για μια ήρεμη μέρα στην παραλία και μπορεί να είναι καλή επιλογή για οικογένειες, με την απαραίτητη συνεχή επίβλεψη των παιδιών στο νερό. Το καλοκαίρι ορισμένα τμήματα διαθέτουν ξαπλώστρες και ομπρέλες, ενώ κοντά λειτουργούν εποχικά υπηρεσίες για ποτά και ελαφρύ φαγητό. Η φυσική σκιά συναντάται κυρίως κοντά στα δέντρα και όχι σε όλη την αμμουδιά. Ο δυτικός προσανατολισμός της δημιουργεί όμορφες εικόνες στο ηλιοβασίλεμα. Επειδή οι παροχές και οι χρεώσεις μπορούν να αλλάζουν ανά περίοδο, ελέγξτε τις συνθήκες επί τόπου πριν επιλέξετε πού θα καθίσετε.",
+      "practical_tips": "Η πρόσβαση γίνεται από τον παραλιακό δρόμο μεταξύ Σκάλας Ραχωνίου και Σκάλας Πρίνου, μέσω τοπικής διακλάδωσης που μπορεί να μη διακρίνεται εύκολα. Στην αιχμή του καλοκαιριού προτιμήστε πρωινή άφιξη για ευκολότερη στάθμευση και περισσότερες επιλογές σκιάς. Τα νερά είναι συνήθως ρηχά κοντά στην ακτή, αλλά ο άνεμος και ο βυθός μπορεί να αλλάζουν. Ελέγξτε αν λειτουργούν το beach bar, οι τουαλέτες και τα ντους.",
+      "highlights": [
+        "Αμμώδης ακτή με λεπτή άμμο",
+        "Συνήθως ρηχά νερά κοντά στην ακτή",
+        "Πεύκα και φυσική σκιά κοντά στη θάλασσα",
+        "Χαλαρή ατμόσφαιρα",
+        "Όμορφο φως στο ηλιοβασίλεμα"
+      ],
+      "seo_title": "Παραλία Πλατάνα Θάσος – πρόσβαση, σκιά και παροχές",
+      "seo_description": "Γνωρίστε την παραλία Πλατάνα στη Θάσο, ανάμεσα σε Σκάλα Ραχωνίου και Σκάλα Πρίνου: άμμος, ρηχά νερά, πεύκα και χρήσιμες συμβουλές.",
+      "social_caption": "🌲🏖️ Πλατάνα, Θάσος: απαλή άμμος, πεύκα δίπλα στη θάλασσα και συνήθως ρηχά νερά. Μια ωραία στάση για χαλάρωση και χρώματα ηλιοβασιλέματος! 🇬🇷 #Θάσος #Πλατάνα #Ελλάδα",
+      "photo_alt": "Η παραλία Πλατάνα στη Θάσο, με άμμο, ομπρέλες και πεύκα κοντά στην ακτή."
+    },
+    "de": {
+      "name": "Platana Beach",
+      "tagline": "Feiner Sand, Pinien im Hintergrund und ruhige Sonnenuntergänge",
+      "summary": "Ein Sandstrand an der Nordwestküste von Thassos zwischen Skala Rachoniou und Skala Prinos, bekannt für meist flaches Wasser, Pinien in Strandnähe und entspannte Atmosphäre.",
+      "description": "Platana Beach liegt an der Nordwestküste von Thassos zwischen Skala Rachoniou und Skala Prinos. Sein Reiz liegt weniger in spektakulären Felsen oder einem großen Badeort als in der Kombination aus feinem Sand, einem meist sanften Einstieg ins Meer und Pinien, die bis nahe an den Strand reichen. Der Küstenabschnitt eignet sich für einen entspannten Badetag und kann auch für Familien mit Kindern attraktiv sein, sofern die Kinder im Wasser immer beaufsichtigt werden. Während der Sommersaison sind einzelne Bereiche mit Liegen und Sonnenschirmen ausgestattet. Getränke und kleine Speisen werden über den örtlichen Strandbetrieb angeboten, soweit dieser geöffnet ist. Natürlicher Schatten findet sich vor allem nahe den Bäumen, nicht gleichmäßig auf der gesamten Sandfläche. Durch die Lage an der Westküste ist Platana auch ein schöner Platz für die warmen Farben des Sonnenuntergangs. Öffnungszeiten, Preise und Bedingungen für Liegen können saisonal wechseln und sollten vor Ort erfragt werden.",
+      "practical_tips": "Die Zufahrt erfolgt von der Küstenstraße zwischen Skala Rachoniou und Skala Prinos; die Abzweigung ist möglicherweise leicht zu übersehen. In der Hochsaison lohnt sich eine frühere Ankunft, besonders wenn man einen Parkplatz oder Schatten sucht. Das Wasser ist am Ufer meist flach, doch Wind und Tiefe können sich ändern. Kinder immer beaufsichtigen. Verfügbarkeit und Preise von Liegen, Toiletten und Duschen vor Ort prüfen.",
+      "highlights": [
+        "Feiner Sandstrand",
+        "Meist flacher Einstieg ins Wasser",
+        "Pinien und natürlicher Schatten in Strandnähe",
+        "Entspannte Atmosphäre",
+        "Schöne Stimmung bei Sonnenuntergang"
+      ],
+      "seo_title": "Platana Beach Thassos – Strand, Anfahrt und Ausstattung",
+      "seo_description": "Platana Beach auf Thassos entdecken: Sandstrand zwischen Skala Rachoniou und Skala Prinos, flaches Wasser, Pinien, Anfahrt und Strandtipps.",
+      "social_caption": "🌲🏖️ Platana Beach auf Thassos: feiner Sand, Pinien am Meer und meist flaches Wasser. Ein ruhiger Ort für einen Strandtag bis zum Sonnenuntergang. 🇬🇷 #Thassos #PlatanaBeach #Griechenland",
+      "photo_alt": "Platana Beach auf Thassos mit Sandstrand, Sonnenschirmen und Pinien am Ufer."
+    },
+    "bg": {
+      "name": "Плаж Платана",
+      "tagline": "Фин пясък, сянка от борове и спокойни залези",
+      "summary": "Пясъчен плаж на северозападния бряг на Тасос между Скала Рахони и Скала Принос, известен с обикновено плитката вода, сянката от боровете и спокойната атмосфера.",
+      "description": "Плаж Платана се намира на северозападния бряг на Тасос, между Скала Рахони и Скала Принос. Очарованието му идва не от впечатляващи скали или оживен курорт, а от съчетанието на фин пясък, обикновено плавно навлизане в морето и борове, които достигат почти до брега. Мястото е подходящо за бавен, спокоен плажен ден и може да бъде добър избор за семейства с деца, при условие че възрастните ги наблюдават постоянно във водата. През летния сезон някои участъци са оборудвани с шезлонги и чадъри, а наблизо могат да се предлагат напитки и лека храна от плажния бар. Естествената сянка е най-вече край дърветата, а не върху целия пясък. Разположението на западния бряг прави Платана приятно място и за залеза. Тъй като услугите, работното време и условията за използване на шезлонгите се променят според сезона, проверете ги на място.",
+      "practical_tips": "До плажа се стига от крайбрежния път между Скала Рахони и Скала Принос, по локално отклонение, което може лесно да се пропусне. През натоварените летни дни пристигайте по-рано, ако търсите паркинг или място на сянка. Водата обикновено е плитка близо до брега, но вятърът и условията се променят. Наблюдавайте децата и проверете дали барът, тоалетните, душовете и шезлонгите работят.",
+      "highlights": [
+        "Фин пясъчен бряг",
+        "Обикновено плитка вода край брега",
+        "Борове и естествена сянка",
+        "Спокойна обстановка",
+        "Красиви залези"
+      ],
+      "seo_title": "Плаж Платана, Тасос – достъп и удобства",
+      "seo_description": "Открийте плаж Платана на Тасос между Скала Рахони и Скала Принос: пясък, плитка вода, борове, достъп и полезни съвети.",
+      "social_caption": "🌲🏖️ Платана, Тасос: фин пясък, борове край морето и обикновено плитка вода. Чудесна идея за спокоен ден и красив залез! 🇬🇷 #Тасос #Платана #Гърция",
+      "photo_alt": "Плаж Платана на Тасос с пясък, чадъри и борове близо до морето."
+    },
+    "sr": {
+      "name": "Plaža Platana",
+      "tagline": "Sitni pesak, hlad borova i mirni zalasci sunca",
+      "summary": "Peščana plaža na severozapadnoj obali Tasosa, između Skale Rahoni i Skale Prinos, poznata po uglavnom plitkoj vodi, borovima uz obalu i opuštenoj atmosferi.",
+      "description": "Plaža Platana nalazi se na severozapadnoj obali Tasosa, između Skale Rahoni i Skale Prinos. Njena privlačnost nije u visokim liticama ili bučnom letovalištu, već u spoju sitnog peska, uglavnom postepenog ulaska u more i borova koji rastu gotovo do same obale. To je prijatno mesto za opušten dan na plaži, a može odgovarati i porodicama sa decom, uz stalni nadzor odraslih tokom kupanja. Tokom leta pojedini delovi imaju ležaljke i suncobrane, dok su piće i lagani obroci dostupni kada radi lokalni bar na plaži. Prirodni hlad nalazi se pre svega uz drveće, a ne preko cele peščane površine. Položaj na zapadnoj obali donosi lepe boje kasnog popodneva i zalaska sunca. Pošto se usluge, radno vreme i uslovi korišćenja ležaljki menjaju tokom sezone, najbolje je proveriti ih neposredno pre posete ili na licu mesta.",
+      "practical_tips": "Do plaže se stiže sa obalnog puta između Skale Rahoni i Skale Prinos, preko lokalnog skretanja koje se lako može promašiti. U špicu sezone dođite ranije zbog parkinga i mesta u hladu. More je obično plitko blizu obale, ali vetar, talasi i dubina mogu da variraju. Nadgledajte decu i proverite da li bar, toaleti, tuševi i ležaljke trenutno rade.",
+      "highlights": [
+        "Sitni pesak",
+        "Uglavnom plitka voda uz obalu",
+        "Borovi i prirodni hlad",
+        "Opuštena atmosfera",
+        "Lepi zalasci sunca"
+      ],
+      "seo_title": "Platana Beach Tasos – plaža, prilaz i sadržaji",
+      "seo_description": "Otkrijte plažu Platana na Tasosu između Skale Rahoni i Skale Prinos: pesak, plitko more, borovi, prilaz i saveti za posetu.",
+      "social_caption": "🌲🏖️ Platana na Tasosu: sitni pesak, borovi kraj mora i uglavnom plitka voda. Odlično mesto za miran dan i zalazak sunca! 🇬🇷 #Tasos #PlatanaBeach #Grcka",
+      "photo_alt": "Plaža Platana na Tasosu sa peskom, suncobranima i borovima blizu obale."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/platana/images/platana1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/platana/images/platana2.webp",
+      "destinations/thassos/beaches/platana/images/platana3.webp",
+      "destinations/thassos/beaches/platana/images/platana4.webp",
+      "destinations/thassos/beaches/platana/images/platana5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/platana/images/",
+    "suggested_asset_names": [
+      "platana1.webp",
+      "platana2.webp",
+      "platana3.webp",
+      "platana4.webp",
+      "platana5.webp"
+    ],
+    "image_policy": "Five local WebP paths were assigned from filenames shown in the user-provided screenshot. Publish only if each image genuinely depicts Platana Beach between Skala Rachoniou and Skala Prinos, not Platanes near Skala Maries, and if commercial use and redistribution rights, provenance, modifications and required attribution are verified. Actual image files were not provided or inspected.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_geographic_reference",
+      "kind": "beach_geographic_directory",
+      "title": "Pame Paralia — Platana, Skala Rachoniou",
+      "url": "https://pameparalia.com/beach/platana-mainland",
+      "detail": "Published approximate coordinates 40.7703N, 24.5922E and link to Google Maps; exact Google pin and access route not independently verified. Identifies Platana by Skala Rachoniou.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide",
+      "title": "Nikana — Platana Beach Bar",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/2769/platana-beach-bar",
+      "detail": "Pines, shallow sea, coast between Skala Rachoniou and Skala Prinos, historically described beach bar, parking, toilets and sunbed arrangements; updated in 2022.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_staythassos",
+      "kind": "local_travel_guide",
+      "title": "Stay Thassos — Complete list of beaches, Platana section (2026)",
+      "url": "https://staythassos.gr/thassos-beaches/",
+      "detail": "Describes Platana as a smaller sandy beach with pine shade and beach bar, more peaceful than busier spots.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_travelplanner",
+      "kind": "travel_article",
+      "title": "TravelPlanner — Dasilio and surrounding beaches",
+      "url": "https://travelplanner.ro/blog/page/59/",
+      "detail": "Places Platana toward Skala Rachoniou from Dasilio and mentions beach bar and nearby sanitary amenities; check actual availability.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_tripadvisor",
+      "kind": "recent_visitor_reports",
+      "title": "Tripadvisor — Platana Beach Skala Rachoniou visitor reports 2026",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g644222-d19931512-Reviews-Platana_Beach-Skala_Rachoniou_Thasos_Northeast_Aegean_Islands.html",
+      "detail": "Reports from summer 2026 indicate an operating beach bar and some recreational services, but user reports are not official guarantees of facilities or prices.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_thassos_de",
+      "kind": "travel_guide_visual_reference",
+      "title": "Thassos Greece — Platana Beach",
+      "url": "https://www.thassos-greece.de/straende/platana-beach.html",
+      "detail": "Photos and information useful for confirming visual identity; reuse rights unknown.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_distinguish_platanes",
+      "kind": "travel_guide",
+      "title": "TravelPlanner — Platanes Beach is different from Platana Beach",
+      "url": "https://travelplanner.ro/blog/page/58/",
+      "detail": "Highlights distinct locations: Platanes near Skala Maries and Platana between Skala Prinos and Skala Rachoniou.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Verify exact Platana Beach Google Maps pin, not Platanes near Skala Maries",
+      "Confirm which portion is beach vs privately operated beach-bar section",
+      "Verify that platana1.webp–platana5.webp depict the correct Platana Beach in the Skala Rachoniou–Skala Prinos area, not Platanes by Skala Maries, and document photo ownership, commercial publication rights, modification terms and attribution. The screenshot shows filenames but not image-file metadata.",
+      "Confirm current 2027 summer operator, sunbed arrangements, showers and toilets before next season",
+      "Confirm any wheelchair access and lifeguard availability on site",
+      "Review localized texts before public release"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Written descriptive content produced for this dataset. Five local image filenames are referenced, but image ownership and transferable/commercial publication rights have not been independently confirmed.",
+    "photo_source_disclaimer": "Cover and four gallery paths reference local WebP filenames shown in the user screenshot. No WebP binaries are embedded in this JSON; the photographed location and reuse rights have not been independently verified."
+  }
+}

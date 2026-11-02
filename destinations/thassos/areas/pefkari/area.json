@@ -1,0 +1,412 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-pefkari",
+  "slug": "pefkari",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Πευκάρι",
+    "international_name": "Pefkari",
+    "aliases": [
+      "Πευκάρι",
+      "Pevkari",
+      "Pefkári",
+      "Pefkari Resort"
+    ],
+    "area_type": "coastal_hamlet",
+    "entity_scope": "Small independently mapped coastal tourist settlement at the south coast of Thassos, between Limenaria and Potos. Its village/hamlet record is not the separate Pefkari Beach or Pefkari Camping Beach records.",
+    "deduplication_warning": "Keep separate from Pefkaria Beach near Skala Maries on the west coast; from Pefkari Beach and its distinct camping-sector beach record; and from nearby Potos or Limenaria. Pefkari is a tourist hamlet, not a major town.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": true,
+    "coast": "south",
+    "part_of_island": "southern",
+    "center": {
+      "lat": 40.61833,
+      "lng": 24.59789,
+      "coordinate_role": "OSM_place_hamlet_reference_point_not_beach_center_car_park_or_navigation_destination",
+      "coordinate_source": "Mapcarta / OpenStreetMap node 1477877649 (place=hamlet)",
+      "coordinate_source_url": "https://mapcarta.com/29409750",
+      "verification_status": "osm_mapped_hamlet_reference_point_confirmed_precise_arrival_and_boundary_unverified",
+      "verified_on": "2026-10-28"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "Pefkari is a small south-coast settlement among pines between Limenaria (west/northwest) and Potos (east). Its OSM settlement point, 40.61833 N, 24.59789 E, must not be substituted with Pefkari Beach (40.61736, 24.59690) or the separate nearby Pefkari Camping shoreline. Pefkaria Beach north of Skala Maries is unrelated."
+  },
+  "overview": {
+    "settlement_character": "Compact seasonal coastal holiday hamlet of low-rise accommodation, beachside cafés, tavernas, hotels and organised shoreline beneath pine trees. Not an old administrative town or a year-round full-service urban centre.",
+    "tourism_profile": [
+      "small_seaside_settlement",
+      "seasonal_tourism_resort",
+      "pine_trees",
+      "relaxed_beach_holiday",
+      "pefkari_beach",
+      "coastal_accommodation",
+      "beachfront_tavernas",
+      "cafes_and_beach_bars",
+      "water_sports_subject_to_operator",
+      "scuba_diving_subject_to_operator",
+      "camping_area",
+      "sand_and_pebble_shore",
+      "nearby_potos",
+      "nearby_limenaria"
+    ],
+    "best_time_to_visit": "June to September for swimming and the broadest seasonal visitor services; late May or early October can be quieter but individual venues and watersport operators may not be open.",
+    "peak_season_notes": "July and August can be busy near the beach, especially at weekends. Services, watersports, sunbed conditions and hotel/campsite operations are seasonal. No current Blue Flag status, live swimming-water assessment or operator timetable is promised in this static record."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "name_derived_from_greek_pefko_pine",
+      "pine_grove_coastal_landscape",
+      "early_tourism_development_on_south_thassos",
+      "historic_access_to_beach_by_boat_from_limenaria_as_reported_by_local_guide",
+      "modern_resort_identity_not_ancient_town"
+    ],
+    "local_traditions": [
+      "beachfront_social_life_in_summer",
+      "Greek_taverna_dining",
+      "seasonal_family_holidays",
+      "pine_shaded_coastal_leisure"
+    ],
+    "local_food_specialties": [
+      "seafood_and_grilled_fish_when_available",
+      "Greek_meze_and_seasonal_salads",
+      "locally_produced_olive_oil_in_regional_cuisine",
+      "classic_Thassian_taverna_dishes"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "couples",
+      "families",
+      "beach_holidays",
+      "seaside_accommodation",
+      "short_coastal_stays",
+      "water_sports",
+      "relaxed_day_trips",
+      "camping_holidays",
+      "swimming",
+      "photography",
+      "low_key_evenings"
+    ],
+    "experiences": [
+      "Spend time on Pefkari Beach, a sand-and-pebble shore with organised sections and a pine-lined setting.",
+      "Enjoy coffee or a meal at a beachside café or taverna, depending on the season and opening hours.",
+      "Explore available watersports or diving activities only with operating providers and suitable sea conditions.",
+      "Walk through the compact visitor strip beneath the pines and explore nearby coves without assuming unrestricted private-property access.",
+      "Discover the nearby Pefkari Camping shoreline as a separately mapped beach sector, if access is currently permitted.",
+      "Combine a calm day in Pefkari with a separate evening visit to Potos or a visit to Limenaria.",
+      "Enjoy the coastal landscape and photography, taking care on mixed pebbly and rocky sections."
+    ],
+    "points_of_interest_summary": [
+      "Pefkari Beach (separate beach record)",
+      "Pefkari Camping Beach (separate sector record)",
+      "Pine trees along the coastal accommodation strip",
+      "Summer tavernas, cafés and beach facilities",
+      "Nearby Potos village and Potos Beach",
+      "Nearby Limenaria village and Metalia Beach"
+    ],
+    "estimated_visit_duration": "Around 1–3 hours for a short seaside stop or half to a full day for swimming and meals; may also serve as a quiet base for a longer stay.",
+    "family_suitability": "Popular for family holidays and beach relaxation, but the sea entrance can alternate between sand, pebbles and rocks. Depth, currents and available lifeguard cover can change. Supervise children and check the actual bathing point.",
+    "mobility_considerations": "Compact coastal resort, but expect gravel, pebbles, uneven edges and access steps at some establishments. There is no verified continuous step-free route, accessible toilet or designated adapted beach entrance across the area.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "Access Pefkari from the main south-island road between Limenaria and Potos, then follow local signage to your actual property or destination. The mapped hamlet reference point is not an authorised driving/parking entrance.",
+    "public_transport": "The wider Potos–Limenaria coastal corridor is served by seasonal/regular island transport, but the exact Pefkari stop, boarding point, frequency and current KTEL timetable have not been independently established for this record. Verify with the operator; taxis are an alternative.",
+    "parking_overview": "Parking is reported in visitor guides around the beach, but no specific public parking coordinates, legality, guaranteed space or accessible parking are independently verified. Do not park on private hotel property or block local access lanes.",
+    "pedestrian_access": "The resort is compact and can be explored on foot. The coastal walking connection toward Potos is commonly described in guides, but exact route surface, continuity and private-property access have not been verified. Watch for traffic and uneven seaside paths.",
+    "accessibility_note": "No reliable current accessibility audit of the beach, water entry, restrooms or venues was found. Confirm any required ramp, accessible sunbed, toilet or step-free access with the individual operator.",
+    "general_amenities": {
+      "supermarket": true,
+      "pharmacy": null,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": null,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "The sea floor includes sand, gravel, rocks and occasional underwater shelves, depending on the stretch; water shoes may help. Check posted warnings, weather, sea conditions and any active lifeguard information. Use licensed watersports operators and do not assume services work in shoulder season. The summer sun can be strong; carry water and sun protection.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-potos",
+      "gr-thassos-area-limenaria"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-pefkari",
+      "gr-thassos-beach-pefkari-camping",
+      "gr-thassos-beach-potos"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "Other beaches, businesses, accommodations, attractions and services reference this area using area_id. Proximity is calculated from their own geocoordinates; featured lists are curated highlights only.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "Do not store ferry timetables as static area facts. Link to separately maintained ferry route and schedule data with source and last_checked timestamp."
+  },
+  "translations": {
+    "ro": {
+      "name": "Pefkari",
+      "tagline": "Pini, mare limpede și vacanțe relaxate pe coasta de sud",
+      "summary": "Pefkari este o mică așezare turistică de pe coasta sudică a insulei Thassos, între Limenaria și Potos, apreciată pentru plaja cu nisip și pietriș, pinii din apropierea mării, tavernele și sporturile nautice.",
+      "description": "Pefkari se întinde de-a lungul unui golf de pe coasta sudică a insulei Thassos, între Limenaria și Potos. Este o așezare turistică mică, nu un oraș în sensul obișnuit: câteva hoteluri, apartamente, taverne și cafenele formează o fâșie de vacanță aproape de plajă. Tocmai această dimensiune redusă îi dă farmecul. În locul unei promenade urbane aglomerate, găsești apropierea mării, vegetație verde și o atmosferă potrivită pentru zile fără grabă.\n\nNumele Pefkari este legat de cuvântul grecesc pentru pin, iar copacii din jur sunt parte din identitatea locului. Plaja principală are porțiuni de nisip și pietriș, cu intrări în apă care pot alterna între nisip și zone pietroase. În sezon, pe anumite sectoare funcționează șezlonguri, umbrele, cafenele și servicii pentru sporturi nautice; condițiile de utilizare și disponibilitatea se verifică la fața locului. Apa limpede și contrastul dintre verdele pinilor și albastrul mării fac zona atractivă și pentru fotografii.\n\nPefkari s-a dezvoltat ca loc de vacanță mai devreme decât alte sectoare turistice din sudul insulei. Ghidurile locale amintesc perioada în care unii vizitatori ajungeau aici cu barca din Limenaria, înainte ca accesul rutier să fie la fel de comod. Astăzi, caracterul așezării este în primul rând estival: plimbări scurte între cazare și plajă, mese pe malul mării și activități acvatice atunci când operatorii sunt deschiși. Nu trebuie confundat cu Pefkaria Beach, aflată pe alt sector al insulei, lângă Skala Maries.\n\nPentru familii sau cupluri, Pefkari poate fi o bază liniștită, aproape de două localități mai mari. Potos oferă o viață de seară mai animată, iar Limenaria adaugă magazine, o promenadă și legătura cu istoria exploatărilor miniere de la Metalia. Poți petrece o zi la Pefkari și apoi explora aceste destinații, fără să renunți la confortul unei stațiuni mici.\n\nÎnainte de o vizită, reține că unele facilități sunt strict sezoniere. Nu există în acest profil o parcare publică validată prin GPS, un orar fix de autobuz sau o garanție privind accesibilitatea completă a plajei. Pentru o experiență plăcută, verifică locul exact de intrare în apă, condițiile mării și programul operatorilor locali.",
+      "history_culture": "Numele Pefkari vine din legătura cu pinii de pe țărm. Dezvoltarea sa ca destinație de vacanță pe coasta de sud a Thassosului este documentată de ghidurile locale, care menționează accesul mai vechi pe mare, dinspre Limenaria. Astăzi, identitatea așezării este mai ales cea a unei mici stațiuni turistice, nu a unui centru istoric cu monumente majore.",
+      "local_character": "O fâșie turistică intimă între pini și mare, cu hoteluri mici, cazare, cafenele și taverne, animată vara, dar mai puțin urbană decât Potos sau Limenaria.",
+      "what_to_do": "Petrece timp pe Pefkari Beach, încearcă sporturile nautice oferite sezonier, descoperă restaurantele de pe malul mării și explorează sectorul distinct de plajă de lângă camping. Completează ziua cu o excursie separată la Potos ori Limenaria.",
+      "practical_tips": "Plaja combină nisipul cu pietrișul și pietrele, așa că încălțămintea pentru apă poate fi utilă. Nu presupune că toate serviciile funcționează în afara sezonului. Reperul GPS al așezării nu este parcare sau intrare auto. Confirmă local stația de autobuz, condițiile sporturilor nautice și accesul fără trepte dacă ai nevoie.",
+      "highlights": [
+        "Pefkari Beach, între pini și mare",
+        "Sporturi nautice în sezon",
+        "Taverne și cafenele pe plajă",
+        "Sectorul de plajă din dreptul campingului",
+        "Potos și Limenaria în apropiere"
+      ],
+      "seo_title": "Pefkari, Thassos – plajă, pini și vacanțe liniștite",
+      "seo_description": "Descoperă Pefkari, o mică stațiune între Potos și Limenaria: plajă cu nisip și pietriș, pini, taverne, sporturi nautice și cazări aproape de mare.",
+      "social_caption": "Pefkari 🌲🌊 Un golf liniștit între pini, taverne la mare și farmecul sudului insulei Thassos.",
+      "photo_alt": "Golful Pefkari din Thassos, cu plajă, pini și unități turistice de-a lungul țărmului"
+    },
+    "en": {
+      "name": "Pefkari",
+      "tagline": "Pine trees, clear seas and easygoing holidays on the south coast",
+      "summary": "Pefkari is a small seaside holiday settlement on the south coast of Thassos, between Limenaria and Potos, known for its sand-and-pebble beach, coastal pines, tavernas and seasonal watersports.",
+      "description": "Pefkari stretches along a compact bay on the southern coast of Thassos, between Limenaria and Potos. It is not a large town but a small holiday settlement: hotels, holiday apartments, tavernas and cafés sit close to the sea. Its modest size is part of its appeal. Rather than a busy urban promenade, you find the beach within easy reach, greenery behind the shoreline and a relaxed rhythm that suits a slow summer day.\n\nThe name Pefkari is linked to the Greek word for pine tree, and the surrounding pines give the place much of its identity. The main beach combines sand and pebbles, while the seabed varies between sandy stretches and rocky spots. During the main season, parts of the shore offer sunbeds, umbrellas, places to eat and watersports operators, although prices, conditions and opening dates depend on each business. Clear water and the contrast between the pine trees and the Aegean make this a pleasant coastal stop and a photogenic place to stay.\n\nLocal guides describe Pefkari as one of the earlier tourism areas to develop on southern Thassos. They recall a time when some visitors reached the beach by boat from Limenaria, before road access became more straightforward. Today the settlement is unmistakably geared toward summer holidays: a short stroll from a room to the water, coffee by the shore and sea activities whenever operators are running. It should never be confused with Pefkaria Beach, a different coastal spot farther west near Skala Maries.\n\nFor families or couples, Pefkari offers a quiet base without feeling isolated. Potos, a short trip to the east, has livelier evenings and a broader restaurant scene. Limenaria, to the west, offers more shopping and the mining-era coastal heritage around Metalia. The three destinations can make a varied day or a relaxed longer holiday, with Pefkari as the low-key beach stop between them.\n\nPractical arrangements deserve a little planning. Individual services can be highly seasonal; a mapped settlement point is not a verified parking entrance or bus stop. Sand and stones can change underfoot along the same beach, so check the water entry and local conditions before swimming. No guaranteed step-free beach route or live operator timetable is asserted in this guide.",
+      "history_culture": "Pefkari takes its name from the pines associated with its coastal landscape. Local tourism guides describe it as an early holiday area in southern Thassos and mention older boat access from Limenaria. Its present character is that of a small seasonal resort rather than a historic town with extensive monuments.",
+      "local_character": "A compact pine-fringed seaside resort with hotels, holiday rooms, cafés and tavernas, lively in summer but less urban than nearby Potos or Limenaria.",
+      "what_to_do": "Relax on Pefkari Beach, try seasonal watersports with operating providers, enjoy a meal by the sea and explore the separately recorded camping beach sector where accessible. Add Potos or Limenaria as distinct nearby excursions.",
+      "practical_tips": "Expect a mix of sand, pebbles and stones at the waterline; water shoes may be useful. Check seasonal opening, watersport conditions and the latest transport information. The settlement GPS is not a confirmed car park or entrance. Ask venues about step-free access rather than assuming full accessibility.",
+      "highlights": [
+        "Pine-fringed Pefkari Beach",
+        "Seasonal watersports",
+        "Seaside tavernas and cafés",
+        "Nearby camping beach sector",
+        "Easy access to Potos and Limenaria"
+      ],
+      "seo_title": "Pefkari, Thassos – pine-fringed beach and seaside stays",
+      "seo_description": "Explore Pefkari on Thassos: a small resort between Potos and Limenaria with a sand-and-pebble beach, pines, seasonal watersports and waterfront tavernas.",
+      "social_caption": "Pefkari 🌲🌊 Pine trees, clear Aegean water and the easy pace of southern Thassos.",
+      "photo_alt": "Pefkari bay in Thassos with a pine-fringed beach and seaside holiday accommodation"
+    },
+    "el": {
+      "name": "Πευκάρι",
+      "tagline": "Πεύκα, καθαρή θάλασσα και ξέγνοιαστες διακοπές στη νότια ακτή",
+      "summary": "Το Πευκάρι είναι ένας μικρός παραθαλάσσιος τουριστικός οικισμός της νότιας Θάσου, ανάμεσα στα Λιμενάρια και τον Ποτό, γνωστός για την παραλία με άμμο και βότσαλο, τα πεύκα, τις ταβέρνες και τα εποχικά θαλάσσια σπορ.",
+      "description": "Το Πευκάρι απλώνεται δίπλα σε έναν μικρό κόλπο στη νότια ακτή της Θάσου, ανάμεσα στα Λιμενάρια και τον Ποτό. Δεν είναι μεγάλη κωμόπολη αλλά ένας μικρός παραθεριστικός οικισμός, με ξενοδοχεία, ενοικιαζόμενα δωμάτια, ταβέρνες και καφέ κοντά στο νερό. Το μικρό του μέγεθος αποτελεί μέρος της γοητείας του: αντί για πολυσύχναστο αστικό παραλιακό δρόμο, προσφέρει εύκολη πρόσβαση στη θάλασσα, πράσινο και έναν πιο χαλαρό ρυθμό διακοπών.\n\nΗ ονομασία Πευκάρι συνδέεται με τα πεύκα που χαρακτηρίζουν το τοπίο γύρω από την παραλία. Η ακτή συνδυάζει άμμο και βότσαλα, ενώ ο βυθός αλλάζει από αμμώδη τμήματα σε σημεία με πέτρες. Κατά τη θερινή περίοδο λειτουργούν σε ορισμένα τμήματα ξαπλώστρες, ομπρέλες, καφέ και δραστηριότητες θαλάσσιων σπορ, ανάλογα με τις συνθήκες και το πρόγραμμα των επιχειρήσεων. Τα καθαρά νερά και η αντίθεση ανάμεσα στο πράσινο των δέντρων και στο μπλε του Αιγαίου δημιουργούν ένα ιδιαίτερα όμορφο σκηνικό.\n\nΤοπικοί τουριστικοί οδηγοί αναφέρουν ότι το Πευκάρι αναπτύχθηκε σχετικά νωρίς ως παραθεριστικός προορισμός στη νότια Θάσο. Περιγράφουν μάλιστα την εποχή κατά την οποία επισκέπτες έφταναν στην περιοχή με σκάφος από τα Λιμενάρια, πριν γίνει ευκολότερη η οδική πρόσβαση. Σήμερα ο οικισμός είναι προσανατολισμένος κυρίως στον θερινό τουρισμό: μικρές βόλτες ανάμεσα στο κατάλυμα και στην παραλία, φαγητό δίπλα στη θάλασσα και δραστηριότητες στο νερό όταν λειτουργούν οι πάροχοι. Δεν πρέπει να συγχέεται με την παραλία Πευκαριά στη δυτική πλευρά του νησιού.\n\nΓια ζευγάρια και οικογένειες, το Πευκάρι μπορεί να αποτελέσει μια ήσυχη βάση, κοντά όμως σε δύο πιο ανεπτυγμένους οικισμούς. Ο Ποτός προσφέρει περισσότερες επιλογές για βραδινή έξοδο, ενώ στα Λιμενάρια θα βρείτε περισσότερα καταστήματα και τα ίχνη της μεταλλευτικής ιστορίας κοντά στα Μεταλλεία. Έτσι, μια ημέρα στην παραλία μπορεί να συνδυαστεί εύκολα με μια ξεχωριστή επίσκεψη στις γύρω περιοχές.\n\nΠριν από την επίσκεψη, θυμηθείτε ότι πολλές υπηρεσίες λειτουργούν εποχικά. Το σημείο αναφοράς του οικισμού στον χάρτη δεν αποτελεί επαληθευμένο χώρο στάθμευσης ή στάση λεωφορείου. Ελέγξτε το ακριβές σημείο εισόδου στη θάλασσα, τις καιρικές συνθήκες και τη λειτουργία των εγκαταστάσεων. Δεν τεκμηριώνεται ενιαία διαδρομή χωρίς σκαλοπάτια σε όλη την παραλία.",
+      "history_culture": "Η ονομασία του Πευκαρίου σχετίζεται με τα πεύκα της ακτογραμμής. Σύμφωνα με τοπικούς οδηγούς, η περιοχή αναπτύχθηκε νωρίς ως θερινό θέρετρο της νότιας Θάσου και παλιότερα ορισμένοι επισκέπτες έφταναν με καΐκι από τα Λιμενάρια. Σήμερα πρόκειται κυρίως για μικρό τουριστικό οικισμό, όχι για ιστορική κωμόπολη με πολλά μνημεία.",
+      "local_character": "Ένας μικρός παραθαλάσσιος οικισμός ανάμεσα στα πεύκα, με καταλύματα, καφέ και ταβέρνες, γεμάτος κίνηση το καλοκαίρι αλλά πιο ήρεμος από τον Ποτό ή τα Λιμενάρια.",
+      "what_to_do": "Απολαύστε την παραλία Πευκάρι, δοκιμάστε θαλάσσια σπορ με ενεργούς παρόχους, χαλαρώστε σε ένα παραθαλάσσιο καφέ και γνωρίστε το ξεχωριστά καταγεγραμμένο τμήμα παραλίας μπροστά στο κάμπινγκ, όπου επιτρέπεται η πρόσβαση. Συνδυάστε την εκδρομή με επίσκεψη στον Ποτό ή στα Λιμενάρια.",
+      "practical_tips": "Η ακτή έχει άμμο, βότσαλα και πέτρες· τα παπούτσια θαλάσσης μπορεί να βοηθήσουν. Ελέγξτε την εποχική λειτουργία των επιχειρήσεων και τις συνθήκες για δραστηριότητες. Οι συντεταγμένες του οικισμού δεν δείχνουν επιβεβαιωμένο πάρκινγκ. Για πρόσβαση χωρίς σκαλοπάτια, ρωτήστε κάθε επιχείρηση ξεχωριστά.",
+      "highlights": [
+        "Παραλία Πευκάρι μέσα στα πεύκα",
+        "Εποχικά θαλάσσια σπορ",
+        "Παραθαλάσσιες ταβέρνες και καφέ",
+        "Παραλία μπροστά στο κάμπινγκ",
+        "Ποτός και Λιμενάρια κοντά"
+      ],
+      "seo_title": "Πευκάρι Θάσου – παραλία, πεύκα και ήρεμες διακοπές",
+      "seo_description": "Γνωρίστε το Πευκάρι στη Θάσο, ανάμεσα στον Ποτό και τα Λιμενάρια: παραλία με άμμο και βότσαλο, πεύκα, ταβέρνες και εποχικά θαλάσσια σπορ.",
+      "social_caption": "Πευκάρι 🌲🌊 Πεύκα, καθαρά νερά και χαλαρές στιγμές στη νότια Θάσο.",
+      "photo_alt": "Ο κόλπος του Πευκαρίου στη Θάσο με παραλία, πεύκα και παραθαλάσσια καταλύματα"
+    },
+    "de": {
+      "name": "Pefkari",
+      "tagline": "Pinien, klares Meer und entspannte Tage an der Südküste",
+      "summary": "Pefkari ist eine kleine touristische Küstensiedlung im Süden von Thassos, zwischen Limenaria und Potos, mit einem Sand-Kies-Strand, Pinien, Tavernen und saisonalen Wassersportangeboten.",
+      "description": "Pefkari liegt an einer überschaubaren Bucht an der Südküste von Thassos, zwischen Limenaria und Potos. Der Ort ist keine große Stadt, sondern eine kleine Urlaubssiedlung: Hotels, Ferienwohnungen, Tavernen und Cafés reihen sich in der Nähe des Meeres aneinander. Gerade diese kompakte Größe macht seinen Reiz aus. Statt einer belebten städtischen Promenade erwartet Besucher ein kurzer Weg zum Strand, viel Grün und eine ruhige Atmosphäre für entspannte Sommertage.\n\nDer Name Pefkari erinnert an das griechische Wort für Kiefer, denn Pinien und Kiefern prägen die Landschaft. Der Strand besteht aus Sand und Kieseln; auch im Wasser wechseln sandige Bereiche mit steinigen Stellen. In der Hauptsaison bieten einzelne Abschnitte Liegen, Sonnenschirme, Cafés und Wassersport an. Die genauen Bedingungen und Öffnungszeiten werden von den jeweiligen Betreibern festgelegt. Klares Meerwasser und der Kontrast von grünem Baumbestand und blauem Ägäischen Meer machen die Bucht besonders fotogen.\n\nLokale Reiseführer berichten, dass Pefkari zu den frühen touristisch erschlossenen Gebieten im Süden von Thassos gehörte. Sie erinnern an Zeiten, in denen manche Besucher per Boot aus Limenaria kamen, bevor die Anfahrt auf der Straße so unkompliziert wurde. Heute ist Pefkari vor allem auf den Sommertourismus ausgerichtet: vom Zimmer in wenigen Schritten ans Wasser, ein Essen direkt am Meer und sportliche Angebote, sofern die Anbieter geöffnet haben. Wichtig ist die Unterscheidung zum Strand Pefkaria bei Skala Maries an der Westküste, der ein anderer Ort ist.\n\nFür Paare und Familien ist Pefkari ein ruhiger Ausgangspunkt in der Nähe zweier lebhafterer Orte. Potos bietet östlich davon ein regeres Nachtleben, während Limenaria westlich mit Einkaufsmöglichkeiten und der Bergbaugeschichte rund um Metalia lockt. So kann man einen entspannten Badetag gut mit einem separaten Besuch dieser Orte verbinden.\n\nEin wenig Vorbereitung lohnt sich: Viele Angebote sind saisonabhängig, und der kartierte Mittelpunkt der Siedlung ist weder ein bestätigter Parkplatz noch eine geprüfte Bushaltestelle. Der Untergrund am Wassereinstieg kann sich entlang des Strandes ändern. Aktuelle Badebedingungen, Busverbindungen und barrierefreien Zugang sollte man direkt vor Ort prüfen.",
+      "history_culture": "Der Ortsname Pefkari verweist auf die Kiefern am Küstenstreifen. Laut lokalen Reiseführern entwickelte sich die Gegend früh zu einem Ferienziel im Süden von Thassos; früher gelangten manche Besucher von Limenaria aus mit dem Boot hierher. Die heutige Identität ist die eines kleinen saisonalen Badeortes, nicht einer historischen Stadt mit großen Denkmälern.",
+      "local_character": "Ein kleiner Urlaubsort zwischen Pinien und Meer mit Hotels, Ferienunterkünften, Tavernen und Cafés. Im Sommer lebendig, aber weniger städtisch geprägt als Potos oder Limenaria.",
+      "what_to_do": "Entspannen Sie am Pefkari Beach, nutzen Sie Wassersportangebote bei geöffneten Anbietern, genießen Sie Essen am Meer und erkunden Sie den separat erfassten Strandabschnitt beim Campingplatz, soweit zugänglich. Potos und Limenaria eignen sich für weitere Ausflüge.",
+      "practical_tips": "Am Strand gibt es Sand, Kiesel und Steine; Badeschuhe können sinnvoll sein. Prüfen Sie saisonale Öffnungszeiten und aktuelle Bedingungen. Die Ortskoordinaten zeigen keinen verifizierten Parkplatz. Für stufenfreien Zugang sollten Sie direkt beim jeweiligen Anbieter nachfragen.",
+      "highlights": [
+        "Pefkari Beach zwischen Pinien",
+        "Wassersport in der Saison",
+        "Tavernen und Cafés am Meer",
+        "Strandabschnitt beim Campingplatz",
+        "Potos und Limenaria in der Nähe"
+      ],
+      "seo_title": "Pefkari, Thassos – Strand, Pinien und entspannter Urlaub",
+      "seo_description": "Entdecken Sie Pefkari auf Thassos: kleiner Badeort zwischen Potos und Limenaria mit Sand-Kies-Strand, Pinien, Tavernen und saisonalem Wassersport.",
+      "social_caption": "Pefkari 🌲🌊 Pinien, klares Meer und entspannte Sommertage im Süden von Thassos.",
+      "photo_alt": "Die Bucht von Pefkari auf Thassos mit piniengesäumtem Strand und Unterkünften am Meer"
+    },
+    "bg": {
+      "name": "Пефкари",
+      "tagline": "Борове, бистро море и спокойна почивка на южния бряг",
+      "summary": "Пефкари е малко крайбрежно туристическо селище в южната част на остров Тасос, между Лименария и Потос, известно с пясъчно-каменистия си плаж, боровете, таверните и сезонните водни спортове.",
+      "description": "Пефкари се простира край малък залив на южния бряг на остров Тасос, между Лименария и Потос. Това не е голям град, а малко туристическо селище, в което хотели, апартаменти, таверни и кафенета са разположени близо до морето. Именно компактните размери са част от неговото очарование. Вместо оживена градска крайбрежна алея тук ще намерите лесен достъп до плажа, зеленина и по-спокойно темпо за летните дни.\n\nИмето Пефкари е свързано с гръцката дума за бор, а иглолистните дървета придават облика на мястото. Основният плаж съчетава пясък и дребни камъчета, а морското дъно се променя от пясъчни участъци до места с камъни. През активния сезон на отделни места има шезлонги, чадъри, кафенета и възможности за водни спортове. Условията, цените и работното време зависят от съответните оператори. Прозрачната вода и контрастът между зелените дървета и синьото Егейско море правят залива привлекателен и за снимки.\n\nМестните туристически пътеводители описват Пефкари като една от по-рано развитите ваканционни зони в южната част на Тасос. Те разказват за времето, когато някои посетители пристигали с лодка от Лименария, преди автомобилният достъп да стане толкова удобен. Днес селището живее основно с летния туризъм: кратка разходка от стаята до плажа, вечеря край водата и морски занимания, когато съответните услуги работят. То не бива да се бърка с плажа Пефкария, който се намира на друг участък от западното крайбрежие близо до Скала Мариес.\n\nЗа семейства и двойки Пефкари може да бъде тиха отправна точка близо до две по-оживени населени места. Потос предлага повече вечерни развлечения, а Лименария — магазини и интересни следи от минното минало около Металия. Така денят на плажа лесно може да се съчетае с отделно посещение на някоя от съседните дестинации.\n\nПреди пътуване имайте предвид, че много услуги са сезонни. Отбелязаната на картата точка на селището не е проверен паркинг или автобусна спирка. Разгледайте внимателно участъка за влизане във водата, следете морските условия и попитайте за достъп без стъпала, ако е необходим. Тук не са посочени фиксирани разписания или гарантирани удобства.",
+      "history_culture": "Името Пефкари произлиза от боровете по крайбрежието. Според местни пътеводители районът се развива сравнително рано като място за летен отдих в южната част на Тасос, а някога част от посетителите пристигали с лодка от Лименария. Днес той е предимно малък сезонен курорт, а не исторически град с много паметници.",
+      "local_character": "Компактно туристическо селище между боровете и морето, с хотели, стаи, кафенета и таверни. През лятото е оживено, но остава по-спокойно от Потос и Лименария.",
+      "what_to_do": "Почивайте на плаж Пефкари, опитайте водни спортове при работещи оператори, хапнете край морето и разгледайте отделно описания участък при къмпинга, когато е достъпен. Допълнете деня с посещение на Потос или Лименария.",
+      "practical_tips": "По брега и в морето има пясък, камъчета и камъни, затова обувки за вода могат да бъдат полезни. Проверете сезонното работно време и условията за водни спортове. GPS точката не обозначава потвърден паркинг. За достъпност без стъпала попитайте конкретния обект.",
+      "highlights": [
+        "Плаж Пефкари сред борове",
+        "Сезонни водни спортове",
+        "Таверни и кафенета край морето",
+        "Плажната зона при къмпинга",
+        "Потос и Лименария наблизо"
+      ],
+      "seo_title": "Пефкари, Тасос – плаж, борове и спокойна почивка",
+      "seo_description": "Открийте Пефкари на Тасос: малко курортно селище между Потос и Лименария с плаж от пясък и камъчета, борове, таверни и водни спортове.",
+      "social_caption": "Пефкари 🌲🌊 Борове, бистро море и спокойно лято на южния бряг на Тасос.",
+      "photo_alt": "Заливът Пефкари на остров Тасос с плаж, борове и крайбрежни туристически сгради"
+    },
+    "sr": {
+      "name": "Pefkari",
+      "tagline": "Borovi, bistro more i opušten odmor na južnoj obali",
+      "summary": "Pefkari je malo primorsko turističko naselje na jugu Tasosa, između Limenarije i Potosa, poznato po peščano-šljunkovitoj plaži, borovima, tavernama i sezonskim sportovima na vodi.",
+      "description": "Pefkari se prostire uz mali zaliv na južnoj obali Tasosa, između Limenarije i Potosa. To nije veći grad, već malo turističko naselje u kojem su hoteli, apartmani, taverne i kafići smešteni blizu mora. Upravo ta mala razmera daje mu poseban šarm. Umesto prometnog gradskog šetališta, ovde vas čekaju plaža na nekoliko koraka, zelenilo i mirniji ritam letnjeg odmora.\n\nNaziv Pefkari povezan je sa grčkom rečju za bor, a borova stabla obeležavaju okolni pejzaž. Plaža kombinuje pesak i šljunak, dok se pod vodom smenjuju peščani i kameniti delovi. U glavnoj sezoni na pojedinim delovima mogu se naći ležaljke, suncobrani, kafići i ponuda sportova na vodi. Cene, pravila i radno vreme zavise od svakog pojedinačnog pružaoca usluga. Bistra voda i kontrast zelenih borova i plavog Egejskog mora čine ovaj zaliv privlačnim za odmor i fotografisanje.\n\nLokalni vodiči navode da se Pefkari među prvima na jugu Tasosa razvijao kao letovalište. Podsećaju i na vreme kada su neki posetioci do plaže dolazili čamcem iz Limenarije, pre nego što je putni pristup postao jednostavniji. Danas naselje pre svega živi od letnjeg turizma: kratke šetnje od smeštaja do obale, obroci pored mora i aktivnosti na vodi kada su operateri dostupni. Važno je ne pomešati ga sa plažom Pefkaria kod Skale Maries na zapadnoj obali ostrva.\n\nPorodicama i parovima Pefkari može da posluži kao mirna baza u blizini dva veća mesta. Potos, istočno odavde, poznat je po življim večerima, dok Limenarija na zapadu nudi više prodavnica i zanimljivu rudarsku istoriju u oblasti Metalija. Zato se dan na plaži lako može upotpuniti zasebnom posetom susednim mestima, bez odricanja od mirnije atmosfere Pefkarija.\n\nPre dolaska treba imati u vidu da su mnoge usluge sezonske. Tačka naselja na mapi nije potvrđen parking niti autobusko stajalište. Proverite podlogu na ulasku u vodu, stanje mora i radno vreme lokalnih ponuđača. Nije potvrđena jedinstvena staza bez stepenika duž cele obale, a red vožnje se ne navodi kao stalna informacija.",
+      "history_culture": "Ime Pefkari potiče od borova duž obale. Lokalni turistički vodiči navode da se područje rano razvilo kao odmaralište u južnom delu Tasosa i da su ranije neki posetioci dolazili čamcem iz Limenarije. Danas je to pre svega malo sezonsko turističko naselje, a ne stari grad sa brojnim spomenicima.",
+      "local_character": "Malo primorsko odmaralište među borovima, sa hotelima, apartmanima, kafićima i tavernama. Leti je živo, ali manje urbano od Potosa i Limenarije.",
+      "what_to_do": "Odmorite se na plaži Pefkari, probajte sezonske sportove na vodi kod dostupnih operatera, ručajte uz more i istražite zasebno evidentiran deo obale kod kampa kada je pristup moguć. Posetite i Potos ili Limenariju.",
+      "practical_tips": "Na obali i u vodi smenjuju se pesak, šljunak i kamenje, pa obuća za vodu može koristiti. Proverite sezonsko radno vreme i uslove za aktivnosti. GPS naselja nije potvrđen parking. Za pristup bez stepenika raspitajte se kod konkretnog objekta.",
+      "highlights": [
+        "Plaža Pefkari okružena borovima",
+        "Sezonski sportovi na vodi",
+        "Taverne i kafići uz more",
+        "Deo plaže kod kampa",
+        "Potos i Limenarija u blizini"
+      ],
+      "seo_title": "Pefkari, Tasos – plaža, borovi i miran odmor",
+      "seo_description": "Otkrijte Pefkari na Tasosu: malo letovalište između Potosa i Limenarije, plaža sa peskom i šljunkom, borovi, taverne i sezonski sportovi na vodi.",
+      "social_caption": "Pefkari 🌲🌊 Borovi, čisto more i opušteni letnji dani na jugu Tasosa.",
+      "photo_alt": "Zaliv Pefkari na Tasosu sa plažom, borovima i smeštajem uz more"
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/pefkari/images/pefkari1.webp",
+    "gallery": [
+      "destinations/thassos/areas/pefkari/images/pefkari2.webp",
+      "destinations/thassos/areas/pefkari/images/pefkari3.webp",
+      "destinations/thassos/areas/pefkari/images/pefkari4.webp",
+      "destinations/thassos/areas/pefkari/images/pefkari5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/pefkari/images/",
+    "suggested_asset_names": [
+      "pefkari1.webp",
+      "pefkari2.webp",
+      "pefkari3.webp",
+      "pefkari4.webp",
+      "pefkari5.webp"
+    ],
+    "image_policy": "Exactly five photographs with the predetermined file names: main cover and four gallery images. Ensure each photograph depicts this area; verify ownership, publication/transfer rights and attribution. Filenames are configured in advance; image binaries have not been provided.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "municipal_pefkari",
+      "kind": "official_local_guide",
+      "title": "Thassos island information — Πευκάρι",
+      "url": "https://www.thassos-island.gr/el/%CF%87%CF%89%CF%81%CE%B9%CE%AC1/item/558-%CF%80%CE%B5%CF%85%CE%BA%CE%AC%CF%81%CE%B9.html",
+      "detail": "Describes small tourist settlement between Limenaria and Potos, pine forest name, hotels, tavernas, cafés, campsite, watersports.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "osm_pefkari_hamlet",
+      "kind": "osm_settlement_point",
+      "title": "Mapcarta / OpenStreetMap — Pefkari hamlet",
+      "url": "https://mapcarta.com/29409750",
+      "detail": "OSM node 1477877649, place=hamlet; 40.61833 N 24.59789 E. Different from beach way and not a verified arrival point.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "osm_pefkari_beach",
+      "kind": "osm_beach_geometry",
+      "title": "Mapcarta / OpenStreetMap — Πευκάρι beach",
+      "url": "https://mapcarta.com/W208233858",
+      "detail": "OSM way 208233858, natural=beach, 40.61736 N 24.59690 E; separate from mapped settlement.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "gtp_pefkari",
+      "kind": "travel_geography_record",
+      "title": "Greek Travel Pages — Pefkari settlement",
+      "url": "https://www.gtp.gr/LocPage.asp?id=11008&lng=2",
+      "detail": "Lists Pefkari as a settlement on Thassos south coastline; historical Blue Flag awards do not establish current annual status.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "go_thassos_pefkari",
+      "kind": "local_tourism_guide",
+      "title": "Go Thassos — Pefkari",
+      "url": "https://www.go-thassos.gr/about-thassos/places/pefkari",
+      "detail": "Pine-lined resort, seasonal hotels/cafés, watersports, local history of access by boat and proximity to Potos/Limenaria.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "discover_thassos_pefkari",
+      "kind": "local_tourism_guide",
+      "title": "Discover Thassos — Pefkari Beach",
+      "url": "https://www.discover-thassos.com/listing/pefkari-beach-thassos/",
+      "detail": "Beach/shoreline character, accommodations, tavernas and watersports; beach is distinct from resort entity.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "nikana_ro_pefkari",
+      "kind": "regional_travel_guide",
+      "title": "Nikana — Pefkari (Romanian)",
+      "url": "https://nikana.gr/ro/ghid/thassos/locuri/1950/pefkari",
+      "detail": "Compact beachfront settlement, restaurants, cafés, minimarkets and mixed sand-pebble shoreline.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "go_thassos_pefkari_beach",
+      "kind": "local_beach_guide",
+      "title": "Go Thassos — Pefkari Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/pefkari-beach",
+      "detail": "Beach facilities, mixed seabed, watersports and parking category; no precise public parking arrival point.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "osm_pefkari_campsite",
+      "kind": "osm_tourism_feature",
+      "title": "Mapcarta / OpenStreetMap — Camping Pefkari Beach",
+      "url": "https://mapcarta.com/W294883140",
+      "detail": "Separate campsite site on coast, OSM way 294883140; not settlement centroid or beach access coordinates.",
+      "checked_on": "2026-10-28"
+    },
+    {
+      "id": "eea_pevkari_bathing",
+      "kind": "water_quality_historical",
+      "title": "Katatopisi / European bathing-water data — Pevkari 1",
+      "url": "https://katatopisi.gr/en/beach/peykari-1/",
+      "detail": "Historical 2024 bathing-water assessment; not a real-time 2026 water-quality or Blue Flag claim.",
+      "checked_on": "2026-10-28"
+    }
+  ],
+  "editorial": {
+    "status": "researched_six_languages_pending_photo_rights_access_checks",
+    "facts_checked_on": "2026-10-28",
+    "translations_written_on": "2026-10-28",
+    "coverage": "complete_six_language_editorial_and_practical_fields_with_10_sources_and_five_preconfigured_webp_paths",
+    "requires_manual_review": [
+      "Verify exact managed beach segments and do not merge Pefkari with Pefkaria beach near Skala Maries.",
+      "Review the legal/historical use of coastal businesses, campsite and watersports facilities each season.",
+      "Verify current beach conditions, local lifeguard cover, water depth/rocky entry and any Blue Flag certification for the specific year.",
+      "Verify KTEL service, exact Pefkari bus stop, taxi options and legal parking areas; the OSM hamlet GPS is not a vehicle arrival point.",
+      "Validate accessibility and entrance conditions for beach and all tourism businesses before any accessibility promise.",
+      "Review seasonality of minimarkets and eateries; do not imply pharmacies, ATMs or medical help verified on site.",
+      "Use the existing gr-thassos-beach-pefkari and gr-thassos-beach-pefkari-camping records; never create a duplicate beach or confuse with Pefkaria.",
+      "Provide and copyright-clear five genuine photographs pefkari1.webp–pefkari5.webp; filenames are present but image binaries are not supplied.",
+      "Native-speaker proofread Greek, German, Bulgarian, Serbian and marketing copy before publication."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "Five WebP paths are preconfigured; the photographs are not provided and commercial reuse rights have not been checked."
+  }
+}

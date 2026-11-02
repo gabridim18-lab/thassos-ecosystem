@@ -1,0 +1,429 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-kinira",
+  "slug": "kinira",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Κοίνυρα",
+    "international_name": "Kinira (Koinyra)",
+    "aliases": [
+      "Kinira",
+      "Koinyra",
+      "Koinira",
+      "Kinyra",
+      "Kinira Thassos",
+      "Koínyra",
+      "Κοίνυρα",
+      "Κοίνυρα Θάσου"
+    ],
+    "area_type": "coastal_hamlet",
+    "entity_scope": "The genuine small coastal settlement of Kinira/Koinyra on eastern Thassos, with scattered houses, accommodation and dining venues along the island road. A settlement POI, not the separate Kinira Beach, the offshore Kinira islet, or the Paradise Beach resort sector to its south.",
+    "deduplication_warning": "Koinyra/Kinira/Kinyra are names for the same eastern Thassos settlement. Kinira Beach is a separate beach record with its own mapping point; Paradise Beach is a distinct popular sandy bay roughly south of the hamlet, not a synonym for Kinira. Kiniriotiko/Koinyra islet is a landform offshore, not the village itself. Do not confuse the locality node with a named beach, islet, public parking site, or ferry terminal.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": true,
+    "coast": "east / east-southeast",
+    "part_of_island": "eastern",
+    "center": {
+      "lat": 40.66551,
+      "lng": 24.76231,
+      "coordinate_role": "OSM_place_hamlet_settlement_reference_point_not_beach_center_vehicle_entry_or_public_parking",
+      "coordinate_source": "Mapcarta / OpenStreetMap hamlet node 1477905050; corroborated as settlement by GeoNames Koinyra feature",
+      "coordinate_source_url": "https://mapcarta.com/13817024",
+      "verification_status": "OSM_hamlet_node_verified_as_locality_reference;_Google_Maps_arrival_and_pedestrian_access_not_verified",
+      "verified_on": "2026-10-27"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "Kinira hamlet location from OSM 40.66551,24.76231. GeoNames supplies a closely matching populated-place point near 40.665644,24.761904. The nearby OSM Kinira Beach feature (way 714036711) is approximately 40.66699,24.76379 and must NOT replace the settlement coordinate. Paradise Beach is a distinct sandy bay to the south and has its own independent beach record and separate access. The island visible offshore (Nisida Koinyra / Kiniriotiko) is not accessible through a verified public route and must not be mapped as Kinira village. Reference coordinates are not verified customer entrances, accessible approaches, bus stops or car parks."
+  },
+  "overview": {
+    "settlement_character": "small_quiet_seaside_hamlet_of_scattered_lodging_tavernas_pine_and_olive_backdrop_clear_east_coast_water_with_small_offshore_islet",
+    "tourism_profile": [
+      "authentic_small_coastal_hamlet_not_a_town_or_lively_commercial_resort",
+      "quiet_seaside_stays_with_scattered_guesthouses_studios_and_small_hotels",
+      "two_broad_local_shoreline_sections_with_varying_sand_pebbles_and_rocky_entry",
+      "small_local_restaurants_and_tavernas_and_a_basic_grocery_reported",
+      "forested_hills_and_olive_groves_behind_the_coast",
+      "characteristic_offshore_islet_Kiniriotiko_visible_from_mainland",
+      "convenient_base_to_visit_distinct_Paradise_Beach_to_the_south_and_Golden_Beach_area_to_the_north",
+      "practical_for_travellers_with_a_car_or_transport_plan_not_a_big_walkable_village_centre"
+    ],
+    "best_time_to_visit": "Late spring to early autumn for nature, coastal stays and views; the fullest accommodation and food services generally operate during the summer season. Sea conditions, sunshine, operator schedules and water temperature change day by day.",
+    "peak_season_notes": "Kinira usually has a calmer feel than larger Thassos resorts, but popular accommodation and the nearby Paradise Beach can draw summer visitors. The village follows the island road and some walks require roadside awareness; do not assume a pedestrian promenade, continuous pavement or ample parking."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "the_eastern_Thassos_name_Koinyra_preserves_an_ancient_place_name_known_from_Herodotus",
+      "classical_and_earlier_Thassos_mining_history_near_Koinyra_Ainyra_reported_by_ancient_authors",
+      "documented_ancient_gold_mining_galleries_in_the_Klisidi_ridge_studied_by_archaeologists_and_geologists",
+      "late_Roman_or_early_Christian_burial_archaeology_reported_from_Koinyra_shore",
+      "modern_coastal_hospitality_and_small_scale_fishing_set_amid_olive_and_pine_landscape"
+    ],
+    "local_traditions": [
+      "relaxed_meals_at_small_greek_tavernas_with_sea_or_hillside_views",
+      "Thassos_olive_growing_and_local_oil_products_as_part_of_island_wide_culture",
+      "everyday_seaside_life_of_local_residents_and_seasonal_accommodation_hosts",
+      "quiet_sunset_or_morning_walks_along_accessible_coast_sections_where_safe"
+    ],
+    "local_food_specialties": [
+      "seafood_and_fresh_fish_when_available_at_individual_tavernas",
+      "Greek_meze_grilled_vegetables_salads_and_local_cheese_dishes",
+      "Thassos_olives_olive_oil_and_honey_as_regional_products",
+      "grilled_meats_and_traditional_Greek_dishes_depending_on_menu"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "couples_seekers_of_quiet_accommodation_by_the_sea",
+      "families_prepared_to_check_stones_depth_and_specific_entry_point",
+      "visitors_with_a_car_exploring_eastern_Thassos_beaches",
+      "nature_and_landscape_photographers",
+      "travellers_preferring_small_tavernas_to_nightlife",
+      "visitors_who_enjoy_small_footprint_local_settlements"
+    ],
+    "experiences": [
+      "enjoy_a_quiet_local_beach_section_with_actual_sea_conditions_checked",
+      "photograph_the_offshore_islet_from_safe_public_viewpoints",
+      "walk_short_sections_of_village_coast_and_observe_olive_pine_landscape",
+      "eat_at_a_local_taverna_or_small_seaside_restaurant",
+      "visit_separate_Paradise_Beach_when_access_and_weather_are_suitable",
+      "explore_other_named_east_coast_beaches_using_their_own_GPS_points",
+      "learn_about_the_archaeological_gold_mining_history_from_verified_public_sources_not_unmarked_mines"
+    ],
+    "points_of_interest_summary": [
+      "Kinira village — authentic small coastal settlement on the eastern island road, not a full-scale town centre.",
+      "Kinira Beach — independent beach POI with a mainly mixed sand-pebble shore and rocky entry in sections; the coastline is longer than a single hotel frontage.",
+      "Kiniriotiko / Koinyra islet — pine-covered island offshore, a visual landscape landmark; no public landing or safe route verified.",
+      "Paradise Beach (Paradeisos) — distinct sandy bay south of Kinira, with its own access, seasonal visitor facilities and beach JSON.",
+      "Pine- and olive-framed mountain slopes — scenic eastern-coast backdrop; no official trailhead mapped for this record.",
+      "Ancient mining landscape near Koinyra — historically documented, not promoted as an open visitor attraction, guided mine visit or safe cave."
+    ],
+    "estimated_visit_duration": "The hamlet is best experienced as a relaxed base or as a short scenic stop and seaside meal. Allow one to three hours for a low-key visit excluding a dedicated swim; a half or full day when combining separate beaches. These are travel-planning suggestions, not an official itinerary.",
+    "family_suitability": "Many visitors appreciate the peaceful coast, but some Kinira shores have pebbles and submerged stones. Choose a suitable beach stretch, assess depth and winds locally and supervise children. Paradise Beach is a separate option, not automatically safe under all conditions.",
+    "mobility_considerations": "The long roadside hamlet and natural pebble/rock shore do not provide evidence of a fully continuous step-free promenade, accessible beach ramp or independently verified accessible water entry. Check actual lodging and destination accessibility directly; do not infer it from the settlement coordinate.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "Kinira lies along the paved coastal/ring road on eastern Thassos between the Skala Potamia/Golden Beach region to the north and Paradise Beach/Alyki to the south. Lodgings may sit on both sides of the road. Use a particular business entrance or verified public parking point for navigation rather than the generic village centre.",
+    "public_transport": "Local island-bus routes may serve the east coast in season; the exact current Kinira stop, accessible last-mile path, frequency and calendar have not been independently confirmed. Check current operator announcements instead of using fixed area-level times.",
+    "parking_overview": "Some private accommodations offer their own guest parking and certain beach access points may have roadside space. No general public car park, free space, capacity or universally legal roadside parking has been independently established for the entire hamlet. Follow signs and avoid private gates.",
+    "pedestrian_access": "Kinira is a distributed coastal settlement along the main road, not a compact town with a dedicated promenade. Short routes to shore may cross roads or private entrances, with varying surface, stones and gradients. Stay on legal routes and watch traffic, particularly with children.",
+    "accessibility_note": "No confirmed continuous barrier-free village walkway, accessible beach mat, adapted public toilets or assisted sea-entry equipment specifically for the Kinira shoreline. Verify facilities at the precise beach or accommodation before travel.",
+    "general_amenities": {
+      "supermarket": true,
+      "pharmacy": null,
+      "atm": null,
+      "medical_services": null,
+      "fuel_station": null,
+      "restaurants_and_cafes": true
+    },
+    "visitor_safety_notes": "Rocky waterline and pebbles make water footwear useful in places. Wind and waves can vary along the eastern shoreline; supervise children, avoid uncertain depths and never assume lifeguard coverage. The offshore islet is not an advertised public excursion or safe swimming destination. Historic gold-mining works are not identified as safe open visitor trails; never enter mine tunnels. Use caution on the main island road and check seasonal service availability.",
+    "practical_data_review_required": true
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-skala-potamia",
+      "gr-thassos-area-alyki"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-kinira",
+      "gr-thassos-beach-paradise"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "Kinira village is a true small settlement, not Kinira Beach or the offshore islet. The featured beach IDs are separate existing beach JSONs; proximity must be computed from each POI actual coordinates (some beach records still have null coordinates), not by treating this village point as the beach or an approach. Nearby area IDs are editorial geographic links; validate against final active areas index. Kiniriotiko is a landform with no invented attraction ID. No unverified mine, trailhead, restaurants, ferry ports, parking or facilities receive fabricated IDs. Each lodging and business will reference Kinira via its own area_id and accurate GPS.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "Kinira is not a scheduled ferry port. The island is served via Limenas–Keramoti and Skala Prinos–Kavala ferry routes; their departures and seasonal operator data belong to a separate current transport module with validity ranges, sources and update timestamps. Do not hard-code ferry or KTEL departure times into this settlement record."
+  },
+  "translations": {
+    "ro": {
+      "name": "Kinira (Koinyra)",
+      "tagline": "Liniște la malul mării, cu pini, golfuri și o insuliță în larg",
+      "summary": "Kinira este un mic sat de coastă de pe partea estică a insulei Thassos, apreciat pentru atmosfera liniștită, golfurile cu nisip și pietricele și priveliștea către insulița împădurită din larg. Aici găsești cazări, câteva taverne și un punct de plecare convenabil pentru explorarea Paradise Beach și a coastei estice.",
+      "description": "Kinira, întâlnită și sub numele Koinyra, este una dintre acele așezări din Thassos în care vacanța se desfășoară într-un ritm mai calm. Casele, studiourile și micile unități de cazare se întind de-a lungul drumului de pe coasta estică, între dealuri acoperite de pini și măslini și apa albastru-verzuie a Mării Egee. Nu este un oraș cu centru comercial și promenadă aglomerată, ci un sat de coastă potrivit celor care caută liniște și apropierea de natură. Priveliștea cea mai ușor de recunoscut este insulița Kiniriotiko, acoperită de vegetație, care se ridică din mare în fața satului. Ea este un reper peisagistic, nu o destinație pentru care am confirmat acces public sau traversări sigure. Malul localității cuprinde mai multe porțiuni cu nisip, pietricele și zone stâncoase. Apa poate fi limpede în zilele calme, însă intrarea în mare diferă de la un loc la altul și pot exista pietre sub apă. Unele segmente sunt aproape neamenajate, iar serviciile disponibile depind de proprietățile și operatorii din apropiere. În sat găsești taverne și magazine pentru nevoile de bază, fără oferta extinsă a stațiunilor mari. Mai la sud, Paradise Beach reprezintă o plajă distinctă, cu nisip și peisaj spectaculos; nu trebuie confundată cu Kinira Beach. Spre nord se poate continua explorarea către Skala Potamia și zona Golden Beach. Peisajul de astăzi are și un trecut surprinzător: în regiunea Koinyra au fost cercetate galerii miniere antice legate de exploatarea aurului, menționată și în scrierile antice. Aceste vestigii nu constituie însă un traseu turistic deschis sau sigur pentru vizitare. Kinira este, în primul rând, un loc bun pentru dimineți liniștite, o masă cu vedere spre mare și descoperirea pe îndelete a coastei estice.",
+      "history_culture": "Numele Koinyra apare în contextul relatărilor antice despre resursele minerale ale insulei. Cercetări arheologice și geologice au identificat galerii de exploatare a aurului în regiunea Koinyra–Klisidi, în legătură cu descrierea lui Herodot. Originea exactă și cronologia tuturor etapelor de exploatare sunt subiecte istorice nuanțate; nu prezentăm ca certitudine că fiecare galerie datează din perioada feniciană. Au fost documentate și vestigii funerare din perioada romană târzie sau paleocreștină. Astăzi, cultura locală este legată mai ales de peisajul rural, măslini, mare și ospitalitatea tavernelor.",
+      "local_character": "Mic sat liniștit, cu locuințe și cazări răsfirate, peisaj verde și golfuri naturale. Este potrivit pentru relaxare, nu pentru viață de noapte ori cumpărături extinse. Deplasarea între diferite puncte poate presupune folosirea drumului insulei.",
+      "what_to_do": "Bucură-te de o porțiune potrivită de pe Kinira Beach, admiră insulița Kiniriotiko de pe țărm, fă fotografii cu dealurile împădurite și ia masa la o tavernă locală. Pentru o zi pe o plajă de nisip mai cunoscută, explorează separat Paradise Beach, verificând accesul și condițiile mării. Dacă dorești să descoperi mai mult, continuă către Skala Potamia și Golden Beach.",
+      "practical_tips": "Folosește GPS-ul exact al cazării, restaurantului sau plajei, nu doar centrul generic al satului. Drumul principal traversează localitatea, iar trotuarele și potecile nu sunt uniforme. Pe unele porțiuni de plajă, papucii de apă sunt utili din cauza pietrelor. Nu presupune existența șezlongurilor, dușurilor, toaletei publice sau a salvamarului pe fiecare sector. Verifică sezonier restaurantele, magazinele, transportul și parcarea. Insulița din larg și galeriile miniere antice nu sunt trasee de vizitare recomandate fără acces oficial confirmat.",
+      "highlights": [
+        "Sat de coastă autentic și liniștit",
+        "Priveliște către insulița împădurită Kiniriotiko",
+        "Plaje locale cu nisip, pietricele și apă adesea limpede",
+        "Taverne și cazări într-un cadru natural",
+        "Paradise Beach, destinație separată la sud"
+      ],
+      "seo_title": "Kinira (Koinyra), Thassos – sat, plaje și recomandări",
+      "seo_description": "Descoperă Kinira din Thassos: sat liniștit pe coasta estică, plaje naturale, insulița Kiniriotiko, taverne, acces și Paradise Beach în apropiere.",
+      "social_caption": "🌊 Kinira, Thassos: un sat liniștit între pini, măslini și ape albastre, cu o insuliță pitorească în larg. 🌿 Descoperă coasta estică în ritmul tău! 🇬🇷 #Thassos #Kinira #ExploreThassos",
+      "photo_alt": "Localitatea Kinira de pe coasta estică a insulei Thassos, cu golful, casele de pe țărm, dealuri verzi și insulița împădurită în larg."
+    },
+    "en": {
+      "name": "Kinira (Koinyra)",
+      "tagline": "A peaceful east-coast village with pine-clad hills and an offshore islet",
+      "summary": "Kinira is a small seaside hamlet on the eastern coast of Thassos, known for its unhurried atmosphere, mixed sand-and-pebble shoreline and views towards a green island offshore. Scattered accommodation, local tavernas and proximity to Paradise Beach make it a quiet base for exploring the coast.",
+      "description": "Kinira, also written Koinyra or Kinyra, offers a gentler side of a Thassos seaside holiday. Rather than a bustling resort centre, this is a small coastal settlement whose guesthouses, studios and houses are spaced along the eastern island road. Behind them rise green hills with pines and olive groves; in front, the Aegean shifts from deep blue to turquoise in calm weather. One of the most distinctive features of the view is Kiniriotiko, the vegetated little island lying offshore. It provides a memorable backdrop for photographs, but there is no independently verified public landing or safe visitor crossing that should be promised. Kinira’s local waterfront includes more than one bathing stretch, with a mixture of sand, smooth pebbles and stones. Conditions vary even within a short distance: certain entries are comparatively gentle, while other sections have submerged rocks or uneven footing. It is a pleasant place to relax if you choose your spot carefully, but do not expect a fully serviced beach along the whole shore. Small tavernas and basic shopping are available in the settlement, while visitors wanting an extensive promenade, nightlife or large retail selection will be better served by a larger resort. Nearby Paradise Beach, to the south, is a separate sandy bay and a popular day trip; it should not be treated as part of Kinira Beach. To the north, the Golden Beach area and Skala Potamia offer further choices. The area also has a deeper history. Archaeological research has identified ancient gold-mining workings near Koinyra, in a region associated with mining described by classical writers. These sites are historic research locations, not a confirmed public mine-tour attraction. Above all, Kinira is a place for slow mornings by the sea, quiet meals, landscape photography and easy-paced discovery of eastern Thassos.",
+      "history_culture": "The place name Koinyra appears in accounts of ancient Thassos and its mineral wealth. Archaeological and geological research documented gold-mining galleries in the broader Koinyra–Klisidi district, often discussed in relation to Herodotus. The exact sequence of early exploitation requires care: individual galleries must not simply be labelled Phoenician without evidence. Research reports also record a late Roman or early Christian burial find at Koinyra. The modern hamlet is better understood through its small-scale coastal life, olive-growing landscape and local hospitality than as an open-air archaeological museum.",
+      "local_character": "Low-key, scattered seaside hamlet with a natural coastline and forested backdrop, not an urban centre or a nightlife resort. Some accommodation and eateries sit along the coastal road rather than around a walkable main square.",
+      "what_to_do": "Choose a suitable part of Kinira Beach for a quiet seaside break, photograph the offshore Kiniriotiko island from land and enjoy a meal at a local taverna. Explore the distinct sandy Paradise Beach to the south when weather and access permit, or travel north towards Skala Potamia and the wider Golden Beach area. Observe the landscape and take your time rather than expecting a long list of managed attractions in the hamlet itself.",
+      "practical_tips": "Navigate to the precise lodging, restaurant or beach location rather than the hamlet’s reference point. Take care on the island road and do not assume continuous pavements. Bring water shoes for stony shore sections and supervise children in changing depths. Loungers, public toilets, showers, staffed safety services and roadside parking should not be assumed for every stretch. Check operating hours and bus services for the actual season. The offshore islet and ancient mine galleries should not be approached as verified visitor excursions.",
+      "highlights": [
+        "Small, genuinely peaceful eastern coastal hamlet",
+        "Views of the green Kiniriotiko islet",
+        "Quiet mixed sand-and-pebble village shore",
+        "Local tavernas and accommodation among pines and olives",
+        "Separate Paradise Beach a short trip to the south"
+      ],
+      "seo_title": "Kinira (Koinyra), Thassos – village, beaches & travel tips",
+      "seo_description": "Explore Kinira on Thassos: a quiet east-coast hamlet, natural beaches, the Kiniriotiko islet, local tavernas and nearby Paradise Beach.",
+      "social_caption": "🌊 Kinira, Thassos: a peaceful seaside hamlet framed by pines, olive trees and blue water, with a tiny green island offshore. 🌿 Slow down and explore the east coast! 🇬🇷 #Thassos #Kinira #GreekIslands",
+      "photo_alt": "Kinira seaside hamlet on eastern Thassos, with coastal houses, blue-green water, green hills and the small wooded islet offshore."
+    },
+    "el": {
+      "name": "Κοίνυρα (Kinira)",
+      "tagline": "Ήρεμος παραθαλάσσιος οικισμός με πεύκα και ένα καταπράσινο νησάκι απέναντι",
+      "summary": "Τα Κοίνυρα είναι ένας μικρός παραθαλάσσιος οικισμός στην ανατολική Θάσο, με ήσυχη ατμόσφαιρα, ακτές με άμμο και βότσαλα και θέα στο καταπράσινο νησάκι απέναντι. Τα καταλύματα, οι ταβέρνες και η κοντινή παραλία Παράδεισος τον κάνουν όμορφη βάση για εξερεύνηση.",
+      "description": "Τα Κοίνυρα είναι μια ήσυχη γωνιά της ανατολικής Θάσου, ιδανική για όσους προτιμούν τη φυσική ομορφιά από την έντονη κίνηση μιας μεγάλης τουριστικής περιοχής. Τα σπίτια, τα ενοικιαζόμενα δωμάτια και οι μικρές μονάδες φιλοξενίας απλώνονται κατά μήκος του παραλιακού δρόμου, ανάμεσα σε ελαιώνες, πευκόφυτες πλαγιές και γαλαζοπράσινα νερά. Δεν πρόκειται για πόλη με μεγάλο εμπορικό κέντρο ή εκτεταμένο παραλιακό πεζόδρομο, αλλά για πραγματικό μικρό οικισμό με χαλαρούς ρυθμούς. Χαρακτηριστικό στοιχείο του τοπίου είναι το κατάφυτο νησάκι Κοινυριώτικο, ακριβώς απέναντι από την ακτή. Αποτελεί υπέροχο σημείο αναφοράς για φωτογραφίες, χωρίς όμως να έχει επιβεβαιωθεί ελεύθερη δημόσια πρόσβαση ή ασφαλής διαδρομή προς αυτό. Η παραλία των Κοινύρων περιλαμβάνει τμήματα με άμμο, ψιλό βότσαλο και πέτρες, ενώ σε ορισμένα σημεία ο βυθός είναι βραχώδης. Η είσοδος στη θάλασσα διαφέρει ανάλογα με το τμήμα και τις καιρικές συνθήκες. Δεν υπάρχουν οργανωμένες παροχές σε όλη την ακτογραμμή, γι’ αυτό αξίζει να επιλέξετε προσεκτικά το σημείο κολύμβησης. Στον οικισμό λειτουργούν ταβέρνες και ορισμένα καταστήματα για βασικές ανάγκες, κυρίως κατά την τουριστική περίοδο. Νοτιότερα βρίσκεται η ξεχωριστή αμμώδης παραλία Παράδεισος, ενώ προς τα βόρεια μπορεί κανείς να γνωρίσει τη Σκάλα Ποταμιάς και τη Χρυσή Ακτή. Η περιοχή των Κοινύρων συνδέεται και με την αρχαία ιστορία της Θάσου: αρχαιολογικές μελέτες έχουν καταγράψει αρχαίες στοές εξόρυξης χρυσού στην ευρύτερη ζώνη. Αυτά τα σημεία δεν αποτελούν, ωστόσο, επιβεβαιωμένα και ασφαλή επισκέψιμα ορυχεία. Η μεγαλύτερη αξία των Κοινύρων βρίσκεται τελικά στη γαλήνια θάλασσα, στο πράσινο τοπίο και στις μικρές απολαύσεις μιας ανεπιτήδευτης διαμονής.",
+      "history_culture": "Το αρχαίο τοπωνύμιο Κοίνυρα συνδέεται με τις αναφορές του Ηροδότου για τον ορυκτό πλούτο της Θάσου. Αρχαιολογικές και γεωλογικές έρευνες εντόπισαν στην ευρύτερη περιοχή Κοινύρων–Κλεισιδιού στοές αρχαίας εξόρυξης χρυσού. Η ακριβής χρονολόγηση και η απόδοση συγκεκριμένων στοών στους Φοίνικες απαιτούν προσοχή και δεν παρουσιάζονται ως βέβαια γεγονότα. Έχει επίσης καταγραφεί ταφικό εύρημα της ύστερης ρωμαϊκής ή παλαιοχριστιανικής περιόδου. Η σημερινή φυσιογνωμία διαμορφώνεται από τον παραθαλάσσιο τρόπο ζωής, τους ελαιώνες και τη φιλοξενία.",
+      "local_character": "Μικρός και ήσυχος παραθαλάσσιος οικισμός με διάσπαρτα καταλύματα, πεύκα και ελαιώνες. Δεν είναι οργανωμένο αστικό κέντρο ούτε τουριστικό θέρετρο με έντονη νυχτερινή ζωή.",
+      "what_to_do": "Απολαύστε την κατάλληλη ακτή των Κοινύρων ανάλογα με τις συνθήκες, φωτογραφίστε το νησάκι από τη στεριά και δοκιμάστε φαγητό σε μια τοπική ταβέρνα. Για μια διαφορετική μέρα στην άμμο, επισκεφθείτε την ξεχωριστή παραλία Παράδεισος. Βορειότερα, η Σκάλα Ποταμιάς και η ευρύτερη Χρυσή Ακτή προσφέρουν επιπλέον επιλογές.",
+      "practical_tips": "Χρησιμοποιήστε τις ακριβείς συντεταγμένες του καταλύματος, της ταβέρνας ή της παραλίας και όχι μόνο το γενικό σημείο του οικισμού. Ο κύριος δρόμος διασχίζει την περιοχή και δεν υπάρχει παντού συνεχές πεζοδρόμιο. Σε ορισμένα σημεία χρειάζονται παπούτσια θαλάσσης λόγω των πετρών. Μην θεωρείτε δεδομένες ξαπλώστρες, ντους, δημόσιες τουαλέτες, ναυαγοσώστη ή χώρους στάθμευσης σε κάθε τμήμα. Επιβεβαιώστε επί τόπου εποχικές υπηρεσίες και δρομολόγια. Μην επιχειρείτε πρόσβαση στο νησάκι ή σε παλιές μεταλλευτικές στοές χωρίς επίσημα επιβεβαιωμένη ασφαλή δυνατότητα.",
+      "highlights": [
+        "Γνήσιος μικρός οικισμός με ήρεμη ατμόσφαιρα",
+        "Θέα στο κατάφυτο Κοινυριώτικο",
+        "Παραλίες με άμμο και βότσαλα",
+        "Ταβέρνες και καταλύματα στο πράσινο τοπίο",
+        "Η ξεχωριστή παραλία Παράδεισος νοτιότερα"
+      ],
+      "seo_title": "Κοίνυρα Θάσος – οικισμός, παραλίες και χρήσιμες συμβουλές",
+      "seo_description": "Ανακαλύψτε τα Κοίνυρα της Θάσου: ήσυχο παραθαλάσσιο οικισμό, φυσικές παραλίες, το Κοινυριώτικο, ταβέρνες και την κοντινή παραλία Παράδεισος.",
+      "social_caption": "🌊 Κοίνυρα, Θάσος: ήρεμη θάλασσα, πεύκα, ελιές και ένα καταπράσινο νησάκι απέναντι. 🌿 Μια αυθεντική στάση στην ανατολική ακτή! 🇬🇷 #Θάσος #Κοίνυρα #Ελλάδα",
+      "photo_alt": "Ο παραθαλάσσιος οικισμός Κοίνυρα στην ανατολική Θάσο, με σπίτια κοντά στη θάλασσα, καταπράσινες πλαγιές και το νησάκι απέναντι."
+    },
+    "de": {
+      "name": "Kinira (Koinyra)",
+      "tagline": "Ein ruhiger Küstenort mit Pinienhügeln und einer grünen Insel vor der Küste",
+      "summary": "Kinira ist eine kleine Siedlung an der Ostküste von Thassos, bekannt für ihre entspannte Atmosphäre, Strände mit Sand und Kieseln sowie den Blick auf eine bewachsene Insel im Meer. Unterkünfte, Tavernen und die Nähe zum Paradise Beach machen den Ort zu einem angenehmen Ausgangspunkt.",
+      "description": "Kinira, auch Koinyra genannt, ist ein kleiner Küstenort im Osten von Thassos, der vor allem Menschen anspricht, die Ruhe und Natur suchen. Häuser, Studios und kleine Ferienunterkünfte liegen verteilt entlang der Inselstraße, hinter der sich bewaldete Hänge und Olivenhaine erheben. Vor ihnen schimmert die Ägäis an windstillen Tagen in vielen Blau- und Türkistönen. Einen großen Ortskern mit Einkaufsstraßen und einer belebten Promenade sollte man hier nicht erwarten: Kinira ist ein echter, eher weitläufiger Weiler und kein städtisches Ferienzentrum. Besonders schön ist der Blick auf das kleine, grüne Eiland Kiniriotiko vor der Küste. Es gehört zum charakteristischen Landschaftsbild, doch eine öffentlich zugängliche Anlegestelle oder ein sicherer Besuchsweg sind nicht verifiziert. Entlang der Ortsküste liegen mehrere kleine Badeabschnitte mit Sand, Kieseln und stellenweise Felsen. Je nach Stelle befinden sich Steine unter Wasser, während andere Zugänge angenehmer sein können. Die Küste ist nicht überall bewirtschaftet; Sonnenliegen, Duschen und weitere Angebote sollte man deshalb nicht voraussetzen. Einige Tavernen und Geschäfte für den täglichen Bedarf ergänzen die Unterkünfte, meist mit saisonabhängigem Angebot. Südlich des Dorfes liegt die bekannte Paradise Beach, eine eigenständige Sandbucht mit anderer Zufahrt und eigenen Badebedingungen. Im Norden schließen sich weitere Ausflugsziele in Richtung Skala Potamia und Golden Beach an. Auch die Vergangenheit der Gegend ist bemerkenswert: Antike Goldabbaustollen im weiteren Gebiet von Koinyra wurden wissenschaftlich dokumentiert. Sie sind jedoch kein bestätigtes und sicheres Besucherbergwerk. Wer Kinira wählt, findet vor allem entspannte Stunden am Meer, grüne Landschaften und einen guten Ausgangspunkt für individuelle Erkundungen der Ostküste.",
+      "history_culture": "Der Ortsname Koinyra ist aus antiken Berichten über die Bodenschätze von Thassos bekannt. Archäologische und geologische Untersuchungen dokumentierten antike Goldabbaugalerien im Gebiet Koinyra–Klisidi, das im Zusammenhang mit Herodots Schilderungen steht. Eine pauschale Zuschreibung aller Stollen an die Phönizier oder eine einheitliche Datierung wäre historisch ungenau. Außerdem ist aus Koinyra ein Grabfund aus spätrömischer oder frühchristlicher Zeit beschrieben. Heute prägen die Küstenlage, Olivenhaine und kleine gastfreundliche Betriebe den Ort.",
+      "local_character": "Kleine, verteilte Küstensiedlung mit ruhiger Stimmung, Naturstränden und grünen Hängen. Kein klassischer großer Urlaubsort mit Nachtleben, ausgedehntem Shopping oder durchgehender Promenade.",
+      "what_to_do": "An einem passenden Abschnitt des Kinira-Strandes entspannen, das grüne Eiland vom Festland aus fotografieren und die lokale Küche in einer Taverne genießen. Für einen Ausflug zum Sandstrand bietet sich die eigenständige Paradise Beach im Süden an; nördlich warten Skala Potamia und die Golden-Beach-Region. Meer und Zufahrt sollten jeweils vor Ort geprüft werden.",
+      "practical_tips": "Zur Navigation die genaue Unterkunfts- oder Strandadresse nutzen, nicht bloß den Mittelpunkt des Weilers. Die Inselstraße führt durch die Siedlung und hat nicht überall durchgehende Gehwege. Wegen der Steine sind Badeschuhe stellenweise sinnvoll. Öffentliche Toiletten, Duschen, Liegen, Rettungsschwimmer und Parkmöglichkeiten sind nicht an jedem Uferabschnitt bestätigt. Öffnungszeiten und Busverbindungen saisonal prüfen. Die kleine vorgelagerte Insel und alte Bergwerksstollen sind keine bestätigten sicheren Besucherziele.",
+      "highlights": [
+        "Ruhiger authentischer Ort an der Ostküste",
+        "Blick auf die grüne Insel Kiniriotiko",
+        "Natürliche Uferstreifen mit Sand und Kieseln",
+        "Kleine Tavernen und Unterkünfte in grüner Umgebung",
+        "Paradise Beach als eigenständiges Ausflugsziel im Süden"
+      ],
+      "seo_title": "Kinira auf Thassos – ruhiger Küstenort, Strände und Tipps",
+      "seo_description": "Kinira auf Thassos entdecken: kleines Dorf an der Ostküste, Naturstrände, die Insel Kiniriotiko, Tavernen und die nahe Paradise Beach.",
+      "social_caption": "🌊 Kinira auf Thassos: ein ruhiger Küstenort zwischen Pinien, Oliven und türkisblauem Meer, mit einer grünen Insel vor der Küste. 🌿 Entdecke die Ostküste! 🇬🇷 #Thassos #Kinira #Griechenland",
+      "photo_alt": "Kinira an der Ostküste von Thassos, mit Küstenhäusern, blaugrünem Meer, bewaldeten Hängen und einer kleinen grünen Insel vor der Küste."
+    },
+    "bg": {
+      "name": "Кинира (Койнира)",
+      "tagline": "Тихо крайбрежно селище сред борове с малък зелен остров отсреща",
+      "summary": "Кинира е малко крайбрежно селище на източния бряг на Тасос, известно със спокойствието си, плажовете с пясък и камъчета и гледката към зеления остров в морето. Къщите за гости, таверните и близкият плаж Парадайс го правят приятна отправна точка за обиколки.",
+      "description": "Кинира, срещана и като Койнира, е малко селище на източното крайбрежие на остров Тасос, подходящо за хора, които искат спокойна почивка сред природа. Къщи, студиа и малки семейни хотели са разположени по протежение на крайбрежния островен път, а зад тях се издигат зелени склонове с борове и маслинови насаждения. Морето често е в красиви синьо-зелени тонове, особено при спокойно време. Тук няма голям градски център, търговска улица или оживена алея като в по-големите курорти. Най-разпознаваемата гледка е малкият зелен остров Кинириотико, който се вижда срещу брега. Той е природен ориентир, но не е потвърден свободен обществен достъп или безопасен начин за посещение. Край селището има няколко плажни участъка с пясък, чакъл и камъчета, а на места морското дъно е каменисто. Влизането във водата не е еднакво навсякъде и при вятър и вълни условията се променят. Плажът не е оборудван по цялата си дължина, затова не бива да се разчита на шезлонги, душове или други удобства във всеки участък. В селото има таверни и магазини за основни нужди, чието работно време може да зависи от сезона. На юг се намира отделният пясъчен плаж Парадайс, а на север – районът на Скала Потамия и Голдън Бийч. Историята на Кинира е свързана и с античния добив на злато: археологически проучвания са документирали стари минни галерии в околността. Те не трябва да се възприемат като потвърдени туристически обекти, отворени и безопасни за посещение. Основното очарование на Кинира е в тихите дни край морето, зелените гледки и местните таверни.",
+      "history_culture": "Името Койнира присъства в античните описания на минералните богатства на Тасос. Археологически и геоложки изследвания са открили древни галерии за добив на злато в по-широкия район Койнира–Клисиди, свързан с разказа на Херодот. Не всяка галерия може със сигурност да бъде наречена финикийска или датирана еднакво. Описана е и гробна находка от късноримския или раннохристиянския период. Днес селището се свързва повече с маслинови градини, спокойния морски живот и гостоприемството.",
+      "local_character": "Малко, спокойно крайбрежно селище с разпръснати места за настаняване, зелени склонове и естествени плажни участъци. Не е голям курорт с център за нощен живот и пазаруване.",
+      "what_to_do": "Изберете подходящ участък на плаж Кинира, снимайте островчето от брега и хапнете в местна таверна. За по-голям пясъчен плаж посетете отделния Парадайс на юг, като проверите времето и достъпа. На север можете да разгледате Скала Потамия и района на Голдън Бийч.",
+      "practical_tips": "Навигирайте до точния адрес на мястото за настаняване, заведение или плаж, а не само до общата точка на селището. Главният път минава през Кинира и не навсякъде има непрекъснат тротоар. На каменистите места носете обувки за вода и наблюдавайте децата. Не са гарантирани обществени тоалетни, душове, шезлонги, спасител или паркинг на всеки плажен участък. Проверявайте сезонните услуги и автобусите. Не приемайте островчето или древните минни галерии за безопасни свободно достъпни туристически места.",
+      "highlights": [
+        "Спокойно автентично крайбрежно селище",
+        "Гледка към зеления остров Кинириотико",
+        "Естествени плажове с пясък и камъчета",
+        "Таверни и настаняване сред борове и маслини",
+        "Отделният плаж Парадайс на юг"
+      ],
+      "seo_title": "Кинира, Тасос – тихо селище, плажове и полезни съвети",
+      "seo_description": "Открийте Кинира на Тасос: спокойно селище на изток, естествени плажове, остров Кинириотико, таверни и близкия плаж Парадайс.",
+      "social_caption": "🌊 Кинира, Тасос: тихо кътче сред борове, маслини и синьо море, със зелен остров отсреща. 🌿 Открийте красивия източен бряг! 🇬🇷 #Тасос #Кинира #Гърция",
+      "photo_alt": "Крайбрежното селище Кинира на източния бряг на Тасос, със сгради до морето, зелени хълмове и малкия остров отсреща."
+    },
+    "sr": {
+      "name": "Kinira (Koinira)",
+      "tagline": "Mirno primorsko naselje među borovima, sa zelenim ostrvcetom preko puta",
+      "summary": "Kinira je malo naselje na istočnoj obali Tasosa, poznato po opuštenoj atmosferi, plažama sa peskom i oblucima i pogledu na zeleno ostrvce u moru. Apartmani, taverne i blizina posebne plaže Paradise čine je prijatnom bazom za obilazak ostrva.",
+      "description": "Kinira, poznata i kao Koinira ili Kinyra, spada u mirnija primorska mesta na istočnoj obali Tasosa. Kuće, apartmani i mali smeštajni objekti raspoređeni su duž ostrvskog puta, između mora i zelenih padina prekrivenih borovima i maslinama. Kada je more mirno, voda ima lepe tirkizne nijanse, a život u mestu teče mnogo sporije nego u velikim turističkim centrima. Kinira nema veliki trg, dugu trgovačku ulicu ni živu promenadu: to je malo, razuđeno naselje, a ne grad ili centar noćnog provoda. Najprepoznatljiviji prizor je šumovito ostrvce Kiniriotiko, koje se vidi nedaleko od obale. Ono je pre svega lep motiv za fotografije; javno iskrcavanje i bezbedan pristup nisu nezavisno potvrđeni. Uz selo se prostire nekoliko delova obale sa peskom, oblucima i kamenjem. Ulazak u vodu razlikuje se od mesta do mesta, a pojedine zone imaju potopljene stene, pa su patike za vodu korisne. Plaža nije duž cele obale uređena, te ne treba računati na ležaljke, tuševe ili druge usluge svuda. U naselju postoje taverne i prodavnice za osnovne potrebe, ali njihov rad zavisi od sezone. Južno od Kinire nalazi se poznata peščana plaža Paradise, zasebna uvala sa sopstvenim pristupom, a severno su Skala Potamija i širi deo Golden Beach. Kraj ima i zanimljivu istoriju: u široj oblasti Koinire pronađeni su tragovi antičkih rudnika zlata, koji se povezuju sa antičkim pisanim izvorima. Međutim, te rudarske galerije nisu potvrđene kao bezbedne, javno dostupne turističke lokacije. Kinira je najbolja za miran odmor, uživanje u pejzažu, lokalnoj kuhinji i izlete duž istočne obale.",
+      "history_culture": "Ime Koinira pojavljuje se u antičkim izvorima koji opisuju rudno bogatstvo Tasosa. Arheološka i geološka istraživanja dokumentovala su stare galerije za eksploataciju zlata na širem području Koinira–Klisidi, povezanom sa Herodotovim opisima. Nije pouzdano svaku galeriju pripisivati Feničanima ili joj davati istu starost. Zabeležen je i grobni nalaz iz kasnorimskog ili ranohrišćanskog doba. Danas lokalni identitet čine miran priobalni život, masline, borovi i gostoprimstvo.",
+      "local_character": "Malo, mirno i razuđeno primorsko naselje sa prirodnom obalom, zelenim zaleđem i smeštajem uz ostrvski put. Nema karakter velikog odmarališta sa noćnim životom ili dugim šetalištem.",
+      "what_to_do": "Provedite vreme na odgovarajućem delu lokalne plaže, fotografišite ostrvce Kiniriotiko sa kopna i ručajte u taverni. Za izlet na poznatiji peščani zaliv posetite zasebnu Paradise Beach južno od naselja, uz proveru prilaza i mora. Severni deo ostrva vodi prema Skala Potamiji i oblasti Golden Beach.",
+      "practical_tips": "Za navigaciju koristite tačne koordinate apartmana, restorana ili plaže, a ne samo opštu lokaciju naselja. Glavni put prolazi kroz Kiniru i trotoari nisu svuda neprekidni. Obuća za vodu pomaže na kamenitim delovima, a decu treba stalno nadgledati. Ne podrazumevajte toalete, tuševe, ležaljke, spasioce ili javni parking na svakom delu obale. Raspitajte se o aktuelnim sezonskim uslugama i autobuskim polascima. Ostrvce i stare rudarske galerije nisu potvrđena bezbedna mesta za slobodnu posetu.",
+      "highlights": [
+        "Malo, autentično i mirno primorsko naselje",
+        "Pogled na šumovito ostrvce Kiniriotiko",
+        "Prirodna obala sa peskom i oblucima",
+        "Lokalne taverne i smeštaj među borovima i maslinama",
+        "Zasebna plaža Paradise nekoliko kilometara južno"
+      ],
+      "seo_title": "Kinira Tasos – mirno naselje, plaže i korisni saveti",
+      "seo_description": "Otkrijte Kiniru na Tasosu: mirno istočno priobalje, prirodne plaže, ostrvce Kiniriotiko, lokalne taverne i obližnju Paradise Beach.",
+      "social_caption": "🌊 Kinira, Tasos: mirno mesto među borovima, maslinama i tirkiznim morem, sa zelenim ostrvcetom preko puta. 🌿 Upoznajte istočnu obalu! 🇬🇷 #Tasos #Kinira #Grcka",
+      "photo_alt": "Malo primorsko naselje Kinira na istočnoj obali Tasosa, sa kućama uz more, zelenim padinama i ostrvcetom preko puta."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/kinira/images/kinira1.webp",
+    "gallery": [
+      "destinations/thassos/areas/kinira/images/kinira2.webp",
+      "destinations/thassos/areas/kinira/images/kinira3.webp",
+      "destinations/thassos/areas/kinira/images/kinira4.webp",
+      "destinations/thassos/areas/kinira/images/kinira5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/kinira/images/",
+    "suggested_asset_names": [
+      "kinira1.webp",
+      "kinira2.webp",
+      "kinira3.webp",
+      "kinira4.webp",
+      "kinira5.webp"
+    ],
+    "image_policy": "Exactly five WebP slots reserved with permanent names: (1) clearly identifiable Kinira hamlet with coastline, (2) a distinct local shoreline/pebble beach viewpoint, (3) the Kiniriotiko islet seen from Kinira mainland, (4) genuine Kinira street, houses, olive groves or taverna scene, (5) wider eastern coast scenery genuinely shot in the Kinira area. Do NOT pass off Paradise Beach, Golden Beach or the offshore islet itself as a photograph of Kinira hamlet. The files are naming references only; original photo binaries and ownership, credit, commercial-use and onward-transfer rights are not independently verified.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_mapcarta_hamlet",
+      "kind": "openstreetmap_derived_mapping",
+      "title": "Mapcarta — Koinyra hamlet (OpenStreetMap node 1477905050)",
+      "url": "https://mapcarta.com/13817024",
+      "detail": "Kinira is an actual hamlet; OSM locality point 40.66551,24.76231. This is NOT the separate Kinira Beach feature or an approved arrival/parking point.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_geonames_hamlet",
+      "kind": "geographic_database",
+      "title": "GeoNames — Koinyra populated place",
+      "url": "https://www.geonames.org/advanced-search.html?country=GR&q=Ida&startRow=150",
+      "detail": "Lists Koinyra settlement approximately 40.665644,24.761904, supporting the OSM reference within a small mapping offset; distinguishes separately named island. The search-result URL is a database evidence path, not a direct route.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_gtp_settlement",
+      "kind": "greek_travel_geography_directory",
+      "title": "Greek Travel Pages — Kinyra settlement on Thassos",
+      "url": "https://www.gtp.gr/LocPage.asp?id=10997&lng=2",
+      "detail": "Classifies Kinyra as a settlement on the east coast and supplies geographic and locality metadata. Directory category tags should not be interpreted as proof of a current ferry port.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_kinira",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Kinira village",
+      "url": "https://www.go-thassos.gr/about-thassos/places/kinira",
+      "detail": "Reports quiet village atmosphere, two local shore sections divided by headland, sand and pebble variety, forested offshore Kiniriotiko islet, restaurants and basic grocery services. Some historical claims are considered only in light of academic research.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_nikana_kinira",
+      "kind": "tourism_guide",
+      "title": "Nikana — Kinira village",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/places/1947/kinira",
+      "detail": "Small quiet dispersed settlement without lively main square or promenade; dining, grocery and nearby beaches; guide updated 2024, individual services not guaranteed currently.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_kinira_beach",
+      "kind": "beach_guide",
+      "title": "Go Thassos — Kinira Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/kinira-beach",
+      "detail": "Independently named beach in Kinira with mixed sandy/pebbly/rocky parts; parking shown but no universally guaranteed public lot. Beach is not the village settlement coordinate.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_nikana_beach",
+      "kind": "beach_guide",
+      "title": "Nikana — Kinira Beach",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1931/kinira-beach",
+      "detail": "Narrow mixed sand/gravel stretches, stones near sea entry, little organization away from individual lodging services, generally quiet. Updated July 2024, season-dependent.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_paradise",
+      "kind": "nearby_beach_guide",
+      "title": "Go Thassos — Paradise Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/paradise",
+      "detail": "Locates Paradise Beach south of Kinira as a separate bay and beach, with distinct access; any published transit/parking conditions require seasonal check.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_mythassos_kinira",
+      "kind": "regional_tourist_guide",
+      "title": "MyThassos — Kinira",
+      "url": "https://mythassos.app/en/places/%CE%BA%CE%BF%CE%B9%CE%BD%CF%85%CF%81%CE%B1",
+      "detail": "Describes east-coast small village, islet vista, quiet atmosphere, basic tavernas and local shoreline; route distances and seasonal facilities are not hard-coded.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_archaeology_mines",
+      "kind": "archaeological_research_record",
+      "title": "École française d’Athènes — Thasos ancient Koinyra gold mines field report",
+      "url": "https://chronique.efa.gr/?id=17790&r=report",
+      "detail": "Documents surface study of ancient gold mines at Koinyra, named Phanos and Klissidi; evidence of historic mining, NOT public access or a maintained tourist attraction.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_archaeology_burial",
+      "kind": "archaeological_research_record",
+      "title": "École française d’Athènes — Koinyra 1996 burial archaeology",
+      "url": "https://chronique.efa.gr/?id=10022&r=report",
+      "detail": "Describes excavated large family tomb on the shore likely late Roman or early Christian based on construction. No exact publicly visitable site pinned.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_ministry_history",
+      "kind": "official_history_context",
+      "title": "Municipality of Thassos — Brief historical overview",
+      "url": "https://www.thassos.gr/en/dimos/thasos-syntomi-istoriki-anaskopisi/",
+      "detail": "Official chronology of the island and its changing cultures, used only as broad history context; no unsupported date attributed to individual Kinira buildings.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_cycomed_history",
+      "kind": "academic_research",
+      "title": "Cycomed Project — Cyprus and Late Bronze/Early Iron Age metallurgy on Thasos",
+      "url": "https://cycomedproject.eie.gr/history/cyprus-and-the-lba-eia-metallurgy-on-thasos/",
+      "detail": "Discusses Herodotus’ Koinyra-Ainyra gold-mining tradition, archaeological galleries, and the lack of proof for dates before late 6th/early 5th century BC. Prevents claiming any individual gallery is certainly Phoenician.",
+      "checked_on": "2026-10-27"
+    }
+  ],
+  "editorial": {
+    "status": "researched_six_languages_completed_5_image_paths_configured_pending_image_rights_exact_arrival_and_final_review",
+    "facts_checked_on": "2026-10-27",
+    "translations_written_on": "2026-10-27",
+    "coverage": "full_Kinira_east_coast_hamlet_profile_six_languages_13_sources_two_existing_beach_IDs_5_fixed_WebP_slots",
+    "requires_manual_review": [
+      "Kinira/Koinyra is a small real hamlet, not a large urban town. Confirm its inclusion in the curated areas index and avoid duplication with Kinira Beach and the separate offshore Kiniriotiko island.",
+      "Check the OSM locality point 40.66551,24.76231 in Google Maps and verify exact settlement centroid/extent; the point is not a parking bay, road turn, guesthouse or beach entrance.",
+      "Find and verify a safe legal public arrival point only when needed; retain arrival_point lat/lng null until confirmed. Do not substitute the nearby OSM Kinira Beach point 40.66699,24.76379.",
+      "Check exact site conditions and shoreline segmentation for the existing Kinira Beach record; coastline includes different sand/pebble/rock entries, with seasonal services and potential private operator sectors.",
+      "Paradise Beach south of Kinira is a different POI with its own access and changing seasonal conditions; verify nearby area links and exact GPS in active repository.",
+      "Verify seasonal KTEL stops/timetables, local grocery/taverna opening dates, public parking rules and any accessibility services; no fixed schedule or guaranteed amenities are asserted.",
+      "Ancient mining galleries and archaeological tombs should remain background history, not advertised as safe visitor experiences without official maintained public access and permitted route.",
+      "Confirm whether any use of Kiniriotiko islet is publicly permitted; this JSON offers views from mainland only and no invented tour or docking promise.",
+      "Place five actual pictures kinira1.webp–kinira5.webp in the image folder; verify every picture depicts correct Kinira scenery (not Paradise Beach) and has publication/commercial reuse/transfer rights and any required photographer credit.",
+      "Native-speaker proofreading of all six complete translations, SEO text, cultural terminology and photo alt captions before publishing."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "Exactly five stable photo URLs are stored in media. The WebP files themselves are not included or inspected, and photographer identity, usage licences, commercial publication and transfer rights remain unverified. No web reference images have been copied."
+  }
+}

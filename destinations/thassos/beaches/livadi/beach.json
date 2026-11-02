@@ -1,0 +1,430 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-livadi",
+  "slug": "livadi",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Παραλία Λιβάδι",
+    "international_name": "Livadi Beach",
+    "aliases": [
+      "Livadi",
+      "Livadi Beach Thassos",
+      "Livadi Beach Thasos",
+      "Livadia (occasional misspelling)",
+      "Λιβάδι",
+      "Παραλία Λιβάδι"
+    ],
+    "entity_scope": "The larger Livadi cove beneath the Monastery of Archangel Michael, immediately west of distinct Arsanas Beach on southeastern Thassos.",
+    "deduplication_warning": "Keep Livadi Beach separate from Arsanas, which is a smaller adjacent cove. Do not confuse Livadi on Thassos with similarly named beaches on Tilos, Serifos, Folegandros or elsewhere. Some older sources call coast eastern/northeastern; verified location is southeast part of Thassos."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "southeast",
+    "settlements": [
+      "Thimonia area",
+      "Aliki area"
+    ],
+    "lat": 40.59804,
+    "lng": 24.69191,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.59804%2C24.69191",
+    "coordinate_source_reference": "s_allovergreece",
+    "coordinate_type": "representative_beach_point_not_verified_vehicle_entrance",
+    "coordinate_review_status": "Candidate point independently corroborated by AllOverGreece, BeachAtlas and OSM/Mapcarta; Google Maps pin and navigation entrance NOT verified. coordinate_source field is fixed by v3 validator, not a claim of Google source provenance.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mixed_sand_and_pebbles",
+    "seabed_near_shore": "pebbles_rocks_with_local_sandy_passages",
+    "water_entry": "uneven_rocky_initial_metres_variable",
+    "nearshore_depth": "shallow_in_some_sections_but_variable",
+    "water_clarity": "typically_clear_turquoise",
+    "wave_conditions": "wind_dependent_southerly_winds_expose_bay",
+    "exposure": "southeast-facing_cove_beneath_cliffs",
+    "natural_shade_on_sand": "limited_spotty_tamarisk_tree_shade_more_in_backshore",
+    "beach_length_m": null,
+    "length_note": "Some guides suggest roughly 200 metres but no consistent official surveyed boundaries; leave numerical length unverified.",
+    "backdrop": "Rugged cliffs, dry hills, olive trees and the nearby cliff-top Monastery of Archangel Michael",
+    "shoreline_type": "curved_sand_pebble_cove"
+  },
+  "visitor_experience": {
+    "organization": "mixed_or_seasonally_organized_status_conflicted",
+    "suitable_for": [
+      "quiet_beach_day",
+      "couples",
+      "nature_lovers",
+      "experienced_swimmers",
+      "relaxed_photography",
+      "self_sufficient_visitors"
+    ],
+    "notable_for": [
+      "scenic_cove",
+      "monastery_view",
+      "turquoise_water",
+      "rocky_headlands",
+      "nearby_arsanas",
+      "dirt_road_access"
+    ],
+    "activities_possible": [
+      "swimming_where_conditions_allow",
+      "relaxing",
+      "careful_snorkeling_near_rocky_edges",
+      "coastal_photography",
+      "monastery_visit_separately"
+    ],
+    "estimated_crowd_peak": "generally_quieter_than_major_resorts_but_not_guaranteed_empty",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Uneven seabed and some sharp/slippery rock near shore; water shoes useful. Never assume safe cliff jumps or safe sea crossing to Arsanas. Check wind and waves, supervise children continuously and consider vehicle access before descending."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": null,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": null,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Travel guides contradict each other; no guaranteed operating toilet at the beach."
+    },
+    "showers": {
+      "available_in_some_sections": null
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": null,
+    "cafes_nearby": null,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": null,
+    "lifeguard": null,
+    "lifeguard_note": "No current official service or staffed-hours verification; do not imply permanent coverage.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Bumpy unpaved road and pebbly shore may make access difficult; no accessible ramp or adapted facilities independently verified.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Unsettled conflicting reports: Nikana 2026 describes unserviced beach since 2016, whereas Go Thassos/AllOverGreece list amenities. Verify the current operator and actual season rather than treating any single list as guaranteed."
+  },
+  "access_and_cost": {
+    "road_access": "rough_unpaved_track_from_coastal_road_road_condition_variable",
+    "public_transport": "not_verified_direct_stop_or_service_at_beach",
+    "parking_type": "informal_areas_behind_beach_among_trees_subject_to_road_conditions",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Sunbeds may or may not be present seasonally. No verified current price or mandatory consumption condition.",
+    "best_arrival_advice": "Inspect rough road on foot if unsure; arrive earlier to maximize daylight in cove and parking choice, bring provisions and do not rely on amenities.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Published road distances differ by point and route; no independently verified driving estimate. Monastery and Arsanas are nearby but distinct destinations."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, sea temperature, UV, wave or availability data into beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Livadi Beach (Plaja Livadi)",
+      "tagline": "Un golf turcoaz sub stâncile mănăstirii Arhanghelului Mihail",
+      "summary": "Livadi este o plajă retrasă de pe coasta sud-estică a insulei Thassos, sub mănăstirea Arhanghelului Mihail. Nisipul amestecat cu pietricele, apa limpede și accesul pe drum de pământ îi dau un caracter natural, departe de promenadă.",
+      "description": "Livadi Beach se ascunde într-un golf spectaculos al coastei sud-estice din Thassos, sub versanții abrupți de lângă mănăstirea Arhanghelului Mihail. De sus, se vede un arc de țărm mărginit de stânci și vegetație, scăldat de o mare care capătă nuanțe de verde și turcoaz în zilele senine. La mal, nisipul se amestecă cu pietricele, iar în primii metri de apă apar pietre și porțiuni de rocă; între ele se pot găsi intrări mai comode, cu fund nisipos. Nu este genul de plajă la care cobori direct dintr-o stradă comercială. Din șoseaua insulei se desprinde o cale neasfaltată, uneori accidentată, care traversează zona cu măslini și ajunge în spatele plajei. Tocmai această apropiere de natura insulei este farmecul locului. Unele ghiduri indică șezlonguri, umbrele, dușuri sau un punct de băuturi, în timp ce altele descriu Livadi ca neamenajată; serviciile trebuie verificate la momentul vizitei. Există și spațiu pentru prosopul și umbrela personală. Arsanas este golful vecin, mai mic, dar reprezintă o plajă distinctă, care merită descoperită separat. Pentru o zi memorabilă, poți combina baia în mare cu un popas la mănăstire, respectând regulile de vizitare ale lăcașului.",
+      "practical_tips": "Înainte de a coborî cu mașina, verifică starea drumului neasfaltat, mai ales după ploaie sau dacă ai o mașină cu gardă joasă. Ia apă, gustări și umbrelă proprie: existența beach barului și a dușurilor nu este confirmată constant. Papucii de apă ajută la trecerea peste pietrele din apropierea malului. Nu sări de pe stânci și nu încerca să înoți spre Arsanas fără condiții excelente și experiență; viziteaz-o separat pe uscat. Dealurile pot umbri plaja mai devreme, iar vântul sudic poate schimba marea. Parcarea nu este garantată.",
+      "highlights": [
+        "Golf retras sub mănăstirea Arhanghelului Mihail",
+        "Nisip, pietricele și apă limpede în nuanțe turcoaz",
+        "Peisaj dramatic cu stânci și măslini",
+        "Posibilități de snorkeling doar în condiții potrivite",
+        "Acces pe drum de pământ; Arsanas este plajă separată"
+      ],
+      "seo_title": "Livadi Beach Thassos – acces, parcare și ghid de plajă",
+      "seo_description": "Descoperă Livadi Beach în Thassos: golf sub mănăstirea Arhanghelului Mihail, nisip și pietricele, acces pe drum de pământ, facilități și sfaturi.",
+      "social_caption": "🌊 Livadi Beach, Thassos: un golf turcoaz sub stâncile mănăstirii Arhanghelului Mihail. 🏝️ Oprește-te pentru peisaj, dar verifică drumul de acces și ia echipamentul necesar! 🇬🇷 #Thassos #LivadiBeach #Greece",
+      "photo_alt": "Golful Livadi din Thassos, cu plajă de nisip și pietricele, apă turcoaz și versanți stâncoși."
+    },
+    "en": {
+      "name": "Livadi Beach",
+      "tagline": "Turquoise water beneath the cliffs of the Archangel Michael monastery",
+      "summary": "A scenic, relatively secluded beach on the southeastern coast of Thassos, below the Monastery of Archangel Michael. Sand and pebbles, clear water, steep green slopes and an unpaved approach give Livadi a distinctly natural character.",
+      "description": "Livadi Beach occupies a beautiful sheltered-looking cove on the southeastern coastline of Thassos, beneath the steep hills below the Monastery of Archangel Michael. Seen from above, its curved shore is framed by rocky headlands and scattered greenery, with the sea shifting from blue to bright turquoise in favourable light. The beach is a mixture of sand and pebbles. Stones and rock can cover the first few metres of seabed, with more comfortable sandy gaps in places, so check where you enter the water. Getting here is part of the experience: rather than a busy resort promenade, you follow an uneven dirt track from the island road through an area of olive trees towards the back of the beach. The remote atmosphere appeals to visitors who value scenery and time away from busier resorts. Published guides disagree about current amenities: some describe seasonal loungers, umbrellas, showers and refreshments, while others say the beach has been unserviced for years. Plan to be self-sufficient rather than relying on an operating beach bar. You may find space for your own towel and umbrella. Arsanas is the neighbouring smaller cove, not a second name for Livadi, and should be treated as a separate beach. A visit here pairs naturally with a stop at the monastery above, subject to its visiting rules.",
+      "practical_tips": "Inspect the dirt road before driving down, especially after rain or in a low-clearance vehicle. Bring drinking water, snacks, shade and suitable footwear; water shoes help over the stones near the shore. Loungers, toilets, showers and refreshments cannot be guaranteed even if older guides list them. Avoid jumping from rocks or swimming around the headland to Arsanas, as underwater hazards and conditions can change. Hills may cast shade on the bay earlier than expected. Southerly winds can make swimming less comfortable. Parking spaces depend on conditions and demand.",
+      "highlights": [
+        "Cove beneath the Monastery of Archangel Michael",
+        "Clear turquoise water and mixed sand-and-pebble shore",
+        "Dramatic cliffs and nearby olive groves",
+        "Rocky edges for cautious shoreline exploration",
+        "Unpaved access; separate from neighbouring Arsanas"
+      ],
+      "seo_title": "Livadi Beach Thassos – access, parking and beach guide",
+      "seo_description": "Explore Livadi Beach on Thassos: the cove below Archangel Michael monastery, sand and pebbles, unpaved road access, amenities and practical tips.",
+      "social_caption": "🌊 Discover Livadi Beach, Thassos: turquoise water, dramatic cliffs and a quiet cove below Archangel Michael monastery. 🏝️ Check the dirt-road conditions and bring your beach essentials! 🇬🇷 #Thassos #LivadiBeach #GreeceTravel",
+      "photo_alt": "View of Livadi Beach on Thassos, a turquoise cove with a sandy-pebbly shore below rocky green hills."
+    },
+    "el": {
+      "name": "Παραλία Λιβάδι",
+      "tagline": "Γαλαζοπράσινα νερά κάτω από τους βράχους της Μονής Αρχαγγέλου Μιχαήλ",
+      "summary": "Μια γραφική παραλία στη νοτιοανατολική Θάσο, κάτω από την Ιερά Μονή Αρχαγγέλου Μιχαήλ. Η άμμος, τα βότσαλα, τα διάφανα νερά και η πρόσβαση από χωματόδρομο συνθέτουν έναν πιο φυσικό προορισμό.",
+      "description": "Η παραλία Λιβάδι βρίσκεται σε έναν εντυπωσιακό όρμο στη νοτιοανατολική πλευρά της Θάσου, κάτω από τις απότομες πλαγιές κοντά στην Ιερά Μονή Αρχαγγέλου Μιχαήλ. Από ψηλά η καμπύλη της ακτής ξεχωρίζει ανάμεσα σε βραχώδεις σχηματισμούς και αραιή βλάστηση, ενώ η θάλασσα παίρνει γαλαζοπράσινες αποχρώσεις όταν ο καιρός είναι καλός. Στην ακτή εναλλάσσονται άμμος και βότσαλα. Τα πρώτα μέτρα μέσα στο νερό μπορεί να έχουν πέτρες και βράχια, αν και υπάρχουν σημεία με πιο άνετο, αμμώδη βυθό. Η πρόσβαση δεν θυμίζει οργανωμένο θέρετρο: από τον περιφερειακό δρόμο κατεβαίνει ένας ανώμαλος χωματόδρομος, περνώντας κοντά από ελαιόδεντρα. Αυτό το πιο άγριο τοπίο αποτελεί μεγάλο μέρος της γοητείας της παραλίας. Οι διαθέσιμες πηγές διαφωνούν σχετικά με τις υποδομές. Κάποιες αναφέρουν εποχικές ξαπλώστρες, ομπρέλες, ντους και αναψυκτήριο, ενώ άλλες περιγράφουν το Λιβάδι χωρίς υπηρεσίες. Καλό είναι λοιπόν να έρθετε προετοιμασμένοι με τον δικό σας εξοπλισμό. Ο γειτονικός μικρός όρμος του Αρσανά είναι ξεχωριστή παραλία, όχι διαφορετική ονομασία για το Λιβάδι. Μπορείτε να συνδυάσετε τη βουτιά με επίσκεψη στο μοναστήρι, ακολουθώντας τους κανόνες του χώρου.",
+      "practical_tips": "Ελέγξτε την κατάσταση του χωματόδρομου πριν κατεβείτε με αυτοκίνητο, ιδιαίτερα μετά τη βροχή ή με χαμηλό όχημα. Πάρτε νερό, μικρό γεύμα και ομπρέλα, αφού η λειτουργία υπηρεσιών δεν είναι σταθερά επιβεβαιωμένη. Παπούτσια θαλάσσης βοηθούν όπου ο βυθός έχει πέτρες. Μην πηδάτε από βράχια και μην επιχειρείτε να κολυμπήσετε γύρω από το ακρωτήριο προς τον Αρσανά χωρίς ασφαλείς συνθήκες. Οι ψηλοί λόφοι σκιάζουν νωρίτερα την ακτή και οι νότιοι άνεμοι μπορούν να αυξήσουν τον κυματισμό. Η στάθμευση δεν είναι εγγυημένη.",
+      "highlights": [
+        "Όρμος κάτω από τη Μονή Αρχαγγέλου Μιχαήλ",
+        "Άμμος, βότσαλα και διάφανα γαλαζοπράσινα νερά",
+        "Απόκρημνο τοπίο και ελαιώνες",
+        "Βραχώδεις άκρες για προσεκτική εξερεύνηση",
+        "Πρόσβαση από χωματόδρομο· διαφορετική παραλία από τον Αρσανά"
+      ],
+      "seo_title": "Παραλία Λιβάδι Θάσος – πρόσβαση και χρήσιμες πληροφορίες",
+      "seo_description": "Ανακαλύψτε το Λιβάδι στη Θάσο: όρμος κάτω από τη Μονή Αρχαγγέλου Μιχαήλ, άμμος και βότσαλα, χωματόδρομος, παροχές και συμβουλές.",
+      "social_caption": "🌊 Λιβάδι, Θάσος: ένας πανέμορφος όρμος με γαλαζοπράσινα νερά κάτω από τη Μονή Αρχαγγέλου Μιχαήλ. 🏝️ Ελέγξτε τον χωματόδρομο και πάρτε τα απαραίτητα! 🇬🇷 #Θάσος #Λιβάδι #Ελλάδα",
+      "photo_alt": "Η παραλία Λιβάδι στη Θάσο με γαλαζοπράσινα νερά, βότσαλα και βραχώδεις πλαγιές."
+    },
+    "de": {
+      "name": "Livadi Beach (Strand Livadi)",
+      "tagline": "Türkisfarbenes Wasser unterhalb des Erzengel-Michael-Klosters",
+      "summary": "Eine landschaftlich reizvolle Bucht an der Südostküste von Thassos, unterhalb des Klosters des Erzengels Michael. Sand, Kiesel, felsige Hänge und eine unbefestigte Zufahrt prägen den naturbelassenen Charakter.",
+      "description": "Livadi Beach liegt in einer eindrucksvollen Bucht an der südöstlichen Küste von Thassos, unterhalb steiler Hänge in der Nähe des Klosters des Erzengels Michael. Von oben erkennt man einen sanft geschwungenen Küstenstreifen zwischen Felsen und mediterraner Vegetation. Bei ruhigem, sonnigem Wetter schimmert das Wasser in Türkis- und Blautönen. Der Strand besteht aus einer Mischung aus Sand und Kieseln. Im flachen Uferbereich liegen stellenweise Steine und Felsplatten im Wasser, dazwischen gibt es sandigere Einstiege. Die Anfahrt führt nicht über eine belebte Strandpromenade, sondern von der Inselstraße über einen holprigen Feldweg durch die Gegend mit Olivenbäumen. Gerade die abgelegenere Atmosphäre macht den Reiz dieses Ortes aus. Bei den Einrichtungen widersprechen sich die Reiseführer: Einige nennen saisonale Liegen, Sonnenschirme, Duschen oder Getränke, andere beschreiben den Strand inzwischen als unbewirtschaftet. Deshalb sollte man sich nicht auf ein geöffnetes Strandlokal verlassen, sondern Getränke und eigene Ausrüstung mitbringen. Für eigene Handtücher und Schirme gibt es gewöhnlich unbewirtschaftete Abschnitte. Die benachbarte kleine Bucht Arsanas ist ein eigenständiger Strand und darf nicht mit Livadi zusammengelegt werden. Ein Badetag lässt sich mit einem Besuch des Klosters verbinden, sofern dessen Besuchsregeln beachtet werden.",
+      "practical_tips": "Vor der Abfahrt zum Strand den Zustand des unbefestigten Wegs prüfen, besonders nach Regen und mit tiefergelegten Fahrzeugen. Trinkwasser, etwas Verpflegung und einen eigenen Sonnenschirm mitnehmen: Liegen, Toiletten, Duschen und Kiosk sind nicht zuverlässig bestätigt. Badeschuhe helfen im steinigen Einstiegsbereich. Nicht von den Felsen springen und den Felsvorsprung nach Arsanas nicht ohne sichere Bedingungen umschwimmen. Durch die hohen Hänge liegt die Bucht möglicherweise früher im Schatten. Bei südlichem Wind kann der Wellengang zunehmen. Parkmöglichkeiten sind nicht garantiert.",
+      "highlights": [
+        "Bucht unterhalb des Erzengel-Michael-Klosters",
+        "Türkisfarbenes Wasser sowie Sand und Kiesel",
+        "Felsige Hügel und Olivenbäume",
+        "Naturbelassene Abschnitte für eigene Strandausrüstung",
+        "Holprige Zufahrt; Arsanas ist ein anderer Strand"
+      ],
+      "seo_title": "Livadi Beach Thassos – Anfahrt, Parken und Strandtipps",
+      "seo_description": "Livadi Beach auf Thassos: Bucht unter dem Erzengel-Michael-Kloster, Sand und Kiesel, unbefestigte Zufahrt, mögliche Einrichtungen und Tipps.",
+      "social_caption": "🌊 Livadi Beach auf Thassos: türkisfarbenes Meer und dramatische Felsen unterhalb des Erzengel-Michael-Klosters. 🏝️ Prüft den Zufahrtsweg und bringt eure Strandsachen mit! 🇬🇷 #Thassos #LivadiBeach #Griechenland",
+      "photo_alt": "Blick auf die Bucht Livadi auf Thassos mit türkisfarbenem Wasser, Kiesstrand und steilen grünen Hängen."
+    },
+    "bg": {
+      "name": "Плаж Ливади (Livadi Beach)",
+      "tagline": "Тюркоазен залив под скалите на манастира „Архангел Михаил“",
+      "summary": "Живописен плаж на югоизточния бряг на Тасос, под манастира „Архангел Михаил“. Пясъкът, камъчетата, прозрачната вода и черният път до залива създават усещане за по-диво място.",
+      "description": "Плаж Ливади се намира в красив залив на югоизточното крайбрежие на остров Тасос, под стръмните склонове в близост до манастира „Архангел Михаил“. Погледнат от високо, брегът описва плавна извивка между скали и средиземноморска растителност, а морето блести в синьо и тюркоазено при ясно време. На сушата пясъкът се смесва с дребни камъчета. Първите метри във водата на места са каменисти и скалисти, но има и по-удобни песъчливи проходи. До Ливади не се стига по оживена крайбрежна алея: от главния път се отклонява неравен черен път, който минава край маслинови дървета и слиза зад плажа. Това по-естествено обкръжение е част от очарованието му. Информацията за удобствата е противоречива. Някои пътеводители посочват сезонни шезлонги, чадъри, душове и напитки, а други твърдят, че плажът е без организирани услуги. Най-добре е да не разчитате на работещ бар и да носите собствена екипировка. Обикновено има свободно място за кърпа и чадър. Малкият съседен залив Арсанас е самостоятелен плаж, а не друго име на Ливади. Разходката може да се съчетае с посещение на манастира, при спазване на правилата за достъп.",
+      "practical_tips": "Проверете състоянието на черния път, преди да слезете с автомобил, особено след дъжд или с ниска кола. Вземете вода, храна и собствен чадър, защото услугите на място не са надеждно потвърдени. Обувки за вода са полезни заради камъните близо до брега. Не скачайте от скалите и не плувайте около носа към Арсанас без отлични условия и опит. Високите склонове могат да хвърлят сянка по-рано, а южният вятър да създаде вълни. Паркоместата не са гарантирани.",
+      "highlights": [
+        "Залив под манастира „Архангел Михаил“",
+        "Прозрачна тюркоазена вода, пясък и камъчета",
+        "Стръмни склонове и маслинови дървета",
+        "Места за собствена плажна екипировка",
+        "Неравен черен път; отделен плаж от Арсанас"
+      ],
+      "seo_title": "Плаж Ливади, Тасос – достъп, паркиране и съвети",
+      "seo_description": "Открийте Ливади на Тасос: залив под манастира „Архангел Михаил“, пясък и камъчета, достъп по черен път, удобства и полезни съвети.",
+      "social_caption": "🌊 Ливади, Тасос: тюркоазено море и високи скали под манастира „Архангел Михаил“. 🏝️ Проверете черния път и носете необходимото за плажа! 🇬🇷 #Тасос #Ливади #Гърция",
+      "photo_alt": "Плажът Ливади на Тасос с тюркоазена вода, пясък, камъчета и скалисти хълмове."
+    },
+    "sr": {
+      "name": "Plaža Livadi (Ливади)",
+      "tagline": "Tirkizni zaliv ispod litica manastira Arhangela Mihaila",
+      "summary": "Slikovita plaža na jugoistočnoj obali Tasosa, ispod manastira Arhangela Mihaila. Mešavina peska i šljunka, bistra voda, stenoviti obronci i zemljani pristupni put daju joj prirodan izgled.",
+      "description": "Plaža Livadi nalazi se u upečatljivom zalivu na jugoistočnoj obali Tasosa, ispod strmih padina u blizini manastira Arhangela Mihaila. Kada se posmatra sa visine, obala pravi blag luk između stena i mediteranskog zelenila, dok more na suncu poprima plave i tirkizne nijanse. Obala je mešavina peska i sitnog kamenja. Prvih nekoliko metara u vodi mogu biti kameniti, ali između stena postoje i pogodniji peščani prolazi. Do Livadija se ne dolazi preko prometnog šetališta: sa glavnog ostrvskog puta odvaja se neravan zemljani put koji prolazi kroz područje maslinjaka i spušta se do zaleđa plaže. Upravo taj osećaj izdvojenosti privlači posetioce koji traže prirodu umesto velikog letovališta. Informacije o sadržajima nisu usaglašene. Neki vodiči pominju sezonske ležaljke, suncobrane, tuševe i osveženje, dok drugi navode da plaža nema organizovane usluge. Najsigurnije je poneti sopstvenu opremu, vodu i hranu, bez oslanjanja na otvoren bar. Obično ima mesta za peškir i svoj suncobran. Mali susedni zaliv Arsanas je zasebna plaža i ne treba ga mešati sa Livadijem. Kupanje možete povezati sa obilaskom manastira, uz poštovanje pravila posete.",
+      "practical_tips": "Pre spuštanja automobilom proverite stanje zemljanog puta, naročito posle kiše ili ako vozite niže vozilo. Ponesite vodu, užinu i sopstveni suncobran, jer ležaljke, tuševi, toaleti i ugostiteljska ponuda nisu stalno potvrđeni. Obuća za vodu olakšava kretanje preko kamenja pri ulasku u more. Ne skačite sa stena i ne pokušavajte plivanje oko rta do Arsanasa bez veoma dobrih uslova i iskustva. Visoka brda mogu ranije zakloniti sunce, a južni vetar pojačati talase. Parking nije zagarantovan.",
+      "highlights": [
+        "Zaliv ispod manastira Arhangela Mihaila",
+        "Tirkizno more, pesak i sitno kamenje",
+        "Stenoviti pejzaž i maslinjaci",
+        "Prostor za sopstveni suncobran i peškir",
+        "Zemljani prilaz; Arsanas je posebna plaža"
+      ],
+      "seo_title": "Plaža Livadi Tasos – prilaz, parking i saveti",
+      "seo_description": "Upoznajte plažu Livadi na Tasosu: zaliv ispod manastira Arhangela Mihaila, pesak i kamenčići, zemljani put, sadržaji i praktični saveti.",
+      "social_caption": "🌊 Livadi na Tasosu: tirkizno more i dramatične stene ispod manastira Arhangela Mihaila. 🏝️ Proverite pristupni put i ponesite sve što vam treba! 🇬🇷 #Tasos #Livadi #Grčka",
+      "photo_alt": "Pogled na plažu Livadi na Tasosu, sa tirkiznim morem, peskovito-šljunkovitom obalom i stenovitim obroncima."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/livadi/images/livadi1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/livadi/images/livadi2.webp",
+      "destinations/thassos/beaches/livadi/images/livadi3.webp",
+      "destinations/thassos/beaches/livadi/images/livadi4.webp",
+      "destinations/thassos/beaches/livadi/images/livadi5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/livadi/images/",
+    "suggested_asset_names": [
+      "livadi1.webp",
+      "livadi2.webp",
+      "livadi3.webp",
+      "livadi4.webp",
+      "livadi5.webp"
+    ],
+    "image_policy": "Only user-provided, owned or appropriately licensed photographs of Livadi Beach on Thassos may be published. Image paths are assigned from the user-provided screenshot filenames; verify exact location, provenance, reuse rights and any required attribution.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_nikana_2026",
+      "kind": "travel_guide",
+      "title": "Nikana — Livadi Beach, updated October 2026",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1927/livadi-beach",
+      "detail": "Southeast/east coastal cove below Archangel Michael monastery; rough dirt road, mixed sandy-pebbly shore, stones at entry, olive shade, reports absence of organized amenities since 2016 and warns about bad condition after rain.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Livadi Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/livadi-beach",
+      "detail": "Lists WC, showers, food/drink, loungers, umbrellas, parking; discrepancies against Nikana mean no guaranteed services.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover_greece",
+      "kind": "destination_promotion",
+      "title": "Discover Greece — Best beaches in Thassos / Arsanas",
+      "url": "https://www.discovergreece.com/travel-ideas/best-of/10-best-beaches-thassos",
+      "detail": "Differentiates neighbouring Arsanas and Livadi; Livadi west of smaller Arsanas, wild pebbly sand with tamarisk trees.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_allovergreece",
+      "kind": "travel_guide",
+      "title": "All Over Greece — Livadi Beach",
+      "url": "https://www.allovergreece.com/Beaches/Descr/44/1255/en",
+      "detail": "GPS 40.59804, 24.69191; rough dirt road, parking near trees, coarse sand/pebbles, sharp rocks on seabed; says lounge/canteen may be available, not always.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_osm_mapcarta",
+      "kind": "open_geodata",
+      "title": "Mapcarta / OpenStreetMap — Livadi beach",
+      "url": "https://mapcarta.com/W163979537",
+      "detail": "OSM beach geometry near 40.59788, 24.69206; supports representative shore location, not verified Google Maps routing access.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_mapy",
+      "kind": "cartographic_reference",
+      "title": "Mapy / OpenStreetMap — Livadi",
+      "url": "https://mapy.com/en/?id=128834175&source=osm",
+      "detail": "GPS about 40.5978675, 24.6915692; demonstrates convergence of location around cove.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_greeka_monastery",
+      "kind": "destination_guide",
+      "title": "Greeka — Monastery of Archangel Michael",
+      "url": "https://www.greeka.com/eastern-aegean/thassos/sightseeing/thassos-monastery-archangel/",
+      "detail": "Confirms monastery on cliff overlooking sea, supporting nearby landmark.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover_thassos",
+      "kind": "local_travel_guide",
+      "title": "Discover Thassos — Livadi Beach",
+      "url": "https://www.discover-thassos.com/listing/livadi-beach-thassos/",
+      "detail": "Natural cove, sand and pebbles, bumpy approach, olive grove, difficulty entering water due to stones, spacious free areas.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_calmbeach",
+      "kind": "weather_site_static_info",
+      "title": "CalmBeach — Livadi beach descriptive profile",
+      "url": "https://calmbeach.gr/beaches/thasos/813-livadi/",
+      "detail": "Pebble/sand shore, cove orientation and seasonal facility claims; live weather information intentionally not stored.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_beachatlas",
+      "kind": "travel_guide",
+      "title": "BeachAtlas — Livadi Thasos",
+      "url": "https://www.beachatlas.com/livadi-3",
+      "detail": "Coordinates 40.5980491, 24.6919106; parking/lounger reports with mixed visitor feedback on difficult access and toilets.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_park4night",
+      "kind": "visitor_report",
+      "title": "park4night — Livadi Beach parking observations",
+      "url": "https://park4night.com/fr/place/84447",
+      "detail": "Reported near-shore parking and rough access; reports are user-generated and no reservation or guaranteed parking inferred.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons_category",
+      "kind": "media_index",
+      "title": "Wikimedia Commons — Category Livadi Beach (Thasos)",
+      "url": "https://commons.wikimedia.org/wiki/Category:Livadi_Beach_(Thasos)",
+      "detail": "Media category, not a blanket license. Each individual file page was checked for attribution and reuse conditions.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_photo_public_domain",
+      "kind": "licensed_media_page",
+      "title": "Wikimedia Commons — Thassos 512.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Thassos_512.jpg",
+      "detail": "Steliyan Kasabov photo, 2007, from the monastery looking west, public domain per author declaration; low resolution 800x600.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_photo_48",
+      "kind": "licensed_media_page",
+      "title": "Wikimedia Commons — Thasos, Greece - panoramio (48).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Thasos,_Greece_-_panoramio_(48).jpg",
+      "detail": "Lucian Duma, 2013, CC BY-SA 3.0; camera point near west side of bay, verify beach is visible in selected framing.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_photo_1",
+      "kind": "licensed_media_page",
+      "title": "Wikimedia Commons — Thasos, Greece - panoramio (1).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Thasos,_Greece_-_panoramio_(1).jpg",
+      "detail": "Lucian Duma, 2012, CC BY-SA 3.0; photographed near monastery. Verify shot shows Livadi and not merely monastery.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_photo_pano",
+      "kind": "licensed_media_page",
+      "title": "Wikimedia Commons — Thasos - panoramio.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Thasos_-_panoramio.jpg",
+      "detail": "zlarosa, 2009, CC BY 3.0; camera near monastery, visually check exact composition.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Verify reference beach pin and exact vehicle/pedestrian entrance in Google Maps; current coordinates corroborated by other mapping sources, not Google independently",
+      "Confirm 2026/next-season beach service status: lounger, umbrella, WC, shower, food/drink and lifeguard, as guides conflict",
+      "Check current dirt-road conditions and whether standard rental cars can safely approach; do not promise accessibility or parking",
+      "Confirm that livadi1.webp–livadi5.webp depict Livadi Beach beneath the Monastery of Archangel Michael, not neighbouring Arsanas or Thymonia; document image ownership, licensing and any required attribution.",
+      "The selected local images replace the previously researched Commons candidates; no attribution assumptions should be carried over without reviewing the actual photographs.",
+      "Check water-entry hazards, depth and sea conditions locally; no unsafe cliff-jumping recommendations",
+      "Review all six translations before public launch, especially local orthography and Serbian Latin-script policy",
+      "Check any proposed certification or water-quality claims only against official current sources"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text; commercial reuse rights to the five locally referenced photographs have not been independently verified.",
+    "photo_source_disclaimer": "Five local image paths assigned from the user-provided screenshot of filenames; the underlying image files, geographic identity and publication rights have not been independently verified."
+  }
+}

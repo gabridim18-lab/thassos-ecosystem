@@ -1,0 +1,446 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-area-chrysi-ammoudia",
+  "slug": "chrysi-ammoudia",
+  "record_type": "area",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Σκάλα Παναγίας / Χρυσή Αμμουδιά",
+    "international_name": "Chrysi Ammoudia (Skala Panagia)",
+    "aliases": [
+      "Chrysi Ammoudia",
+      "Chrissi Ammoudia",
+      "Chryssi Ammoudia",
+      "Chrysi Ammoudia Thassos",
+      "Skala Panagia",
+      "Skala Panagias",
+      "Skála Panagiás",
+      "Golden Beach (northern resort area)",
+      "Χρυσή Αμμουδιά",
+      "Χρυσή Αμμουδιά Θάσου",
+      "Σκάλα Παναγίας",
+      "Σκάλα Παναγιάς"
+    ],
+    "area_type": "coastal_resort_village",
+    "entity_scope": "Mapped seaside village/resort Skala Panagia / Chrysi Ammoudia at the NORTHERN end of continuous Golden Beach bay on east-northeast Thassos. This area record describes the northern seaside settlement, nearby accommodation streets and beachfront facilities. It does NOT include inland Panagia as the same settlement, the southern seaside settlement Skala Potamia, or the whole beach as an independent town.",
+    "deduplication_warning": "CRITICAL: Chrysi Ammoudia names both this northern resort settlement and the beach, while Golden Beach describes the long continuous sandy bay reaching south to Skala Potamia/Chrysi Akti. Keep ONE beach entry gr-thassos-beach-golden for the shared bay; do not generate a duplicate independent beach for Skala Panagia, Chrysi Ammoudia, Skala Potamia or Golden Coast. The mapped settlement OSM node 280965701 and beach node 6801702478 are distinct. Inland Panagia is separately recorded as gr-thassos-area-panagia.",
+    "parent_area_id": null
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coastal": true,
+    "coast": "east / northeast-facing Golden Beach bay",
+    "part_of_island": "northeast",
+    "center": {
+      "lat": 40.73124,
+      "lng": 24.76001,
+      "coordinate_role": "OSM_place_village_node_280965701_for_Chrysi_Ammoudia_Skala_Panagia_not_beach_parking_access_or_arrival",
+      "coordinate_source": "OpenStreetMap village node 280965701 via Mapcarta Chrysi Ammoudia",
+      "coordinate_source_url": "https://mapcarta.com/25730148",
+      "verification_status": "OSM_mapped_village_reference_confirmed;_precise_Google_Maps_arrival_access_parking_and_extent_not_verified",
+      "verified_on": "2026-10-27"
+    },
+    "arrival_point": {
+      "lat": null,
+      "lng": null,
+      "label": null,
+      "access_verified": false,
+      "source_url": null
+    },
+    "boundary_geojson_path": null,
+    "geographic_notes": "Mapcarta/OSM places Chrysi Ammoudia/Skala Panagia at 40.73124,24.76001 (village node 280965701); a SEPARATE mapped beach node lies around 40.73061,24.76098 (beach node 6801702478). These are not interchangeably safe navigation destinations. Skala Potamia/Chrysi Akti has its own OSM village node 1477905082 at 40.70729,24.76090 to the south of the same bay. The mountain village Panagia has a separate identity and coordinates. No beach entrance, road parking, KTEL stop, accessible route or accommodation arrival was independently verified."
+  },
+  "overview": {
+    "settlement_character": "recognised_northern_Golden_Beach_seafront_resort_village_with_sandfront_accommodation_seasonal_tavernas_cafes_holiday_services_olive_groves_and_green_Ipsarion_backdrop",
+    "tourism_profile": [
+      "genuine_mapped_seaside_resort_settlement_at_northern_end_of_Golden_Beach_not_just_a_beach_or_separate_town_of_the_entire_bay",
+      "fine_sandy_bay_shared_geographically_with_southern_Skala_Potamia",
+      "well_established_guesthouses_studios_apartments_small_hotels_and_seasonal_holiday_services",
+      "seafront_tavernas_cafes_small_shops_and_organised_beach_sections_season_dependent",
+      "olive_groves_foothills_and_views_toward_Mount_Ipsarion",
+      "family_holiday_option_on_suitable_sandy_sections_subject_to_waves_depth_and_supervision",
+      "walking_along_parts_of_long_bay_where_passable_and_access_permitted",
+      "sensible_base_for_visiting_traditional_mountain_village_Panagia_and_other_east_coast_destinations",
+      "local_bus_connections_reported_in_season_current_operator_schedule_to_be_verified",
+      "no_regular_mainland_ferry_port_in_this_northern_beach_resort"
+    ],
+    "best_time_to_visit": "Late May to September typically suits a beach holiday, with July and August generally the liveliest months. June and September can be more relaxed, depending on weather and annual visitor patterns. Spring and autumn are pleasant for coastal scenery and excursions to mountain villages, but seasonal businesses and transport may be limited.",
+    "peak_season_notes": "The long bay is busy in high summer and the northern village spreads across several accommodation lanes rather than a single compact central square. For arrival and near-me searches use exact accommodation, beach entry and business coordinates, not just this settlement-centre point. Check parking availability, sunbed conditions, wind and current transport services locally."
+  },
+  "history_culture": {
+    "heritage_themes": [
+      "Skala_Panagia_as_the_seaside_counterpart_of_the_separate_traditional_mountain_village_Panagia",
+      "expansion_of_tourism_and_seaside_lodging_along_the_northern_Golden_Beach_shore",
+      "regional_Thassian_olive_cultivation_small_scale_fishing_and_seasonal_hospitality",
+      "historical_cultural_heritage_of_Panagia_inland_not_mislabelled_as_in_Skala_Panagia",
+      "landscape_of_the_Golden_Beach_bay_between_Ipsarion_foothills_and_Aegean_coast"
+    ],
+    "local_traditions": [
+      "Thassian_olive_harvest_and_olive_oil_production_in_surrounding_region",
+      "honey_and_other_island_produce_from_Thassian_inland_villages",
+      "seaside_taverna_dining_and_summer_holiday_hospitality",
+      "excursions_to_Panagia_for_traditional_stone_and_slate_village_architecture",
+      "walking_near_the_sandy_bay_and_enjoying_mountain_and_sea_views"
+    ],
+    "local_food_specialties": [
+      "Greek_meze_grilled_fish_or_seafood_when_the_specific_menu_offers_it",
+      "local_olive_oil_olives_and_honey_as_regional_products",
+      "grilled_vegetables_cheese_and_classic_Greek_dishes",
+      "seasonal_fruit_and_summer_taverna_specialities_where_offered"
+    ]
+  },
+  "visitor_experience": {
+    "best_for": [
+      "families_seeking_a_long_sandy_beach_with_caution_about_sea_conditions",
+      "couples_preferring_a_seaside_holiday_with_tavernas_and_evening_walks",
+      "holidaymakers_staying_in_studios_apartments_and_small_hotels",
+      "visitors_who_like_a_relaxed_northern_part_of_a_large_resort_bay",
+      "photographers_of_sandy_coast_mountain_silhouettes_and_morning_light",
+      "guests_interested_in_traditional_Panagia_excursions",
+      "travellers_who_want_east_coast_sights_near_their_base"
+    ],
+    "experiences": [
+      "swim_or_relax_on_Golden_Beach_northern_section_when_conditions_and_safe_entry_suit",
+      "walk_a_suitable_section_of_the_sandy_bay_towards_Skala_Potamia",
+      "enjoy_coffee_or_taverna_dining_near_the_northern_seafront",
+      "photograph_the_long_bay_and_olive_treed_mountain_backdrop",
+      "explore_inland_Panagia_as_a_separate_village_for_streets_square_and_traditions",
+      "take_easy_coastal_or_foothill_walks_only_on_open_safe_paths",
+      "choose_regulated_seasonal_water_activities_only_with_operating_providers"
+    ],
+    "points_of_interest_summary": [
+      "Chrysi Ammoudia / Skala Panagia — genuine mapped northern seaside settlement with holiday streets and local businesses; not the same place as mountain Panagia.",
+      "Golden Beach — long continuous named sandy bay extending to southern Skala Potamia, one existing beach record gr-thassos-beach-golden; facilities are section-specific and seasonal.",
+      "Skala Potamia / Chrysi Akti — distinct southern bay-end settlement; not a separate unrelated beach, and not the same place as Skala Panagia.",
+      "Panagia — traditional inland mountain village with stone/slate architecture, historic streets and cultural interest; give this attraction its own area/POI coordinate.",
+      "Mount Ipsarion and green foothills — scenic backdrop; do not imply trailheads start at every hotel or that routes are easy.",
+      "Eastern Thassos beaches and villages — possible day trips, with specific coordinates and driving routes to be supplied by their own records."
+    ],
+    "estimated_visit_duration": "Allow roughly 1–2 hours for a relaxed seafront walk and meal, half to a full day for the beach, or a longer stay if based in local accommodation. This is editorial planning guidance rather than an official visit-duration measurement.",
+    "family_suitability": "Fine sand and gently shelving areas can work well for families, but currents, depth and wind-driven waves vary by place and day. Supervise children continuously and check signs, weather, submerged hazards and any actual lifeguard provision rather than assuming the entire bay is supervised.",
+    "mobility_considerations": "Some road-level approaches and beachfront businesses may offer more convenient routes, but step-free public beach access, reserved parking, WC accessibility, water-entry aids and service availability have not been confirmed for a precise northern-beach point. Verify with the chosen venue before relying on accessibility claims.",
+    "local_insider_score": null,
+    "user_rating": null
+  },
+  "practical_info": {
+    "road_access": "The northern Golden Beach area can be reached by the island road network via the Panagia/east-coast direction from Limenas. For an actual visit, select the accommodation or a verified public beach entry: the mapped 40.73124,24.76001 village point is not a confirmed parking or pedestrian arrival location.",
+    "public_transport": "Local/KΤEL Thassos bus services are reported serving Golden Beach and nearby coastal settlements, with connections towards Limenas via inland villages. Frequency, stop positions, working days, fares and summer/winter timetables can change. Confirm the current dated timetable with the actual operator; no permanent departure times are stored here.",
+    "parking_overview": "Parking can be found in some roadside or locally designated areas, but spaces, legality, charges, height restrictions and guest-only conditions are not independently verified. Availability may be limited in summer. Do not imply that the OSM village centre or beach node is a parking entrance.",
+    "pedestrian_access": "Local accommodation streets, tavernas and parts of the sandy beach are accessible on foot, but the bay is long and the walking surface can shift between pavement, sand and narrow roads. A continuous step-free seafront route across the whole bay has not been verified; follow safe permitted paths.",
+    "accessibility_note": "Some guides mention accessible beach infrastructure in the broader Chrysi Ammoudia area, but no precise ramp, accessible WC, equipment placement or functioning period has been independently confirmed; all point-specific accessibility information must be verified before publication.",
+    "general_amenities": [
+      "holiday_rooms_studios_apartments_and_hotels",
+      "summer_tavernas_cafes_and_snack_bars",
+      "seasonal_beach_sunbeds_and_umbrellas_in_certain_sections",
+      "small_local_retail_and_tourism_services_reported_in_season",
+      "organized_beach_water_activities_may_exist_with_operating_provider",
+      "transport_connection_to_other_areas_via_regional_bus_service_subject_to_schedule"
+    ],
+    "visitor_safety_notes": "Sea conditions in the open bay vary with wind; shallow water at one entry is not proof of uniform depth. Keep children supervised and check actual waves, rocks, current, water-sports corridors and any staff on duty. Avoid unverified mountain shortcuts and always choose verified paths for excursions.",
+    "practical_data_review_required": [
+      "Exact beach entry point and step-free access",
+      "Legal public parking location and summer capacity",
+      "Current regional bus stop names and times",
+      "Seasonal operation of food businesses and shops",
+      "Current sunbed and water-sports terms",
+      "Actual lifeguard coverage and accessible water-entry infrastructure",
+      "Any claimed Blue Flag award must be checked by year and specific certified section"
+    ]
+  },
+  "connections": {
+    "nearby_area_ids": [
+      "gr-thassos-area-skala-potamia",
+      "gr-thassos-area-panagia",
+      "gr-thassos-area-potamia",
+      "gr-thassos-area-limenas"
+    ],
+    "featured_beach_ids": [
+      "gr-thassos-beach-golden"
+    ],
+    "featured_attraction_ids": [],
+    "connected_port_ids": [],
+    "relationship_policy": "Keep the existing single gr-thassos-beach-golden beach record for the entire Chrysi Ammoudia/Golden Beach bay; Chrysi Ammoudia north and Skala Potamia/Chrysi Akti south are SEPARATE settlements, not separate duplicate beaches. Inland Panagia is separately referenced as gr-thassos-area-panagia. All businesses, parking, accessible points, bus stops, water-sports providers and hotels need their own validated GPS and correct area_id for reliable near-me distances. Do not synthesize nonexistent attraction or transport IDs and do not substitute area-centre coordinates as a navigation point.",
+    "featured_business_ids": []
+  },
+  "transport_links": {
+    "ferry_port_on_site": false,
+    "ferry_port_ids": [],
+    "ferry_schedule_policy": "Skala Panagia/Chrysi Ammoudia is not a mainland ferry terminal. Mainland ferry services are handled by geographically separate Limenas and Skala Prinos terminals. Seasonal tourist water-taxi claims may be historical and are not confirmed current transport services; do not hard-code them or any bus/ferry times without verified date and operator feed."
+  },
+  "translations": {
+    "ro": {
+      "name": "Chrysi Ammoudia (Skala Panagia)",
+      "tagline": "Nisip auriu, ape limpezi și munți verzi la capătul nordic al Golden Beach",
+      "summary": "Chrysi Ammoudia, cunoscută și ca Skala Panagia, este localitatea turistică de la capătul nordic al golfului Golden Beach din Thassos. Plaja nisipoasă, cazări aproape de mare, taverne și priveliștea spre muntele Ipsarion o fac una dintre cele mai apreciate baze pentru vacanțe pe coasta estică.",
+      "description": "Chrysi Ammoudia, numită adesea Skala Panagia, este una dintre destinațiile de coastă în care Thassos își arată cel mai bine combinația dintre mare și munte. Localitatea se află la capătul nordic al golfului Golden Beach, pe țărmul estic al insulei, într-un decor cu nisip deschis la culoare, dealuri cu măslini și versanții verzi ai masivului Ipsarion. Nu este același loc cu Panagia, satul tradițional din interior, și nici cu Skala Potamia, așezarea de la capătul sudic al aceluiași golf. Golden Beach este o plajă continuă, cunoscută și sub numele Chrysi Ammoudia, iar diferențele de denumire nu înseamnă că fiecare sector reprezintă o plajă independentă. Partea nordică atrage familii și cupluri care vor să fie aproape de mare, dar să aibă la îndemână și studiouri, apartamente, taverne și cafenele. În sezon există porțiuni amenajate cu șezlonguri și umbrele, alături de spații unde îți poți aduce propriul echipament. Fundul nisipos și intrarea în apă adesea lină sunt apreciate, însă adâncimea variază, iar vântul poate schimba rapid valurile; copiii trebuie supravegheați permanent. Golful este suficient de lung pentru plimbări frumoase, iar priveliștea spre munții din spate devine un element memorabil al zilei. Pentru o experiență diferită, poți urca spre Panagia, satul cu case tradiționale, străzi înguste și piață pitorească, păstrând însă această excursie distinctă de zona de plajă. Chrysi Ammoudia este potrivită celor care își doresc un sejur relaxat la mare, cu peisaje spectaculoase și servicii turistice la îndemână, fără să confunde liniștea unei plaje cu existența unor facilități garantate în orice sezon.",
+      "history_culture": "Skala Panagia s-a dezvoltat ca așezare de coastă asociată satului Panagia din interior, iar turismul a adus treptat pensiuni, apartamente și restaurante lângă nisipul din Golden Beach. Măslinii, produsele locale și tradițiile satelor din jur fac parte din identitatea regiunii. Patrimoniul vechi, casele cu acoperișuri de piatră și piețele istorice se descoperă în Panagia, nu trebuie atribuite artificial localității de pe plajă.",
+      "local_character": "Vara, localitatea are o atmosferă animată, dar relaxată, cu familii, oaspeți ai vilelor și turiști care alternează marea cu mesele în taverne. Peisajul este dominat de întinderea de nisip și munții din apropiere. În extrasezon este mult mai liniște, iar unele servicii pot fi închise.",
+      "what_to_do": "Alege un sector potrivit din Golden Beach pentru înot și relaxare, plimbă-te pe porțiunile accesibile ale țărmului și savurează o masă cu vedere spre mare. Fotografiază lumina dimineții și muntele Ipsarion, explorează golful în direcția Skala Potamia și rezervă o excursie separată în satul tradițional Panagia. Pentru sporturi nautice, folosește doar operatori activi și respectă condițiile mării.",
+      "practical_tips": "Folosește adresa exactă a cazării sau intrarea confirmată pe plajă, nu doar coordonata centrală a localității. Golful Golden Beach este lung, iar distanțele între capete sunt semnificative. În sezon, parcarea poate deveni dificilă, iar condițiile șezlongurilor diferă după operator. Verifică vântul, adâncimea și eventualele zone de sporturi nautice înainte de a intra în apă. Autobuzele pot avea orar sezonier; consultă programul actualizat și nu presupune că există feribot spre continent din Skala Panagia.",
+      "highlights": [
+        "Capătul nordic al întinsei Golden Beach",
+        "Plajă cu nisip fin și sectoare amenajate sezonier",
+        "Panoramă spectaculoasă spre muntele Ipsarion",
+        "Taverne, cafenele și cazări aproape de mare",
+        "Acces spre satul tradițional Panagia"
+      ],
+      "seo_title": "Chrysi Ammoudia Thassos – Skala Panagia și Golden Beach",
+      "seo_description": "Descoperă Chrysi Ammoudia (Skala Panagia), Thassos: Golden Beach, nisip fin, taverne, acces, transport, cazări și recomandări utile.",
+      "social_caption": "🏖️ Chrysi Ammoudia, Thassos — nisip auriu, mare albastră și munții Ipsarion în fundal! 🌿 Descoperă capătul nordic al Golden Beach și farmecul satului Panagia. 🇬🇷 #Thassos #ChrysiAmmoudia #GoldenBeach",
+      "photo_alt": "Localitatea Chrysi Ammoudia sau Skala Panagia, la capătul nordic al Golden Beach din Thassos, cu plajă nisipoasă și munți verzi în fundal."
+    },
+    "en": {
+      "name": "Chrysi Ammoudia (Skala Panagia)",
+      "tagline": "Golden sand, clear sea and green mountains at the northern end of Golden Beach",
+      "summary": "Chrysi Ammoudia, also known as Skala Panagia, is the seaside settlement at the northern end of Golden Beach bay on Thassos. Its sandy shoreline, holiday accommodation, tavernas and views of Mount Ipsarion make it an appealing base on the island’s eastern coast.",
+      "description": "Chrysi Ammoudia, often called Skala Panagia, is a part of Thassos where sea and mountain scenery meet in one beautiful view. This recognised seaside settlement occupies the northern end of the Golden Beach bay on the east side of the island, with pale sand, olive-covered foothills and the higher slopes of Mount Ipsarion behind it. It is not the same place as the traditional inland village of Panagia, nor as Skala Potamia at the southern end of the bay. Golden Beach is one long sandy shoreline, also widely called Chrysi Ammoudia; the overlapping names do not mean that every section is an independent beach. The northern settlement attracts families and couples who want to stay close to the sea while having studios, apartments, tavernas and cafés within easy reach. In summer, parts of the shore have loungers and umbrellas, while other spaces may suit visitors bringing their own beach equipment. Sandy entry and generally gradual shallows are part of the appeal, but depth changes and wind can bring waves even on an otherwise inviting day. Children should always be watched closely. The bay is long enough for an enjoyable coastal walk where the route is open and safe, and the contrasting line of sea, sand and green mountains creates an especially memorable setting for photographs. For a change of pace, visit Panagia in the hills, with traditional homes, narrow streets and a village square; its heritage belongs to that separate inland place. Chrysi Ammoudia works well for people seeking a relaxed beach holiday with scenic surroundings and convenient seasonal services, while remembering that parking, facilities and transport should be checked for the actual date and section.",
+      "history_culture": "Skala Panagia developed as the seaward settlement associated with inland Panagia, while increasing tourism brought more rooms, apartments and restaurants near Golden Beach. Olive cultivation and regional produce remain part of the wider landscape and traditions. The older slate-roofed architecture and historic village squares visitors associate with Panagia are found in the separate mountain village, not on this seafront.",
+      "local_character": "In summer the resort feels lively but unhurried, with beachgoing families, guests staying in small accommodation and relaxed meals near the water. The long sandy bay and mountain backdrop dominate the scene. Outside the main season it is much quieter and tourist facilities may operate limited hours.",
+      "what_to_do": "Spend time on an appropriate northern Golden Beach section, enjoy a shoreline stroll where the route is open, and choose a local taverna overlooking the sea. Photograph the bay and Ipsarion in the morning light, explore the coastline towards Skala Potamia, and take a separate excursion to the traditional village of Panagia. Use water-sports operators only when properly operating and conditions are suitable.",
+      "practical_tips": "Navigate to the exact accommodation or verified beach entrance rather than relying on the village reference point. Golden Beach spans a long bay, so the distance between its ends is substantial. Parking can be busy in high season and lounger rules vary by operator. Check wind, waves, depth and water-sports areas before swimming. Confirm current bus routes and stops locally; Skala Panagia is not a mainland ferry terminal.",
+      "highlights": [
+        "Northern end of the long Golden Beach bay",
+        "Fine sand with seasonally serviced beach sections",
+        "Wide views of Mount Ipsarion and green foothills",
+        "Tavernas, cafés and accommodation close to the sea",
+        "Easy regional excursion to traditional inland Panagia"
+      ],
+      "seo_title": "Chrysi Ammoudia Thassos – Skala Panagia & Golden Beach",
+      "seo_description": "Explore Chrysi Ammoudia (Skala Panagia) on Thassos: Golden Beach, fine sand, tavernas, seaside stays, practical access and visitor tips.",
+      "social_caption": "🏖️ Chrysi Ammoudia, Thassos: golden sand, blue water and the green heights of Ipsarion above the bay. 🌿 Discover the northern end of Golden Beach! 🇬🇷 #Thassos #ChrysiAmmoudia #SkalaPanagia",
+      "photo_alt": "View of Chrysi Ammoudia or Skala Panagia on Thassos, at the northern end of Golden Beach with sandy shore and green mountains behind."
+    },
+    "el": {
+      "name": "Χρυσή Αμμουδιά (Σκάλα Παναγίας)",
+      "tagline": "Χρυσή άμμος, γαλανά νερά και καταπράσινα βουνά στο βόρειο άκρο του κόλπου",
+      "summary": "Η Χρυσή Αμμουδιά, γνωστή και ως Σκάλα Παναγίας, είναι ο παραθαλάσσιος οικισμός στο βόρειο άκρο της μεγάλης αμμουδιάς της Θάσου. Η παραλία, τα καταλύματα, οι ταβέρνες και η θέα προς το Υψάριο την καθιστούν ιδανική βάση για διακοπές στην ανατολική ακτή.",
+      "description": "Η Χρυσή Αμμουδιά, που συχνά ονομάζεται και Σκάλα Παναγίας, είναι ένα από τα σημεία της Θάσου όπου η θάλασσα και το βουνό συνδυάζονται με εντυπωσιακό τρόπο. Ο παραθαλάσσιος οικισμός βρίσκεται στο βόρειο άκρο του μεγάλου κόλπου της Χρυσής Αμμουδιάς, στην ανατολική πλευρά του νησιού, με ανοιχτόχρωμη άμμο, ελαιώνες και τις κατάφυτες πλαγιές του Υψαρίου στο βάθος. Δεν πρόκειται για το ίδιο χωριό με την ορεινή Παναγία ούτε με τη Σκάλα Ποταμιάς στο νότιο άκρο του κόλπου. Η Χρυσή Αμμουδιά αποτελεί μία συνεχόμενη μεγάλη παραλία και οι διαφορετικές τοπικές ονομασίες δεν σημαίνουν ότι υπάρχουν πολλές ανεξάρτητες ακτές. Η περιοχή προσελκύει οικογένειες και ζευγάρια που επιθυμούν να μείνουν κοντά στη θάλασσα, με ενοικιαζόμενα δωμάτια, διαμερίσματα, ταβέρνες και καφέ σε σχετικά μικρή απόσταση. Το καλοκαίρι υπάρχουν οργανωμένα τμήματα με ξαπλώστρες και ομπρέλες, αλλά και σημεία όπου μπορεί κανείς να χρησιμοποιήσει δικό του εξοπλισμό. Η άμμος και η συχνά ομαλή είσοδος στο νερό είναι ελκυστικές, όμως το βάθος ποικίλλει και ο άνεμος μπορεί να φέρει κύμα. Τα παιδιά χρειάζονται πάντα επιτήρηση. Ο μεγάλος κόλπος προσφέρεται για περίπατο όπου υπάρχει ασφαλής και ελεύθερη πρόσβαση, ενώ η εικόνα της ακτής με τα βουνά αποτελεί όμορφο θέμα για φωτογραφίες. Μια διαφορετική εκδρομή οδηγεί στην παραδοσιακή Παναγία, με τα στενά δρομάκια, τα παλιά σπίτια και την πλατεία της· αυτά τα στοιχεία ανήκουν στον ξεχωριστό ορεινό οικισμό. Η Σκάλα Παναγίας είναι καλή επιλογή για χαλαρές διακοπές δίπλα στο κύμα, με την προϋπόθεση ότι οι εποχικές παροχές και οι μετακινήσεις ελέγχονται για την πραγματική ημερομηνία επίσκεψης.",
+      "history_culture": "Η Σκάλα Παναγίας αναπτύχθηκε ως παραθαλάσσιος οικισμός συνδεδεμένος με την ορεινή Παναγία. Με την ανάπτυξη του τουρισμού δημιουργήθηκαν περισσότερα καταλύματα και χώροι εστίασης κοντά στη μεγάλη αμμουδιά. Οι ελαιώνες και τα τοπικά προϊόντα είναι μέρος της φυσιογνωμίας της περιοχής, ενώ η παλαιότερη αρχιτεκτονική και η ιστορική πλατεία βρίσκονται στο ξεχωριστό ορεινό χωριό.",
+      "local_character": "Το καλοκαίρι η Χρυσή Αμμουδιά είναι ζωντανή, με οικογένειες, επισκέπτες στα καταλύματα και χαλαρά γεύματα δίπλα στη θάλασσα. Η απλωμένη αμμουδιά και το Υψάριο κυριαρχούν στο τοπίο. Εκτός υψηλής περιόδου επικρατεί ηρεμία και ορισμένες επιχειρήσεις λειτουργούν περιορισμένα.",
+      "what_to_do": "Απολαύστε το κατάλληλο τμήμα της Χρυσής Αμμουδιάς, περπατήστε στην ακτή όπου η πρόσβαση επιτρέπεται και είναι ασφαλής και δοκιμάστε φαγητό σε παραθαλάσσια ταβέρνα. Φωτογραφίστε τον κόλπο με φόντο το Υψάριο, κατευθυνθείτε προς τη Σκάλα Ποταμιάς και οργανώστε ξεχωριστή εκδρομή στην παραδοσιακή Παναγία. Για θαλάσσια σπορ επιλέξτε ενεργούς παρόχους και κατάλληλες καιρικές συνθήκες.",
+      "practical_tips": "Για πλοήγηση επιλέξτε το συγκεκριμένο κατάλυμα ή επιβεβαιωμένη είσοδο στην παραλία και όχι απλώς το γεωγραφικό σημείο του οικισμού. Ο κόλπος έχει μεγάλο μήκος και οι αποστάσεις μεταξύ των άκρων του δεν είναι αμελητέες. Το καλοκαίρι η στάθμευση μπορεί να δυσκολέψει και οι χρεώσεις για ξαπλώστρες διαφέρουν. Ελέγχετε άνεμο, κύματα και βάθος. Τα δρομολόγια λεωφορείων αλλάζουν ανά περίοδο· δεν υπάρχει εδώ λιμάνι ακτοπλοϊκής σύνδεσης με την ηπειρωτική χώρα.",
+      "highlights": [
+        "Βόρειο άκρο της μεγάλης παραλίας Χρυσή Αμμουδιά",
+        "Λεπτή άμμος και οργανωμένα τμήματα το καλοκαίρι",
+        "Όμορφη θέα προς το Υψάριο και τους ελαιώνες",
+        "Ταβέρνες, καφέ και καταλύματα κοντά στη θάλασσα",
+        "Εκδρομή στο παραδοσιακό ορεινό χωριό Παναγία"
+      ],
+      "seo_title": "Χρυσή Αμμουδιά Θάσος – Σκάλα Παναγίας και διακοπές",
+      "seo_description": "Γνωρίστε τη Χρυσή Αμμουδιά και τη Σκάλα Παναγίας στη Θάσο: μεγάλη αμμουδιά, καταλύματα, ταβέρνες, πρόσβαση και πρακτικές συμβουλές.",
+      "social_caption": "🏖️ Χρυσή Αμμουδιά, Θάσος: λεπτή χρυσαφένια άμμος, γαλάζια νερά και το πράσινο Υψάριο πάνω από τον κόλπο! 🌿 Ανακαλύψτε τη Σκάλα Παναγίας. 🇬🇷 #Θάσος #ΧρυσήΑμμουδιά #ΣκάλαΠαναγίας",
+      "photo_alt": "Η Χρυσή Αμμουδιά και η Σκάλα Παναγίας στη Θάσο, στο βόρειο άκρο της αμμώδους παραλίας με καταπράσινα βουνά στο βάθος."
+    },
+    "de": {
+      "name": "Chrysi Ammoudia (Skala Panagia)",
+      "tagline": "Goldener Sand, klares Wasser und grüne Berge am Nordende der Golden Beach",
+      "summary": "Chrysi Ammoudia, auch Skala Panagia genannt, ist die Küstensiedlung am nördlichen Ende der Golden Beach auf Thassos. Der Sandstrand, die Unterkünfte, Tavernen und der Blick auf das Ipsarion-Gebirge machen sie zu einem beliebten Urlaubsort an der Ostküste.",
+      "description": "Chrysi Ammoudia, häufig auch Skala Panagia genannt, gehört zu den Küstenorten auf Thassos, in denen sich Meer und Berge auf besonders schöne Weise begegnen. Der Ferienort liegt am nördlichen Ende der weiten Golden-Beach-Bucht an der Ostküste der Insel. Heller Sand, Olivenhaine und die grünen Hänge des Ipsarion bilden eine eindrucksvolle Kulisse. Chrysi Ammoudia ist nicht mit dem traditionellen Bergdorf Panagia oder mit Skala Potamia am südlichen Ende derselben Bucht gleichzusetzen. Golden Beach bezeichnet einen zusammenhängenden langen Sandstrand; unterschiedliche Namen der Strandabschnitte bedeuten nicht automatisch mehrere selbstständige Strände. Besonders Familien und Paare mögen die Möglichkeit, nah am Meer zu wohnen und zugleich Studios, Ferienwohnungen, Tavernen und Cafés in der Umgebung zu haben. Während der Sommersaison bieten einzelne Abschnitte Liegen und Sonnenschirme, während anderswo Platz für die eigene Strandausrüstung bleibt. Der feine Sand und der meist sanfte Einstieg ins Wasser sind angenehm, doch Wassertiefe und Wellengang unterscheiden sich je nach Stelle und Wetter. Kinder müssen immer beaufsichtigt werden. Die Bucht lädt dort, wo der Weg frei und sicher ist, zu längeren Spaziergängen ein. Besonders schön sind die Aussichten, wenn sich das blaue Meer vor den grün bewachsenen Bergen ausbreitet. Für einen Ausflug ins Inselinnere empfiehlt sich das eigenständige Dorf Panagia mit engen Gassen, traditionellen Häusern und einem reizvollen Dorfplatz. Dieser historische Charakter gehört zum Bergdorf und sollte nicht mit dem neueren Ferienort an der Küste verwechselt werden. Chrysi Ammoudia passt zu Gästen, die einen entspannten Strandurlaub mit einer schönen Landschaft und saisonalen Angeboten verbinden möchten, ohne Parkplätze, Verkehr oder Strandservices als jederzeit garantiert anzusehen.",
+      "history_culture": "Skala Panagia entwickelte sich als Küstensiedlung des höher gelegenen Dorfes Panagia. Mit dem wachsenden Tourismus entstanden nahe dem Sandstrand zunehmend Ferienunterkünfte und Gastronomie. Olivenanbau und Inselprodukte gehören weiterhin zur Kultur der Umgebung. Die alte Schieferdacharchitektur, engen Dorfstraßen und historischen Plätze befinden sich im eigenständigen Bergdorf Panagia.",
+      "local_character": "Im Sommer ist der Ort lebendig, aber auf Erholung ausgerichtet: Familien am Strand, Gäste kleiner Unterkünfte und Tavernen am Meer bestimmen das Bild. Die lange Sandbucht und die Berge sind allgegenwärtig. Außerhalb der Hauptsaison wird es deutlich ruhiger und viele touristische Angebote sind eingeschränkt.",
+      "what_to_do": "Genießen Sie einen geeigneten Abschnitt der Golden Beach, spazieren Sie dort am Ufer entlang, wo es erlaubt und sicher ist, und essen Sie in einer Taverne nahe dem Wasser. Fotografieren Sie den weiten Strand mit dem Ipsarion im Hintergrund, erkunden Sie die Richtung Skala Potamia und besuchen Sie das traditionelle Bergdorf Panagia bei einem eigenen Ausflug. Wassersport nur bei passenden Bedingungen und mit einem tatsächlich tätigen Anbieter nutzen.",
+      "practical_tips": "Zur Navigation immer die genaue Unterkunft oder einen bestätigten Strandzugang wählen statt allein den Mittelpunkt des Ortes. Golden Beach erstreckt sich über eine lange Bucht, und die beiden Enden liegen merklich auseinander. In der Hochsaison kann Parken schwierig sein; Liegenpreise hängen vom Betreiber ab. Wind, Wellen, Wassertiefe und Wassersportzonen prüfen. Busfahrpläne sind saisonabhängig; Skala Panagia ist kein Fährhafen zum Festland.",
+      "highlights": [
+        "Nördliches Ende der langen Golden-Beach-Bucht",
+        "Feiner Sand und saisonal bewirtschaftete Strandbereiche",
+        "Schöne Kulisse des Ipsarion-Gebirges und der Olivenhaine",
+        "Tavernen, Cafés und Ferienunterkünfte am Meer",
+        "Ausflug in das traditionelle Bergdorf Panagia"
+      ],
+      "seo_title": "Chrysi Ammoudia Thassos – Skala Panagia & Golden Beach",
+      "seo_description": "Chrysi Ammoudia auf Thassos entdecken: Skala Panagia, Golden Beach, feiner Sand, Tavernen, Unterkünfte, Anreise und praktische Urlaubstipps.",
+      "social_caption": "🏖️ Chrysi Ammoudia auf Thassos: goldener Sand, klares Meer und die grünen Berge des Ipsarion über der Bucht. 🌿 Entdecken Sie Skala Panagia! 🇬🇷 #Thassos #ChrysiAmmoudia #GoldenBeach",
+      "photo_alt": "Chrysi Ammoudia beziehungsweise Skala Panagia auf Thassos am nördlichen Ende der Golden Beach mit Sandstrand und grünen Bergen."
+    },
+    "bg": {
+      "name": "Хриси Амудия (Скала Панагия)",
+      "tagline": "Златист пясък, чисто море и зелени планини в северния край на Голдън Бийч",
+      "summary": "Хриси Амудия, известна и като Скала Панагия, е крайбрежното селище в северния край на залива Голдън Бийч на Тасос. Пясъчният плаж, местата за настаняване, таверните и гледките към планината Ипсарион я правят удобен избор за морска почивка.",
+      "description": "Хриси Амудия, често наричана Скала Панагия, е едно от местата на Тасос, където морето и планините създават особено красив пейзаж. Селището е разположено в северния край на обширния залив Голдън Бийч, по източното крайбрежие на острова. Светлият пясък, маслиновите горички и зелените склонове на Ипсарион оформят запомняща се картина. Това не е същото място като традиционното планинско село Панагия, нито като Скала Потамия в южния край на същия залив. Голдън Бийч е една дълга непрекъсната пясъчна ивица, известна и като Хриси Амудия; различните местни названия не означават непременно самостоятелни плажове. Районът е популярен сред семейства и двойки, които искат да отседнат близо до водата и да разполагат със студиа, апартаменти, таверни и кафенета наблизо. През лятото има оборудвани участъци с шезлонги и чадъри, както и места за собствена плажна екипировка. Финият пясък и обикновено плавното навлизане в морето са привлекателни, но дълбочината се променя, а вятърът може да доведе вълни дори в иначе спокоен ден. Децата винаги трябва да са под наблюдение. Заливът предлага възможности за разходки там, където преминаването е разрешено и безопасно, а гледките към морето и планините са чудесни за снимки. Ако търсите повече традиции, посетете отделното село Панагия във вътрешността на острова, с тесни улички, стари къщи и живописен площад. Хриси Амудия е подходяща за спокойна морска ваканция с красива природа и сезонни услуги, които обаче трябва да бъдат потвърдени за конкретните дати.",
+      "history_culture": "Скала Панагия се развива като крайбрежно селище, свързано с планинското село Панагия. С увеличаването на туризма край пясъчния бряг се появяват повече места за настаняване и заведения. Маслините и традиционните продукти са част от идентичността на региона. Старите къщи с каменни покриви и историческите улички са характерни за отделното планинско село, а не за самия курорт.",
+      "local_character": "През лятото мястото е оживено, но спокойно по характер, с семейства на плажа, гости на малки хотели и вечери в таверни до морето. Дългата пясъчна ивица и зелените планини доминират пейзажа. Извън сезона е значително по-тихо и част от услугите не работят.",
+      "what_to_do": "Изберете подходящ участък от Голдън Бийч за плажуване, разходете се покрай морето там, където е безопасно, и посетете местна таверна. Снимайте залива и планината Ипсарион, разгледайте посоката към Скала Потамия и организирайте отделна разходка до традиционното село Панагия. Ползвайте водни спортове само при подходящи условия и с работещ доставчик.",
+      "practical_tips": "За навигация използвайте точния адрес на мястото за настаняване или потвърден вход към плажа, а не само центъра на селището. Заливът е дълъг и разстоянието между двата му края е значително. През лятото паркирането може да е трудно, а условията за шезлонги зависят от оператора. Проверявайте вятъра, вълните и дълбочината. Разписанията на автобусите са сезонни; Скала Панагия не е фериботно пристанище към континента.",
+      "highlights": [
+        "Северният край на дългия залив Голдън Бийч",
+        "Фин пясък и сезонно оборудвани участъци",
+        "Панорама към Ипсарион и маслиновите горички",
+        "Таверни, кафенета и настаняване близо до морето",
+        "Възможност за посещение на традиционното село Панагия"
+      ],
+      "seo_title": "Хриси Амудия, Тасос – Скала Панагия и Голдън Бийч",
+      "seo_description": "Открийте Хриси Амудия на Тасос: Скала Панагия, Голдън Бийч, пясък, таверни, настаняване, транспорт и съвети за посещение.",
+      "social_caption": "🏖️ Хриси Амудия, Тасос: златист пясък, синьо море и зелените склонове на Ипсарион! 🌿 Разгледайте северния край на Голдън Бийч. 🇬🇷 #Тасос #ХрисиАмудия #GoldenBeach",
+      "photo_alt": "Хриси Амудия или Скала Панагия на Тасос, в северния край на Голдън Бийч, с пясъчен плаж и зелени планини."
+    },
+    "sr": {
+      "name": "Hrisi Amudija (Skala Panagija)",
+      "tagline": "Zlatni pesak, bistro more i zelene planine na severnom kraju Golden Beacha",
+      "summary": "Hrisi Amudija, poznata i kao Skala Panagija, primorsko je naselje na severnom kraju zaliva Golden Beach na Tasosu. Peščana obala, smeštaj, taverne i pogled na planinu Ipsarion čine je privlačnom bazom za odmor na istočnoj obali ostrva.",
+      "description": "Hrisi Amudija, koju često nazivaju Skala Panagija, jedno je od mesta na Tasosu gde se more i planine spajaju u izuzetno lepom pejzažu. Naselje se nalazi na severnom kraju prostranog zaliva Golden Beach, na istočnoj obali ostrva, sa svetlim peskom, maslinjacima i zelenim padinama Ipsariona u pozadini. To nije isto mesto kao tradicionalno planinsko selo Panagija, niti Skala Potamija na južnom kraju istog zaliva. Golden Beach je jedna dugačka povezana peščana obala, poznata i kao Hrisi Amudija; različiti lokalni nazivi ne znače da postoji više potpuno odvojenih plaža. Severno naselje privlači porodice i parove koji žele da odsednu blizu mora, a da pritom imaju studije, apartmane, taverne i kafiće u okolini. Tokom leta na pojedinim delovima postoje ležaljke i suncobrani, dok drugde može biti mesta za sopstvenu opremu. Fini pesak i uglavnom postepen ulazak u vodu jesu prednosti, ali dubina varira i vetar može brzo da podigne talase. Decu uvek treba nadgledati. Dugačka uvala poziva na šetnju duž delova obale kojima se može bezbedno i slobodno prolaziti, a spoj plavog mora, svetlog peska i zelenih planina posebno je lep za fotografisanje. Za drugačiji doživljaj može se otići u planinsko selo Panagija, sa starim kućama, uskim ulicama i tradicionalnim trgom; ta istorijska atmosfera pripada zasebnom mestu u unutrašnjosti. Hrisi Amudija je dobar izbor za opušten odmor na moru uz lep pejzaž i sezonske sadržaje, uz proveru parkinga, prevoza i pravila korišćenja plaže za konkretan dan.",
+      "history_culture": "Skala Panagija se razvila kao obalsko naselje povezano sa planinskim selom Panagija. Razvoj turizma doneo je više soba, apartmana i restorana blizu peščane obale. Maslinarstvo i lokalni proizvodi ostali su deo identiteta šireg područja. Starinska arhitektura sa kamenim krovovima i istorijski trg nalaze se u zasebnom planinskom selu, a ne na samoj obali.",
+      "local_character": "Leti je naselje živahno, ali opušteno, sa porodicama na plaži, gostima malih smeštajnih objekata i večerama uz more. Dugačka plaža i planine oblikuju pogled. Van glavne sezone mnogo je mirnije, a deo turističkih sadržaja radi ograničeno.",
+      "what_to_do": "Provedite vreme na pogodnom delu Golden Beacha, šetajte obalom gde je prolaz bezbedan i dozvoljen i uživajte u obroku u taverni kraj mora. Fotografisite zaliv i Ipsarion, krenite prema Skala Potamiji i izdvojite poseban izlet do tradicionalne Panagije. Vodene sportove birajte samo kod aktivnih pružalaca usluga i uz odgovarajuće uslove na moru.",
+      "practical_tips": "Za navigaciju koristite tačnu adresu smeštaja ili potvrđen ulaz na plažu, a ne samo geografsku tačku naselja. Golden Beach se prostire duž velikog zaliva, pa su njegovi krajevi znatno udaljeni. Leti parkiranje može biti otežano, a uslovi za ležaljke zavise od pružaoca usluge. Proverite vetar, talase, dubinu i zone za sportove na vodi. Autobuski red vožnje menja se sezonski; Skala Panagija nije trajektna luka za kopno.",
+      "highlights": [
+        "Severni kraj dugog zaliva Golden Beach",
+        "Fini pesak i sezonski opremljeni delovi obale",
+        "Pogled na Ipsarion i maslinjake",
+        "Taverne, kafići i smeštaj u blizini mora",
+        "Izlet u tradicionalno planinsko selo Panagija"
+      ],
+      "seo_title": "Hrisi Amudija Tasos – Skala Panagija i Golden Beach",
+      "seo_description": "Otkrijte Hrisi Amudiju na Tasosu: Skala Panagija, Golden Beach, peščana obala, taverne, smeštaj, prilaz i praktični saveti.",
+      "social_caption": "🏖️ Hrisi Amudija, Tasos: zlatni pesak, plavo more i zeleni Ipsarion iznad zaliva! 🌿 Otkrijte severni kraj Golden Beacha. 🇬🇷 #Tasos #HrisiAmudija #GoldenBeach",
+      "photo_alt": "Primorsko naselje Hrisi Amudija ili Skala Panagija na Tasosu, sa severnim delom peščane obale Golden Beach i zelenim planinama u pozadini."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/areas/chrysi-ammoudia/images/chrysi-ammoudia1.webp",
+    "gallery": [
+      "destinations/thassos/areas/chrysi-ammoudia/images/chrysi-ammoudia2.webp",
+      "destinations/thassos/areas/chrysi-ammoudia/images/chrysi-ammoudia3.webp",
+      "destinations/thassos/areas/chrysi-ammoudia/images/chrysi-ammoudia4.webp",
+      "destinations/thassos/areas/chrysi-ammoudia/images/chrysi-ammoudia5.webp"
+    ],
+    "expected_folder": "destinations/thassos/areas/chrysi-ammoudia/images/",
+    "suggested_asset_names": [
+      "chrysi-ammoudia1.webp",
+      "chrysi-ammoudia2.webp",
+      "chrysi-ammoudia3.webp",
+      "chrysi-ammoudia4.webp",
+      "chrysi-ammoudia5.webp"
+    ],
+    "image_policy": "Exactly five user-chosen landscape WebP images to be placed later: (1) the true northern Chrysi Ammoudia/Skala Panagia resort with visible sandy bay, (2) local northern seafront and accommodation context, (3) northern Golden Beach sand/water rather than a mislabeled southern section, (4) everyday local atmosphere or genuine seaside tavern from permitted public viewpoint, (5) overview showing Golden Beach and Ipsarion backdrop. Do not present the separate mountain village Panagia or southern Skala Potamia as this locality. Verify each image location, provenance, copyright, commercial/derivative rights, onward-transfer permissions and attribution before publishing. Only file paths are preset; no actual WebP image binaries included.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_osm_chrysi_village",
+      "kind": "osm_mapped_settlement",
+      "title": "Mapcarta / OpenStreetMap — Chrysi Ammoudia (Skala Panagia) village",
+      "url": "https://mapcarta.com/25730148",
+      "detail": "OSM node 280965701, place=village, center 40.73124,24.76001. Separate from the beach node, parking and arrival. Greek names include Σκάλα Παναγίας / Χρυσή Αμμουδιά.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_osm_chrysi_beach",
+      "kind": "osm_mapped_beach",
+      "title": "Mapcarta / OpenStreetMap — Χρυσή Αμμουδιά beach",
+      "url": "https://mapcarta.com/N6801702478",
+      "detail": "OSM beach node 6801702478, 40.73061,24.76098. Supports locality/beach geometry distinction; not a confirmed beach entrance.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_osm_south",
+      "kind": "osm_mapped_settlement",
+      "title": "Mapcarta / OpenStreetMap — Chrysi Akti (Skala Potamia)",
+      "url": "https://mapcarta.com/13814180",
+      "detail": "Distinct southern settlement OSM node 1477905082 at 40.70729,24.76090; avoid duplicate northern/southern villages and Golden Beach records.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_skala_panagia",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Skala Panagia",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-panagia",
+      "detail": "Identifies northern Golden Beach resort, continuous bay to Skala Potamia, sand and gradual entry, seasonal businesses, food, accommodation and local transport. Historical water taxi and undated Blue Flag claims NOT accepted as current verified services.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_skala_panagia_greek",
+      "kind": "local_greek_travel_guide",
+      "title": "Go Thassos — Σκάλα Παναγίας",
+      "url": "https://www.go-thassos.gr/gr/about-thassos/places/skala-panagia",
+      "detail": "Greek-language naming and area context; distinguishes northern Σκάλα Παναγίας / Χρυσή Αμμουδιά and southern Χρυσή Ακτή at Skala Potamia; older development and Blue Flag claims not used as current data.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_golden",
+      "kind": "beach_guide",
+      "title": "Go Thassos — Golden Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/golden-beach",
+      "detail": "Beach description and broad seasonal facility categories. Does not guarantee a specific operator, date or accessible point.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_skala_potamia",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Skala Potamia",
+      "url": "https://www.go-thassos.gr/about-thassos/places/skala-potamia",
+      "detail": "Describes Skala Potamia as the southern Golden Coast end of the same continuous bay and an independent seafront village.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_discover_panagia",
+      "kind": "national_tourism_guide",
+      "title": "Discover Greece — Mountain village-hopping in Thassos",
+      "url": "https://www.discovergreece.com/experiences/thassos-mountain-villages",
+      "detail": "Documents traditional Panagia in the hills, with architecture, village square, olive-related traditions and mountain setting; not a seafront landmark within Skala Panagia.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_go_panagia",
+      "kind": "local_travel_guide",
+      "title": "Go Thassos — Panagia",
+      "url": "https://www.go-thassos.gr/about-thassos/places/panagia",
+      "detail": "Traditional inland village distinct from Skala Panagia, with old village architecture and landscape above Golden Beach.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_travelfind",
+      "kind": "local_travel_guide",
+      "title": "Thasos TravelFind — Chrysi Ammoudia",
+      "url": "https://thasos.travelfind.gr/en/info/spot/chrysi-ammoudia",
+      "detail": "Reports beach characteristics, general holiday accommodation, parking and services. Accessible beach claims are broad and NOT established for a precise ramp or date; Blue Flag historical claim not applied as current.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_katatopisi",
+      "kind": "environmental_historical_context",
+      "title": "Katatopisi — Golden Beach bathing water context",
+      "url": "https://katatopisi.gr/en/place/chrysi-ammoudia/",
+      "detail": "EEA historic bathing-water records for 2011–2024 only; no current daily water-quality guarantee or Blue Flag award inferred.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_hiking",
+      "kind": "national_tourism_activity_guide",
+      "title": "Discover Greece — Hiking paths of Thassos",
+      "url": "https://www.discovergreece.com/experiences/hiking-paths-thassos",
+      "detail": "Ipsarion mountain setting and hikes originating from specific inland villages; do not imply every coastline hotel is a safe mountain trailhead.",
+      "checked_on": "2026-10-27"
+    },
+    {
+      "id": "s_bus_reference",
+      "kind": "dated_transport_reference",
+      "title": "Go Thassos — Thassos Bus Schedules and Prices",
+      "url": "https://www.go-thassos.gr/thassos-bus-schedules-prices",
+      "detail": "Local timetable reference; dated, seasonal changes expected, no hard-coded times or unverified bus stop coordinates retained.",
+      "checked_on": "2026-10-27"
+    }
+  ],
+  "editorial": {
+    "status": "researched_six_languages_completed_5_WebP_paths_configured_pending_photo_arrival_and_native_review",
+    "facts_checked_on": "2026-10-27",
+    "translations_written_on": "2026-10-27",
+    "coverage": "full_northern_Golden_Beach_coastal_resort_profile_six_languages_thirteen_sources_single_Golden_Beach_record_five_preset_WebP_slots",
+    "requires_manual_review": [
+      "Confirm north-end Chrysi Ammoudia/Skala Panagia OSM mapped locality point node 280965701 at 40.73124,24.76001, and do not mistake for the distinct beach node 6801702478 or navigation point.",
+      "Verify exact public pedestrian/beach entrance, parking location, accessible routes, KTEL stop and real resort boundary; keep arrival_point null until independently checked.",
+      "Keep gr-thassos-beach-golden as ONE shared Golden Beach record; do not split into duplicate Golden Coast or Chrysi Ammoudia beach listings without justified sub-beach model.",
+      "Keep Chrysi Ammoudia seaside resort and mountain Panagia village as different area IDs; Skala Potamia stays the distinct southern resort.",
+      "Confirm commercial business geocodes and association with this area before displaying distances or claiming pharmacies, ATMs, shop hours or facilities.",
+      "Recheck changing sea conditions, water-sports operator terms, sunbed rules and verified beach-specific lifeguard/accessible infrastructure.",
+      "Do not publish undated Blue Flag awards as current; if needed consult official programme for exact year and section.",
+      "Verify operator-confirmed seasonal KTEL route/stop and ferry or any water taxi separately; no departure times are embedded.",
+      "Add chrysi-ammoudia1.webp through chrysi-ammoudia5.webp into the specified images folder and verify actual north-end photographic identity, provenance, commercial/derivative rights and any credits.",
+      "Proofread all six languages with native speakers, especially Greek locality spelling and Serbian Latin, and review local SEO before publication."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "photo_source_disclaimer": "Only five user-planned filenames/paths have been assigned. No physical photographs, copyright permissions, photographer credits or verified north-end image locations are included."
+  }
+}

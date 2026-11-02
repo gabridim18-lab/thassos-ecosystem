@@ -1,0 +1,1109 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "gr-thassos-local-eats-drinks-nautilous-cafebar-menu",
+  "parentId": "gr-thassos-local-eats-drinks-nautilous-cafebar",
+  "parentSlug": "nautilous-cafebar",
+  "category": "local-eats-drinks",
+  "beachSlug": "skala-sotiros",
+  "currency": "EUR",
+  "menuStatus": "historical_photographed_menu_unverified",
+  "publishedCurrentMenu": false,
+  "showHistoricalPricesByDefault": false,
+  "source": {
+    "type": "three_user_supplied_photographs_of_menu",
+    "sourcePhotoCount": 3,
+    "year": "not_provided",
+    "photographedBusinessBrand": "Nautilus Café / Bar",
+    "pricing": "Historical, displayed only with explicit reference notice",
+    "copyright": "Photographs are from Google Maps; authorization to publish images is not established"
+  },
+  "editorial": {
+    "allergensVerified": false,
+    "ingredientDescriptionsLimitedToItemsWherePrinted": true,
+    "availabilityConfirmed": false,
+    "publicationRequirements": [
+      "Confirm exact current products and prices with venue",
+      "Check quantities, allergens and ingredients",
+      "Resolve branding spelling"
+    ]
+  },
+  "sections": [
+    {
+      "slug": "coffees",
+      "name": {
+        "ro": "Cafele",
+        "en": "Coffees",
+        "el": "Καφέδες",
+        "de": "Kaffee",
+        "bg": "Кафета",
+        "sr": "Kafe"
+      },
+      "items": [
+        {
+          "id": "naut-coffees-greek-coffee",
+          "name": {
+            "ro": "Cafea grecească",
+            "en": "Greek coffee",
+            "el": "Ελληνικός",
+            "de": "Griechischer Kaffee",
+            "bg": "Гръцко кафе",
+            "sr": "Grčka kafa"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.0
+        },
+        {
+          "id": "naut-coffees-frapp-nescaf",
+          "name": {
+            "ro": "Frappé / Nescafé",
+            "en": "Frappé / Nescafé",
+            "el": "Φραπέ",
+            "de": "Frappé / Nescafé",
+            "bg": "Фрапе",
+            "sr": "Frape"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        },
+        {
+          "id": "naut-coffees-freddo-espresso",
+          "name": {
+            "ro": "Freddo espresso",
+            "en": "Freddo espresso",
+            "el": "Freddo espresso",
+            "de": "Freddo Espresso",
+            "bg": "Фредо еспресо",
+            "sr": "Freddo espreso"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.0
+        },
+        {
+          "id": "naut-coffees-freddo-cappuccino",
+          "name": {
+            "ro": "Freddo cappuccino",
+            "en": "Freddo cappuccino",
+            "el": "Freddo cappuccino",
+            "de": "Freddo Cappuccino",
+            "bg": "Фредо капучино",
+            "sr": "Freddo kapučino"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.0
+        },
+        {
+          "id": "naut-coffees-cappuccino",
+          "name": {
+            "ro": "Cappuccino",
+            "en": "Cappuccino",
+            "el": "Καπουτσίνο",
+            "de": "Cappuccino",
+            "bg": "Капучино",
+            "sr": "Kapučino"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.0
+        },
+        {
+          "id": "naut-coffees-espresso",
+          "name": {
+            "ro": "Espresso",
+            "en": "Espresso",
+            "el": "Εσπρέσο",
+            "de": "Espresso",
+            "bg": "Еспресо",
+            "sr": "Espreso"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.0
+        },
+        {
+          "id": "naut-coffees-latte",
+          "name": {
+            "ro": "Latte",
+            "en": "Latte",
+            "el": "Λάτε",
+            "de": "Latte",
+            "bg": "Лате",
+            "sr": "Late"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.5
+        },
+        {
+          "id": "naut-coffees-chocolate",
+          "name": {
+            "ro": "Ciocolată caldă",
+            "en": "Chocolate",
+            "el": "Σοκολάτα",
+            "de": "Schokolade",
+            "bg": "Шоколад",
+            "sr": "Čokolada"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.0
+        },
+        {
+          "id": "naut-coffees-white-chocolate",
+          "name": {
+            "ro": "Ciocolată albă",
+            "en": "White chocolate",
+            "el": "Λευκή σοκολάτα",
+            "de": "Weiße Schokolade",
+            "bg": "Бял шоколад",
+            "sr": "Bela čokolada"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.0
+        }
+      ]
+    },
+    {
+      "slug": "smoothies",
+      "name": {
+        "ro": "Smoothie-uri",
+        "en": "Smoothies",
+        "el": "Smoothies",
+        "de": "Smoothies",
+        "bg": "Смутита",
+        "sr": "Smutiji"
+      },
+      "items": [
+        {
+          "id": "naut-smoothies-nautilus-smoothie",
+          "name": {
+            "ro": "Smoothie Nautilus",
+            "en": "Nautilus smoothie",
+            "el": "Nautilus smoothie",
+            "de": "Nautilus Smoothie",
+            "bg": "Смути Наутилус",
+            "sr": "Nautilus smuti"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 4.0,
+          "ingredientsAsPrintedEn": [
+            "apple",
+            "banana",
+            "pear"
+          ]
+        },
+        {
+          "id": "naut-smoothies-kwinana-smoothie",
+          "name": {
+            "ro": "Smoothie Kwinana",
+            "en": "Kwinana smoothie",
+            "el": "Kwinana",
+            "de": "Kwinana Smoothie",
+            "bg": "Смути Куинана",
+            "sr": "Kwinana smuti"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 4.0,
+          "ingredientsAsPrintedEn": [
+            "kiwi",
+            "pineapple",
+            "cucumber",
+            "banana"
+          ]
+        },
+        {
+          "id": "naut-smoothies-smoothie-of-your-choice",
+          "name": {
+            "ro": "Smoothie la alegere",
+            "en": "Smoothie of your choice",
+            "el": "Smoothie της επιλογής σας",
+            "de": "Smoothie nach Wahl",
+            "bg": "Смути по избор",
+            "sr": "Smuti po izboru"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 4.0
+        }
+      ]
+    },
+    {
+      "slug": "refreshments",
+      "name": {
+        "ro": "Băuturi răcoritoare",
+        "en": "Refreshments",
+        "el": "Αναψυκτικά",
+        "de": "Erfrischungsgetränke",
+        "bg": "Безалкохолни напитки",
+        "sr": "Bezalkoholna pića"
+      },
+      "items": [
+        {
+          "id": "naut-refreshments-soda",
+          "name": {
+            "ro": "Apă minerală carbogazoasă",
+            "en": "Soda",
+            "el": "Σόδα",
+            "de": "Sodawasser",
+            "bg": "Газирана вода",
+            "sr": "Soda"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        },
+        {
+          "id": "naut-refreshments-tonic",
+          "name": {
+            "ro": "Tonic",
+            "en": "Tonic",
+            "el": "Τόνικ",
+            "de": "Tonic Water",
+            "bg": "Тоник",
+            "sr": "Tonik"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        },
+        {
+          "id": "naut-refreshments-coca-cola",
+          "name": {
+            "ro": "Coca-Cola",
+            "en": "Coca Cola",
+            "el": "Coca Cola",
+            "de": "Coca-Cola",
+            "bg": "Кока-Кола",
+            "sr": "Koka-Kola"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        },
+        {
+          "id": "naut-refreshments-coca-cola-zero",
+          "name": {
+            "ro": "Coca-Cola Zero",
+            "en": "Coca Cola Zero",
+            "el": "Coca Cola zero",
+            "de": "Coca-Cola Zero",
+            "bg": "Кока-Кола Зеро",
+            "sr": "Koka-Kola Zero"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        },
+        {
+          "id": "naut-refreshments-fanta-orange",
+          "name": {
+            "ro": "Fanta portocale",
+            "en": "Fanta orange",
+            "el": "Πορτοκαλάδα",
+            "de": "Fanta Orange",
+            "bg": "Фанта портокал",
+            "sr": "Fanta pomorandža"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        },
+        {
+          "id": "naut-refreshments-fanta-lemon",
+          "name": {
+            "ro": "Fanta lămâie",
+            "en": "Fanta lemon",
+            "el": "Λεμονάδα",
+            "de": "Fanta Zitrone",
+            "bg": "Фанта лимон",
+            "sr": "Fanta limun"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        },
+        {
+          "id": "naut-refreshments-sprite",
+          "name": {
+            "ro": "Sprite",
+            "en": "Sprite",
+            "el": "Sprite",
+            "de": "Sprite",
+            "bg": "Спрайт",
+            "sr": "Sprajt"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        },
+        {
+          "id": "naut-refreshments-souroti",
+          "name": {
+            "ro": "Souroti",
+            "en": "Souroti",
+            "el": "Σουρωτή",
+            "de": "Souroti",
+            "bg": "Суроти",
+            "sr": "Suroti"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.0
+        },
+        {
+          "id": "naut-refreshments-homemade-lemonade-with-mastic",
+          "name": {
+            "ro": "Limonadă de casă cu mastic",
+            "en": "Homemade lemonade with mastic",
+            "el": "Σπιτική λεμονάδα με μαστίχα Χίου",
+            "de": "Hausgemachte Limonade mit Mastix",
+            "bg": "Домашна лимонада с мастиха",
+            "sr": "Domaća limunada sa mastihom"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "pricePhotoLegibility": "not_shown_in_photo"
+        }
+      ]
+    },
+    {
+      "slug": "juices",
+      "name": {
+        "ro": "Sucuri",
+        "en": "Juices",
+        "el": "Χυμοί",
+        "de": "Säfte",
+        "bg": "Сокове",
+        "sr": "Sokovi"
+      },
+      "items": [
+        {
+          "id": "naut-juices-orange",
+          "name": {
+            "ro": "Portocale",
+            "en": "Orange",
+            "el": "Πορτοκάλι",
+            "de": "Orange",
+            "bg": "Портокал",
+            "sr": "Pomorandža"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        },
+        {
+          "id": "naut-juices-sour-cherry",
+          "name": {
+            "ro": "Vișine",
+            "en": "Sour cherry",
+            "el": "Βύσσινο",
+            "de": "Sauerkirsche",
+            "bg": "Вишна",
+            "sr": "Višnja"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        },
+        {
+          "id": "naut-juices-strawberry",
+          "name": {
+            "ro": "Căpșuni",
+            "en": "Strawberry",
+            "el": "Φράουλα",
+            "de": "Erdbeere",
+            "bg": "Ягода",
+            "sr": "Jagoda"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        },
+        {
+          "id": "naut-juices-apple",
+          "name": {
+            "ro": "Mere",
+            "en": "Apple",
+            "el": "Μήλο",
+            "de": "Apfel",
+            "bg": "Ябълка",
+            "sr": "Jabuka"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        },
+        {
+          "id": "naut-juices-pineapple",
+          "name": {
+            "ro": "Ananas",
+            "en": "Pineapple",
+            "el": "Ανανάς",
+            "de": "Ananas",
+            "bg": "Ананас",
+            "sr": "Ananas"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        },
+        {
+          "id": "naut-juices-banana",
+          "name": {
+            "ro": "Banane",
+            "en": "Banana",
+            "el": "Μπανάνα",
+            "de": "Banane",
+            "bg": "Банан",
+            "sr": "Banana"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5
+        }
+      ]
+    },
+    {
+      "slug": "beers",
+      "name": {
+        "ro": "Bere",
+        "en": "Beers",
+        "el": "Μπύρες",
+        "de": "Biere",
+        "bg": "Бира",
+        "sr": "Piva"
+      },
+      "items": [
+        {
+          "id": "naut-beers-mythos",
+          "name": {
+            "ro": "Mythos",
+            "en": "Mythos",
+            "el": "Mythos",
+            "de": "Mythos",
+            "bg": "Mythos",
+            "sr": "Mythos"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.0
+        },
+        {
+          "id": "naut-beers-heineken",
+          "name": {
+            "ro": "Heineken",
+            "en": "Heineken",
+            "el": "Heineken",
+            "de": "Heineken",
+            "bg": "Heineken",
+            "sr": "Heineken"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.0
+        },
+        {
+          "id": "naut-beers-amstel",
+          "name": {
+            "ro": "Amstel",
+            "en": "Amstel",
+            "el": "Amstel",
+            "de": "Amstel",
+            "bg": "Amstel",
+            "sr": "Amstel"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.0
+        },
+        {
+          "id": "naut-beers-fix-dark",
+          "name": {
+            "ro": "Fix Dark",
+            "en": "Fix Dark",
+            "el": "Fix Dark",
+            "de": "Fix Dark",
+            "bg": "Fix Dark",
+            "sr": "Fix Dark"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.0
+        },
+        {
+          "id": "naut-beers-fix-free",
+          "name": {
+            "ro": "Fix Free",
+            "en": "Fix Free",
+            "el": "Fix Free",
+            "de": "Fix Free",
+            "bg": "Fix Free",
+            "sr": "Fix Free"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.0
+        },
+        {
+          "id": "naut-beers-corona",
+          "name": {
+            "ro": "Corona",
+            "en": "Corona",
+            "el": "Corona",
+            "de": "Corona",
+            "bg": "Corona",
+            "sr": "Corona"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 4.0
+        },
+        {
+          "id": "naut-beers-alfa-draught-small",
+          "name": {
+            "ro": "Alfa draft mică",
+            "en": "Alfa draught small",
+            "el": "Άλφα βαρέλι μικρό",
+            "de": "Alfa Fassbier klein",
+            "bg": "Алфа наливна малка",
+            "sr": "Alfa točeno malo"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.5,
+          "pricePhotoLegibility": "handwritten_slightly_unclear"
+        },
+        {
+          "id": "naut-beers-alfa-draught-large",
+          "name": {
+            "ro": "Alfa draft mare",
+            "en": "Alfa draught large",
+            "el": "Άλφα βαρέλι μεγάλο",
+            "de": "Alfa Fassbier groß",
+            "bg": "Алфа наливна голяма",
+            "sr": "Alfa točeno veliko"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.0
+        }
+      ]
+    },
+    {
+      "slug": "wines",
+      "name": {
+        "ro": "Vinuri",
+        "en": "Wines",
+        "el": "Κρασάκια",
+        "de": "Weine",
+        "bg": "Вина",
+        "sr": "Vina"
+      },
+      "items": [
+        {
+          "id": "naut-wines-white-wine",
+          "name": {
+            "ro": "Vin alb",
+            "en": "White wine",
+            "el": "Λευκό κρασί",
+            "de": "Weißwein",
+            "bg": "Бяло вино",
+            "sr": "Belo vino"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.5
+        },
+        {
+          "id": "naut-wines-red-wine",
+          "name": {
+            "ro": "Vin roșu",
+            "en": "Red wine",
+            "el": "Κόκκινο κρασί",
+            "de": "Rotwein",
+            "bg": "Червено вино",
+            "sr": "Crveno vino"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 3.5
+        }
+      ]
+    },
+    {
+      "slug": "energy-drinks",
+      "name": {
+        "ro": "Energizante",
+        "en": "Energy drinks",
+        "el": "Ενεργειακά ποτά",
+        "de": "Energydrinks",
+        "bg": "Енергийни напитки",
+        "sr": "Energetska pića"
+      },
+      "items": [
+        {
+          "id": "naut-energy-drinks-red-bull",
+          "name": {
+            "ro": "Red Bull",
+            "en": "Red Bull",
+            "el": "Red Bull",
+            "de": "Red Bull",
+            "bg": "Red Bull",
+            "sr": "Red Bull"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 4.0
+        },
+        {
+          "id": "naut-energy-drinks-gordon-space",
+          "name": {
+            "ro": "Gordon Space",
+            "en": "Gordon Space",
+            "el": "Gordon Space",
+            "de": "Gordon Space",
+            "bg": "Gordon Space",
+            "sr": "Gordon Space"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 4.0
+        }
+      ]
+    },
+    {
+      "slug": "cider",
+      "name": {
+        "ro": "Cidru",
+        "en": "Cider",
+        "el": "Μηλίτης",
+        "de": "Cider",
+        "bg": "Сайдер",
+        "sr": "Sajder"
+      },
+      "items": [
+        {
+          "id": "naut-cider-milokleftis",
+          "name": {
+            "ro": "Milokleftis",
+            "en": "Milokleftis",
+            "el": "Milokleftis",
+            "de": "Milokleftis",
+            "bg": "Milokleftis",
+            "sr": "Milokleftis"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 4.0
+        }
+      ]
+    },
+    {
+      "slug": "spirits-and-bottles",
+      "name": {
+        "ro": "Băuturi alcoolice",
+        "en": "Spirits & bottles",
+        "el": "Ποτά",
+        "de": "Spirituosen & Flaschen",
+        "bg": "Алкохолни напитки",
+        "sr": "Alkoholna pića"
+      },
+      "items": [
+        {
+          "id": "naut-spirits-and-bottles-bottle",
+          "name": {
+            "ro": "Sticlă",
+            "en": "Bottle",
+            "el": "Φιάλη",
+            "de": "Flasche",
+            "bg": "Бутилка",
+            "sr": "Flaša"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 60.0
+        },
+        {
+          "id": "naut-spirits-and-bottles-bottle-special",
+          "name": {
+            "ro": "Sticlă specială",
+            "en": "Bottle special",
+            "el": "Φιάλη σπέσιαλ",
+            "de": "Spezielle Flasche",
+            "bg": "Специална бутилка",
+            "sr": "Specijalna flaša"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 70.0
+        },
+        {
+          "id": "naut-spirits-and-bottles-shaker-special",
+          "name": {
+            "ro": "Shaker special",
+            "en": "Shaker special",
+            "el": "Shaker σπέσιαλ",
+            "de": "Shaker Spezial",
+            "bg": "Специален шейкър",
+            "sr": "Specijalni šejker"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "pricePhotoLegibility": "illegible_in_photo"
+        },
+        {
+          "id": "naut-spirits-and-bottles-shaker-large",
+          "name": {
+            "ro": "Shaker mare",
+            "en": "Shaker large",
+            "el": "Shaker μεγάλο",
+            "de": "Shaker groß",
+            "bg": "Голям шейкър",
+            "sr": "Veliki šejker"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 20.0
+        },
+        {
+          "id": "naut-spirits-and-bottles-shaker-small",
+          "name": {
+            "ro": "Shaker mic",
+            "en": "Shaker small",
+            "el": "Shaker μικρό",
+            "de": "Shaker klein",
+            "bg": "Малък шейкър",
+            "sr": "Mali šejker"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 15.0
+        },
+        {
+          "id": "naut-spirits-and-bottles-shot",
+          "name": {
+            "ro": "Shot",
+            "en": "Shot",
+            "el": "Σφηνάκι",
+            "de": "Shot",
+            "bg": "Шот",
+            "sr": "Šot"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.0
+        }
+      ]
+    },
+    {
+      "slug": "snacks",
+      "name": {
+        "ro": "Gustări",
+        "en": "Snacks",
+        "el": "Σνακ",
+        "de": "Snacks",
+        "bg": "Леки закуски",
+        "sr": "Užine"
+      },
+      "items": [
+        {
+          "id": "naut-snacks-club-sandwich",
+          "name": {
+            "ro": "Club sandwich",
+            "en": "Club sandwich",
+            "el": "Club sandwich",
+            "de": "Club-Sandwich",
+            "bg": "Клуб сандвич",
+            "sr": "Klub sendvič"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 4.0
+        },
+        {
+          "id": "naut-snacks-toast",
+          "name": {
+            "ro": "Toast",
+            "en": "Toast",
+            "el": "Τοστ",
+            "de": "Toast",
+            "bg": "Тост",
+            "sr": "Tost"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 2.0
+        }
+      ]
+    },
+    {
+      "slug": "ice-creams",
+      "name": {
+        "ro": "Înghețată",
+        "en": "Ice creams",
+        "el": "Παγωτά",
+        "de": "Eis",
+        "bg": "Сладолед",
+        "sr": "Sladoled"
+      },
+      "items": [
+        {
+          "id": "naut-ice-creams-ice-cream",
+          "name": {
+            "ro": "Înghețată simplă",
+            "en": "Ice cream",
+            "el": "Απλό παγωτό",
+            "de": "Eis",
+            "bg": "Сладолед",
+            "sr": "Sladoled"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 4.0
+        },
+        {
+          "id": "naut-ice-creams-special-ice-cream",
+          "name": {
+            "ro": "Înghețată specială",
+            "en": "Special ice cream",
+            "el": "Σπέσιαλ",
+            "de": "Spezial-Eis",
+            "bg": "Специален сладолед",
+            "sr": "Specijalni sladoled"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 5.0
+        }
+      ]
+    },
+    {
+      "slug": "cocktails",
+      "name": {
+        "ro": "Cocktailuri",
+        "en": "Cocktails",
+        "el": "Cocktails",
+        "de": "Cocktails",
+        "bg": "Коктейли",
+        "sr": "Kokteli"
+      },
+      "items": [
+        {
+          "id": "naut-cocktails-mojito-pineapple",
+          "name": {
+            "ro": "Mojito Pineapple",
+            "en": "Mojito Pineapple",
+            "el": "Mojito Pineapple",
+            "de": "Mojito Pineapple",
+            "bg": "Mojito Pineapple",
+            "sr": "Mojito Pineapple"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 7.5,
+          "ingredientsAsPrintedEn": [
+            "white rum",
+            "lime juice",
+            "mint",
+            "fresh pineapple"
+          ]
+        },
+        {
+          "id": "naut-cocktails-mojito",
+          "name": {
+            "ro": "Mojito",
+            "en": "Mojito",
+            "el": "Mojito",
+            "de": "Mojito",
+            "bg": "Mojito",
+            "sr": "Mojito"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 7.5,
+          "ingredientsAsPrintedEn": [
+            "white rum",
+            "lime juice",
+            "soda",
+            "mint"
+          ]
+        },
+        {
+          "id": "naut-cocktails-mojito-strawberry",
+          "name": {
+            "ro": "Mojito strawberry",
+            "en": "Mojito strawberry",
+            "el": "Mojito strawberry",
+            "de": "Mojito strawberry",
+            "bg": "Mojito strawberry",
+            "sr": "Mojito strawberry"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 7.5,
+          "ingredientsAsPrintedEn": [
+            "white rum",
+            "mint",
+            "lime juice",
+            "strawberry"
+          ]
+        },
+        {
+          "id": "naut-cocktails-pina-colada",
+          "name": {
+            "ro": "Pina Colada",
+            "en": "Pina Colada",
+            "el": "Pina Colada",
+            "de": "Pina Colada",
+            "bg": "Pina Colada",
+            "sr": "Pina Colada"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 7.5,
+          "ingredientsAsPrintedEn": [
+            "Malibu",
+            "pineapple juice",
+            "Batida de coco"
+          ]
+        },
+        {
+          "id": "naut-cocktails-margarita",
+          "name": {
+            "ro": "Margarita",
+            "en": "Margarita",
+            "el": "Margarita",
+            "de": "Margarita",
+            "bg": "Margarita",
+            "sr": "Margarita"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 7.5,
+          "ingredientsAsPrintedEn": [
+            "tequila",
+            "lime juice",
+            "Cointreau"
+          ]
+        },
+        {
+          "id": "naut-cocktails-tequila-sunrise",
+          "name": {
+            "ro": "Tequila Sunrise",
+            "en": "Tequila Sunrise",
+            "el": "Tequila Sunrise",
+            "de": "Tequila Sunrise",
+            "bg": "Tequila Sunrise",
+            "sr": "Tequila Sunrise"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 7.5,
+          "ingredientsAsPrintedEn": [
+            "tequila",
+            "orange juice",
+            "grenadine"
+          ]
+        },
+        {
+          "id": "naut-cocktails-nauticus",
+          "name": {
+            "ro": "Nauticus",
+            "en": "Nauticus",
+            "el": "Nauticus",
+            "de": "Nauticus",
+            "bg": "Nauticus",
+            "sr": "Nauticus"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 7.5,
+          "ingredientsAsPrintedEn": [
+            "Havanna",
+            "lemon juice",
+            "orange juice",
+            "Blue Curaçao"
+          ]
+        },
+        {
+          "id": "naut-cocktails-bella-dona",
+          "name": {
+            "ro": "Bella Dona",
+            "en": "Bella Dona",
+            "el": "Bella Dona",
+            "de": "Bella Dona",
+            "bg": "Bella Dona",
+            "sr": "Bella Dona"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 7.5,
+          "ingredientsAsPrintedEn": [
+            "Havanna",
+            "Disaronno",
+            "lemon juice",
+            "sugar syrup",
+            "almond syrup",
+            "cinnamon"
+          ]
+        },
+        {
+          "id": "naut-cocktails-hi-ladies",
+          "name": {
+            "ro": "Hi Ladies",
+            "en": "Hi Ladies",
+            "el": "Hi Ladies",
+            "de": "Hi Ladies",
+            "bg": "Hi Ladies",
+            "sr": "Hi Ladies"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 7.5,
+          "ingredientsAsPrintedEn": [
+            "vodka",
+            "mint",
+            "lime juice",
+            "sugar syrup"
+          ]
+        },
+        {
+          "id": "naut-cocktails-royal",
+          "name": {
+            "ro": "Royal",
+            "en": "Royal",
+            "el": "Royal",
+            "de": "Royal",
+            "bg": "Royal",
+            "sr": "Royal"
+          },
+          "historicalMenuItem": true,
+          "currentlyAvailableUnconfirmed": true,
+          "photographedPriceEUR": 7.5,
+          "ingredientsAsPrintedEn": [
+            "gin",
+            "basil",
+            "lime juice",
+            "lemonade",
+            "sugar syrup"
+          ]
+        }
+      ]
+    }
+  ],
+  "itemCount": 60,
+  "notice": {
+    "ro": "Meniu transcris din fotografii vechi. Prețurile și disponibilitatea nu sunt confirmate.",
+    "en": "Menu transcribed from historical photos. Prices and availability are unverified.",
+    "el": "Μενού από παλαιότερες φωτογραφίες. Τιμές και διαθεσιμότητα χωρίς επιβεβαίωση.",
+    "de": "Menü aus älteren Fotos. Preise und Verfügbarkeit sind nicht bestätigt.",
+    "bg": "Меню от по-стари снимки. Цените и наличността не са потвърдени.",
+    "sr": "Meni iz starijih fotografija. Cene i dostupnost nisu potvrđene."
+  }
+}

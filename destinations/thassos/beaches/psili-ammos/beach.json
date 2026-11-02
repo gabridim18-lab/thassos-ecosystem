@@ -1,0 +1,368 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-psili-ammos",
+  "slug": "psili-ammos",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Ψιλή Άμμος",
+    "international_name": "Psili Ammos Beach",
+    "aliases": [
+      "Psili Ammos",
+      "Psili Amos",
+      "Psili Ammos Thassos",
+      "Psili Ammos Astris",
+      "Ψιλή Άμμος Θάσος",
+      "Fine Sand Beach"
+    ],
+    "entity_scope": "Distinct sandy cove on the south coast of Thassos, in the Astris area, around 5 km southeast of Potos; between Agia Anna to the northwest and Astris coastal sections to the east.",
+    "deduplication_warning": "Do not merge with Agia Anna, Notos or Astris beaches, or with other Greek beaches named Psili Ammos on Samos, Naxos, Schinoussa and other islands. Some adjoining bar areas belong to this single beach."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south / southeast",
+    "settlements": [
+      "Astris",
+      "Potos"
+    ],
+    "lat": 40.58399,
+    "lng": 24.63074,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Psili+Ammos+Beach%2C+Thassos%2C+Greece",
+    "coordinate_source_reference": "s_mythassos",
+    "coordinate_type": "representative_beach_center_from_OSM_and_GTP_crosscheck_not_parking_or_specific_google_pin",
+    "coordinate_review_status": "40.58399,24.63074 is a mapped representative beach location independently supported by OpenStreetMap/Mapcarta and GTP; Google Maps navigation search link provided but exact Google Maps pin has not been verified independently; confirm before publication.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "very_fine_soft_pale_sand",
+    "seabed_near_shore": "mainly_fine_sand_with_rocky_edges",
+    "water_entry": "generally_gradual_on_sandy_center",
+    "nearshore_depth": "shallow_to_moderate_varies_with_position",
+    "water_clarity": "typically_clear_turquoise",
+    "wave_conditions": "weather_and_wind_dependent",
+    "exposure": "south_coast_sandy_cove",
+    "natural_shade_on_sand": "limited_some_trees_near_rocky_edges_and_operators",
+    "beach_length_m": null,
+    "length_note": "No single defensible measured shoreline length confirmed; avoid unsupported numbers.",
+    "backdrop": "Low green hills, pine vegetation, granite and rock outcrops at the margins",
+    "shoreline_type": "organized_sandy_cove_with_rocky_margins"
+  },
+  "visitor_experience": {
+    "organization": "predominantly_organized_with_possible_limited_unserviced_sections",
+    "suitable_for": [
+      "families",
+      "couples",
+      "friends",
+      "swimming",
+      "beach_socializing",
+      "music_lovers",
+      "sunbathing"
+    ],
+    "notable_for": [
+      "fine_white_sand",
+      "turquoise_water",
+      "generally_gradual_entry",
+      "lively_beach_bars",
+      "rocky_edges",
+      "popular_summer_destination"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunbathing",
+      "beach_volleyball",
+      "seasonal_water_sports",
+      "shoreline_photography",
+      "beach_bar_socializing"
+    ],
+    "estimated_crowd_peak": "often_very_busy_during_july_august_and_weekends",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "A generally gradual sandy entry is not a safety guarantee. Small children need supervision. Conditions vary with wind, boat and water-sports activity, and rocks occur near the cove margins."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true,
+      "note": "Operated by private beach businesses; availability, fees and minimum orders vary by operator and date."
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true,
+      "note": "Serviced areas predominate; privately supplied umbrellas may be subject to local space conditions."
+    },
+    "toilets": {
+      "available_in_some_sections": true,
+      "note": "Facilities are linked to local operators, not guaranteed at every access point."
+    },
+    "showers": {
+      "available_in_some_sections": true,
+      "note": "Reported by operator and travel guides; check seasonal opening."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": true,
+    "volleyball": true,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "A local guide lists seasonal lifeguards; current staffing and exact coverage were not independently confirmed.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Access from the road is relatively close but an accessible continuous route/equipment was not verified.",
+    "free_unserviced_space": null,
+    "facilities_scope": "Most described facilities belong to seasonal private beach bar/restaurant operations; none should be promised for every part of the beach or date."
+  },
+  "access_and_cost": {
+    "road_access": "coastal_paved_road_above_cove_short_downhill_access",
+    "public_transport": "regional_KTEL_bus_possible_check_current_schedule_and_stop",
+    "parking_type": "parking_area_above_beach_and_roadside_where_permitted",
+    "parking_price": null,
+    "beach_entry_fee": false,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Sun loungers and cabanas can be tied to a drink purchase or minimum consumption; rates change with bar, row and season. Verify the current terms before sitting.",
+    "best_arrival_advice": "Arrive earlier in peak season to have more choice of space and parking; expect music and crowds and consider another cove if seeking complete quiet.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Approximately 5 km by local road from Potos is consistently reported; 45 km from Limenas appears in local guides but precise routing depends on starting point."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code live weather, water temperature, crowd level or activity availability; current beach conditions come from separate live services."
+  },
+  "translations": {
+    "ro": {
+      "name": "Psili Ammos Beach",
+      "tagline": "Nisip foarte fin, apă turcoaz și atmosferă de vacanță",
+      "summary": "Pe coasta sudică a insulei Thassos, lângă Astris și la aproximativ 5 km de Potos, Psili Ammos atrage prin nisipul deschis la culoare, intrarea în general lină în apă și beach barurile animate. Este una dintre opțiunile apreciate atât pentru înot, cât și pentru o zi plină de energie la mare.",
+      "description": "Psili Ammos înseamnă „nisip fin”, iar numele descrie foarte bine acest golf de pe coasta sudică a insulei Thassos. Întinderea de nisip moale, de culoare deschisă, contrastează cu apa turcoaz și cu stâncile de la capetele plajei. În partea centrală, intrarea în mare este de regulă lină, peste un fund nisipos, ceea ce poate fi convenabil pentru familii, dar copiii trebuie supravegheați permanent. Psili Ammos este o plajă foarte populară și bine amenajată în sezon, cu șezlonguri, umbrele, baruri, muzică și posibilități de activități sportive. Atmosfera este mai degrabă socială decât retrasă, mai ales în iulie, august și în weekenduri. Există parcare în zona de deasupra golfului, însă în zilele aglomerate locurile se pot ocupa. Dacă preferi liniștea, vino dimineața devreme sau alege o altă plajă în a doua parte a zilei. Facilitățile și condițiile de consum diferă între operatori și se pot schimba de la un sezon la altul.",
+      "practical_tips": "Parcarea se află în partea superioară a plajei și poate deveni aglomerată în plin sezon. Întreabă înainte de ocuparea unui șezlong dacă este necesară consumație minimă și care sunt condițiile. Dușurile și toaletele sunt asociate anumitor operatori, nu întregului golf. În apropierea marginilor stâncoase fii atent la pietre și la schimbarea adâncimii. Nu conta pe o atmosferă liniștită în mijlocul zilei în iulie și august.",
+      "highlights": [
+        "Nisip deosebit de fin și deschis la culoare",
+        "Apă turcoaz și intrare în general lină",
+        "Beach baruri și muzică în sezon",
+        "Facilități pentru o zi întreagă la plajă",
+        "Peisaj cu stânci și vegetație la marginea golfului"
+      ],
+      "seo_title": "Psili Ammos Thassos – nisip fin, acces și facilități",
+      "seo_description": "Ghid Psili Ammos Beach, Thassos: nisip fin, intrare lină în apă, beach baruri, parcare, facilități sezoniere și sfaturi utile pentru vizită.",
+      "social_caption": "🏖️ Psili Ammos, Thassos: nisip incredibil de fin, nuanțe turcoaz și o atmosferă de vacanță care prinde viață vara. 🌊 O alegere excelentă pentru cei care iubesc plajele animate! 🇬🇷 #Thassos #PsiliAmmos #ExploreGreece",
+      "photo_alt": "Plaja nisipoasă Psili Ammos din sudul insulei Thassos, cu apă turcoaz și umbrele de plajă."
+    },
+    "en": {
+      "name": "Psili Ammos Beach",
+      "tagline": "Powder-soft sand, turquoise water and a lively seaside mood",
+      "summary": "On the southern coast of Thassos, near Astris and roughly 5 km from Potos, Psili Ammos is known for its exceptionally fine pale sand, generally gentle entry into the sea and lively beach bars. It suits visitors looking to combine swimming with a sociable summer atmosphere.",
+      "description": "Psili Ammos translates as “fine sand”, an apt name for this attractive cove on the south coast of Thassos. Soft, light-coloured sand meets clear turquoise water, with rocky edges and greenery adding contrast to the scenery. In the central section, the seabed is largely sandy and the entry into the sea is usually gentle, which many families appreciate, though children always need close supervision. During the summer season, Psili Ammos is an energetic, predominantly organised beach with loungers, umbrellas, places to eat and drink, music and occasional sports activities. It is a place to enjoy the buzz rather than expect solitude, particularly in July, August and on busy weekends. Parking is available in the area above the beach, but spaces can fill quickly. If you prefer more room to settle in, arrive in the morning. Prices and conditions for loungers, cabanas and other operator-run services should always be checked on arrival, as they can differ between businesses and across the season.",
+      "practical_tips": "The parking area is above the cove and may become crowded in peak summer. Ask the operator about minimum orders before using loungers or cabanas. Toilets and showers are attached to some beach businesses rather than guaranteed across the entire shore. Be careful around rocks near the ends of the cove. Choose an early visit if you prefer a quieter atmosphere, and check swimming conditions when the wind picks up.",
+      "highlights": [
+        "Exceptionally fine, pale sand",
+        "Turquoise water with a generally gradual entry",
+        "Beach bars and a lively summer atmosphere",
+        "Seasonal facilities for a full beach day",
+        "Rock-framed views and greenery"
+      ],
+      "seo_title": "Psili Ammos Beach Thassos – access, sand and facilities",
+      "seo_description": "Visit Psili Ammos Beach in Thassos: soft sand, turquoise shallows, beach bars, parking, seasonal amenities and practical tips for your beach day.",
+      "social_caption": "🏖️ Psili Ammos, Thassos: silky sand, sparkling turquoise water and summer beach-bar energy. 🌊 Save this south-coast favourite for your next Greek island escape! 🇬🇷 #Thassos #PsiliAmmos #GreeceTravel",
+      "photo_alt": "Psili Ammos sandy cove on Thassos island, with turquoise water and seasonal parasols."
+    },
+    "el": {
+      "name": "Παραλία Ψιλή Άμμος",
+      "tagline": "Ψιλή ανοιχτόχρωμη άμμος, τιρκουάζ νερά και καλοκαιρινός παλμός",
+      "summary": "Στη νότια ακτή της Θάσου, κοντά στην Αστρίδα και περίπου 5 χλμ. από τον Ποτό, η Ψιλή Άμμος ξεχωρίζει για την πολύ λεπτή άμμο, τη συνήθως ομαλή είσοδο στη θάλασσα και τη ζωντανή ατμόσφαιρα των beach bars.",
+      "description": "Η Ψιλή Άμμος πήρε το όνομά της από το χαρακτηριστικό, πολύ λεπτό και απαλό άμμο που καλύπτει τον μικρό κόλπο στη νότια Θάσο. Η ανοιχτόχρωμη παραλία, τα γαλαζοπράσινα νερά και οι βραχώδεις άκρες δημιουργούν ένα εντυπωσιακό σκηνικό. Στο κεντρικό τμήμα, ο βυθός είναι κυρίως αμμώδης και η είσοδος στο νερό συνήθως ομαλή, κάτι που εκτιμούν οι οικογένειες, χωρίς αυτό να μειώνει την ανάγκη συνεχούς επίβλεψης των παιδιών. Το καλοκαίρι λειτουργούν οργανωμένα τμήματα με ξαπλώστρες, ομπρέλες, χώρους εστίασης, μουσική και εποχικές δραστηριότητες. Η Ψιλή Άμμος είναι δημοφιλής για τη ζωντάνια της και όχι για την απόλυτη ησυχία, ιδιαίτερα τον Ιούλιο και τον Αύγουστο. Υπάρχουν χώροι στάθμευσης πάνω από την ακτή, αλλά στις ώρες αιχμής μπορεί να γεμίσουν. Αν προτιμάτε περισσότερη άνεση, φτάστε νωρίς. Οι χρεώσεις και οι όροι χρήσης των οργανωμένων παροχών διαφέρουν ανά επιχείρηση και εποχή.",
+      "practical_tips": "Προτιμήστε πρωινή άφιξη κατά την υψηλή περίοδο. Ρωτήστε για την ελάχιστη κατανάλωση προτού χρησιμοποιήσετε ξαπλώστρες ή καμπάνες. Ντους και τουαλέτες συνδέονται με συγκεκριμένες επιχειρήσεις και δεν υπάρχουν απαραίτητα σε κάθε σημείο. Προσοχή στα βράχια στις άκρες του κόλπου και στις αλλαγές του καιρού. Αν ζητάτε ησυχία, αποφύγετε τις ώρες αιχμής.",
+      "highlights": [
+        "Εξαιρετικά λεπτή, ανοιχτόχρωμη άμμος",
+        "Γαλαζοπράσινα νερά και συνήθως ομαλή είσοδος",
+        "Beach bars και ζωντανή μουσική το καλοκαίρι",
+        "Εποχικές οργανωμένες παροχές",
+        "Βραχώδεις άκρες και πράσινο τοπίο"
+      ],
+      "seo_title": "Ψιλή Άμμος Θάσος – πρόσβαση, άμμος και παροχές",
+      "seo_description": "Ανακαλύψτε την Ψιλή Άμμο στη Θάσο: απαλή άμμος, τιρκουάζ νερά, beach bars, στάθμευση, εποχικές παροχές και χρήσιμες συμβουλές.",
+      "social_caption": "🏖️ Ψιλή Άμμος, Θάσος: απαλή άμμος, τιρκουάζ νερά και ζωντανή καλοκαιρινή διάθεση! 🌊 Κρατήστε την για την επόμενη επίσκεψή σας στο νησί. 🇬🇷 #Θάσος #ΨιλήΆμμος #Ελλάδα",
+      "photo_alt": "Η αμμώδης παραλία Ψιλή Άμμος στη Θάσο με γαλαζοπράσινα νερά και ομπρέλες."
+    },
+    "de": {
+      "name": "Psili Ammos Beach",
+      "tagline": "Feiner heller Sand, türkisfarbenes Wasser und lebhaftes Strandleben",
+      "summary": "An der Südküste von Thassos, nahe Astris und etwa fünf Kilometer von Potos entfernt, liegt Psili Ammos. Der Strand ist für außergewöhnlich feinen Sand, einen meist sanften Einstieg ins Meer und seine lebhaften Strandbars bekannt.",
+      "description": "Der Name Psili Ammos bedeutet „feiner Sand“ – und genau das ist das Markenzeichen dieser Bucht an der Südküste von Thassos. Weicher, heller Sand trifft auf türkisfarbenes Wasser, während Felsen an den Seiten und grüne Hänge das Bild abrunden. Im mittleren Abschnitt ist der Meeresboden überwiegend sandig, und das Wasser wird meist allmählich tiefer. Das ist für viele Familien angenehm, ersetzt aber keinesfalls die Aufsicht über Kinder. In der Sommersaison ist Psili Ammos ein beliebter, weitgehend bewirtschafteter Strand mit Liegen, Sonnenschirmen, Gastronomie, Musik und einzelnen Sportangeboten. Besonders im Juli, August und an Wochenenden ist die Atmosphäre lebhaft, nicht abgeschieden. Oberhalb der Bucht gibt es Parkmöglichkeiten, die bei großem Andrang schnell belegt sein können. Wer mehr Auswahl bei den Plätzen möchte, sollte früh kommen. Die Nutzung der Liegen, Cabanas und anderer Angebote unterliegt den Bedingungen der jeweiligen Betreiber, die sich während der Saison ändern können.",
+      "practical_tips": "In der Hochsaison möglichst morgens ankommen. Vor der Nutzung von Liegen oder Cabanas nach Preisen und Mindestverzehr fragen. Toiletten und Duschen gehören teilweise zu einzelnen Strandbetrieben und stehen nicht überall zur Verfügung. An den felsigen Rändern auf den Untergrund achten. Wind und Wellengang können die Badebedingungen verändern.",
+      "highlights": [
+        "Außergewöhnlich feiner, heller Sand",
+        "Türkisfarbenes Wasser und meist sanfter Einstieg",
+        "Strandbars mit sommerlicher Musik",
+        "Saisonale Liegen und Gastronomie",
+        "Felsige Buchtränder und grüne Umgebung"
+      ],
+      "seo_title": "Psili Ammos Thassos – Strand, Anfahrt und Ausstattung",
+      "seo_description": "Psili Ammos auf Thassos entdecken: feiner Sand, türkises Wasser, Strandbars, Parkmöglichkeiten, saisonale Ausstattung und Tipps für den Besuch.",
+      "social_caption": "🏖️ Psili Ammos auf Thassos: puderfeiner Sand, türkisfarbenes Meer und sommerliche Strandbar-Stimmung. 🌊 Ein Tipp für alle, die das lebendige Inselleben mögen! 🇬🇷 #Thassos #PsiliAmmos #Griechenland",
+      "photo_alt": "Sandbucht Psili Ammos auf Thassos mit türkisfarbenem Wasser und Sonnenschirmen."
+    },
+    "bg": {
+      "name": "Псили Амос (Psili Ammos)",
+      "tagline": "Много фин светъл пясък, тюркоазена вода и оживен плажен живот",
+      "summary": "На южния бряг на Тасос, близо до Астрис и на около 5 км от Потос, Псили Амос привлича с изключително фин пясък, обикновено плавно навлизане в морето и оживени плажни барове.",
+      "description": "Името Псили Амос означава „фин пясък“ и много точно описва този красив залив на южното крайбрежие на Тасос. Мекият светъл пясък се среща с тюркоазената вода, а скалите по краищата и зеленината допълват пейзажа. В централната част дъното е предимно пясъчно и навлизането във водата обикновено е плавно, което се харесва на много семейства. Децата обаче винаги трябва да бъдат под постоянно наблюдение. През лятото плажът е добре организиран, с шезлонги, чадъри, заведения, музика и сезонни спортни активности. Това е място за общуване и настроение, а не за пълно уединение, особено през юли, август и натоварените уикенди. Над плажа има места за паркиране, но в пиковите часове те може да се запълнят. За по-голям избор пристигнете рано. Цените и условията за ползване на шезлонги и други услуги се различават според обекта и периода.",
+      "practical_tips": "През високия сезон идвайте сутрин, когато паркирането е по-лесно. Попитайте за минимална консумация и цени преди да използвате шезлонг или кабана. Тоалетните и душовете са свързани с определени заведения, а не с всички участъци. Внимавайте около скалистите краища и следете вятъра и вълните. За спокойна почивка избягвайте най-натоварените часове.",
+      "highlights": [
+        "Изключително фин и светъл пясък",
+        "Тюркоазена вода и обикновено плавен вход",
+        "Плажни барове и музика през лятото",
+        "Сезонни удобства и заведения",
+        "Скалисти краища на живописния залив"
+      ],
+      "seo_title": "Псили Амос, Тасос – достъп, пясък и удобства",
+      "seo_description": "Открийте Псили Амос на Тасос: фин пясък, тюркоазена вода, плажни барове, паркинг, сезонни удобства и практични съвети.",
+      "social_caption": "🏖️ Псили Амос, Тасос: фин като пудра пясък, тюркоазена вода и истинско лятно настроение! 🌊 Добавете го към плановете си за острова. 🇬🇷 #Тасос #PsiliAmmos #Гърция",
+      "photo_alt": "Пясъчният залив Псили Амос на Тасос с тюркоазена вода и чадъри."
+    },
+    "sr": {
+      "name": "Psili Amos (Psili Ammos)",
+      "tagline": "Sitan svetao pesak, tirkizno more i živahna atmosfera",
+      "summary": "Na južnoj obali Tasosa, blizu Astrisa i oko pet kilometara od Potosa, Psili Amos poznat je po izuzetno sitnom pesku, uglavnom postepenom ulasku u more i živahnim barovima na plaži.",
+      "description": "Naziv Psili Amos znači „sitan pesak“ i dobro opisuje ovu uvalu na južnoj obali Tasosa. Mekan, svetao pesak prelazi u tirkizno more, dok stene na krajevima i zelenilo iza obale upotpunjuju prizor. U središnjem delu dno je pretežno peščano, a ulazak u vodu obično postepen, što odgovara mnogim porodicama. Deca ipak moraju uvek biti pod nadzorom. Tokom leta Psili Amos je popularna, većinom uređena plaža sa ležaljkama, suncobranima, ugostiteljskim objektima, muzikom i ponekim sportskim sadržajem. Atmosfera je društvena i živahna, naročito u julu, avgustu i vikendom, pa nije najbolji izbor za one koji traže potpunu tišinu. Iznad uvale postoje parking-mesta, ali se u špicu sezone brzo popunjavaju. Za više izbora preporučuje se raniji dolazak. Cene i uslovi za ležaljke, kabane i druge usluge razlikuju se među lokalima i mogu se menjati tokom sezone.",
+      "practical_tips": "U jeku sezone dođite ujutru radi lakšeg parkiranja. Pre korišćenja ležaljki ili kabana pitajte za minimalnu potrošnju i trenutne cene. Toaleti i tuševi pripadaju pojedinim lokalima, pa nisu zagarantovani na svakom delu plaže. Pazite na stene uz ivice uvale, pratite vetar i talase i izbegavajte udarne termine ako želite mir.",
+      "highlights": [
+        "Izuzetno sitan i svetao pesak",
+        "Tirkizna voda i uglavnom postepen ulazak",
+        "Barovi i muzika tokom leta",
+        "Sezonske ležaljke i ugostiteljska ponuda",
+        "Slikovite stene na ivicama uvale"
+      ],
+      "seo_title": "Psili Amos Tasos – plaža, prilaz i sadržaji",
+      "seo_description": "Otkrijte Psili Amos na Tasosu: sitan pesak, tirkizno more, barovi, parking, sezonski sadržaji i praktični saveti za posetu.",
+      "social_caption": "🏖️ Psili Amos, Tasos: pesak mekan kao puder, tirkizno more i prava letnja energija! 🌊 Sačuvajte ovo mesto za sledeće putovanje. 🇬🇷 #Tasos #PsiliAmmos #Grcka",
+      "photo_alt": "Peščana uvala Psili Amos na Tasosu sa tirkiznom vodom i suncobranima."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/psili-ammos/images/psili-ammos1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/psili-ammos/images/psili-ammos2.webp",
+      "destinations/thassos/beaches/psili-ammos/images/psili-ammos3.webp",
+      "destinations/thassos/beaches/psili-ammos/images/psili-ammos4.webp",
+      "destinations/thassos/beaches/psili-ammos/images/psili-ammos5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/psili-ammos/images/",
+    "suggested_asset_names": [
+      "psili-ammos1.webp",
+      "psili-ammos2.webp",
+      "psili-ammos3.webp",
+      "psili-ammos4.webp",
+      "psili-ammos5.webp"
+    ],
+    "image_policy": "Five local WebP image paths were assigned from filenames visible in the user-provided screenshot. Before publication, independently verify that every file depicts Psili Ammos Beach on Thassos (not a same-named beach on another Greek island), check image provenance and commercial reuse/transfer rights, and record required attribution, licences and derivative-work conditions. Image binaries were not supplied for inspection.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_mythassos",
+      "kind": "destination_guide_google_maps_link",
+      "title": "MyThassos — Psili Ammos Beach",
+      "url": "https://mythassos.app/en/places/%CF%88%CE%B9%CE%BB%CE%B7-%CE%B1%CE%BC%CE%BC%CE%BF%CF%82",
+      "detail": "Provides Google Maps directions link and information about 5 km from Potos, fine sand, shallow water, organized amenities and parking; destination pin coordinates not extracted/verified directly.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_gothassos",
+      "kind": "local_tourism_guide",
+      "title": "Go Thassos — Psili Ammos Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/psili-ammos-beach",
+      "detail": "Lists showers, WC, food/drink, sunbeds, volleyball, water sports, music and parking, operator-dependent.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide_updated_2026",
+      "title": "Nikana — Psili Ammos Beach (updated 12 October 2026)",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1911/psili-ammos-beach",
+      "detail": "Detailed guidance on fine sand, gradually deepening water, beach bar services, crowds, parking and variable sunbed consumption terms.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_operator",
+      "kind": "official_operator",
+      "title": "Psili Ammos beach bar — official facilities page",
+      "url": "https://psiliammos.com/beach-bar/",
+      "detail": "Operator mentions sunbeds, umbrellas, cabanas, showers, beach volleyball, beach bar and entertainment; not proof of facilities at every section.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_geo",
+      "kind": "map_geographic_geometry",
+      "title": "Mapcarta / OSM — Psili Ammos beach, way 208159694",
+      "url": "https://mapcarta.com/W208159694",
+      "detail": "Independent spatial reference for beach approx. 40.58399,24.63074; not a directly verified Google Maps place pin.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_gtp",
+      "kind": "regional_tourism_geography",
+      "title": "Greek Travel Pages — Psili Ammos Beach Thassos",
+      "url": "https://www.gtp.gr/LocPage.asp?id=72617&lng=2",
+      "detail": "Official directory coordinates expressed as 40°35′02.47″N, 24°37′50.38″E, consistent with mapped cove; these are not a parking access point.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_discover",
+      "kind": "travel_guide",
+      "title": "Discover Thassos — Psili Ammos",
+      "url": "https://www.discover-thassos.com/listing/psili-ammos-beach-thassos/",
+      "detail": "Local overview: southern coast, around 5 km from Potos, organized sandy beach, parking, seasonality.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_commons",
+      "kind": "licensed_photo_reference",
+      "title": "Wikimedia Commons — Fine Sand Beach, Thasos.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File:Fine_Sand_Beach,_Thasos.JPG",
+      "detail": "A photograph explicitly described as Psili Ammos, Thassos by author DocWoKav; CC BY-SA 4.0 license indicated on Commons file page.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm precise Psili Ammos pin in Google Maps (reference lat/lng from OSM and GTP rather than a directly extracted Maps pin); verify parking and beach entry",
+      "Verify that psili-ammos1.webp through psili-ammos5.webp actually depict Psili Ammos Beach on Thassos, confirm original photo provenance and permissions for commercial publication/transfer, and document attribution or licence and adaptation requirements, including CC BY-SA obligations if any source photographs are under that licence.",
+      "Check current seasonal status of beach bars, showers, toilets, water sports and lifeguard coverage",
+      "Confirm operator-specific minimum spending and sunbed conditions before public display",
+      "Native-speaker proofread Greek, Bulgarian, Serbian and German before public release"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Original editorial text drafted; five local WebP photo paths have been assigned, but image binaries, provenance and permissions for commercial reuse or transfer have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths were assigned based on filenames in the user-provided screenshot. The WebP files themselves are not embedded in this JSON and were not independently checked for depicted location or publication rights."
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-agapi",
+  "slug": "agapi",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": null,
+    "international_name": "Agapi Beach",
+    "aliases": [
+      "Agapi Beach Thassos",
+      "Agapi (user-selected Google Maps beach label)"
+    ],
+    "entity_scope": "The user-supplied Google Maps point at 40.66737506860977,24.51360680827061 on the west coast of Thassos, near Klisma South Wild Beach; precise shore geometry and whether the two mapped labels represent a single continuous beach require further review.",
+    "deduplication_warning": "Klisma South Wild Beach is another nearby Google Maps label according to user; never assume the two are independent geographic beaches or automatically equate them. Do not confuse with Klisma village beach farther north or Agapi Beach Resort at Ammoudara on Crete. Store one Agapi record for the user-selected location and do not create a second Klisma South Wild record without coastal-boundary review."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "west coast, south of Klisma and north of Skala Maries",
+    "settlements": [
+      "Klisma (nearby coastal area)",
+      "Skala Kallirachis (broader northern locality)",
+      "Skala Maries (southward reference)"
+    ],
+    "lat": 40.66737506860977,
+    "lng": 24.51360680827061,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.66737506860977%2C24.51360680827061",
+    "coordinate_source_reference": "s_user_google_maps_pin",
+    "coordinate_type": "user_supplied_google_maps_coordinate_not_independently_verified_cove_geometry_or_access",
+    "coordinate_review_status": "Exact coordinate provided by user for Agapi Beach. The adjacent name Klisma South Wild Beach is supported by travel sources; no independent primary-source identification of Agapi Beach as a separately bounded beach was found. Do not transfer Klisma South beach measurements to Agapi.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": null,
+    "seabed_near_shore": null,
+    "water_entry": null,
+    "nearshore_depth": null,
+    "water_clarity": null,
+    "wave_conditions": null,
+    "exposure": "west-facing coastal setting",
+    "natural_shade_on_sand": null,
+    "beach_length_m": null,
+    "length_note": "No measured beach extent established specifically for Agapi. A nearby travel directory provides dimensions for Klisma South beach only; not assigned here.",
+    "backdrop": "less-developed west Thassos coastal setting; precise terrain at user pin requires photographic/site confirmation",
+    "shoreline_type": "west_coast_beach_point_exact_limits_unverified"
+  },
+  "visitor_experience": {
+    "organization": "not_verified_for_exact_agapi_point",
+    "suitable_for": [
+      "independent_coastal_exploration_after_access_verification",
+      "visitors_interested_in_quieter_west_coast_places"
+    ],
+    "notable_for": [
+      "agapi_beach_google_maps_label_user_reported",
+      "west_thassos_klisma_area",
+      "near_klisma_south_wild_beach"
+    ],
+    "activities_possible": [
+      "coastal_photography_after_access_check",
+      "swimming_only_if_on_site_conditions_permit"
+    ],
+    "estimated_crowd_peak": null,
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Exact public land access, water entry, lifeguard service, seabed and parking at the Agapi map point are not independently confirmed. Nearby Klisma South Wild Beach descriptions mention a short steep descent, but do not imply that route is safe or connects to Agapi. Watch for rocks, slippery ground and sea conditions; supervise children."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": null,
+      "seasonal": null
+    },
+    "umbrellas": {
+      "available_in_some_sections": null,
+      "seasonal": null
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "No independent confirmation for precise Agapi Beach point."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "No independent confirmation for precise Agapi Beach point."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": null,
+    "tavernas_restaurants_nearby": null,
+    "cafes_nearby": null,
+    "parking_nearby": null,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": null,
+    "lifeguard": null,
+    "lifeguard_note": "Lifeguard presence not confirmed.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "A step-free accessible route is not documented for this point.",
+    "free_unserviced_space": null,
+    "facilities_scope": "Do not transfer amenities or lack of amenities from neighbouring Klisma South Wild Beach without checking the actual shoreline section."
+  },
+  "access_and_cost": {
+    "road_access": null,
+    "public_transport": null,
+    "parking_type": null,
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "No current rental service or fee independently confirmed for this point.",
+    "best_arrival_advice": "Navigate by the user-supplied GPS coordinates and review aerial imagery and approach before driving. Do not assume roadside parking or a safe path. Bring water, sun protection and suitable footwear; verify beach access on site.",
+    "distance_from_limenas_km": null,
+    "distance_note": "No independently verified driving or pedestrian endpoint from Limenas."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Weather, sea temperature and conditions require real-time APIs; do not hard-code them."
+  },
+  "translations": {
+    "ro": {
+      "name": "Agapi Beach",
+      "tagline": "O oprire discretă pe coasta vestică a insulei Thassos",
+      "summary": "Agapi Beach este o locație de pe țărmul vestic al insulei Thassos, în zona de coastă Klisma, identificată pe hartă la coordonatele 40.667375, 24.513607. În apropiere este marcată și Klisma South Wild Beach; delimitarea dintre cele două denumiri necesită verificare.",
+      "description": "Pe partea vestică a insulei Thassos, la sud de zona Klisma și la nord de Skala Maries, țărmul este mai puțin urbanizat decât în jurul stațiunilor principale. Agapi Beach este denumirea aleasă pentru punctul geografic 40.667375, 24.513607, identificat pe Google Maps. În imediata vecinătate este marcată Klisma South Wild Beach, o porțiune de coastă prezentată în ghidurile de călătorie ca plajă naturală, cu pietricele și amenajări puține sau inexistente. Nu este însă confirmat că toate descrierile despre Klisma South se aplică exact punctului Agapi sau că cele două etichete delimitează două plaje geografice independente. De aceea, această fișă păstrează identitatea Agapi Beach fără a atribui automat facilități, caracteristici ale fundului mării, lungimi de țărm sau un traseu de acces neverificat. Este o locație care merită identificată atent pe hartă înainte de vizită, mai ales pentru cei interesați de porțiuni mai retrase ale coastei vestice.",
+      "practical_tips": "Pentru navigație folosește coordonatele exacte, nu doar numele Agapi Beach, care poate fi confundat cu o proprietate turistică din Creta. Nu presupune că există intrare directă cu mașina sau potecă sigură: pentru sectorul vecin Klisma South Wild sunt descrise coborâri dinspre șosea, dar accesul exact la Agapi nu a fost verificat. Ia apă, încălțăminte potrivită și protecție solară. Nu conta pe salvamar, toalete sau șezlonguri fără confirmare locală.",
+      "highlights": [
+        "Punct GPS identificat pe coasta vestică",
+        "În zona Klisma, la nord de Skala Maries",
+        "În vecinătatea Klisma South Wild Beach",
+        "Nume păstrat pentru identificarea din Google Maps",
+        "Delimitarea și accesul necesită verificare"
+      ],
+      "seo_title": "Agapi Beach Thassos – localizare în zona Klisma",
+      "seo_description": "Agapi Beach, pe coasta vestică a insulei Thassos: coordonate GPS, vecinătatea Klisma South Wild Beach și sfaturi pentru identificare și acces.",
+      "social_caption": "🌊 Agapi Beach, Thassos — un punct de coastă din zona Klisma, departe de plajele mari ale insulei. 📍 Verifică traseul și condițiile de acces înainte de vizită. #Thassos #AgapiBeach",
+      "photo_alt": "Coasta vestică a insulei Thassos în zona punctului Agapi Beach; fotografia necesită verificarea corespondenței cu coordonatele exacte."
+    },
+    "en": {
+      "name": "Agapi Beach",
+      "tagline": "A low-key coastal stop on the western side of Thassos",
+      "summary": "Agapi Beach is a mapped coastal location on western Thassos near Klisma, identified at 40.667375, 24.513607. Klisma South Wild Beach is marked nearby; the exact boundary between the two labels has not yet been independently established.",
+      "description": "Along the western coast of Thassos, south of the Klisma area and north of Skala Maries, the shoreline is less developed than the island’s larger resort beaches. Agapi Beach is the selected name for the user-identified Google Maps point at 40.667375, 24.513607. Nearby, Klisma South Wild Beach is documented by travel guides as a largely natural pebble shoreline with few or no services. However, it is not established that every description of the Klisma South stretch applies to this precise Agapi pin or that the adjacent map labels define two geographically independent beaches. This record therefore preserves the name Agapi Beach without assigning unverified seabed conditions, shoreline dimensions, visitor amenities or a particular access route. Its position makes it relevant to travellers looking into the quieter west-coast shoreline, but the precise approach and beach extent should be established before a visit.",
+      "practical_tips": "Use the exact GPS coordinates instead of relying solely on the name Agapi Beach; the similar name of a resort on Crete causes unrelated search results. Do not assume that a car can reach the water or that there is a safe public path. Nearby Klisma South Wild Beach is described as requiring a descent from the road, but this route has not been verified for the Agapi pin. Bring water, suitable footwear and sun protection, and do not assume toilets, loungers or lifeguards are available.",
+      "highlights": [
+        "User-identified west-coast GPS point",
+        "Klisma area north of Skala Maries",
+        "Near Klisma South Wild Beach",
+        "Agapi Beach retained as the map-based name",
+        "Exact boundaries and access still require review"
+      ],
+      "seo_title": "Agapi Beach Thassos – Klisma coast location and access",
+      "seo_description": "Locate Agapi Beach on western Thassos near Klisma, with GPS coordinates, its relationship to Klisma South Wild Beach and access guidance.",
+      "social_caption": "🌊 Agapi Beach, Thassos — a quieter coastal point around Klisma, away from the island’s major resort strips. 📍 Check the route before visiting. #Thassos #AgapiBeach",
+      "photo_alt": "Western Thassos coastline around the Agapi Beach map point; confirm that any image depicts the precise coordinates."
+    },
+    "el": {
+      "name": "Agapi Beach",
+      "tagline": "Ένα ήσυχο παράκτιο σημείο στη δυτική πλευρά της Θάσου",
+      "summary": "Το Agapi Beach είναι μια τοποθεσία στη δυτική ακτή της Θάσου, στην περιοχή του Κλίσματος, στις συντεταγμένες 40.667375, 24.513607. Κοντά εμφανίζεται και το Klisma South Wild Beach, αλλά τα ακριβή όρια των δύο ονομασιών δεν έχουν επιβεβαιωθεί.",
+      "description": "Στη δυτική ακτή της Θάσου, νότια από την περιοχή Κλίσμα και βόρεια από τη Σκάλα Μαριών, υπάρχουν τμήματα ακτογραμμής λιγότερο ανεπτυγμένα τουριστικά από τις μεγάλες οργανωμένες παραλίες. Η ονομασία Agapi Beach χρησιμοποιείται εδώ για το σημείο 40.667375, 24.513607 που εντοπίστηκε στον χάρτη. Σε μικρή απόσταση καταγράφεται και η Klisma South Wild Beach, η οποία περιγράφεται σε ταξιδιωτικούς οδηγούς ως φυσική ακτή με βότσαλα και ελάχιστες ή καθόλου παροχές. Δεν έχει όμως αποδειχθεί ότι οι περιγραφές αυτού του γειτονικού τμήματος ισχύουν ακριβώς για το σημείο Agapi ή ότι οι δύο ονομασίες αντιστοιχούν σε ανεξάρτητες γεωγραφικά παραλίες. Για τον λόγο αυτό η καταχώριση διατηρεί την ονομασία Agapi Beach, χωρίς να αποδίδει μη επαληθευμένα χαρακτηριστικά βυθού, μήκος ακτής, εγκαταστάσεις ή συγκεκριμένη διαδρομή πρόσβασης. Πριν από την επίσκεψη χρειάζεται να ελεγχθεί προσεκτικά το ακριβές σημείο και ο ασφαλής τρόπος προσέγγισης.",
+      "practical_tips": "Για πλοήγηση χρησιμοποιήστε τις ακριβείς συντεταγμένες και όχι μόνο την ονομασία Agapi Beach, η οποία εμφανίζεται και για διαφορετικό θέρετρο στην Κρήτη. Μην θεωρείτε δεδομένη την πρόσβαση με αυτοκίνητο ή την ύπαρξη ασφαλούς μονοπατιού. Για τη γειτονική Klisma South Wild Beach αναφέρεται κατάβαση από τον δρόμο, αλλά η διαδρομή προς το συγκεκριμένο σημείο Agapi δεν έχει επαληθευτεί. Πάρτε νερό, κατάλληλα παπούτσια και αντηλιακή προστασία. Δεν έχουν επιβεβαιωθεί τουαλέτες, ξαπλώστρες ή ναυαγοσώστης.",
+      "highlights": [
+        "Συγκεκριμένες συντεταγμένες στη δυτική ακτή",
+        "Περιοχή Κλίσμα, βόρεια της Σκάλας Μαριών",
+        "Κοντά στην Klisma South Wild Beach",
+        "Διατηρείται η ονομασία Agapi Beach του χάρτη",
+        "Εκκρεμεί επιβεβαίωση ορίων και πρόσβασης"
+      ],
+      "seo_title": "Agapi Beach Θάσος – τοποθεσία στην περιοχή Κλίσμα",
+      "seo_description": "Το Agapi Beach στη δυτική Θάσο, κοντά στο Κλίσμα: συντεταγμένες GPS, γειτονική Klisma South Wild Beach και πληροφορίες πρόσβασης.",
+      "social_caption": "🌊 Agapi Beach, Θάσος — ένα παράκτιο σημείο στην περιοχή Κλίσμα, μακριά από τις μεγάλες οργανωμένες παραλίες. 📍 Ελέγξτε την πρόσβαση πριν πάτε. #Θάσος #AgapiBeach",
+      "photo_alt": "Η δυτική ακτή της Θάσου κοντά στο σημείο Agapi Beach· η φωτογραφία πρέπει να ταυτοποιηθεί με τις ακριβείς συντεταγμένες."
+    },
+    "de": {
+      "name": "Agapi Beach",
+      "tagline": "Ein ruhiger Küstenpunkt an der Westseite von Thassos",
+      "summary": "Agapi Beach bezeichnet einen Kartenpunkt an der Westküste von Thassos bei Klisma mit den Koordinaten 40.667375, 24.513607. Klisma South Wild Beach liegt laut Karte in der Nähe; die genaue Abgrenzung der beiden Namen ist noch nicht unabhängig bestätigt.",
+      "description": "An der Westküste von Thassos, südlich des Gebiets Klisma und nördlich von Skala Maries, gibt es weniger erschlossene Küstenabschnitte abseits der großen Ferienstrände. Agapi Beach ist hier die gewählte Bezeichnung für den auf Google Maps identifizierten Punkt 40.667375, 24.513607. In der Nähe ist auch Klisma South Wild Beach verzeichnet, ein Küstenabschnitt, der in Reiseberichten als weitgehend naturbelassener Kiesstrand mit wenigen oder keinen Einrichtungen beschrieben wird. Ob diese Eigenschaften genau für den Agapi-Punkt gelten und ob beide Kartenbezeichnungen wirklich eigenständige geografische Strände meinen, ist jedoch nicht ausreichend belegt. Daher enthält dieser Datensatz keine ungesicherten Aussagen zur Bodenbeschaffenheit, Strandlänge, Ausstattung oder konkreten Anfahrt. Wer die ruhigeren Küstenstellen im Westen erkunden möchte, sollte zunächst die genaue Lage und einen sicheren Zugang klären.",
+      "practical_tips": "Zur Navigation die exakten Koordinaten verwenden, da der Name Agapi Beach auch Suchtreffer zu einer Hotelanlage auf Kreta liefert. Eine Zufahrt bis ans Wasser und ein sicherer öffentlicher Fußweg sind nicht bestätigt. Für die benachbarte Klisma South Wild Beach wird ein Abstieg von der Straße beschrieben, der nicht automatisch zum Agapi-Punkt führt. Wasser, feste Schuhe und Sonnenschutz mitnehmen; Toiletten, Liegen und Rettungsschwimmer sind nicht nachgewiesen.",
+      "highlights": [
+        "GPS-Punkt an der Westküste von Thassos",
+        "Klisma-Gebiet nördlich von Skala Maries",
+        "In der Nähe von Klisma South Wild Beach",
+        "Kartenname Agapi Beach bleibt erhalten",
+        "Grenzen und Zugang müssen geprüft werden"
+      ],
+      "seo_title": "Agapi Beach Thassos – Lage bei Klisma",
+      "seo_description": "Agapi Beach bei Klisma auf Thassos: GPS-Punkt, die benachbarte Klisma South Wild Beach und Hinweise zur ungeprüften Zugänglichkeit.",
+      "social_caption": "🌊 Agapi Beach auf Thassos — ein Küstenpunkt bei Klisma abseits der großen Strandgebiete. 📍 Prüft den Zugang vor dem Besuch. #Thassos #AgapiBeach",
+      "photo_alt": "Westküste von Thassos rund um den Punkt Agapi Beach; die genaue Fotoposition ist noch abzugleichen."
+    },
+    "bg": {
+      "name": "Agapi Beach",
+      "tagline": "Спокойна крайбрежна точка по западния бряг на Тасос",
+      "summary": "Agapi Beach е място, отбелязано на западния бряг на Тасос край Клисма, с координати 40.667375, 24.513607. Близо до него е Klisma South Wild Beach, но точните граници на двете названия още не са потвърдени.",
+      "description": "По западното крайбрежие на Тасос, южно от района Клисма и северно от Скала Мариес, се намират по-слабо застроени участъци далеч от големите курортни плажове. Тук названието Agapi Beach се използва за посочената в Google Maps точка 40.667375, 24.513607. Наблизо е обозначен и Klisma South Wild Beach, който се описва в туристически материали като естествен каменист плаж с малко или без удобства. Не е установено обаче дали тези характеристики важат точно за точката Agapi и дали двете съседни обозначения са отделни географски плажове. Затова в профила не се посочват като сигурни съставът на брега, дължината на плажа, услугите или конкретен маршрут. Мястото може да представлява интерес за посетители, които търсят по-тихи участъци от западния бряг, но преди пътуване е необходимо да се уточнят точният участък и безопасният достъп.",
+      "practical_tips": "Използвайте точните GPS координати, а не само името Agapi Beach, което води и до резултати за курорт в Крит. Не приемайте, че има път до водата или безопасна обществена пътека. За съседния Klisma South Wild Beach се описва слизане от шосето, но този подход не е проверен за Agapi. Носете вода, стабилни обувки и слънцезащита. Тоалетни, шезлонги и спасител не са потвърдени.",
+      "highlights": [
+        "Посочена GPS точка на западния бряг",
+        "Район Клисма северно от Скала Мариес",
+        "В близост до Klisma South Wild Beach",
+        "Запазено име Agapi Beach от картата",
+        "Границите и достъпът се нуждаят от проверка"
+      ],
+      "seo_title": "Agapi Beach Тасос – местоположение край Клисма",
+      "seo_description": "Agapi Beach на западния бряг на Тасос: координати близо до Клисма, съседство с Klisma South Wild Beach и съвети за достъп.",
+      "social_caption": "🌊 Agapi Beach, Тасос — крайбрежна точка в района Клисма, извън големите курорти. 📍 Проверете достъпа преди посещение. #Тасос #AgapiBeach",
+      "photo_alt": "Западният бряг на Тасос край точката Agapi Beach; снимката трябва да се съпостави с точните координати."
+    },
+    "sr": {
+      "name": "Agapi Beach",
+      "tagline": "Mirniji deo zapadne obale Tasosa",
+      "summary": "Agapi Beach je tačka na zapadnoj obali Tasosa kod oblasti Klisma, sa koordinatama 40.667375, 24.513607. U blizini je obeležena i Klisma South Wild Beach; precizna granica između tih naziva nije nezavisno potvrđena.",
+      "description": "Na zapadnoj obali Tasosa, južno od oblasti Klisma i severno od Skala Marijesa, nalaze se delovi obale manje razvijeni od poznatih turističkih plaža. Agapi Beach je odabrano ime za tačku 40.667375, 24.513607 koju je korisnik pronašao na Google mapama. U neposrednoj blizini označena je Klisma South Wild Beach, koju vodiči opisuju kao pretežno prirodnu obalu sa oblucima i malo ili nimalo uređenih sadržaja. Ipak, nije potvrđeno da opis susednog dela važi baš za tačku Agapi niti da su oba naziva dve samostalne geografske plaže. Zbog toga ovaj zapis ne navodi kao proverene vrstu podloge, dužinu plaže, sadržaje ili tačan pristupni put. Ova lokacija može biti zanimljiva putnicima koji istražuju manje posećene delove zapadne obale, ali je pre dolaska potrebno proveriti tačno mesto i bezbedan način prilaska.",
+      "practical_tips": "Za navigaciju koristite navedene koordinate, ne samo naziv Agapi Beach, koji može dati rezultate za hotelski kompleks na Kritu. Ne pretpostavljajte da do vode vodi put za automobile ili bezbedna javna staza. Za obližnju Klisma South Wild Beach opisan je silazak sa puta, ali taj prilaz nije potvrđen za Agapi. Ponesite vodu, čvrstu obuću i zaštitu od sunca. Toaleti, ležaljke i spasilac nisu potvrđeni.",
+      "highlights": [
+        "Tačna GPS tačka na zapadnoj obali",
+        "Oblast Klisma severno od Skala Marijesa",
+        "Blizina Klisma South Wild Beach",
+        "Zadržano ime Agapi Beach sa mape",
+        "Granice i pristup zahtevaju proveru"
+      ],
+      "seo_title": "Agapi Beach Tasos – lokacija u oblasti Klisma",
+      "seo_description": "Agapi Beach na zapadnoj obali Tasosa: GPS koordinate blizu Klisme, odnos prema Klisma South Wild Beach i korisni saveti za prilaz.",
+      "social_caption": "🌊 Agapi Beach, Tasos — malo poznata tačka na obali u oblasti Klisma, van velikih letovališta. 📍 Proverite prilaz pre posete. #Tasos #AgapiBeach",
+      "photo_alt": "Zapadna obala Tasosa u blizini tačke Agapi Beach; potrebno je potvrditi da fotografija prikazuje tačnu lokaciju."
+    }
+  },
+  "media": {
+    "cover": null,
+    "gallery": [],
+    "expected_folder": "destinations/thassos/beaches/agapi/images/",
+    "suggested_asset_names": [
+      "agapi1.webp",
+      "agapi2.webp",
+      "agapi3.webp",
+      "agapi4.webp",
+      "agapi5.webp"
+    ],
+    "image_policy": "Only user-approved original photographs that demonstrably depict this exact location. File agapi1.webp becomes cover and subsequent numbered files gallery in numerical order after present on disk. Do not add third-party image candidates.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_user_google_maps_pin",
+      "kind": "user_supplied_map_point",
+      "title": "Agapi Beach — location identified by user in Google Maps",
+      "url": "https://www.google.com/maps/search/?api=1&query=40.66737506860977%2C24.51360680827061",
+      "detail": "Coordinates 40.66737506860977,24.51360680827061 and name Agapi Beach supplied by user. User reports nearby Klisma South Wild Beach as an adjacent map label. Not independent verification of physical boundary or exact public access.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_klisma_wild_blog",
+      "kind": "independent_travel_report_neighbour_context",
+      "title": "Secluded Time — Klisma South Wild Beach, Thassos",
+      "url": "https://secludedtime.com/laender/griechenland/reisetipps/thassos/klisma-south-wild-beach/",
+      "detail": "Describes nearby Klisma South Wild Beach as long, relatively undeveloped coast with mixed pebble/sand and a short steep trail from road. No claim of being the exact Agapi point.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_klisma_south_directory",
+      "kind": "beach_directory_neighbour_context",
+      "title": "Beaches Searcher — Klisma South Beach",
+      "url": "https://beaches-searcher.com/en/beach/300207112/klisma-south-beach",
+      "detail": "Lists another location named Klisma South Beach and its natural setting and minimal amenities. Dimensions and site-specific details must NOT be transferred to Agapi without location match.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_klisma_osm",
+      "kind": "open_geodata_neighbour_context",
+      "title": "Mapcarta / OpenStreetMap — Κλίσμα beach polygon",
+      "url": "https://mapcarta.com/W725324404",
+      "detail": "Mapped Klisma beach at around 40.67478,24.51753, north of user point; confirms wider coastal naming and avoids confusion with southern Agapi point. Not the Agapi geometry.",
+      "checked_on": "2026-10-24"
+    },
+    {
+      "id": "s_klisma_area_greek_guide",
+      "kind": "regional_travel_guide_neighbour_context",
+      "title": "Greece Destination — Beaches of Thassos, Klisma",
+      "url": "https://greecedestination.gr/%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B5%CF%82-%CF%83%CF%84%CE%B7-%CE%B8%CE%AC%CF%83%CE%BF/",
+      "detail": "Describes main Klisma beach near Skala Kallirachi; separate from the southern Agapi map point and does not establish Agapi facilities.",
+      "checked_on": "2026-10-24"
+    }
+  ],
+  "editorial": {
+    "status": "confirmed_user_identified_map_point_pending_boundary_access_and_images_review",
+    "facts_checked_on": "2026-10-24",
+    "translations_written_on": "2026-10-24",
+    "coverage": "full_initial_profile_six_languages_with_unknown_site_specific_details_flagged",
+    "requires_manual_review": [
+      "Confirm exact physical limits of the user-supplied Agapi Beach coordinate and whether it is part of the same continuous beach as the adjacent Klisma South Wild Beach label; do not double-count.",
+      "Verify the actual GPS point is on a swimmable shoreline and identify any safe legally usable public road/path and parking.",
+      "Confirm beach material, nearshore seabed, hazards, crowding, shade, public amenities, accessibility and lifeguard coverage at the exact point.",
+      "Inspect user-owned original photos and map them only when existing, with agapi1.webp as cover and agapi2.webp onward as gallery.",
+      "Check whether local Greek names the location Agapi; do not invent Αγάπη as an official name.",
+      "Native proofreading of six translation variants before production."
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "New original editorial text, no photograph assets imported. Only user-owned originals can be attached when supplied.",
+    "photo_source_disclaimer": "No third-party photos or candidate photos; no gallery or cover until Agapi source images provided."
+  }
+}

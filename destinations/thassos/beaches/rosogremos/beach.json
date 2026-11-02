@@ -1,0 +1,362 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-rosogremos",
+  "slug": "rosogremos",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Ρωσογκρεμός",
+    "international_name": "Rosogremos Beach",
+    "aliases": [
+      "Roso Gremos",
+      "Rosso Gremos",
+      "Rossogremos",
+      "Rosogkremos",
+      "Rosonkremos Beach",
+      "Ρωσογκρεμός"
+    ],
+    "entity_scope": "Individual sandy cove east of Potos, adjacent to but geographically separate from Notos Beach; resort-managed and non-resort sections share the same cove.",
+    "deduplication_warning": "Rosonkremos, Rosogremos and Roso Gremos refer to this same beach. Do not merge with neighbouring Notos (South Beach), San Antonio or Potos Beach."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "south",
+    "settlements": [
+      "Potos",
+      "Astris area"
+    ],
+    "lat": null,
+    "lng": null,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rosonkremos%20Beach%2C%20Thassos%2C%20Greece",
+    "coordinate_source_reference": null,
+    "coordinate_type": "google_maps_beach_pin_pending_verification",
+    "coordinate_review_status": "Google Maps pin not independently confirmed; external indicative coordinates in source_refs must not be published as verified navigation",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "fine_sand_with_some_pebbles",
+    "seabed_near_shore": "sandy_areas_with_local_rocks_and_rock_shelves",
+    "water_entry": "generally_gradual_on_sandy_sections",
+    "nearshore_depth": "usually_shallow_in_sandy_sections_but_variable",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "wind_dependent",
+    "exposure": "south_facing_small_bay",
+    "natural_shade_on_sand": "partial_near_edges",
+    "beach_length_m": null,
+    "length_note": "Sources give varying beach lengths (about 200 to 270 m); leave unset until coastline boundary is defined.",
+    "backdrop": "Pines, shrubs and low green hills",
+    "shoreline_type": "small_sandy_cove_with_rocky_edges"
+  },
+  "visitor_experience": {
+    "organization": "mixed_resort_serviced_and_other_sections",
+    "suitable_for": [
+      "families_with_supervision",
+      "couples",
+      "relaxation",
+      "swimming",
+      "quiet_day"
+    ],
+    "notable_for": [
+      "sandy_shore",
+      "clear_water",
+      "pine_backdrop",
+      "mixed_resort_and_public_use",
+      "neighbouring_notos"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunbathing",
+      "relaxed_beach_day",
+      "coastal_photography"
+    ],
+    "estimated_crowd_peak": "generally_quieter_than_central_potos_but_seasonal_variation",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Some sea-entry sections contain stones and rock shelves; depth can increase differently across the cove. Supervise children and assess wind and waves."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Resort toilets may be guest-only; general public access not established."
+    },
+    "showers": {
+      "available_in_some_sections": null,
+      "note": "Resort showers may not be available to non-guests."
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": null,
+    "cafes_nearby": null,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No current operator-specific lifeguard service confirmed.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "No independently verified accessible route or assistance equipment.",
+    "free_unserviced_space": true,
+    "facilities_scope": "Hotel-managed equipment and amenities are not necessarily available to non-guests; seasonal operations vary."
+  },
+  "access_and_cost": {
+    "road_access": "coastal_road_from_potos_with_local_vehicle_or_pedestrian_approach",
+    "public_transport": "not_verified",
+    "parking_type": "small_local_parking_or_roadside_subject_to_rules",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Ask the applicable operator about prices, hotel-guest restrictions and minimum consumption; no fixed current rate confirmed.",
+    "best_arrival_advice": "Arrive earlier in peak summer to improve parking options and choose a sandy entry point.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Approx. 2 km east of Potos in local guides; driving distances depend on route and access point."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": "s_blueflag_2026"
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Do not hard-code weather, sea temperature, UV, waves or availability into editorial beach records."
+  },
+  "translations": {
+    "ro": {
+      "name": "Rosogremos Beach (Roso Gremos)",
+      "tagline": "Un golf nisipos, cu pini și apă limpede, aproape de Potos",
+      "summary": "La est de Potos, Rosogremos este un golf de dimensiuni moderate, cu nisip, porțiuni pietroase și vegetație care oferă umbră pe margini. Combinația dintre zonele amenajate și spațiile pentru prosoape îl face atrăgător pentru o zi mai liniștită la mare.",
+      "description": "Rosogremos se ascunde într-un golf de pe coasta sudică a insulei Thassos, la câțiva kilometri est de Potos, înainte de mica plajă Notos. Nisipul deschis la culoare, apa adesea foarte limpede și versanții acoperiți de vegetație îi dau un aer intim, diferit de agitația din centrul stațiunii. Plaja are sectoare nisipoase, dar și zone cu pietre ori plăci stâncoase la intrarea în apă, așa că merită să alegi cu grijă locul de înot. În zona cu nisip, intrarea în mare este de regulă lină; adâncimea poate crește diferit de la un punct la altul. O parte a țărmului este amenajată în legătură cu Royal Paradise Beach Resort, unde echipamentele și serviciile pot fi rezervate oaspeților, iar alte porțiuni sunt folosite de vizitatori independenți. În sezon pot exista șezlonguri, umbrele și un punct de servire a băuturilor, dar condițiile exacte se verifică la fața locului. Pinii și vegetația din jur oferă umbră în apropierea nisipului, nu neapărat pe toată suprafața plajei. Rosogremos este o alegere frumoasă pentru relaxare și înot, cu priveliști spre stâncile care o despart de Notos.",
+      "practical_tips": "Urmează drumul de coastă dinspre Potos spre Astris și verifică în hartă accesul ales înainte de plecare. Parcarea este limitată în sezon, așa că sosirea dimineața este de preferat. Poartă încălțăminte de apă dacă intri în sectoarele cu pietre; copiii trebuie supravegheați chiar și în apa aparent mică. Întreabă înainte de a ocupa șezlongurile dacă sunt destinate oaspeților resortului și ce costuri se aplică. Nu presupune că toaletele sau dușurile hotelului sunt accesibile publicului. Nu încerca să treci înot spre Notos pe lângă stânci în condiții nefavorabile.",
+      "highlights": [
+        "Golf cu nisip și apă de obicei limpede",
+        "Zone cu intrare lină, dar și pietre sub apă",
+        "Pini și vegetație în jurul plajei",
+        "Sectoare amenajate și spații pentru echipament propriu",
+        "Aproape de mica plajă Notos"
+      ],
+      "seo_title": "Rosogremos Beach Thassos – acces, nisip și facilități",
+      "seo_description": "Ghid Rosogremos Beach, lângă Potos: nisip, zone pietroase, intrare în mare, acces, parcare, șezlonguri și recomandări practice.",
+      "social_caption": "🏖️ Rosogremos, Thassos: un golf cu nisip deschis la culoare, apă turcoaz și pini pe margine. 🌿 O alternativă relaxantă lângă Potos. Salvează plaja pentru următoarea vacanță! 🇬🇷 #Thassos #Rosogremos #Greece",
+      "photo_alt": "Vedere spre golful nisipos Rosogremos din sudul insulei Thassos, cu pini și sectoare amenajate."
+    },
+    "en": {
+      "name": "Rosogremos Beach (Roso Gremos)",
+      "tagline": "A sandy cove framed by pines and clear water near Potos",
+      "summary": "East of Potos, Rosogremos offers a sheltered-feeling sandy bay with rocky edges and greenery. Its mix of serviced beach sections and places for personal beach gear makes it appealing for a more relaxed day by the sea.",
+      "description": "Rosogremos lies in a small bay on the southern coast of Thassos, a short drive east of Potos and just before the little cove of Notos. Pale sand, often clear water and green hills surrounding the shoreline give the beach a quieter feel than the busy resort centre. Much of the shore is sandy, but rocks and submerged stone shelves appear in places, so the best spot to enter the sea depends on where you settle. The entry is generally gradual along the sandier stretches, although the depth and footing can change across the bay. One section is associated with Royal Paradise Beach Resort, where certain loungers and services may be reserved for hotel guests. Other parts are used by independent visitors, and seasonal operators may offer umbrellas, loungers and refreshments. Trees and shrubs around the cove provide welcome patches of shade, although they do not cover the whole beach. Rosogremos is best enjoyed at an easy pace: a swim, some time on the sand and views towards the rocky headland that separates it from nearby Notos.",
+      "practical_tips": "Approach from Potos towards Astris and confirm your chosen beach access on the map. Parking is limited in busy months, so arriving early is sensible. Water shoes are useful around the rocky entry points, and children require supervision even where the sea seems shallow. Ask before using resort-managed loungers and check any charges or minimum orders. Do not assume hotel toilets or showers are open to non-guests. Avoid attempting to swim around the rocks to Notos when conditions are uncertain.",
+      "highlights": [
+        "Soft sand and usually clear sea",
+        "Gradual entry in some sections, rocks in others",
+        "Pines and greenery around the shore",
+        "Serviced areas alongside less developed space",
+        "Close to the neighbouring Notos cove"
+      ],
+      "seo_title": "Rosogremos Beach Thassos – sand, access and facilities",
+      "seo_description": "Explore Rosogremos Beach near Potos: sandy areas, rocky entry points, access, parking, sunbeds and useful visitor advice.",
+      "social_caption": "🏖️ A calmer side of Thassos: Rosogremos pairs pale sand with turquoise water and pine-covered slopes. 🌿 Save this cove for a peaceful beach day near Potos! 🇬🇷 #Thassos #Rosogremos #GreekIslands",
+      "photo_alt": "View across sandy Rosogremos Beach in southern Thassos, with pine trees and serviced beach areas."
+    },
+    "el": {
+      "name": "Παραλία Ρωσογκρεμός (Rosogremos)",
+      "tagline": "Αμμώδης όρμος με πεύκα και καθαρά νερά κοντά στον Ποτό",
+      "summary": "Ανατολικά του Ποτού, ο Ρωσογκρεμός είναι ένας όμορφος αμμώδης όρμος με βραχώδη σημεία και πράσινο γύρω του. Διαθέτει οργανωμένα τμήματα αλλά και χώρο για όσους προτιμούν τον δικό τους εξοπλισμό.",
+      "description": "Η παραλία Ρωσογκρεμός βρίσκεται στη νότια ακτή της Θάσου, λίγα χιλιόμετρα ανατολικά του Ποτού, λίγο πριν από τη μικρή παραλία Νότος. Η ανοιχτόχρωμη άμμος, τα συνήθως διαυγή νερά και η βλάστηση στις πλαγιές δημιουργούν ένα ήρεμο παραθαλάσσιο τοπίο. Το μεγαλύτερο μέρος της ακτής είναι αμμώδες, ωστόσο σε ορισμένα σημεία υπάρχουν πέτρες και βραχώδεις πλάκες μέσα στη θάλασσα. Η είσοδος στο νερό είναι συνήθως ομαλή στα αμμώδη τμήματα, όμως ο βυθός και το βάθος αλλάζουν ανά σημείο. Ένα τμήμα εξυπηρετείται από το Royal Paradise Beach Resort, όπου ορισμένες ξαπλώστρες και υπηρεσίες μπορεί να προορίζονται μόνο για τους πελάτες του. Άλλα σημεία χρησιμοποιούνται από ανεξάρτητους επισκέπτες, ενώ το καλοκαίρι μπορεί να λειτουργούν υπηρεσίες με ομπρέλες, ξαπλώστρες και αναψυκτικά. Τα πεύκα και οι θάμνοι προσφέρουν σκιά κυρίως στα άκρα της παραλίας, όχι σε όλη την άμμο. Ο Ρωσογκρεμός προσφέρεται για κολύμπι και χαλάρωση, με ωραία θέα προς τα βράχια που τον χωρίζουν από τον Νότο.",
+      "practical_tips": "Ακολουθήστε τον παραλιακό δρόμο από τον Ποτό προς τον Αστρί και ελέγξτε εκ των προτέρων το σημείο πρόσβασης στον χάρτη. Οι θέσεις στάθμευσης μπορεί να είναι περιορισμένες το καλοκαίρι, γι’ αυτό προτιμήστε τις πρωινές ώρες. Παπούτσια θαλάσσης βοηθούν στα βραχώδη σημεία. Τα παιδιά χρειάζονται επίβλεψη ακόμη και στα ρηχά. Ρωτήστε για πιθανές χρεώσεις ή περιορισμούς χρήσης στις ξαπλώστρες του ξενοδοχείου. Μην θεωρείτε δεδομένη τη δημόσια πρόσβαση στις εγκαταστάσεις του καταλύματος και αποφύγετε το κολύμπι γύρω από τα βράχια προς τον Νότο αν οι συνθήκες δεν είναι κατάλληλες.",
+      "highlights": [
+        "Αμμώδης όρμος και συνήθως καθαρά νερά",
+        "Ομαλή είσοδος σε τμήματα και πέτρες σε άλλα",
+        "Πεύκα και πράσινο γύρω από την ακτή",
+        "Οργανωμένα και λιγότερο οργανωμένα τμήματα",
+        "Κοντά στη μικρή παραλία Νότος"
+      ],
+      "seo_title": "Ρωσογκρεμός Θάσος – πρόσβαση, άμμος και παροχές",
+      "seo_description": "Οδηγός για την παραλία Ρωσογκρεμός κοντά στον Ποτό: αμμουδιά, βραχώδη σημεία, στάθμευση, ξαπλώστρες και χρήσιμες συμβουλές.",
+      "social_caption": "🏖️ Ρωσογκρεμός, Θάσος: ανοιχτόχρωμη άμμος, γαλαζοπράσινα νερά και πεύκα γύρω από τον όρμο. 🌿 Μια όμορφη ιδέα για χαλάρωση κοντά στον Ποτό! 🇬🇷 #Θάσος #Ρωσογκρεμός #Ελλάδα",
+      "photo_alt": "Άποψη της αμμώδους παραλίας Ρωσογκρεμός στη νότια Θάσο, με πεύκα και οργανωμένα τμήματα."
+    },
+    "de": {
+      "name": "Rosogremos Beach (Roso Gremos)",
+      "tagline": "Eine Sandbucht mit Pinien und klarem Wasser nahe Potos",
+      "summary": "Östlich von Potos liegt Rosogremos, eine überschaubare Sandbucht mit felsigen Randbereichen und viel Grün. Bewirtschaftete Abschnitte und Platz für die eigene Strandausrüstung machen sie zu einem guten Ziel für einen entspannten Badetag.",
+      "description": "Rosogremos liegt an der Südküste von Thassos, wenige Kilometer östlich von Potos und kurz vor der kleinen Nachbarbucht Notos. Heller Sand, meist klares Wasser und grüne Hänge bilden eine ruhige Kulisse abseits des lebhaften Ortszentrums. Große Teile des Strandes sind sandig, an manchen Stellen liegen jedoch Steine und felsige Platten im Wasser. In den sandigen Bereichen fällt das Ufer häufig sanft ab; Tiefe und Untergrund können sich innerhalb der Bucht ändern. Ein Abschnitt wird im Zusammenhang mit dem Royal Paradise Beach Resort bewirtschaftet. Dort können bestimmte Liegen und Dienstleistungen Hotelgästen vorbehalten sein. Andere Strandbereiche werden auch von unabhängigen Besuchern genutzt. Während der Saison können Sonnenschirme, Liegen und Getränke angeboten werden, doch die genauen Bedingungen hängen vom jeweiligen Betreiber ab. Pinien und Sträucher spenden am Rand etwas natürlichen Schatten, nicht jedoch überall direkt auf dem Sand. Wer in Ruhe schwimmen, ein Buch lesen und den Blick auf die Felsen Richtung Notos genießen möchte, findet hier einen schönen Platz.",
+      "practical_tips": "Von Potos in Richtung Astris fahren und den gewünschten Zugang vor der Abfahrt auf der Karte prüfen. Parkmöglichkeiten sind in der Hochsaison begrenzt; eine frühe Ankunft lohnt sich. An den felsigen Einstiegen sind Wasserschuhe hilfreich. Kinder auch in flachen Bereichen beaufsichtigen. Vor der Nutzung von Liegen nach Preisen, Mindestverzehr und möglichen Hotelregelungen fragen. Toiletten und Duschen des Resorts sind nicht automatisch für Außenstehende zugänglich. Bei unsicherem Wellengang nicht um die Felsen nach Notos schwimmen.",
+      "highlights": [
+        "Heller Sand und meist klares Wasser",
+        "Teils sanfter Einstieg, teils steiniger Untergrund",
+        "Pinien und grüne Hänge",
+        "Bewirtschaftete und freie Abschnitte",
+        "Nachbarbucht Notos in der Nähe"
+      ],
+      "seo_title": "Rosogremos Beach Thassos – Strand, Anfahrt und Ausstattung",
+      "seo_description": "Rosogremos bei Potos entdecken: Sand, Steine im Wasser, Zugang, Parken, Liegen und praktische Tipps für den Strandbesuch.",
+      "social_caption": "🏖️ Rosogremos auf Thassos: heller Sand, türkisfarbenes Wasser und Pinien am Rand der Bucht. 🌿 Ein schönes Ziel für ruhige Stunden am Meer! 🇬🇷 #Thassos #Rosogremos #Griechenland",
+      "photo_alt": "Blick auf die Sandbucht Rosogremos im Süden von Thassos mit Pinien und bewirtschafteten Strandbereichen."
+    },
+    "bg": {
+      "name": "Росогремос (Rosogremos Beach)",
+      "tagline": "Пясъчен залив с борове и чиста вода близо до Потос",
+      "summary": "Източно от Потос Росогремос предлага спокоен пясъчен залив, обграден от зеленина и скалисти участъци. Има организирани зони и места, подходящи за собствен плажен инвентар.",
+      "description": "Плажът Росогремос се намира на южния бряг на Тасос, на няколко километра източно от Потос, непосредствено преди малкия залив Нотос. Светлият пясък, обикновено прозрачната вода и зелените склонове създават уютна и спокойна атмосфера. По-голямата част от брега е пясъчна, но на места във водата има камъни и скални плочи. Навлизането в морето по пясъчните участъци обикновено е плавно, въпреки че дълбочината и дъното се променят в различните части на залива. Един от участъците се обслужва във връзка с хотел Royal Paradise Beach Resort, където част от шезлонгите и услугите може да са запазени за гостите. Други зони се използват и от външни посетители, а през сезона могат да се предлагат чадъри, шезлонги и напитки. Боровете и храстите около плажа осигуряват естествена сянка най-вече по краищата, но не и върху цялата пясъчна ивица. Росогремос е подходящ за спокойна почивка, плуване и гледки към скалите, които го отделят от Нотос.",
+      "practical_tips": "Следвайте крайбрежния път от Потос към Астрис и предварително проверете избрания подход на картата. През силния сезон местата за паркиране може да са ограничени, затова пристигайте рано. Обувки за вода са полезни в каменистите участъци. Наблюдавайте децата дори там, където е плитко. Преди да използвате шезлонгите, проверете цените и дали някои места са запазени за гостите на хотела. Не разчитайте, че хотелските душове и тоалетни са достъпни за външни посетители. Не плувайте покрай скалите към Нотос при неблагоприятни условия.",
+      "highlights": [
+        "Светъл пясък и обикновено чиста вода",
+        "Плавно влизане на места и камъни на други",
+        "Борове и зелени склонове",
+        "Организирани и свободни зони",
+        "Близо до малкия залив Нотос"
+      ],
+      "seo_title": "Росогремос, Тасос – достъп и удобства на плажа",
+      "seo_description": "Открийте Росогремос близо до Потос: пясък, камъни във водата, достъп, паркиране, шезлонги и практични съвети.",
+      "social_caption": "🏖️ Росогремос на Тасос съчетава светъл пясък, тюркоазена вода и борове около залива. 🌿 Запазете го за спокоен ден край морето! 🇬🇷 #Тасос #Rosogremos #Гърция",
+      "photo_alt": "Изглед към пясъчния залив Росогремос в южен Тасос, с борове и организирани плажни зони."
+    },
+    "sr": {
+      "name": "Roso Gremos (Rosogremos Beach)",
+      "tagline": "Peščana uvala sa borovima i bistrom vodom blizu Potosa",
+      "summary": "Istočno od Potosa, Roso Gremos je mirnija peščana uvala sa stenovitim delovima i zelenilom. Kombinacija uređenih zona i prostora za sopstvenu opremu pogodna je za opušten dan na moru.",
+      "description": "Plaža Roso Gremos nalazi se na južnoj obali Tasosa, nekoliko kilometara istočno od Potosa, neposredno pre male uvale Notos. Svetao pesak, uglavnom bistra voda i zeleni obronci stvaraju prijatan ambijent, drugačiji od prometnog centra letovališta. Veći deo obale je peščan, ali na pojedinim mestima u vodi ima kamenja i kamenih ploča. Ulazak u more je uglavnom postepen na peščanim delovima, mada se dubina i podloga razlikuju duž uvale. Jedan deo plaže povezan je sa hotelom Royal Paradise Beach Resort, gde neke ležaljke i usluge mogu biti namenjene samo hotelskim gostima. Na drugim delovima borave i posetioci koji nisu smešteni u hotelu, a tokom sezone mogu biti dostupni suncobrani, ležaljke i osveženje. Borovi i žbunje oko plaže pružaju hlad uglavnom na rubovima, ali ne prekrivaju ceo pesak. Roso Gremos je dobar izbor za kupanje, odmor i uživanje u pogledu na stene koje ga odvajaju od plaže Notos.",
+      "practical_tips": "Krenite obalskim putem od Potosa prema Astrisu i unapred proverite odgovarajući prilaz na mapi. Parking može biti ograničen leti, pa je bolje doći rano. Obuća za vodu je korisna na kamenitim mestima. Nadgledajte decu čak i u plićaku. Pre korišćenja ležaljki raspitajte se za cene i eventualna ograničenja za goste hotela. Ne podrazumevajte da su hotelski toaleti i tuševi dostupni svima. Izbegavajte plivanje oko stena do Notosa kada uslovi nisu povoljni.",
+      "highlights": [
+        "Svetao pesak i uglavnom bistra voda",
+        "Postepen ulaz na nekim mestima, kamenje na drugim",
+        "Borovi i zelenilo oko obale",
+        "Uređeni i slobodni delovi",
+        "U blizini male plaže Notos"
+      ],
+      "seo_title": "Roso Gremos Tasos – plaža, prilaz i sadržaji",
+      "seo_description": "Istražite Roso Gremos blizu Potosa: pesak, kamenje u vodi, parking, ležaljke i korisni saveti za posetioce.",
+      "social_caption": "🏖️ Roso Gremos na Tasosu: svetao pesak, tirkizna voda i borovi uz obalu. 🌿 Sačuvajte ovo mesto za miran dan na moru! 🇬🇷 #Tasos #Rosogremos #Grcka",
+      "photo_alt": "Pogled na peščanu uvalu Roso Gremos na južnom Tasosu, sa borovima i uređenim delovima plaže."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/rosogremos/images/rosogremos1.webp",
+    "gallery": [
+      "destinations/thassos/beaches/rosogremos/images/rosogremos2.webp",
+      "destinations/thassos/beaches/rosogremos/images/rosogremos3.webp",
+      "destinations/thassos/beaches/rosogremos/images/rosogremos4.webp",
+      "destinations/thassos/beaches/rosogremos/images/rosogremos5.webp"
+    ],
+    "expected_folder": "destinations/thassos/beaches/rosogremos/images/",
+    "suggested_asset_names": [
+      "rosogremos1.webp",
+      "rosogremos2.webp",
+      "rosogremos3.webp",
+      "rosogremos4.webp",
+      "rosogremos5.webp"
+    ],
+    "image_policy": "Five locally referenced WebP photographs have been assigned using filenames visible in the user-provided folder screenshot. Before publication, verify that every photo depicts Rosogremos Beach on Thassos (not adjacent Notos Beach or another cove), and document ownership, permission or licensing for commercial publication and any required attribution. Image file contents and rights have not been independently inspected.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_nikana_2026",
+      "kind": "travel_guide",
+      "title": "Nikana — Roso Gremos beach, updated June 2026",
+      "url": "https://nikana.gr/en/tourist-guide/thassos/beaches/1910/roso-gremos-beach",
+      "detail": "Sandy shore, mostly gradual sandy water entry, rock patches, access, loungers and separation of resort zone. Published access conditions may change.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_go_thassos",
+      "kind": "travel_guide",
+      "title": "Go Thassos — Rossogremos Beach",
+      "url": "https://www.go-thassos.gr/about-thassos/places/rossogremos-beach",
+      "detail": "Confirms Rosogremos name and presence of umbrellas, sunbeds and parking.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_e_thasos",
+      "kind": "travel_guide",
+      "title": "E-Thasos — Rosogremos Beach",
+      "url": "https://www.e-thasos.gr/explore/beaches/isolated-beaches/rosogremos-beach.html",
+      "detail": "Potos area, southern facing cove, sandy beach with occasional pebbles, shallow sloping entry. Length estimate treated as unverified.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_royal_official",
+      "kind": "operator_official",
+      "title": "Royal Paradise Beach Resort & Spa — About",
+      "url": "https://royalparadise.gr/about-royal-paradise/",
+      "detail": "Operator independently identifies its location by Rossogremos Bay; does not establish that all resort services are publicly available.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_notos",
+      "kind": "travel_guide",
+      "title": "Nikana — Notos Beach, updated April 2026",
+      "url": "https://ns1.nikana.gr/en/tourist-guide/thassos/beaches/1923/notos-beach",
+      "detail": "Confirms Notos is a nearby separate small beach divided from Rosogremos by rocks.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_map_names",
+      "kind": "map_name_reference",
+      "title": "TravelPlanner — Rosogremos Beach guide",
+      "url": "https://travelplanner.ro/blog/rosogremos-beach-plaja-cu-nisip-fin-din-apropiere-de-potos/",
+      "detail": "Notes alternative Google Maps name Rosonkremos; does not certify a precise navigation pin.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_location_external",
+      "kind": "unverified_geolocation_candidate",
+      "title": "WorldPlaces — Rosogremos Beach position",
+      "url": "https://greece.worldplaces.me/beaches-in-thasos/52642155-rosogremos-beach-thassos.html",
+      "detail": "Independent indicative point (40.59506, 24.61963) for research only; not verified in Google Maps and deliberately not copied into main lat/lng fields.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "id": "s_blueflag_2026",
+      "kind": "program_official",
+      "title": "Blue Flag Greece — 2026 awards",
+      "url": "https://www.blueflag.gr/el/awards/2026",
+      "detail": "The 2026 Thassos list names other beaches, not Rosogremos. No Blue Flag designation is asserted for this cove.",
+      "checked_on": "2026-10-23"
+    }
+  ],
+  "editorial": {
+    "status": "researched_images_assigned_pending_google_maps_pin_and_final_review",
+    "facts_checked_on": "2026-10-23",
+    "translations_written_on": "2026-10-23",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm exact Rosogremos/Rosonkremos Google Maps beach pin and public access point",
+      "Confirm parking availability, pricing and roadside rules",
+      "Confirm which loungers and resort facilities are available to non-guests",
+      "Verify that rosogremos1.webp–rosogremos5.webp accurately depict Rosogremos Beach (not neighbouring Notos or resort imagery outside this cove); obtain documented commercial-use/transfer rights and attribution as needed.",
+      "Review seasonal bar operation and water entry conditions",
+      "Native-speaker proofreading of all six translations before publication"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Editorial text as supplied; five local WebP image paths are assigned, but image binary files, copyright provenance and commercial reuse/transfer permissions have not been independently verified.",
+    "photo_source_disclaimer": "Five local WebP paths assigned from filenames in the screenshot; the images themselves are not embedded in this JSON. Their precise geographic match and licensing must be verified before publication."
+  }
+}

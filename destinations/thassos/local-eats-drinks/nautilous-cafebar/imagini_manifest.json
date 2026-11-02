@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "1.0.0",
+  "business": "Nautilous Cafebar",
+  "imagesFolder": "images/",
+  "files": [
+    {
+      "originalUploadedName": "Promenadă însorită la marina turcoaz.png",
+      "expectedLocalFilename": "Promenadă însorită la marina turcoaz.webp",
+      "role": "cover",
+      "galleryCategory": "harbour",
+      "order": 1,
+      "copyRequired": true
+    },
+    {
+      "originalUploadedName": "Seară la mal cu chipsuri și băuturi.png",
+      "expectedLocalFilename": "Seară la mal cu chipsuri și băuturi.webp",
+      "role": "drinks",
+      "galleryCategory": "evening",
+      "order": 2,
+      "copyRequired": true
+    },
+    {
+      "originalUploadedName": "Terasă de cafenea lângă mare.png",
+      "expectedLocalFilename": "Terasă de cafenea lângă mare.webp",
+      "role": "terrace",
+      "galleryCategory": "seating",
+      "order": 3,
+      "copyRequired": true
+    },
+    {
+      "originalUploadedName": "Fațada tropicală a Nautilus Coffee Bar.png",
+      "expectedLocalFilename": "Fațada tropicală a Nautilus Coffee Bar.webp",
+      "role": "exterior",
+      "galleryCategory": "branding",
+      "order": 4,
+      "copyRequired": true
+    },
+    {
+      "originalUploadedName": "Scenă la cafenea pe marina însorită.png",
+      "expectedLocalFilename": "Scenă la cafenea pe marina însorită.webp",
+      "role": "coffee",
+      "galleryCategory": "harbour",
+      "order": 5,
+      "copyRequired": true
+    },
+    {
+      "originalUploadedName": "Cafenea de noapte pe malul portului.png",
+      "expectedLocalFilename": "Cafenea de noapte pe malul portului.webp",
+      "role": "atmosphere",
+      "galleryCategory": "night",
+      "order": 6,
+      "copyRequired": true
+    },
+    {
+      "originalUploadedName": "Cafea cu gheață și mesaj iconic.png",
+      "expectedLocalFilename": "Cafea cu gheață și mesaj iconic.webp",
+      "role": "coffee",
+      "galleryCategory": "food-drinks",
+      "order": 7,
+      "copyRequired": true
+    },
+    {
+      "originalUploadedName": "Cappuccino cu scorțișoară la cafenea.png",
+      "expectedLocalFilename": "Cappuccino cu scorțișoară la cafenea.webp",
+      "role": "coffee",
+      "galleryCategory": "food-drinks",
+      "order": 8,
+      "copyRequired": true
+    },
+    {
+      "originalUploadedName": "Promenadă însorită la cafeneaua de pe mal.png",
+      "expectedLocalFilename": "Promenadă însorită la cafeneaua de pe mal.webp",
+      "role": "exterior",
+      "galleryCategory": "harbour",
+      "order": 9,
+      "copyRequired": true
+    },
+    {
+      "originalUploadedName": "Cocktail cu mentă la cafenea marină.png",
+      "expectedLocalFilename": "Cocktail cu mentă la cafenea marină.webp",
+      "role": "cocktails",
+      "galleryCategory": "harbour",
+      "order": 10,
+      "copyRequired": true
+    }
+  ],
+  "totalImages": 10,
+  "instruction": "Copy converted WebP files into images/ under exactly these filenames. Renaming only PNG to WebP without re-encoding does not convert the image.",
+  "notInArchive": true,
+  "sourceMenuPhotoCount": 3,
+  "menuPhotoReferencesNotAssumed": true
+}

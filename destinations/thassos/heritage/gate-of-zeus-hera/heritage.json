@@ -1,0 +1,339 @@
+{
+  "id": "gr-thassos-heritage-gate-of-zeus-hera",
+  "slug": "gate-of-zeus-hera",
+  "category": "heritage",
+  "subcategory": "ancient-gate",
+  "display_category": {
+    "ro": "Istorie & Patrimoniu",
+    "en": "History & Heritage",
+    "el": "Ιστορία & Πολιτιστική Κληρονομιά",
+    "de": "Geschichte & Kulturerbe",
+    "bg": "История и наследство",
+    "sr": "Istorija i nasleđe"
+  },
+  "name": {
+    "default": "Gate of Zeus & Hera",
+    "ro": "Poarta lui Zeus și Hera",
+    "en": "Gate of Zeus & Hera",
+    "el": "Πύλη του Διός και της Ήρας",
+    "de": "Tor des Zeus und der Hera",
+    "bg": "Портата на Зевс и Хера",
+    "sr": "Kapija Zevsa i Here"
+  },
+  "alternative_names": [
+    "Gate of Zeus and Hera"
+  ],
+  "location": {
+    "country": "Greece",
+    "region": "East Macedonia and Thrace",
+    "island": "Thassos",
+    "area_slug": "limenas",
+    "area_name": "Limenas",
+    "lat": 40.77567929175307,
+    "lng": 24.709026680358008,
+    "coordinate_role": "heritage_site_reference_point",
+    "navigation_point": null,
+    "nearby_beach_slugs": [
+      "limenas-town"
+    ],
+    "nearby_area_slugs": [
+      "limenas"
+    ]
+  },
+  "classification": {
+    "heritage_type": "ancient-gate",
+    "historical_periods": [
+      "ancient"
+    ],
+    "tags": [
+      "archaeology",
+      "history",
+      "heritage",
+      "ancient-thassos",
+      "limenas"
+    ]
+  },
+  "overview": {
+    "ro": "Gate of Zeus & Hera este un punct de interes istoric din Limenas, asociat cu patrimoniul antic al vechiului oraș Thassos. Locul este important pentru vizitatorii interesați de istorie, arheologie și de urmele trecutului antic al insulei.",
+    "en": "Gate of Zeus & Hera is a historical point of interest in Limenas, connected to the ancient heritage of old Thassos Town. It is especially relevant for visitors interested in history, archaeology and the island’s ancient past.",
+    "el": "Η Πύλη του Διός και της Ήρας είναι ένα ιστορικό σημείο ενδιαφέροντος στον Λιμένα, συνδεδεμένο με την αρχαία κληρονομιά της παλιάς πόλης της Θάσου. Αποτελεί σημαντικό σημείο για όσους ενδιαφέρονται για την ιστορία και την αρχαιολογία.",
+    "de": "Das Tor des Zeus und der Hera ist ein historischer Ort in Limenas, der mit dem antiken Erbe der alten Stadt Thassos verbunden ist. Besonders interessant ist er für Besucher, die sich für Geschichte und Archäologie interessieren.",
+    "bg": "Портата на Зевс и Хера е историческа забележителност в Лименас, свързана с античното наследство на стария град Тасос. Тя е особено интересна за посетители, които се интересуват от история и археология.",
+    "sr": "Kapija Zevsa i Here je istorijsko mesto u Limenasu, povezano sa antičkim nasleđem starog grada Tasosa. Posebno je zanimljiva posetiocima koje zanimaju istorija i arheologija."
+  },
+  "historical_significance": {
+    "ro": "Obiectivul face parte din stratul istoric al vechiului oraș Thassos și contribuie la înțelegerea contextului religios și urban al antichității locale. Este un loc potrivit pentru cei care doresc să exploreze Limenas dincolo de zona de plajă și promenadă.",
+    "en": "The site belongs to the historical fabric of ancient Thassos Town and helps visitors understand the religious and urban context of local antiquity. It is a good stop for travelers who want to explore Limenas beyond the beach and waterfront.",
+    "el": "Το σημείο ανήκει στο ιστορικό υπόβαθρο της αρχαίας πόλης της Θάσου και βοηθά τον επισκέπτη να κατανοήσει καλύτερα το θρησκευτικό και αστικό πλαίσιο της αρχαιότητας.",
+    "de": "Der Ort gehört zur historischen Struktur der antiken Stadt Thassos und hilft Besuchern, den religiösen und städtischen Kontext der Antike besser zu verstehen.",
+    "bg": "Обектът е част от историческата структура на древния град Тасос и помага на посетителя да разбере по-добре религиозния и градския контекст на античността.",
+    "sr": "Ovaj lokalitet je deo istorijskog tkiva antičkog grada Tasosa i pomaže posetiocima da bolje razumeju verski i urbani kontekst antičkog perioda."
+  },
+  "visitor_experience": {
+    "ro": "Vizita este potrivită pentru turiștii care explorează Limenas pe jos și doresc să combine plimbarea prin oraș cu descoperirea vestigiilor istorice. Experiența este mai valoroasă atunci când este integrată într-un traseu mai amplu prin zona veche, Agora și alte puncte de patrimoniu din apropiere.",
+    "en": "A visit is suitable for travelers exploring Limenas on foot and looking to combine a town walk with historical remains. The experience works best when included in a broader route through the old town, the Agora and other nearby heritage points.",
+    "el": "Η επίσκεψη ταιριάζει σε επισκέπτες που εξερευνούν τον Λιμένα με τα πόδια και θέλουν να συνδυάσουν τη βόλτα τους με στοιχεία ιστορικού ενδιαφέροντος.",
+    "de": "Der Besuch eignet sich für Reisende, die Limenas zu Fuß erkunden und ihren Spaziergang mit historischen Spuren verbinden möchten.",
+    "bg": "Посещението е подходящо за туристи, които разглеждат Лименас пеша и искат да съчетаят разходката си с исторически обекти.",
+    "sr": "Poseta je pogodna za turiste koji Limenas obilaze pešice i žele da svoju šetnju spoje sa istorijskim lokalitetima."
+  },
+  "practical_info": {
+    "recommended_visit_duration_minutes": 15,
+    "best_time_to_visit": [
+      "morning",
+      "late_afternoon"
+    ],
+    "family_friendly": true,
+    "difficulty_level": "easy",
+    "accessibility_notes": {
+      "ro": "Accesibilitatea exactă la nivel de teren trebuie verificată la fața locului.",
+      "en": "Exact on-site accessibility should be verified locally.",
+      "el": "Η ακριβής προσβασιμότητα στον χώρο θα πρέπει να επιβεβαιωθεί επιτόπου.",
+      "de": "Die genaue Zugänglichkeit vor Ort sollte lokal überprüft werden.",
+      "bg": "Точната достъпност на място трябва да се провери на място.",
+      "sr": "Tačnu pristupačnost na licu mesta treba proveriti lokalno."
+    },
+    "entrance_fee": null,
+    "opening_hours": null,
+    "parking": {
+      "available": null,
+      "notes": {
+        "ro": "Nu este definit în acest fișier un punct de parcare dedicat.",
+        "en": "No dedicated parking point is defined in this file.",
+        "el": "Δεν έχει οριστεί σε αυτό το αρχείο συγκεκριμένο σημείο στάθμευσης.",
+        "de": "In dieser Datei ist kein eigener Parkplatz festgelegt.",
+        "bg": "В този файл не е зададена отделна точка за паркиране.",
+        "sr": "U ovom fajlu nije definisana posebna tačka za parking."
+      }
+    }
+  },
+  "related_places": {
+    "nearby_heritage_slugs": [],
+    "nearby_religious_site_slugs": [],
+    "nearby_attraction_slugs": [],
+    "nearby_beach_slugs": [
+      "limenas-town"
+    ],
+    "nearby_area_slugs": [
+      "limenas"
+    ]
+  },
+  "media": {
+    "cover": "destinations/thassos/heritage/gate-of-zeus-hera/images/gate-of-zeus-hera1.webp",
+    "gallery": [
+      "destinations/thassos/heritage/gate-of-zeus-hera/images/gate-of-zeus-hera2.webp",
+      "destinations/thassos/heritage/gate-of-zeus-hera/images/gate-of-zeus-hera3.webp"
+    ],
+    "images": [
+      {
+        "file": "gate-of-zeus-hera1.webp",
+        "role": "cover",
+        "alt": {
+          "ro": "Gate of Zeus & Hera în Limenas, Thassos",
+          "en": "Gate of Zeus & Hera in Limenas, Thassos",
+          "el": "Η Πύλη του Διός και της Ήρας στον Λιμένα, Θάσος",
+          "de": "Tor des Zeus und der Hera in Limenas, Thassos",
+          "bg": "Портата на Зевс и Хера в Лименас, Тасос",
+          "sr": "Kapija Zevsa i Here u Limenasu, Tasos"
+        }
+      },
+      {
+        "file": "gate-of-zeus-hera2.webp",
+        "role": "gallery",
+        "alt": {
+          "ro": "Detaliu al sitului Gate of Zeus & Hera",
+          "en": "Detail of the Gate of Zeus & Hera site",
+          "el": "Λεπτομέρεια από τον χώρο της Πύλης του Διός και της Ήρας",
+          "de": "Detail des Ortes Gate of Zeus & Hera",
+          "bg": "Детайл от обекта Портата на Зевс и Хера",
+          "sr": "Detalj lokaliteta Kapija Zevsa i Here"
+        }
+      },
+      {
+        "file": "gate-of-zeus-hera3.webp",
+        "role": "gallery",
+        "alt": {
+          "ro": "Vedere suplimentară a obiectivului Gate of Zeus & Hera",
+          "en": "Additional view of the Gate of Zeus & Hera site",
+          "el": "Επιπλέον όψη του χώρου της Πύλης του Διός και της Ήρας",
+          "de": "Weitere Ansicht des Ortes Gate of Zeus & Hera",
+          "bg": "Допълнителен изглед към Портата на Зевс и Хера",
+          "sr": "Dodatni pogled na lokalitet Kapija Zevsa i Here"
+        }
+      }
+    ]
+  },
+  "translations": {
+    "ro": {
+      "title": "Poarta lui Zeus și Hera",
+      "short_description": "Un punct de interes istoric din Limenas, legat de patrimoniul antic al Thassosului.",
+      "long_description": "Poarta lui Zeus și Hera este unul dintre locurile care completează experiența culturală din Limenas. Chiar dacă mulți turiști asociază capitala insulei în primul rând cu portul, promenada și plaja, această zonă amintește de importanța istorică a vechiului oraș Thassos. Este o oprire potrivită pentru cei care doresc să descopere urmele antichității și să exploreze latura istorică a insulei într-un mod mai atent și mai profund.",
+      "highlight": "Ideal de inclus într-un traseu pietonal prin patrimoniul istoric din Limenas."
+    },
+    "en": {
+      "title": "Gate of Zeus & Hera",
+      "short_description": "A historical point of interest in Limenas connected to the ancient heritage of Thassos.",
+      "long_description": "The Gate of Zeus & Hera adds cultural depth to a visit in Limenas. While many travelers know Thassos Town mainly for its harbor, seafront and beach, this site helps reveal the island’s ancient identity. It is a worthwhile stop for anyone interested in archaeology, local history and a more meaningful exploration of the old town.",
+      "highlight": "Best included in a walking route focused on Limenas heritage."
+    },
+    "el": {
+      "title": "Πύλη του Διός και της Ήρας",
+      "short_description": "Ένα ιστορικό σημείο ενδιαφέροντος στον Λιμένα, συνδεδεμένο με την αρχαία κληρονομιά της Θάσου.",
+      "long_description": "Η Πύλη του Διός και της Ήρας προσθέτει πολιτιστικό βάθος σε μια επίσκεψη στον Λιμένα. Παρότι πολλοί επισκέπτες συνδέουν την πόλη κυρίως με το λιμάνι, τον παραλιακό περίπατο και την παραλία, το σημείο αυτό θυμίζει τη σημασία της αρχαίας Θάσου. Είναι μια αξιόλογη στάση για όσους αγαπούν την ιστορία και την αρχαιολογία.",
+      "highlight": "Ιδανικό σημείο για περίπατο με θέμα την ιστορική κληρονομιά του Λιμένα."
+    },
+    "de": {
+      "title": "Tor des Zeus und der Hera",
+      "short_description": "Ein historischer Ort in Limenas, der mit dem antiken Erbe von Thassos verbunden ist.",
+      "long_description": "Das Tor des Zeus und der Hera verleiht einem Besuch in Limenas eine kulturelle Dimension. Viele Reisende kennen Thassos-Stadt vor allem wegen des Hafens, der Promenade und des Strandes. Dieser Ort erinnert jedoch daran, wie wichtig die antike Vergangenheit der Insel ist. Er eignet sich für Besucher, die Geschichte, Archäologie und das alte Stadtbild näher entdecken möchten.",
+      "highlight": "Am besten als Teil eines historischen Spaziergangs durch Limenas besuchen."
+    },
+    "bg": {
+      "title": "Портата на Зевс и Хера",
+      "short_description": "Историческа забележителност в Лименас, свързана с античното наследство на Тасос.",
+      "long_description": "Портата на Зевс и Хера придава културна стойност на посещението в Лименас. Макар много туристи да свързват столицата на острова най-вече с пристанището, крайбрежната алея и плажа, това място напомня за древното минало на Тасос. То е подходяща спирка за посетители, които се интересуват от история и археология.",
+      "highlight": "Подходящо за включване в пешеходен маршрут из историческите места на Лименас."
+    },
+    "sr": {
+      "title": "Kapija Zevsa i Here",
+      "short_description": "Istorijsko mesto u Limenasu povezano sa antičkim nasleđem Tasosa.",
+      "long_description": "Kapija Zevsa i Here daje kulturnu dimenziju poseti Limenasu. Iako mnogi putnici glavni grad ostrva povezuju prvenstveno sa lukom, šetalištem i plažom, ovo mesto podseća na važnost antičke prošlosti Tasosa. Dobra je stanica za posetioce koje zanimaju istorija, arheologija i staro gradsko nasleđe.",
+      "highlight": "Najbolje ga je uključiti u pešačku rutu kroz istorijske tačke Limenasa."
+    }
+  },
+  "seo": {
+    "ro": {
+      "title": "Poarta lui Zeus și Hera, Limenas, Thassos",
+      "description": "Descoperă Poarta lui Zeus și Hera din Limenas, un punct de interes istoric legat de patrimoniul antic al insulei Thassos."
+    },
+    "en": {
+      "title": "Gate of Zeus & Hera, Limenas, Thassos",
+      "description": "Discover the Gate of Zeus & Hera in Limenas, a historical point of interest connected to the ancient heritage of Thassos."
+    },
+    "el": {
+      "title": "Πύλη του Διός και της Ήρας, Λιμένας, Θάσος",
+      "description": "Ανακαλύψτε την Πύλη του Διός και της Ήρας στον Λιμένα, ένα ιστορικό σημείο που συνδέεται με την αρχαία κληρονομιά της Θάσου."
+    },
+    "de": {
+      "title": "Tor des Zeus und der Hera, Limenas, Thassos",
+      "description": "Entdecken Sie das Tor des Zeus und der Hera in Limenas, einen historischen Ort des antiken Erbes von Thassos."
+    },
+    "bg": {
+      "title": "Портата на Зевс и Хера, Лименас, Тасос",
+      "description": "Открийте Портата на Зевс и Хера в Лименас – историческа забележителност, свързана с античното наследство на Тасос."
+    },
+    "sr": {
+      "title": "Kapija Zevsa i Here, Limenas, Tasos",
+      "description": "Otkrijte Kapiju Zevsa i Here u Limenasu, istorijsko mesto povezano sa antičkim nasleđem Tasosa."
+    }
+  },
+  "video": {
+    "enabled": true,
+    "preferred_format": "9:16",
+    "scene_count": 3,
+    "default_language": "en",
+    "scenes": [
+      {
+        "scene_number": 1,
+        "image": "gate-of-zeus-hera1.webp",
+        "role": "hook",
+        "duration_seconds": 5
+      },
+      {
+        "scene_number": 2,
+        "image": "gate-of-zeus-hera2.webp",
+        "role": "story",
+        "duration_seconds": 10
+      },
+      {
+        "scene_number": 3,
+        "image": "gate-of-zeus-hera3.webp",
+        "role": "cta",
+        "duration_seconds": 5
+      }
+    ],
+    "localized_scripts": {
+      "ro": {
+        "hook": "În Limenas, istoria Thassosului apare la fiecare pas.",
+        "body": "Poarta lui Zeus și Hera este un punct de interes care amintește de moștenirea antică a vechiului oraș. Dacă explorezi capitala insulei, merită să adaugi acest loc în traseul tău cultural.",
+        "cta": "Descoperă mai mult din istoria Thassosului în ecosistemul nostru."
+      },
+      "en": {
+        "hook": "In Limenas, the history of Thassos is never far away.",
+        "body": "The Gate of Zeus & Hera is a heritage point that reflects the ancient identity of old Thassos Town. If you are exploring the island’s capital, it is worth adding this stop to your cultural route.",
+        "cta": "Discover more of Thassos history in our ecosystem."
+      },
+      "el": {
+        "hook": "Στον Λιμένα, η ιστορία της Θάσου βρίσκεται παντού γύρω σου.",
+        "body": "Η Πύλη του Διός και της Ήρας είναι ένα σημείο πολιτιστικού ενδιαφέροντος που θυμίζει την αρχαία ταυτότητα της πόλης. Αν εξερευνάτε την πρωτεύουσα του νησιού, αξίζει να το εντάξετε στη διαδρομή σας.",
+        "cta": "Ανακαλύψτε περισσότερη ιστορία της Θάσου μέσα από το οικοσύστημά μας."
+      },
+      "de": {
+        "hook": "In Limenas ist die Geschichte von Thassos überall präsent.",
+        "body": "Das Tor des Zeus und der Hera ist ein Ort des Kulturerbes, der an die antike Identität der alten Stadt erinnert. Wenn Sie die Inselhauptstadt erkunden, lohnt sich ein Stopp auf Ihrer Kulturroute.",
+        "cta": "Entdecken Sie mehr Geschichte von Thassos in unserem Ökosystem."
+      },
+      "bg": {
+        "hook": "В Лименас историята на Тасос е навсякъде около вас.",
+        "body": "Портата на Зевс и Хера е културен обект, който напомня за античната самоличност на стария град. Ако разглеждате столицата на острова, това място заслужава да бъде част от маршрута ви.",
+        "cta": "Открийте още история на Тасос в нашата екосистема."
+      },
+      "sr": {
+        "hook": "U Limenasu je istorija Tasosa prisutna na svakom koraku.",
+        "body": "Kapija Zevsa i Here je mesto kulturnog nasleđa koje podseća na antički identitet starog grada. Ako istražujete glavni grad ostrva, vredi da ovu lokaciju uključite u svoju kulturnu rutu.",
+        "cta": "Otkrijte još istorije Tasosa u našem ekosistemu."
+      }
+    },
+    "overlay_text": {
+      "ro": [
+        "Poarta lui Zeus și Hera",
+        "Limenas, Thassos",
+        "Istorie & Patrimoniu"
+      ],
+      "en": [
+        "Gate of Zeus & Hera",
+        "Limenas, Thassos",
+        "History & Heritage"
+      ],
+      "el": [
+        "Πύλη του Διός και της Ήρας",
+        "Λιμένας, Θάσος",
+        "Ιστορία & Πολιτιστική Κληρονομιά"
+      ],
+      "de": [
+        "Tor des Zeus und der Hera",
+        "Limenas, Thassos",
+        "Geschichte & Kulturerbe"
+      ],
+      "bg": [
+        "Портата на Зевс и Хера",
+        "Лименас, Тасос",
+        "История и наследство"
+      ],
+      "sr": [
+        "Kapija Zevsa i Here",
+        "Limenas, Tasos",
+        "Istorija i nasleđe"
+      ]
+    }
+  },
+  "source_references": [
+    {
+      "type": "user-provided",
+      "value": "Coordinates provided by user",
+      "notes": "40.77567929175307, 24.709026680358008"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "publish_ready": false,
+    "rights_cleared_for_sale": false,
+    "gps_verified": false,
+    "historical_text_verified": false,
+    "last_updated": "2026-10-28",
+    "notes": {
+      "ro": "Coordonatele au fost furnizate de utilizator. Informațiile istorice și formulările finale trebuie reverificate înainte de publicare.",
+      "en": "Coordinates were provided by the user. Historical details and final wording should be rechecked before publication."
+    }
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-arriba",
+  "slug": "arriba",
+  "record_type": "beach",
+  "destination_id": "gr-thassos",
+  "identity": {
+    "official_local_name": "Arriba Chill Out Beach Bar",
+    "international_name": "Arriba Beach",
+    "aliases": [
+      "Ariba Beach",
+      "Arriba Chill Out Beach",
+      "Arriba Chill Out Beach Bar",
+      "Ariba plaža",
+      "Παραλία Arriba"
+    ],
+    "entity_scope": "Named, serviced beachfront section in Skala Rachoni associated with Arriba Chill Out Beach Bar, not an independent natural beach.",
+    "parent_beach_id": "gr-thassos-beach-rachoniou",
+    "geographic_entity_type": "named_operated_beach_section",
+    "count_as_distinct_geographical_beach": false,
+    "deduplication_warning": "Keep Arriba as a searchable named beach-bar sector, but group it under Rachoniou / Skala Rachoni coast for geographic beach totals. The beach bar business can later receive its own business-category record."
+  },
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "municipality": "Thassos",
+    "coast": "northwest / west-facing",
+    "settlements": [
+      "Skala Rachoni",
+      "Skala Rachoniou"
+    ],
+    "lat": 40.77861,
+    "lng": 24.60563,
+    "coordinate_source": "google_maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Arriba%20Chill%20Out%20Beach%20Bar%20Skala%20Rachoni%20Thassos",
+    "coordinate_source_reference": "s_mapcarta",
+    "coordinate_type": "approximate_arriba_venue_area_not_verified_google_maps_access_point",
+    "coordinate_review_status": "Coordinates originate from OpenStreetMap-derived Mapcarta and match independent nearby listings; Google Maps pin has NOT been directly verified. Search link is for manual confirmation.",
+    "access_point_lat": null,
+    "access_point_lng": null,
+    "elevation_m": null
+  },
+  "physical_profile": {
+    "shore_material": "mostly_sand",
+    "seabed_near_shore": "sand_with_some_stony_patches",
+    "water_entry": "generally_gradual",
+    "nearshore_depth": "generally_shallow_but_variable",
+    "water_clarity": "typically_clear",
+    "wave_conditions": "wind_dependent",
+    "exposure": "west_northwest_coast",
+    "natural_shade_on_sand": "significant_under_coastal_pines",
+    "beach_length_m": null,
+    "length_note": "The Arriba name describes an operating sector, not a separately measured beach; length is not asserted.",
+    "backdrop": "Tall pines, vegetation and informal shaded seating",
+    "shoreline_type": "part_of_longer_skala_rachoni_sandy_coast"
+  },
+  "visitor_experience": {
+    "organization": "operated_beach_bar_section",
+    "suitable_for": [
+      "couples",
+      "friends",
+      "families",
+      "relaxing",
+      "sunset_viewing",
+      "slow_beach_day"
+    ],
+    "notable_for": [
+      "pine_shade",
+      "relaxed_music",
+      "beach_bar",
+      "sunset",
+      "sandy_shore"
+    ],
+    "activities_possible": [
+      "swimming",
+      "sunbathing",
+      "beach_walks",
+      "sunset_viewing"
+    ],
+    "estimated_crowd_peak": "typically_relaxed_but_can_be_busy_at_peak_times",
+    "crowd_level_live": null,
+    "local_insider_score": null,
+    "user_rating": null,
+    "safety_note": "Gradual water entry does not guarantee safe swimming; inspect stones, depth, waves and sea conditions on arrival. Pets are welcomed by the operator but any local beach restrictions should be checked."
+  },
+  "facilities": {
+    "sunbeds": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "umbrellas": {
+      "available_in_some_sections": true,
+      "seasonal": true
+    },
+    "toilets": {
+      "available_in_some_sections": null,
+      "note": "Not independently confirmed for public beach use; ask the beach bar."
+    },
+    "showers": {
+      "available_in_some_sections": null
+    },
+    "changing_rooms": {
+      "available_in_some_sections": null,
+      "requires_site_check": true
+    },
+    "beach_bars": true,
+    "tavernas_restaurants_nearby": true,
+    "cafes_nearby": true,
+    "parking_nearby": true,
+    "parking_guaranteed": false,
+    "seasonal_water_sports": null,
+    "volleyball": null,
+    "accommodation_nearby": true,
+    "lifeguard": null,
+    "lifeguard_note": "No independent confirmation of trained lifeguard coverage for this exact section.",
+    "wheelchair_beach_access": null,
+    "wheelchair_access_note": "Easy access claimed by the operator; accessible route to sand/water and equipment not independently verified.",
+    "free_unserviced_space": null,
+    "facilities_scope": "Listed loungers, umbrellas, dining and pet-friendly arrangements refer to Arriba operator, not to every part of the Rachoniou coastline."
+  },
+  "access_and_cost": {
+    "road_access": "road_access_to_skala_rachoni_and_operator_entrance",
+    "public_transport": "not_verified_for_exact_beach_bar",
+    "parking_type": "operator_reported_parking_nearby",
+    "parking_price": null,
+    "beach_entry_fee": null,
+    "sunbed_price_eur": null,
+    "sunbed_pricing_note": "Older guide reports use with a drinks order; verify current minimum order, fees and any reservation policy directly before use.",
+    "best_arrival_advice": "Visit earlier for preferred shaded seating; the late afternoon can be attractive for sunset. Confirm seasonal operating hours.",
+    "distance_from_limenas_km": null,
+    "distance_note": "Do not infer driving time or road distance without routing the exact entrance."
+  },
+  "certifications": {
+    "blue_flag": {
+      "award_year": null,
+      "verified_specific_section": null,
+      "entire_beach_certified": null,
+      "season_end": null,
+      "source_ref": null
+    },
+    "water_quality_classification": null
+  },
+  "dynamic_fields": {
+    "air_temperature_c": null,
+    "sea_temperature_c": null,
+    "feels_like_c": null,
+    "uv_index": null,
+    "wind_speed_kmh": null,
+    "wave_height_m": null,
+    "rule": "Live weather, prices, opening hours, crowd and availability must be retrieved separately, never hard-coded."
+  },
+  "translations": {
+    "ro": {
+      "name": "Arriba Beach (Skala Rachoni)",
+      "tagline": "Umbra pinilor, atmosferă boho și apusuri la malul mării",
+      "summary": "Arriba este un sector de plajă din Skala Rachoni, pe coasta de nord-vest a insulei Thassos, cunoscut pentru beach barul său relaxat, umbra oferită de arbori și priveliștea spre apus. Face parte din țărmul mai larg al zonei Rachoniou, nu dintr-un golf geografic separat.",
+      "description": "Arriba Beach este numele sub care este cunoscut sectorul de țărm din dreptul Arriba Chill Out Beach Bar, în Skala Rachoni, pe partea de nord-vest a insulei Thassos. Atmosfera este diferită de cea a plajelor foarte aglomerate: pinii înalți oferă umbră naturală aproape de nisip, muzica este de obicei relaxată, iar seara priveliștea spre apus devine principalul spectacol. Zona are nisip și o intrare în mare în general lină, dar pe alocuri se găsesc pietre, așa că încălțămintea de apă poate fi utilă. Operatorul local prezintă șezlonguri, umbrele, locuri de stat la umbră, băuturi și preparate ușoare. Este o alegere interesantă pentru cupluri, prieteni și familii care preferă să petreacă mai multe ore într-un loc liniștit. Pentru o vizită reușită, verifică la sosire condițiile actuale ale șezlongurilor și disponibilitatea facilităților. Arriba trebuie privită ca o zonă amenajată a litoralului Skala Rachoni, nu ca o plajă independentă de toate sectoarele vecine.",
+      "practical_tips": "Un loc la umbra pinilor poate fi foarte căutat în zilele călduroase. Verifică la operator dacă șezlongurile sunt oferite contra cost sau în condițiile unei comenzi, deoarece regulile pot varia. În apă pot exista porțiuni cu pietre, iar vântul poate schimba condițiile de înot. Parcarea este indicată de operator, însă disponibilitatea locurilor nu este garantată. Pentru apus, rezervă-ți timp și verifică programul sezonier.",
+      "highlights": [
+        "Umbră naturală de la pini lângă plajă",
+        "Atmosferă relaxată cu muzică discretă",
+        "Sector nisipos cu intrare în general graduală",
+        "Beach bar cu șezlonguri și umbrele",
+        "Priveliști frumoase la apus"
+      ],
+      "seo_title": "Arriba Beach Thassos – plaja din Skala Rachoni și facilități",
+      "seo_description": "Descoperă Arriba Beach din Skala Rachoni, Thassos: umbră de pini, nisip, beach bar, apusuri, acces și informații practice.",
+      "social_caption": "🌅 O plajă la umbra pinilor? La Arriba, în Skala Rachoni, ziua trece în ritmul muzicii relaxate, iar seara aduce apusuri spectaculoase. 🌲🌊 Salvează locul pentru vacanța în Thassos! #Thassos #ArribaBeach #SkalaRachoni",
+      "photo_alt": "Sectorul Arriba din Skala Rachoni, cu pini lângă plaja nisipoasă și șezlonguri aproape de mare."
+    },
+    "en": {
+      "name": "Arriba Beach (Skala Rachoni)",
+      "tagline": "Pine-tree shade, a laid-back beach bar and west-coast sunsets",
+      "summary": "Arriba is a named beachfront section in Skala Rachoni on the northwestern coast of Thassos, known for its relaxed beach bar, natural tree shade and sunset views. It belongs to the wider Rachoniou shoreline rather than forming a separate geographical beach.",
+      "description": "Arriba Beach refers to the stretch of shoreline in front of Arriba Chill Out Beach Bar in Skala Rachoni, on the northwestern side of Thassos. Its appeal lies in a leisurely atmosphere rather than a packed resort scene: tall pine trees cast welcome shade beside the sand, laid-back music sets the pace and the west-facing coast is especially attractive as the sun goes down. The shore is sandy and the sea entry is generally gradual, although some patches of stone can occur near the water. The beach bar advertises loungers, umbrellas, shaded seating, drinks and casual food. Visitors looking for an unhurried day by the sea may find it appealing, whether travelling as a couple, with friends or as a family. Conditions vary with the weather and operating season, so check what is available on arrival and ask about current lounger arrangements before settling in. Arriba is a managed part of the Skala Rachoni coast, not a completely separate beach from its neighbouring stretches.",
+      "practical_tips": "Naturally shaded spaces can fill during hot summer days. Confirm the current sunbed policy with the operator before using a lounger. Some stony patches may make water shoes useful, and wind can change sea conditions. The operator mentions parking, but a free space is not guaranteed. If you visit for sunset, check seasonal opening times and allow time to enjoy the view.",
+      "highlights": [
+        "Natural shade from tall coastal pines",
+        "Laid-back music and informal atmosphere",
+        "Sandy shore with generally gradual sea entry",
+        "Beach bar with loungers and umbrellas",
+        "Appealing sunset views"
+      ],
+      "seo_title": "Arriba Beach Thassos – Skala Rachoni beach guide",
+      "seo_description": "Visit Arriba Beach in Skala Rachoni, Thassos: natural pine shade, sandy shore, loungers, sunset views, access and practical tips.",
+      "social_caption": "🌅 There is something special about a beach day in the shade of pines. Discover Arriba in Skala Rachoni: relaxed music, sand by the sea and west-coast sunsets. 🌲🌊 Save it for Thassos! #Thassos #ArribaBeach #SkalaRachoni",
+      "photo_alt": "Pine-shaded Arriba beachfront in Skala Rachoni, with loungers next to the sandy Aegean shore."
+    },
+    "el": {
+      "name": "Παραλία Arriba (Σκάλα Ραχωνίου)",
+      "tagline": "Φυσική σκιά από πεύκα, χαλαρή διάθεση και όμορφα ηλιοβασιλέματα",
+      "summary": "Το Arriba είναι ένα γνωστό οργανωμένο τμήμα της ακτής στη Σκάλα Ραχωνίου, στη βορειοδυτική Θάσο, με χαλαρό beach bar, φυσική σκιά από δέντρα και θέα στο ηλιοβασίλεμα. Αποτελεί μέρος της ευρύτερης παραλίας της περιοχής και όχι ξεχωριστή γεωγραφική ακτή.",
+      "description": "Η παραλία Arriba είναι το τμήμα της ακτής μπροστά από το Arriba Chill Out Beach Bar, στη Σκάλα Ραχωνίου, στη βορειοδυτική πλευρά της Θάσου. Εδώ η ατμόσφαιρα είναι περισσότερο χαλαρή παρά κοσμοπολίτικη: τα ψηλά πεύκα προσφέρουν φυσική σκιά κοντά στην άμμο, η μουσική δημιουργεί ήρεμο ρυθμό και το απόγευμα ο ήλιος δύει προς τη θάλασσα. Η ακτή είναι αμμώδης και η είσοδος στο νερό είναι γενικά ομαλή, αν και κατά τόπους υπάρχουν πέτρες. Το beach bar αναφέρει ξαπλώστρες, ομπρέλες, σκιερά σημεία, ροφήματα και απλό φαγητό. Είναι μια ευχάριστη επιλογή για ζευγάρια, παρέες και οικογένειες που επιθυμούν να περάσουν αρκετές ώρες δίπλα στη θάλασσα χωρίς βιασύνη. Οι παροχές και οι όροι χρήσης μπορεί να αλλάζουν ανά εποχή, γι’ αυτό αξίζει να ρωτήσετε πριν εγκατασταθείτε. Το Arriba είναι οργανωμένο τμήμα της ακτογραμμής της Σκάλας Ραχωνίου και όχι ανεξάρτητη παραλία από τις γειτονικές ζώνες.",
+      "practical_tips": "Οι σκιερές θέσεις κάτω από τα πεύκα μπορεί να γεμίζουν τις ζεστές ημέρες. Ρωτήστε για την τρέχουσα πολιτική χρήσης των ξαπλωστρών. Σε ορισμένα σημεία του βυθού υπάρχουν πέτρες και τα παπούτσια θαλάσσης μπορεί να φανούν χρήσιμα. Ο χώρος αναφέρει δυνατότητα στάθμευσης, χωρίς εγγύηση διαθέσιμης θέσης. Ελέγξτε το εποχικό ωράριο εάν θέλετε να μείνετε έως το ηλιοβασίλεμα.",
+      "highlights": [
+        "Φυσική σκιά από πεύκα",
+        "Ήρεμη μουσική και χαλαρή ατμόσφαιρα",
+        "Αμμώδης ακτή με γενικά ομαλή είσοδο στο νερό",
+        "Beach bar με ξαπλώστρες και ομπρέλες",
+        "Θέα στο ηλιοβασίλεμα"
+      ],
+      "seo_title": "Arriba Beach Θάσος – παραλία στη Σκάλα Ραχωνίου",
+      "seo_description": "Γνωρίστε το Arriba Beach στη Σκάλα Ραχωνίου της Θάσου: σκιά από πεύκα, άμμος, beach bar, ηλιοβασίλεμα και χρήσιμες πληροφορίες.",
+      "social_caption": "🌅 Στη Σκάλα Ραχωνίου, το Arriba συνδυάζει τη σκιά των πεύκων, χαλαρή μουσική και όμορφα ηλιοβασιλέματα. 🌲🌊 Κρατήστε το για την επόμενη επίσκεψη στη Θάσο! #Θάσος #ArribaBeach #ΣκάλαΡαχωνίου",
+      "photo_alt": "Η παραλιακή ζώνη Arriba στη Σκάλα Ραχωνίου, με πεύκα, άμμο και ξαπλώστρες κοντά στη θάλασσα."
+    },
+    "de": {
+      "name": "Arriba Beach (Skala Rachoni)",
+      "tagline": "Pinien-Schatten, entspannte Strandbar und Sonnenuntergänge",
+      "summary": "Arriba bezeichnet einen Strandabschnitt in Skala Rachoni an der Nordwestküste von Thassos. Bekannt ist er für die ungezwungene Strandbar, natürlichen Baumschatten und Sonnenuntergänge. Geografisch gehört er zum längeren Küstenabschnitt von Rachoniou.",
+      "description": "Arriba Beach ist die Bezeichnung für den Küstenabschnitt vor der Arriba Chill Out Beach Bar in Skala Rachoni im Nordwesten von Thassos. Im Mittelpunkt steht eine entspannte Atmosphäre: Hohe Pinien spenden nahe dem Sand natürlichen Schatten, ruhige Musik begleitet den Tag und am Abend bietet die Westküste schöne Sonnenuntergänge. Das Ufer ist sandig, der Einstieg ins Meer meist flach, allerdings können sich im Wasser stellenweise Steine befinden. Die Strandbar wirbt mit Liegen, Sonnenschirmen, schattigen Plätzen, Getränken und einfachen Speisen. Wer mehrere Stunden ohne viel Trubel am Meer verbringen möchte, findet hier einen angenehmen Platz – zu zweit, mit Freunden oder als Familie. Ausstattung und Nutzungsbedingungen können je nach Saison wechseln. Vor der Nutzung einer Liege sollte man daher die aktuellen Regeln erfragen. Arriba ist ein bewirtschafteter Teil der Küste von Skala Rachoni und kein geografisch vollständig eigenständiger Strand.",
+      "practical_tips": "Beliebte Schattenplätze unter den Pinien können im Hochsommer früh besetzt sein. Die Bedingungen für Liegen direkt beim Betreiber erfragen. An einigen Stellen liegen Steine im Wasser; Badeschuhe können hilfreich sein. Wind verändert die Badebedingungen. Parkmöglichkeiten werden angegeben, freie Plätze sind jedoch nicht garantiert. Für einen Besuch zum Sonnenuntergang die Saisonöffnungszeiten beachten.",
+      "highlights": [
+        "Natürlicher Schatten unter hohen Pinien",
+        "Entspannte Musik und ungezwungene Stimmung",
+        "Sandiger Strand mit meist flachem Einstieg",
+        "Strandbar mit Liegen und Schirmen",
+        "Schöne Sonnenuntergänge"
+      ],
+      "seo_title": "Arriba Beach Thassos – Strand bei Skala Rachoni",
+      "seo_description": "Arriba Beach auf Thassos entdecken: Pinien-Schatten, Sandstrand, Strandbar, Sonnenuntergänge, Anfahrt und Tipps für Skala Rachoni.",
+      "social_caption": "🌅 Strandtag unter Pinien: Arriba in Skala Rachoni verbindet Sand, entspannte Musik und wunderschöne Sonnenuntergänge. 🌲🌊 Für deine Thassos-Liste vormerken! #Thassos #ArribaBeach #SkalaRachoni",
+      "photo_alt": "Pinienbeschatteter Arriba-Strandabschnitt in Skala Rachoni mit Sonnenliegen am sandigen Meeresufer."
+    },
+    "bg": {
+      "name": "Ариба Бийч (Скала Рахони)",
+      "tagline": "Сянка от борове, спокойна атмосфера и красиви залези",
+      "summary": "Ариба е обособен участък от плажната ивица при Скала Рахони в северозападната част на Тасос. Известен е с непринудения си плажен бар, естествената сянка и гледките към залеза. Той е част от по-дългия бряг на Рахони, а не отделен географски плаж.",
+      "description": "Ариба Бийч е името на крайбрежния участък пред Arriba Chill Out Beach Bar в Скала Рахони, северозападен Тасос. Мястото привлича с по-спокойна атмосфера: високи борове осигуряват естествена сянка край пясъка, ненатрапчивата музика създава приятно настроение, а вечер западният бряг предлага красиви залези. Плажната ивица е пясъчна и навлизането в морето обикновено е плавно, макар че на отделни места има камъни. Плажният бар посочва шезлонги, чадъри, сенчести места, напитки и лека храна. Това е добър избор за двойки, приятелски компании и семейства, които предпочитат да прекарат няколко спокойни часа край водата. Удобствата и условията за ползване могат да се променят според сезона, затова ги проверете на място. Ариба е обслужван участък от бреговата линия на Скала Рахони, а не напълно самостоятелен плаж.",
+      "practical_tips": "Местата под боровете могат да се заемат рано през натоварените летни дни. Попитайте за актуалните условия за ползване на шезлонгите. Във водата има отделни каменисти участъци и обувките за плуване могат да бъдат полезни. Вятърът влияе на условията за къпане. Операторът посочва паркинг, но свободно място не е гарантирано. За залеза проверете сезонното работно време.",
+      "highlights": [
+        "Естествена сянка от високи борове",
+        "Спокойна музика и непринудена атмосфера",
+        "Пясъчен бряг с обикновено плавно навлизане",
+        "Плажен бар с чадъри и шезлонги",
+        "Красиви залези"
+      ],
+      "seo_title": "Ариба Бийч, Тасос – плаж край Скала Рахони",
+      "seo_description": "Открийте Ариба Бийч в Скала Рахони на Тасос: борова сянка, пясък, плажен бар, залези, достъп и полезни съвети.",
+      "social_caption": "🌅 Ариба в Скала Рахони съчетава сянката на боровете, спокойна музика и прекрасни залези. 🌲🌊 Запазете мястото за следващата си почивка на Тасос! #Тасос #ArribaBeach #СкалаРахони",
+      "photo_alt": "Участъкът Ариба край Скала Рахони с борове, пясък и шезлонги близо до морето."
+    },
+    "sr": {
+      "name": "Arriba Beach (Skala Rahoni)",
+      "tagline": "Hlad borova, opuštena atmosfera i zalasci sunca",
+      "summary": "Arriba je uređeni deo obale u Skala Rahoniju, na severozapadu Tasosa, poznat po opuštenom beach baru, prirodnom hladu i pogledu na zalazak sunca. Pripada široj obali Rahonija, a ne posebnoj geografskoj plaži.",
+      "description": "Arriba Beach je naziv za deo obale ispred Arriba Chill Out Beach Bara u mestu Skala Rahoni, na severozapadnoj strani Tasosa. Ovde je naglasak na opuštanju: visoki borovi pružaju prirodan hlad tik uz pesak, lagana muzika prati dan, a predveče se otvara pogled na zalazak sunca iznad mora. Obala je peščana, a ulazak u vodu uglavnom postepen, mada se na pojedinim mestima mogu naći kamenčići i stene. Bar navodi ležaljke, suncobrane, mesta u hladu, piće i laganu hranu. Ambijent može prijati parovima, društvu i porodicama koje žele da provedu duži, mirniji dan kraj mora. Ponuda i uslovi korišćenja mogu se menjati tokom sezone, pa je korisno proveriti ih pri dolasku. Arriba je uređeni deo obale Skala Rahonija, a ne potpuno zasebna plaža od susednih delova iste obale.",
+      "practical_tips": "Mesta u hladovini borova leti mogu brzo da se popune. Pre korišćenja ležaljki proverite aktuelne uslove kod osoblja. Na pojedinim mestima u vodi ima kamenja, pa obuća za vodu može biti korisna. Vetar može promeniti uslove za kupanje. Bar navodi parking, ali slobodno mesto nije zagarantovano. Za zalazak sunca proverite sezonsko radno vreme.",
+      "highlights": [
+        "Prirodni hlad visokih borova",
+        "Opuštena muzika i prijatna atmosfera",
+        "Peščana obala sa uglavnom postepenim ulaskom",
+        "Beach bar sa ležaljkama i suncobranima",
+        "Pogled na zalazak sunca"
+      ],
+      "seo_title": "Arriba Beach Tasos – plaža kod Skala Rahonija",
+      "seo_description": "Istražite Arriba Beach na Tasosu: borova hladovina, peščana obala, beach bar, zalasci sunca, pristup i praktični saveti.",
+      "social_caption": "🌅 Arriba u Skala Rahoniju: borova hladovina, opuštena muzika i prelepi zalasci sunca. 🌲🌊 Sačuvajte za sledeći odmor na Tasosu! #Tasos #ArribaBeach #SkalaRahoni",
+      "photo_alt": "Deo plaže Arriba u Skala Rahoniju sa borovima, peskom i ležaljkama uz more."
+    }
+  },
+  "media": {
+    "cover": "destinations/thassos/beaches/arriba/images/arriba1.webp",
+    "gallery": [
+      {
+        "path": "destinations/thassos/beaches/arriba/images/arriba2.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/arriba/images/arriba3.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/arriba/images/arriba4.webp"
+      },
+      {
+        "path": "destinations/thassos/beaches/arriba/images/arriba5.webp"
+      }
+    ],
+    "expected_folder": "destinations/thassos/beaches/arriba/images/",
+    "suggested_asset_names": [
+      "arriba1.webp",
+      "arriba2.webp",
+      "arriba3.webp",
+      "arriba4.webp",
+      "arriba5.webp"
+    ],
+    "image_policy": "Use user-prepared original or properly licensed images only. Confirm that every WebP depicts the Arriba shoreline and that publication and reuse rights are secured before publishing.",
+    "candidate_photographs": []
+  },
+  "source_references": [
+    {
+      "id": "s_operator",
+      "kind": "official_business",
+      "title": "Arriba Chill Out Beach Bar — official site",
+      "url": "https://arriba.gr/en/home/",
+      "detail": "Confirms location in Skala Rachoni, sunbeds and umbrellas, natural shade, parking claims, family/pet friendliness, relaxed music and sunset orientation; does not prove access conditions/prices.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_nikana",
+      "kind": "travel_guide",
+      "title": "Nikana — Ariba beach",
+      "url": "https://nikana.gr/ro/ghid/thassos/plaje/1821/plaja-ariba",
+      "detail": "Guide describes sandy beach, gradual sea entry, pines, hammocks, swings, refreshments and nearby parking; operator rules may have changed.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_staythassos",
+      "kind": "local_guide",
+      "title": "StayThassos — Thassos beaches including Arriba",
+      "url": "https://staythassos.gr/thassos-beaches/",
+      "detail": "Describes pine trees at water edge and some rock patches in the water; editorial beach guide dated 21 April 2026.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_mapcarta",
+      "kind": "independent_geodata",
+      "title": "Mapcarta — chillout ariba beach, rahoni (OpenStreetMap node)",
+      "url": "https://mapcarta.com/N4307352491",
+      "detail": "Approximate venue coordinates 40.77861, 24.60563. THESE HAVE NOT BEEN VERIFIED AGAINST A GOOGLE MAPS PIN.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_worldplaces",
+      "kind": "location_directory",
+      "title": "WorldPlaces — Arriba Chill Out Beach Bar",
+      "url": "https://greece.worldplaces.me/beach-resorts-in-thasos/17971396-arriba-chill-out-beach-bar.html",
+      "detail": "Independent approximate location 40.77856, 24.60517; this supports general area, not exact water or road entrance.",
+      "checked_on": "2026-10-22"
+    },
+    {
+      "id": "s_commons_context",
+      "kind": "image_source",
+      "title": "Wikimedia Commons — Skala Rachoni beach (regional context photo)",
+      "url": "https://commons.wikimedia.org/wiki/File:Skala_Rachoni_beach_-_panoramio.jpg",
+      "detail": "CC BY 3.0 photo of wider Skala Rachoni from 2008. Camera GPS is not the same as Arriba venue; not a verified image of Arriba.",
+      "checked_on": "2026-10-22"
+    }
+  ],
+  "editorial": {
+    "status": "researched_pending_google_maps_confirmation_images_and_final_review",
+    "facts_checked_on": "2026-10-22",
+    "translations_written_on": "2026-10-22",
+    "coverage": "full_initial_profile_six_languages",
+    "requires_manual_review": [
+      "Confirm exact Google Maps pin and preferred vehicle/pedestrian access point",
+      "Confirm current seasonal operation and conditions for sunbeds",
+      "Check toilets, showers, changing facilities and lifeguard presence on site",
+      "Verify arriba1.webp through arriba5.webp exist in images/, show the correct Arriba shoreline, and have suitable publication/reuse rights",
+      "Check stone patches and accessible routes at selected shoreline section",
+      "Review six-language copy with native speakers before publication"
+    ],
+    "publish_ready": false,
+    "rights_cleared_for_sale": "Editorial texts original; five local image paths supplied by naming screenshot. Image files and their publication/reuse rights have not been independently inspected.",
+    "photo_source_disclaimer": "All third-party photo candidates have been removed from media. Cover and gallery point to five local user-prepared WebP files; original image files were not provided for inspection."
+  }
+}

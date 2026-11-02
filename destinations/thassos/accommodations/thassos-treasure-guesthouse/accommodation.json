@@ -1,0 +1,275 @@
+{
+  "schemaVersion": "2.0",
+  "id": "gr-thassos-accommodation-thassos-treasure-guesthouse",
+  "slug": "thassos-treasure-guesthouse",
+  "beachSlug": "skala-prinos",
+  "category": "accommodations",
+  "name": "Thassos Treasure Guesthouse",
+  "propertyType": "guesthouse",
+  "rentalMode": "individual_units_with_group_requests",
+  "location": {
+    "country": "GR",
+    "island": "Thassos",
+    "areaSlug": "skala-prinos",
+    "settlement": "Skala Prinos",
+    "setting": "seaside"
+  },
+  "property": {
+    "guestFloors": 2,
+    "roomsTotal": 8,
+    "roomsPerFloor": 4,
+    "standardCapacityGuests": 16,
+    "privateBathroomsTotal": 8,
+    "sharedKitchensTotal": 2,
+    "roomDistribution": [
+      {
+        "level": "ground_floor",
+        "rooms": 4
+      },
+      {
+        "level": "first_floor",
+        "rooms": 4
+      }
+    ]
+  },
+  "unitTypes": [
+    {
+      "id": "guest-room",
+      "name": "Guest room with private bathroom",
+      "quantity": 8,
+      "bookableSeparately": true,
+      "sleepingRoomsPerUnit": 1,
+      "standardGuestsPerUnit": 2,
+      "extraGuest": {
+        "possibleOnRequest": true,
+        "ownerConfirmationRequired": true
+      },
+      "bathrooms": {
+        "privatePerUnit": 1,
+        "ensuite": true
+      },
+      "kitchenAccess": "shared_floor_kitchen",
+      "amenities": [
+        "air_conditioning",
+        "wifi"
+      ]
+    }
+  ],
+  "sharedSpaces": {
+    "kitchens": {
+      "count": 2,
+      "distribution": "one_per_guest_floor",
+      "roomsServedPerKitchen": 4,
+      "equipment": "equipped_as_advertised"
+    },
+    "barbecueArea": true
+  },
+  "amenities": {
+    "property": [
+      "wifi",
+      "parking",
+      "barbecue_area",
+      "gift_shop"
+    ],
+    "beach": [
+      "sunbeds_for_guests",
+      "sun_umbrellas_for_guests"
+    ]
+  },
+  "beachAccess": {
+    "primaryBeachSlug": "skala-prinos",
+    "relationship": "seaside_with_direct_beach_access_described",
+    "sunbedsForGuests": true,
+    "umbrellasForGuests": true,
+    "note": "Do not advertise legal private ownership of the beach or an exact distance without verification.",
+    "distanceDescription": "beachfront/direct sea access; precise meters to specific registered beach entry not verified",
+    "beachSlugRequiresGeographicReview": true
+  },
+  "booking": {
+    "method": "direct_request",
+    "channels": [
+      "website_form",
+      "whatsapp_enquiry"
+    ],
+    "confirmation": "owner_approval_required",
+    "unitRequestCount": {
+      "min": 1,
+      "max": 8
+    },
+    "guestsPerRoomStandard": 2,
+    "additionalGuests": "on_request_only",
+    "payments": [
+      {
+        "type": "full_payment",
+        "percent": 100
+      },
+      {
+        "type": "deposit",
+        "depositPercent": 35,
+        "balancePercent": 65,
+        "balanceDue": "on_arrival"
+      }
+    ]
+  },
+  "pricing": {
+    "currency": "EUR",
+    "basis": "per_room_per_night_for_two_guests",
+    "campaign": "Early Booking 2027",
+    "rateDeterminedBy": "booking_month_not_stay_month",
+    "ratesAsDisplayedOnWebsite": [
+      {
+        "bookingMonths": "2026-10",
+        "fullPayment": 60,
+        "depositOption": 70
+      },
+      {
+        "bookingMonths": "2026-11..2026-12",
+        "fullPayment": 65,
+        "depositOption": 75
+      },
+      {
+        "bookingMonths": "2027-01..2027-02",
+        "fullPayment": 75,
+        "depositOption": 85
+      },
+      {
+        "bookingMonths": "2027-03..2027-04",
+        "fullPayment": 80,
+        "depositOption": 90
+      },
+      {
+        "bookingMonths": "2027-05..2027-06",
+        "fullPayment": 85,
+        "depositOption": 95
+      },
+      {
+        "bookingMonths": "2027-07..2027-08",
+        "fullPayment": 90,
+        "depositOption": 100
+      }
+    ],
+    "rateStatus": "website_snapshot_requires_owner_reconfirmation",
+    "finalPrice": "confirmed_after_direct_enquiry"
+  },
+  "content": {
+    "ro": {
+      "tagline": "O vacanță liniștită, chiar lângă mare, în Skala Prinos",
+      "shortDescription": "Pensiune la malul mării în Skala Prinos, cu opt camere cu baie privată, două bucătării comune complet echipate și o zonă de plajă cu șezlonguri și umbrele pentru oaspeți.",
+      "description": "Thassos Treasure Guesthouse propune un sejur relaxat în Skala Prinos, pe coasta insulei Thassos, aproape de mare. Proprietatea are opt camere, fiecare cu baie privată, distribuite câte patru pe fiecare dintre cele două niveluri. La fiecare nivel există o bucătărie comună echipată, astfel încât oaspeții își pot pregăti mesele într-un ritm propriu. Camerele găzduiesc în mod obișnuit două persoane, iar o a treia persoană — în special un copil — poate fi acceptată numai după confirmarea proprietarului. Facilitățile prezentate includ aer condiționat, Wi-Fi, parcare și zonă de grătar. Un punct forte este apropierea imediată de plajă și disponibilitatea șezlongurilor și umbrelelor destinate oaspeților, în condițiile stabilite de proprietate. Rezervările se solicită direct, iar disponibilitatea, tariful și orice aranjament special se confirmă individual.",
+      "seoTitle": "Thassos Treasure Guesthouse | Cazare la mare în Skala Prinos",
+      "seoDescription": "Descoperă Thassos Treasure Guesthouse în Skala Prinos: opt camere cu băi private, bucătării comune, plajă aproape și solicitări de rezervare directă."
+    },
+    "en": {
+      "tagline": "A relaxed seaside escape in Skala Prinos",
+      "shortDescription": "A beachfront guesthouse in Skala Prinos with eight rooms with private bathrooms, two fully equipped shared kitchens, and guest beach sunbeds and parasols.",
+      "description": "Thassos Treasure Guesthouse offers a relaxed seaside stay in Skala Prinos on the island of Thassos. The property has eight guest rooms, each with its own private bathroom, with four rooms on each of two levels. Guests share one equipped kitchen per level, offering flexibility for preparing meals during the stay. Rooms normally accommodate two people. A third guest, particularly a child travelling with family, is possible only by prior arrangement and owner confirmation. The property describes air conditioning, Wi-Fi, parking and a barbecue area among its amenities. Its most distinctive feature is its position beside the shore, with sunbeds and parasols intended for guests subject to the property’s arrangements. Direct booking is request-based: availability, the final price, the room configuration and any special arrangements must be confirmed individually by the owner.",
+      "seoTitle": "Thassos Treasure Guesthouse | Seaside Stay in Skala Prinos",
+      "seoDescription": "Explore Thassos Treasure Guesthouse in Skala Prinos: eight private-bathroom rooms, shared kitchens, seaside setting and direct booking enquiries."
+    },
+    "el": {
+      "tagline": "Ήρεμες διακοπές δίπλα στη θάλασσα στη Σκάλα Πρίνου",
+      "shortDescription": "Παραθαλάσσιος ξενώνας στη Σκάλα Πρίνου με οκτώ δωμάτια με ιδιωτικό μπάνιο, δύο εξοπλισμένες κοινόχρηστες κουζίνες και ξαπλώστρες με ομπρέλες για τους επισκέπτες.",
+      "description": "Το Thassos Treasure Guesthouse προσφέρει χαλαρή διαμονή δίπλα στη θάλασσα, στη Σκάλα Πρίνου της Θάσου. Διαθέτει οκτώ δωμάτια με ιδιωτικό μπάνιο, τέσσερα σε κάθε ένα από τα δύο επίπεδα. Σε κάθε επίπεδο υπάρχει μία εξοπλισμένη κοινόχρηστη κουζίνα, ώστε οι επισκέπτες να μπορούν να προετοιμάζουν τα γεύματά τους. Κάθε δωμάτιο φιλοξενεί συνήθως δύο άτομα. Ένα τρίτο άτομο, ιδίως παιδί που ταξιδεύει με την οικογένεια, μπορεί να γίνει δεκτό μόνο κατόπιν συνεννόησης και επιβεβαίωσης από τον ιδιοκτήτη. Στις παροχές που παρουσιάζονται περιλαμβάνονται κλιματισμός, Wi-Fi, στάθμευση και χώρος μπάρμπεκιου. Η άμεση εγγύτητα στη θάλασσα και οι ξαπλώστρες με ομπρέλες για τους επισκέπτες αποτελούν σημαντικά πλεονεκτήματα, υπό τους όρους της επιχείρησης. Η απευθείας κράτηση γίνεται με αίτημα, ενώ η διαθεσιμότητα και η τελική τιμή επιβεβαιώνονται ξεχωριστά.",
+      "seoTitle": "Thassos Treasure Guesthouse | Παραθαλάσσια διαμονή στη Σκάλα Πρίνου",
+      "seoDescription": "Γνωρίστε το Thassos Treasure Guesthouse στη Σκάλα Πρίνου: οκτώ δωμάτια με ιδιωτικό μπάνιο, κοινόχρηστες κουζίνες και αιτήματα απευθείας κράτησης."
+    },
+    "de": {
+      "tagline": "Entspannte Auszeit direkt am Meer in Skala Prinos",
+      "shortDescription": "Gästehaus am Meer in Skala Prinos mit acht Zimmern mit eigenem Bad, zwei ausgestatteten Gemeinschaftsküchen und Liegen und Sonnenschirmen für Gäste am Strand.",
+      "description": "Das Thassos Treasure Guesthouse liegt direkt am Meer in Skala Prinos auf Thassos und lädt zu einem entspannten Aufenthalt ein. Es verfügt über acht Gästezimmer mit jeweils eigenem Badezimmer, vier auf jeder der beiden Ebenen. Pro Ebene steht eine ausgestattete Gemeinschaftsküche zur Verfügung. Ein Zimmer ist normalerweise für zwei Personen vorgesehen. Eine dritte Person, insbesondere ein Kind, kann nur nach vorheriger Absprache und Bestätigung durch den Eigentümer untergebracht werden. Zu den beschriebenen Einrichtungen gehören Klimaanlage, WLAN, Parkmöglichkeiten und ein Grillbereich. Besonders attraktiv ist die Nähe zum Strand mit Liegen und Sonnenschirmen für Gäste nach den Bedingungen der Unterkunft. Die Buchung erfolgt über eine direkte Anfrage. Verfügbarkeit, Endpreis und Sonderwünsche werden individuell bestätigt.",
+      "seoTitle": "Thassos Treasure Guesthouse | Urlaub am Meer in Skala Prinos",
+      "seoDescription": "Thassos Treasure Guesthouse in Skala Prinos: acht Zimmer mit eigenem Bad, Gemeinschaftsküchen, Meerlage und direkte Buchungsanfragen."
+    },
+    "bg": {
+      "tagline": "Спокойна почивка край морето в Скала Принос",
+      "shortDescription": "Крайморска къща за гости в Скала Принос с осем стаи със собствени бани, две оборудвани общи кухни и шезлонги с чадъри за гостите.",
+      "description": "Thassos Treasure Guesthouse предлага спокойна почивка край морето в Скала Принос на остров Тасос. Къщата разполага с осем стаи, всяка със собствена баня, по четири на всяко от двете нива. На всеки етаж има по една оборудвана обща кухня, където гостите могат да приготвят храната си. Обикновено всяка стая е за двама души. Трети гост, особено дете, е възможен само след предварителна уговорка и потвърждение от собственика. Сред посочените удобства са климатик, Wi-Fi, паркинг и зона за барбекю. Голямо предимство е близостта до плажа, където има шезлонги и чадъри за гостите при условията на обекта. Резервацията започва с директно запитване, а наличността, крайната цена и специалните условия се потвърждават индивидуално.",
+      "seoTitle": "Thassos Treasure Guesthouse | Настаняване край морето в Скала Принос",
+      "seoDescription": "Thassos Treasure Guesthouse в Скала Принос: осем стаи със собствени бани, общи кухни, морска локация и директни запитвания."
+    },
+    "sr": {
+      "tagline": "Opušten odmor kraj mora u Skala Prinosu",
+      "shortDescription": "Pansion uz more u Skala Prinosu sa osam soba sa privatnim kupatilom, dve opremljene zajedničke kuhinje i ležaljkama i suncobranima za goste.",
+      "description": "Thassos Treasure Guesthouse nudi miran odmor kraj mora u Skala Prinosu na Tasosu. Objekat ima osam soba, svaku sa zasebnim kupatilom, po četiri sobe na oba nivoa. Na svakom nivou nalazi se po jedna opremljena zajednička kuhinja. Sobe su uobičajeno namenjene za dve osobe. Treći gost, naročito dete koje putuje sa porodicom, moguć je isključivo uz prethodni dogovor i potvrdu vlasnika. Među navedenim pogodnostima su klima-uređaj, Wi-Fi, parking i prostor za roštilj. Blizina plaže, uz ležaljke i suncobrane za goste u skladu sa pravilima smeštaja, jedna je od glavnih prednosti. Rezervacija se pokreće slanjem direktnog upita; vlasnik zatim potvrđuje raspoloživost, konačnu cenu i posebne zahteve.",
+      "seoTitle": "Thassos Treasure Guesthouse | Smeštaj uz more u Skala Prinosu",
+      "seoDescription": "Otkrijte Thassos Treasure Guesthouse u Skala Prinosu: osam soba sa kupatilima, dve zajedničke kuhinje i direktni upiti za smeštaj."
+    }
+  },
+  "bookingOptions": [
+    {
+      "code": "rooms",
+      "scope": "individual_rooms",
+      "roomCount": {
+        "minimum": 1,
+        "maximum": 8
+      },
+      "status": "request_only"
+    },
+    {
+      "code": "floor",
+      "scope": "one_floor_four_rooms",
+      "roomCount": 4,
+      "status": "confirmation_required_before_publication",
+      "source": "historical_business_listing"
+    },
+    {
+      "code": "entire",
+      "scope": "entire_guesthouse",
+      "roomCount": 8,
+      "status": "confirmation_required_before_publication",
+      "source": "historical_business_listing"
+    }
+  ],
+  "media": {
+    "imageFolder": "images/",
+    "cover": "images/Refugiu mediteranean lângă mare.webp",
+    "gallery": {
+      "beach": [
+        "images/Șezlonguri turcoaz la apus.webp",
+        "images/Refugiu mediteranean lângă mare.webp",
+        "images/Plajă mediteraneană cu umbrele de paie.webp",
+        "images/Vacanță mediteraneană sub umbrele de paie.webp",
+        "images/Stațiune mediteraneană sub umbrar turcoaz.webp"
+      ],
+      "rooms": [
+        "images/Dormitor boho cu accente turcoaz și balcon luminos.webp",
+        "images/Dormitor boho luminos cu accente turcoaz.webp",
+        "images/Dormitor boem cu vedere la mare.webp",
+        "images/Dormitor coastal luminos cu accente turcoaz.webp",
+        "images/Dormitor boho cu accente marine.webp",
+        "images/Dormitor boho luminos cu accente aqua.webp"
+      ],
+      "kitchens": [
+        "images/Bucătărie luminoasă cu vedere la balcon.webp",
+        "images/Bucătărie coastală cu vedere însorită.webp",
+        "images/Luminos colț mediteranean pentru cafea.webp"
+      ],
+      "bathrooms": [
+        "images/Baie modernă cu accente marine.webp",
+        "images/Baie scandinavă cu accente marine.webp"
+      ],
+      "interiors": [
+        "images/Coridor mediteranean către marea Thassos.webp",
+        "images/Priveliste marină prin ușa balconului.webp",
+        "images/Hol mediteranean luminos și boem.webp",
+        "images/Hol cu accente marine și uși colorate.webp",
+        "images/Hol însorit cu scară de marmură.webp",
+        "images/Perne decorative în stil marin###.webp"
+      ],
+      "gift_shop": [
+        "images/Vitrină însorită cu suveniruri din Thassos.webp"
+      ]
+    },
+    "photoCount": 23,
+    "photoFileConvention": "original_filenames_preserved",
+    "videoFolder": "videos/",
+    "videoSupport": "optional_uploads_when_available"
+  },
+  "dataNotes": [
+    "Known property facts and displayed rate schedule originate from the existing Thassos Treasure website; rate is a snapshot, not live availability.",
+    "Eight rooms and eight private bathrooms are verified from property website. Exact bed configurations remain to be confirmed.",
+    "Four rooms per level, and enquiries for an entire level/guesthouse, appear in a secondary property listing; do not enable group booking without owner verification.",
+    "Location is described as beachfront. Beach slug skala-prinos must be reviewed against the actual property pin and the boundaries of the beach catalog.",
+    "Optional video uploads are supported by directory convention; do not list media files until physically present."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "restaurantSlug": "napoleon-tavern",
+  "imageCount": 10,
+  "fileNamingPolicy": "Exact original user-supplied filenames; do not rename or change PNG to WebP without actual image conversion and JSON update.",
+  "imageFolder": "images/",
+  "publicationRights": "Permission/license for commercial website use must be confirmed before publication.",
+  "images": [
+    {
+      "file": "images/Cafenea însorită pe terasa de la malul mării.png",
+      "role": "exterior",
+      "altEn": "Terrace tables beside the seafront",
+      "originalFilename": "Cafenea însorită pe terasa de la malul mării.png",
+      "commercialRights": "confirm_before_publish"
+    },
+    {
+      "file": "images/Cafenea mediteraneană pe plajă însorită.png",
+      "role": "exterior",
+      "altEn": "Tables and beach seating with parasols",
+      "originalFilename": "Cafenea mediteraneană pe plajă însorită.png",
+      "commercialRights": "confirm_before_publish"
+    },
+    {
+      "file": "images/Cafenea mediteraneană cu mobilier turcoaz.png",
+      "role": "interior",
+      "altEn": "Turquoise chairs and restaurant service area",
+      "originalFilename": "Cafenea mediteraneană cu mobilier turcoaz.png",
+      "commercialRights": "confirm_before_publish"
+    },
+    {
+      "file": "images/Taverna Napoleon pe plaja mediteraneană.png",
+      "role": "cover",
+      "altEn": "Napoleon Tavern sign and beachfront",
+      "originalFilename": "Taverna Napoleon pe plaja mediteraneană.png",
+      "commercialRights": "confirm_before_publish"
+    },
+    {
+      "file": "images/Pește prăjit cu cartofi și lămâie.png",
+      "role": "food",
+      "altEn": "Fried small fish with potatoes and lemon",
+      "originalFilename": "Pește prăjit cu cartofi și lămâie.png",
+      "commercialRights": "confirm_before_publish"
+    },
+    {
+      "file": "images/Frigărui la grătar cu salată și cartofi prăjiți.png",
+      "role": "food",
+      "altEn": "Grilled meat skewers with salad and potato wedges",
+      "originalFilename": "Frigărui la grătar cu salată și cartofi prăjiți.png",
+      "commercialRights": "confirm_before_publish"
+    },
+    {
+      "file": "images/Platou mediteranean cu fructe de mare prăjite.png",
+      "role": "food",
+      "altEn": "Mixed seafood platter with fried seafood",
+      "originalFilename": "Platou mediteranean cu fructe de mare prăjite.png",
+      "commercialRights": "confirm_before_publish"
+    },
+    {
+      "file": "images/Apus auriu la clubul de plajă.png",
+      "role": "atmosphere",
+      "altEn": "Golden sunset seen from restaurant beach terrace",
+      "originalFilename": "Apus auriu la clubul de plajă.png",
+      "commercialRights": "confirm_before_publish"
+    },
+    {
+      "file": "images/Platou generos cu pește prăjit și garnituri.png",
+      "role": "food",
+      "altEn": "Fried fish pieces with sides",
+      "originalFilename": "Platou generos cu pește prăjit și garnituri.png",
+      "commercialRights": "confirm_before_publish"
+    },
+    {
+      "file": "images/Pește la grătar cu salată și cartofi.png",
+      "role": "food",
+      "altEn": "Grilled whole fish with potatoes and slaw",
+      "originalFilename": "Pește la grătar cu salată și cartofi.png",
+      "commercialRights": "confirm_before_publish"
+    }
+  ]
+}
