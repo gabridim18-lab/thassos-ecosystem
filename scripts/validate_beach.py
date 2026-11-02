@@ -23,7 +23,10 @@ for p in files:
     assert len(x['source_references'])>=2, p
     assert x['media']['cover'] is None or Path(root/x['media']['cover']).exists(), p
     for g in x['media']['gallery']:
-        assert Path(root/g['path']).exists(), p
+        # Accept both existing gallery formats: "path.webp" and {"path": "path.webp"}.
+        image_path = g if isinstance(g, str) else g.get('path') if isinstance(g, dict) else None
+        assert isinstance(image_path, str) and image_path, (p, 'invalid gallery entry', g)
+        assert (root / image_path).is_file(), (p, 'missing gallery image', image_path)
     if x['editorial']['publish_ready']:
         assert x['media']['cover'] is not None, f'{p}: publish_ready requires cover'
     print('OK',p.relative_to(root), 'translations:',len(x['translations']))

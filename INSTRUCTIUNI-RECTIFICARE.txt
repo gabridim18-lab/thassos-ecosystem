@@ -1,0 +1,45 @@
+THASSOS ECOSYSTEM - RECTIFICARE GITHUB ACTIONS (02.11.2026)
+=========================================================
+Repository: gabridim18-lab/thassos-ecosystem
+
+CE REPARA PACHETUL
+1) scripts/validate_beach.py
+   - Accepta ambele tipuri de galerie deja folosite in beach.json:
+     "cale/imagine.webp" si {"path": "cale/imagine.webp"}.
+   - Continua sa semnaleze imaginile lipsa.
+
+2) destinations/thassos/areas/skala-prinos/area.json
+   - Inlocuieste o copie gresita, identica cu Skala Sotiros.
+   - Corecteaza ID-ul, numele si referintele catre fotografiile
+     deja prezente: skala-prinos1.webp ... skala-prinos5.webp.
+   - Pastreaza statut DRAFT; datele editoriale trebuie documentate
+     ulterior, iar publicarea / drepturile foto nu sunt confirmate.
+
+INSTALARE CU GITHUB DESKTOP (Windows)
+1) In GitHub Desktop deschide repository-ul thassos-ecosystem.
+2) Foloseste Fetch origin si Pull origin (daca apar modificari noi).
+3) Extrage toate FISIERELE din ZIP direct in RADACINA folderului
+   local thassos-ecosystem si accepta Replace/Overwrite pentru cele
+   doua fisiere existente. ATENTIE: nu copia un folder suplimentar
+   'thassos_fix_temp' peste repository; pastreaza structura din ZIP.
+4) In GitHub Desktop vei vedea doua fisiere modificate (si acest
+   document, daca l-ai copiat). Foloseste Commit to main si Push origin.
+5) In GitHub -> Actions urmareste:
+   - Validate beach JSON -> SUCCESS (verde)
+   - Build Thassos social catalog -> SUCCESS (verde)
+   Generatorul ar trebui apoi sa creeze catalog/thassos-catalog.json
+   si sa-l trimita automat in repository.
+6) Dupa generare, in GitHub Desktop foloseste din nou Fetch origin si
+   Pull origin ca sa preiei fisierul nou de catalog creat de workflow.
+
+PORNIRE STUDIO LOCAL
+Din folderul local thassos-ecosystem deschide terminal si ruleaza:
+    py -m http.server 8000
+Apoi deschide in browser:
+    http://localhost:8000/studio/
+Nu deschide studio/index.html direct din Windows Explorer cu file://.
+
+IMPORTANT
+Nu trebuie sa incarci fotografiile din nou. Nu sterge directoarele
+images/. Daca Actions ramane rosie, deschide noua rulare esuata si
+trimite mesajul exact al erorii (noua eroare poate fi diferita).

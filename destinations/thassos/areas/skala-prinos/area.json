@@ -1,431 +1,95 @@
 {
   "schema_version": 3,
-  "id": "gr-thassos-area-skala-sotiros",
-  "slug": "skala-sotiros",
+  "id": "gr-thassos-area-skala-prinos",
+  "slug": "skala-prinos",
   "record_type": "area",
   "destination_id": "gr-thassos",
   "identity": {
-    "official_local_name": "Σκάλα Σωτήρος",
-    "international_name": "Skala Sotiros",
-    "aliases": [
-      "Skala Sotirou",
-      "Skala Sotira",
-      "Skala Sotiras",
-      "Skala Sotiros Village",
-      "Scala Sotiros",
-      "Σκάλα Σωτήρα",
-      "Σκάλα Σωτήρος"
-    ],
-    "area_type": "coastal_village",
-    "entity_scope": "Distinct small inhabited fishing-harbour village on the west-northwest coast of Thassos, with its lanes, small waterfront, shops, accommodation and immediate seafront; includes the village but not all distant neighbouring shoreline or the inland mountain village Sotiras.",
-    "deduplication_warning": "Skala Sotiros (coastal village) and Sotiras/Sotiros (separate inland mountain village) must not be merged. Skala Sotiros Beach is an independent BEACH record and the village harbour a future port/harbour POI; do not duplicate either as a second settlement or assume the entire village shoreline equals the central bathing beach. Distinguish similarly named Skala Kallirachis and Skala Prinos.",
-    "parent_area_id": null
+    "official_local_name": "Σκάλα Πρίνου",
+    "international_name": "Skala Prinos (Ormos Prinou)",
+    "area_type": "port_coastal_village",
+    "entity_scope": "Coastal settlement entry; not a beach entry. Full destination profile is pending independent editorial research."
   },
   "location": {
     "country": "GR",
     "island": "Thassos",
-    "municipality": "Thassos",
     "coastal": true,
-    "coast": "west-northwest",
-    "part_of_island": "western",
     "center": {
-      "lat": 40.72812,
-      "lng": 24.5472,
-      "coordinate_role": "OSM_place_village_reference_point_not_harbour_mooring_beach_access_business_or_vehicle_navigation",
-      "coordinate_source": "Mapcarta/OpenStreetMap village node 342807638 (place=village)",
-      "coordinate_source_url": "https://mapcarta.com/13814172",
-      "verification_status": "OSM_village_reference_location_documented_but_precise_arrival_and_boundary_pending_review",
-      "verified_on": "2026-10-27"
+      "lat": 40.75857,
+      "lng": 24.577,
+      "verification_status": "provisional",
+      "coordinate_role": "provisional_area_reference_not_confirmed_navigation_or_access_point"
     },
     "arrival_point": {
       "lat": null,
       "lng": null,
-      "label": null,
-      "access_verified": false,
-      "source_url": null
-    },
-    "boundary_geojson_path": null,
-    "geographic_notes": "Settlement node at 40.72812,24.54720 represents Skala Sotiros village, not the sandy beach mapped around 40.72786,24.54640 (OSM beach way 254820871) and not the prehistoric archaeological site mapped around 40.72995,24.54890. Nearby inland Sotiras lies uphill and is not part of this village polygon. Do not route a user to this centre point without validating actual pedestrian/road access; calculate proximity to individual beach/venue GPS points."
+      "access_verified": false
+    }
   },
   "overview": {
-    "settlement_character": "small_working_fishing_harbour_and_quiet_family_oriented_seaside_village",
-    "tourism_profile": [
-      "compact_seafront_village",
-      "small_fishing_harbour_and_waterfront_walk",
-      "small_seasonally_organized_sandy_village_beach",
-      "local_tavernas_cafes_and_bakery",
-      "holiday_rooms_apartments_and_family_stays",
-      "west_facing_late_afternoon_light_and_sunsets",
-      "olive_growing_and_coastal_fishing_heritage",
-      "Bronze_Age_archaeological_traces_near_church_hill",
-      "convenient_west_coast_island_road_base"
-    ],
-    "best_time_to_visit": "Late spring through early autumn for beach time and waterfront dining. Summer brings the widest range of seasonal services; late afternoon and sunset are atmospheric when weather is clear. The village itself is a year-round settlement, but tourism services are seasonal.",
-    "peak_season_notes": "Peak summer can bring full accommodation and competition for limited beach and street-parking spaces. The shore is small compared with major resort beaches. Shop opening times, loungers and tavernas are seasonal and should never be promised without a current provider check."
+    "status": "draft_pending_research"
   },
-  "history_culture": {
-    "heritage_themes": [
-      "origin_as_coastal_fishing_anchorage_for_inland_Sotiras",
-      "development_into_a_holiday_settlement_during_late_20th_century",
-      "olive_growing_and_historic_processing_in_western_Thassos",
-      "small_fishing_boats_and_working_harbour",
-      "Early_Bronze_Age_fortified_settlement_of_Skala_Sotiros",
-      "religious_traditions_and_local_August_6_festival"
-    ],
-    "local_traditions": [
-      "working_fishing_harbour_and_small_boat_culture",
-      "olive_harvest_and_oil_products_in_surrounding_region",
-      "village_bakery_and_seafront_taverna_life",
-      "local_religious_celebrations_around_the_Transfiguration_feast_on_6_August_subject_to_annual_program"
-    ],
-    "local_food_specialties": [
-      "fresh_fish_when_in_season_and_available",
-      "grilled_seafood_and_Greek_meze",
-      "regional_Thassos_olives_and_olive_oil",
-      "traditional_Greek_breads_from_local_bakeries",
-      "local_honey_and_other_island_products_when_available"
-    ]
-  },
-  "visitor_experience": {
-    "best_for": [
-      "couples_looking_for_a_low_key_west_coast_base",
-      "families_seeking_short_walks_and_a_small_village_beach",
-      "visitors_who_prefer_fishing_village_character_to_nightclubs",
-      "relaxed_evening_meals_and_sunset_photography",
-      "travellers_interested_in_local_history_and_archaeology",
-      "visitors_making_short_drives_to_neighbouring_west_coast_beaches"
-    ],
-    "experiences": [
-      "walk_the_public_waterfront_and_view_small_fishing_boats_from_permitted_spaces",
-      "spend_time_on_the_small_central_village_beach_and_check_actual_swimming_section",
-      "watch_western_evening_light_and_sunset_when_conditions_allow",
-      "try_local_bakery_products_and_a_taverna_meal",
-      "observe_village_olive_culture_and_existing_heritage_features_without_entering_private_sites",
-      "learn_about_the_early_Bronze_Age_settlement_near_the_church_hill_with_access_checked_locally",
-      "take_a_separate_trip_uphill_to_the_mountain_village_Sotiras",
-      "explore_neighbouring_Skala_Prinou_and_Skala_Kallirachis_as_distinct_places"
-    ],
-    "points_of_interest_summary": [
-      "Skala Sotiros harbour and village waterfront — working small-boat harbour, not a ferry terminal",
-      "Skala Sotiros Beach — small central sandy bathing area with some pebbles; separate beach.json",
-      "Prehistoric settlement of Skala Sotiros — Early Bronze Age fortified site, opening/access not confirmed",
-      "Village church/hill area — local religious setting; archaeological remains in its wider vicinity",
-      "Historic olive-processing features and olive-growing landscape — exact public visiting status to be checked",
-      "Inland Sotiras — separate mountain village reached by an uphill road, not another name for this settlement"
-    ],
-    "estimated_visit_duration": "Around 1–2 hours for a village stroll, waterfront and a relaxed meal; half a day or longer if combining the village beach. These are editorial planning suggestions, not measured activity durations.",
-    "family_suitability": "Suitable for families preferring a quiet seaside base and a generally gentle-entry village beach in appropriate conditions. Supervise children continuously, check depth and stones underfoot and keep them away from harbour boat movements.",
-    "mobility_considerations": "Parts of the settlement are close to the waterfront, but routes may include roads shared with vehicles, kerbs and irregular surfaces. Step-free access to sand, beach mobility equipment, ramps and accessible toilets have not been verified.",
-    "local_insider_score": null,
-    "user_rating": null
-  },
-  "practical_info": {
-    "road_access": "Reached on the paved coastal ring road running between Skala Prinos to the north and Skala Kallirachis to the south-west. This is a road description, not a verified entrance or public parking route.",
-    "public_transport": "Skala Sotiros appears on published local Thassos KTEL routes connecting west-coast settlements with Limenas and the south coast. Timetables and stops change with season; check the updated operator schedule before travel and verify the correct roadside stop.",
-    "parking_overview": "Village roadside or small local parking spaces may be available, but no specific public car park, price, accessibility or guaranteed free space has been independently confirmed. Avoid blocking harbour operations, private entrances, narrow streets or the coastal road.",
-    "pedestrian_access": "Compact village centre, seafront and eating places are generally approachable on foot once parked appropriately. Traffic, kerbs, heat and the separation between harbour and actual swimming beach still require attention.",
-    "accessibility_note": "No verified continuous step-free pedestrian route, wheelchair beach entrance, accessible seaside WC or beach transport equipment. Do not mark the locality or beach as universally accessible without a specific on-site audit.",
-    "general_amenities": {
-      "supermarket": true,
-      "pharmacy": null,
-      "atm": null,
-      "medical_services": null,
-      "fuel_station": null,
-      "restaurants_and_cafes": true
-    },
-    "visitor_safety_notes": "Use the marked beach swimming area rather than the working harbour. Boats, lines and manoeuvring vessels are hazards. On the beach, conditions vary with wind and waves; pebbles or stones may occur at the waterline. Do not enter fenced archaeology or private olive-processing buildings. Medical, ATM and pharmacy facilities must be checked separately as individually mapped services.",
-    "practical_data_review_required": true
-  },
-  "connections": {
-    "nearby_area_ids": [
-      "gr-thassos-area-skala-prinos",
-      "gr-thassos-area-skala-kallirachis",
-      "gr-thassos-area-skala-rachoniou"
-    ],
-    "featured_beach_ids": [
-      "gr-thassos-beach-skala-sotiros"
-    ],
-    "featured_attraction_ids": [],
-    "connected_port_ids": [],
-    "relationship_policy": "Connect the existing gr-thassos-beach-skala-sotiros beach record for the central bathing area; its provisional OSM-derived beach centroid (40.72786,24.54640) must not replace the OSM village node (40.72812,24.54720). Nearby settlements are contextual suggested links, not an automatically calculated radius or proof of route times. The working fishing harbour is NOT a passenger ferry port. Separate archaeologic/harbour POI identifiers and exact access points will be added only when verified and their catalog records exist; do not invent attraction IDs. The inland Sotiras village is a distinct place outside this starter areas shortlist. Businesses, accommodations, services and beaches must be queried by their own geocoordinates for nearest-to-user features, not from the area centre.",
-    "featured_business_ids": []
-  },
-  "transport_links": {
-    "ferry_port_on_site": false,
-    "ferry_port_ids": [],
-    "ferry_schedule_policy": "Skala Sotiros fishing harbour is NOT a scheduled passenger/vehicle ferry terminal. Thassos mainland ferries use Limenas–Keramoti and Skala Prinos–Kavala. Do not attach ferry timetables to Skala Sotiros. Store live ferry and seasonal bus information separately with source, validity dates, last_checked, Europe/Athens timezone and cancellation notices."
-  },
+  "practical_info": {},
+  "connections": {},
   "translations": {
     "ro": {
-      "name": "Skala Sotiros",
-      "tagline": "Un sat pescăresc liniștit, cu port mic, plajă și apusuri pe coasta vestică",
-      "summary": "Skala Sotiros este un sat de coastă din vestul insulei Thassos, apreciat pentru portul cu bărci mici, plaja centrală, tavernele de lângă mare și ritmul relaxat. În apropiere există și urme ale unei așezări fortificate din Epoca Bronzului.",
-      "description": "Skala Sotiros este un loc potrivit pentru cei care vor să descopere o parte mai calmă a insulei Thassos. Așezat pe coasta vestică, între Skala Prinos și Skala Kallirachis, satul păstrează atmosfera unui port pescăresc: ambarcațiuni mici, o promenadă modestă, terase și case de vacanță răspândite în apropierea țărmului. În locul unei stațiuni cu cluburi și agitație până târziu, aici găsești plimbări scurte, mese fără grabă și lumină frumoasă spre apus. Plaja centrală este mică, în mare parte nisipoasă, cu pietricele în unele puncte; vara pot funcționa sectoare cu șezlonguri și umbrele. Pentru înot trebuie aleasă zona de plajă, nu spațiul în care manevrează bărcile din port. Satele și plajele de pe coasta vestică sunt accesibile prin șoseaua insulei, așa că Skala Sotiros poate servi drept bază liniștită pentru explorare. În spatele vieții cotidiene se află și o istorie neașteptat de veche: cercetările arheologice au identificat aici o așezare fortificată din prima parte a Epocii Bronzului, în zona colinei bisericii. Numele satului trimite la Sotiras, așezarea montană din interior, de care trebuie deosebită Skala Sotiros. Tradițiile de pescuit, măslinii și sărbătoarea religioasă de la începutul lunii august completează profilul local. Este o alegere bună pentru familii, cupluri și turiști care apreciază o comunitate de coastă autentică, cu facilități modeste și mai puțină animație nocturnă.",
-      "history_culture": "Inițial, Skala Sotiros a fost punctul de legătură cu marea pentru locuitorii satului montan Sotiras, cu bărci de pescuit și activități legate de măslini. Dezvoltarea turistică s-a intensificat în ultimele decenii ale secolului XX. Ministerul Culturii din Grecia documentează aici o mică așezare de coastă fortificată din Epoca Bronzului timpuriu, activă în mileniul al III-lea î.Hr. Zona bisericii și sărbătoarea Schimbării la Față, pe 6 august, păstrează o altă dimensiune a identității locale; programul anual trebuie verificat.",
-      "local_character": "Un sat de coastă locuit, nu un parc turistic: port pescăresc, brutărie, câteva magazine, taverne, cazări de familie și seri petrecute privind marea.",
-      "what_to_do": "Plimbă-te pe faleza și străduțele satului, admiră bărcile din zonele publice, petrece câteva ore la plaja centrală, încearcă pâinea locală și o masă la tavernă. Poți afla povestea sitului preistoric de lângă zona bisericii, fără să presupui că accesul pe sit este liber. Pentru o ieșire diferită, urcă separat spre satul montan Sotiras.",
-      "practical_tips": "Centrul satului se află la 40.72812, 24.54720, însă acesta este un reper geografic, nu o intrare de parcare. Verifică regulile actuale pentru șezlonguri și programul restaurantelor. Autobuzele circulă pe anumite rute ale insulei, dar orarul și stația exactă trebuie confirmate. Nu înota în port și nu intra în zone arheologice sau proprietăți private fără permisiune. Pentru familii, verifică pietricelele și adâncimea apei pe sectorul ales.",
-      "highlights": [
-        "Sat pescăresc și port pitoresc",
-        "Plajă centrală mică, în mare parte nisipoasă",
-        "Taverne, brutărie și atmosferă tihnită",
-        "Urme ale unei așezări fortificate din Epoca Bronzului",
-        "Lumina de seară și apusuri spre vest"
-      ],
-      "seo_title": "Skala Sotiros Thassos – sat pescăresc, plajă și atracții",
-      "seo_description": "Descoperă Skala Sotiros din Thassos: port pescăresc, plajă liniștită, taverne, istorie din Epoca Bronzului și sfaturi practice pentru vizită.",
-      "social_caption": "🌅 Skala Sotiros, Thassos: bărci pescărești, o plajă mică și seri tihnite lângă mare. O oprire frumoasă pe coasta vestică a insulei! 🇬🇷 #Thassos #SkalaSotiros #ExploreThassos",
-      "photo_alt": "Panoramă a satului Skala Sotiros din Thassos, cu port pescăresc, case pe coastă și Marea Egee."
+      "name": "Skala Prinos (Ormos Prinou)",
+      "summary": "Sat-port la malul mării în Thassos. Fișă în curs de documentare."
     },
     "en": {
-      "name": "Skala Sotiros",
-      "tagline": "A gentle fishing-village escape with a small harbour and west-coast sunsets",
-      "summary": "Skala Sotiros is a small seaside village on western Thassos, known for its fishing harbour, compact central beach, waterfront tavernas and an easy-going atmosphere. An Early Bronze Age settlement adds an unexpected layer of local history.",
-      "description": "Skala Sotiros offers a quieter side of Thassos, well suited to travellers who prefer a real coastal village to a busy nightlife resort. On the island’s western shore between Skala Prinos and Skala Kallirachis, small fishing boats share the scene with a short waterfront, modest shops, cafés and holiday accommodation. The village encourages simple pleasures: a morning bakery stop, a relaxed taverna meal and an evening stroll when the light softens across the sea. Its central beach is compact and mainly sandy, with some pebbles near the water; loungers and umbrellas may be offered on certain stretches during the summer. The harbour is an attractive place to look at boats, not a bathing area, so swimming belongs on the beach itself. The island’s coastal road connects the village with other western bays and settlements, making it an appealing base for slow exploration without the bustle of larger resorts. There is also more to the place than its holiday setting. Archaeologists have documented a fortified coastal settlement from the Early Bronze Age around the local church hill, revealing that this shoreline mattered long before modern tourism. The name recalls Sotiras, the separate mountain village above the coast, whose story was historically linked to fishing and olive growing here. Traditional food, local olive products and the religious feast associated with the Transfiguration in early August add to the village’s character. Skala Sotiros suits couples, families and visitors who enjoy sea views, local life and unhurried days, while remembering that seasonal services are limited compared with larger towns.",
-      "history_culture": "Skala Sotiros developed from the seaward fishing outpost of inland Sotiras, with coastal boats and olive-related work shaping daily life. Its holiday-village role expanded during the late twentieth century. Greece’s Ministry of Culture documents a small fortified Early Bronze Age site here, flourishing in the third millennium BCE. The local church area and the Transfiguration feast on 6 August reflect a more recent religious tradition; the exact annual programme is not a fixed visitor service.",
-      "local_character": "A lived-in fishing village with a modest harbour, bakery, small food shops, waterfront eateries and family accommodation rather than a large entertainment strip.",
-      "what_to_do": "Enjoy a short public waterfront walk, view the fishing boats without entering operational harbour areas, choose a suitable stretch of the village beach and linger over a meal. Look into the history of the prehistoric settlement near the church hill, but check whether physical site access is permitted. The mountain village of Sotiras makes a separate inland outing.",
-      "practical_tips": "The recorded village reference point is 40.72812, 24.54720, not a verified car park or walking entrance. Confirm beach lounger conditions, restaurant opening and bus stops locally; seasonal timetables change. Keep children away from boats, swim only in the bathing area and watch for pebbles and varying depth. Archaeological remains and private olive-processing sites are not automatically open to visitors.",
-      "highlights": [
-        "Small working fishing harbour and village waterfront",
-        "Compact, mainly sandy central beach",
-        "Local tavernas, bakery and peaceful evenings",
-        "Early Bronze Age settlement heritage",
-        "Soft western light and sunset views"
-      ],
-      "seo_title": "Skala Sotiros Thassos – fishing harbour, beach & things to do",
-      "seo_description": "Explore Skala Sotiros on Thassos: peaceful fishing village, small sandy beach, tavernas, Bronze Age history and practical tips for a relaxed west-coast stay.",
-      "social_caption": "🌅 Skala Sotiros, Thassos: little fishing boats, a gentle village beach and slow evenings by the sea. Discover the quieter west coast! 🇬🇷 #Thassos #SkalaSotiros #GreekIslands",
-      "photo_alt": "Skala Sotiros seaside village on Thassos, with small fishing harbour, waterfront houses and the Aegean Sea."
+      "name": "Skala Prinos (Ormos Prinou)",
+      "summary": "Coastal port village on Thassos. Editorial details pending."
     },
     "el": {
-      "name": "Σκάλα Σωτήρος",
-      "tagline": "Ήσυχο ψαροχώρι με μικρό λιμάνι, παραλία και όμορφα ηλιοβασιλέματα",
-      "summary": "Η Σκάλα Σωτήρος είναι ένας μικρός παραθαλάσσιος οικισμός στη δυτική Θάσο, με γραφικό λιμανάκι, μικρή αμμουδιά, παραθαλάσσιες ταβέρνες και ήρεμη ατμόσφαιρα. Η παρουσία προϊστορικού οχυρωμένου οικισμού προσθέτει ξεχωριστό ιστορικό ενδιαφέρον.",
-      "description": "Η Σκάλα Σωτήρος είναι μια όμορφη επιλογή για όσους αναζητούν τη γαλήνια πλευρά της Θάσου. Στη δυτική ακτή του νησιού, ανάμεσα στη Σκάλα Πρίνου και τη Σκάλα Καλλιράχης, η ζωή κυλά γύρω από το μικρό αλιευτικό λιμάνι, τα σπίτια, τα καταλύματα και τα μαγαζιά κοντά στη θάλασσα. Εδώ η ημέρα μπορεί να αρχίσει με ψωμί από τον τοπικό φούρνο και να τελειώσει με ένα χαλαρό γεύμα ή έναν περίπατο δίπλα στις βάρκες, όταν ο ήλιος κατεβαίνει προς το πέλαγος. Η κεντρική παραλία είναι σχετικά μικρή και κυρίως αμμώδης, με λίγα βότσαλα σε ορισμένα σημεία. Το καλοκαίρι είναι πιθανό να λειτουργούν ξαπλώστρες και ομπρέλες σε επιμέρους τμήματα, χωρίς αυτό να αποτελεί εγγύηση για κάθε ημέρα. Το ίδιο το λιμάνι δεν είναι χώρος κολύμβησης: το μπάνιο γίνεται στην κατάλληλη παραλία, μακριά από τις κινήσεις των σκαφών. Ο περιφερειακός δρόμος επιτρέπει εύκολη εξερεύνηση και άλλων χωριών και παραλιών της δυτικής πλευράς. Πίσω από τη σύγχρονη τουριστική εικόνα υπάρχει μια εντυπωσιακή ιστορική συνέχεια. Οι αρχαιολογικές έρευνες έχουν αποκαλύψει εδώ έναν μικρό οχυρωμένο παράκτιο οικισμό της Πρώιμης Εποχής του Χαλκού, στην περιοχή του λόφου της εκκλησίας. Η Σκάλα συνδέθηκε ιστορικά με τον ορεινό Σωτήρα, ο οποίος παραμένει διαφορετικό χωριό. Η αλιεία, η καλλιέργεια της ελιάς και οι τοπικές θρησκευτικές παραδόσεις δίνουν επιπλέον χαρακτήρα στον τόπο. Η Σκάλα Σωτήρος ταιριάζει σε ζευγάρια, οικογένειες και ταξιδιώτες που προτιμούν απλές διακοπές δίπλα στη θάλασσα, χωρίς τη φασαρία ενός μεγάλου θερέτρου.",
-      "history_culture": "Ο οικισμός αποτελούσε αρχικά το παράκτιο καταφύγιο των κατοίκων του ορεινού Σωτήρα, με αλιεία και δραστηριότητες σχετικές με την ελιά. Η τουριστική ανάπτυξη ενισχύθηκε κατά τις τελευταίες δεκαετίες του 20ού αιώνα. Το Υπουργείο Πολιτισμού τεκμηριώνει στην περιοχή οχυρωμένο οικισμό της Πρώιμης Εποχής του Χαλκού, που άκμασε στα μέσα της 3ης χιλιετίας π.Χ. Η θρησκευτική εορτή της Μεταμόρφωσης του Σωτήρος στις 6 Αυγούστου αποτελεί μέρος της τοπικής παράδοσης, αλλά το ετήσιο πρόγραμμα χρειάζεται επιβεβαίωση.",
-      "local_character": "Μικρό ψαροχώρι με βάρκες, φούρνο, τοπικά καταστήματα, ταβερνάκια και ήσυχες βραδιές δίπλα στη θάλασσα.",
-      "what_to_do": "Περπατήστε στην παραλιακή ζώνη, δείτε τα ψαροκάικα από δημόσιους χώρους, απολαύστε τη μικρή παραλία και καθίστε για φαγητό σε μια ταβέρνα. Μάθετε για τον προϊστορικό οικισμό στον λόφο της εκκλησίας, χωρίς να θεωρείτε δεδομένη την ελεύθερη είσοδο στον αρχαιολογικό χώρο. Ο ορεινός Σωτήρας αποτελεί ξεχωριστή εκδρομή.",
-      "practical_tips": "Το σημείο αναφοράς του χωριού είναι 40.72812, 24.54720, όχι επιβεβαιωμένη είσοδος στάθμευσης. Ρωτήστε επιτόπου για τις ξαπλώστρες και το ωράριο καταστημάτων και ελέγξτε τα τρέχοντα δρομολόγια λεωφορείων. Μην κολυμπάτε μέσα στο λιμάνι. Προσέξτε τα βότσαλα, το βάθος και την κίνηση των σκαφών, ιδίως όταν είστε με παιδιά.",
-      "highlights": [
-        "Γραφικό λιμανάκι με μικρά αλιευτικά σκάφη",
-        "Μικρή κεντρική παραλία, κυρίως με άμμο",
-        "Ταβέρνες, φούρνος και ήρεμη ατμόσφαιρα",
-        "Ίχνη οχυρωμένου οικισμού της Εποχής του Χαλκού",
-        "Δυτικό φως και όμορφα ηλιοβασιλέματα"
-      ],
-      "seo_title": "Σκάλα Σωτήρος Θάσος – λιμάνι, παραλία και αξιοθέατα",
-      "seo_description": "Γνωρίστε τη Σκάλα Σωτήρος στη Θάσο: γραφικό λιμανάκι, ήσυχη παραλία, ταβέρνες, προϊστορική κληρονομιά και χρήσιμες πληροφορίες.",
-      "social_caption": "🌅 Σκάλα Σωτήρος, Θάσος: ψαροκάικα, μικρή αμμουδιά και όμορφες βραδιές δίπλα στο κύμα. 🇬🇷 #Θάσος #ΣκάλαΣωτήρος #ΕλληνικάΝησιά",
-      "photo_alt": "Παραθαλάσσιος οικισμός Σκάλα Σωτήρος στη Θάσο με μικρό αλιευτικό λιμάνι, σπίτια και θέα στο Αιγαίο."
+      "name": "Σκάλα Πρίνου (Όρμος Πρίνου)",
+      "summary": "Παραθαλάσσιος οικισμός με λιμάνι στη Θάσο. Η καταχώριση βρίσκεται υπό επεξεργασία."
     },
     "de": {
-      "name": "Skala Sotiros",
-      "tagline": "Ein ruhiges Fischerdorf mit kleinem Hafen und Sonnenuntergängen an der Westküste",
-      "summary": "Skala Sotiros ist ein kleines Küstendorf im Westen von Thassos. Sein Fischerhafen, der überschaubare Dorfstrand, Tavernen am Wasser und eine entspannte Atmosphäre machen es zu einem angenehmen Urlaubsort. Spuren einer befestigten Siedlung aus der frühen Bronzezeit ergänzen das Bild.",
-      "description": "Skala Sotiros zeigt eine ruhigere, ursprüngliche Seite von Thassos. Der kleine Ort liegt an der Westküste zwischen Skala Prinos und Skala Kallirachis. Fischerboote, eine kurze Uferpromenade, einige Geschäfte, Ferienwohnungen und Tavernen prägen die Szene. Statt eines großen Ausgehviertels erwartet Besucher ein alltäglicher Küstenrhythmus: morgens Brot beim Bäcker holen, mittags am Meer sitzen und abends bei warmem Licht am Hafen spazieren. Der zentrale Dorfstrand ist klein und überwiegend sandig, mit vereinzelten Kieseln am Wasserrand. In der Sommersaison können in einigen Bereichen Liegen und Sonnenschirme angeboten werden. Zum Baden sollte man den eigentlichen Strand wählen und den Hafen mit seinen an- und ablegenden Booten meiden. Über die Küstenstraße sind weitere Orte und Strände der westlichen Inselhälfte erreichbar, sodass das Dorf auch als ruhiger Ausgangspunkt für Ausflüge dienen kann. Wer sich für Geschichte interessiert, entdeckt eine überraschend weit zurückreichende Vergangenheit: Archäologen haben in der Umgebung des Kirchhügels die Spuren einer befestigten Küstensiedlung aus der frühen Bronzezeit dokumentiert. Der Ortsname verweist auf das höher gelegene Bergdorf Sotiras, das von Skala Sotiros geografisch zu unterscheiden ist. Fischerei, Olivenanbau und religiöse Festtraditionen verbinden beide Orte mit der Vergangenheit der Insel. Für Familien, Paare und Reisende, die lieber eine entspannte griechische Dorfgemeinschaft als einen lauten Ferienort erleben möchten, ist Skala Sotiros eine interessante Wahl. Die touristische Infrastruktur bleibt dabei überschaubar und stark von der Saison abhängig.",
-      "history_culture": "Früher diente Skala Sotiros dem Bergdorf Sotiras als Zugang zum Meer, vor allem für Fischer und den Handel mit landwirtschaftlichen Produkten. Als Ferienort entwickelte sich der Küstenort besonders im späten 20. Jahrhundert. Das griechische Kulturministerium beschreibt hier eine befestigte Siedlung der frühen Bronzezeit aus dem dritten Jahrtausend v. Chr. Der kirchliche Feiertag der Verklärung Christi am 6. August gehört zur örtlichen Tradition; der genaue Ablauf wechselt von Jahr zu Jahr.",
-      "local_character": "Ein bewohntes Küstendorf mit kleinem Fischerhafen, Bäckerei, einfachen Geschäften, Tavernen und Ferienunterkünften – ohne großes Nachtleben.",
-      "what_to_do": "Entlang der öffentlichen Uferwege spazieren, kleine Fischerboote beobachten, am passenden Abschnitt des Dorfstrands entspannen und in einer Taverne einkehren. Die vorgeschichtlichen Funde am Kirchhügel sind geschichtlich interessant, doch ein freier Zugang zur Fundstelle ist nicht bestätigt. Das Bergdorf Sotiras eignet sich als eigener Ausflug.",
-      "practical_tips": "Der kartierte Ortsmittelpunkt liegt bei 40.72812, 24.54720; er ist kein bestätigter Parkplatz oder Anfahrtsweg. Bedingungen für Liegen, Öffnungszeiten und Busverbindungen bitte aktuell vor Ort prüfen. Nicht im Hafen schwimmen, auf Boote achten und den Untergrund am Strand auf Kiesel oder Steine kontrollieren. Kinder stets beaufsichtigen.",
-      "highlights": [
-        "Kleiner traditioneller Fischerhafen",
-        "Überschaubarer, meist sandiger Dorfstrand",
-        "Tavernen, Bäckerei und entspannte Abende",
-        "Archäologische Spuren aus der frühen Bronzezeit",
-        "Stimmungsvolle Ausblicke zum Sonnenuntergang"
-      ],
-      "seo_title": "Skala Sotiros Thassos – Fischerdorf, Strand & Sehenswürdigkeiten",
-      "seo_description": "Skala Sotiros auf Thassos entdecken: ruhiger Fischerhafen, kleiner Sandstrand, Tavernen, Geschichte aus der Bronzezeit und nützliche Besuchstipps.",
-      "social_caption": "🌅 Skala Sotiros auf Thassos: Fischerboote, kleiner Sandstrand und ein ruhiger Abend am Meer. 🇬🇷 #Thassos #SkalaSotiros #Griechenland",
-      "photo_alt": "Küstenort Skala Sotiros auf Thassos mit kleinen Fischerbooten, Häusern am Wasser und Blick über die Ägäis."
+      "name": "Skala Prinos (Ormos Prinou)",
+      "summary": "Küstenort mit Hafen auf Thassos. Redaktionelle Informationen werden noch geprüft."
     },
     "bg": {
-      "name": "Скала Сотирос",
-      "tagline": "Спокойно рибарско селище с малко пристанище и красиви залези",
-      "summary": "Скала Сотирос е малко крайбрежно селище в западната част на Тасос, известно с рибарското пристанище, компактния плаж, таверните край морето и спокойния ритъм. Следите от укрепено селище от ранната бронзова епоха добавят исторически интерес.",
-      "description": "Скала Сотирос е подходящо място за хората, които искат да усетят по-тихата страна на остров Тасос. Селцето се намира на западния бряг между Скала Принос и Скала Каллирахис. Малки рибарски лодки, кратка крайбрежна алея, семейни места за настаняване и няколко заведения придават на мястото истински островен характер. Тук денят може да започне с хляб от местната пекарна и да завърши с вечеря или разходка по залез, вместо с шумен нощен живот. Централният плаж е сравнително малък и предимно пясъчен, но на места при водата има дребни камъчета. През лятото е възможно някои участъци да предлагат шезлонги и чадъри, като условията се проверяват на място. Самото пристанище е място за лодки, а не за плуване, затова трябва да се избира подходящата плажна зона. Крайбрежният път свързва Скала Сотирос с други села и заливи на западния бряг, което прави мястото удобна спокойна база за разглеждане на острова. Любопитна част от историята се крие край хълма на местната църква: археологически разкопки са установили останки от укрепено крайбрежно селище от ранната бронзова епоха. Името на днешното крайбрежно селище е свързано с планинското село Сотирос, което е отделно населено място. Риболовът, отглеждането на маслини и местните религиозни празници продължават да присъстват в характера на района. Скала Сотирос е добър избор за двойки, семейства и всички, които предпочитат непретенциозна почивка край морето, с по-ограничени сезонни услуги, но повече спокойствие.",
-      "history_culture": "Първоначално крайбрежното селище е служело като рибарско пристанище на жителите на планинския Сотирос. Развитието на туризма се засилва през последните десетилетия на XX век. Гръцкото Министерство на културата описва тук укрепено селище от ранната бронзова епоха, процъфтявало през третото хилядолетие пр. Хр. Празникът Преображение Господне на 6 август е свързан с местната църковна традиция, но конкретната програма трябва да се потвърждава всяка година.",
-      "local_character": "Малко живо рибарско селище с пекарна, магазини, таверни, спокойна крайбрежна атмосфера и семейни квартири.",
-      "what_to_do": "Разходете се по крайбрежието, разгледайте лодките от обществените пространства, изберете подходящ участък от малкия плаж и опитайте местна храна. Научете повече за останките от бронзовата епоха край църковния хълм, но не приемайте, че археологическият терен е свободно достъпен. Планинският Сотирос е отделна идея за разходка.",
-      "practical_tips": "Картографският център на селото е 40.72812, 24.54720, но не е потвърден вход за паркинг. Проверявайте на място условията за шезлонги, работното време на заведенията и автобусните разписания. Не плувайте между лодките в пристанището. На плажа има участъци с камъчета и различна дълбочина; наблюдавайте децата постоянно.",
-      "highlights": [
-        "Малко живописно рибарско пристанище",
-        "Компактен, предимно пясъчен плаж",
-        "Таверни, пекарна и спокойни вечери",
-        "Следи от укрепено селище от бронзовата епоха",
-        "Красиво вечерно осветление и залези"
-      ],
-      "seo_title": "Скала Сотирос Тасос – рибарско село, плаж и забележителности",
-      "seo_description": "Разгледайте Скала Сотирос на Тасос: спокойно рибарско пристанище, малък плаж, таверни, бронзова епоха и полезни съвети за посещение.",
-      "social_caption": "🌅 Скала Сотирос, Тасос: рибарски лодки, малък плаж и тихи вечери край морето. 🇬🇷 #Тасос #SkalaSotiros #Гърция",
-      "photo_alt": "Изглед към крайбрежното селище Скала Сотирос на Тасос с рибарски лодки, къщи и Егейско море."
+      "name": "Скала Принос (Ормос Приноу)",
+      "summary": "Крайбрежно селище с пристанище на Тасос. Информацията се проверява."
     },
     "sr": {
-      "name": "Skala Sotiros",
-      "tagline": "Mirno ribarsko mesto sa malom lukom i zalascima sunca na zapadnoj obali",
-      "summary": "Skala Sotiros je malo primorsko mesto na zapadnoj obali Tasosa, poznato po ribarskoj luci, maloj gradskoj plaži, tavernama uz more i opuštenoj atmosferi. Ostaci utvrđenog naselja iz ranog bronzanog doba daju mu dodatnu istorijsku vrednost.",
-      "description": "Skala Sotiros je lep izbor za putnike koji na Tasosu traže mirno primorsko mesto umesto velike, bučne turističke zone. Nalazi se na zapadnoj obali između Skala Prinosa i Skala Kalirahisa. Male ribarske barke, kratko šetalište uz vodu, nekoliko prodavnica, porodični smeštaj i taverne stvaraju atmosferu sela koje živi svojim ritmom. Dan lako može da počne doručkom uz hleb iz lokalne pekare, a da se završi večerom uz more i šetnjom dok sunce zalazi. Centralna plaža je mala i uglavnom peščana, sa ponekim kamenčićem na ulazu u vodu. Tokom leta pojedini delovi mogu imati ležaljke i suncobrane, ali se uslovi korišćenja proveravaju na licu mesta. Ribarska luka nije kupalište, zato za plivanje treba koristiti odgovarajući deo plaže, dalje od kretanja čamaca. Put oko ostrva povezuje selo sa drugim mestima i plažama zapadne obale, pa može biti praktična mirnija baza za istraživanje Tasosa. Pored današnjeg života na obali, mesto ima veoma dugu prošlost: arheolozi su u zoni uzvišenja sa crkvom otkrili ostatke utvrđenog naselja iz ranog bronzanog doba. Ime obalskog mesta povezano je sa planinskim selom Sotiras, koje ipak predstavlja zasebno naselje. Ribarenje, uzgoj maslina i lokalna verska slavlja čuvaju deo tradicionalnog identiteta. Skala Sotiros odgovara porodicama, parovima i gostima koji vole lagane šetnje, skromnije sadržaje i autentičan primorski ambijent bez izraženog noćnog provoda.",
-      "history_culture": "Obalska Skala Sotiros nekada je služila stanovnicima planinskog Sotirasa kao pristup moru i ribarsko uporište. Turistički razvoj ubrzan je u poslednjim decenijama XX veka. Grčko Ministarstvo kulture beleži utvrđeno naselje iz ranog bronzanog doba, koje je cvetalo tokom trećeg milenijuma pre nove ere. Praznik Preobraženja 6. avgusta deo je lokalne verske tradicije, dok se godišnji program događaja mora proveravati.",
-      "local_character": "Živo, ali mirno ribarsko mesto sa malom lukom, pekarom, tavernama, manjim prodavnicama i porodičnim apartmanima.",
-      "what_to_do": "Prošetajte uz more, posmatrajte ribarske čamce sa javnih površina, odmorite se na centralnoj plaži i probajte lokalnu hranu. Upoznajte priču o praistorijskom naselju u blizini crkvenog uzvišenja, ali nemojte podrazumevati slobodan ulaz na sam arheološki teren. Planinski Sotiras je odvojena ideja za izlet.",
-      "practical_tips": "Kartografska tačka sela je 40.72812, 24.54720, a ne potvrđeni parking ili pešački prilaz. Pravila za ležaljke i radno vreme lokala proverite na licu mesta, kao i aktuelne autobuske polaske. Ne plivajte u luci među barkama. Na plaži obratite pažnju na kamenčiće, talase i promenu dubine, a decu stalno nadgledajte.",
-      "highlights": [
-        "Mala ribarska luka i šetalište",
-        "Kratka, uglavnom peščana seoska plaža",
-        "Taverne, pekara i mirne večeri",
-        "Ostaci utvrđenog naselja iz bronzanog doba",
-        "Zapadna svetlost i zalasci sunca"
-      ],
-      "seo_title": "Skala Sotiros Tasos – ribarska luka, plaža i atrakcije",
-      "seo_description": "Otkrijte Skala Sotiros na Tasosu: ribarsko mesto, mala peščana plaža, taverne, istorija bronzanog doba i korisni saveti za posetu.",
-      "social_caption": "🌅 Skala Sotiros na Tasosu: male ribarske barke, mirna plaža i opuštene večeri uz more. 🇬🇷 #Tasos #SkalaSotiros #Grcka",
-      "photo_alt": "Primorsko mesto Skala Sotiros na Tasosu sa malom ribarskom lukom, kućama i pogledom na Egejsko more."
+      "name": "Skala Prinos (Ormos Prinou)",
+      "summary": "Primorsko naselje sa lukom na Tasosu. Podaci su još u pripremi."
     }
   },
   "media": {
-    "cover": "destinations/thassos/areas/skala-sotiros/images/skala-sotiros1.webp",
+    "cover": "destinations/thassos/areas/skala-prinos/images/skala-prinos1.webp",
     "gallery": [
-      "destinations/thassos/areas/skala-sotiros/images/skala-sotiros2.webp",
-      "destinations/thassos/areas/skala-sotiros/images/skala-sotiros3.webp",
-      "destinations/thassos/areas/skala-sotiros/images/skala-sotiros4.webp",
-      "destinations/thassos/areas/skala-sotiros/images/skala-sotiros5.webp"
+      "destinations/thassos/areas/skala-prinos/images/skala-prinos2.webp",
+      "destinations/thassos/areas/skala-prinos/images/skala-prinos3.webp",
+      "destinations/thassos/areas/skala-prinos/images/skala-prinos4.webp",
+      "destinations/thassos/areas/skala-prinos/images/skala-prinos5.webp"
     ],
-    "expected_folder": "destinations/thassos/areas/skala-sotiros/images/",
+    "expected_folder": "destinations/thassos/areas/skala-prinos/images/",
     "suggested_asset_names": [
-      "skala-sotiros1.webp",
-      "skala-sotiros2.webp",
-      "skala-sotiros3.webp",
-      "skala-sotiros4.webp",
-      "skala-sotiros5.webp"
+      "skala-prinos1.webp",
+      "skala-prinos2.webp",
+      "skala-prinos3.webp",
+      "skala-prinos4.webp",
+      "skala-prinos5.webp"
     ],
-    "image_policy": "Exactly five photographs with the predetermined file names: main cover and four gallery images. Ensure each photograph depicts this area; verify ownership, publication/transfer rights and attribution. Filenames are configured in advance; image binaries have not been provided.",
-    "candidate_photographs": []
+    "image_policy": "Five existing WebP filenames. Confirm actual depicted location, provenance, commercial-use rights and any required attributions before publication."
   },
   "source_references": [
     {
-      "id": "s_mapcarta_village",
-      "kind": "openstreetmap_derived_mapping",
-      "title": "Mapcarta — Skala Sotiros village (OSM node 342807638)",
-      "url": "https://mapcarta.com/13814172",
-      "detail": "Coordinates 40.72812 N, 24.54720 E; OpenStreetMap place=village. Settlement reference, not validated driving entrance, beach or marina point.",
-      "checked_on": "2026-10-27"
-    },
-    {
-      "id": "s_go_thassos_village",
-      "kind": "local_travel_guide",
-      "title": "Go Thassos — Skala Sotiros village",
-      "url": "https://www.go-thassos.gr/about-thassos/places/skala-sotiros",
-      "detail": "Fishing hamlet origin, small marina, traditional bakery, olive history, development after 1976, tavernas and accommodation, Transfiguration feast and nearby archaeology. Commercial superlatives not treated as facts.",
-      "checked_on": "2026-10-27"
-    },
-    {
-      "id": "s_go_thassos_greek",
-      "kind": "local_travel_guide_greek",
-      "title": "Go Thassos (Greek) — Σκάλα Σωτήρα",
-      "url": "https://www.go-thassos.gr/gr/about-thassos/places/skala-sotiros",
-      "detail": "Local Greek naming variant, historical fishing settlement, olive-processing heritage, church hill and early Bronze Age remains.",
-      "checked_on": "2026-10-27"
-    },
-    {
-      "id": "s_nikana_village",
-      "kind": "tourism_guide",
-      "title": "Nikana — Skala Sotiros settlement",
-      "url": "https://nikana.gr/en/tourist-guide/thassos/places/1967/skala-sotiros",
-      "detail": "Small western coastal village, sandy main beach, cafes/tavernas, food shops, small fishing harbour and quiet nightlife; older facts require seasonal check.",
-      "checked_on": "2026-10-27"
-    },
-    {
-      "id": "s_discover_village",
-      "kind": "local_tourism_guide",
-      "title": "Discover Thassos — Skala Sotiros",
-      "url": "https://www.discover-thassos.com/listing/skala-sotiros-thassos/",
-      "detail": "Fishing, olive growing, small harbour, local bakery, quiet dining and Church of Transfiguration traditions.",
-      "checked_on": "2026-10-27"
-    },
-    {
-      "id": "s_moc_bronze",
-      "kind": "greek_ministry_of_culture",
-      "title": "Ministry of Culture — Prehistoric settlement of Skala Sotiros",
-      "url": "https://www.culture.gov.gr/el/service/SitePages/view.aspx?iID=1398",
-      "detail": "Official archaeological profile: small fortified coastal Early Bronze Age settlement flourishing around mid-third millennium BCE; no modern public opening hours or access guaranteed.",
-      "checked_on": "2026-10-27"
-    },
-    {
-      "id": "s_municipality_history",
-      "kind": "municipality_primary_source",
-      "title": "Municipality of Thassos — historical overview",
-      "url": "https://www.thassos.gr/en/dimos/thasos-syntomi-istoriki-anaskopisi/",
-      "detail": "Thassos chronological overview lists Skala Sotiros among Bronze Age settlement sites.",
-      "checked_on": "2026-10-27"
-    },
-    {
-      "id": "s_mapped_archaeology",
-      "kind": "openstreetmap_derived_mapping",
-      "title": "Mapcarta — Prehistoric site of Skala Sotiros",
-      "url": "https://mapcarta.com/N13250642860",
-      "detail": "OSM archaeological node approx 40.72995,24.54890, north-east of centre. Geographic reference only, not verified public entrance.",
-      "checked_on": "2026-10-27"
-    },
-    {
-      "id": "s_mapped_beach",
-      "kind": "openstreetmap_derived_mapping",
-      "title": "Mapcarta — Σκάλα Σωτήρος beach (OSM way 254820871)",
-      "url": "https://mapcarta.com/W254820871",
-      "detail": "Main bathing beach mapped around 40.72786,24.54640 separately from village node; refer to existing gr-thassos-beach-skala-sotiros record.",
-      "checked_on": "2026-10-27"
-    },
-    {
-      "id": "s_beach_guide",
-      "kind": "beach_guide",
-      "title": "Go Thassos — Skala Sotiros Beach",
-      "url": "https://www.go-thassos.gr/about-thassos/places/skala-sotiros-beach",
-      "detail": "Beach equipment and facility categories; exact operator and seasonal availability not independently verified.",
-      "checked_on": "2026-10-27"
-    },
-    {
-      "id": "s_official_bus",
-      "kind": "municipality_transport_source",
-      "title": "Municipality of Thassos — local bus schedule information",
-      "url": "https://www.thassos.gr/en/dromologia-ktel/",
-      "detail": "Links to updated route resources and announcements; no fixed departures stored in area JSON.",
-      "checked_on": "2026-10-27"
-    },
-    {
-      "id": "s_go_bus",
-      "kind": "transport_schedule_reference",
-      "title": "Go Thassos — KTEL timetable October 2026",
-      "url": "https://www.go-thassos.com/thassos-bus-schedules-prices",
-      "detail": "Seasonal schedule and disclaimer to confirm current service; avoid embedding seasonal times and prices in permanent area profile.",
-      "checked_on": "2026-10-27"
-    },
-    {
-      "id": "s_mountain_sotiras",
-      "kind": "local_tourism_guide",
-      "title": "Go Thassos — Sotiros inland village",
-      "url": "https://www.go-thassos.gr/gr/about-thassos/places/sotiros",
-      "detail": "Inland Sotiras is a distinct mountain settlement reached by a climbing paved road; do not merge with Skala Sotiros.",
-      "checked_on": "2026-10-27"
+      "id": "internal-area-index",
+      "path": "destinations/thassos/areas/index.json",
+      "note": "Identity, location category and provisional centre, not a verified navigation point."
     }
   ],
   "editorial": {
-    "status": "researched_six_languages_completed_5_image_paths_preconfigured_pending_photo_rights_final_map_and_editorial_review",
-    "facts_checked_on": "2026-10-27",
-    "translations_written_on": "2026-10-27",
-    "coverage": "full_coastal_village_profile_six_languages_13_sources_5_preset_webp_paths_separate_harbour_beach_archaeology",
-    "requires_manual_review": [
-      "Confirm village OSM node 342807638 (40.72812,24.54720) as geographic reference, and separately confirm safe road arrival, accessible pedestrian path and public parking; do not offer turn-by-turn navigation to a centroid.",
-      "Keep the area, central Skala Sotiros Beach (separate beach id), fishing harbour and Bronze Age site as distinct POIs; verify historic site access and actual official signage before recommending an in-person visit.",
-      "Ensure inland Sotiras (Sotiros) remains distinct from coastal Skala Sotiros, and verify all aliases and local Greek signage.",
-      "Reconcile gr-thassos-beach-skala-sotiros and nearby area IDs with the final catalog before enabling navigation or proximity ranking; no invented museum/port/attraction identifiers.",
-      "Check current KTEL bus stops and timetables, parking restrictions, seasonal restaurants, beach facilities, pharmacy, ATM and medical services through locally verified business POIs.",
-      "Check dates and location of local religious celebrations and claims about local olive-press heritage against official local sources before marketing them as events or open attractions.",
-      "Place exactly five original/appropriately licensed WebP photos named skala-sotiros1.webp through skala-sotiros5.webp in expected_folder. Verify that cover/gallery images depict the actual village and harbour and not only another beach, inland Sotiras or different settlement.",
-      "Verify photo ownership, commercial use/transfer rights, photographer credit and any required attribution for all five images.",
-      "Native-speaker proofreading of RO, EN, EL, DE, BG and SR texts and all SEO titles before publication; check place names on Google Maps and Greek signage."
-    ],
+    "status": "draft_pending_research",
     "publish_ready": false,
     "rights_cleared_for_sale": false,
-    "photo_source_disclaimer": "Five exact local WebP references are preconfigured, but image binary files were not supplied and their origin, exact geographic match and rights were not independently checked. No third-party images were downloaded."
+    "requires_manual_review": [
+      "Research and replace this deliberately minimal placeholder with a verified, full six-language Skala Prinos profile.",
+      "Confirm proposed coordinates and access point.",
+      "Verify five existing photos actually depict Skala Prinos and confirm permissions."
+    ]
   }
 }
