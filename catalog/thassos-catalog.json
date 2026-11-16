@@ -1,23 +1,23 @@
 {
   "schema_version": "thassos-social-catalog/v1",
-  "generated_at": "2026-11-02T21:21:33+00:00",
+  "generated_at": "2026-11-16T12:40:20+00:00",
   "source": {
     "repository": "gabridim18-lab/thassos-ecosystem",
     "ref": "main",
-    "commit": "d7091ee1de08f63fc14725d0ba8b20412c9e745d"
+    "commit": "9769b2dbd3facd72e853533ab1f49fb2c4ad0378"
   },
-  "total": 84,
+  "total": 93,
   "counts": {
     "accommodations": 2,
     "areas": 18,
     "attractions": 1,
-    "beach-bars": 2,
+    "beach-bars": 6,
     "beaches": 56,
     "heritage": 1,
     "local-eats-drinks": 1,
     "religious-sites": 1,
-    "restaurants": 1,
-    "services": 1
+    "restaurants": 5,
+    "services": 2
   },
   "items": [
     {
@@ -2448,6 +2448,439 @@
       }
     },
     {
+      "id": "gr-thassos-beach-bar-calma",
+      "slug": "calma-beach-bar",
+      "category": "beach-bars",
+      "subcategory": "beach-bar-and-restaurant",
+      "name": "Calma Beach Bar",
+      "area_slug": null,
+      "beach_slug": "dasilio",
+      "coordinates": {
+        "lat": 40.76087653785092,
+        "lng": 24.569454413578047
+      },
+      "source_file": "destinations/thassos/beach-bars/calma-beach-bar/beach-bar.json",
+      "publish_ready": false,
+      "photo_rights_confirmed": false,
+      "photos_available": 13,
+      "photos_declared": 13,
+      "images": [
+        {
+          "path": "destinations/thassos/beach-bars/calma-beach-bar/images/Plajă tropicală cu șezlonguri goale.webp",
+          "filename": "Plajă tropicală cu șezlonguri goale.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/calma-beach-bar/images/Plajă turcoaz cu munți în depărtare.webp",
+          "filename": "Plajă turcoaz cu munți în depărtare.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/calma-beach-bar/images/Pizza cu brânză pe blat metalic.webp",
+          "filename": "Pizza cu brânză pe blat metalic.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/calma-beach-bar/images/Oază de plajă cu pergolă și iarbă verdemânt.webp",
+          "filename": "Oază de plajă cu pergolă și iarbă verdemânt.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/calma-beach-bar/images/Desert cu Profiterol și Ciocolată Albă.webp",
+          "filename": "Desert cu Profiterol și Ciocolată Albă.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/calma-beach-bar/images/Burger artizanal cu cartofi prăjiți pe tavă.webp",
+          "filename": "Burger artizanal cu cartofi prăjiți pe tavă.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/calma-beach-bar/images/Martini espresso pe plajă însorită.webp",
+          "filename": "Martini espresso pe plajă însorită.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/calma-beach-bar/images/Cabana tropicală de pe plajă.webp",
+          "filename": "Cabana tropicală de pe plajă.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/calma-beach-bar/images/Grădină boho la barul de plajă.webp",
+          "filename": "Grădină boho la barul de plajă.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/calma-beach-bar/images/Intrarea rustică a restaurantului Calma.webp",
+          "filename": "Intrarea rustică a restaurantului Calma.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/calma-beach-bar/images/Oază de relaxare pe plajă.webp",
+          "filename": "Oază de relaxare pe plajă.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/calma-beach-bar/images/Apus peste un resort tropical.webp",
+          "filename": "Apus peste un resort tropical.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/calma-beach-bar/images/Refugiu de Plajă cu Pizza și Marea.webp",
+          "filename": "Refugiu de Plajă cu Pizza și Marea.webp",
+          "available": true
+        }
+      ],
+      "translations": {
+        "ro": {
+          "name": "Calma Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "en": {
+          "name": "Calma Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "el": {
+          "name": "Calma Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "de": {
+          "name": "Calma Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "bg": {
+          "name": "Calma Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "sr": {
+          "name": "Calma Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        }
+      }
+    },
+    {
+      "id": "gr-thassos-beach-bar-karavouzis",
+      "slug": "karavouzis-beach-bar",
+      "category": "beach-bars",
+      "subcategory": "beach_bar",
+      "name": "Canopy Beach Bar",
+      "area_slug": null,
+      "beach_slug": "dasilio",
+      "coordinates": {
+        "lat": 40.76051390492783,
+        "lng": 24.569963669099504
+      },
+      "source_file": "destinations/thassos/beach-bars/karavouzis-beach-bar/beach-bar.json",
+      "publish_ready": false,
+      "photo_rights_confirmed": false,
+      "photos_available": 10,
+      "photos_declared": 10,
+      "images": [
+        {
+          "path": "destinations/thassos/beach-bars/karavouzis-beach-bar/images/Apus peste un resort tropical.webp",
+          "filename": "Apus peste un resort tropical.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/karavouzis-beach-bar/images/Refugiu de Plajă cu Pizza și Marea.webp",
+          "filename": "Refugiu de Plajă cu Pizza și Marea.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/karavouzis-beach-bar/images/Prânz mediteranean la Karyouli Beach Bar.webp",
+          "filename": "Prânz mediteranean la Karyouli Beach Bar.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/karavouzis-beach-bar/images/Paste cu fructe de mare la masă mediteraneană.webp",
+          "filename": "Paste cu fructe de mare la masă mediteraneană.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/karavouzis-beach-bar/images/Musaca cu salată proaspătă.webp",
+          "filename": "Musaca cu salată proaspătă.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/karavouzis-beach-bar/images/Plajă însorită la Karavouzi Beach Bar.webp",
+          "filename": "Plajă însorită la Karavouzi Beach Bar.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/karavouzis-beach-bar/images/Cafenea de plajă sub pergolă albă.webp",
+          "filename": "Cafenea de plajă sub pergolă albă.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/karavouzis-beach-bar/images/Refugiu de plajă la apus.webp",
+          "filename": "Refugiu de plajă la apus.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/karavouzis-beach-bar/images/Stațiune de plajă Mythos la apus.webp",
+          "filename": "Stațiune de plajă Mythos la apus.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/karavouzis-beach-bar/images/Femeie contemplând oceanul sub umbrele de paie.webp",
+          "filename": "Femeie contemplând oceanul sub umbrele de paie.webp",
+          "available": true
+        }
+      ],
+      "translations": {
+        "ro": {
+          "name": "Canopy Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "en": {
+          "name": "Canopy Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "el": {
+          "name": "Canopy Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "de": {
+          "name": "Canopy Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "bg": {
+          "name": "Canopy Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "sr": {
+          "name": "Canopy Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        }
+      }
+    },
+    {
+      "id": "gr-thassos-beach-bar-etisies",
+      "slug": "etisies-beach-bar",
+      "category": "beach-bars",
+      "subcategory": "beach_bar",
+      "name": "Etisies Beach Bar",
+      "area_slug": null,
+      "beach_slug": "dasilio",
+      "coordinates": {
+        "lat": 40.75730542793136,
+        "lng": 24.561343014440325
+      },
+      "source_file": "destinations/thassos/beach-bars/etisies-beach-bar/beach-bar.json",
+      "publish_ready": false,
+      "photo_rights_confirmed": false,
+      "photos_available": 9,
+      "photos_declared": 18,
+      "images": [
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/images/Bar pe plajă sub umbrele aurii.webp",
+          "filename": "Bar pe plajă sub umbrele aurii.webp",
+          "available": false
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/images/Plajă însorită cu nisip ondulat.webp",
+          "filename": "Plajă însorită cu nisip ondulat.webp",
+          "available": false
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/images/Plajă tropicală văzută de sus.webp",
+          "filename": "Plajă tropicală văzută de sus.webp",
+          "available": false
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/images/Refugiu de plajă cu barcă și umbrar.webp",
+          "filename": "Refugiu de plajă cu barcă și umbrar.webp",
+          "available": false
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/images/Plajă însorită cu șezlonguri și hotel alb.webp",
+          "filename": "Plajă însorită cu șezlonguri și hotel alb.webp",
+          "available": false
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/images/Refugiu tropical la apus.webp",
+          "filename": "Refugiu tropical la apus.webp",
+          "available": false
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/images/Plajă de resort la apus.webp",
+          "filename": "Plajă de resort la apus.webp",
+          "available": false
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/images/Plajă însorită sub umbrela de paie.webp",
+          "filename": "Plajă însorită sub umbrela de paie.webp",
+          "available": false
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/images/Plajă mediteraneană cu umbrele de paie(1).webp",
+          "filename": "Plajă mediteraneană cu umbrele de paie(1).webp",
+          "available": false
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/Bar pe plajă sub umbrele aurii.webp",
+          "filename": "Bar pe plajă sub umbrele aurii.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/Plajă de resort la apus.webp",
+          "filename": "Plajă de resort la apus.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/Plajă mediteraneană cu umbrele de paie(1).webp",
+          "filename": "Plajă mediteraneană cu umbrele de paie(1).webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/Plajă tropicală văzută de sus.webp",
+          "filename": "Plajă tropicală văzută de sus.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/Plajă însorită cu nisip ondulat.webp",
+          "filename": "Plajă însorită cu nisip ondulat.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/Plajă însorită cu șezlonguri și hotel alb.webp",
+          "filename": "Plajă însorită cu șezlonguri și hotel alb.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/Plajă însorită sub umbrela de paie.webp",
+          "filename": "Plajă însorită sub umbrela de paie.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/Refugiu de plajă cu barcă și umbrar.webp",
+          "filename": "Refugiu de plajă cu barcă și umbrar.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/etisies-beach-bar/Refugiu tropical la apus.webp",
+          "filename": "Refugiu tropical la apus.webp",
+          "available": true
+        }
+      ],
+      "translations": {
+        "ro": {
+          "name": "Etisies Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "en": {
+          "name": "Etisies Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "el": {
+          "name": "Etisies Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "de": {
+          "name": "Etisies Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "bg": {
+          "name": "Etisies Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "sr": {
+          "name": "Etisies Beach Bar",
+          "tagline": "",
+          "summary": "",
+          "description": "",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        }
+      }
+    },
+    {
       "id": "gr-thassos-beach-bar-gossip-beach-bar",
       "slug": "gossip-beach-bar",
       "category": "beach-bars",
@@ -2575,6 +3008,157 @@
           "social_caption": "",
           "seo_title": "GOSSIP Beach Bar Skala Sotiros | Plaža, hrana i kokteli",
           "seo_description": "GOSSIP Beach Bar na Tasosu: ležaljke u Skali Sotiros, kafa, kokteli, hrana i zalasci sunca uz more."
+        }
+      }
+    },
+    {
+      "id": "gr-thassos-beach-bar-natura-beach-bar",
+      "slug": "natura-beach-bar",
+      "category": "beach-bars",
+      "subcategory": "beach_bar",
+      "name": "Natura Beach Bar",
+      "area_slug": null,
+      "beach_slug": "dasilio",
+      "coordinates": {
+        "lat": 40.75104,
+        "lng": 24.56234
+      },
+      "source_file": "destinations/thassos/beach-bars/natura-beach-bar/beach-bar.json",
+      "publish_ready": false,
+      "photo_rights_confirmed": false,
+      "photos_available": 15,
+      "photos_declared": 15,
+      "images": [
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Natura Beach Bar pe nisipul auriu.webp",
+          "filename": "Natura Beach Bar pe nisipul auriu.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Cocktail tropical pe plajă însorită.webp",
+          "filename": "Cocktail tropical pe plajă însorită.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Pui crocanți, cartofi și ceai verde cu lămâie.webp",
+          "filename": "Pui crocanți, cartofi și ceai verde cu lămâie.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Plajă mediteraneană cu umbrele de paie(2).webp",
+          "filename": "Plajă mediteraneană cu umbrele de paie(2).webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Prânz la Natura Beach Bar.webp",
+          "filename": "Prânz la Natura Beach Bar.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Plajă tropicală cu cabane de paie.webp",
+          "filename": "Plajă tropicală cu cabane de paie.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Bar tropical cu tavan din viniluri.webp",
+          "filename": "Bar tropical cu tavan din viniluri.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Lounge rustic la Natura Beach Bar.webp",
+          "filename": "Lounge rustic la Natura Beach Bar.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Pizza mediteraneană pe masă roșie.webp",
+          "filename": "Pizza mediteraneană pe masă roșie.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Burger și cartofi cu brânză topită.webp",
+          "filename": "Burger și cartofi cu brânză topită.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Pepene verde cu iaurt, miere și nuci.webp",
+          "filename": "Pepene verde cu iaurt, miere și nuci.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Sandviș club cu cartofi crocanți.webp",
+          "filename": "Sandviș club cu cartofi crocanți.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Vafă cu înghețată și ciocolată.webp",
+          "filename": "Vafă cu înghețată și ciocolată.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Cocktailuri la apus, pe masa rustică.webp",
+          "filename": "Cocktailuri la apus, pe masa rustică.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/beach-bars/natura-beach-bar/images/Burger și cartofi cu brânză topită(1).webp",
+          "filename": "Burger și cartofi cu brânză topită(1).webp",
+          "available": true
+        }
+      ],
+      "translations": {
+        "ro": {
+          "name": "Natura Beach Bar",
+          "tagline": "De la zile însorite pe plajă la apusuri memorabile",
+          "summary": "",
+          "description": "Petrece o zi pe malul Mării Egee la Natura Beach Bar, în apropiere de Skala Prinos. Savurează o băutură sub umbrelele de paie, alege preparate lejere și bucură-te de lumina caldă a serii. Verdeața și marea deschisă creează un loc plăcut pentru cupluri, familii și grupuri.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "en": {
+          "name": "Natura Beach Bar",
+          "tagline": "From sunny beach days to memorable sunsets",
+          "summary": "",
+          "description": "Spend a beach day by the Aegean at Natura Beach Bar, near Skala Prinos. Enjoy a drink beneath the straw parasols, choose from casual dishes, and linger into the golden evening. The surrounding greenery and open sea make this a welcoming stop for couples, families and groups.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "el": {
+          "name": "Natura Beach Bar",
+          "tagline": "Από τις ηλιόλουστες μέρες στην παραλία στα αξέχαστα ηλιοβασιλέματα",
+          "summary": "",
+          "description": "Απολαύστε μια μέρα δίπλα στο Αιγαίο στο Natura Beach Bar, κοντά στη Σκάλα Πρίνου. Καθίστε κάτω από τις ψάθινες ομπρέλες, δοκιμάστε χαλαρές γεύσεις και μείνετε ως το ηλιοβασίλεμα.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "de": {
+          "name": "Natura Beach Bar",
+          "tagline": "Sonnige Strandtage und unvergessliche Sonnenuntergänge",
+          "summary": "",
+          "description": "Genießen Sie einen Tag am Ägäischen Meer in der Natura Beach Bar nahe Skala Prinos. Entspannen Sie unter Strohdächern, probieren Sie unkomplizierte Gerichte und bleiben Sie bis zum Sonnenuntergang.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "bg": {
+          "name": "Natura Beach Bar",
+          "tagline": "Слънчеви дни на плажа и незабравими залези",
+          "summary": "",
+          "description": "Прекарайте ден край Егейско море в Natura Beach Bar, близо до Скала Принос. Отпуснете се под сламените чадъри, опитайте леки ястия и останете за красивия залез.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "sr": {
+          "name": "Natura Beach Bar",
+          "tagline": "Sunčani dani na plaži i nezaboravni zalasci sunca",
+          "summary": "",
+          "description": "Provedite dan uz Egejsko more u Natura Beach Baru, blizu Skale Prinos. Odmorite se pod slamnatim suncobranima, uživajte u laganim jelima i ostanite do zalaska sunca.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
         }
       }
     },
@@ -8553,6 +9137,258 @@
       }
     },
     {
+      "id": "cafe-pizza-restaurant-grill-kallirachi",
+      "slug": "cafe-pizza-restaurant-grill-kallirachi",
+      "category": "restaurants",
+      "subcategory": "cafe-pizza-grill",
+      "name": "Cafe Pizza Restaurant Grill Kallirachi",
+      "area_slug": null,
+      "beach_slug": null,
+      "coordinates": {
+        "lat": 40.70871652635093,
+        "lng": 24.53403846367154
+      },
+      "source_file": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/restaurant.json",
+      "publish_ready": false,
+      "photo_rights_confirmed": false,
+      "photos_available": 10,
+      "photos_declared": 10,
+      "images": [
+        {
+          "path": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/images/Ambarcațiuni luxoase în portul albastru.webp",
+          "filename": "Ambarcațiuni luxoase în portul albastru.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/images/Budincă aurie cu brânză topită pe masă rustică.webp",
+          "filename": "Budincă aurie cu brânză topită pe masă rustică.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/images/Cafenea pe promenada mării.webp",
+          "filename": "Cafenea pe promenada mării.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/images/Calamar la grătar cu cartofi și salată.webp",
+          "filename": "Calamar la grătar cu cartofi și salată.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/images/Frigărui cu cartofi, orez și legume.webp",
+          "filename": "Frigărui cu cartofi, orez și legume.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/images/Gyros cu cartofi, tzatziki și legume.webp",
+          "filename": "Gyros cu cartofi, tzatziki și legume.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/images/Gyros grecesc cu tzatziki și cartofi.webp",
+          "filename": "Gyros grecesc cu tzatziki și cartofi.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/images/Palmieri pe promenada de coastă.webp",
+          "filename": "Palmieri pe promenada de coastă.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/images/Promenadă însorită cu palmieri și mare.webp",
+          "filename": "Promenadă însorită cu palmieri și mare.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/images/Terasa Kallirachi pe promenada marină.webp",
+          "filename": "Terasa Kallirachi pe promenada marină.webp",
+          "available": true
+        }
+      ],
+      "translations": {
+        "ro": {
+          "name": "Cafe Pizza Restaurant Grill Kallirachi",
+          "tagline": "",
+          "summary": "Restaurant cu terasă pe promenada portului din Skala Kallirachis, unde poți savura preparate grecești, grill, pizza, fructe de mare și cafea cu vedere la mare.",
+          "description": "Pe promenada din Skala Kallirachis, lângă micul port de pe coasta vestică a insulei Thassos, Cafe Pizza Restaurant Grill Kallirachi este un loc relaxat pentru o oprire la cafea sau o masă cu vedere spre mare. Terasa amenajată de-a lungul falezei, cu mese la umbră și palmieri în apropiere, invită la momente fără grabă, de la dimineață până seara.\n\nBucătăria reunește preparate grecești și mediteraneene, pizza, gyros, carne la grătar, pește și fructe de mare. Fotografiile primite surprind frigărui, gyros cu cartofi și tzatziki, calamar la grătar și un preparat rumenit la cuptor cu brânză topită. Aceste imagini ilustrează experiența culinară, fără să reprezinte un meniu actualizat sau să garanteze disponibilitatea preparatelor în fiecare zi.\n\nPoziția lângă port face restaurantul potrivit pentru o pauză în timpul explorării satului, o cină liniștită sau o oprire în apropierea apusului. Priveliștea ambarcațiunilor și atmosfera simplă a promenadei completează experiența unei seri pe malul mării în Thassos.",
+          "social_caption": "",
+          "seo_title": "Cafe Pizza Restaurant Grill Kallirachi | Skala Kallirachis, Thassos",
+          "seo_description": "Restaurant pe promenada portului din Skala Kallirachis, Thassos, cu pizza, gyros, grill, fructe de mare și terasă cu vedere la mare."
+        },
+        "en": {
+          "name": "Cafe Pizza Restaurant Grill Kallirachi",
+          "tagline": "",
+          "summary": "Relaxed harbourfront restaurant in Skala Kallirachis serving Greek favourites, grilled dishes, pizza, seafood and coffee beside the sea.",
+          "description": "Along the waterfront promenade in Skala Kallirachis, beside a small harbour on the western coast of Thassos, Cafe Pizza Restaurant Grill Kallirachi is an easy-going place for coffee, a casual lunch or a sea-view dinner. Its shaded outdoor tables sit along the promenade, with palm trees, fishing boats and the Aegean adding to the atmosphere.\n\nThe varied dining experience brings together Greek and Mediterranean favourites, pizza, gyros, grilled meats, fish and seafood. The supplied photographs feature grilled skewers, gyros with fries and tzatziki, grilled calamari and an oven-baked cheese-topped dish. They are illustrations of the dining experience, not a verified daily menu or a promise of availability.\n\nWith the harbour just across the road, it is a convenient stop while exploring Skala Kallirachis or enjoying a relaxed evening on the waterfront. The views over the boats and the warm light of the western coast make this a pleasant setting for a leisurely meal.",
+          "social_caption": "",
+          "seo_title": "Cafe Pizza Restaurant Grill Kallirachi | Skala Kallirachis, Thassos",
+          "seo_description": "Harbourfront café and restaurant in Skala Kallirachis, Thassos, with pizza, gyros, grilled dishes, seafood and outdoor sea-view dining."
+        },
+        "el": {
+          "name": "Cafe Pizza Restaurant Grill Kallirachi",
+          "tagline": "",
+          "summary": "Χαλαρό εστιατόριο στον παραλιακό δρόμο της Σκάλας Καλλιράχης, με ελληνικές γεύσεις, ψητά, πίτσα, θαλασσινά και καφέ δίπλα στη θάλασσα.",
+          "description": "Στον παραλιακό πεζόδρομο της Σκάλας Καλλιράχης, κοντά στο μικρό λιμάνι της δυτικής Θάσου, το Cafe Pizza Restaurant Grill Kallirachi είναι μια ευχάριστη επιλογή για καφέ, μεσημεριανό ή δείπνο με θέα στη θάλασσα. Τα τραπέζια στον εξωτερικό χώρο, η σκιά από τις ομπρέλες και οι φοίνικες της παραλίας δημιουργούν μια χαλαρή ατμόσφαιρα.\n\nΟι γαστρονομικές επιλογές περιλαμβάνουν ελληνικές και μεσογειακές γεύσεις, πίτσα, γύρο, ψητά κρέατα, ψάρια και θαλασσινά. Στις φωτογραφίες που δόθηκαν φαίνονται σουβλάκια, γύρος με πατάτες και τζατζίκι, καλαμάρι σχάρας και ένα φαγητό φούρνου με λιωμένο τυρί. Οι εικόνες είναι ενδεικτικές και δεν αποτελούν επιβεβαιωμένο καθημερινό κατάλογο.\n\nΗ τοποθεσία κοντά στο λιμάνι είναι ιδανική για μια στάση κατά την περιήγηση στο χωριό ή για ένα ήρεμο γεύμα προς το ηλιοβασίλεμα. Η θέα στα σκάφη και στον θαλάσσιο ορίζοντα συμπληρώνει την εμπειρία.",
+          "social_caption": "",
+          "seo_title": "Cafe Pizza Restaurant Grill Kallirachi | Σκάλα Καλλιράχης, Θάσος",
+          "seo_description": "Εστιατόριο δίπλα στο λιμάνι της Σκάλας Καλλιράχης με πίτσα, γύρο, ψητά, θαλασσινά και θέα στη θάλασσα."
+        },
+        "de": {
+          "name": "Cafe Pizza Restaurant Grill Kallirachi",
+          "tagline": "",
+          "summary": "Entspanntes Restaurant an der Hafenpromenade von Skala Kallirachis mit griechischen Gerichten, Grill, Pizza, Meeresfrüchten und Meerblick.",
+          "description": "An der Uferpromenade von Skala Kallirachis, direkt beim kleinen Hafen an der Westküste von Thassos, lädt das Cafe Pizza Restaurant Grill Kallirachi zu einem Kaffee, einem ungezwungenen Mittagessen oder einem Abendessen mit Meerblick ein. Die schattigen Tische im Außenbereich und die Palmen an der Promenade sorgen für eine entspannte Atmosphäre.\n\nDie Küche bietet eine Mischung aus griechischen und mediterranen Gerichten, Pizza, Gyros, Fleisch vom Grill, Fisch und Meeresfrüchten. Auf den bereitgestellten Bildern sind unter anderem Grillspieße, Gyros mit Pommes und Tzatziki, gegrillter Tintenfisch sowie ein überbackenes Gericht mit Käse zu sehen. Die Fotos vermitteln einen Eindruck vom Essen, stellen aber keine bestätigte aktuelle Speisekarte dar.\n\nDank der Lage am Hafen eignet sich das Restaurant gut für eine Pause beim Spaziergang durch den Ort oder ein ruhiges Essen am Abend. Der Blick auf die Boote und das Meer macht den Aufenthalt besonders zum Sonnenuntergang reizvoll.",
+          "social_caption": "",
+          "seo_title": "Cafe Pizza Restaurant Grill Kallirachi | Skala Kallirachis, Thassos",
+          "seo_description": "Restaurant an der Hafenpromenade von Skala Kallirachis mit Pizza, Gyros, Grillgerichten, Meeresfrüchten und Meerblick."
+        },
+        "bg": {
+          "name": "Cafe Pizza Restaurant Grill Kallirachi",
+          "tagline": "",
+          "summary": "Спокоен ресторант край пристанището в Скала Каллирахис с гръцки ястия, скара, пица, морски дарове и кафе с изглед към морето.",
+          "description": "На крайбрежната алея на Скала Каллирахис, до малкото пристанище на западния бряг на Тасос, Cafe Pizza Restaurant Grill Kallirachi предлага приятно място за кафе, обяд или вечеря с гледка към морето. Масите на открито, сенчестите чадъри и палмите покрай крайбрежието създават непринудена атмосфера.\n\nМенюто като тип кухня съчетава гръцки и средиземноморски ястия, пица, гирос, месо на скара, риба и морски дарове. На предоставените снимки се виждат шишчета, гирос с картофи и дзадзики, калмари на скара и запечено ястие с разтопено сирене. Снимките са илюстративни и не представляват потвърдено актуално меню.\n\nБлизостта до пристанището прави ресторанта удобна спирка при разходка из селото или за спокойна вечеря край водата. Гледката към лодките и залеза допълва атмосферата.",
+          "social_caption": "",
+          "seo_title": "Cafe Pizza Restaurant Grill Kallirachi | Скала Каллирахис, Тасос",
+          "seo_description": "Ресторант до пристанището в Скала Каллирахис с пица, гирос, скара, морски дарове и крайбрежна тераса."
+        },
+        "sr": {
+          "name": "Cafe Pizza Restaurant Grill Kallirachi",
+          "tagline": "",
+          "summary": "Opušten restoran na šetalištu uz luku u Skala Kalirahisu, sa grčkim jelima, roštiljem, picom, morskim plodovima i pogledom na more.",
+          "description": "Na šetalištu uz more u mestu Skala Kalirahi, pored male luke na zapadnoj obali Tasosa, Cafe Pizza Restaurant Grill Kallirachi prijatno je mesto za kafu, ručak ili večeru sa pogledom na more. Stolovi na otvorenom, suncobrani i palme duž obale stvaraju opuštenu atmosferu.\n\nPonuda objedinjuje grčka i mediteranska jela, picu, giros, meso sa roštilja, ribu i morske plodove. Na dostavljenim fotografijama vide se ražnjići, giros sa pomfritom i cacikijem, lignje sa roštilja i zapečeno jelo sa topljenim sirom. Fotografije su ilustrativne i ne predstavljaju potvrđen dnevni meni.\n\nPoložaj pored luke čini restoran pogodnim za predah tokom obilaska mesta ili mirnu večeru na obali. Pogled na brodove i more posebno prija pred zalazak sunca.",
+          "social_caption": "",
+          "seo_title": "Cafe Pizza Restaurant Grill Kallirachi | Skala Kalirahi, Tasos",
+          "seo_description": "Restoran uz luku u Skala Kalirahisu sa picom, girosom, roštiljem, morskim plodovima i terasom s pogledom na more."
+        }
+      }
+    },
+    {
+      "id": "karibou-seaside-tavern",
+      "slug": "karibou-seaside-tavern",
+      "category": "restaurants",
+      "subcategory": "traditional-greek-tavern",
+      "name": "Karibou Seaside Tavern",
+      "area_slug": null,
+      "beach_slug": "skala-prinos",
+      "coordinates": {
+        "lat": 40.7600173202241,
+        "lng": 24.562388716908448
+      },
+      "source_file": "destinations/thassos/restaurants/karibou-seaside-tavern/restaurant.json",
+      "publish_ready": false,
+      "photo_rights_confirmed": false,
+      "photos_available": 10,
+      "photos_declared": 10,
+      "images": [
+        {
+          "path": "destinations/thassos/restaurants/karibou-seaside-tavern/images/Apus peste o intrare înflorită la mare.webp",
+          "filename": "Apus peste o intrare înflorită la mare.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/karibou-seaside-tavern/images/Friptură la grătar cu garnituri rustice.webp",
+          "filename": "Friptură la grătar cu garnituri rustice.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/karibou-seaside-tavern/images/Homar la grătar cu sosuri și salată.webp",
+          "filename": "Homar la grătar cu sosuri și salată.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/karibou-seaside-tavern/images/Pește la grătar cu salată proaspătă.webp",
+          "filename": "Pește la grătar cu salată proaspătă.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/karibou-seaside-tavern/images/Tavă marinărească cu fructe de mare prăjite.webp",
+          "filename": "Tavă marinărească cu fructe de mare prăjite.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/karibou-seaside-tavern/images/Terasa mediteraneană cu vedere la mare.webp",
+          "filename": "Terasa mediteraneană cu vedere la mare.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/karibou-seaside-tavern/images/Terasa tavernei grecești la malul mării.webp",
+          "filename": "Terasa tavernei grecești la malul mării.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/karibou-seaside-tavern/images/Terasă de seară la Karibou Tavern.webp",
+          "filename": "Terasă de seară la Karibou Tavern.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/karibou-seaside-tavern/images/Terasă mediteraneană la amurg.webp",
+          "filename": "Terasă mediteraneană la amurg.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/karibou-seaside-tavern/images/Vinete coapte cu roșii și pătrunjel.webp",
+          "filename": "Vinete coapte cu roșii și pătrunjel.webp",
+          "available": true
+        }
+      ],
+      "translations": {
+        "ro": {
+          "name": "Karibou Seaside Tavern",
+          "tagline": "",
+          "summary": "Tavernă grecească primitoare lângă Prinos Beach, cu terasă umbrită, grădină înflorită, pește, fructe de mare și preparate tradiționale.",
+          "description": "Lângă Prinos Beach, în zona liniștită Ormos Prinou din Thassos, Karibou Seaside Tavern îmbină gusturile tradiționale grecești cu o atmosferă de vacanță. Mesele cu fețe de masă turcoaz, terasa umbrită de pini și grădina plină de flori creează un loc plăcut pentru un prânz fără grabă sau o cină la apus.\n\nBucătăria pune accent pe pește și fructe de mare, preparate la grătar, salate și specialități grecești. În fotografiile primite se regăsesc platouri cu fructe de mare, pește la grătar, homar, preparate din carne și vinete coapte. Acestea sunt exemple vizuale, nu o garanție că toate preparatele sunt disponibile zilnic.\n\nApropierea de plajă, locurile spațioase de pe terasă și atmosfera relaxată fac din Karibou o alegere potrivită pentru familii, cupluri și grupuri de prieteni. La lăsarea serii, luminile calde ale grădinii completează experiența de tavernă grecească de pe coasta vestică a insulei.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "en": {
+          "name": "Karibou Seaside Tavern",
+          "tagline": "",
+          "summary": "Welcoming Greek seaside tavern near Prinos Beach, with shaded garden seating, seafood, grilled dishes and traditional island flavours.",
+          "description": "Near Prinos Beach in the peaceful Ormos Prinou area of Thassos, Karibou Seaside Tavern brings together traditional Greek flavours and an easy-going island atmosphere. Turquoise-covered tables, pine-shaded outdoor seating and a flower-filled garden set the scene for a leisurely lunch or a memorable dinner at sunset.\n\nGreek and Mediterranean favourites include grilled fish, seafood, meat dishes, fresh salads and traditional recipes. The supplied photographs show seafood platters, grilled fish, lobster, grilled meat and roasted aubergine; these illustrate the dining experience rather than a confirmed daily menu.\n\nWith its welcoming garden terrace and proximity to the seafront, Karibou is a relaxed choice for couples, families and friends exploring western Thassos. As evening arrives, warm lights and the surrounding greenery create a particularly inviting setting.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "el": {
+          "name": "Karibou Seaside Tavern",
+          "tagline": "",
+          "summary": "Φιλόξενη ελληνική παραθαλάσσια ταβέρνα κοντά στην παραλία Πρίνου, με σκιερό κήπο, θαλασσινά, ψητά και παραδοσιακές γεύσεις.",
+          "description": "Κοντά στην παραλία Πρίνου, στην ήσυχη περιοχή του Όρμου Πρίνου στη Θάσο, η Karibou Seaside Tavern συνδυάζει παραδοσιακές ελληνικές γεύσεις με χαλαρή νησιώτικη ατμόσφαιρα. Τα τραπέζια με τα τιρκουάζ τραπεζομάντιλα, η σκιερή βεράντα κάτω από τα πεύκα και ο ανθισμένος κήπος δημιουργούν ένα όμορφο σκηνικό για μεσημεριανό ή δείπνο στο ηλιοβασίλεμα.\n\nΗ γαστρονομική εμπειρία επικεντρώνεται σε ψάρια, θαλασσινά, ψητά κρέατα, σαλάτες και ελληνικές σπεσιαλιτέ. Οι φωτογραφίες που παρασχέθηκαν δείχνουν πιατέλες θαλασσινών, ψητό ψάρι, αστακό, κρέατα σχάρας και μελιτζάνα· δεν αποτελούν επιβεβαιωμένο καθημερινό μενού.\n\nΜε τον ευρύχωρο εξωτερικό χώρο και την εγγύτητα στη θάλασσα, η ταβέρνα είναι μια ευχάριστη επιλογή για οικογένειες, ζευγάρια και παρέες. Το βράδυ ο ζεστός φωτισμός ενισχύει τη φιλόξενη ατμόσφαιρα.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "de": {
+          "name": "Karibou Seaside Tavern",
+          "tagline": "",
+          "summary": "Einladende griechische Taverne nahe dem Prinos Beach mit schattigem Garten, Fisch, Meeresfrüchten und traditionellen Spezialitäten.",
+          "description": "Nahe dem Prinos Beach im ruhigen Ormos Prinou auf Thassos verbindet die Karibou Seaside Tavern traditionelle griechische Küche mit entspannter Inselatmosphäre. Türkis gedeckte Tische, eine von Pinien beschattete Terrasse und ein blühender Garten laden zu einem gemütlichen Mittagessen oder Abendessen bei Sonnenuntergang ein.\n\nIm Mittelpunkt stehen Fisch, Meeresfrüchte, Grillgerichte, frische Salate und griechische Spezialitäten. Die bereitgestellten Fotos zeigen unter anderem Meeresfrüchteplatten, gegrillten Fisch, Hummer, Fleischgerichte und gebackene Auberginen. Sie sind keine Bestätigung einer täglich verfügbaren Speisekarte.\n\nDie Nähe zum Strand und der großzügige Außenbereich machen die Taverne zu einer schönen Wahl für Paare, Familien und Freundesgruppen. Abends sorgt die warme Beleuchtung für ein besonders gemütliches Ambiente.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "bg": {
+          "name": "Karibou Seaside Tavern",
+          "tagline": "",
+          "summary": "Уютна гръцка таверна до плажа Принос със сенчеста градина, риба, морски дарове, ястия на скара и местни вкусове.",
+          "description": "Близо до плажа Принос, в спокойния район Ормос Приноу на остров Тасос, Karibou Seaside Tavern съчетава традиционни гръцки вкусове с непринудена островна атмосфера. Масите с тюркоазени покривки, сенчестата тераса сред боровете и цветната градина създават приятна обстановка за обяд или вечеря по залез.\n\nКухнята предлага гръцки и средиземноморски специалитети с акцент върху риба, морски дарове, месо на скара и свежи салати. Предоставените снимки показват плата с морски дарове, риба на скара, омар, месни ястия и печен патладжан; те не потвърждават ежедневно меню.\n\nБлизостта до морето и просторните места на открито правят таверната подходяща за семейства, двойки и приятелски компании. Вечер топлото осветление допълва уютната атмосфера.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "sr": {
+          "name": "Karibou Seaside Tavern",
+          "tagline": "",
+          "summary": "Gostoljubiva grčka taverna blizu plaže Prinos, sa hladovinom u bašti, ribom, morskim plodovima i tradicionalnim jelima.",
+          "description": "U blizini plaže Prinos, u mirnom delu Ormos Prinou na Tasosu, Karibou Seaside Tavern spaja tradicionalne grčke ukuse i opuštenu ostrvsku atmosferu. Stolovi sa tirkiznim stolnjacima, terasa u hladu borova i vrt pun cveća pružaju prijatan ambijent za ručak ili večeru uz zalazak sunca.\n\nU ponudi se ističu riba, morski plodovi, jela sa roštilja, sveže salate i grčki specijaliteti. Dostavljene fotografije prikazuju morske plodove, ribu sa roštilja, jastoga, meso i pečeni patlidžan; one nisu potvrda svakodnevnog menija.\n\nBlizina obale i prostrana bašta čine tavernu dobrim izborom za porodice, parove i prijatelje. Uveče toplo osvetljenje dodatno ističe prijatnu atmosferu.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        }
+      }
+    },
+    {
       "id": "gr-thassos-restaurant-napoleon-tavern",
       "slug": "napoleon-tavern",
       "category": "restaurants",
@@ -8675,6 +9511,444 @@
           "social_caption": "",
           "seo_title": "Napoleon Tavern Skala Sotiros | Grčka taverna na plaži",
           "seo_description": "Napoleon Tavern na Tasosu: riba, morski plodovi, roštilj, terasa uz plažu i zalazak sunca u Skali Sotiros."
+        }
+      }
+    },
+    {
+      "id": "oasis-grill-restaurant",
+      "slug": "oasis-grill-restaurant",
+      "category": "restaurants",
+      "subcategory": null,
+      "name": "Oasis Grill Restaurant",
+      "area_slug": null,
+      "beach_slug": null,
+      "coordinates": {
+        "lat": 40.75869763441532,
+        "lng": 24.575549814169296
+      },
+      "source_file": "destinations/thassos/restaurants/oasis-grill-restaurant/restaurant.json",
+      "publish_ready": false,
+      "photo_rights_confirmed": false,
+      "photos_available": 19,
+      "photos_declared": 19,
+      "images": [
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/documents/menu-2025/image(20261103-062323).png",
+          "filename": "image(20261103-062323).png",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/documents/menu-2025/image(20261103-062336).png",
+          "filename": "image(20261103-062336).png",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/documents/menu-2025/image(20261103-062401).png",
+          "filename": "image(20261103-062401).png",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/documents/menu-2025/image(20261103-062419).png",
+          "filename": "image(20261103-062419).png",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/documents/menu-2025/image(20261103-062438).png",
+          "filename": "image(20261103-062438).png",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/documents/menu-2025/image(20261103-062613).png",
+          "filename": "image(20261103-062613).png",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/documents/menu-2025/image(20261103-062646).png",
+          "filename": "image(20261103-062646).png",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/documents/menu-2025/image(20261103-062659).png",
+          "filename": "image(20261103-062659).png",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/images/Cafenea mediteraneană sub copac iluminat.webp",
+          "filename": "Cafenea mediteraneană sub copac iluminat.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/images/Cafenea rustică Irantiri la amurg.webp",
+          "filename": "Cafenea rustică Irantiri la amurg.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/images/Caracatiță la grătar cu garnituri proaspete.webp",
+          "filename": "Caracatiță la grătar cu garnituri proaspete.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/images/Creveți la grătar cu lămâie și sos balsamic.webp",
+          "filename": "Creveți la grătar cu lămâie și sos balsamic.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/images/Curte mediteraneană cu grătar rustic.webp",
+          "filename": "Curte mediteraneană cu grătar rustic.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/images/Friptură la grătar cu cartofi prăjiți.webp",
+          "filename": "Friptură la grătar cu cartofi prăjiți.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/images/Pește la grătar în tavernă mediteraneană.webp",
+          "filename": "Pește la grătar în tavernă mediteraneană.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/images/Platou grecesc cu dovlecei crocanți.webp",
+          "filename": "Platou grecesc cu dovlecei crocanți.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/images/Restaurant mediteranean la apus_VEVENT.webp",
+          "filename": "Restaurant mediteranean la apus_VEVENT.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/images/Restaurant pe malul mării la apus.webp",
+          "filename": "Restaurant pe malul mării la apus.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/oasis-grill-restaurant/images/Terasa rustică la apus, lângă mare.webp",
+          "filename": "Terasa rustică la apus, lângă mare.webp",
+          "available": true
+        }
+      ],
+      "translations": {
+        "ro": {
+          "name": "Oasis Grill Restaurant",
+          "tagline": "",
+          "summary": "Tavernă grecească în Skala Prinos, cu terase în aer liber, atmosferă relaxată și preparate la grătar, pește și fructe de mare.",
+          "description": "În Skala Prinos, pe insula Thassos, Oasis Grill Restaurant propune o experiență culinară grecească într-un cadru de vacanță relaxat. Terasele în aer liber, vegetația bogată și luminile calde de seară creează o atmosferă plăcută pentru un prânz liniștit sau o cină în familie.\n\nMeniul prezentat pentru 2025 reunește preparate din pește și fructe de mare, precum caracatiță, calamari, creveți și pește la grătar, alături de souvlaki, gyros, salate grecești, dovlecei prăjiți și alte specialități tradiționale. Există și opțiuni vegetariene, precum și un meniu pentru copii.\n\nApropierea de mare și locurile de luat masa sub copaci completează farmecul acestei taverne. Pentru o masă mai comodă în perioadele aglomerate, este util să întrebați în prealabil despre disponibilitate și rezervări.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "en": {
+          "name": "Oasis Grill Restaurant",
+          "tagline": "",
+          "summary": "Relaxed Greek taverna in Skala Prinos with outdoor dining, grilled seafood, traditional dishes and a welcoming island atmosphere.",
+          "description": "In the coastal village of Skala Prinos on Thassos, Oasis Grill Restaurant offers a relaxed taste of Greek island dining. Outdoor tables, leafy surroundings and warm evening lights make it an inviting setting for a leisurely lunch or a family dinner.\n\nThe 2025 menu features grilled fish and seafood such as octopus, calamari and shrimp, alongside souvlaki, gyros, Greek salads, crispy fried zucchini and other traditional favourites. Vegetarian choices and a children’s menu are also listed.\n\nIts seaside setting and shaded seating are part of the appeal. Guests visiting during busier periods may wish to check availability and reservation arrangements in advance.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "el": {
+          "name": "Oasis Grill Restaurant",
+          "tagline": "",
+          "summary": "Χαλαρή ελληνική ταβέρνα στη Σκάλα Πρίνου, με υπαίθρια τραπεζάκια, ψητά θαλασσινά και παραδοσιακές γεύσεις.",
+          "description": "Στη Σκάλα Πρίνου της Θάσου, το Oasis Grill Restaurant προσφέρει μια χαλαρή εμπειρία ελληνικής κουζίνας κοντά στη θάλασσα. Τα τραπέζια στον υπαίθριο χώρο, η πλούσια βλάστηση και ο ζεστός βραδινός φωτισμός δημιουργούν ένα ευχάριστο σκηνικό για μεσημεριανό γεύμα ή οικογενειακό δείπνο.\n\nΣτο μενού του 2025 περιλαμβάνονται ψητά ψάρια και θαλασσινά, όπως χταπόδι, καλαμάρι και γαρίδες, αλλά και σουβλάκι, γύρος, ελληνικές σαλάτες, τηγανητά κολοκυθάκια και άλλες παραδοσιακές γεύσεις. Υπάρχουν επίσης χορτοφαγικές επιλογές και παιδικό μενού.\n\nΗ παραθαλάσσια τοποθεσία και τα σκιερά καθίσματα συμπληρώνουν την εμπειρία. Σε περιόδους αυξημένης κίνησης είναι χρήσιμο να επιβεβαιώνετε εκ των προτέρων τη διαθεσιμότητα και τις κρατήσεις.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "de": {
+          "name": "Oasis Grill Restaurant",
+          "tagline": "",
+          "summary": "Entspannte griechische Taverne in Skala Prinos mit Außenterrasse, gegrilltem Fisch, Meeresfrüchten und traditionellen Gerichten.",
+          "description": "In Skala Prinos auf Thassos lädt das Oasis Grill Restaurant zu einem entspannten Essen in griechischem Inselambiente ein. Sitzplätze im Freien, üppiges Grün und stimmungsvolle Beleuchtung am Abend schaffen einen angenehmen Rahmen für ein gemütliches Mittagessen oder ein Familienabendessen.\n\nDie Speisekarte von 2025 umfasst gegrillten Fisch und Meeresfrüchte wie Oktopus, Calamari und Garnelen sowie Souvlaki, Gyros, griechische Salate, knusprig gebratene Zucchini und weitere traditionelle Spezialitäten. Auch vegetarische Gerichte und eine Kinderkarte sind aufgeführt.\n\nDie Lage in Meeresnähe und die schattigen Sitzplätze machen den Besuch besonders reizvoll. In der Hochsaison empfiehlt es sich, Verfügbarkeit und Reservierungsmöglichkeiten vorab zu erfragen.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "bg": {
+          "name": "Oasis Grill Restaurant",
+          "tagline": "",
+          "summary": "Уютна гръцка таверна в Скала Принос с места на открито, морски дарове на скара и традиционни ястия.",
+          "description": "В Скала Принос на остров Тасос Oasis Grill Restaurant предлага спокойно преживяване с традиционна гръцка кухня. Масите на открито, зеленината и приятното вечерно осветление създават чудесна обстановка за обяд или семейна вечеря.\n\nМенюто от 2025 г. включва риба и морски дарове на скара, като октопод, калмари и скариди, както и сувлаки, гирос, гръцки салати, пържени тиквички и други местни специалитети. Предлагат се също вегетариански ястия и детско меню.\n\nБлизостта до морето и сенчестите места допълват атмосферата. През натоварения сезон е добре предварително да проверите възможностите за резервация.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "sr": {
+          "name": "Oasis Grill Restaurant",
+          "tagline": "",
+          "summary": "Opuštena grčka taverna u Skali Prinos sa baštom, grilovanom ribom, morskim plodovima i tradicionalnim jelima.",
+          "description": "U Skali Prinos na Tasosu, Oasis Grill Restaurant pruža opušten doživljaj grčke ostrvske kuhinje. Stolovi na otvorenom, zelenilo i prijatno večernje osvetljenje stvaraju lep ambijent za ručak ili porodičnu večeru.\n\nNa jelovniku iz 2025. nalaze se riba i morski plodovi sa roštilja, poput hobotnice, lignji i škampa, kao i suvlaki, giros, grčke salate, pržene tikvice i drugi tradicionalni specijaliteti. Dostupne su i vegetarijanske opcije i dečji meni.\n\nBlizina mora i mesta u hladu dodatno doprinose atmosferi. Tokom prometnijih perioda preporučljivo je unapred proveriti dostupnost stolova i mogućnost rezervacije.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        }
+      }
+    },
+    {
+      "id": "pinch-of-salt",
+      "slug": "pinch-of-salt",
+      "category": "restaurants",
+      "subcategory": null,
+      "name": "Pinch of Salt",
+      "area_slug": null,
+      "beach_slug": null,
+      "coordinates": {
+        "lat": 40.75872891924579,
+        "lng": 24.57461859075335
+      },
+      "source_file": "destinations/thassos/restaurants/pinch-of-salt/restaurant.json",
+      "publish_ready": false,
+      "photo_rights_confirmed": false,
+      "photos_available": 15,
+      "photos_declared": 15,
+      "images": [
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/documents/menu-captures/image(20261103-212552).png",
+          "filename": "image(20261103-212552).png",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/documents/menu-captures/image(20261103-212625).png",
+          "filename": "image(20261103-212625).png",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/documents/menu-captures/image(20261103-212641).png",
+          "filename": "image(20261103-212641).png",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/documents/menu-captures/image(20261103-212702).png",
+          "filename": "image(20261103-212702).png",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/images/Cafenea liniștită pe plajă umbrită de pini.webp",
+          "filename": "Cafenea liniștită pe plajă umbrită de pini.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/images/Calamar la grătar cu bulgur și rucola.webp",
+          "filename": "Calamar la grătar cu bulgur și rucola.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/images/Concert nocturn la resort cu cină elegantă.webp",
+          "filename": "Concert nocturn la resort cu cină elegantă.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/images/Oază turcoaz la pergola mediteraneană.webp",
+          "filename": "Oază turcoaz la pergola mediteraneană.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/images/Pește la grătar cu flori comestibile.webp",
+          "filename": "Pește la grătar cu flori comestibile.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/images/Pește la grătar și salată vibrantă_rs.webp",
+          "filename": "Pește la grătar și salată vibrantă_rs.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/images/Risotto gourmet cu scoici și icre de somon.webp",
+          "filename": "Risotto gourmet cu scoici și icre de somon.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/images/Salată de pepene cu feta la resort.webp",
+          "filename": "Salată de pepene cu feta la resort.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/images/Terasa marină cu mese și pergolă albă.webp",
+          "filename": "Terasa marină cu mese și pergolă albă.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/images/Terasa mediteraneană la apus.webp",
+          "filename": "Terasa mediteraneană la apus.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/restaurants/pinch-of-salt/images/Terasa mediteraneană sub pergolă.webp",
+          "filename": "Terasa mediteraneană sub pergolă.webp",
+          "available": true
+        }
+      ],
+      "translations": {
+        "ro": {
+          "name": "Pinch of Salt",
+          "tagline": "",
+          "summary": "Restaurant grecesc și mediteranean în Skala Prinos, cu terasă luminoasă, atmosferă relaxată, preparate atent prezentate și locuri de luat masa lângă piscină.",
+          "description": "În Skala Prinos, pe insula Thassos, Pinch of Salt propune o interpretare contemporană a bucătăriei grecești și mediteraneene. Terasa cu pergole albe, vegetația mediteraneană și zona de mese din apropierea piscinei creează un cadru aerisit, potrivit pentru un prânz relaxat sau o seară specială.\n\nMeniul documentat include salate precum dakos și salata grecească, tzatziki, gyros, souvlaki, file de pui, calamari cu cartofi prăjiți, pizza și deserturi. Fotografiile primite prezintă și preparate din pește și fructe de mare, dar disponibilitatea fiecărui fel trebuie confirmată la restaurant. Vinurile și cocktailurile completează experiența.\n\nLocația îmbină stilul modern cu atmosfera de vacanță, iar zona de terasă, apropierea de plajă și evenimentele muzicale menționate în experiențele vizitatorilor o fac o alegere plăcută pentru cupluri, familii și grupuri de prieteni. Programul și meniul se pot schimba în funcție de sezon.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "en": {
+          "name": "Pinch of Salt",
+          "tagline": "",
+          "summary": "Contemporary Greek and Mediterranean dining in Skala Prinos, with an airy terrace, relaxed atmosphere, thoughtfully presented dishes and poolside seating.",
+          "description": "In Skala Prinos on the island of Thassos, Pinch of Salt offers a contemporary take on Greek and Mediterranean dining. White pergolas, lush greenery and seating near the pool create an airy setting for a leisurely lunch or a memorable evening.\n\nThe supplied menu features dakos and Greek salads, tzatziki, gyros, souvlaki, chicken fillet, calamari and chips, pizza and desserts. The photographs also show fish and seafood dishes, although availability should be checked with the restaurant. Wines and cocktails add to the experience.\n\nWith its modern design, beachside surroundings and occasional music events mentioned by guests, Pinch of Salt is a welcoming option for couples, families and groups. Opening hours and menu choices may vary seasonally.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "el": {
+          "name": "Pinch of Salt",
+          "tagline": "",
+          "summary": "Σύγχρονο ελληνικό και μεσογειακό εστιατόριο στη Σκάλα Πρίνου, με φωτεινή βεράντα, χαλαρή ατμόσφαιρα, προσεγμένα πιάτα και τραπέζια δίπλα στην πισίνα.",
+          "description": "Στη Σκάλα Πρίνου της Θάσου, το Pinch of Salt προσφέρει μια σύγχρονη προσέγγιση στην ελληνική και μεσογειακή κουζίνα. Οι λευκές πέργκολες, το πράσινο και τα τραπέζια κοντά στην πισίνα δημιουργούν έναν ευχάριστο χώρο για χαλαρό γεύμα ή ιδιαίτερη βραδινή έξοδο.\n\nΣτο μενού που μας δόθηκε περιλαμβάνονται ντάκος, χωριάτικη σαλάτα, τζατζίκι, γύρος, σουβλάκι, φιλέτο κοτόπουλου, καλαμαράκια με πατάτες, πίτσα και γλυκά. Οι φωτογραφίες παρουσιάζουν επίσης πιάτα με ψάρι και θαλασσινά, όμως η διαθεσιμότητά τους χρειάζεται επιβεβαίωση. Υπάρχουν επιλογές κρασιού και κοκτέιλ.\n\nΗ μοντέρνα αισθητική, η παραθαλάσσια περιοχή και οι μουσικές βραδιές που αναφέρουν επισκέπτες κάνουν το εστιατόριο ελκυστικό για ζευγάρια, οικογένειες και παρέες. Το ωράριο και το μενού μπορεί να αλλάζουν ανά εποχή.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "de": {
+          "name": "Pinch of Salt",
+          "tagline": "",
+          "summary": "Modernes griechisch-mediterranes Restaurant in Skala Prinos mit luftiger Terrasse, entspannter Atmosphäre, liebevoll angerichteten Speisen und Sitzplätzen am Pool.",
+          "description": "In Skala Prinos auf Thassos verbindet Pinch of Salt griechische und mediterrane Küche mit einem modernen Ambiente. Weiße Pergolen, üppige Pflanzen und Sitzplätze in Poolnähe schaffen einen luftigen Rahmen für ein entspanntes Mittagessen oder einen besonderen Abend.\n\nAuf den bereitgestellten Menükarten stehen unter anderem Dakos, griechischer Salat, Tzatziki, Gyros, Souvlaki, Hähnchenfilet, Calamari mit Pommes, Pizza und Desserts. Die Fotos zeigen außerdem Fisch- und Meeresfrüchtegerichte, deren Verfügbarkeit vor Ort bestätigt werden sollte. Wein und Cocktails ergänzen das Angebot.\n\nDie moderne Gestaltung, die Nähe zum Strand und die von Gästen erwähnten Musikabende machen das Restaurant zu einer schönen Wahl für Paare, Familien und Gruppen. Öffnungszeiten und Speisekarte können saisonal variieren.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "bg": {
+          "name": "Pinch of Salt",
+          "tagline": "",
+          "summary": "Съвременен гръцки и средиземноморски ресторант в Скала Принос с просторна тераса, спокойна атмосфера, красиво поднесени ястия и места до басейна.",
+          "description": "В Скала Принос на остров Тасос Pinch of Salt предлага съвременен прочит на гръцката и средиземноморската кухня. Белите перголи, зеленината и масите близо до басейна създават приятно пространство за спокоен обяд или специална вечер.\n\nПредоставеното меню включва салата дакос, гръцка салата, дзадзики, гирос, сувлаки, пилешко филе, калмари с картофки, пица и десерти. На снимките има също риба и морски дарове, но наличността им трябва да се потвърди на място. Виното и коктейлите допълват преживяването.\n\nМодерният дизайн, близостта до плажа и музикалните вечери, споменати от посетители, правят ресторанта подходящ за двойки, семейства и приятелски компании. Работното време и менюто може да се променят според сезона.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "sr": {
+          "name": "Pinch of Salt",
+          "tagline": "",
+          "summary": "Savremeni grčki i mediteranski restoran u Skali Prinos, sa prostranom terasom, opuštenom atmosferom, pažljivo serviranim jelima i mestima pored bazena.",
+          "description": "U Skali Prinos na Tasosu, Pinch of Salt donosi savremen pristup grčkoj i mediteranskoj kuhinji. Bele pergole, bujno zelenilo i stolovi blizu bazena stvaraju prijatan ambijent za opušten ručak ili posebno veče.\n\nNa dostavljenom meniju nalaze se dakos i grčka salata, caciki, giros, suvlaki, pileći file, lignje sa pomfritom, pica i poslastice. Fotografije prikazuju i ribu i morske plodove, ali njihovu dostupnost treba proveriti u restoranu. Ponudu dopunjuju vina i kokteli.\n\nModeran izgled, blizina plaže i muzičke večeri koje pominju gosti čine restoran privlačnim za parove, porodice i društvo. Radno vreme i meni mogu se menjati tokom sezone.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        }
+      }
+    },
+    {
+      "id": "cat-dive-center",
+      "slug": "cat-dive-center",
+      "category": "services",
+      "subcategory": "diving-and-water-activities",
+      "name": "CAT Dive Center",
+      "area_slug": null,
+      "beach_slug": null,
+      "coordinates": {
+        "lat": 40.758324744806956,
+        "lng": 24.578137623340385
+      },
+      "source_file": "destinations/thassos/services/cat-dive-center/service.json",
+      "publish_ready": false,
+      "photo_rights_confirmed": false,
+      "photos_available": 8,
+      "photos_declared": 8,
+      "images": [
+        {
+          "path": "destinations/thassos/services/cat-dive-center/documents/needs-review/Steagul Pinch of Salt la malul mării.png",
+          "filename": "Steagul Pinch of Salt la malul mării.png",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/services/cat-dive-center/images/Echipamente de scufundări în centru SSI.webp",
+          "filename": "Echipamente de scufundări în centru SSI.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/services/cat-dive-center/images/Exploratori subacvatici în lumina turcoaz.webp",
+          "filename": "Exploratori subacvatici în lumina turcoaz.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/services/cat-dive-center/images/Magazinul de scufundări CAT Center.webp",
+          "filename": "Magazinul de scufundări CAT Center.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/services/cat-dive-center/images/Patru scafandri în razele soarelui subacvatic.webp",
+          "filename": "Patru scafandri în razele soarelui subacvatic.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/services/cat-dive-center/images/Scafandru hrănind pești tropicali.webp",
+          "filename": "Scafandru hrănind pești tropicali.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/services/cat-dive-center/images/Scafandru roșcat explorând reciful subacvatic.webp",
+          "filename": "Scafandru roșcat explorând reciful subacvatic.webp",
+          "available": true
+        },
+        {
+          "path": "destinations/thassos/services/cat-dive-center/images/Scafandru în apele turcoaz.webp",
+          "filename": "Scafandru în apele turcoaz.webp",
+          "available": true
+        }
+      ],
+      "translations": {
+        "ro": {
+          "name": "CAT Dive Center",
+          "tagline": "",
+          "summary": "Descoperă lumea subacvatică a insulei Thassos prin scufundări pentru începători, cursuri SSI, explorări ghidate și snorkeling în Skala Prinos.",
+          "description": "În Skala Prinos, CAT Dive Center (Center Action Thassos) îi invită pe vizitatori să descopere apele Mării Egee într-un mod diferit. Centrul, care declară peste 15 ani de activitate, organizează experiențe pentru cei care încearcă pentru prima dată scuba diving, dar și activități pentru scafandri certificați.\n\nProgramul Try Scuba este o introducere în scufundări, cu explicații despre echipament și ghidaj oferit de instructori. Oferta prezentată pe website-ul oficial include și cursuri, scufundări recreative și snorkeling. În funcție de nivelul participanților și de condițiile mării, centrul poate oferi și scufundări de pe barcă, nocturne sau la epave.\n\nUn avantaj pentru turiștii români este că website-ul centrului menționează explicit instruirea în limba română, alături de engleză, greacă, germană, franceză și maghiară. Pentru programări, tarife, condiții medicale, vârsta minimă și disponibilitatea instructorilor, este bine să contactezi centrul înainte de vizită.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "en": {
+          "name": "CAT Dive Center",
+          "tagline": "",
+          "summary": "Explore Thassos underwater with beginner scuba experiences, SSI courses, guided dives and snorkeling in Skala Prinos.",
+          "description": "Located in Skala Prinos, CAT Dive Center (Center Action Thassos) introduces visitors to a different side of the Aegean Sea. The center reports more than 15 years of experience and welcomes both first-time participants and certified divers.\n\nTry Scuba offers a first introduction to breathing underwater, with equipment guidance and instructor supervision. The official website also features courses, fun dives and snorkeling. Depending on certification level, availability and sea conditions, boat dives, night dives and wreck dives may be offered.\n\nThe center lists instruction in Romanian, English, Greek, German, French and Hungarian. Contact the team before visiting to confirm schedules, prices, medical requirements, minimum ages and instructor availability.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "el": {
+          "name": "CAT Dive Center",
+          "tagline": "",
+          "summary": "Ανακαλύψτε τον υποβρύχιο κόσμο της Θάσου με δοκιμαστικές καταδύσεις, μαθήματα SSI, οργανωμένες καταδύσεις και snorkeling στη Σκάλα Πρίνου.",
+          "description": "Στη Σκάλα Πρίνου, το CAT Dive Center (Center Action Thassos) προσφέρει μια διαφορετική γνωριμία με το Αιγαίο. Το κέντρο αναφέρει περισσότερα από 15 χρόνια εμπειρίας και απευθύνεται τόσο σε αρχάριους όσο και σε πιστοποιημένους δύτες.\n\nΤο πρόγραμμα Try Scuba αποτελεί μια πρώτη γνωριμία με την αυτόνομη κατάδυση, με ενημέρωση για τον εξοπλισμό και καθοδήγηση από εκπαιδευτές. Ο επίσημος ιστότοπος παρουσιάζει επίσης μαθήματα, καταδύσεις αναψυχής και snorkeling. Ανάλογα με την πιστοποίηση, τη διαθεσιμότητα και τις συνθήκες της θάλασσας, μπορεί να προσφέρονται καταδύσεις από σκάφος, νυχτερινές καταδύσεις και καταδύσεις σε ναυάγια.\n\nΤο κέντρο αναφέρει εξυπηρέτηση στα ελληνικά, αγγλικά, γερμανικά, γαλλικά, ρουμανικά και ουγγρικά. Επικοινωνήστε πριν από την επίσκεψη για ωράρια, τιμές, ιατρικές προϋποθέσεις, ελάχιστες ηλικίες και διαθεσιμότητα εκπαιδευτών.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "de": {
+          "name": "CAT Dive Center",
+          "tagline": "",
+          "summary": "Erlebe die Unterwasserwelt von Thassos mit Schnuppertauchen, SSI-Kursen, geführten Tauchgängen und Schnorcheln in Skala Prinos.",
+          "description": "In Skala Prinos lädt das CAT Dive Center (Center Action Thassos) dazu ein, die Ägäis aus einer neuen Perspektive zu entdecken. Das Zentrum gibt an, seit mehr als 15 Jahren aktiv zu sein, und bietet Erlebnisse für Einsteiger ebenso wie für zertifizierte Taucher.\n\nTry Scuba ermöglicht erste Erfahrungen unter Wasser, begleitet von einer Einweisung in die Ausrüstung und professioneller Betreuung. Laut offizieller Website gehören außerdem Kurse, Freizeittauchgänge und Schnorcheln zum Angebot. Je nach Ausbildungsstand, Verfügbarkeit und Seebedingungen können auch Boots-, Nacht- und Wracktauchgänge angeboten werden.\n\nAls Unterrichtssprachen nennt das Zentrum Deutsch, Englisch, Griechisch, Französisch, Rumänisch und Ungarisch. Öffnungszeiten, Preise, medizinische Voraussetzungen, Mindestalter und Verfügbarkeit der Tauchlehrer sollten vor dem Besuch bestätigt werden.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "bg": {
+          "name": "CAT Dive Center",
+          "tagline": "",
+          "summary": "Открийте подводния свят на Тасос с пробни гмуркания, SSI курсове, водени гмуркания и шнорхелинг в Скала Принос.",
+          "description": "В Скала Принос CAT Dive Center (Center Action Thassos) предлага възможност да опознаете Егейско море по различен начин. Центърът посочва над 15 години опит и приема както начинаещи, така и сертифицирани водолази.\n\nПрограмата Try Scuba дава първи досег с гмуркането с водолазна екипировка, с инструкции за оборудването и наблюдение от инструктор. Официалният сайт представя също курсове, развлекателни гмуркания и шнорхелинг. Според квалификацията, наличността и морските условия могат да се предлагат гмуркания от лодка, нощни гмуркания и посещения на потънали обекти.\n\nЦентърът посочва обучение на гръцки, английски, немски, френски, румънски и унгарски. Преди посещение потвърдете графика, цените, медицинските изисквания, минималната възраст и наличните инструктори.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
+        },
+        "sr": {
+          "name": "CAT Dive Center",
+          "tagline": "",
+          "summary": "Otkrijte podvodni svet Tasosa uz probno ronjenje, SSI kurseve, vođene zarone i snorkeling u Skali Prinos.",
+          "description": "U Skali Prinos, CAT Dive Center (Center Action Thassos) nudi priliku da Egejsko more doživite iz drugačije perspektive. Centar navodi više od 15 godina iskustva i prima početnike, kao i sertifikovane ronioce.\n\nProgram Try Scuba namenjen je prvom upoznavanju sa ronjenjem, uz objašnjenje opreme i nadzor instruktora. Na zvaničnom sajtu predstavljeni su i kursevi, rekreativni zaroni i snorkeling. U zavisnosti od nivoa obuke, raspoloživosti i uslova na moru, mogu biti dostupni zaroni sa čamca, noćni zaroni i obilasci olupina.\n\nCentar navodi obuku na grčkom, engleskom, nemačkom, francuskom, rumunskom i mađarskom jeziku. Pre dolaska proverite termine, cene, zdravstvene uslove, minimalni uzrast i dostupnost instruktora.",
+          "social_caption": "",
+          "seo_title": "",
+          "seo_description": ""
         }
       }
     },
