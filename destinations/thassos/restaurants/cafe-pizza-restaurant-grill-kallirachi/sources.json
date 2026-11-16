@@ -1,0 +1,35 @@
+{
+  "restaurantId": "cafe-pizza-restaurant-grill-kallirachi",
+  "preparedAt": "2026-11-13",
+  "sources": [
+    {
+      "type": "user_provided_google_maps_snapshot",
+      "receivedBy": "2026-11-13",
+      "fields": [
+        "name",
+        "address",
+        "phone",
+        "coordinates",
+        "hours_snapshot",
+        "price_band",
+        "reviews_count_snapshot",
+        "service_options",
+        "facilities"
+      ]
+    },
+    {
+      "type": "user_supplied_photos",
+      "receivedBy": "2026-11-13",
+      "count": 10,
+      "originalFormat": "png",
+      "binaryPhotosIncludedInZip": false
+    },
+    {
+      "type": "online_crosscheck",
+      "url": "https://mindtrip.ai/restaurant/skala-kallirachis-east-macedonia-thrace/cafe-pizza-restaurant-grill-kallirachi/re-6pVToQqu",
+      "checkedOn": "2026-11-13",
+      "note": "Name, location and phone align. Rating and review count conflict between sources and are not published."
+    }
+  ],
+  "verificationPolicy": "No independent owner confirmation of business hours, current prices, menu or rights to publish images. Do not label open now or present as a current menu."
+}

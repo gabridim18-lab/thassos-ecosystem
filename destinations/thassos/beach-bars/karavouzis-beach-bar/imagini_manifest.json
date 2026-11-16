@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "place_slug": "karavouzis-beach-bar",
+  "beachSlug": "dasilio",
+  "cover_file": "Apus peste un resort tropical.webp",
+  "image_count_expected": 10,
+  "images_in_archive": 0,
+  "image_handling": "User will convert to .webp at a consistent resolution and add manually, without changing base names, punctuation, or diacritics.",
+  "images": [
+    {
+      "order": 1,
+      "role": "cover",
+      "source_filename": "Apus peste un resort tropical.png",
+      "expected_filename": "Apus peste un resort tropical.webp",
+      "relative_path": "images/Apus peste un resort tropical.webp",
+      "caption_en": "Beach parasols at sunset",
+      "file_status": "to_be_added_by_user",
+      "source_note": "Source filename retained exactly apart from .png → .webp extension."
+    },
+    {
+      "order": 2,
+      "role": "gallery",
+      "source_filename": "Refugiu de Plajă cu Pizza și Marea.png",
+      "expected_filename": "Refugiu de Plajă cu Pizza și Marea.webp",
+      "relative_path": "images/Refugiu de Plajă cu Pizza și Marea.webp",
+      "caption_en": "Beachfront seating and pizza sign",
+      "file_status": "to_be_added_by_user",
+      "source_note": "Source filename retained exactly apart from .png → .webp extension."
+    },
+    {
+      "order": 3,
+      "role": "gallery",
+      "source_filename": "Prânz mediteranean la Karyouli Beach Bar.png",
+      "expected_filename": "Prânz mediteranean la Karyouli Beach Bar.webp",
+      "relative_path": "images/Prânz mediteranean la Karyouli Beach Bar.webp",
+      "caption_en": "Greek lunch on beachfront terrace",
+      "file_status": "to_be_added_by_user",
+      "source_note": "Source file name mentions Karyouli Beach Bar; preserve as user-supplied but check photo attribution before publication."
+    },
+    {
+      "order": 4,
+      "role": "gallery",
+      "source_filename": "Paste cu fructe de mare la masă mediteraneană.png",
+      "expected_filename": "Paste cu fructe de mare la masă mediteraneană.webp",
+      "relative_path": "images/Paste cu fructe de mare la masă mediteraneană.webp",
+      "caption_en": "Seafood pasta",
+      "file_status": "to_be_added_by_user",
+      "source_note": "Source filename retained exactly apart from .png → .webp extension."
+    },
+    {
+      "order": 5,
+      "role": "gallery",
+      "source_filename": "Musaca cu salată proaspătă.png",
+      "expected_filename": "Musaca cu salată proaspătă.webp",
+      "relative_path": "images/Musaca cu salată proaspătă.webp",
+      "caption_en": "Moussaka plate",
+      "file_status": "to_be_added_by_user",
+      "source_note": "Source filename retained exactly apart from .png → .webp extension."
+    },
+    {
+      "order": 6,
+      "role": "gallery",
+      "source_filename": "Plajă însorită la Karavouzi Beach Bar.png",
+      "expected_filename": "Plajă însorită la Karavouzi Beach Bar.webp",
+      "relative_path": "images/Plajă însorită la Karavouzi Beach Bar.webp",
+      "caption_en": "Karavouzi beach flag and loungers",
+      "file_status": "to_be_added_by_user",
+      "source_note": "Source filename retained exactly apart from .png → .webp extension."
+    },
+    {
+      "order": 7,
+      "role": "gallery",
+      "source_filename": "Cafenea de plajă sub pergolă albă.png",
+      "expected_filename": "Cafenea de plajă sub pergolă albă.webp",
+      "relative_path": "images/Cafenea de plajă sub pergolă albă.webp",
+      "caption_en": "Seating under white pergola",
+      "file_status": "to_be_added_by_user",
+      "source_note": "Source filename retained exactly apart from .png → .webp extension."
+    },
+    {
+      "order": 8,
+      "role": "gallery",
+      "source_filename": "Refugiu de plajă la apus.png",
+      "expected_filename": "Refugiu de plajă la apus.webp",
+      "relative_path": "images/Refugiu de plajă la apus.webp",
+      "caption_en": "Beach lounge at sunset",
+      "file_status": "to_be_added_by_user",
+      "source_note": "Source filename retained exactly apart from .png → .webp extension."
+    },
+    {
+      "order": 9,
+      "role": "gallery",
+      "source_filename": "Stațiune de plajă Mythos la apus.png",
+      "expected_filename": "Stațiune de plajă Mythos la apus.webp",
+      "relative_path": "images/Stațiune de plajă Mythos la apus.webp",
+      "caption_en": "Mythos umbrellas at sunset",
+      "file_status": "to_be_added_by_user",
+      "source_note": "Source filename retained exactly apart from .png → .webp extension."
+    },
+    {
+      "order": 10,
+      "role": "gallery",
+      "source_filename": "Femeie contemplând oceanul sub umbrele de paie.png",
+      "expected_filename": "Femeie contemplând oceanul sub umbrele de paie.webp",
+      "relative_path": "images/Femeie contemplând oceanul sub umbrele de paie.webp",
+      "caption_en": "View of the sea between thatched parasols",
+      "file_status": "to_be_added_by_user",
+      "source_note": "Source filename retained exactly apart from .png → .webp extension."
+    }
+  ]
+}

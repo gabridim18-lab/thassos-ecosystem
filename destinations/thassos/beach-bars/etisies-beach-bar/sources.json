@@ -1,0 +1,38 @@
+{
+  "compiled_at": "2026-11-05",
+  "sources": [
+    {
+      "type": "user_supplied_google_maps_extract",
+      "scope": "identity/address/coordinates/phone/hours/reviews/listed_services/indicative_spend",
+      "verified_live": false
+    },
+    {
+      "type": "user_supplied_menu_photo",
+      "original_filename": "image(20261105-202533).png",
+      "scope": "menu items and photographed prices",
+      "photo_date_unknown": true,
+      "photo_included": false
+    },
+    {
+      "type": "user_supplied_gallery",
+      "photo_count": 9,
+      "scope": "visual preview only",
+      "images_included": false
+    },
+    {
+      "type": "project_existing_beach_inventory",
+      "beach_id": "gr-thassos-beach-dasilio",
+      "slug": "dasilio",
+      "beach_path": "destinations/thassos/beaches/dasilio/beach.json",
+      "note": "Existing project association, not a newly created beach."
+    }
+  ],
+  "warnings": [
+    "Public hours may be seasonal; do not show live open status.",
+    "Price list needs operator reconfirmation before posting prices or enabling orders.",
+    "Do not publish customer review quotes as editorial marketing copy.",
+    "Publishing rights to images should be checked.",
+    "Photo 1 contains a map/photo-provider overlay; assess publishing suitability.",
+    "No real-time booking or ordering service exists."
+  ]
+}

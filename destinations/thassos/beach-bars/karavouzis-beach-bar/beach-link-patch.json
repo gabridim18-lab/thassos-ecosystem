@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "purpose": "Non-destructive link proposal to attach business card to the already existing beach record. No beach.json or other records were changed.",
+  "target_beach_file": "destinations/thassos/beaches/dasilio/beach.json",
+  "target_beach_slug": "dasilio",
+  "target_beach_id": "gr-thassos-beach-dasilio",
+  "section": "beach_bars",
+  "card": {
+    "id": "gr-thassos-beach-bar-karavouzis",
+    "slug": "karavouzis-beach-bar",
+    "type": "beach_bar",
+    "beachSlug": "dasilio",
+    "name": "Canopy Beach Bar (formerly Karavouzis Beach Bar)",
+    "cover": "images/Apus peste un resort tropical.webp",
+    "lat": 40.76051390492783,
+    "lng": 24.569963669099504
+  },
+  "nearby_context": {
+    "distance_reference": "straight-line only",
+    "businesses": [
+      {
+        "id": "pinch-of-salt",
+        "slug": "pinch-of-salt",
+        "category": "restaurant",
+        "name": "Pinch of Salt",
+        "distance_m_straight_line_approx": 439,
+        "beachSlug": null,
+        "note": "Nearby business only; do not inherit this venue’s Dasilio beachSlug"
+      },
+      {
+        "id": "oasis-grill-restaurant",
+        "slug": "oasis-grill-restaurant",
+        "category": "restaurant",
+        "name": "Oasis Grill Restaurant",
+        "distance_m_straight_line_approx": 512,
+        "beachSlug": null,
+        "note": "Nearby business only; do not inherit this venue’s Dasilio beachSlug"
+      },
+      {
+        "id": "cat-dive-center",
+        "slug": "cat-dive-center",
+        "category": "service",
+        "name": "CAT Dive Center",
+        "distance_m_straight_line_approx": 730,
+        "beachSlug": null,
+        "note": "Nearby service only; do not inherit this venue’s Dasilio beachSlug"
+      }
+    ]
+  },
+  "implementation_note": "Use the runtime beach-card index if that is the actual UI data source. Do not overwrite beach.json or duplicate existing cards."
+}

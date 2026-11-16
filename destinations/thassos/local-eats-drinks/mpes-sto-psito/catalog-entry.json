@@ -1,0 +1,61 @@
+{
+  "id": "mpes-sto-psito",
+  "slug": "mpes-sto-psito",
+  "type": "snack-bar",
+  "category": "local-eats-drinks",
+  "zone": "skala-prinos",
+  "beachSlug": null,
+  "name": {
+    "ro": "Mpes Sto Psito — Greek Grill & Gyros",
+    "en": "Mpes Sto Psito — Greek Grill & Gyros",
+    "el": "Mpes Sto Psito — Greek Grill & Gyros",
+    "de": "Mpes Sto Psito — Greek Grill & Gyros",
+    "bg": "Mpes Sto Psito — Greek Grill & Gyros",
+    "sr": "Mpes Sto Psito — Greek Grill & Gyros"
+  },
+  "titleEn": "Mpes Sto Psito — Greek Grill & Gyros",
+  "titleRo": "Mpes Sto Psito — Greek Grill & Gyros",
+  "originalName": "ΜΠΕΣ ΣΤΟ ΨΗΤΟ",
+  "shortDescription": {
+    "ro": "Gyros, souvlaki și preparate grecești la grătar în Skala Prinos, aproape de port, cu terasă și opțiune takeaway.",
+    "en": "Greek gyros, souvlaki and freshly grilled favourites in Skala Prinos, near the ferry port, with outdoor seating and takeaway.",
+    "el": "Γύρος, σουβλάκι και αγαπημένες γεύσεις της σχάρας στη Σκάλα Πρίνου, κοντά στο λιμάνι, με εξωτερικά τραπέζια και πακέτο.",
+    "de": "Gyros, Souvlaki und griechische Grillspezialitäten in Skala Prinos nahe dem Fährhafen, mit Außenterrasse und Speisen zum Mitnehmen.",
+    "bg": "Гирос, сувлаки и гръцки специалитети на скара в Скала Принос, близо до фериботното пристанище, с външни маси и храна за вкъщи.",
+    "sr": "Giros, suvlaki i grčki specijaliteti sa roštilja u Skali Prinos, blizu trajektnog pristaništa, uz terasu i hranu za poneti."
+  },
+  "cuisine": [
+    "greek",
+    "street_food",
+    "gyros",
+    "souvlaki"
+  ],
+  "cover": "images/Taverna grecească lângă mare.webp",
+  "image": "images/Taverna grecească lângă mare.webp",
+  "latitude": null,
+  "longitude": null,
+  "rating": 4.8,
+  "ratingCapturedAt": "2026-11-04",
+  "ratingNotLive": true,
+  "reviewCount": 279,
+  "price": null,
+  "priceRangeIndicativeEUR": [
+    5,
+    10
+  ],
+  "partner": false,
+  "featured": false,
+  "active": false,
+  "mediaMissing": true,
+  "detailPath": "destinations/thassos/local-eats-drinks/mpes-sto-psito/snack-bar.json",
+  "subcategory": "snack-bar",
+  "tags": [
+    "gyros",
+    "souvlaki",
+    "greek-street-food",
+    "grill",
+    "takeaway",
+    "quick-bite"
+  ],
+  "venueId": "mpes-sto-psito"
+}

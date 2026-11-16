@@ -1,0 +1,34 @@
+{
+  "business": "Natura Beach Bar",
+  "data_status": "draft prepared from user material and public location evidence",
+  "verified_date": "2026-11-06",
+  "location_evidence": {
+    "osm_url": "https://mapcarta.com/N12075940669",
+    "poi_lat": 40.75104,
+    "poi_lon": 24.56234,
+    "note": "OSM mapped point, owner should confirm exact entrance and coordinate"
+  },
+  "beach_association": {
+    "primary_slug": "dasilio",
+    "nearby_slug": "ilio-mare",
+    "sources": [
+      "https://www.tripadvisor.co.uk/Restaurant_Review-g1788353-d10287658-Reviews-Natura_each_ar-Skala_Prinou_Thasos_Northeast_Aegean_Islands.html",
+      "https://travelplanner.ro/blog/top-taverne-thassos/",
+      "https://mapcarta.com/N12075940669"
+    ],
+    "method": "Dasilio geographic strip supported by public descriptions; nearby Ilio Mare beach location; no new beach record created"
+  },
+  "business_source_urls": [
+    "https://naturabeachbar.com/en/homepage-Natura-beach-bar",
+    "https://naturabeachbar.com/en/ABOUT-US"
+  ],
+  "owner_confirmation_needed": [
+    "Exact coordinate and beach pin",
+    "Current 2027 seasonal hours",
+    "2026 menu price validation before publishing or reuse in 2027",
+    "Price/consumption requirements for sunbeds",
+    "Menu items currently available / out of stock",
+    "Whether QR-to-lounger ordering is desired and authorized"
+  ],
+  "photo_policy": "No copies of source photographs are packaged; JPG/PNG supplied by user are not modified."
+}

@@ -1,0 +1,50 @@
+{
+  "compiled_at": "2026-11-04",
+  "sources": [
+    {
+      "id": "user_google",
+      "type": "user_supplied",
+      "detail": "Google Maps summary supplied in conversation",
+      "fields": "location, review count, price band, amenities, reported closure"
+    },
+    {
+      "id": "user_menu",
+      "type": "user_supplied",
+      "detail": "Pasted Romanian browser-translated menu (1638 lines) supplied as Markdown lipit.md",
+      "file": "documents/menu-source/meniu-copiat-2026-11-04.md"
+    },
+    {
+      "id": "official_menu_el",
+      "type": "official_website",
+      "url": "https://calmabeachbar.com/m/",
+      "checked_on": "2026-11-04",
+      "fields": "food, drink and SUP menu grouping, example prices, opening of menu sections"
+    },
+    {
+      "id": "official_menu_en",
+      "type": "official_website",
+      "url": "https://calmabeachbar.com/en/menu/",
+      "checked_on": "2026-11-04",
+      "fields": "English menu cross-check"
+    },
+    {
+      "id": "official_contact",
+      "type": "official_website",
+      "url": "https://calmabeachbar.com/",
+      "checked_on": "2026-11-04",
+      "fields": "phone, website, email, venue location"
+    },
+    {
+      "id": "beach_project",
+      "type": "project_data",
+      "file": "destinations/thassos/beaches/dasilio/beach.json",
+      "fields": "known beach id and slug; coastal association"
+    }
+  ],
+  "quality_notes": [
+    "Google says temporarily closed; do not claim open just because website loads.",
+    "Romanian pasted menu may include automatic translations and accidental mistranslations; review before public multilingual order flow.",
+    "Owner-approved current prices, availability and allergen information are mandatory before live orders.",
+    "Sunbed minimum consumption varies by user reports and is not officially verified."
+  ]
+}

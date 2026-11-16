@@ -1,0 +1,43 @@
+{
+  "compiledAt": "2026-11-04",
+  "officialWebsite": {
+    "url": "https://centeractionthassos.com/",
+    "supports": [
+      "brand",
+      "locations",
+      "phone",
+      "email",
+      "years_of_activity",
+      "languages",
+      "try_scuba",
+      "courses",
+      "fun_dives",
+      "snorkeling"
+    ]
+  },
+  "ssiCenterDirectory": {
+    "url": "https://www.divessi.com/en/divecenter/center-action-thassos-diving-school-greece-718065",
+    "supports": [
+      "ssi_listing",
+      "expanded_diving_programs",
+      "listed_hours_10_22"
+    ]
+  },
+  "userProvidedGoogleMaps": {
+    "kind": "copied_business_information",
+    "supports": [
+      "coordinates",
+      "address",
+      "google_review_count_81",
+      "hours_08_23",
+      "phone"
+    ],
+    "capturedAt": "2026-11-04"
+  },
+  "userProvidedPhotos": {
+    "count": 8,
+    "galleryPhotos": 7,
+    "excludedForReview": 1
+  },
+  "reviewMethod": "Do not republish individual customer reviews; ratings are snapshots, not live."
+}

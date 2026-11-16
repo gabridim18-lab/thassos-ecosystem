@@ -1,0 +1,116 @@
+{
+  "business_slug": "natura-beach-bar",
+  "policy": "Keep original filename exactly; replace only the .png extension with .webp. User does conversion and placement. No image bytes in this package.",
+  "expected_folder": "destinations/thassos/beach-bars/natura-beach-bar/images/",
+  "cover": "images/Natura Beach Bar pe nisipul auriu.webp",
+  "total_files_submitted": 15,
+  "unique_images": 14,
+  "files": [
+    {
+      "original_filename": "Cocktail tropical pe plajă însorită.png",
+      "expected_webp_filename": "Cocktail tropical pe plajă însorită.webp",
+      "relative_path": "images/Cocktail tropical pe plajă însorită.webp",
+      "role": "cocktails",
+      "status": "user_to_add_webp"
+    },
+    {
+      "original_filename": "Pui crocanți, cartofi și ceai verde cu lămâie.png",
+      "expected_webp_filename": "Pui crocanți, cartofi și ceai verde cu lămâie.webp",
+      "relative_path": "images/Pui crocanți, cartofi și ceai verde cu lămâie.webp",
+      "role": "food",
+      "status": "user_to_add_webp"
+    },
+    {
+      "original_filename": "Plajă mediteraneană cu umbrele de paie(2).png",
+      "expected_webp_filename": "Plajă mediteraneană cu umbrele de paie(2).webp",
+      "relative_path": "images/Plajă mediteraneană cu umbrele de paie(2).webp",
+      "role": "beach-aerial",
+      "status": "user_to_add_webp"
+    },
+    {
+      "original_filename": "Prânz la Natura Beach Bar.png",
+      "expected_webp_filename": "Prânz la Natura Beach Bar.webp",
+      "relative_path": "images/Prânz la Natura Beach Bar.webp",
+      "role": "food",
+      "status": "user_to_add_webp"
+    },
+    {
+      "original_filename": "Natura Beach Bar pe nisipul auriu.png",
+      "expected_webp_filename": "Natura Beach Bar pe nisipul auriu.webp",
+      "relative_path": "images/Natura Beach Bar pe nisipul auriu.webp",
+      "role": "beach-hero",
+      "status": "user_to_add_webp"
+    },
+    {
+      "original_filename": "Plajă tropicală cu cabane de paie.png",
+      "expected_webp_filename": "Plajă tropicală cu cabane de paie.webp",
+      "relative_path": "images/Plajă tropicală cu cabane de paie.webp",
+      "role": "beach",
+      "status": "user_to_add_webp"
+    },
+    {
+      "original_filename": "Bar tropical cu tavan din viniluri.png",
+      "expected_webp_filename": "Bar tropical cu tavan din viniluri.webp",
+      "relative_path": "images/Bar tropical cu tavan din viniluri.webp",
+      "role": "bar-interior",
+      "status": "user_to_add_webp"
+    },
+    {
+      "original_filename": "Lounge rustic la Natura Beach Bar.png",
+      "expected_webp_filename": "Lounge rustic la Natura Beach Bar.webp",
+      "relative_path": "images/Lounge rustic la Natura Beach Bar.webp",
+      "role": "lounge",
+      "status": "user_to_add_webp"
+    },
+    {
+      "original_filename": "Pizza mediteraneană pe masă roșie.png",
+      "expected_webp_filename": "Pizza mediteraneană pe masă roșie.webp",
+      "relative_path": "images/Pizza mediteraneană pe masă roșie.webp",
+      "role": "food",
+      "status": "user_to_add_webp"
+    },
+    {
+      "original_filename": "Burger și cartofi cu brânză topită.png",
+      "expected_webp_filename": "Burger și cartofi cu brânză topită.webp",
+      "relative_path": "images/Burger și cartofi cu brânză topită.webp",
+      "role": "food",
+      "status": "user_to_add_webp"
+    },
+    {
+      "original_filename": "Burger și cartofi cu brânză topită(1).png",
+      "expected_webp_filename": "Burger și cartofi cu brânză topită(1).webp",
+      "relative_path": "images/Burger și cartofi cu brânză topită(1).webp",
+      "role": "duplicate",
+      "status": "duplicate_of_existing_image_optional",
+      "duplicate_of": "Burger și cartofi cu brânză topită.webp"
+    },
+    {
+      "original_filename": "Pepene verde cu iaurt, miere și nuci.png",
+      "expected_webp_filename": "Pepene verde cu iaurt, miere și nuci.webp",
+      "relative_path": "images/Pepene verde cu iaurt, miere și nuci.webp",
+      "role": "dessert",
+      "status": "user_to_add_webp"
+    },
+    {
+      "original_filename": "Sandviș club cu cartofi crocanți.png",
+      "expected_webp_filename": "Sandviș club cu cartofi crocanți.webp",
+      "relative_path": "images/Sandviș club cu cartofi crocanți.webp",
+      "role": "food",
+      "status": "user_to_add_webp"
+    },
+    {
+      "original_filename": "Vafă cu înghețată și ciocolată.png",
+      "expected_webp_filename": "Vafă cu înghețată și ciocolată.webp",
+      "relative_path": "images/Vafă cu înghețată și ciocolată.webp",
+      "role": "dessert",
+      "status": "user_to_add_webp"
+    },
+    {
+      "original_filename": "Cocktailuri la apus, pe masa rustică.png",
+      "expected_webp_filename": "Cocktailuri la apus, pe masa rustică.webp",
+      "relative_path": "images/Cocktailuri la apus, pe masa rustică.webp",
+      "role": "cocktails",
+      "status": "user_to_add_webp"
+    }
+  ]
+}

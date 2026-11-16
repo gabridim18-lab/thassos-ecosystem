@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "status": "CONCEPT_ONLY_NOT_IMPLEMENTED",
+  "enabled": false,
+  "display_order_button_on_public_site": false,
+  "venue_id": "gr-thassos-beach-bar-calma",
+  "beach_slug": "dasilio",
+  "goal": "Guest scans a QR code on a numbered umbrella / sunbed and sends a kitchen/bar request assigned to that spot.",
+  "requested_workflow": [
+    "Owner defines areas and numbered umbrellas / tables",
+    "Each spot receives a unique QR link or token",
+    "Guest scans and sees venue menu for current service times",
+    "Guest selects products and quantity, adds notes and allergens info",
+    "Guest reviews item totals and confirms an order request",
+    "Server rechecks prices, product availability and spot token",
+    "Bar/kitchen receives queued order, staff accepts or rejects",
+    "Guest sees accepted / preparing / ready / delivered status",
+    "Staff delivers to the correct numbered beach umbrella",
+    "Owner closes service session and reviews performance"
+  ],
+  "spot_model": {
+    "spot_id": "immutable internal ID",
+    "display_code": "e.g. U-023 (only example, not assigned at Calma)",
+    "spot_type": [
+      "umbrella",
+      "sunbed_pair",
+      "cabana",
+      "table"
+    ],
+    "zone_id": "e.g. A (example)",
+    "qr_token": "random opaque token mapped to spot_id (no personal data embedded)",
+    "status": [
+      "active",
+      "disabled",
+      "out_of_service"
+    ]
+  },
+  "order_model": {
+    "id": "server-generated",
+    "venue_id": "mandatory",
+    "spot_id": "mandatory",
+    "session_id": "optional",
+    "items": [
+      {
+        "menu_item_id": "stable ID",
+        "quantity": 1,
+        "unit_price_confirmed_server": null,
+        "notes": "optional"
+      }
+    ],
+    "status": [
+      "draft",
+      "submitted",
+      "accepted",
+      "preparing",
+      "ready",
+      "delivered",
+      "cancelled",
+      "rejected"
+    ],
+    "payment_status": [
+      "not_required",
+      "pay_at_spot",
+      "paid",
+      "refunded"
+    ],
+    "guest_data_minimization": "No guest name or phone needed for on-site order if staff can deliver by spot and order ID."
+  },
+  "safeguards": [
+    "Operator approval and onboarding before deployment",
+    "Only operator can configure active menu and prices",
+    "Server-side order and spot validation; never trust browser totals",
+    "Prevent multiple accidental submissions, include rate-limits",
+    "Staff capacity controls and availability toggles",
+    "Allergen information requires owner verification; guest can ask staff",
+    "Age and legal compliance when alcohol is ordered",
+    "Privacy notice and secure transport; role-based staff permissions",
+    "Offline or bad-signal fallback: call waiter / standard ordering",
+    "Stop orders outside confirmed service hours / when venue closed",
+    "No payments or inventory reservations until the live backend is implemented"
+  ],
+  "deployment_phases": [
+    "Phase 1: searchable informational menu (this package)",
+    "Phase 2: operator-approved QR + order-request backend (no online payment)",
+    "Phase 3: kitchen/bar workflow, real-time updates, optional payment"
+  ],
+  "current_blockers": [
+    "Owner agreement to accept digital orders",
+    "Final physical numbering of spots",
+    "Back-office/staff tablet or printer",
+    "Live price and allergens validation",
+    "Backend and authentication",
+    "Order delivery and payment rules"
+  ]
+}

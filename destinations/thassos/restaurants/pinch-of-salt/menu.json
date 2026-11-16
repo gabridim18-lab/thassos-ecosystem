@@ -1,0 +1,169 @@
+{
+  "schemaVersion": "1.0",
+  "restaurantId": "pinch-of-salt",
+  "restaurantName": "Pinch of Salt",
+  "menuYear": null,
+  "source": "Four user-supplied Google Maps menu screenshots, no date or prices shown.",
+  "currency": "EUR",
+  "status": "partial_menu_unverified_date",
+  "pricesAreCurrent": false,
+  "showPricesPublicly": false,
+  "publicNotice": {
+    "ro": "Meniu orientativ din fotografii, fără dată și fără prețuri confirmate. Preparatele pot varia; verificați meniul actual la restaurant.",
+    "en": "Indicative menu from undated photographs, without confirmed prices. Dishes may change; check the current menu at the restaurant.",
+    "el": "Ενδεικτικό μενού από φωτογραφίες χωρίς ημερομηνία και επιβεβαιωμένες τιμές. Τα πιάτα μπορεί να αλλάζουν· ελέγξτε το τρέχον μενού στο εστιατόριο.",
+    "de": "Unverbindliche Speisekarte aus undatierten Fotos ohne bestätigte Preise. Gerichte können sich ändern; bitte aktuelle Karte vor Ort prüfen.",
+    "bg": "Ориентировъчно меню от снимки без дата и потвърдени цени. Ястията може да се променят; проверете актуалното меню в ресторанта.",
+    "sr": "Okvirni meni sa fotografija bez datuma i potvrđenih cena. Jela se mogu menjati; proverite aktuelni meni u restoranu."
+  },
+  "sections": [
+    {
+      "id": "starters_and_dips",
+      "nameEn": "Starters & Dips",
+      "items": [
+        {
+          "id": "starters_and_dips-01",
+          "nameEn": "Dakos Salad",
+          "descriptionEn": "A traditional Cretan salad featuring barley rusks topped with ripe tomatoes, creamy cheese, olive rings, and a drizzle of extra virgin olive oil.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        },
+        {
+          "id": "starters_and_dips-02",
+          "nameEn": "Buyurdi",
+          "descriptionEn": "A delightful blend of baked cheeses, tomatoes, and green peppers, seasoned with oregano and chili flakes.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        },
+        {
+          "id": "starters_and_dips-03",
+          "nameEn": "French Fries",
+          "descriptionEn": "Golden and crispy hand-cut fries, perfectly seasoned with sea salt.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        },
+        {
+          "id": "starters_and_dips-04",
+          "nameEn": "Tzatziki",
+          "descriptionEn": "A refreshing Greek dip made with creamy yogurt, cucumber, and garlic.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        }
+      ]
+    },
+    {
+      "id": "main_dishes",
+      "nameEn": "Main Dishes",
+      "items": [
+        {
+          "id": "main_dishes-01",
+          "nameEn": "Greek Salad",
+          "descriptionEn": "A vibrant mix of tomatoes, cucumbers, green peppers, onions, olives, and feta cheese, all dressed in olive oil and oregano.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        },
+        {
+          "id": "main_dishes-02",
+          "nameEn": "Homemade Gyro",
+          "descriptionEn": "Tender, thinly sliced meat seasoned with traditional spices, served with a side of French fries and tzatziki.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        },
+        {
+          "id": "main_dishes-03",
+          "nameEn": "Chicken Fillet",
+          "descriptionEn": "Grilled chicken fillet seasoned with herbs and spices, served with a side of French fries and tzatziki.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        },
+        {
+          "id": "main_dishes-04",
+          "nameEn": "Chicken Gyro",
+          "descriptionEn": "Juicy, marinated chicken slices, served with a side of French fries and tzatziki.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        },
+        {
+          "id": "main_dishes-05",
+          "nameEn": "Meatballs On The Grill",
+          "descriptionEn": "A trio of grilled meatballs made with ground beef. Served with a side of French fries and tzatziki.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        },
+        {
+          "id": "main_dishes-06",
+          "nameEn": "Souvlaki",
+          "descriptionEn": "Chunks of pork and chicken grilled on a skewer, served with a side of French fries and tzatziki.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        },
+        {
+          "id": "main_dishes-07",
+          "nameEn": "Calamari & Chips",
+          "descriptionEn": "Crispy golden rings of squid, served with a side of French fries and pickle mayo sauce.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        },
+        {
+          "id": "main_dishes-08",
+          "nameEn": "Margherita Pizza",
+          "descriptionEn": "Italian-style pizza with tomato sauce, mozzarella, basil leaves, and a drizzle of extra virgin olive oil.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "nameEn": "Desserts",
+      "items": [
+        {
+          "id": "desserts-01",
+          "nameEn": "Greek Yogurt",
+          "descriptionEn": "With sweet fig topping.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        },
+        {
+          "id": "desserts-02",
+          "nameEn": "Traditional Greek Walnut Pie Or Sweet Semolina Cake",
+          "descriptionEn": null,
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        },
+        {
+          "id": "desserts-03",
+          "nameEn": "Tart Of The Day",
+          "descriptionEn": null,
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        }
+      ]
+    },
+    {
+      "id": "bread",
+      "nameEn": "Bread",
+      "items": [
+        {
+          "id": "bread-01",
+          "nameEn": "Lagana",
+          "descriptionEn": "Traditional Greek bread.",
+          "priceEUR": null,
+          "priceStatus": "not_provided"
+        }
+      ]
+    }
+  ],
+  "menuSourceImages": [
+    "documents/menu-captures/image(20261103-212552).png",
+    "documents/menu-captures/image(20261103-212625).png",
+    "documents/menu-captures/image(20261103-212641).png",
+    "documents/menu-captures/image(20261103-212702).png"
+  ],
+  "menuCompleteness": "partial",
+  "allergenInformation": {
+    "perDishAllergensVerified": false,
+    "noteEn": "No verified allergen information supplied. Ask the restaurant about allergies before ordering."
+  },
+  "preparedAt": "2026-11-03"
+}

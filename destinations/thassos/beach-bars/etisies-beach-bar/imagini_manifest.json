@@ -1,0 +1,157 @@
+{
+  "schema_version": 3,
+  "place_slug": "etisies-beach-bar",
+  "beachSlug": "dasilio",
+  "cover_file": "images/Bar pe plajă sub umbrele aurii.webp",
+  "image_count_expected": 9,
+  "images_in_archive": 0,
+  "image_handling": "Keep exact source basename including uppercase, spaces, diacritics and (1), changing only .png to .webp. User will optimize and place files inside images/. No converted, regenerated or resized images are included in this ZIP.",
+  "images": [
+    {
+      "order": 1,
+      "role": "beach",
+      "originalFilename": "Plajă însorită cu nisip ondulat.png",
+      "expectedFilename": "Plajă însorită cu nisip ondulat.webp",
+      "file": "images/Plajă însorită cu nisip ondulat.webp",
+      "altEn": "Sandy beach with gentle waves and the sea beyond",
+      "sourceDimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 2,
+      "role": "aerial",
+      "originalFilename": "Plajă tropicală văzută de sus.png",
+      "expectedFilename": "Plajă tropicală văzută de sus.webp",
+      "file": "images/Plajă tropicală văzută de sus.webp",
+      "altEn": "Aerial view of the coast and beach umbrellas beside clear turquoise water",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 3,
+      "role": "seating",
+      "originalFilename": "Refugiu de plajă cu barcă și umbrar.png",
+      "expectedFilename": "Refugiu de plajă cu barcă și umbrar.webp",
+      "file": "images/Refugiu de plajă cu barcă și umbrar.webp",
+      "altEn": "Beach lounge chairs and table in front of a decorative wooden boat",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 4,
+      "role": "hero",
+      "originalFilename": "Bar pe plajă sub umbrele aurii.png",
+      "expectedFilename": "Bar pe plajă sub umbrele aurii.webp",
+      "file": "images/Bar pe plajă sub umbrele aurii.webp",
+      "altEn": "Shaded beach bar sitting area with yellow sails, a wooden boat and sea views",
+      "sourceDimensions": {
+        "width": 1671,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 5,
+      "role": "beach",
+      "originalFilename": "Plajă însorită cu șezlonguri și hotel alb.png",
+      "expectedFilename": "Plajă însorită cu șezlonguri și hotel alb.webp",
+      "file": "images/Plajă însorită cu șezlonguri și hotel alb.webp",
+      "altEn": "Rows of sun loungers on the sandy coastline near trees and buildings",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 6,
+      "role": "sunset",
+      "originalFilename": "Refugiu tropical la apus.png",
+      "expectedFilename": "Refugiu tropical la apus.webp",
+      "file": "images/Refugiu tropical la apus.webp",
+      "altEn": "Hammock and thatched beach parasols under the golden evening sky",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 7,
+      "role": "sunbeds",
+      "originalFilename": "Plajă de resort la apus.png",
+      "expectedFilename": "Plajă de resort la apus.webp",
+      "file": "images/Plajă de resort la apus.webp",
+      "altEn": "Beach loungers and thatched umbrellas in warm evening light",
+      "sourceDimensions": {
+        "width": 1671,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 8,
+      "role": "beach",
+      "originalFilename": "Plajă însorită sub umbrela de paie.png",
+      "expectedFilename": "Plajă însorită sub umbrela de paie.webp",
+      "file": "images/Plajă însorită sub umbrela de paie.webp",
+      "altEn": "View of the sunny seafront from under a thatched beach umbrella",
+      "sourceDimensions": {
+        "width": 1671,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 9,
+      "role": "aerial",
+      "originalFilename": "Plajă mediteraneană cu umbrele de paie(1).png",
+      "expectedFilename": "Plajă mediteraneană cu umbrele de paie(1).webp",
+      "file": "images/Plajă mediteraneană cu umbrele de paie(1).webp",
+      "altEn": "Aerial view of organized beach parasols and sun loungers by the sea",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    }
+  ],
+  "ready_for_photo_manifest_update": false,
+  "preserved_original_base_names": true
+}

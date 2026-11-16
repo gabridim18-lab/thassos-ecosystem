@@ -1,0 +1,178 @@
+{
+  "restaurantId": "karibou-seaside-tavern",
+  "updatedAt": "2026-11-05",
+  "photos": [
+    {
+      "order": 1,
+      "role": "hero",
+      "file": "images/Terasă de seară la Karibou Tavern.webp",
+      "originalFilename": "Terasă de seară la Karibou Tavern.png",
+      "expectedFilename": "Terasă de seară la Karibou Tavern.webp",
+      "altEn": "Karibou Seaside Tavern entrance and garden at dusk, with its sign and illuminated outdoor seating",
+      "sourceDimensions": {
+        "width": 1774,
+        "height": 887
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 2,
+      "role": "terrace",
+      "file": "images/Terasa mediteraneană cu vedere la mare.webp",
+      "originalFilename": "Terasa mediteraneană cu vedere la mare.png",
+      "expectedFilename": "Terasa mediteraneană cu vedere la mare.webp",
+      "altEn": "Outdoor tables with turquoise tablecloths and shaded seating overlooking the sea",
+      "sourceDimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 3,
+      "role": "terrace",
+      "file": "images/Terasa tavernei grecești la malul mării.webp",
+      "originalFilename": "Terasa tavernei grecești la malul mării.png",
+      "expectedFilename": "Terasa tavernei grecești la malul mării.webp",
+      "altEn": "Shaded dining area of the Greek tavern, with flowering plants and sea views",
+      "sourceDimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 4,
+      "role": "evening",
+      "file": "images/Terasă mediteraneană la amurg.webp",
+      "originalFilename": "Terasă mediteraneană la amurg.png",
+      "expectedFilename": "Terasă mediteraneană la amurg.webp",
+      "altEn": "Warmly lit outdoor terrace with tables under parasols in the evening",
+      "sourceDimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 5,
+      "role": "sunset",
+      "file": "images/Apus peste o intrare înflorită la mare.webp",
+      "originalFilename": "Apus peste o intrare înflorită la mare.png",
+      "expectedFilename": "Apus peste o intrare înflorită la mare.webp",
+      "altEn": "Sunset over the nearby seafront viewed through the flowering restaurant entrance",
+      "sourceDimensions": {
+        "width": 1557,
+        "height": 1010
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 6,
+      "role": "food",
+      "file": "images/Tavă marinărească cu fructe de mare prăjite.webp",
+      "originalFilename": "Tavă marinărească cu fructe de mare prăjite.png",
+      "expectedFilename": "Tavă marinărească cu fructe de mare prăjite.webp",
+      "altEn": "Seafood platter with fried fish, calamari, prawns, fresh vegetables and sauces",
+      "sourceDimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 7,
+      "role": "food",
+      "file": "images/Homar la grătar cu sosuri și salată.webp",
+      "originalFilename": "Homar la grătar cu sosuri și salată.png",
+      "expectedFilename": "Homar la grătar cu sosuri și salată.webp",
+      "altEn": "Grilled lobster served on a platter with lemon, sauce and salad",
+      "sourceDimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 8,
+      "role": "food",
+      "file": "images/Pește la grătar cu salată proaspătă.webp",
+      "originalFilename": "Pește la grătar cu salată proaspătă.png",
+      "expectedFilename": "Pește la grătar cu salată proaspătă.webp",
+      "altEn": "Whole grilled fish with fresh vegetables and lemon",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 9,
+      "role": "food",
+      "file": "images/Friptură la grătar cu garnituri rustice.webp",
+      "originalFilename": "Friptură la grătar cu garnituri rustice.png",
+      "expectedFilename": "Friptură la grătar cu garnituri rustice.webp",
+      "altEn": "Grilled meat with potatoes, rice, green beans and lemon",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 10,
+      "role": "food",
+      "file": "images/Vinete coapte cu roșii și pătrunjel.webp",
+      "originalFilename": "Vinete coapte cu roșii și pătrunjel.png",
+      "expectedFilename": "Vinete coapte cu roșii și pătrunjel.webp",
+      "altEn": "Roasted aubergine topped with tomatoes and fresh parsley",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    }
+  ],
+  "counts": {
+    "photosExpected": 10,
+    "photosIncluded": 0,
+    "menuScreenshotsExpected": 0
+  },
+  "hero": "images/Terasă de seară la Karibou Tavern.webp",
+  "preservedPhotoNamesExceptExtension": true,
+  "originalPhotosConvertedFrom": null,
+  "optimizedPhotosFormat": "webp",
+  "imageNotes": "No photo binaries are in this archive. User will standardize resolution, convert to WebP and copy files into the empty images/ folder. Duplicate (1) suffixes on recent uploads are not part of the original basenames.",
+  "beachSlug": "skala-prinos",
+  "beachName": "Prinos Beach"
+}

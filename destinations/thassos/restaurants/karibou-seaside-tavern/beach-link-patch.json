@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "purpose": "Proposed association of Karibou Seaside Tavern with Prinos Beach (not applied automatically)",
+  "target_beach_file": "destinations/thassos/beaches/skala-prinos/beach.json",
+  "target_beach_slug": "skala-prinos",
+  "target_beach_display_name": "Prinos Beach",
+  "alternate_beach_name": "Skala Prinos Beach",
+  "section": "restaurants",
+  "card": {
+    "id": "karibou-seaside-tavern",
+    "slug": "karibou-seaside-tavern",
+    "name": "Karibou Seaside Tavern",
+    "category": "restaurants",
+    "data_path": "destinations/thassos/restaurants/karibou-seaside-tavern/restaurant.json",
+    "lat": 40.7600173202241,
+    "lng": 24.562388716908448,
+    "cover": "images/Terasă de seară la Karibou Tavern.webp",
+    "featured": false
+  },
+  "implementation_note": "Merge this card only into the nearby restaurant listing for the existing Skala Prinos Beach record. Confirm exact nested field names in the live beach.json schema before changing it. Do not merge into Dasilio or overwrite the beach record."
+}

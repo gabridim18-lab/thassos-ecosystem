@@ -1,0 +1,126 @@
+{
+  "restaurantId": "mpes-sto-psito",
+  "updatedAt": "2026-11-04",
+  "photos": [
+    {
+      "order": 1,
+      "role": "hero",
+      "file": "images/Taverna grecească lângă mare.webp",
+      "originalFilename": "Taverna grecească lângă mare.png",
+      "altEn": "Front of Mpes Sto Psito Greek grill with its wooden sign and outdoor tables",
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true
+    },
+    {
+      "order": 2,
+      "role": "food",
+      "file": "images/Farfurie grecească cu gyros și tzatziki.webp",
+      "originalFilename": "Farfurie grecească cu gyros și tzatziki.png",
+      "altEn": "Gyros platter with French fries, pita and tzatziki",
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true
+    },
+    {
+      "order": 3,
+      "role": "food",
+      "file": "images/Gyros crocant sub luminile nopții.webp",
+      "originalFilename": "Gyros crocant sub luminile nopții.png",
+      "altEn": "Gyros pita wrap served outdoors in the evening",
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true
+    },
+    {
+      "order": 4,
+      "role": "context",
+      "file": "images/Cafenea la apus, lângă ferry.webp",
+      "originalFilename": "Cafenea la apus, lângă ferry.png",
+      "altEn": "Ferry port at sunset near Skala Prinos; contextual area photograph",
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true
+    },
+    {
+      "order": 5,
+      "role": "food",
+      "file": "images/Gyros, cartofi și bere Mythos la cafenea.webp",
+      "originalFilename": "Gyros, cartofi și bere Mythos la cafenea.png",
+      "altEn": "Gyros pita wraps served with potatoes and drinks",
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true
+    },
+    {
+      "order": 6,
+      "role": "atmosphere",
+      "file": "images/Ταβέρνα Μπες στο Ψητό τη Νύχτα.webp",
+      "originalFilename": "Ταβέρνα Μπες στο Ψητό τη Νύχτα.png",
+      "altEn": "Mpes Sto Psito terrace and sign illuminated at night",
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true
+    },
+    {
+      "order": 7,
+      "role": "exterior",
+      "file": "images/Cafenea mediteraneană la apus.webp",
+      "originalFilename": "Cafenea mediteraneană la apus.png",
+      "altEn": "Mpes Sto Psito outdoor seating and street-facing facade at sunset",
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true
+    }
+  ],
+  "menuScreenshots": [
+    {
+      "file": "documents/menu-captures/image(20261104-095703).png",
+      "originalFilename": "image(20261104-095703).png",
+      "includedInArchive": false,
+      "status": "user_to_copy"
+    },
+    {
+      "file": "documents/menu-captures/image(20261104-095723).png",
+      "originalFilename": "image(20261104-095723).png",
+      "includedInArchive": false,
+      "status": "user_to_copy"
+    },
+    {
+      "file": "documents/menu-captures/image(20261104-095746).png",
+      "originalFilename": "image(20261104-095746).png",
+      "includedInArchive": false,
+      "status": "user_to_copy"
+    },
+    {
+      "file": "documents/menu-captures/image(20261104-095800).png",
+      "originalFilename": "image(20261104-095800).png",
+      "includedInArchive": false,
+      "status": "user_to_copy"
+    },
+    {
+      "file": "documents/menu-captures/image(20261104-095812).png",
+      "originalFilename": "image(20261104-095812).png",
+      "includedInArchive": false,
+      "status": "user_to_copy"
+    },
+    {
+      "file": "documents/menu-captures/image(20261104-095830).png",
+      "originalFilename": "image(20261104-095830).png",
+      "includedInArchive": false,
+      "status": "user_to_copy"
+    }
+  ],
+  "counts": {
+    "photosExpected": 7,
+    "menuScreenshotsExpected": 6,
+    "photosIncluded": 0,
+    "menuScreenshotsIncluded": 0
+  },
+  "hero": "images/Taverna grecească lângă mare.webp",
+  "preservedPhotoNamesExceptExtension": true,
+  "originalPhotosConvertedFrom": null,
+  "optimizedPhotosFormat": "webp",
+  "imageNotes": "This is a skeleton-only ZIP. No pictures are included. User will resize/convert and copy the files with these exact names. Maintain photo orientation. The ferry photo is context of nearby area, not a restaurant interior.",
+  "venueId": "mpes-sto-psito"
+}

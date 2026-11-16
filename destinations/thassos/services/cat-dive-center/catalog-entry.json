@@ -1,0 +1,47 @@
+{
+  "id": "cat-dive-center",
+  "slug": "cat-dive-center",
+  "type": "service",
+  "category": "services",
+  "subcategory": "diving-and-water-activities",
+  "zone": "skala-prinos",
+  "beachSlug": null,
+  "name": {
+    "ro": "CAT Dive Center",
+    "en": "CAT Dive Center",
+    "el": "CAT Dive Center",
+    "de": "CAT Dive Center",
+    "bg": "CAT Dive Center",
+    "sr": "CAT Dive Center"
+  },
+  "titleEn": "CAT Dive Center",
+  "titleRo": "CAT Dive Center",
+  "shortDescription": {
+    "ro": "Descoperă lumea subacvatică a insulei Thassos prin scufundări pentru începători, cursuri SSI, explorări ghidate și snorkeling în Skala Prinos.",
+    "en": "Explore Thassos underwater with beginner scuba experiences, SSI courses, guided dives and snorkeling in Skala Prinos.",
+    "el": "Ανακαλύψτε τον υποβρύχιο κόσμο της Θάσου με δοκιμαστικές καταδύσεις, μαθήματα SSI, οργανωμένες καταδύσεις και snorkeling στη Σκάλα Πρίνου.",
+    "de": "Erlebe die Unterwasserwelt von Thassos mit Schnuppertauchen, SSI-Kursen, geführten Tauchgängen und Schnorcheln in Skala Prinos.",
+    "bg": "Открийте подводния свят на Тасос с пробни гмуркания, SSI курсове, водени гмуркания и шнорхелинг в Скала Принос.",
+    "sr": "Otkrijte podvodni svet Tasosa uz probno ronjenje, SSI kurseve, vođene zarone i snorkeling u Skali Prinos."
+  },
+  "serviceTypes": [
+    "scuba-diving",
+    "try-scuba",
+    "ssi-courses",
+    "guided-dives",
+    "snorkeling"
+  ],
+  "cover": "images/Patru scafandri în razele soarelui subacvatic.webp",
+  "image": "images/Patru scafandri în razele soarelui subacvatic.webp",
+  "latitude": 40.758324744806956,
+  "longitude": 24.578137623340385,
+  "rating": null,
+  "ratingCapturedAt": "2026-11-04",
+  "ratingNotLive": true,
+  "reviewCount": 81,
+  "price": null,
+  "partner": false,
+  "featured": false,
+  "active": true,
+  "detailPath": "destinations/thassos/services/cat-dive-center/service.json"
+}

@@ -1,0 +1,173 @@
+{
+  "restaurantId": "pinch-of-salt",
+  "updatedAt": "2026-11-03",
+  "photos": [
+    {
+      "order": 1,
+      "file": "images/Terasa mediteraneană la apus.webp",
+      "originalFilename": "Terasa mediteraneană la apus.png",
+      "role": "hero",
+      "altEn": "Elegant pergola and terrace illuminated at sunset",
+      "width": 1672,
+      "height": 941,
+      "format": "webp",
+      "source": "user_supplied",
+      "ownerRightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 2,
+      "file": "images/Terasa marină cu mese și pergolă albă.webp",
+      "originalFilename": "Terasa marină cu mese și pergolă albă.png",
+      "role": "terrace",
+      "altEn": "White pergola terrace overlooking the sea",
+      "width": 1448,
+      "height": 1086,
+      "format": "webp",
+      "source": "user_supplied",
+      "ownerRightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 3,
+      "file": "images/Cafenea liniștită pe plajă umbrită de pini.webp",
+      "originalFilename": "Cafenea liniștită pe plajă umbrită de pini.png",
+      "role": "beach",
+      "altEn": "Wooden tables and shaded seating next to the beach",
+      "width": 1448,
+      "height": 1086,
+      "format": "webp",
+      "source": "user_supplied",
+      "ownerRightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 4,
+      "file": "images/Oază turcoaz la pergola mediteraneană.webp",
+      "originalFilename": "Oază turcoaz la pergola mediteraneană.png",
+      "role": "poolside",
+      "altEn": "Outdoor dining area beside a turquoise swimming pool",
+      "width": 1536,
+      "height": 1024,
+      "format": "webp",
+      "source": "user_supplied",
+      "ownerRightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 5,
+      "file": "images/Terasa mediteraneană sub pergolă.webp",
+      "originalFilename": "Terasa mediteraneană sub pergolă.png",
+      "role": "terrace",
+      "altEn": "Comfortable garden dining under a white pergola",
+      "width": 1541,
+      "height": 1020,
+      "format": "webp",
+      "source": "user_supplied",
+      "ownerRightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 6,
+      "file": "images/Salată de pepene cu feta la resort.webp",
+      "originalFilename": "Salată de pepene cu feta la resort.png",
+      "role": "food",
+      "altEn": "Watermelon and feta salad with mint",
+      "width": 1357,
+      "height": 1159,
+      "format": "webp",
+      "source": "user_supplied",
+      "ownerRightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 7,
+      "file": "images/Pește la grătar și salată vibrantă_rs.webp",
+      "originalFilename": "Pește la grătar și salată vibrantă_rs.png",
+      "role": "food",
+      "altEn": "Plated seafood and fresh tomato salad",
+      "width": 1730,
+      "height": 909,
+      "format": "webp",
+      "source": "user_supplied",
+      "ownerRightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 8,
+      "file": "images/Calamar la grătar cu bulgur și rucola.webp",
+      "originalFilename": "Calamar la grătar cu bulgur și rucola.png",
+      "role": "food",
+      "altEn": "Grilled calamari served with grains and rocket",
+      "width": 1672,
+      "height": 941,
+      "format": "webp",
+      "source": "user_supplied",
+      "ownerRightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 9,
+      "file": "images/Concert nocturn la resort cu cină elegantă.webp",
+      "originalFilename": "Concert nocturn la resort cu cină elegantă.png",
+      "role": "event",
+      "altEn": "Live music during an evening dining event",
+      "width": 1449,
+      "height": 1086,
+      "format": "webp",
+      "source": "user_supplied",
+      "ownerRightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 10,
+      "file": "images/Pește la grătar cu flori comestibile.webp",
+      "originalFilename": "Pește la grătar cu flori comestibile.png",
+      "role": "food",
+      "altEn": "Fish dish elegantly garnished with fresh herbs and edible flowers",
+      "width": 1692,
+      "height": 930,
+      "format": "webp",
+      "source": "user_supplied",
+      "ownerRightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 11,
+      "file": "images/Risotto gourmet cu scoici și icre de somon.webp",
+      "originalFilename": "Risotto gourmet cu scoici și icre de somon.png",
+      "role": "food",
+      "altEn": "Creamy seafood risotto with shellfish",
+      "width": 1639,
+      "height": 960,
+      "format": "webp",
+      "source": "user_supplied",
+      "ownerRightsToPublish": "not_independently_verified"
+    }
+  ],
+  "menuScreenshots": [
+    {
+      "file": "documents/menu-captures/image(20261103-212552).png",
+      "section": "starters_and_dips",
+      "dateUnknown": true,
+      "hasIndividualPrices": false
+    },
+    {
+      "file": "documents/menu-captures/image(20261103-212625).png",
+      "section": "main_dishes",
+      "dateUnknown": true,
+      "hasIndividualPrices": false
+    },
+    {
+      "file": "documents/menu-captures/image(20261103-212641).png",
+      "section": "desserts",
+      "dateUnknown": true,
+      "hasIndividualPrices": false
+    },
+    {
+      "file": "documents/menu-captures/image(20261103-212702).png",
+      "section": "bread",
+      "dateUnknown": true,
+      "hasIndividualPrices": false
+    }
+  ],
+  "counts": {
+    "restaurantPhotos": 11,
+    "menuSourceImages": 4
+  },
+  "hero": "images/Terasa mediteraneană la apus.webp",
+  "preservedPhotoNamesExceptExtension": true,
+  "originalPhotosConvertedFrom": "PNG",
+  "optimizedPhotosFormat": "WebP",
+  "imageNotes": "User-supplied images for this restaurant. Source filenames retained (except .png → .webp). Images are not independently authenticated."
+}

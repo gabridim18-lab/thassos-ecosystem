@@ -1,0 +1,213 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-bar-etisies",
+  "slug": "etisies-beach-bar",
+  "record_type": "beach_bar",
+  "destination_id": "gr-thassos",
+  "category": "beach-bars",
+  "subcategory": "beach_bar",
+  "area_slug": "skala-prinos",
+  "area_id": "gr-thassos-area-skala-prinos",
+  "beachSlug": "dasilio",
+  "nearby_beach_slugs": [
+    "dasilio"
+  ],
+  "primary_beach": {
+    "slug": "dasilio",
+    "id": "gr-thassos-beach-dasilio",
+    "name": "Dasilio Beach",
+    "path": "destinations/thassos/beaches/dasilio/beach.json",
+    "relationship": "on_dasilio_beach",
+    "do_not_create_duplicate_beach": true,
+    "note": "Do not use excluded Skala Prinos Beach record."
+  },
+  "identity": {
+    "google_listing_name": "Etisies Beach Bar",
+    "display_name": "Etisies Beach Bar",
+    "aliases": [
+      "Etisies Beach Bar",
+      "Etisies",
+      "Ετησίες Beach Bar"
+    ]
+  },
+  "location": {
+    "address": "Δασύλιο Σκάλα, Prinos 640 10, Greece",
+    "lat": 40.75730542793136,
+    "lng": 24.561343014440325,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=40.75730542793136%2C24.561343014440325",
+    "country": "GR",
+    "island": "Thassos",
+    "settlement": "Skala Prinos / Dasilio",
+    "coordinates_source": "user_supplied"
+  },
+  "contact": {
+    "phone_e164": "+306992113455",
+    "phone_display": "+30 699 211 3455",
+    "website": null,
+    "official_menu_url": null,
+    "phone_verified_by_operator": false
+  },
+  "hours": {
+    "reported_by_user_google_listing": {
+      "monday": "09:00–23:00",
+      "tuesday": "09:00–23:00",
+      "wednesday": "09:00–23:00",
+      "thursday": "09:00–23:00",
+      "friday": "09:00–23:00",
+      "saturday": "09:00–23:00",
+      "sunday": "09:00–23:00"
+    },
+    "seasonality": "unknown",
+    "display_open_now": false,
+    "verified_for_current_season": false
+  },
+  "price_reference": {
+    "google_user_supplied_band": "€10–15 per person",
+    "price_list_photo_available": true,
+    "photo_prices_are_live": false,
+    "needs_owner_price_review": true
+  },
+  "reviews": {
+    "google_review_count_snapshot": 95,
+    "google_rating": null,
+    "reviews_snapshot_date": "2026-11-05",
+    "live_sync": false,
+    "not_for_republication_verbatim": true
+  },
+  "offerings_reported": {
+    "beverages": [
+      "coffee",
+      "juices",
+      "soft drinks",
+      "beer",
+      "wine",
+      "cocktails",
+      "mocktails"
+    ],
+    "casual_food": [
+      "pizza",
+      "sandwiches",
+      "hot dogs",
+      "salads",
+      "snacks",
+      "ice cream"
+    ],
+    "facilities": [
+      "outdoor seating",
+      "beach loungers as photographed",
+      "toilet reported",
+      "free parking reported"
+    ],
+    "payments": [
+      "credit card reported",
+      "debit card reported",
+      "NFC reported"
+    ],
+    "pets": [
+      "dogs allowed reported"
+    ],
+    "children": [
+      "family friendly reported"
+    ]
+  },
+  "sunbeds": {
+    "sunbeds_photographed": true,
+    "unverified_guest_review_policy": "some reviewers describe sunbeds available with a bar purchase; no guaranteed free-access claim",
+    "current_minimum_spend": null,
+    "current_sunbed_fee": null,
+    "owner_confirmation_required": true
+  },
+  "menu": {
+    "file": "menu.json",
+    "status": "photographed_price_list_transcribed_pending_verification",
+    "public_menu_enabled": false,
+    "public_prices_enabled": false,
+    "menu_version_date_unknown": true
+  },
+  "media": {
+    "cover": "images/Bar pe plajă sub umbrele aurii.webp",
+    "gallery": [
+      "images/Plajă însorită cu nisip ondulat.webp",
+      "images/Plajă tropicală văzută de sus.webp",
+      "images/Refugiu de plajă cu barcă și umbrar.webp",
+      "images/Bar pe plajă sub umbrele aurii.webp",
+      "images/Plajă însorită cu șezlonguri și hotel alb.webp",
+      "images/Refugiu tropical la apus.webp",
+      "images/Plajă de resort la apus.webp",
+      "images/Plajă însorită sub umbrela de paie.webp",
+      "images/Plajă mediteraneană cu umbrele de paie(1).webp"
+    ],
+    "manifest": "imagini_manifest.json",
+    "images_expected_format": "webp",
+    "images_included_in_zip": false,
+    "image_count_expected": 9
+  },
+  "nearby_businesses": [
+    {
+      "slug": "karibou-seaside-tavern",
+      "name": "Karibou Seaside Tavern",
+      "category": "restaurants",
+      "distance_m_straight_line_approx": 314,
+      "proximity_only_not_same_beach_assignment": true
+    },
+    {
+      "slug": "calma-beach-bar",
+      "name": "Calma Beach Bar & Restaurant",
+      "category": "beach-bars",
+      "distance_m_straight_line_approx": 790,
+      "proximity_only_not_same_beach_assignment": true
+    },
+    {
+      "slug": "karavouzis-beach-bar",
+      "name": "Canopy / formerly Karavouzis Beach Bar",
+      "category": "beach-bars",
+      "distance_m_straight_line_approx": 809,
+      "proximity_only_not_same_beach_assignment": true
+    }
+  ],
+  "i18n": {
+    "ro": {
+      "name": "Etisies Beach Bar",
+      "tagline": "O pauză liniștită la malul mării, pe plaja Dasilio",
+      "summary": "Beach bar relaxat pe Dasilio Beach, în apropiere de Skala Prinos, cu cafea, băuturi răcoritoare, cocktailuri, gustări și șezlonguri pe nisip.",
+      "description": "Etisies Beach Bar se află pe plaja Dasilio, în apropierea localității Skala Prinos, într-un peisaj cu nisip, mare și vegetație de coastă. Fotografiile surprind șezlonguri, umbrele de paie și locuri de stat la umbră, inclusiv un colț decorat cu o barcă. Meniul fotografiat cuprinde cafele, sucuri, cocktailuri, pizza, gustări și salate. Recenziile îl descriu ca pe un loc liniștit, cu atmosferă prietenoasă. Condițiile de folosire a șezlongurilor, programul și prețurile trebuie reconfirmate pentru sezonul vizitei."
+    },
+    "en": {
+      "name": "Etisies Beach Bar",
+      "tagline": "A laid-back seaside break on Dasilio Beach",
+      "summary": "A relaxed beach bar on Dasilio Beach near Skala Prinos, offering coffee, refreshments, cocktails, casual food and beach loungers.",
+      "description": "Etisies Beach Bar sits on Dasilio Beach near Skala Prinos, with sandy shores, sea views and coastal greenery. The supplied photographs show loungers, thatched parasols and shady seating corners, including a distinctive boat-themed lounge. Its photographed price list includes coffee, juices, cocktails, pizza, snacks and salads. Visitors describe a peaceful, friendly atmosphere. Sunbed arrangements, seasonal hours and prices should be confirmed before visiting."
+    },
+    "el": {
+      "name": "Etisies Beach Bar",
+      "tagline": "Χαλαρή στάση δίπλα στη θάλασσα, στην παραλία Δασύλλιο",
+      "summary": "Χαλαρό beach bar στο Δασύλλιο, κοντά στη Σκάλα Πρίνου, με καφέ, αναψυκτικά, κοκτέιλ, σνακ και ξαπλώστρες.",
+      "description": "Το Etisies Beach Bar βρίσκεται στην παραλία Δασύλλιο, κοντά στη Σκάλα Πρίνου. Οι φωτογραφίες δείχνουν ξαπλώστρες, ψάθινες ομπρέλες και σκιερούς χώρους χαλάρωσης, καθώς και μια ιδιαίτερη γωνιά με βάρκα. Ο φωτογραφημένος τιμοκατάλογος περιλαμβάνει καφέ, χυμούς, κοκτέιλ, πίτσα, σνακ και σαλάτες. Οι επισκέπτες αναφέρουν ήρεμη ατμόσφαιρα και φιλική εξυπηρέτηση. Ελέγξτε το ωράριο, τις τιμές και τους όρους για τις ξαπλώστρες πριν από την επίσκεψη."
+    },
+    "de": {
+      "name": "Etisies Beach Bar",
+      "tagline": "Entspannte Auszeit direkt am Dasilio-Strand",
+      "summary": "Gemütliche Strandbar am Dasilio-Strand nahe Skala Prinos mit Kaffee, Getränken, Cocktails, Snacks und Sonnenliegen.",
+      "description": "Die Etisies Beach Bar liegt am Dasilio-Strand nahe Skala Prinos. Die Fotos zeigen Sonnenliegen, Strohsonnenschirme und schattige Sitzplätze, darunter einen Bereich mit dekorativem Boot. Die fotografierte Preisliste enthält Kaffee, Säfte, Cocktails, Pizza, Snacks und Salate. Besucher erwähnen eine ruhige Atmosphäre und freundlichen Service. Öffnungszeiten, Preise und Liegenregeln sollten vor dem Besuch bestätigt werden."
+    },
+    "bg": {
+      "name": "Etisies Beach Bar",
+      "tagline": "Спокойна почивка край морето на плаж Дасилио",
+      "summary": "Спокоен плажен бар на Дасилио близо до Скала Принос с кафе, напитки, коктейли, леки храни и шезлонги.",
+      "description": "Etisies Beach Bar се намира на плажа Дасилио близо до Скала Принос. На снимките се виждат шезлонги, сламени чадъри и сенчести кътове, включително зона с декоративна лодка. Сниманият ценоразпис включва кафе, сокове, коктейли, пица, закуски и салати. Посетителите описват спокойна атмосфера и любезно обслужване. Проверете актуалното работно време, цените и условията за шезлонгите преди посещение."
+    },
+    "sr": {
+      "name": "Etisies Beach Bar",
+      "tagline": "Opuštanje uz more na plaži Dasilio",
+      "summary": "Opušteni beach bar na plaži Dasilio kod Skale Prinos, sa kafom, pićima, koktelima, grickalicama i ležaljkama.",
+      "description": "Etisies Beach Bar se nalazi na plaži Dasilio, blizu Skale Prinos. Fotografije prikazuju ležaljke, suncobrane od trske i mesta za odmor u hladu, uključujući kutak sa ukrasnim čamcem. Fotografisani cenovnik obuhvata kafu, sokove, koktele, picu, užine i salate. Posetioci pominju mirnu atmosferu i ljubaznu uslugu. Radno vreme, cene i uslove korišćenja ležaljki treba proveriti pre posete."
+    }
+  },
+  "ordering": {
+    "enabled": false,
+    "sunbed_number_ordering_enabled": false,
+    "requires_business_approval": true
+  },
+  "publication_status": "draft_pending_photo_files_and_owner_verification",
+  "last_prepared": "2026-11-05"
+}

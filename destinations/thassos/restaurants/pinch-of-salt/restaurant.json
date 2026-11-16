@@ -1,0 +1,312 @@
+{
+  "schemaVersion": "1.0",
+  "id": "pinch-of-salt",
+  "slug": "pinch-of-salt",
+  "type": "restaurant",
+  "category": "restaurants",
+  "zone": "skala-prinos",
+  "beachSlug": null,
+  "name": "Pinch of Salt",
+  "titleEn": "Pinch of Salt",
+  "titleRo": "Pinch of Salt",
+  "translations": {
+    "ro": {
+      "name": "Pinch of Salt",
+      "shortDescription": "Restaurant grecesc și mediteranean în Skala Prinos, cu terasă luminoasă, atmosferă relaxată, preparate atent prezentate și locuri de luat masa lângă piscină.",
+      "description": "În Skala Prinos, pe insula Thassos, Pinch of Salt propune o interpretare contemporană a bucătăriei grecești și mediteraneene. Terasa cu pergole albe, vegetația mediteraneană și zona de mese din apropierea piscinei creează un cadru aerisit, potrivit pentru un prânz relaxat sau o seară specială.\n\nMeniul documentat include salate precum dakos și salata grecească, tzatziki, gyros, souvlaki, file de pui, calamari cu cartofi prăjiți, pizza și deserturi. Fotografiile primite prezintă și preparate din pește și fructe de mare, dar disponibilitatea fiecărui fel trebuie confirmată la restaurant. Vinurile și cocktailurile completează experiența.\n\nLocația îmbină stilul modern cu atmosfera de vacanță, iar zona de terasă, apropierea de plajă și evenimentele muzicale menționate în experiențele vizitatorilor o fac o alegere plăcută pentru cupluri, familii și grupuri de prieteni. Programul și meniul se pot schimba în funcție de sezon."
+    },
+    "en": {
+      "name": "Pinch of Salt",
+      "shortDescription": "Contemporary Greek and Mediterranean dining in Skala Prinos, with an airy terrace, relaxed atmosphere, thoughtfully presented dishes and poolside seating.",
+      "description": "In Skala Prinos on the island of Thassos, Pinch of Salt offers a contemporary take on Greek and Mediterranean dining. White pergolas, lush greenery and seating near the pool create an airy setting for a leisurely lunch or a memorable evening.\n\nThe supplied menu features dakos and Greek salads, tzatziki, gyros, souvlaki, chicken fillet, calamari and chips, pizza and desserts. The photographs also show fish and seafood dishes, although availability should be checked with the restaurant. Wines and cocktails add to the experience.\n\nWith its modern design, beachside surroundings and occasional music events mentioned by guests, Pinch of Salt is a welcoming option for couples, families and groups. Opening hours and menu choices may vary seasonally."
+    },
+    "el": {
+      "name": "Pinch of Salt",
+      "shortDescription": "Σύγχρονο ελληνικό και μεσογειακό εστιατόριο στη Σκάλα Πρίνου, με φωτεινή βεράντα, χαλαρή ατμόσφαιρα, προσεγμένα πιάτα και τραπέζια δίπλα στην πισίνα.",
+      "description": "Στη Σκάλα Πρίνου της Θάσου, το Pinch of Salt προσφέρει μια σύγχρονη προσέγγιση στην ελληνική και μεσογειακή κουζίνα. Οι λευκές πέργκολες, το πράσινο και τα τραπέζια κοντά στην πισίνα δημιουργούν έναν ευχάριστο χώρο για χαλαρό γεύμα ή ιδιαίτερη βραδινή έξοδο.\n\nΣτο μενού που μας δόθηκε περιλαμβάνονται ντάκος, χωριάτικη σαλάτα, τζατζίκι, γύρος, σουβλάκι, φιλέτο κοτόπουλου, καλαμαράκια με πατάτες, πίτσα και γλυκά. Οι φωτογραφίες παρουσιάζουν επίσης πιάτα με ψάρι και θαλασσινά, όμως η διαθεσιμότητά τους χρειάζεται επιβεβαίωση. Υπάρχουν επιλογές κρασιού και κοκτέιλ.\n\nΗ μοντέρνα αισθητική, η παραθαλάσσια περιοχή και οι μουσικές βραδιές που αναφέρουν επισκέπτες κάνουν το εστιατόριο ελκυστικό για ζευγάρια, οικογένειες και παρέες. Το ωράριο και το μενού μπορεί να αλλάζουν ανά εποχή."
+    },
+    "de": {
+      "name": "Pinch of Salt",
+      "shortDescription": "Modernes griechisch-mediterranes Restaurant in Skala Prinos mit luftiger Terrasse, entspannter Atmosphäre, liebevoll angerichteten Speisen und Sitzplätzen am Pool.",
+      "description": "In Skala Prinos auf Thassos verbindet Pinch of Salt griechische und mediterrane Küche mit einem modernen Ambiente. Weiße Pergolen, üppige Pflanzen und Sitzplätze in Poolnähe schaffen einen luftigen Rahmen für ein entspanntes Mittagessen oder einen besonderen Abend.\n\nAuf den bereitgestellten Menükarten stehen unter anderem Dakos, griechischer Salat, Tzatziki, Gyros, Souvlaki, Hähnchenfilet, Calamari mit Pommes, Pizza und Desserts. Die Fotos zeigen außerdem Fisch- und Meeresfrüchtegerichte, deren Verfügbarkeit vor Ort bestätigt werden sollte. Wein und Cocktails ergänzen das Angebot.\n\nDie moderne Gestaltung, die Nähe zum Strand und die von Gästen erwähnten Musikabende machen das Restaurant zu einer schönen Wahl für Paare, Familien und Gruppen. Öffnungszeiten und Speisekarte können saisonal variieren."
+    },
+    "bg": {
+      "name": "Pinch of Salt",
+      "shortDescription": "Съвременен гръцки и средиземноморски ресторант в Скала Принос с просторна тераса, спокойна атмосфера, красиво поднесени ястия и места до басейна.",
+      "description": "В Скала Принос на остров Тасос Pinch of Salt предлага съвременен прочит на гръцката и средиземноморската кухня. Белите перголи, зеленината и масите близо до басейна създават приятно пространство за спокоен обяд или специална вечер.\n\nПредоставеното меню включва салата дакос, гръцка салата, дзадзики, гирос, сувлаки, пилешко филе, калмари с картофки, пица и десерти. На снимките има също риба и морски дарове, но наличността им трябва да се потвърди на място. Виното и коктейлите допълват преживяването.\n\nМодерният дизайн, близостта до плажа и музикалните вечери, споменати от посетители, правят ресторанта подходящ за двойки, семейства и приятелски компании. Работното време и менюто може да се променят според сезона."
+    },
+    "sr": {
+      "name": "Pinch of Salt",
+      "shortDescription": "Savremeni grčki i mediteranski restoran u Skali Prinos, sa prostranom terasom, opuštenom atmosferom, pažljivo serviranim jelima i mestima pored bazena.",
+      "description": "U Skali Prinos na Tasosu, Pinch of Salt donosi savremen pristup grčkoj i mediteranskoj kuhinji. Bele pergole, bujno zelenilo i stolovi blizu bazena stvaraju prijatan ambijent za opušten ručak ili posebno veče.\n\nNa dostavljenom meniju nalaze se dakos i grčka salata, caciki, giros, suvlaki, pileći file, lignje sa pomfritom, pica i poslastice. Fotografije prikazuju i ribu i morske plodove, ali njihovu dostupnost treba proveriti u restoranu. Ponudu dopunjuju vina i kokteli.\n\nModeran izgled, blizina plaže i muzičke večeri koje pominju gosti čine restoran privlačnim za parove, porodice i društvo. Radno vreme i meni mogu se menjati tokom sezone."
+    }
+  },
+  "title": {
+    "ro": "Pinch of Salt",
+    "en": "Pinch of Salt",
+    "el": "Pinch of Salt",
+    "de": "Pinch of Salt",
+    "bg": "Pinch of Salt",
+    "sr": "Pinch of Salt"
+  },
+  "shortDescription": {
+    "ro": "Restaurant grecesc și mediteranean în Skala Prinos, cu terasă luminoasă, atmosferă relaxată, preparate atent prezentate și locuri de luat masa lângă piscină.",
+    "en": "Contemporary Greek and Mediterranean dining in Skala Prinos, with an airy terrace, relaxed atmosphere, thoughtfully presented dishes and poolside seating.",
+    "el": "Σύγχρονο ελληνικό και μεσογειακό εστιατόριο στη Σκάλα Πρίνου, με φωτεινή βεράντα, χαλαρή ατμόσφαιρα, προσεγμένα πιάτα και τραπέζια δίπλα στην πισίνα.",
+    "de": "Modernes griechisch-mediterranes Restaurant in Skala Prinos mit luftiger Terrasse, entspannter Atmosphäre, liebevoll angerichteten Speisen und Sitzplätzen am Pool.",
+    "bg": "Съвременен гръцки и средиземноморски ресторант в Скала Принос с просторна тераса, спокойна атмосфера, красиво поднесени ястия и места до басейна.",
+    "sr": "Savremeni grčki i mediteranski restoran u Skali Prinos, sa prostranom terasom, opuštenom atmosferom, pažljivo serviranim jelima i mestima pored bazena."
+  },
+  "description": {
+    "ro": "În Skala Prinos, pe insula Thassos, Pinch of Salt propune o interpretare contemporană a bucătăriei grecești și mediteraneene. Terasa cu pergole albe, vegetația mediteraneană și zona de mese din apropierea piscinei creează un cadru aerisit, potrivit pentru un prânz relaxat sau o seară specială.\n\nMeniul documentat include salate precum dakos și salata grecească, tzatziki, gyros, souvlaki, file de pui, calamari cu cartofi prăjiți, pizza și deserturi. Fotografiile primite prezintă și preparate din pește și fructe de mare, dar disponibilitatea fiecărui fel trebuie confirmată la restaurant. Vinurile și cocktailurile completează experiența.\n\nLocația îmbină stilul modern cu atmosfera de vacanță, iar zona de terasă, apropierea de plajă și evenimentele muzicale menționate în experiențele vizitatorilor o fac o alegere plăcută pentru cupluri, familii și grupuri de prieteni. Programul și meniul se pot schimba în funcție de sezon.",
+    "en": "In Skala Prinos on the island of Thassos, Pinch of Salt offers a contemporary take on Greek and Mediterranean dining. White pergolas, lush greenery and seating near the pool create an airy setting for a leisurely lunch or a memorable evening.\n\nThe supplied menu features dakos and Greek salads, tzatziki, gyros, souvlaki, chicken fillet, calamari and chips, pizza and desserts. The photographs also show fish and seafood dishes, although availability should be checked with the restaurant. Wines and cocktails add to the experience.\n\nWith its modern design, beachside surroundings and occasional music events mentioned by guests, Pinch of Salt is a welcoming option for couples, families and groups. Opening hours and menu choices may vary seasonally.",
+    "el": "Στη Σκάλα Πρίνου της Θάσου, το Pinch of Salt προσφέρει μια σύγχρονη προσέγγιση στην ελληνική και μεσογειακή κουζίνα. Οι λευκές πέργκολες, το πράσινο και τα τραπέζια κοντά στην πισίνα δημιουργούν έναν ευχάριστο χώρο για χαλαρό γεύμα ή ιδιαίτερη βραδινή έξοδο.\n\nΣτο μενού που μας δόθηκε περιλαμβάνονται ντάκος, χωριάτικη σαλάτα, τζατζίκι, γύρος, σουβλάκι, φιλέτο κοτόπουλου, καλαμαράκια με πατάτες, πίτσα και γλυκά. Οι φωτογραφίες παρουσιάζουν επίσης πιάτα με ψάρι και θαλασσινά, όμως η διαθεσιμότητά τους χρειάζεται επιβεβαίωση. Υπάρχουν επιλογές κρασιού και κοκτέιλ.\n\nΗ μοντέρνα αισθητική, η παραθαλάσσια περιοχή και οι μουσικές βραδιές που αναφέρουν επισκέπτες κάνουν το εστιατόριο ελκυστικό για ζευγάρια, οικογένειες και παρέες. Το ωράριο και το μενού μπορεί να αλλάζουν ανά εποχή.",
+    "de": "In Skala Prinos auf Thassos verbindet Pinch of Salt griechische und mediterrane Küche mit einem modernen Ambiente. Weiße Pergolen, üppige Pflanzen und Sitzplätze in Poolnähe schaffen einen luftigen Rahmen für ein entspanntes Mittagessen oder einen besonderen Abend.\n\nAuf den bereitgestellten Menükarten stehen unter anderem Dakos, griechischer Salat, Tzatziki, Gyros, Souvlaki, Hähnchenfilet, Calamari mit Pommes, Pizza und Desserts. Die Fotos zeigen außerdem Fisch- und Meeresfrüchtegerichte, deren Verfügbarkeit vor Ort bestätigt werden sollte. Wein und Cocktails ergänzen das Angebot.\n\nDie moderne Gestaltung, die Nähe zum Strand und die von Gästen erwähnten Musikabende machen das Restaurant zu einer schönen Wahl für Paare, Familien und Gruppen. Öffnungszeiten und Speisekarte können saisonal variieren.",
+    "bg": "В Скала Принос на остров Тасос Pinch of Salt предлага съвременен прочит на гръцката и средиземноморската кухня. Белите перголи, зеленината и масите близо до басейна създават приятно пространство за спокоен обяд или специална вечер.\n\nПредоставеното меню включва салата дакос, гръцка салата, дзадзики, гирос, сувлаки, пилешко филе, калмари с картофки, пица и десерти. На снимките има също риба и морски дарове, но наличността им трябва да се потвърди на място. Виното и коктейлите допълват преживяването.\n\nМодерният дизайн, близостта до плажа и музикалните вечери, споменати от посетители, правят ресторанта подходящ за двойки, семейства и приятелски компании. Работното време и менюто може да се променят според сезона.",
+    "sr": "U Skali Prinos na Tasosu, Pinch of Salt donosi savremen pristup grčkoj i mediteranskoj kuhinji. Bele pergole, bujno zelenilo i stolovi blizu bazena stvaraju prijatan ambijent za opušten ručak ili posebno veče.\n\nNa dostavljenom meniju nalaze se dakos i grčka salata, caciki, giros, suvlaki, pileći file, lignje sa pomfritom, pica i poslastice. Fotografije prikazuju i ribu i morske plodove, ali njihovu dostupnost treba proveriti u restoranu. Ponudu dopunjuju vina i kokteli.\n\nModeran izgled, blizina plaže i muzičke večeri koje pominju gosti čine restoran privlačnim za parove, porodice i društvo. Radno vreme i meni mogu se menjati tokom sezone."
+  },
+  "cuisine": [
+    "greek",
+    "mediterranean",
+    "contemporary",
+    "seafood"
+  ],
+  "cuisineTypes": [
+    "Greek",
+    "Mediterranean",
+    "Contemporary"
+  ],
+  "location": {
+    "country": "Greece",
+    "island": "Thassos",
+    "locality": "Skala Prinos / Ormos Prinou",
+    "address": "Ormos Prinou - Thasos, Skala, Prinos 640 10, Greece",
+    "latitude": 40.75872891924579,
+    "longitude": 24.57461859075335
+  },
+  "address": "Ormos Prinou - Thasos, Skala, Prinos 640 10, Greece",
+  "displayAddress": "Skala Prinos, Thassos, Greece",
+  "coordinates": {
+    "lat": 40.75872891924579,
+    "lng": 24.57461859075335
+  },
+  "phone": "+30 2593 071374",
+  "links": {
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=40.75872891924579%2C24.57461859075335",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "booking": null
+  },
+  "google": {
+    "rating": null,
+    "reviewCount": 69,
+    "capturedAt": "2026-11-03",
+    "source": "user_provided_google_maps_details",
+    "liveUpdate": false,
+    "showIndividualReviews": false
+  },
+  "rating": null,
+  "ratingSource": "Google Maps — review count supplied by user, rating not available",
+  "price": {
+    "rangePerPersonEUR": [
+      10,
+      30
+    ],
+    "source": "user_provided_google_maps_details",
+    "status": "indicative_unverified",
+    "showAsCurrent": false
+  },
+  "openingHours": {
+    "weekly": {
+      "monday": [
+        {
+          "open": "13:00",
+          "close": "22:30"
+        }
+      ],
+      "tuesday": [
+        {
+          "open": "13:00",
+          "close": "22:30"
+        }
+      ],
+      "wednesday": [
+        {
+          "open": "13:00",
+          "close": "22:30"
+        }
+      ],
+      "thursday": [
+        {
+          "open": "13:00",
+          "close": "22:30"
+        }
+      ],
+      "friday": [
+        {
+          "open": "13:00",
+          "close": "22:30"
+        }
+      ],
+      "saturday": [
+        {
+          "open": "13:00",
+          "close": "22:30"
+        }
+      ],
+      "sunday": [
+        {
+          "open": "13:00",
+          "close": "22:30"
+        }
+      ]
+    },
+    "source": "user_provided_google_maps_details",
+    "capturedAt": "2026-11-03",
+    "status": "reported_unverified_seasonal",
+    "showAsGuaranteedCurrent": false
+  },
+  "serviceOptions": [
+    "outdoor_seating",
+    "dine_in"
+  ],
+  "highlights": [
+    "great_beer_selection",
+    "great_wine_list"
+  ],
+  "popularFor": [
+    "lunch",
+    "solo_dining"
+  ],
+  "offerings": [
+    "alcohol",
+    "beer",
+    "cocktails",
+    "late_night_food",
+    "small_plates",
+    "spirits",
+    "wine"
+  ],
+  "diningOptions": [
+    "lunch",
+    "seating",
+    "table_service"
+  ],
+  "amenities": [
+    "bar_on_site",
+    "toilet",
+    "wifi",
+    "free_wifi"
+  ],
+  "atmosphere": [
+    "casual",
+    "cosy",
+    "quiet"
+  ],
+  "crowd": [
+    "groups",
+    "tourists"
+  ],
+  "planning": [
+    "accepts_reservations"
+  ],
+  "payments": [
+    "credit_cards",
+    "debit_cards",
+    "nfc_mobile_payments"
+  ],
+  "children": [
+    "good_for_kids"
+  ],
+  "parking": [
+    "free_street_parking",
+    "free_parking_lot",
+    "plenty_of_parking"
+  ],
+  "accessibility": {
+    "status": "not_provided"
+  },
+  "features": [
+    "outdoor_seating",
+    "near_beach",
+    "poolside_dining_area",
+    "mediterranean_cuisine",
+    "contemporary_dining",
+    "seafood_photographed",
+    "cocktails",
+    "free_wifi",
+    "parking",
+    "music_events_mentioned_in_reviews"
+  ],
+  "heroImage": "images/Terasa mediteraneană la apus.webp",
+  "image": "images/Terasa mediteraneană la apus.webp",
+  "images": [
+    "images/Terasa mediteraneană la apus.webp",
+    "images/Terasa marină cu mese și pergolă albă.webp",
+    "images/Cafenea liniștită pe plajă umbrită de pini.webp",
+    "images/Oază turcoaz la pergola mediteraneană.webp",
+    "images/Terasa mediteraneană sub pergolă.webp",
+    "images/Salată de pepene cu feta la resort.webp",
+    "images/Pește la grătar și salată vibrantă_rs.webp",
+    "images/Calamar la grătar cu bulgur și rucola.webp",
+    "images/Concert nocturn la resort cu cină elegantă.webp",
+    "images/Pește la grătar cu flori comestibile.webp",
+    "images/Risotto gourmet cu scoici și icre de somon.webp"
+  ],
+  "galleryImages": [
+    "images/Terasa mediteraneană la apus.webp",
+    "images/Terasa marină cu mese și pergolă albă.webp",
+    "images/Cafenea liniștită pe plajă umbrită de pini.webp",
+    "images/Oază turcoaz la pergola mediteraneană.webp",
+    "images/Terasa mediteraneană sub pergolă.webp",
+    "images/Salată de pepene cu feta la resort.webp",
+    "images/Pește la grătar și salată vibrantă_rs.webp",
+    "images/Calamar la grătar cu bulgur și rucola.webp",
+    "images/Concert nocturn la resort cu cină elegantă.webp",
+    "images/Pește la grătar cu flori comestibile.webp",
+    "images/Risotto gourmet cu scoici și icre de somon.webp"
+  ],
+  "menuImages": [
+    "documents/menu-captures/image(20261103-212552).png",
+    "documents/menu-captures/image(20261103-212625).png",
+    "documents/menu-captures/image(20261103-212641).png",
+    "documents/menu-captures/image(20261103-212702).png"
+  ],
+  "menuFile": "menu.json",
+  "menus": {
+    "documented": {
+      "file": "menu.json",
+      "year": null,
+      "showPricesPublicly": false
+    },
+    "current": null
+  },
+  "reviews": {
+    "displayIndividualReviews": false,
+    "sourceRatingOnly": true,
+    "individualReviewTextsStored": false
+  },
+  "status": {
+    "content": "ready_for_integration",
+    "photoProvenance": "user_supplied",
+    "menu": "date_unknown_no_prices",
+    "hours": "reported_unverified",
+    "published": false,
+    "featured": false,
+    "active": true
+  },
+  "partner": false,
+  "featured": false,
+  "active": true,
+  "lastPrepared": "2026-11-03",
+  "dataNotes": {
+    "googleRating": "69 Google reviews supplied by user; average star rating was not supplied, so rating is null.",
+    "openingHours": "Hours shown in user-provided Google Maps information; check before public display and before each tourist season.",
+    "menu": "Four supplied menu screenshots with item descriptions but no prices and no confirmed menu date. Do not treat as a complete or current price list.",
+    "pool": "Pool shown in images as setting, but no public pool access or use by restaurant guests is promised.",
+    "events": "Photograph shows live music and visitors mention Greek/music night; do not imply a recurring live music schedule.",
+    "photos": "11 user-supplied photos. Exact publication rights/venue affiliation not independently verified; do not invent provenance.",
+    "reviewPolicy": "No individual customer reviews in the public listing."
+  }
+}

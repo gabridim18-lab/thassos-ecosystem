@@ -1,0 +1,45 @@
+{
+  "restaurantId": "mpes-sto-psito",
+  "preparedAt": "2026-11-04",
+  "sources": [
+    {
+      "type": "user_provided_google_maps",
+      "capturedAt": "2026-11-04",
+      "fields": [
+        "name",
+        "address",
+        "phone",
+        "hours_snapshot",
+        "services",
+        "payments",
+        "parking",
+        "menu_screenshots",
+        "reviewCount_previous",
+        "priceRangeReported"
+      ]
+    },
+    {
+      "type": "business_search",
+      "capturedAt": "2026-11-04",
+      "fields": [
+        "rating",
+        "reviewCount",
+        "placeId"
+      ],
+      "reference": "turn898610business0",
+      "rating": 4.8,
+      "reviewCount": 279
+    },
+    {
+      "type": "third_party_web",
+      "name": "Restaurant Guru",
+      "url": "https://es.restaurantguru.com/MPES-STO-PSITO-Prinos",
+      "fields": [
+        "possible_alternate_hours"
+      ],
+      "note": "Hours disagree with the user-provided Google capture; not treated as current."
+    }
+  ],
+  "verificationPolicy": "Photos provided by user will be added manually. Menu and schedules are not asserted as current.",
+  "venueId": "mpes-sto-psito"
+}

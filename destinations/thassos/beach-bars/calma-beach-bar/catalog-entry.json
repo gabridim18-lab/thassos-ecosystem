@@ -1,0 +1,32 @@
+{
+  "id": "gr-thassos-beach-bar-calma",
+  "slug": "calma-beach-bar",
+  "record_type": "beach_bar",
+  "category": "beach-bars",
+  "subcategory": "beach-bar-and-restaurant",
+  "name": "Calma Beach Bar & Restaurant",
+  "area_slug": "skala-prinos",
+  "beachSlug": "dasilio",
+  "beach_id": "gr-thassos-beach-dasilio",
+  "lat": 40.76087653785092,
+  "lng": 24.569454413578047,
+  "cover": "images/Plajă tropicală cu șezlonguri goale.webp",
+  "phone": "+306987205562",
+  "website": "https://calmabeachbar.com/",
+  "official_menu_url": "https://calmabeachbar.com/m/",
+  "public_menu_enabled": true,
+  "public_price_display_requires_disclaimer": true,
+  "orders_enabled": false,
+  "active": false,
+  "publication_ready": false,
+  "needs_images": true,
+  "google_reviews_count_snapshot": 385,
+  "rating_google": null,
+  "nearby_business_slugs": [
+    "karavouzis-beach-bar",
+    "pinch-of-salt",
+    "oasis-grill-restaurant",
+    "cat-dive-center"
+  ],
+  "source_file": "destinations/thassos/beach-bars/calma-beach-bar/beach-bar.json"
+}

@@ -1,0 +1,824 @@
+{
+  "schemaVersion": "1.0",
+  "restaurantId": "oasis-grill-restaurant",
+  "restaurantName": "Oasis Grill Restaurant",
+  "menuYear": 2025,
+  "source": "Eight user-provided photographs/screenshots of the menu, one of which repeats the seafood page.",
+  "currency": "EUR",
+  "status": "historical_unverified",
+  "pricesAreCurrent": false,
+  "showPricesPublicly": false,
+  "publicNotice": {
+    "ro": "Meniul este documentat din 2025. Preparatele și prețurile pot fi diferite în prezent; confirmați-le direct la restaurant.",
+    "en": "This menu was documented in 2025. Dishes and prices may have changed; please confirm with the restaurant.",
+    "el": "Το μενού προέρχεται από το 2025. Τα πιάτα και οι τιμές ενδέχεται να έχουν αλλάξει· παρακαλούμε επιβεβαιώστε τα με το εστιατόριο.",
+    "de": "Diese Speisekarte stammt aus dem Jahr 2025. Speisen und Preise können sich geändert haben; bitte direkt beim Restaurant nachfragen.",
+    "bg": "Менюто е от 2025 г. Ястията и цените може да са променени; моля, проверете в ресторанта.",
+    "sr": "Jelovnik je iz 2025. godine. Ponuda i cene su se možda promenile; proverite u restoranu."
+  },
+  "sections": [
+    {
+      "id": "starters",
+      "nameEn": "Starters",
+      "items": [
+        {
+          "id": "starters-01",
+          "nameEn": "Fresh fried potatoes",
+          "price2025EUR": 4.0
+        },
+        {
+          "id": "starters-02",
+          "nameEn": "Fresh fried potatoes with Gouda cheese",
+          "price2025EUR": 4.5
+        },
+        {
+          "id": "starters-03",
+          "nameEn": "Fried pumpkin flowers",
+          "price2025EUR": 7.5,
+          "descriptionEn": "Served with tzatziki"
+        },
+        {
+          "id": "starters-04",
+          "nameEn": "Fried vegetable balls",
+          "price2025EUR": 7.5,
+          "descriptionEn": "Served with tzatziki"
+        },
+        {
+          "id": "starters-05",
+          "nameEn": "Ntolmadakia",
+          "price2025EUR": 7.0,
+          "descriptionEn": "Stuffed vine leaves with rice; served with tzatziki"
+        },
+        {
+          "id": "starters-06",
+          "nameEn": "Grilled hot pepper",
+          "price2025EUR": 4.0,
+          "descriptionEn": "2 peppers"
+        },
+        {
+          "id": "starters-07",
+          "nameEn": "Grilled mushrooms with Parmesan",
+          "price2025EUR": 8.5
+        },
+        {
+          "id": "starters-08",
+          "nameEn": "Fried zucchini",
+          "price2025EUR": 7.5,
+          "descriptionEn": "Served with tzatziki"
+        },
+        {
+          "id": "starters-09",
+          "nameEn": "Grilled feta cheese",
+          "price2025EUR": 5.0
+        },
+        {
+          "id": "starters-10",
+          "nameEn": "Fried feta",
+          "price2025EUR": 8.5,
+          "descriptionEn": "With sesame and honey"
+        },
+        {
+          "id": "starters-11",
+          "nameEn": "Bougiourdi",
+          "price2025EUR": 7.0
+        },
+        {
+          "id": "starters-12",
+          "nameEn": "Halloumi cheese",
+          "price2025EUR": 7.0,
+          "descriptionEn": "With balsamic cream and pomegranate marmalade"
+        },
+        {
+          "id": "starters-13",
+          "nameEn": "Cheese croquettes",
+          "price2025EUR": 6.0
+        },
+        {
+          "id": "starters-14",
+          "nameEn": "Stuffed red peppers with cheese",
+          "price2025EUR": 8.5
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062323).png"
+      ]
+    },
+    {
+      "id": "seafood",
+      "nameEn": "Seafood",
+      "items": [
+        {
+          "id": "seafood-01",
+          "nameEn": "Fried calamari",
+          "price2025EUR": 14.0,
+          "descriptionEn": "Served with fried potatoes, tomato, onion, lemon"
+        },
+        {
+          "id": "seafood-02",
+          "nameEn": "Fried mussels",
+          "price2025EUR": 11.0,
+          "descriptionEn": "Served with fried potatoes, tomato, onion, lemon"
+        },
+        {
+          "id": "seafood-03",
+          "nameEn": "Grilled octopus",
+          "price2025EUR": 16.0,
+          "descriptionEn": "Served with fried potatoes, olive oil, vinegar, oregano"
+        },
+        {
+          "id": "seafood-04",
+          "nameEn": "Mussels saganaki",
+          "price2025EUR": 12.0,
+          "descriptionEn": "Onion, tomato sauce, pepper, oregano, cheese, garlic, parsley"
+        },
+        {
+          "id": "seafood-05",
+          "nameEn": "Shrimps saganaki",
+          "price2025EUR": 12.0,
+          "descriptionEn": "Onion, tomato sauce, pepper, oregano, cheese, garlic, parsley"
+        },
+        {
+          "id": "seafood-06",
+          "nameEn": "Fried anchovies",
+          "price2025EUR": 11.0,
+          "descriptionEn": "Served with fried potatoes, tomato, onion, lemon"
+        },
+        {
+          "id": "seafood-07",
+          "nameEn": "Fried sardines",
+          "price2025EUR": 11.0,
+          "descriptionEn": "Served with fried potatoes, tomato, onion, lemon"
+        },
+        {
+          "id": "seafood-08",
+          "nameEn": "Grilled swordfish",
+          "price2025EUR": 14.0,
+          "descriptionEn": "Served with fried potatoes, tomato, onion, lemon"
+        },
+        {
+          "id": "seafood-09",
+          "nameEn": "Grilled seabream",
+          "price2025EUR": 30.0,
+          "descriptionEn": "Served with fried potatoes, tomato, onion, lemon"
+        },
+        {
+          "id": "seafood-10",
+          "nameEn": "Grilled dorado",
+          "price2025EUR": 16.0,
+          "descriptionEn": "Served with fried potatoes, tomato, onion, lemon"
+        },
+        {
+          "id": "seafood-11",
+          "nameEn": "Grilled shrimps",
+          "price2025EUR": 14.0,
+          "descriptionEn": "7–9 shrimps, served with lemon and olive oil"
+        },
+        {
+          "id": "seafood-12",
+          "nameEn": "Grilled lavraki / sea bass",
+          "price2025EUR": 17.0,
+          "descriptionEn": "Served with fried potatoes, tomato, onion, lemon"
+        },
+        {
+          "id": "seafood-13",
+          "nameEn": "Stuffed calamari",
+          "price2025EUR": 16.0,
+          "descriptionEn": "Served with fried potatoes, tomato, onion, olive oil, lemon, oregano"
+        },
+        {
+          "id": "seafood-14",
+          "nameEn": "Grilled calamari",
+          "price2025EUR": 14.0,
+          "descriptionEn": "Served with fried potatoes, tomato, onion, olive oil, lemon, oregano"
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062336).png",
+        "documents/menu-2025/image(20261103-062646).png"
+      ]
+    },
+    {
+      "id": "meat",
+      "nameEn": "Meat",
+      "items": [
+        {
+          "id": "meat-01",
+          "nameEn": "Pork souvlaki",
+          "price2025EUR": 11.5
+        },
+        {
+          "id": "meat-02",
+          "nameEn": "Chicken souvlaki",
+          "price2025EUR": 11.5
+        },
+        {
+          "id": "meat-03",
+          "nameEn": "Chicken schnitzel",
+          "price2025EUR": 11.0
+        },
+        {
+          "id": "meat-04",
+          "nameEn": "Pan-fried chicken",
+          "price2025EUR": 9.5,
+          "descriptionEn": "Cooked with white wine, soft mustard, onion, olive oil, lemon, oregano"
+        },
+        {
+          "id": "meat-05",
+          "nameEn": "Bifteki",
+          "price2025EUR": 10.0
+        },
+        {
+          "id": "meat-06",
+          "nameEn": "Soutzoukaki",
+          "price2025EUR": 11.0
+        },
+        {
+          "id": "meat-07",
+          "nameEn": "Beef steak",
+          "price2025EUR": 18.0
+        },
+        {
+          "id": "meat-08",
+          "nameEn": "Pork steak",
+          "price2025EUR": 11.0
+        },
+        {
+          "id": "meat-09",
+          "nameEn": "Sausage",
+          "price2025EUR": 9.5
+        },
+        {
+          "id": "meat-10",
+          "nameEn": "Pork gyros",
+          "price2025EUR": 11.0,
+          "descriptionEn": "Served with tzatziki"
+        },
+        {
+          "id": "meat-11",
+          "nameEn": "Chicken gyros",
+          "price2025EUR": 11.0,
+          "descriptionEn": "Served with tzatziki"
+        },
+        {
+          "id": "meat-12",
+          "nameEn": "Chicken fillet",
+          "price2025EUR": 11.0
+        },
+        {
+          "id": "meat-13",
+          "nameEn": "Panceta",
+          "price2025EUR": 11.0
+        },
+        {
+          "id": "meat-14",
+          "nameEn": "Lamb chops",
+          "price2025EUR": 16.0,
+          "descriptionEn": "4–5 pieces"
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062401).png"
+      ],
+      "notesEn": "The printed menu states that all meats contain salt and oregano."
+    },
+    {
+      "id": "salads",
+      "nameEn": "Salads",
+      "items": [
+        {
+          "id": "salads-01",
+          "nameEn": "Tomato-cucumber salad",
+          "price2025EUR": 6.0,
+          "descriptionEn": "Tomato, cucumber, pepper, onion, olive oil, Thassian olives, vinegar, oregano"
+        },
+        {
+          "id": "salads-02",
+          "nameEn": "Greek salad",
+          "price2025EUR": 9.0,
+          "descriptionEn": "Tomato, cucumber, feta, onion, olive oil, Thassian olives, vinegar, oregano"
+        },
+        {
+          "id": "salads-03",
+          "nameEn": "Lettuce-rucola salad",
+          "price2025EUR": 9.5,
+          "descriptionEn": "Lettuce, rucola, tomato, balsamic, dried tomato, croutons, Parmesan, olive oil"
+        },
+        {
+          "id": "salads-04",
+          "nameEn": "Fisherman’s salad",
+          "price2025EUR": 11.0,
+          "descriptionEn": "Lettuce, rucola, tomato, balsamic, dried tomato, mackerel, octopus carpaccio, anchovies, olive oil"
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062419).png"
+      ]
+    },
+    {
+      "id": "spreads",
+      "nameEn": "Spreads",
+      "items": [
+        {
+          "id": "spreads-01",
+          "nameEn": "Cheese spread",
+          "price2025EUR": 5.0
+        },
+        {
+          "id": "spreads-02",
+          "nameEn": "Tzatziki",
+          "price2025EUR": 5.0
+        },
+        {
+          "id": "spreads-03",
+          "nameEn": "Eggplant salad",
+          "price2025EUR": 5.0
+        },
+        {
+          "id": "spreads-04",
+          "nameEn": "Garlic sauce",
+          "price2025EUR": 5.0
+        },
+        {
+          "id": "spreads-05",
+          "nameEn": "Fish roe salad",
+          "price2025EUR": 5.0
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062419).png"
+      ]
+    },
+    {
+      "id": "vegetarian",
+      "nameEn": "Vegetarian & Vegan",
+      "items": [
+        {
+          "id": "vegetarian-01",
+          "nameEn": "Pasta with tomato sauce and cheese",
+          "price2025EUR": 9.0
+        },
+        {
+          "id": "vegetarian-02",
+          "nameEn": "Imam baildi with cheese",
+          "price2025EUR": 9.5,
+          "descriptionEn": "Eggplant, onion, tomato sauce, garlic, cheese"
+        },
+        {
+          "id": "vegetarian-03",
+          "nameEn": "Dolmadakia vegan",
+          "price2025EUR": 8.5,
+          "descriptionEn": "Stuffed vine leaves with rice"
+        },
+        {
+          "id": "vegetarian-04",
+          "nameEn": "Imam baildi vegan",
+          "price2025EUR": 9.0,
+          "descriptionEn": "Eggplant, onion, tomato sauce, garlic"
+        },
+        {
+          "id": "vegetarian-05",
+          "nameEn": "Grilled mushrooms with cheese",
+          "price2025EUR": 8.5
+        },
+        {
+          "id": "vegetarian-06",
+          "nameEn": "Bean soup vegan",
+          "price2025EUR": 9.0
+        },
+        {
+          "id": "vegetarian-07",
+          "nameEn": "Stuffed pumpkin flowers with rice vegan",
+          "price2025EUR": 9.5
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062438).png"
+      ],
+      "notesEn": "Labels reproduced from 2025 menu; ask restaurant about current ingredients and cross-contact for dietary restrictions."
+    },
+    {
+      "id": "kids",
+      "nameEn": "Kids Menu & Pizza",
+      "items": [
+        {
+          "id": "kids-01",
+          "nameEn": "Pasta with tomato sauce and cheese",
+          "price2025EUR": 6.0
+        },
+        {
+          "id": "kids-02",
+          "nameEn": "Chicken bifteki",
+          "price2025EUR": 6.0,
+          "descriptionEn": "Served with fresh fried potatoes, fresh tomato, ketchup"
+        },
+        {
+          "id": "kids-03",
+          "nameEn": "Chicken nuggets",
+          "price2025EUR": 6.0,
+          "descriptionEn": "Served with fresh fried potatoes"
+        },
+        {
+          "id": "kids-04",
+          "nameEn": "Pizza Special Kids",
+          "price2025EUR": 6.0,
+          "descriptionEn": "Ham, bacon, Gouda, green pepper, mushrooms, tomato sauce, fresh tomato"
+        },
+        {
+          "id": "kids-05",
+          "nameEn": "Pizza Margarita Kids",
+          "price2025EUR": 5.0,
+          "descriptionEn": "Mozzarella, Gouda, tomato sauce, fresh tomato"
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062613).png"
+      ]
+    },
+    {
+      "id": "refreshments",
+      "nameEn": "Soft Drinks & Water",
+      "items": [
+        {
+          "id": "refreshments-01",
+          "nameEn": "Coca-Cola",
+          "price2025EUR": 3.0
+        },
+        {
+          "id": "refreshments-02",
+          "nameEn": "Coca-Cola Zero",
+          "price2025EUR": 3.0
+        },
+        {
+          "id": "refreshments-03",
+          "nameEn": "Sprite",
+          "price2025EUR": 3.0
+        },
+        {
+          "id": "refreshments-04",
+          "nameEn": "Lemonade",
+          "price2025EUR": 3.0
+        },
+        {
+          "id": "refreshments-05",
+          "nameEn": "Orangeade",
+          "price2025EUR": 3.0
+        },
+        {
+          "id": "refreshments-06",
+          "nameEn": "Soda water",
+          "price2025EUR": 2.5
+        },
+        {
+          "id": "refreshments-07",
+          "nameEn": "Tonic water",
+          "price2025EUR": 2.5
+        },
+        {
+          "id": "refreshments-08",
+          "nameEn": "Iced tea",
+          "price2025EUR": 3.5
+        },
+        {
+          "id": "refreshments-09",
+          "nameEn": "Water 0.5 L",
+          "price2025EUR": 0.5
+        },
+        {
+          "id": "refreshments-10",
+          "nameEn": "Water 1 L",
+          "price2025EUR": 1.5
+        },
+        {
+          "id": "refreshments-11",
+          "nameEn": "Sparkling water 1 L",
+          "price2025EUR": 3.5
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062659).png"
+      ]
+    },
+    {
+      "id": "juice",
+      "nameEn": "Juice",
+      "items": [
+        {
+          "id": "juice-01",
+          "nameEn": "Fresh natural orange juice",
+          "price2025EUR": 5.0
+        },
+        {
+          "id": "juice-02",
+          "nameEn": "Fresh natural lemon juice",
+          "price2025EUR": 5.0
+        },
+        {
+          "id": "juice-03",
+          "nameEn": "Apple juice",
+          "price2025EUR": 3.5
+        },
+        {
+          "id": "juice-04",
+          "nameEn": "Sour cherry juice",
+          "price2025EUR": 3.5
+        },
+        {
+          "id": "juice-05",
+          "nameEn": "Pineapple juice",
+          "price2025EUR": 3.5
+        },
+        {
+          "id": "juice-06",
+          "nameEn": "Banana juice",
+          "price2025EUR": 3.5
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062659).png"
+      ]
+    },
+    {
+      "id": "beer",
+      "nameEn": "Beer",
+      "items": [
+        {
+          "id": "beer-01",
+          "nameEn": "Draft beer 0.5 L",
+          "price2025EUR": 5.0
+        },
+        {
+          "id": "beer-02",
+          "nameEn": "Mythos 0.5 L",
+          "price2025EUR": 5.0
+        },
+        {
+          "id": "beer-03",
+          "nameEn": "Amstel 0.5 L",
+          "price2025EUR": 5.0
+        },
+        {
+          "id": "beer-04",
+          "nameEn": "Heineken 0.5 L",
+          "price2025EUR": 5.0
+        },
+        {
+          "id": "beer-05",
+          "nameEn": "Vergina Weiss 0.5 L",
+          "price2025EUR": 6.0
+        },
+        {
+          "id": "beer-06",
+          "nameEn": "Vergina Free",
+          "price2025EUR": 4.0
+        },
+        {
+          "id": "beer-07",
+          "nameEn": "Radler 0.5 L",
+          "price2025EUR": 5.0
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062659).png"
+      ]
+    },
+    {
+      "id": "coffee",
+      "nameEn": "Coffee & Tea",
+      "items": [
+        {
+          "id": "coffee-01",
+          "nameEn": "Greek coffee",
+          "price2025EUR": 2.5
+        },
+        {
+          "id": "coffee-02",
+          "nameEn": "Frappé",
+          "price2025EUR": 3.0
+        },
+        {
+          "id": "coffee-03",
+          "nameEn": "Frappé with ice cream",
+          "price2025EUR": 5.0
+        },
+        {
+          "id": "coffee-04",
+          "nameEn": "Double espresso",
+          "price2025EUR": 3.0
+        },
+        {
+          "id": "coffee-05",
+          "nameEn": "Cappuccino",
+          "price2025EUR": 3.5
+        },
+        {
+          "id": "coffee-06",
+          "nameEn": "Freddo espresso",
+          "price2025EUR": 3.5
+        },
+        {
+          "id": "coffee-07",
+          "nameEn": "Freddo cappuccino",
+          "price2025EUR": 4.0
+        },
+        {
+          "id": "coffee-08",
+          "nameEn": "Americano",
+          "price2025EUR": 3.5
+        },
+        {
+          "id": "coffee-09",
+          "nameEn": "Hot tea",
+          "price2025EUR": 3.0
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062659).png"
+      ]
+    },
+    {
+      "id": "ouzo",
+      "nameEn": "Ouzo",
+      "items": [
+        {
+          "id": "ouzo-01",
+          "nameEn": "Plomari 200 ml",
+          "price2025EUR": 9.0
+        },
+        {
+          "id": "ouzo-02",
+          "nameEn": "Idoniko 200 ml",
+          "price2025EUR": 9.5
+        },
+        {
+          "id": "ouzo-03",
+          "nameEn": "Babatzim 200 ml",
+          "price2025EUR": 9.0
+        },
+        {
+          "id": "ouzo-04",
+          "nameEn": "Varvagianni 200 ml",
+          "price2025EUR": 9.0
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062659).png"
+      ]
+    },
+    {
+      "id": "tsipouro",
+      "nameEn": "Tsipouro",
+      "items": [
+        {
+          "id": "tsipouro-01",
+          "nameEn": "Idoniko 200 ml",
+          "price2025EUR": 9.5
+        },
+        {
+          "id": "tsipouro-02",
+          "nameEn": "Isalos 200 ml",
+          "price2025EUR": 8.5,
+          "descriptionEn": "Thassian product per menu"
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062659).png"
+      ]
+    },
+    {
+      "id": "draught_wine",
+      "nameEn": "House Wine 0.5 L",
+      "items": [
+        {
+          "id": "draught_wine-01",
+          "nameEn": "White dry",
+          "price2025EUR": 8.5
+        },
+        {
+          "id": "draught_wine-02",
+          "nameEn": "White semi-dry",
+          "price2025EUR": 8.5
+        },
+        {
+          "id": "draught_wine-03",
+          "nameEn": "Rosé dry",
+          "price2025EUR": 8.5
+        },
+        {
+          "id": "draught_wine-04",
+          "nameEn": "Rosé semi-dry",
+          "price2025EUR": 8.5
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062659).png"
+      ]
+    },
+    {
+      "id": "bottled_wine",
+      "nameEn": "Bottled Wine 0.75 L",
+      "items": [
+        {
+          "id": "bottled_wine-01",
+          "nameEn": "Moschofilero Boutari",
+          "price2025EUR": 30.0
+        },
+        {
+          "id": "bottled_wine-02",
+          "nameEn": "Cavino white semi-dry",
+          "price2025EUR": 30.0
+        },
+        {
+          "id": "bottled_wine-03",
+          "nameEn": "Yperterra rosé semi-dry",
+          "price2025EUR": 30.0
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062659).png"
+      ]
+    },
+    {
+      "id": "sparkling_wine",
+      "nameEn": "Sparkling Wine",
+      "items": [
+        {
+          "id": "sparkling_wine-01",
+          "nameEn": "Martini Asti 0.20 L",
+          "price2025EUR": 10.0
+        },
+        {
+          "id": "sparkling_wine-02",
+          "nameEn": "Martini Asti 0.75 L",
+          "price2025EUR": 30.0
+        },
+        {
+          "id": "sparkling_wine-03",
+          "nameEn": "Prosecco 0.20 L",
+          "price2025EUR": 10.0
+        },
+        {
+          "id": "sparkling_wine-04",
+          "nameEn": "Prosecco 0.75 L",
+          "price2025EUR": 30.0
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062659).png"
+      ]
+    },
+    {
+      "id": "retsina",
+      "nameEn": "Retsina",
+      "items": [
+        {
+          "id": "retsina-01",
+          "nameEn": "Georgiadi 0.5 L",
+          "price2025EUR": 5.0
+        },
+        {
+          "id": "retsina-02",
+          "nameEn": "Malamatina 0.5 L",
+          "price2025EUR": 5.0
+        }
+      ],
+      "sourceMenuImages": [
+        "documents/menu-2025/image(20261103-062659).png"
+      ]
+    }
+  ],
+  "allergenInformation": {
+    "menuLists": [
+      "cereals",
+      "crustaceans",
+      "eggs",
+      "fish",
+      "peanuts",
+      "soybeans",
+      "milk",
+      "nuts",
+      "celery",
+      "mustard",
+      "seeds",
+      "sulphur",
+      "lupin",
+      "molluscs"
+    ],
+    "perDishAllergensVerified": false,
+    "noteEn": "The printed menu gives a generic allergen legend, not reliable dish-by-dish allergen labels. Confirm directly with restaurant."
+  },
+  "otherMenuNotesEn": [
+    "The 2025 menu mentions extra virgin olive oil from their production and frying with sunflower oil.",
+    "The 2025 menu says many vegetables are from their own production. Neither statement has been independently verified for later seasons."
+  ],
+  "menuSourceImages": [
+    "documents/menu-2025/image(20261103-062323).png",
+    "documents/menu-2025/image(20261103-062336).png",
+    "documents/menu-2025/image(20261103-062401).png",
+    "documents/menu-2025/image(20261103-062419).png",
+    "documents/menu-2025/image(20261103-062438).png",
+    "documents/menu-2025/image(20261103-062613).png",
+    "documents/menu-2025/image(20261103-062646).png",
+    "documents/menu-2025/image(20261103-062659).png"
+  ],
+  "preparedAt": "2026-11-03"
+}

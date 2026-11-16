@@ -1,0 +1,318 @@
+{
+  "schemaVersion": "1.0",
+  "id": "cat-dive-center",
+  "slug": "cat-dive-center",
+  "type": "service",
+  "category": "services",
+  "subcategory": "diving-and-water-activities",
+  "zone": "skala-prinos",
+  "beachSlug": null,
+  "name": "CAT Dive Center",
+  "officialName": "Center Action Thassos",
+  "alsoKnownAs": [
+    "CAT Dive Center",
+    "CAT Center Action Thassos Dive Center",
+    "Center Action Thassos DIVING SCHOOL"
+  ],
+  "titleEn": "CAT Dive Center",
+  "titleRo": "CAT Dive Center",
+  "translations": {
+    "ro": {
+      "name": "CAT Dive Center",
+      "shortDescription": "Descoperă lumea subacvatică a insulei Thassos prin scufundări pentru începători, cursuri SSI, explorări ghidate și snorkeling în Skala Prinos.",
+      "description": "În Skala Prinos, CAT Dive Center (Center Action Thassos) îi invită pe vizitatori să descopere apele Mării Egee într-un mod diferit. Centrul, care declară peste 15 ani de activitate, organizează experiențe pentru cei care încearcă pentru prima dată scuba diving, dar și activități pentru scafandri certificați.\n\nProgramul Try Scuba este o introducere în scufundări, cu explicații despre echipament și ghidaj oferit de instructori. Oferta prezentată pe website-ul oficial include și cursuri, scufundări recreative și snorkeling. În funcție de nivelul participanților și de condițiile mării, centrul poate oferi și scufundări de pe barcă, nocturne sau la epave.\n\nUn avantaj pentru turiștii români este că website-ul centrului menționează explicit instruirea în limba română, alături de engleză, greacă, germană, franceză și maghiară. Pentru programări, tarife, condiții medicale, vârsta minimă și disponibilitatea instructorilor, este bine să contactezi centrul înainte de vizită."
+    },
+    "en": {
+      "name": "CAT Dive Center",
+      "shortDescription": "Explore Thassos underwater with beginner scuba experiences, SSI courses, guided dives and snorkeling in Skala Prinos.",
+      "description": "Located in Skala Prinos, CAT Dive Center (Center Action Thassos) introduces visitors to a different side of the Aegean Sea. The center reports more than 15 years of experience and welcomes both first-time participants and certified divers.\n\nTry Scuba offers a first introduction to breathing underwater, with equipment guidance and instructor supervision. The official website also features courses, fun dives and snorkeling. Depending on certification level, availability and sea conditions, boat dives, night dives and wreck dives may be offered.\n\nThe center lists instruction in Romanian, English, Greek, German, French and Hungarian. Contact the team before visiting to confirm schedules, prices, medical requirements, minimum ages and instructor availability."
+    },
+    "el": {
+      "name": "CAT Dive Center",
+      "shortDescription": "Ανακαλύψτε τον υποβρύχιο κόσμο της Θάσου με δοκιμαστικές καταδύσεις, μαθήματα SSI, οργανωμένες καταδύσεις και snorkeling στη Σκάλα Πρίνου.",
+      "description": "Στη Σκάλα Πρίνου, το CAT Dive Center (Center Action Thassos) προσφέρει μια διαφορετική γνωριμία με το Αιγαίο. Το κέντρο αναφέρει περισσότερα από 15 χρόνια εμπειρίας και απευθύνεται τόσο σε αρχάριους όσο και σε πιστοποιημένους δύτες.\n\nΤο πρόγραμμα Try Scuba αποτελεί μια πρώτη γνωριμία με την αυτόνομη κατάδυση, με ενημέρωση για τον εξοπλισμό και καθοδήγηση από εκπαιδευτές. Ο επίσημος ιστότοπος παρουσιάζει επίσης μαθήματα, καταδύσεις αναψυχής και snorkeling. Ανάλογα με την πιστοποίηση, τη διαθεσιμότητα και τις συνθήκες της θάλασσας, μπορεί να προσφέρονται καταδύσεις από σκάφος, νυχτερινές καταδύσεις και καταδύσεις σε ναυάγια.\n\nΤο κέντρο αναφέρει εξυπηρέτηση στα ελληνικά, αγγλικά, γερμανικά, γαλλικά, ρουμανικά και ουγγρικά. Επικοινωνήστε πριν από την επίσκεψη για ωράρια, τιμές, ιατρικές προϋποθέσεις, ελάχιστες ηλικίες και διαθεσιμότητα εκπαιδευτών."
+    },
+    "de": {
+      "name": "CAT Dive Center",
+      "shortDescription": "Erlebe die Unterwasserwelt von Thassos mit Schnuppertauchen, SSI-Kursen, geführten Tauchgängen und Schnorcheln in Skala Prinos.",
+      "description": "In Skala Prinos lädt das CAT Dive Center (Center Action Thassos) dazu ein, die Ägäis aus einer neuen Perspektive zu entdecken. Das Zentrum gibt an, seit mehr als 15 Jahren aktiv zu sein, und bietet Erlebnisse für Einsteiger ebenso wie für zertifizierte Taucher.\n\nTry Scuba ermöglicht erste Erfahrungen unter Wasser, begleitet von einer Einweisung in die Ausrüstung und professioneller Betreuung. Laut offizieller Website gehören außerdem Kurse, Freizeittauchgänge und Schnorcheln zum Angebot. Je nach Ausbildungsstand, Verfügbarkeit und Seebedingungen können auch Boots-, Nacht- und Wracktauchgänge angeboten werden.\n\nAls Unterrichtssprachen nennt das Zentrum Deutsch, Englisch, Griechisch, Französisch, Rumänisch und Ungarisch. Öffnungszeiten, Preise, medizinische Voraussetzungen, Mindestalter und Verfügbarkeit der Tauchlehrer sollten vor dem Besuch bestätigt werden."
+    },
+    "bg": {
+      "name": "CAT Dive Center",
+      "shortDescription": "Открийте подводния свят на Тасос с пробни гмуркания, SSI курсове, водени гмуркания и шнорхелинг в Скала Принос.",
+      "description": "В Скала Принос CAT Dive Center (Center Action Thassos) предлага възможност да опознаете Егейско море по различен начин. Центърът посочва над 15 години опит и приема както начинаещи, така и сертифицирани водолази.\n\nПрограмата Try Scuba дава първи досег с гмуркането с водолазна екипировка, с инструкции за оборудването и наблюдение от инструктор. Официалният сайт представя също курсове, развлекателни гмуркания и шнорхелинг. Според квалификацията, наличността и морските условия могат да се предлагат гмуркания от лодка, нощни гмуркания и посещения на потънали обекти.\n\nЦентърът посочва обучение на гръцки, английски, немски, френски, румънски и унгарски. Преди посещение потвърдете графика, цените, медицинските изисквания, минималната възраст и наличните инструктори."
+    },
+    "sr": {
+      "name": "CAT Dive Center",
+      "shortDescription": "Otkrijte podvodni svet Tasosa uz probno ronjenje, SSI kurseve, vođene zarone i snorkeling u Skali Prinos.",
+      "description": "U Skali Prinos, CAT Dive Center (Center Action Thassos) nudi priliku da Egejsko more doživite iz drugačije perspektive. Centar navodi više od 15 godina iskustva i prima početnike, kao i sertifikovane ronioce.\n\nProgram Try Scuba namenjen je prvom upoznavanju sa ronjenjem, uz objašnjenje opreme i nadzor instruktora. Na zvaničnom sajtu predstavljeni su i kursevi, rekreativni zaroni i snorkeling. U zavisnosti od nivoa obuke, raspoloživosti i uslova na moru, mogu biti dostupni zaroni sa čamca, noćni zaroni i obilasci olupina.\n\nCentar navodi obuku na grčkom, engleskom, nemačkom, francuskom, rumunskom i mađarskom jeziku. Pre dolaska proverite termine, cene, zdravstvene uslove, minimalni uzrast i dostupnost instruktora."
+    }
+  },
+  "title": {
+    "ro": "CAT Dive Center",
+    "en": "CAT Dive Center",
+    "el": "CAT Dive Center",
+    "de": "CAT Dive Center",
+    "bg": "CAT Dive Center",
+    "sr": "CAT Dive Center"
+  },
+  "shortDescription": {
+    "ro": "Descoperă lumea subacvatică a insulei Thassos prin scufundări pentru începători, cursuri SSI, explorări ghidate și snorkeling în Skala Prinos.",
+    "en": "Explore Thassos underwater with beginner scuba experiences, SSI courses, guided dives and snorkeling in Skala Prinos.",
+    "el": "Ανακαλύψτε τον υποβρύχιο κόσμο της Θάσου με δοκιμαστικές καταδύσεις, μαθήματα SSI, οργανωμένες καταδύσεις και snorkeling στη Σκάλα Πρίνου.",
+    "de": "Erlebe die Unterwasserwelt von Thassos mit Schnuppertauchen, SSI-Kursen, geführten Tauchgängen und Schnorcheln in Skala Prinos.",
+    "bg": "Открийте подводния свят на Тасос с пробни гмуркания, SSI курсове, водени гмуркания и шнорхелинг в Скала Принос.",
+    "sr": "Otkrijte podvodni svet Tasosa uz probno ronjenje, SSI kurseve, vođene zarone i snorkeling u Skali Prinos."
+  },
+  "description": {
+    "ro": "În Skala Prinos, CAT Dive Center (Center Action Thassos) îi invită pe vizitatori să descopere apele Mării Egee într-un mod diferit. Centrul, care declară peste 15 ani de activitate, organizează experiențe pentru cei care încearcă pentru prima dată scuba diving, dar și activități pentru scafandri certificați.\n\nProgramul Try Scuba este o introducere în scufundări, cu explicații despre echipament și ghidaj oferit de instructori. Oferta prezentată pe website-ul oficial include și cursuri, scufundări recreative și snorkeling. În funcție de nivelul participanților și de condițiile mării, centrul poate oferi și scufundări de pe barcă, nocturne sau la epave.\n\nUn avantaj pentru turiștii români este că website-ul centrului menționează explicit instruirea în limba română, alături de engleză, greacă, germană, franceză și maghiară. Pentru programări, tarife, condiții medicale, vârsta minimă și disponibilitatea instructorilor, este bine să contactezi centrul înainte de vizită.",
+    "en": "Located in Skala Prinos, CAT Dive Center (Center Action Thassos) introduces visitors to a different side of the Aegean Sea. The center reports more than 15 years of experience and welcomes both first-time participants and certified divers.\n\nTry Scuba offers a first introduction to breathing underwater, with equipment guidance and instructor supervision. The official website also features courses, fun dives and snorkeling. Depending on certification level, availability and sea conditions, boat dives, night dives and wreck dives may be offered.\n\nThe center lists instruction in Romanian, English, Greek, German, French and Hungarian. Contact the team before visiting to confirm schedules, prices, medical requirements, minimum ages and instructor availability.",
+    "el": "Στη Σκάλα Πρίνου, το CAT Dive Center (Center Action Thassos) προσφέρει μια διαφορετική γνωριμία με το Αιγαίο. Το κέντρο αναφέρει περισσότερα από 15 χρόνια εμπειρίας και απευθύνεται τόσο σε αρχάριους όσο και σε πιστοποιημένους δύτες.\n\nΤο πρόγραμμα Try Scuba αποτελεί μια πρώτη γνωριμία με την αυτόνομη κατάδυση, με ενημέρωση για τον εξοπλισμό και καθοδήγηση από εκπαιδευτές. Ο επίσημος ιστότοπος παρουσιάζει επίσης μαθήματα, καταδύσεις αναψυχής και snorkeling. Ανάλογα με την πιστοποίηση, τη διαθεσιμότητα και τις συνθήκες της θάλασσας, μπορεί να προσφέρονται καταδύσεις από σκάφος, νυχτερινές καταδύσεις και καταδύσεις σε ναυάγια.\n\nΤο κέντρο αναφέρει εξυπηρέτηση στα ελληνικά, αγγλικά, γερμανικά, γαλλικά, ρουμανικά και ουγγρικά. Επικοινωνήστε πριν από την επίσκεψη για ωράρια, τιμές, ιατρικές προϋποθέσεις, ελάχιστες ηλικίες και διαθεσιμότητα εκπαιδευτών.",
+    "de": "In Skala Prinos lädt das CAT Dive Center (Center Action Thassos) dazu ein, die Ägäis aus einer neuen Perspektive zu entdecken. Das Zentrum gibt an, seit mehr als 15 Jahren aktiv zu sein, und bietet Erlebnisse für Einsteiger ebenso wie für zertifizierte Taucher.\n\nTry Scuba ermöglicht erste Erfahrungen unter Wasser, begleitet von einer Einweisung in die Ausrüstung und professioneller Betreuung. Laut offizieller Website gehören außerdem Kurse, Freizeittauchgänge und Schnorcheln zum Angebot. Je nach Ausbildungsstand, Verfügbarkeit und Seebedingungen können auch Boots-, Nacht- und Wracktauchgänge angeboten werden.\n\nAls Unterrichtssprachen nennt das Zentrum Deutsch, Englisch, Griechisch, Französisch, Rumänisch und Ungarisch. Öffnungszeiten, Preise, medizinische Voraussetzungen, Mindestalter und Verfügbarkeit der Tauchlehrer sollten vor dem Besuch bestätigt werden.",
+    "bg": "В Скала Принос CAT Dive Center (Center Action Thassos) предлага възможност да опознаете Егейско море по различен начин. Центърът посочва над 15 години опит и приема както начинаещи, така и сертифицирани водолази.\n\nПрограмата Try Scuba дава първи досег с гмуркането с водолазна екипировка, с инструкции за оборудването и наблюдение от инструктор. Официалният сайт представя също курсове, развлекателни гмуркания и шнорхелинг. Според квалификацията, наличността и морските условия могат да се предлагат гмуркания от лодка, нощни гмуркания и посещения на потънали обекти.\n\nЦентърът посочва обучение на гръцки, английски, немски, френски, румънски и унгарски. Преди посещение потвърдете графика, цените, медицинските изисквания, минималната възраст и наличните инструктори.",
+    "sr": "U Skali Prinos, CAT Dive Center (Center Action Thassos) nudi priliku da Egejsko more doživite iz drugačije perspektive. Centar navodi više od 15 godina iskustva i prima početnike, kao i sertifikovane ronioce.\n\nProgram Try Scuba namenjen je prvom upoznavanju sa ronjenjem, uz objašnjenje opreme i nadzor instruktora. Na zvaničnom sajtu predstavljeni su i kursevi, rekreativni zaroni i snorkeling. U zavisnosti od nivoa obuke, raspoloživosti i uslova na moru, mogu biti dostupni zaroni sa čamca, noćni zaroni i obilasci olupina.\n\nCentar navodi obuku na grčkom, engleskom, nemačkom, francuskom, rumunskom i mađarskom jeziku. Pre dolaska proverite termine, cene, zdravstvene uslove, minimalni uzrast i dostupnost instruktora."
+  },
+  "serviceTypes": [
+    "scuba-diving",
+    "try-scuba",
+    "ssi-courses",
+    "guided-dives",
+    "snorkeling"
+  ],
+  "location": {
+    "country": "Greece",
+    "island": "Thassos",
+    "locality": "Skala Prinos",
+    "address": "Skala, Prinos 640 10, Greece",
+    "latitude": 40.758324744806956,
+    "longitude": 24.578137623340385
+  },
+  "address": "Skala, Prinos 640 10, Greece",
+  "displayAddress": "Skala Prinos, Thassos, Greece",
+  "coordinates": {
+    "lat": 40.758324744806956,
+    "lng": 24.578137623340385
+  },
+  "phone": "+30 694 064 4925",
+  "email": "catthassos@gmail.com",
+  "links": {
+    "website": "https://centeractionthassos.com/",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=40.758324744806956%2C24.578137623340385",
+    "facebook": null,
+    "instagram": null,
+    "booking": null
+  },
+  "google": {
+    "rating": null,
+    "reviewCount": 81,
+    "capturedAt": "2026-11-04",
+    "source": "user_provided_google_maps_details",
+    "liveUpdate": false,
+    "showIndividualReviews": false
+  },
+  "rating": null,
+  "openingHours": {
+    "weekly": {
+      "monday": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "thursday": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "friday": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "saturday": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "sunday": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "source": "user_provided_google_maps_details",
+    "capturedAt": "2026-11-04",
+    "status": "reported_unverified_conflicts_with_ssi",
+    "showAsGuaranteedCurrent": false,
+    "otherReportedHours": {
+      "ssiListing": {
+        "monday": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "10:00",
+            "close": "22:00"
+          }
+        ]
+      },
+      "source": "https://www.divessi.com/en/divecenter/center-action-thassos-diving-school-greece-718065"
+    },
+    "publicDisplay": "contact_to_confirm"
+  },
+  "experienceYearsClaim": {
+    "value": "more_than_15",
+    "source": "official_website",
+    "asOf": "2026-11-04"
+  },
+  "languagesOffered": [
+    "el",
+    "en",
+    "de",
+    "fr",
+    "ro",
+    "hu"
+  ],
+  "languageSource": "official_website",
+  "certificationBody": "SSI",
+  "ssiListing": "https://www.divessi.com/en/divecenter/center-action-thassos-diving-school-greece-718065",
+  "activitiesFile": "activities.json",
+  "activities": [
+    "try-scuba",
+    "ssi-courses",
+    "fun-dives",
+    "snorkeling",
+    "boat-dives",
+    "night-dives",
+    "wreck-dives"
+  ],
+  "serviceFeatures": [
+    "equipment_on_site",
+    "instruction_available",
+    "beginner_welcome",
+    "certified_diver_programs",
+    "diving_courses",
+    "snorkeling",
+    "multi_location_provider"
+  ],
+  "price": {
+    "status": "not_provided",
+    "showAsCurrent": false,
+    "currency": "EUR",
+    "amount": null
+  },
+  "booking": {
+    "acceptsInquiries": true,
+    "requiresConfirmation": true,
+    "method": "contact_provider",
+    "phone": "+30 694 064 4925",
+    "website": "https://centeractionthassos.com/",
+    "liveAvailability": false,
+    "onlinePayment": false
+  },
+  "safety": {
+    "medicalScreening": "confirm_with_provider",
+    "minimumAge": "confirm_with_provider",
+    "swimAbility": "confirm_with_provider",
+    "certificationRequirements": "vary_by_program_confirm_with_provider",
+    "seaWeatherDependent": true,
+    "emergencyArrangements": "not_verified",
+    "guaranteedWildlifeSightings": false
+  },
+  "heroImage": "images/Patru scafandri în razele soarelui subacvatic.webp",
+  "image": "images/Patru scafandri în razele soarelui subacvatic.webp",
+  "images": [
+    "images/Patru scafandri în razele soarelui subacvatic.webp",
+    "images/Scafandru în apele turcoaz.webp",
+    "images/Exploratori subacvatici în lumina turcoaz.webp",
+    "images/Scafandru roșcat explorând reciful subacvatic.webp",
+    "images/Scafandru hrănind pești tropicali.webp",
+    "images/Magazinul de scufundări CAT Center.webp",
+    "images/Echipamente de scufundări în centru SSI.webp"
+  ],
+  "galleryImages": [
+    "images/Patru scafandri în razele soarelui subacvatic.webp",
+    "images/Scafandru în apele turcoaz.webp",
+    "images/Exploratori subacvatici în lumina turcoaz.webp",
+    "images/Scafandru roșcat explorând reciful subacvatic.webp",
+    "images/Scafandru hrănind pești tropicali.webp",
+    "images/Magazinul de scufundări CAT Center.webp",
+    "images/Echipamente de scufundări în centru SSI.webp"
+  ],
+  "reviews": {
+    "displayIndividualReviews": false,
+    "individualReviewTextsStored": false,
+    "sourceRatingOnly": true
+  },
+  "status": {
+    "content": "ready_for_integration_pending_checks",
+    "photoProvenance": "user_supplied_not_independently_verified",
+    "hours": "conflicting_sources_verify",
+    "prices": "not_provided",
+    "published": false,
+    "featured": false,
+    "active": true
+  },
+  "partner": false,
+  "featured": false,
+  "active": true,
+  "lastPrepared": "2026-11-04",
+  "dataNotes": {
+    "hours": "User-provided Google Maps hours: 08:00–23:00 daily. SSI directory: 10:00–22:00 daily. Do not display either as guaranteed current.",
+    "photos": "Seven relevant uploaded images in public gallery; one image clearly advertises Pinch of Salt restaurant and is excluded from gallery.",
+    "reviewPolicy": "No individual reviews are reproduced.",
+    "courses": "Course list grounded in official website and SSI directory. Do not promise each advanced dive on every date.",
+    "instructorLanguages": "Official website lists Greek, English, German, French, Romanian, Hungarian. Availability of a given instructor needs confirmation.",
+    "safety": "Do not guarantee diving conditions, marine wildlife or medical suitability.",
+    "multipleLocations": "Center Action Thassos website also lists Skala Potamia and Skala Maries. This listing specifically concerns the Skala Prinos location."
+  }
+}

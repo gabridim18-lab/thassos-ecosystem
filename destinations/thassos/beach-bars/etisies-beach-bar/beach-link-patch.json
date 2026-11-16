@@ -1,0 +1,43 @@
+{
+  "schema_version": 3,
+  "purpose": "Proposed Etisies Beach Bar association with existing Dasilio Beach (not applied automatically)",
+  "target_beach_file": "destinations/thassos/beaches/dasilio/beach.json",
+  "target_beach_slug": "dasilio",
+  "target_beach_id": "gr-thassos-beach-dasilio",
+  "section": "beach-bars",
+  "card": {
+    "id": "gr-thassos-beach-bar-etisies",
+    "slug": "etisies-beach-bar",
+    "name": "Etisies Beach Bar",
+    "category": "beach-bars",
+    "data_path": "destinations/thassos/beach-bars/etisies-beach-bar/beach-bar.json",
+    "lat": 40.75730542793136,
+    "lng": 24.561343014440325,
+    "cover": "images/Bar pe plajă sub umbrele aurii.webp",
+    "featured": false
+  },
+  "nearby_context": [
+    {
+      "slug": "karibou-seaside-tavern",
+      "name": "Karibou Seaside Tavern",
+      "category": "restaurants",
+      "distance_m_straight_line_approx": 314,
+      "proximity_only_not_same_beach_assignment": true
+    },
+    {
+      "slug": "calma-beach-bar",
+      "name": "Calma Beach Bar & Restaurant",
+      "category": "beach-bars",
+      "distance_m_straight_line_approx": 790,
+      "proximity_only_not_same_beach_assignment": true
+    },
+    {
+      "slug": "karavouzis-beach-bar",
+      "name": "Canopy / formerly Karavouzis Beach Bar",
+      "category": "beach-bars",
+      "distance_m_straight_line_approx": 809,
+      "proximity_only_not_same_beach_assignment": true
+    }
+  ],
+  "implementation_note": "Merge into the established beach-bars or nearby businesses collection of dasilio beach.json only after checking live schema. Avoid duplicates and do not modify or create skala-prinos beach record. This patch is not applied automatically."
+}

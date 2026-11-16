@@ -1,0 +1,52 @@
+{
+  "id": "karibou-seaside-tavern",
+  "slug": "karibou-seaside-tavern",
+  "type": "restaurant",
+  "category": "restaurants",
+  "subcategory": "traditional-greek-tavern",
+  "zone": "skala-prinos",
+  "beachSlug": "skala-prinos",
+  "beachName": "Prinos Beach",
+  "name": {
+    "ro": "Karibou Seaside Tavern",
+    "en": "Karibou Seaside Tavern",
+    "el": "Karibou Seaside Tavern",
+    "de": "Karibou Seaside Tavern",
+    "bg": "Karibou Seaside Tavern",
+    "sr": "Karibou Seaside Tavern"
+  },
+  "titleEn": "Karibou Seaside Tavern",
+  "titleRo": "Karibou Seaside Tavern",
+  "shortDescription": {
+    "ro": "Tavernă grecească primitoare lângă Prinos Beach, cu terasă umbrită, grădină înflorită, pește, fructe de mare și preparate tradiționale.",
+    "en": "Welcoming Greek seaside tavern near Prinos Beach, with shaded garden seating, seafood, grilled dishes and traditional island flavours.",
+    "el": "Φιλόξενη ελληνική παραθαλάσσια ταβέρνα κοντά στην παραλία Πρίνου, με σκιερό κήπο, θαλασσινά, ψητά και παραδοσιακές γεύσεις.",
+    "de": "Einladende griechische Taverne nahe dem Prinos Beach mit schattigem Garten, Fisch, Meeresfrüchten und traditionellen Spezialitäten.",
+    "bg": "Уютна гръцка таверна до плажа Принос със сенчеста градина, риба, морски дарове, ястия на скара и местни вкусове.",
+    "sr": "Gostoljubiva grčka taverna blizu plaže Prinos, sa hladovinom u bašti, ribom, morskim plodovima i tradicionalnim jelima."
+  },
+  "cuisine": [
+    "greek",
+    "mediterranean",
+    "seafood",
+    "grill"
+  ],
+  "cover": "images/Terasă de seară la Karibou Tavern.webp",
+  "image": "images/Terasă de seară la Karibou Tavern.webp",
+  "latitude": 40.7600173202241,
+  "longitude": 24.562388716908448,
+  "rating": null,
+  "ratingCapturedAt": "2026-11-05",
+  "ratingNotLive": true,
+  "reviewCount": 98,
+  "price": null,
+  "priceRangeIndicativeEUR": [
+    15,
+    30
+  ],
+  "partner": false,
+  "featured": false,
+  "active": false,
+  "mediaMissing": true,
+  "detailPath": "destinations/thassos/restaurants/karibou-seaside-tavern/restaurant.json"
+}

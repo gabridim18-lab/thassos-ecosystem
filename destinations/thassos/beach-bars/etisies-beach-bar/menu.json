@@ -1,0 +1,377 @@
+{
+  "schema_version": 3,
+  "venue_id": "gr-thassos-beach-bar-etisies",
+  "venue_slug": "etisies-beach-bar",
+  "menu_title": "Etisies Beach Bar — Price List (photographed)",
+  "source": {
+    "type": "user_supplied_photo",
+    "original_filename": "image(20261105-202533).png",
+    "source_storage": "not_included_in_package",
+    "photograph_date": null,
+    "transcription_date": "2026-11-05",
+    "origin": "user-provided image of printed menu board"
+  },
+  "currency": "EUR",
+  "menu_status": "transcribed_from_photo_pending_owner_validation",
+  "prices_display_allowed_with_snapshot_disclaimer": false,
+  "price_valid_for_live_orders": false,
+  "manual_review_needed": true,
+  "ordering": {
+    "enabled": false,
+    "sunbed_number_ordering_enabled": false
+  },
+  "sections": [
+    {
+      "id": "coffees",
+      "title": "Coffees",
+      "items": [
+        {
+          "name": "Frappé",
+          "price_eur": 4
+        },
+        {
+          "name": "White frappé",
+          "price_eur": 4.5
+        },
+        {
+          "name": "Frappé with ice cream",
+          "price_eur": 6
+        },
+        {
+          "name": "Freddo espresso",
+          "price_eur": 4
+        },
+        {
+          "name": "Freddo cappuccino",
+          "price_eur": 4.5
+        },
+        {
+          "name": "Espresso",
+          "price_eur": 3.5
+        },
+        {
+          "name": "Double espresso",
+          "price_eur": 4
+        },
+        {
+          "name": "Americano",
+          "price_eur": 4
+        },
+        {
+          "name": "Cappuccino",
+          "price_eur": 4.5
+        },
+        {
+          "name": "Latte",
+          "price_eur": 4.5
+        },
+        {
+          "name": "Greek coffee",
+          "price_eur": 3.5
+        },
+        {
+          "name": "Double Greek coffee",
+          "price_eur": 4
+        },
+        {
+          "name": "Decaf coffees",
+          "price_eur": 4.5
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "items": [
+        {
+          "name": "Water 500 ml",
+          "price_eur": 0.5
+        },
+        {
+          "name": "Water 1500 ml",
+          "price_eur": 1.5
+        },
+        {
+          "name": "Sparkling water 500 ml",
+          "price_eur": 1.5
+        }
+      ]
+    },
+    {
+      "id": "beverages",
+      "title": "Beverages",
+      "items": [
+        {
+          "name": "Refreshments",
+          "price_eur": 4
+        },
+        {
+          "name": "Juices",
+          "price_eur": 4
+        },
+        {
+          "name": "Ice tea",
+          "price_eur": 4
+        },
+        {
+          "name": "Hot tea",
+          "price_eur": 3.5
+        },
+        {
+          "name": "Chocolate",
+          "price_eur": 4.5
+        },
+        {
+          "name": "Milkshake",
+          "price_eur": 6.5
+        },
+        {
+          "name": "Granita",
+          "price_eur": 6.5
+        }
+      ]
+    },
+    {
+      "id": "fresh_juices",
+      "title": "Fresh Juices",
+      "items": [
+        {
+          "name": "Smoothies",
+          "price_eur": 7
+        },
+        {
+          "name": "Fresh orange juice",
+          "price_eur": 5
+        },
+        {
+          "name": "Fresh lemon juice",
+          "price_eur": 5
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "title": "Drinks",
+      "items": [
+        {
+          "name": "Beers 500 ml",
+          "price_eur": 5
+        },
+        {
+          "name": "Corona",
+          "price_eur": 6
+        },
+        {
+          "name": "Pilsner 500 ml",
+          "price_eur": 6
+        },
+        {
+          "name": "Radler",
+          "price_eur": 4.5
+        },
+        {
+          "name": "Draught beer 300 ml",
+          "price_eur": 4
+        },
+        {
+          "name": "Alcohol free",
+          "price_eur": 4
+        },
+        {
+          "name": "Alcoholic beverages",
+          "price_eur": 5
+        },
+        {
+          "name": "Breezer",
+          "price_eur": 6.5
+        },
+        {
+          "name": "Glass of wine 300 ml",
+          "price_eur": 5
+        },
+        {
+          "name": "Ouzo",
+          "price_eur": 5
+        },
+        {
+          "name": "Prosecco 200 ml",
+          "price_eur": 7.5
+        },
+        {
+          "name": "Prosecco 700 ml",
+          "price_eur": 24
+        },
+        {
+          "name": "Retsina",
+          "price_eur": 7
+        },
+        {
+          "name": "Spirits",
+          "price_eur": 7.5
+        },
+        {
+          "name": "Shots",
+          "price_eur": 4
+        }
+      ]
+    },
+    {
+      "id": "beach_snacks",
+      "title": "Beach Snacks",
+      "items": [
+        {
+          "name": "Ice cream (scoop)",
+          "price_eur": 2.5
+        },
+        {
+          "name": "Toast",
+          "price_eur": 4
+        },
+        {
+          "name": "Donut",
+          "price_eur": 3
+        },
+        {
+          "name": "Sandwich",
+          "price_eur": 4.5
+        },
+        {
+          "name": "Hot dog",
+          "price_eur": 4.5
+        },
+        {
+          "name": "Pizza Special",
+          "price_eur": 13
+        },
+        {
+          "name": "Pizza Margarita",
+          "price_eur": 12
+        },
+        {
+          "name": "Mini pizza",
+          "price_eur": 8
+        },
+        {
+          "name": "Greek salad",
+          "price_eur": 8.5
+        },
+        {
+          "name": "Fruit salad",
+          "price_eur": 7.5
+        },
+        {
+          "name": "Yoghurt with honey",
+          "price_eur": 5
+        }
+      ]
+    },
+    {
+      "id": "cocktails",
+      "title": "Cocktails",
+      "items": [
+        {
+          "name": "Mojito",
+          "price_eur": 9,
+          "description_from_board": "rum, fresh lime juice, fresh mint, sugar"
+        },
+        {
+          "name": "Cuba Libre",
+          "price_eur": 9,
+          "description_from_board": "rum, fresh lime juice, Coca-Cola"
+        },
+        {
+          "name": "Aperol Spritz",
+          "price_eur": 9,
+          "description_from_board": "Aperol, sparkling wine, soda"
+        },
+        {
+          "name": "Tequila Sunrise",
+          "price_eur": 9,
+          "description_from_board": "tequila, orange juice, grenadine"
+        },
+        {
+          "name": "Pina Colada",
+          "price_eur": 9,
+          "description_from_board": "rum, coconut puree, pineapple juice"
+        },
+        {
+          "name": "Cosmopolitan",
+          "price_eur": 9,
+          "description_from_board": "vodka, Cointreau, fresh lime juice, cranberry juice, orange juice"
+        },
+        {
+          "name": "Sex on the Beach",
+          "price_eur": 9,
+          "description_from_board": "vodka, peach schnapps, orange juice, cranberry juice"
+        },
+        {
+          "name": "Mimosa",
+          "price_eur": 9,
+          "description_from_board": "Prosecco, orange juice"
+        },
+        {
+          "name": "Strawberry Daiquiri",
+          "price_eur": 9,
+          "description_from_board": "rum, Cointreau, strawberry ice cream, brown sugar"
+        },
+        {
+          "name": "Dry Martini",
+          "price_eur": 9,
+          "description_from_board": "gin, dry vermouth"
+        },
+        {
+          "name": "Lagoon",
+          "price_eur": 9,
+          "description_from_board": "vodka, Malibu, strawberries, lime"
+        },
+        {
+          "name": "Paloma",
+          "price_eur": 9,
+          "description_from_board": "tequila, lime juice, pink grapefruit soda"
+        },
+        {
+          "name": "Caipirinha",
+          "price_eur": 9,
+          "description_from_board": "cachaça, fresh lime, black sugar"
+        },
+        {
+          "name": "Limoncello Spritz",
+          "price_eur": 9,
+          "description_from_board": "Limoncello, Prosecco, soda water"
+        }
+      ]
+    },
+    {
+      "id": "mocktails",
+      "title": "Mocktails",
+      "items": [
+        {
+          "name": "Virgin Mojito",
+          "price_eur": 6,
+          "description_from_board": "fresh lime juice, fresh mint, sugar, soda"
+        },
+        {
+          "name": "Strawberry Sparkle",
+          "price_eur": 6,
+          "description_from_board": "strawberry syrup, fresh lime juice, Sprite"
+        },
+        {
+          "name": "Lime Sparkle",
+          "price_eur": 6,
+          "description_from_board": "lime syrup, fresh mint, Sprite"
+        },
+        {
+          "name": "Coconut Cola",
+          "price_eur": 6,
+          "description_from_board": "coconut syrup, Coca-Cola, lime juice"
+        }
+      ]
+    }
+  ],
+  "items_count": 70,
+  "notices": [
+    "Prices on a photographed board may be outdated. They must be confirmed with the venue before publishing as current prices.",
+    "Do not infer stock, availability, allergens, tax details or delivery-to-lounger capability from this photo.",
+    "Some descriptions on the photographed menu may require spelling or ingredient confirmation before publication."
+  ]
+}

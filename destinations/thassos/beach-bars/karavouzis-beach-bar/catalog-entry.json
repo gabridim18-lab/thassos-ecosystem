@@ -1,0 +1,28 @@
+{
+  "id": "gr-thassos-beach-bar-karavouzis",
+  "slug": "karavouzis-beach-bar",
+  "record_type": "beach_bar",
+  "category": "beach-bars",
+  "name": "Canopy Beach Bar (formerly Karavouzis Beach Bar)",
+  "legacy_listing_name": "Karavouzis beach bar",
+  "area_slug": "skala-prinos",
+  "beachSlug": "dasilio",
+  "beach_id": "gr-thassos-beach-dasilio",
+  "lat": 40.76051390492783,
+  "lng": 24.569963669099504,
+  "cover": "images/Apus peste un resort tropical.webp",
+  "phone": "+306987557903",
+  "price_band_google": "€5–10",
+  "website": "https://canopybeachbar.com/",
+  "featured": false,
+  "active": true,
+  "publication_ready": false,
+  "needs_images": true,
+  "public_menu_enabled": false,
+  "nearby_business_slugs": [
+    "pinch-of-salt",
+    "oasis-grill-restaurant",
+    "cat-dive-center"
+  ],
+  "source_file": "beach-bar.json"
+}

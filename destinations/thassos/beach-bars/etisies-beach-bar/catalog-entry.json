@@ -1,0 +1,42 @@
+{
+  "id": "gr-thassos-beach-bar-etisies",
+  "slug": "etisies-beach-bar",
+  "record_type": "beach_bar",
+  "category": "beach-bars",
+  "subcategory": "beach-bar",
+  "name": "Etisies Beach Bar",
+  "area_slug": "skala-prinos",
+  "beachSlug": "dasilio",
+  "beach_id": "gr-thassos-beach-dasilio",
+  "lat": 40.75730542793136,
+  "lng": 24.561343014440325,
+  "cover": "images/Bar pe plajă sub umbrele aurii.webp",
+  "image": "images/Bar pe plajă sub umbrele aurii.webp",
+  "phone": "+306992113455",
+  "website": null,
+  "price_band_google": "€10–15",
+  "rating_google": null,
+  "google_reviews_count_snapshot": 95,
+  "shortDescription": {
+    "ro": "Beach bar relaxat pe Dasilio Beach, în apropiere de Skala Prinos, cu cafea, băuturi răcoritoare, cocktailuri, gustări și șezlonguri pe nisip.",
+    "en": "A relaxed beach bar on Dasilio Beach near Skala Prinos, offering coffee, refreshments, cocktails, casual food and beach loungers.",
+    "el": "Χαλαρό beach bar στο Δασύλλιο, κοντά στη Σκάλα Πρίνου, με καφέ, αναψυκτικά, κοκτέιλ, σνακ και ξαπλώστρες.",
+    "de": "Gemütliche Strandbar am Dasilio-Strand nahe Skala Prinos mit Kaffee, Getränken, Cocktails, Snacks und Sonnenliegen.",
+    "bg": "Спокоен плажен бар на Дасилио близо до Скала Принос с кафе, напитки, коктейли, леки храни и шезлонги.",
+    "sr": "Opušteni beach bar na plaži Dasilio kod Skale Prinos, sa kafom, pićima, koktelima, grickalicama i ležaljkama."
+  },
+  "titleEn": "Etisies Beach Bar",
+  "titleRo": "Etisies Beach Bar",
+  "featured": false,
+  "active": false,
+  "publication_ready": false,
+  "needs_images": true,
+  "public_menu_enabled": false,
+  "orders_enabled": false,
+  "nearby_business_slugs": [
+    "karibou-seaside-tavern",
+    "calma-beach-bar",
+    "karavouzis-beach-bar"
+  ],
+  "source_file": "destinations/thassos/beach-bars/etisies-beach-bar/beach-bar.json"
+}

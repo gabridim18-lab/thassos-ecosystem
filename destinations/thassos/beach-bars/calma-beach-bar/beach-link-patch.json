@@ -1,0 +1,50 @@
+{
+  "schema_version": 3,
+  "purpose": "Proposed association of Calma Beach Bar with Dasilio Beach (NOT applied automatically)",
+  "target_beach_file": "destinations/thassos/beaches/dasilio/beach.json",
+  "target_beach_slug": "dasilio",
+  "target_beach_id": "gr-thassos-beach-dasilio",
+  "section": "beach-bars",
+  "card": {
+    "id": "gr-thassos-beach-bar-calma",
+    "slug": "calma-beach-bar",
+    "name": "Calma Beach Bar & Restaurant",
+    "category": "beach-bars",
+    "data_path": "destinations/thassos/beach-bars/calma-beach-bar/beach-bar.json",
+    "lat": 40.76087653785092,
+    "lng": 24.569454413578047,
+    "cover": "images/Plajă tropicală cu șezlonguri goale.webp",
+    "featured": false
+  },
+  "nearby_context": [
+    {
+      "slug": "karavouzis-beach-bar",
+      "name": "Canopy Beach Bar / Karavouzis Beach Bar",
+      "category": "beach-bars",
+      "distance_m_straight_line_approx": 59,
+      "proximity_only_not_same_beach_assignment": true
+    },
+    {
+      "slug": "pinch-of-salt",
+      "name": "Pinch of Salt",
+      "category": "restaurants",
+      "distance_m_straight_line_approx": 496,
+      "proximity_only_not_same_beach_assignment": true
+    },
+    {
+      "slug": "oasis-grill-restaurant",
+      "name": "Oasis Grill Restaurant",
+      "category": "restaurants",
+      "distance_m_straight_line_approx": 568,
+      "proximity_only_not_same_beach_assignment": true
+    },
+    {
+      "slug": "cat-dive-center",
+      "name": "CAT Dive Center",
+      "category": "services",
+      "distance_m_straight_line_approx": 784,
+      "proximity_only_not_same_beach_assignment": true
+    }
+  ],
+  "implementation_note": "Only merge into correct nearby_businesses / beach bars collection after verifying actual application schema. Do not overwrite Dasilio file with this patch."
+}

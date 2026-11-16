@@ -1,0 +1,707 @@
+{
+  "schemaVersion": "1.0",
+  "restaurantId": "mpes-sto-psito",
+  "restaurantName": "Mpes Sto Psito — Greek Grill & Gyros",
+  "menuYear": null,
+  "source": "Six user-provided menu screenshots / photographed paper menu, date not verified",
+  "currency": "EUR",
+  "status": "partial_menu_date_and_prices_unverified",
+  "pricesAreCurrent": false,
+  "showPricesPublicly": false,
+  "publicNotice": {
+    "ro": "Meniu orientativ din fotografii nedatate. Preparatele, prețurile și alergenii trebuie confirmați direct la local.",
+    "en": "Indicative menu transcribed from undated photos. Please confirm dishes, prices and allergens directly with the venue."
+  },
+  "sections": [
+    {
+      "id": "salads_and_dips",
+      "titleEn": "Salads, dips & starters",
+      "items": [
+        {
+          "id": "salads_and_dips-greek-village-salad",
+          "name": {
+            "en": "Greek Village Salad",
+            "el": "Χωριάτικη"
+          },
+          "descriptionEn": "Tomato, cucumber, onion, pepper, olives and feta cheese",
+          "priceEUR": 8.5,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [
+            7
+          ],
+          "allergensVerified": null,
+          "frozenLabelInSource": false,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095703).png"
+        },
+        {
+          "id": "salads_and_dips-tzatziki",
+          "name": {
+            "en": "Tzatziki",
+            "el": "Τζατζίκι"
+          },
+          "descriptionEn": "Yogurt, cucumber and garlic",
+          "priceEUR": 4.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [
+            6,
+            7,
+            12
+          ],
+          "allergensVerified": null,
+          "frozenLabelInSource": false,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095703).png"
+        },
+        {
+          "id": "salads_and_dips-spicy-cheese-dip",
+          "name": {
+            "en": "Spicy Cheese Dip",
+            "el": "Τυροσαλάτα"
+          },
+          "descriptionEn": "Cheese and pepper",
+          "priceEUR": 4.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [
+            3,
+            7,
+            10
+          ],
+          "allergensVerified": null,
+          "frozenLabelInSource": false,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095703).png"
+        },
+        {
+          "id": "salads_and_dips-hot-pepper",
+          "name": {
+            "en": "Hot Pepper",
+            "el": "Καυτερή πιπεριά"
+          },
+          "descriptionEn": "Pepper",
+          "priceEUR": 2.5,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": false,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095703).png"
+        },
+        {
+          "id": "salads_and_dips-feta-cheese",
+          "name": {
+            "en": "Feta Cheese",
+            "el": "Φέτα"
+          },
+          "descriptionEn": "Feta cheese",
+          "priceEUR": null,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [
+            7
+          ],
+          "allergensVerified": null,
+          "frozenLabelInSource": false,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095703).png"
+        }
+      ]
+    },
+    {
+      "id": "sandwiches_wraps",
+      "titleEn": "Pita wraps & sandwiches",
+      "items": [
+        {
+          "id": "sandwiches_wraps-pork-gyros-wrap",
+          "name": {
+            "en": "Pork Gyros Wrap",
+            "el": "Γύρος χοιρινός"
+          },
+          "descriptionEn": "Pork gyros in pita",
+          "priceEUR": 4.8,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "sandwiches_wraps-chicken-gyros-wrap",
+          "name": {
+            "en": "Chicken Gyros Wrap",
+            "el": "Γύρος κοτόπουλο"
+          },
+          "descriptionEn": "Chicken gyros in pita",
+          "priceEUR": 4.8,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "sandwiches_wraps-pork-souvlaki-wrap",
+          "name": {
+            "en": "Pork Souvlaki Wrap",
+            "el": "Σουβλάκι χοιρινό"
+          },
+          "descriptionEn": "Pork souvlaki in pita",
+          "priceEUR": 4.8,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "sandwiches_wraps-chicken-souvlaki-wrap",
+          "name": {
+            "en": "Chicken Souvlaki Wrap",
+            "el": "Σουβλάκι κοτόπουλο"
+          },
+          "descriptionEn": "Chicken souvlaki in pita",
+          "priceEUR": 4.8,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "sandwiches_wraps-burger-sandwich",
+          "name": {
+            "en": "Burger Sandwich",
+            "el": "Μπιφτέκι"
+          },
+          "descriptionEn": "Burger sandwich",
+          "priceEUR": 4.8,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "sandwiches_wraps-soutzoukaki-sandwich",
+          "name": {
+            "en": "Soutzoukaki Sandwich",
+            "el": "Σουτζουκάκι"
+          },
+          "descriptionEn": "Grilled soutzoukaki sandwich",
+          "priceEUR": 4.8,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "sandwiches_wraps-sausage-sandwich",
+          "name": {
+            "en": "Sausage Sandwich",
+            "el": "Λουκάνικο"
+          },
+          "descriptionEn": "Sausage sandwich",
+          "priceEUR": 4.8,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "sandwiches_wraps-stuffed-kebab-with-cream-cheese-wrap",
+          "name": {
+            "en": "Stuffed Kebab with Cream Cheese Wrap",
+            "el": "Κεμπάπ γεμιστό με τυρί κρέμα"
+          },
+          "descriptionEn": "Stuffed kebab with cream cheese",
+          "priceEUR": 4.8,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": true,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "sandwiches_wraps-pita-bread-with-potatoes",
+          "name": {
+            "en": "Pita Bread with Potatoes",
+            "el": "Πατατόπιτα"
+          },
+          "descriptionEn": "Pita bread with potatoes",
+          "priceEUR": 3.5,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "sandwiches_wraps-vegetarian-wrap",
+          "name": {
+            "en": "Vegetarian Wrap",
+            "el": "Vegeterian"
+          },
+          "descriptionEn": "Vegetarian pita option; ingredients not specified",
+          "priceEUR": 4.5,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        }
+      ]
+    },
+    {
+      "id": "portions",
+      "titleEn": "Grilled portions",
+      "items": [
+        {
+          "id": "portions-pork-gyros-portion",
+          "name": {
+            "en": "Pork Gyros Portion",
+            "el": "Γύρος χοιρινός μερίδα"
+          },
+          "descriptionEn": "Pork gyros plate",
+          "priceEUR": 10.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "portions-chicken-gyros-portion",
+          "name": {
+            "en": "Chicken Gyros Portion",
+            "el": "Γύρος κοτόπουλο μερίδα"
+          },
+          "descriptionEn": "Chicken gyros plate",
+          "priceEUR": 10.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "portions-pork-souvlaki-portion",
+          "name": {
+            "en": "Pork Souvlaki Portion",
+            "el": "Σουβλάκι χοιρινό μερίδα"
+          },
+          "descriptionEn": "Pork souvlaki plate",
+          "priceEUR": 10.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "portions-chicken-souvlaki-portion",
+          "name": {
+            "en": "Chicken Souvlaki Portion",
+            "el": "Σουβλάκι κοτόπουλο μερίδα"
+          },
+          "descriptionEn": "Chicken souvlaki plate",
+          "priceEUR": 10.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "portions-burger-portion",
+          "name": {
+            "en": "Burger Portion",
+            "el": "Μπιφτέκι μερίδα"
+          },
+          "descriptionEn": "Grilled burger plate",
+          "priceEUR": 10.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "portions-soutzoukaki-portion",
+          "name": {
+            "en": "Soutzoukaki Portion",
+            "el": "Σουτζουκάκι μερίδα"
+          },
+          "descriptionEn": "Grilled soutzoukaki plate",
+          "priceEUR": 10.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "portions-sausage-portion",
+          "name": {
+            "en": "Sausage Portion",
+            "el": "Λουκάνικο μερίδα"
+          },
+          "descriptionEn": "Sausage plate",
+          "priceEUR": 10.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095723).png"
+        },
+        {
+          "id": "portions-stuffed-kebab-with-cream-cheese-portion",
+          "name": {
+            "en": "Stuffed Kebab with Cream Cheese Portion",
+            "el": "Κεμπάπ γεμιστό με τυρί κρέμα μερίδα"
+          },
+          "descriptionEn": "One pita, tomato, onion and potato",
+          "priceEUR": 10.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "allergensVerified": null,
+          "frozenLabelInSource": true,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095830).png"
+        }
+      ]
+    },
+    {
+      "id": "sides",
+      "titleEn": "Sides",
+      "items": [
+        {
+          "id": "sides-meat-per-piece",
+          "name": {
+            "en": "Meat per Piece",
+            "el": "Κρέας σε τεμάχιο"
+          },
+          "descriptionEn": "Meat per piece",
+          "priceEUR": 2.5,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": true,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095830).png"
+        },
+        {
+          "id": "sides-french-fries",
+          "name": {
+            "en": "French Fries",
+            "el": "Πατάτες"
+          },
+          "descriptionEn": "French fries",
+          "priceEUR": 4.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": true,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095830).png"
+        }
+      ]
+    },
+    {
+      "id": "soft_drinks",
+      "titleEn": "Soft drinks",
+      "items": [
+        {
+          "id": "soft_drinks-coca-cola-330ml",
+          "name": {
+            "en": "Coca-Cola 330ml",
+            "el": "Coca Cola 330ml"
+          },
+          "descriptionEn": "Can 330ml",
+          "priceEUR": 2.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095800).png"
+        },
+        {
+          "id": "soft_drinks-coca-cola-500ml",
+          "name": {
+            "en": "Coca-Cola 500ml",
+            "el": "Coca Cola 500ml"
+          },
+          "descriptionEn": "Bottle 500ml",
+          "priceEUR": 2.5,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095800).png"
+        },
+        {
+          "id": "soft_drinks-coca-cola-zero-330ml",
+          "name": {
+            "en": "Coca-Cola Zero 330ml",
+            "el": "Coca Cola Zero 330ml"
+          },
+          "descriptionEn": "Can 330ml",
+          "priceEUR": 2.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095800).png"
+        },
+        {
+          "id": "soft_drinks-coca-cola-zero-500ml",
+          "name": {
+            "en": "Coca-Cola Zero 500ml",
+            "el": "Coca Cola Zero 500ml"
+          },
+          "descriptionEn": "Bottle 500ml",
+          "priceEUR": 2.5,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095800).png"
+        },
+        {
+          "id": "soft_drinks-sprite-330ml",
+          "name": {
+            "en": "Sprite 330ml",
+            "el": "Sprite 330ml"
+          },
+          "descriptionEn": "Can 330ml",
+          "priceEUR": 2.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095800).png"
+        },
+        {
+          "id": "soft_drinks-sprite-500ml",
+          "name": {
+            "en": "Sprite 500ml",
+            "el": "Sprite 500ml"
+          },
+          "descriptionEn": "Bottle 500ml",
+          "priceEUR": 2.5,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095800).png"
+        },
+        {
+          "id": "soft_drinks-fanta-orange-330ml",
+          "name": {
+            "en": "Fanta Orange 330ml",
+            "el": "Φάντα πορτοκάλι 330ml"
+          },
+          "descriptionEn": "Can 330ml",
+          "priceEUR": 2.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095812).png"
+        },
+        {
+          "id": "soft_drinks-fanta-orange-500ml",
+          "name": {
+            "en": "Fanta Orange 500ml",
+            "el": "Φάντα πορτοκάλι 500ml"
+          },
+          "descriptionEn": "Bottle 500ml",
+          "priceEUR": 2.5,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095812).png"
+        },
+        {
+          "id": "soft_drinks-fanta-lemon-330ml",
+          "name": {
+            "en": "Fanta Lemon 330ml",
+            "el": "Φάντα λεμόνι 330ml"
+          },
+          "descriptionEn": "Can 330ml",
+          "priceEUR": 2.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095812).png"
+        },
+        {
+          "id": "soft_drinks-fanta-lemon-500ml",
+          "name": {
+            "en": "Fanta Lemon 500ml",
+            "el": "Φάντα λεμόνι 500ml"
+          },
+          "descriptionEn": "Bottle 500ml",
+          "priceEUR": 2.5,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095812).png"
+        },
+        {
+          "id": "soft_drinks-schweppes-soda-water-330ml",
+          "name": {
+            "en": "Schweppes Soda Water 330ml",
+            "el": "Schweppes σόδα 330ml"
+          },
+          "descriptionEn": "Can 330ml",
+          "priceEUR": 2.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095812).png"
+        },
+        {
+          "id": "soft_drinks-schweppes-soda-water-500ml",
+          "name": {
+            "en": "Schweppes Soda Water 500ml",
+            "el": "Schweppes σόδα 500ml"
+          },
+          "descriptionEn": "Bottle 500ml",
+          "priceEUR": 2.5,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095812).png"
+        },
+        {
+          "id": "soft_drinks-schweppes-pink-grapefruit-330ml",
+          "name": {
+            "en": "Schweppes Pink Grapefruit 330ml",
+            "el": "Schweppes pink grapefruit 330ml"
+          },
+          "descriptionEn": "Can 330ml",
+          "priceEUR": 2.0,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095746).png"
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "titleEn": "Water",
+      "items": [
+        {
+          "id": "water-avra-natural-mineral-water-500ml",
+          "name": {
+            "en": "Avra Natural Mineral Water 500ml",
+            "el": "Νερό Αύρα 500ml"
+          },
+          "descriptionEn": "Still mineral water",
+          "priceEUR": 0.5,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095746).png"
+        },
+        {
+          "id": "water-avra-natural-mineral-water-1l",
+          "name": {
+            "en": "Avra Natural Mineral Water 1L",
+            "el": "Νερό Αύρα 1lt"
+          },
+          "descriptionEn": "Still mineral water",
+          "priceEUR": 1.5,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095746).png"
+        },
+        {
+          "id": "water-vikos-sparkling-water-1l",
+          "name": {
+            "en": "Vikos Sparkling Water 1L",
+            "el": "Ανθρακούχο νερό Βίκος 1lt"
+          },
+          "descriptionEn": "Sparkling mineral water",
+          "priceEUR": 2.7,
+          "currency": "EUR",
+          "priceVerifiedCurrent": false,
+          "allergenNumbers": [],
+          "allergensVerified": false,
+          "frozenLabelInSource": null,
+          "sourceScreenshot": "documents/menu-captures/image(20261104-095746).png"
+        }
+      ]
+    }
+  ],
+  "menuSourceImages": [
+    "documents/menu-captures/image(20261104-095703).png",
+    "documents/menu-captures/image(20261104-095723).png",
+    "documents/menu-captures/image(20261104-095746).png",
+    "documents/menu-captures/image(20261104-095800).png",
+    "documents/menu-captures/image(20261104-095812).png",
+    "documents/menu-captures/image(20261104-095830).png"
+  ],
+  "menuCompleteness": "partial_screenshots_only",
+  "allergenInformation": {
+    "status": "partially_transcribed_unverified",
+    "note": "Numbers on screenshots are reproduced where visible; full legend is not supplied. Do not make medical/allergen safety claims from this data."
+  },
+  "priceNotes": "Amounts are copied from supplied captures where legible; not verified for 2026/2027. Public preview hides amounts by default. Some photographed prices may vary by dish, location and season.",
+  "preparedAt": "2026-11-04",
+  "venueId": "mpes-sto-psito"
+}

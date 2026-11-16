@@ -1,0 +1,50 @@
+{
+  "compiled_at": "2026-11-04",
+  "sources": [
+    {
+      "kind": "user_submitted",
+      "content": "Google Maps business details, 38 reviews, 09:00–02:00, contact, facilities, coordinates and images in conversation",
+      "url": null
+    },
+    {
+      "kind": "user_project_record",
+      "content": "Dasilio Beach canonical slug dasilio, ID gr-thassos-beach-dasilio, representative coordinates 40.7609, 24.56864",
+      "file": "destinations/thassos/beaches/dasilio/beach.json"
+    },
+    {
+      "kind": "web",
+      "url": "https://mapcarta.com/W1083813442",
+      "supports": [
+        "Karavouzi Brothers location, near Dasylio beach"
+      ]
+    },
+    {
+      "kind": "web",
+      "url": "https://canopybeachbar.com/history/",
+      "supports": [
+        "2026-05-03 rebrand; former family business"
+      ]
+    },
+    {
+      "kind": "web",
+      "url": "https://canopybeachbar.com/contact/",
+      "supports": [
+        "phone number matches user listing, hours 09:00–23:00, email"
+      ]
+    },
+    {
+      "kind": "web",
+      "url": "https://studioskaravouzi.com/",
+      "supports": [
+        "User-provided URL currently does not clearly represent venue; do not display as verified official"
+      ]
+    }
+  ],
+  "warnings": [
+    "Official business site and Google hours conflict.",
+    "Current sunbed charging rules not verified.",
+    "One supplied photo filename references Karyouli; verify attribution before public use.",
+    "No verified complete menu.",
+    "Public name changed to Canopy in May 2026; avoid duplicate venue records."
+  ]
+}

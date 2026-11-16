@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "purpose": "Optional nearby-area linkage; no beach association selected or applied",
+  "status": "proposal_only",
+  "target_area": "skala-kallirachis",
+  "target_beach_file": null,
+  "target_beach_slug": null,
+  "section": "restaurants",
+  "card": {
+    "id": "cafe-pizza-restaurant-grill-kallirachi",
+    "slug": "cafe-pizza-restaurant-grill-kallirachi",
+    "name": "Cafe Pizza Restaurant Grill Kallirachi",
+    "category": "restaurants",
+    "data_path": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/restaurant.json",
+    "lat": 40.70871652635093,
+    "lng": 24.53403846367154,
+    "cover": "images/Terasa Kallirachi pe promenada marină.webp",
+    "featured": false
+  },
+  "implementation_note": "Add to the island restaurant catalog and Skala Kallirachis area listings. Do not modify beaches without checking the live beach inventory and verifying the intended beach."
+}

@@ -1,0 +1,28 @@
+{
+  "business": [
+    "Confirm reopening and seasonal operation schedule for 2027; Google snapshot on 2026-11-04 says temporarily closed.",
+    "Confirm official opening hours, contact and reservation method.",
+    "Confirm that the location lies within the Dasilio coastal area and access route for visitors.",
+    "Confirm which delivery or takeaway options are currently offered.",
+    "Confirm exact sunbed, cabana and umbrella min-spend rules by area and season.",
+    "Confirm accessibility and playground details and seasonal availability."
+  ],
+  "menu": [
+    "Compare RO machine-translated item names against the Greek official site (some mistranslations).",
+    "Owner must sign off on prices and portion units before enabling orders.",
+    "Special attention: day fish €60: unit/weight is not specified in provided menu; do not assume per kg.",
+    "Check the English site for 2026 menu prices and menu sections, but avoid relying on auto-translated English as authoritative.",
+    "Mark dietary labels and ingredient cross-contamination with owner-confirmed allergen registry, not text guesses.",
+    "Confirm SUP availability, rental terms, safety restrictions and whether it should be booked separately.",
+    "Menu sections may overlap and repeated dishes must not be deduplicated across meal services."
+  ],
+  "media": [
+    "Manifest of 11 photos has been populated using the exact original filenames, changing only extension to .webp.",
+    "User will optimize all images to a uniform resolution and copy the 11 .webp files into the empty images/ directory.",
+    "Image paths will resolve once the user adds the converted .webp files. No images were included in this ZIP."
+  ],
+  "ordering": [
+    "Future QR ordering is a concept; no live functionality, payment or dispatch is connected.",
+    "Owner agreement, real-time stock/prices, QR identifier and staff workflow must be confirmed first."
+  ]
+}

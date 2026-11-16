@@ -1,0 +1,271 @@
+{
+  "schemaVersion": "1.0",
+  "id": "oasis-grill-restaurant",
+  "slug": "oasis-grill-restaurant",
+  "type": "restaurant",
+  "category": "restaurants",
+  "zone": "skala-prinos",
+  "beachSlug": null,
+  "name": "Oasis Grill Restaurant",
+  "titleEn": "Oasis Grill Restaurant",
+  "titleRo": "Oasis Grill Restaurant",
+  "translations": {
+    "ro": {
+      "name": "Oasis Grill Restaurant",
+      "shortDescription": "Tavernă grecească în Skala Prinos, cu terase în aer liber, atmosferă relaxată și preparate la grătar, pește și fructe de mare.",
+      "description": "În Skala Prinos, pe insula Thassos, Oasis Grill Restaurant propune o experiență culinară grecească într-un cadru de vacanță relaxat. Terasele în aer liber, vegetația bogată și luminile calde de seară creează o atmosferă plăcută pentru un prânz liniștit sau o cină în familie.\n\nMeniul prezentat pentru 2025 reunește preparate din pește și fructe de mare, precum caracatiță, calamari, creveți și pește la grătar, alături de souvlaki, gyros, salate grecești, dovlecei prăjiți și alte specialități tradiționale. Există și opțiuni vegetariene, precum și un meniu pentru copii.\n\nApropierea de mare și locurile de luat masa sub copaci completează farmecul acestei taverne. Pentru o masă mai comodă în perioadele aglomerate, este util să întrebați în prealabil despre disponibilitate și rezervări."
+    },
+    "en": {
+      "name": "Oasis Grill Restaurant",
+      "shortDescription": "Relaxed Greek taverna in Skala Prinos with outdoor dining, grilled seafood, traditional dishes and a welcoming island atmosphere.",
+      "description": "In the coastal village of Skala Prinos on Thassos, Oasis Grill Restaurant offers a relaxed taste of Greek island dining. Outdoor tables, leafy surroundings and warm evening lights make it an inviting setting for a leisurely lunch or a family dinner.\n\nThe 2025 menu features grilled fish and seafood such as octopus, calamari and shrimp, alongside souvlaki, gyros, Greek salads, crispy fried zucchini and other traditional favourites. Vegetarian choices and a children’s menu are also listed.\n\nIts seaside setting and shaded seating are part of the appeal. Guests visiting during busier periods may wish to check availability and reservation arrangements in advance."
+    },
+    "el": {
+      "name": "Oasis Grill Restaurant",
+      "shortDescription": "Χαλαρή ελληνική ταβέρνα στη Σκάλα Πρίνου, με υπαίθρια τραπεζάκια, ψητά θαλασσινά και παραδοσιακές γεύσεις.",
+      "description": "Στη Σκάλα Πρίνου της Θάσου, το Oasis Grill Restaurant προσφέρει μια χαλαρή εμπειρία ελληνικής κουζίνας κοντά στη θάλασσα. Τα τραπέζια στον υπαίθριο χώρο, η πλούσια βλάστηση και ο ζεστός βραδινός φωτισμός δημιουργούν ένα ευχάριστο σκηνικό για μεσημεριανό γεύμα ή οικογενειακό δείπνο.\n\nΣτο μενού του 2025 περιλαμβάνονται ψητά ψάρια και θαλασσινά, όπως χταπόδι, καλαμάρι και γαρίδες, αλλά και σουβλάκι, γύρος, ελληνικές σαλάτες, τηγανητά κολοκυθάκια και άλλες παραδοσιακές γεύσεις. Υπάρχουν επίσης χορτοφαγικές επιλογές και παιδικό μενού.\n\nΗ παραθαλάσσια τοποθεσία και τα σκιερά καθίσματα συμπληρώνουν την εμπειρία. Σε περιόδους αυξημένης κίνησης είναι χρήσιμο να επιβεβαιώνετε εκ των προτέρων τη διαθεσιμότητα και τις κρατήσεις."
+    },
+    "de": {
+      "name": "Oasis Grill Restaurant",
+      "shortDescription": "Entspannte griechische Taverne in Skala Prinos mit Außenterrasse, gegrilltem Fisch, Meeresfrüchten und traditionellen Gerichten.",
+      "description": "In Skala Prinos auf Thassos lädt das Oasis Grill Restaurant zu einem entspannten Essen in griechischem Inselambiente ein. Sitzplätze im Freien, üppiges Grün und stimmungsvolle Beleuchtung am Abend schaffen einen angenehmen Rahmen für ein gemütliches Mittagessen oder ein Familienabendessen.\n\nDie Speisekarte von 2025 umfasst gegrillten Fisch und Meeresfrüchte wie Oktopus, Calamari und Garnelen sowie Souvlaki, Gyros, griechische Salate, knusprig gebratene Zucchini und weitere traditionelle Spezialitäten. Auch vegetarische Gerichte und eine Kinderkarte sind aufgeführt.\n\nDie Lage in Meeresnähe und die schattigen Sitzplätze machen den Besuch besonders reizvoll. In der Hochsaison empfiehlt es sich, Verfügbarkeit und Reservierungsmöglichkeiten vorab zu erfragen."
+    },
+    "bg": {
+      "name": "Oasis Grill Restaurant",
+      "shortDescription": "Уютна гръцка таверна в Скала Принос с места на открито, морски дарове на скара и традиционни ястия.",
+      "description": "В Скала Принос на остров Тасос Oasis Grill Restaurant предлага спокойно преживяване с традиционна гръцка кухня. Масите на открито, зеленината и приятното вечерно осветление създават чудесна обстановка за обяд или семейна вечеря.\n\nМенюто от 2025 г. включва риба и морски дарове на скара, като октопод, калмари и скариди, както и сувлаки, гирос, гръцки салати, пържени тиквички и други местни специалитети. Предлагат се също вегетариански ястия и детско меню.\n\nБлизостта до морето и сенчестите места допълват атмосферата. През натоварения сезон е добре предварително да проверите възможностите за резервация."
+    },
+    "sr": {
+      "name": "Oasis Grill Restaurant",
+      "shortDescription": "Opuštena grčka taverna u Skali Prinos sa baštom, grilovanom ribom, morskim plodovima i tradicionalnim jelima.",
+      "description": "U Skali Prinos na Tasosu, Oasis Grill Restaurant pruža opušten doživljaj grčke ostrvske kuhinje. Stolovi na otvorenom, zelenilo i prijatno večernje osvetljenje stvaraju lep ambijent za ručak ili porodičnu večeru.\n\nNa jelovniku iz 2025. nalaze se riba i morski plodovi sa roštilja, poput hobotnice, lignji i škampa, kao i suvlaki, giros, grčke salate, pržene tikvice i drugi tradicionalni specijaliteti. Dostupne su i vegetarijanske opcije i dečji meni.\n\nBlizina mora i mesta u hladu dodatno doprinose atmosferi. Tokom prometnijih perioda preporučljivo je unapred proveriti dostupnost stolova i mogućnost rezervacije."
+    }
+  },
+  "title": {
+    "ro": "Oasis Grill Restaurant",
+    "en": "Oasis Grill Restaurant",
+    "el": "Oasis Grill Restaurant",
+    "de": "Oasis Grill Restaurant",
+    "bg": "Oasis Grill Restaurant",
+    "sr": "Oasis Grill Restaurant"
+  },
+  "shortDescription": {
+    "ro": "Tavernă grecească în Skala Prinos, cu terase în aer liber, atmosferă relaxată și preparate la grătar, pește și fructe de mare.",
+    "en": "Relaxed Greek taverna in Skala Prinos with outdoor dining, grilled seafood, traditional dishes and a welcoming island atmosphere.",
+    "el": "Χαλαρή ελληνική ταβέρνα στη Σκάλα Πρίνου, με υπαίθρια τραπεζάκια, ψητά θαλασσινά και παραδοσιακές γεύσεις.",
+    "de": "Entspannte griechische Taverne in Skala Prinos mit Außenterrasse, gegrilltem Fisch, Meeresfrüchten und traditionellen Gerichten.",
+    "bg": "Уютна гръцка таверна в Скала Принос с места на открито, морски дарове на скара и традиционни ястия.",
+    "sr": "Opuštena grčka taverna u Skali Prinos sa baštom, grilovanom ribom, morskim plodovima i tradicionalnim jelima."
+  },
+  "description": {
+    "ro": "În Skala Prinos, pe insula Thassos, Oasis Grill Restaurant propune o experiență culinară grecească într-un cadru de vacanță relaxat. Terasele în aer liber, vegetația bogată și luminile calde de seară creează o atmosferă plăcută pentru un prânz liniștit sau o cină în familie.\n\nMeniul prezentat pentru 2025 reunește preparate din pește și fructe de mare, precum caracatiță, calamari, creveți și pește la grătar, alături de souvlaki, gyros, salate grecești, dovlecei prăjiți și alte specialități tradiționale. Există și opțiuni vegetariene, precum și un meniu pentru copii.\n\nApropierea de mare și locurile de luat masa sub copaci completează farmecul acestei taverne. Pentru o masă mai comodă în perioadele aglomerate, este util să întrebați în prealabil despre disponibilitate și rezervări.",
+    "en": "In the coastal village of Skala Prinos on Thassos, Oasis Grill Restaurant offers a relaxed taste of Greek island dining. Outdoor tables, leafy surroundings and warm evening lights make it an inviting setting for a leisurely lunch or a family dinner.\n\nThe 2025 menu features grilled fish and seafood such as octopus, calamari and shrimp, alongside souvlaki, gyros, Greek salads, crispy fried zucchini and other traditional favourites. Vegetarian choices and a children’s menu are also listed.\n\nIts seaside setting and shaded seating are part of the appeal. Guests visiting during busier periods may wish to check availability and reservation arrangements in advance.",
+    "el": "Στη Σκάλα Πρίνου της Θάσου, το Oasis Grill Restaurant προσφέρει μια χαλαρή εμπειρία ελληνικής κουζίνας κοντά στη θάλασσα. Τα τραπέζια στον υπαίθριο χώρο, η πλούσια βλάστηση και ο ζεστός βραδινός φωτισμός δημιουργούν ένα ευχάριστο σκηνικό για μεσημεριανό γεύμα ή οικογενειακό δείπνο.\n\nΣτο μενού του 2025 περιλαμβάνονται ψητά ψάρια και θαλασσινά, όπως χταπόδι, καλαμάρι και γαρίδες, αλλά και σουβλάκι, γύρος, ελληνικές σαλάτες, τηγανητά κολοκυθάκια και άλλες παραδοσιακές γεύσεις. Υπάρχουν επίσης χορτοφαγικές επιλογές και παιδικό μενού.\n\nΗ παραθαλάσσια τοποθεσία και τα σκιερά καθίσματα συμπληρώνουν την εμπειρία. Σε περιόδους αυξημένης κίνησης είναι χρήσιμο να επιβεβαιώνετε εκ των προτέρων τη διαθεσιμότητα και τις κρατήσεις.",
+    "de": "In Skala Prinos auf Thassos lädt das Oasis Grill Restaurant zu einem entspannten Essen in griechischem Inselambiente ein. Sitzplätze im Freien, üppiges Grün und stimmungsvolle Beleuchtung am Abend schaffen einen angenehmen Rahmen für ein gemütliches Mittagessen oder ein Familienabendessen.\n\nDie Speisekarte von 2025 umfasst gegrillten Fisch und Meeresfrüchte wie Oktopus, Calamari und Garnelen sowie Souvlaki, Gyros, griechische Salate, knusprig gebratene Zucchini und weitere traditionelle Spezialitäten. Auch vegetarische Gerichte und eine Kinderkarte sind aufgeführt.\n\nDie Lage in Meeresnähe und die schattigen Sitzplätze machen den Besuch besonders reizvoll. In der Hochsaison empfiehlt es sich, Verfügbarkeit und Reservierungsmöglichkeiten vorab zu erfragen.",
+    "bg": "В Скала Принос на остров Тасос Oasis Grill Restaurant предлага спокойно преживяване с традиционна гръцка кухня. Масите на открито, зеленината и приятното вечерно осветление създават чудесна обстановка за обяд или семейна вечеря.\n\nМенюто от 2025 г. включва риба и морски дарове на скара, като октопод, калмари и скариди, както и сувлаки, гирос, гръцки салати, пържени тиквички и други местни специалитети. Предлагат се също вегетариански ястия и детско меню.\n\nБлизостта до морето и сенчестите места допълват атмосферата. През натоварения сезон е добре предварително да проверите възможностите за резервация.",
+    "sr": "U Skali Prinos na Tasosu, Oasis Grill Restaurant pruža opušten doživljaj grčke ostrvske kuhinje. Stolovi na otvorenom, zelenilo i prijatno večernje osvetljenje stvaraju lep ambijent za ručak ili porodičnu večeru.\n\nNa jelovniku iz 2025. nalaze se riba i morski plodovi sa roštilja, poput hobotnice, lignji i škampa, kao i suvlaki, giros, grčke salate, pržene tikvice i drugi tradicionalni specijaliteti. Dostupne su i vegetarijanske opcije i dečji meni.\n\nBlizina mora i mesta u hladu dodatno doprinose atmosferi. Tokom prometnijih perioda preporučljivo je unapred proveriti dostupnost stolova i mogućnost rezervacije."
+  },
+  "cuisine": [
+    "greek",
+    "mediterranean",
+    "seafood",
+    "grill"
+  ],
+  "cuisineTypes": [
+    "Greek",
+    "Mediterranean",
+    "Seafood",
+    "Grill"
+  ],
+  "location": {
+    "country": "Greece",
+    "island": "Thassos",
+    "locality": "Skala Prinos",
+    "address": "Skala, Prinos 640 10, Greece",
+    "latitude": 40.75869763441532,
+    "longitude": 24.575549814169296
+  },
+  "address": "Skala, Prinos 640 10, Greece",
+  "displayAddress": "Skala Prinos, Thassos, Greece",
+  "coordinates": {
+    "lat": 40.75869763441532,
+    "lng": 24.575549814169296
+  },
+  "phone": "+30 698 199 3154",
+  "links": {
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=40.75869763441532%2C24.575549814169296",
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "google": {
+    "rating": 4.2,
+    "reviewCount": 203,
+    "capturedAt": "2026-11-03",
+    "source": "user_provided_google_maps_details",
+    "liveUpdate": false,
+    "showIndividualReviews": false
+  },
+  "rating": 4.2,
+  "ratingSource": "Google Maps — user-provided snapshot, 2026-11-03",
+  "price": {
+    "rangePerPersonEUR": [
+      15,
+      20
+    ],
+    "source": "user_provided_google_maps_details",
+    "status": "indicative_unverified",
+    "showAsCurrent": false
+  },
+  "openingHours": {
+    "weekly": null,
+    "status": "not_verified_for_2027"
+  },
+  "serviceOptions": [
+    "outdoor_seating",
+    "takeaway",
+    "dine_in",
+    "delivery"
+  ],
+  "highlights": [
+    "live_music"
+  ],
+  "popularFor": [
+    "lunch",
+    "dinner",
+    "solo_dining"
+  ],
+  "offerings": [
+    "alcohol",
+    "beer",
+    "coffee",
+    "late_night_food",
+    "spirits",
+    "wine"
+  ],
+  "diningOptions": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "dessert",
+    "seating",
+    "table_service"
+  ],
+  "amenities": [
+    "bar_on_site",
+    "toilet",
+    "wifi",
+    "free_wifi"
+  ],
+  "atmosphere": [
+    "casual",
+    "cosy",
+    "quiet"
+  ],
+  "crowd": [
+    "groups",
+    "tourists"
+  ],
+  "planning": [
+    "accepts_reservations"
+  ],
+  "payments": [
+    "credit_cards",
+    "debit_cards",
+    "nfc_mobile_payments"
+  ],
+  "children": [
+    "good_for_kids",
+    "high_chairs",
+    "kids_menu"
+  ],
+  "parking": [
+    "free_street_parking",
+    "free_parking_lot",
+    "plenty_of_parking"
+  ],
+  "accessibility": {
+    "status": "not_provided"
+  },
+  "features": [
+    "outdoor_seating",
+    "seaside_location",
+    "greek_cuisine",
+    "seafood",
+    "grill",
+    "family_friendly",
+    "kids_menu",
+    "free_wifi",
+    "live_music",
+    "parking"
+  ],
+  "heroImage": "images/Cafenea mediteraneană sub copac iluminat.webp",
+  "image": "images/Cafenea mediteraneană sub copac iluminat.webp",
+  "images": [
+    "images/Cafenea mediteraneană sub copac iluminat.webp",
+    "images/Curte mediteraneană cu grătar rustic.webp",
+    "images/Caracatiță la grătar cu garnituri proaspete.webp",
+    "images/Creveți la grătar cu lămâie și sos balsamic.webp",
+    "images/Pește la grătar în tavernă mediteraneană.webp",
+    "images/Restaurant pe malul mării la apus.webp",
+    "images/Platou grecesc cu dovlecei crocanți.webp",
+    "images/Cafenea rustică Irantiri la amurg.webp",
+    "images/Terasa rustică la apus, lângă mare.webp",
+    "images/Restaurant mediteranean la apus_VEVENT.webp",
+    "images/Friptură la grătar cu cartofi prăjiți.webp"
+  ],
+  "galleryImages": [
+    "images/Cafenea mediteraneană sub copac iluminat.webp",
+    "images/Curte mediteraneană cu grătar rustic.webp",
+    "images/Caracatiță la grătar cu garnituri proaspete.webp",
+    "images/Creveți la grătar cu lămâie și sos balsamic.webp",
+    "images/Pește la grătar în tavernă mediteraneană.webp",
+    "images/Restaurant pe malul mării la apus.webp",
+    "images/Platou grecesc cu dovlecei crocanți.webp",
+    "images/Cafenea rustică Irantiri la amurg.webp",
+    "images/Terasa rustică la apus, lângă mare.webp",
+    "images/Restaurant mediteranean la apus_VEVENT.webp",
+    "images/Friptură la grătar cu cartofi prăjiți.webp"
+  ],
+  "menuImages": [
+    "documents/menu-2025/image(20261103-062323).png",
+    "documents/menu-2025/image(20261103-062336).png",
+    "documents/menu-2025/image(20261103-062401).png",
+    "documents/menu-2025/image(20261103-062419).png",
+    "documents/menu-2025/image(20261103-062438).png",
+    "documents/menu-2025/image(20261103-062613).png",
+    "documents/menu-2025/image(20261103-062646).png",
+    "documents/menu-2025/image(20261103-062659).png"
+  ],
+  "menuFile": "menu.json",
+  "menus": {
+    "historical": {
+      "file": "menu.json",
+      "year": 2025,
+      "showPricesPublicly": false
+    },
+    "current": null
+  },
+  "reviews": {
+    "displayIndividualReviews": false,
+    "sourceRatingOnly": true
+  },
+  "status": {
+    "content": "ready",
+    "photoProvenance": "confirmed_by_user",
+    "menu": "historical_2025",
+    "hours": "not_verified",
+    "published": false,
+    "featured": false,
+    "active": true
+  },
+  "partner": false,
+  "featured": false,
+  "active": true,
+  "lastPrepared": "2026-11-03",
+  "dataNotes": {
+    "openingHours": "The one-day Google Maps snippet is not a complete weekly schedule.",
+    "foodPrices": "Menu dated 2025: never label historical amounts as current prices.",
+    "photos": "All 11 photographs confirmed by the user as associated with Oasis Grill Restaurant."
+  }
+}

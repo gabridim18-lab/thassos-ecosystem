@@ -1,0 +1,369 @@
+{
+  "schemaVersion": "1.0",
+  "id": "cafe-pizza-restaurant-grill-kallirachi",
+  "slug": "cafe-pizza-restaurant-grill-kallirachi",
+  "type": "restaurant",
+  "category": "restaurants",
+  "subcategory": "cafe-pizza-grill",
+  "zone": "skala-kallirachis",
+  "beachSlug": null,
+  "beachName": null,
+  "beachAliases": [],
+  "beachLink": {
+    "slug": null,
+    "label": null,
+    "relationship": "harbourfront_restaurant",
+    "status": "not_assigned",
+    "note": "Do not link automatically to a beach. Location is on the Skala Kallirachis harbourfront; verify an exact existing beach record before adding any association."
+  },
+  "name": "Cafe Pizza Restaurant Grill Kallirachi",
+  "titleEn": "Cafe Pizza Restaurant Grill Kallirachi",
+  "titleRo": "Cafe Pizza Restaurant Grill Kallirachi",
+  "translations": {
+    "ro": {
+      "name": "Cafe Pizza Restaurant Grill Kallirachi",
+      "shortDescription": "Restaurant cu terasă pe promenada portului din Skala Kallirachis, unde poți savura preparate grecești, grill, pizza, fructe de mare și cafea cu vedere la mare.",
+      "description": "Pe promenada din Skala Kallirachis, lângă micul port de pe coasta vestică a insulei Thassos, Cafe Pizza Restaurant Grill Kallirachi este un loc relaxat pentru o oprire la cafea sau o masă cu vedere spre mare. Terasa amenajată de-a lungul falezei, cu mese la umbră și palmieri în apropiere, invită la momente fără grabă, de la dimineață până seara.\n\nBucătăria reunește preparate grecești și mediteraneene, pizza, gyros, carne la grătar, pește și fructe de mare. Fotografiile primite surprind frigărui, gyros cu cartofi și tzatziki, calamar la grătar și un preparat rumenit la cuptor cu brânză topită. Aceste imagini ilustrează experiența culinară, fără să reprezinte un meniu actualizat sau să garanteze disponibilitatea preparatelor în fiecare zi.\n\nPoziția lângă port face restaurantul potrivit pentru o pauză în timpul explorării satului, o cină liniștită sau o oprire în apropierea apusului. Priveliștea ambarcațiunilor și atmosfera simplă a promenadei completează experiența unei seri pe malul mării în Thassos."
+    },
+    "en": {
+      "name": "Cafe Pizza Restaurant Grill Kallirachi",
+      "shortDescription": "Relaxed harbourfront restaurant in Skala Kallirachis serving Greek favourites, grilled dishes, pizza, seafood and coffee beside the sea.",
+      "description": "Along the waterfront promenade in Skala Kallirachis, beside a small harbour on the western coast of Thassos, Cafe Pizza Restaurant Grill Kallirachi is an easy-going place for coffee, a casual lunch or a sea-view dinner. Its shaded outdoor tables sit along the promenade, with palm trees, fishing boats and the Aegean adding to the atmosphere.\n\nThe varied dining experience brings together Greek and Mediterranean favourites, pizza, gyros, grilled meats, fish and seafood. The supplied photographs feature grilled skewers, gyros with fries and tzatziki, grilled calamari and an oven-baked cheese-topped dish. They are illustrations of the dining experience, not a verified daily menu or a promise of availability.\n\nWith the harbour just across the road, it is a convenient stop while exploring Skala Kallirachis or enjoying a relaxed evening on the waterfront. The views over the boats and the warm light of the western coast make this a pleasant setting for a leisurely meal."
+    },
+    "el": {
+      "name": "Cafe Pizza Restaurant Grill Kallirachi",
+      "shortDescription": "Χαλαρό εστιατόριο στον παραλιακό δρόμο της Σκάλας Καλλιράχης, με ελληνικές γεύσεις, ψητά, πίτσα, θαλασσινά και καφέ δίπλα στη θάλασσα.",
+      "description": "Στον παραλιακό πεζόδρομο της Σκάλας Καλλιράχης, κοντά στο μικρό λιμάνι της δυτικής Θάσου, το Cafe Pizza Restaurant Grill Kallirachi είναι μια ευχάριστη επιλογή για καφέ, μεσημεριανό ή δείπνο με θέα στη θάλασσα. Τα τραπέζια στον εξωτερικό χώρο, η σκιά από τις ομπρέλες και οι φοίνικες της παραλίας δημιουργούν μια χαλαρή ατμόσφαιρα.\n\nΟι γαστρονομικές επιλογές περιλαμβάνουν ελληνικές και μεσογειακές γεύσεις, πίτσα, γύρο, ψητά κρέατα, ψάρια και θαλασσινά. Στις φωτογραφίες που δόθηκαν φαίνονται σουβλάκια, γύρος με πατάτες και τζατζίκι, καλαμάρι σχάρας και ένα φαγητό φούρνου με λιωμένο τυρί. Οι εικόνες είναι ενδεικτικές και δεν αποτελούν επιβεβαιωμένο καθημερινό κατάλογο.\n\nΗ τοποθεσία κοντά στο λιμάνι είναι ιδανική για μια στάση κατά την περιήγηση στο χωριό ή για ένα ήρεμο γεύμα προς το ηλιοβασίλεμα. Η θέα στα σκάφη και στον θαλάσσιο ορίζοντα συμπληρώνει την εμπειρία."
+    },
+    "de": {
+      "name": "Cafe Pizza Restaurant Grill Kallirachi",
+      "shortDescription": "Entspanntes Restaurant an der Hafenpromenade von Skala Kallirachis mit griechischen Gerichten, Grill, Pizza, Meeresfrüchten und Meerblick.",
+      "description": "An der Uferpromenade von Skala Kallirachis, direkt beim kleinen Hafen an der Westküste von Thassos, lädt das Cafe Pizza Restaurant Grill Kallirachi zu einem Kaffee, einem ungezwungenen Mittagessen oder einem Abendessen mit Meerblick ein. Die schattigen Tische im Außenbereich und die Palmen an der Promenade sorgen für eine entspannte Atmosphäre.\n\nDie Küche bietet eine Mischung aus griechischen und mediterranen Gerichten, Pizza, Gyros, Fleisch vom Grill, Fisch und Meeresfrüchten. Auf den bereitgestellten Bildern sind unter anderem Grillspieße, Gyros mit Pommes und Tzatziki, gegrillter Tintenfisch sowie ein überbackenes Gericht mit Käse zu sehen. Die Fotos vermitteln einen Eindruck vom Essen, stellen aber keine bestätigte aktuelle Speisekarte dar.\n\nDank der Lage am Hafen eignet sich das Restaurant gut für eine Pause beim Spaziergang durch den Ort oder ein ruhiges Essen am Abend. Der Blick auf die Boote und das Meer macht den Aufenthalt besonders zum Sonnenuntergang reizvoll."
+    },
+    "bg": {
+      "name": "Cafe Pizza Restaurant Grill Kallirachi",
+      "shortDescription": "Спокоен ресторант край пристанището в Скала Каллирахис с гръцки ястия, скара, пица, морски дарове и кафе с изглед към морето.",
+      "description": "На крайбрежната алея на Скала Каллирахис, до малкото пристанище на западния бряг на Тасос, Cafe Pizza Restaurant Grill Kallirachi предлага приятно място за кафе, обяд или вечеря с гледка към морето. Масите на открито, сенчестите чадъри и палмите покрай крайбрежието създават непринудена атмосфера.\n\nМенюто като тип кухня съчетава гръцки и средиземноморски ястия, пица, гирос, месо на скара, риба и морски дарове. На предоставените снимки се виждат шишчета, гирос с картофи и дзадзики, калмари на скара и запечено ястие с разтопено сирене. Снимките са илюстративни и не представляват потвърдено актуално меню.\n\nБлизостта до пристанището прави ресторанта удобна спирка при разходка из селото или за спокойна вечеря край водата. Гледката към лодките и залеза допълва атмосферата."
+    },
+    "sr": {
+      "name": "Cafe Pizza Restaurant Grill Kallirachi",
+      "shortDescription": "Opušten restoran na šetalištu uz luku u Skala Kalirahisu, sa grčkim jelima, roštiljem, picom, morskim plodovima i pogledom na more.",
+      "description": "Na šetalištu uz more u mestu Skala Kalirahi, pored male luke na zapadnoj obali Tasosa, Cafe Pizza Restaurant Grill Kallirachi prijatno je mesto za kafu, ručak ili večeru sa pogledom na more. Stolovi na otvorenom, suncobrani i palme duž obale stvaraju opuštenu atmosferu.\n\nPonuda objedinjuje grčka i mediteranska jela, picu, giros, meso sa roštilja, ribu i morske plodove. Na dostavljenim fotografijama vide se ražnjići, giros sa pomfritom i cacikijem, lignje sa roštilja i zapečeno jelo sa topljenim sirom. Fotografije su ilustrativne i ne predstavljaju potvrđen dnevni meni.\n\nPoložaj pored luke čini restoran pogodnim za predah tokom obilaska mesta ili mirnu večeru na obali. Pogled na brodove i more posebno prija pred zalazak sunca."
+    }
+  },
+  "title": {
+    "ro": "Cafe Pizza Restaurant Grill Kallirachi",
+    "en": "Cafe Pizza Restaurant Grill Kallirachi",
+    "el": "Cafe Pizza Restaurant Grill Kallirachi",
+    "de": "Cafe Pizza Restaurant Grill Kallirachi",
+    "bg": "Cafe Pizza Restaurant Grill Kallirachi",
+    "sr": "Cafe Pizza Restaurant Grill Kallirachi"
+  },
+  "shortDescription": {
+    "ro": "Restaurant cu terasă pe promenada portului din Skala Kallirachis, unde poți savura preparate grecești, grill, pizza, fructe de mare și cafea cu vedere la mare.",
+    "en": "Relaxed harbourfront restaurant in Skala Kallirachis serving Greek favourites, grilled dishes, pizza, seafood and coffee beside the sea.",
+    "el": "Χαλαρό εστιατόριο στον παραλιακό δρόμο της Σκάλας Καλλιράχης, με ελληνικές γεύσεις, ψητά, πίτσα, θαλασσινά και καφέ δίπλα στη θάλασσα.",
+    "de": "Entspanntes Restaurant an der Hafenpromenade von Skala Kallirachis mit griechischen Gerichten, Grill, Pizza, Meeresfrüchten und Meerblick.",
+    "bg": "Спокоен ресторант край пристанището в Скала Каллирахис с гръцки ястия, скара, пица, морски дарове и кафе с изглед към морето.",
+    "sr": "Opušten restoran na šetalištu uz luku u Skala Kalirahisu, sa grčkim jelima, roštiljem, picom, morskim plodovima i pogledom na more."
+  },
+  "description": {
+    "ro": "Pe promenada din Skala Kallirachis, lângă micul port de pe coasta vestică a insulei Thassos, Cafe Pizza Restaurant Grill Kallirachi este un loc relaxat pentru o oprire la cafea sau o masă cu vedere spre mare. Terasa amenajată de-a lungul falezei, cu mese la umbră și palmieri în apropiere, invită la momente fără grabă, de la dimineață până seara.\n\nBucătăria reunește preparate grecești și mediteraneene, pizza, gyros, carne la grătar, pește și fructe de mare. Fotografiile primite surprind frigărui, gyros cu cartofi și tzatziki, calamar la grătar și un preparat rumenit la cuptor cu brânză topită. Aceste imagini ilustrează experiența culinară, fără să reprezinte un meniu actualizat sau să garanteze disponibilitatea preparatelor în fiecare zi.\n\nPoziția lângă port face restaurantul potrivit pentru o pauză în timpul explorării satului, o cină liniștită sau o oprire în apropierea apusului. Priveliștea ambarcațiunilor și atmosfera simplă a promenadei completează experiența unei seri pe malul mării în Thassos.",
+    "en": "Along the waterfront promenade in Skala Kallirachis, beside a small harbour on the western coast of Thassos, Cafe Pizza Restaurant Grill Kallirachi is an easy-going place for coffee, a casual lunch or a sea-view dinner. Its shaded outdoor tables sit along the promenade, with palm trees, fishing boats and the Aegean adding to the atmosphere.\n\nThe varied dining experience brings together Greek and Mediterranean favourites, pizza, gyros, grilled meats, fish and seafood. The supplied photographs feature grilled skewers, gyros with fries and tzatziki, grilled calamari and an oven-baked cheese-topped dish. They are illustrations of the dining experience, not a verified daily menu or a promise of availability.\n\nWith the harbour just across the road, it is a convenient stop while exploring Skala Kallirachis or enjoying a relaxed evening on the waterfront. The views over the boats and the warm light of the western coast make this a pleasant setting for a leisurely meal.",
+    "el": "Στον παραλιακό πεζόδρομο της Σκάλας Καλλιράχης, κοντά στο μικρό λιμάνι της δυτικής Θάσου, το Cafe Pizza Restaurant Grill Kallirachi είναι μια ευχάριστη επιλογή για καφέ, μεσημεριανό ή δείπνο με θέα στη θάλασσα. Τα τραπέζια στον εξωτερικό χώρο, η σκιά από τις ομπρέλες και οι φοίνικες της παραλίας δημιουργούν μια χαλαρή ατμόσφαιρα.\n\nΟι γαστρονομικές επιλογές περιλαμβάνουν ελληνικές και μεσογειακές γεύσεις, πίτσα, γύρο, ψητά κρέατα, ψάρια και θαλασσινά. Στις φωτογραφίες που δόθηκαν φαίνονται σουβλάκια, γύρος με πατάτες και τζατζίκι, καλαμάρι σχάρας και ένα φαγητό φούρνου με λιωμένο τυρί. Οι εικόνες είναι ενδεικτικές και δεν αποτελούν επιβεβαιωμένο καθημερινό κατάλογο.\n\nΗ τοποθεσία κοντά στο λιμάνι είναι ιδανική για μια στάση κατά την περιήγηση στο χωριό ή για ένα ήρεμο γεύμα προς το ηλιοβασίλεμα. Η θέα στα σκάφη και στον θαλάσσιο ορίζοντα συμπληρώνει την εμπειρία.",
+    "de": "An der Uferpromenade von Skala Kallirachis, direkt beim kleinen Hafen an der Westküste von Thassos, lädt das Cafe Pizza Restaurant Grill Kallirachi zu einem Kaffee, einem ungezwungenen Mittagessen oder einem Abendessen mit Meerblick ein. Die schattigen Tische im Außenbereich und die Palmen an der Promenade sorgen für eine entspannte Atmosphäre.\n\nDie Küche bietet eine Mischung aus griechischen und mediterranen Gerichten, Pizza, Gyros, Fleisch vom Grill, Fisch und Meeresfrüchten. Auf den bereitgestellten Bildern sind unter anderem Grillspieße, Gyros mit Pommes und Tzatziki, gegrillter Tintenfisch sowie ein überbackenes Gericht mit Käse zu sehen. Die Fotos vermitteln einen Eindruck vom Essen, stellen aber keine bestätigte aktuelle Speisekarte dar.\n\nDank der Lage am Hafen eignet sich das Restaurant gut für eine Pause beim Spaziergang durch den Ort oder ein ruhiges Essen am Abend. Der Blick auf die Boote und das Meer macht den Aufenthalt besonders zum Sonnenuntergang reizvoll.",
+    "bg": "На крайбрежната алея на Скала Каллирахис, до малкото пристанище на западния бряг на Тасос, Cafe Pizza Restaurant Grill Kallirachi предлага приятно място за кафе, обяд или вечеря с гледка към морето. Масите на открито, сенчестите чадъри и палмите покрай крайбрежието създават непринудена атмосфера.\n\nМенюто като тип кухня съчетава гръцки и средиземноморски ястия, пица, гирос, месо на скара, риба и морски дарове. На предоставените снимки се виждат шишчета, гирос с картофи и дзадзики, калмари на скара и запечено ястие с разтопено сирене. Снимките са илюстративни и не представляват потвърдено актуално меню.\n\nБлизостта до пристанището прави ресторанта удобна спирка при разходка из селото или за спокойна вечеря край водата. Гледката към лодките и залеза допълва атмосферата.",
+    "sr": "Na šetalištu uz more u mestu Skala Kalirahi, pored male luke na zapadnoj obali Tasosa, Cafe Pizza Restaurant Grill Kallirachi prijatno je mesto za kafu, ručak ili večeru sa pogledom na more. Stolovi na otvorenom, suncobrani i palme duž obale stvaraju opuštenu atmosferu.\n\nPonuda objedinjuje grčka i mediteranska jela, picu, giros, meso sa roštilja, ribu i morske plodove. Na dostavljenim fotografijama vide se ražnjići, giros sa pomfritom i cacikijem, lignje sa roštilja i zapečeno jelo sa topljenim sirom. Fotografije su ilustrativne i ne predstavljaju potvrđen dnevni meni.\n\nPoložaj pored luke čini restoran pogodnim za predah tokom obilaska mesta ili mirnu večeru na obali. Pogled na brodove i more posebno prija pred zalazak sunca."
+  },
+  "cuisine": [
+    "greek",
+    "mediterranean",
+    "pizza",
+    "grill",
+    "seafood"
+  ],
+  "cuisineTypes": [
+    "Greek",
+    "Mediterranean",
+    "Pizza",
+    "Grill",
+    "Seafood",
+    "Café"
+  ],
+  "location": {
+    "country": "Greece",
+    "island": "Thassos",
+    "locality": "Skala Kallirachis",
+    "area": "Harbour promenade",
+    "address": "Thassos, Skala Kallirachis 640 10, Greece",
+    "latitude": 40.70871652635093,
+    "longitude": 24.53403846367154
+  },
+  "address": "Thassos, Skala Kallirachis 640 10, Greece",
+  "displayAddress": "Skala Kallirachis, Thassos, Greece",
+  "coordinates": {
+    "lat": 40.70871652635093,
+    "lng": 24.53403846367154
+  },
+  "phone": "+30 2593 091596",
+  "links": {
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=40.70871652635093%2C24.53403846367154",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "booking": null,
+    "phone": "tel:+302593091596"
+  },
+  "google": {
+    "rating": null,
+    "reviewCount": null,
+    "capturedAt": "2026-11-13",
+    "source": "user_provided_listing",
+    "userReportedReviewCount": 471,
+    "showReviewCount": false,
+    "liveUpdate": false,
+    "showIndividualReviews": false
+  },
+  "rating": null,
+  "ratingSource": "not_displayed_publicly_due_to_conflicting_public_snapshots",
+  "price": {
+    "rangePerPersonEUR": [
+      10,
+      30
+    ],
+    "source": "user_provided_google_maps_snapshot",
+    "status": "indicative_unverified",
+    "showAsCurrent": false
+  },
+  "openingHours": {
+    "weekly": {
+      "monday": [
+        {
+          "open": "07:00",
+          "close": "00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "open": "07:00",
+          "close": "00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "open": "07:00",
+          "close": "00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "open": "07:00",
+          "close": "00:00"
+        }
+      ],
+      "friday": [
+        {
+          "open": "07:00",
+          "close": "00:00"
+        }
+      ],
+      "saturday": [
+        {
+          "open": "07:00",
+          "close": "00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "open": "07:00",
+          "close": "00:00"
+        }
+      ]
+    },
+    "source": "user_provided_google_maps_snapshot",
+    "status": "reported_unverified_seasonal",
+    "confirmedCurrent": false,
+    "showOpenNow": false,
+    "timezone": "Europe/Athens"
+  },
+  "serviceOptions": [
+    "outdoor_seating",
+    "delivery_reported",
+    "takeaway_reported",
+    "dine_in"
+  ],
+  "highlights": [
+    "coffee",
+    "desserts",
+    "beer_selection_reported"
+  ],
+  "popularFor": [
+    "breakfast",
+    "brunch",
+    "lunch",
+    "dinner",
+    "solo_dining"
+  ],
+  "offerings": [
+    "coffee",
+    "cocktails",
+    "alcohol",
+    "beer",
+    "wine",
+    "grilled_food",
+    "pizza",
+    "seafood",
+    "late_night_food_reported"
+  ],
+  "diningOptions": [
+    "breakfast",
+    "brunch",
+    "lunch",
+    "dinner",
+    "dessert",
+    "seating",
+    "table_service"
+  ],
+  "amenities": [
+    "bar_on_site",
+    "toilet"
+  ],
+  "atmosphere": [
+    "casual",
+    "cosy",
+    "relaxed",
+    "quiet_reported"
+  ],
+  "crowd": [
+    "groups",
+    "tourists",
+    "families"
+  ],
+  "planning": [
+    "accepts_reservations_reported"
+  ],
+  "payments": [
+    "credit_cards",
+    "debit_cards",
+    "nfc_mobile_payments"
+  ],
+  "children": [
+    "good_for_kids"
+  ],
+  "parking": [
+    "free_street_parking_reported",
+    "free_parking_lot_reported"
+  ],
+  "accessibility": {
+    "reported": [
+      "wheelchair_accessible_car_park",
+      "wheelchair_accessible_entrance",
+      "wheelchair_accessible_seating"
+    ],
+    "confirmedByOwner": false
+  },
+  "pets": [
+    "dogs_allowed_reported"
+  ],
+  "features": [
+    "harbourfront",
+    "outdoor_terrace",
+    "sea_views",
+    "near_skala_kallirachis_harbour",
+    "greek_cuisine",
+    "pizza",
+    "gyros",
+    "grill",
+    "seafood",
+    "coffee"
+  ],
+  "heroImage": "images/Terasa Kallirachi pe promenada marină.webp",
+  "image": "images/Terasa Kallirachi pe promenada marină.webp",
+  "images": [
+    "images/Terasa Kallirachi pe promenada marină.webp",
+    "images/Palmieri pe promenada de coastă.webp",
+    "images/Promenadă însorită cu palmieri și mare.webp",
+    "images/Cafenea pe promenada mării.webp",
+    "images/Ambarcațiuni luxoase în portul albastru.webp",
+    "images/Frigărui cu cartofi, orez și legume.webp",
+    "images/Calamar la grătar cu cartofi și salată.webp",
+    "images/Gyros grecesc cu tzatziki și cartofi.webp",
+    "images/Gyros cu cartofi, tzatziki și legume.webp",
+    "images/Budincă aurie cu brânză topită pe masă rustică.webp"
+  ],
+  "galleryImages": [
+    "images/Terasa Kallirachi pe promenada marină.webp",
+    "images/Palmieri pe promenada de coastă.webp",
+    "images/Promenadă însorită cu palmieri și mare.webp",
+    "images/Cafenea pe promenada mării.webp",
+    "images/Ambarcațiuni luxoase în portul albastru.webp",
+    "images/Frigărui cu cartofi, orez și legume.webp",
+    "images/Calamar la grătar cu cartofi și salată.webp",
+    "images/Gyros grecesc cu tzatziki și cartofi.webp",
+    "images/Gyros cu cartofi, tzatziki și legume.webp",
+    "images/Budincă aurie cu brânză topită pe masă rustică.webp"
+  ],
+  "menuImages": [],
+  "menuFile": "menu.json",
+  "menus": {
+    "current": null,
+    "documentation": {
+      "file": "menu.json",
+      "source": "not_provided",
+      "showPricesPublicly": false
+    }
+  },
+  "reviews": {
+    "displayIndividualReviews": false,
+    "sourceRatingOnly": false,
+    "individualReviewTextsStored": false
+  },
+  "status": {
+    "content": "prepared_from_user_supplied_data",
+    "photoProvenance": "user_supplied",
+    "photos": "awaiting_user_webp_files",
+    "menu": "not_provided",
+    "hours": "reported_unverified",
+    "published": false,
+    "featured": false,
+    "active": false
+  },
+  "partner": false,
+  "featured": false,
+  "active": false,
+  "lastPrepared": "2026-11-13",
+  "seo": {
+    "ro": {
+      "title": "Cafe Pizza Restaurant Grill Kallirachi | Skala Kallirachis, Thassos",
+      "description": "Restaurant pe promenada portului din Skala Kallirachis, Thassos, cu pizza, gyros, grill, fructe de mare și terasă cu vedere la mare."
+    },
+    "en": {
+      "title": "Cafe Pizza Restaurant Grill Kallirachi | Skala Kallirachis, Thassos",
+      "description": "Harbourfront café and restaurant in Skala Kallirachis, Thassos, with pizza, gyros, grilled dishes, seafood and outdoor sea-view dining."
+    },
+    "el": {
+      "title": "Cafe Pizza Restaurant Grill Kallirachi | Σκάλα Καλλιράχης, Θάσος",
+      "description": "Εστιατόριο δίπλα στο λιμάνι της Σκάλας Καλλιράχης με πίτσα, γύρο, ψητά, θαλασσινά και θέα στη θάλασσα."
+    },
+    "de": {
+      "title": "Cafe Pizza Restaurant Grill Kallirachi | Skala Kallirachis, Thassos",
+      "description": "Restaurant an der Hafenpromenade von Skala Kallirachis mit Pizza, Gyros, Grillgerichten, Meeresfrüchten und Meerblick."
+    },
+    "bg": {
+      "title": "Cafe Pizza Restaurant Grill Kallirachi | Скала Каллирахис, Тасос",
+      "description": "Ресторант до пристанището в Скала Каллирахис с пица, гирос, скара, морски дарове и крайбрежна тераса."
+    },
+    "sr": {
+      "title": "Cafe Pizza Restaurant Grill Kallirachi | Skala Kalirahi, Tasos",
+      "description": "Restoran uz luku u Skala Kalirahisu sa picom, girosom, roštiljem, morskim plodovima i terasom s pogledom na more."
+    }
+  },
+  "dataNotes": {
+    "beach": "No user-confirmed beach association; do not patch any beach JSON automatically.",
+    "ratings": "The user supplied a Google Maps snapshot with 471 reviews, while independent web sources show inconsistent counts and ratings. Public rating and review count intentionally null.",
+    "hours": "07:00–00:00 reported daily in the user snapshot, not guaranteed in off-season. No open-now display.",
+    "prices": "€10–30 is a general indicative range, not an official 2026 menu.",
+    "menu": "No menu images or product prices provided; food images are illustrative, not a list of menu items.",
+    "photo_files": "Only original base filenames (.png to .webp) referenced; files not bundled or modified."
+  }
+}

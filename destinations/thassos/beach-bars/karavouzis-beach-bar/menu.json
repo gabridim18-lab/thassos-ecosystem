@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "venue_slug": "karavouzis-beach-bar",
+  "venue_name": "Karavouzis Beach Bar / Canopy Beach Bar",
+  "menu_status": "no_menu_supplied",
+  "menu_items": [],
+  "prices": [],
+  "public_menu_enabled": false,
+  "public_price_display_enabled": false,
+  "indicative_offerings": [
+    "Coffee",
+    "Cocktails",
+    "Beer",
+    "Snacks",
+    "Casual seaside food"
+  ],
+  "message": {
+    "ro": "Meniul și prețurile nu sunt încă disponibile în baza noastră de date. Verifică oferta direct la bar.",
+    "en": "A verified menu and prices are not yet available in our database. Please check directly with the beach bar.",
+    "el": "Δεν υπάρχει ακόμη επιβεβαιωμένος κατάλογος με τιμές στη βάση μας. Επικοινωνήστε με το beach bar.",
+    "de": "Eine bestätigte Speisekarte mit Preisen liegt noch nicht vor. Bitte direkt beim Strandlokal nachfragen.",
+    "bg": "Все още няма потвърдено меню с цени. Проверете директно в бара.",
+    "sr": "Potvrđen meni sa cenama još nije dostupan. Proverite direktno u baru."
+  },
+  "official_external_menu_url": null,
+  "official_external_menu_note": "Official site has a menu link but it is not imported or treated as confirmed complete; no items invented."
+}

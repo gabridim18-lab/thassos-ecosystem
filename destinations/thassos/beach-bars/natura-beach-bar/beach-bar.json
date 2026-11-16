@@ -1,0 +1,172 @@
+{
+  "schema_version": "thassos-business-v1",
+  "id": "gr-thassos-beach-bar-natura-beach-bar",
+  "slug": "natura-beach-bar",
+  "type": "beach_bar",
+  "category": "beach-bars",
+  "subcategory": "beach_bar",
+  "destination": "thassos",
+  "region": "Skala Prinos / Ormos Prinou",
+  "beachSlug": "dasilio",
+  "nearbyBeachSlugs": [
+    "ilio-mare"
+  ],
+  "beach_link_note": "Primary association uses existing Dasilio beach record; Ilio Mare is nearer as a map feature (~450 m to its mapped point). These are not claims of private beach ownership.",
+  "name": "Natura Beach Bar",
+  "display_name": "Natura Beach Bar",
+  "languages": [
+    "ro",
+    "en",
+    "el",
+    "de",
+    "bg",
+    "sr"
+  ],
+  "default_language": "en",
+  "translations": {
+    "en": {
+      "name": "Natura Beach Bar",
+      "tagline": "From sunny beach days to memorable sunsets",
+      "short": "A relaxed beach bar on the western coast of Thassos, with sunbeds, Greek summer flavors, coffee, cocktails and sunset views.",
+      "description": "Spend a beach day by the Aegean at Natura Beach Bar, near Skala Prinos. Enjoy a drink beneath the straw parasols, choose from casual dishes, and linger into the golden evening. The surrounding greenery and open sea make this a welcoming stop for couples, families and groups."
+    },
+    "ro": {
+      "name": "Natura Beach Bar",
+      "tagline": "De la zile însorite pe plajă la apusuri memorabile",
+      "short": "Beach bar relaxant pe coasta vestică a insulei Thassos, cu șezlonguri, preparate pentru zile de vară, cafea, cocktailuri și priveliști la apus.",
+      "description": "Petrece o zi pe malul Mării Egee la Natura Beach Bar, în apropiere de Skala Prinos. Savurează o băutură sub umbrelele de paie, alege preparate lejere și bucură-te de lumina caldă a serii. Verdeața și marea deschisă creează un loc plăcut pentru cupluri, familii și grupuri."
+    },
+    "el": {
+      "name": "Natura Beach Bar",
+      "tagline": "Από τις ηλιόλουστες μέρες στην παραλία στα αξέχαστα ηλιοβασιλέματα",
+      "short": "Χαλαρό beach bar στη δυτική ακτή της Θάσου, με ξαπλώστρες, καφέ, κοκτέιλ, φαγητό και όμορφα ηλιοβασιλέματα.",
+      "description": "Απολαύστε μια μέρα δίπλα στο Αιγαίο στο Natura Beach Bar, κοντά στη Σκάλα Πρίνου. Καθίστε κάτω από τις ψάθινες ομπρέλες, δοκιμάστε χαλαρές γεύσεις και μείνετε ως το ηλιοβασίλεμα."
+    },
+    "de": {
+      "name": "Natura Beach Bar",
+      "tagline": "Sonnige Strandtage und unvergessliche Sonnenuntergänge",
+      "short": "Entspannte Strandbar an der Westküste von Thassos mit Liegen, Kaffee, Cocktails, kleinen Gerichten und Sonnenuntergangsblick.",
+      "description": "Genießen Sie einen Tag am Ägäischen Meer in der Natura Beach Bar nahe Skala Prinos. Entspannen Sie unter Strohdächern, probieren Sie unkomplizierte Gerichte und bleiben Sie bis zum Sonnenuntergang."
+    },
+    "bg": {
+      "name": "Natura Beach Bar",
+      "tagline": "Слънчеви дни на плажа и незабравими залези",
+      "short": "Спокоен плажен бар на западния бряг на Тасос с шезлонги, кафе, коктейли, храна и гледки към залеза.",
+      "description": "Прекарайте ден край Егейско море в Natura Beach Bar, близо до Скала Принос. Отпуснете се под сламените чадъри, опитайте леки ястия и останете за красивия залез."
+    },
+    "sr": {
+      "name": "Natura Beach Bar",
+      "tagline": "Sunčani dani na plaži i nezaboravni zalasci sunca",
+      "short": "Opušten bar na plaži na zapadnoj obali Tasosa, sa ležaljkama, kafom, koktelima, hranom i pogledom na zalazak sunca.",
+      "description": "Provedite dan uz Egejsko more u Natura Beach Baru, blizu Skale Prinos. Odmorite se pod slamnatim suncobranima, uživajte u laganim jelima i ostanite do zalaska sunca."
+    }
+  },
+  "location": {
+    "address": "Σκάλα, Ormos Prinou - Thasos, Limenas Thassos 640 04, Greece",
+    "latitude": 40.75104,
+    "longitude": 24.56234,
+    "coordinate_source": "OpenStreetMap via Mapcarta, approximate public POI coordinate; verify before publishing exact pin",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.75104%2C24.56234"
+  },
+  "contact": {
+    "phone_display": "+30 694 851 0043",
+    "phone_e164": "+306948510043",
+    "website": "https://www.naturabeachbar.com/",
+    "email": "info@naturabeachbar.com"
+  },
+  "business_hours": {
+    "reported_by_user": {
+      "monday": "09:00-02:00",
+      "tuesday": "09:00-02:00",
+      "wednesday": "09:00-02:00",
+      "thursday": "09:00-02:00",
+      "friday": "09:00-02:00",
+      "saturday": "09:00-02:00",
+      "sunday": "09:00-02:00"
+    },
+    "status": "seasonal_not_live_verified",
+    "timezone": "Europe/Athens"
+  },
+  "price_range_eur_per_person": {
+    "min": 5,
+    "max": 25,
+    "source": "user-provided business listing (indicative only)"
+  },
+  "features": [
+    "sunbeds",
+    "straw_parasols",
+    "beachfront",
+    "outdoor_seating",
+    "coffee",
+    "cocktails",
+    "casual_food",
+    "sunset_views",
+    "parking_nearby",
+    "music_events"
+  ],
+  "highlighted_menu_categories": [
+    "coffee",
+    "soft-drinks",
+    "cocktails",
+    "burgers",
+    "pizza",
+    "club-sandwich-snacks",
+    "salads",
+    "desserts"
+  ],
+  "sunbed_usage_policy": {
+    "claim": "Visitors have described the use of sunbeds with bar purchases and no minimum spend.",
+    "status": "review_based_unverified",
+    "show_as_guarantee": false
+  },
+  "media": {
+    "cover": "images/Natura Beach Bar pe nisipul auriu.webp",
+    "gallery": [
+      "images/Cocktail tropical pe plajă însorită.webp",
+      "images/Pui crocanți, cartofi și ceai verde cu lămâie.webp",
+      "images/Plajă mediteraneană cu umbrele de paie(2).webp",
+      "images/Prânz la Natura Beach Bar.webp",
+      "images/Natura Beach Bar pe nisipul auriu.webp",
+      "images/Plajă tropicală cu cabane de paie.webp",
+      "images/Bar tropical cu tavan din viniluri.webp",
+      "images/Lounge rustic la Natura Beach Bar.webp",
+      "images/Pizza mediteraneană pe masă roșie.webp",
+      "images/Burger și cartofi cu brânză topită.webp",
+      "images/Pepene verde cu iaurt, miere și nuci.webp",
+      "images/Sandviș club cu cartofi crocanți.webp",
+      "images/Vafă cu înghețată și ciocolată.webp",
+      "images/Cocktailuri la apus, pe masa rustică.webp"
+    ],
+    "expected_folder": "images/",
+    "images_included": false
+  },
+  "menu": {
+    "file": "menu.json",
+    "year": 2026,
+    "status": "transcribed_from_user_supplied_menu_photos",
+    "online_ordering_enabled": false
+  },
+  "booking": {
+    "reservations_via_ecosystem_enabled": false,
+    "sunbed_ordering_enabled": false,
+    "payment_enabled": false
+  },
+  "seo": {
+    "slug": "natura-beach-bar",
+    "keywords": [
+      "Natura Beach Bar",
+      "Dasilio",
+      "Skala Prinos",
+      "Thassos",
+      "beach bar",
+      "sunset",
+      "cocktails"
+    ]
+  },
+  "sources": [
+    "https://naturabeachbar.com/en/homepage-Natura-beach-bar",
+    "https://mapcarta.com/N12075940669",
+    "https://www.tripadvisor.co.uk/Restaurant_Review-g1788353-d10287658-Reviews-Natura_each_ar-Skala_Prinou_Thasos_Northeast_Aegean_Islands.html"
+  ],
+  "content_status": "prepared_not_published"
+}

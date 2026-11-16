@@ -1,0 +1,24 @@
+{
+  "restaurantId": "cafe-pizza-restaurant-grill-kallirachi",
+  "restaurantName": "Cafe Pizza Restaurant Grill Kallirachi",
+  "status": "not_provided",
+  "currentMenuAvailable": false,
+  "pricesConfirmed": false,
+  "publicMenuEnabled": false,
+  "publicPricesEnabled": false,
+  "currency": "EUR",
+  "sections": [],
+  "products": [],
+  "photoExamplesNotVerifiedMenu": [
+    "grilled skewers",
+    "grilled calamari",
+    "gyros",
+    "baked cheese-topped dish"
+  ],
+  "notes": "User provided restaurant and food photographs, but not a menu. Do not infer products, availability, allergens, ingredients, item prices or ordering options from photographs.",
+  "ordering": {
+    "enabled": false,
+    "ordersOnSunbeds": false,
+    "onlinePayments": false
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-bar-calma",
+  "slug": "calma-beach-bar",
+  "record_type": "beach_bar",
+  "destination_id": "gr-thassos",
+  "category": "beach-bars",
+  "subcategory": "beach-bar-and-restaurant",
+  "area_slug": "skala-prinos",
+  "area_id": "gr-thassos-area-skala-prinos",
+  "beachSlug": "dasilio",
+  "nearby_beach_slugs": [
+    "dasilio"
+  ],
+  "primary_beach": {
+    "slug": "dasilio",
+    "id": "gr-thassos-beach-dasilio",
+    "name": "Dasilio Beach",
+    "path": "destinations/thassos/beaches/dasilio/beach.json",
+    "lat": 40.7609,
+    "lng": 24.56864,
+    "distance_m_straight_line_approx": 69,
+    "relation": "beachfront section within the wider Dasilio beach corridor",
+    "beach_boundary_note": "Pin is representative of a long beach; not necessarily the preferred access point."
+  },
+  "identity": {
+    "display_name": "Calma Beach Bar & Restaurant",
+    "official_website_brand": "Calma Beach Bar",
+    "google_listing_name": "Calma Beach Bar & Restaurant",
+    "aliases": [
+      "Calma Beach Bar",
+      "Calma Thassos",
+      "Calma Skala Prinos"
+    ]
+  },
+  "location": {
+    "address": "Σκάλα, Ormos Prinou - Thasos, Σκάλα Πρίνου 640 10, Greece",
+    "lat": 40.76087653785092,
+    "lng": 24.569454413578047,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.76087653785092%2C24.569454413578047",
+    "geo_type": "user_supplied_business_pin"
+  },
+  "contact": {
+    "phone_display": "+30 698 720 5562",
+    "phone_e164": "+306987205562",
+    "website": "https://calmabeachbar.com/",
+    "official_menu_url": "https://calmabeachbar.com/m/",
+    "email": "info@calmabeachbar.com"
+  },
+  "operation": {
+    "user_google_listing_status": "temporarily closed",
+    "google_status_snapshot_date": "2026-11-04",
+    "likely_seasonal": true,
+    "current_opening_status_verified": false,
+    "public_open_now_claim": false,
+    "opening_hours_verified": false,
+    "menu_section_times_do_not_equal_venue_hours": true
+  },
+  "price_reference": {
+    "google_band": "€15–35 per person",
+    "google_band_reported_by": 93,
+    "indicative_only": true,
+    "source": "user Google Maps copy",
+    "price_policy_last_owner_confirmed": null
+  },
+  "reviews": {
+    "google_count_snapshot": 385,
+    "google_rating": null,
+    "individual_reviews_public": false,
+    "live_sync": false
+  },
+  "facilities_reported": {
+    "beachfront": true,
+    "sunbeds": true,
+    "straw_umbrellas": true,
+    "cabanas": true,
+    "outdoor_seating": true,
+    "garden_lounges": true,
+    "wifi": true,
+    "playground": true,
+    "kids_menu": true,
+    "high_chairs": true,
+    "accessible_parking": true,
+    "accessible_entrance": true,
+    "accessible_seating": true,
+    "accessible_toilet": true,
+    "toilet": true,
+    "parking": true,
+    "dogs_allowed": true,
+    "takeaway": true,
+    "dine_in": true,
+    "delivery_claim_from_google": true,
+    "reservations_accepted": true,
+    "payments": [
+      "cash-not-confirmed",
+      "credit-card",
+      "debit-card",
+      "nfc"
+    ],
+    "accessibility_validation_note": "Reported in Google user-provided listing; verify exact accessible facilities on-site."
+  },
+  "beach_conditions": {
+    "surface": "sand with pebbly/rocky sections",
+    "water_entry_stones_possible": true,
+    "water_shoes_helpful": true,
+    "source": "visitor observations; varies by shoreline section"
+  },
+  "sunbeds": {
+    "available": true,
+    "pricing_model": "minimum-consumption-reported-not-verified",
+    "unverified_review_examples_eur": [
+      25,
+      40,
+      50
+    ],
+    "exact_charge_publicly_confirmed": false,
+    "note": "Reports conflict by row, cabana and season. Never promise free sunbeds or fixed minimum without operator confirmation."
+  },
+  "services": {
+    "food": true,
+    "drinks": true,
+    "cocktails": true,
+    "sup_rental_listed_in_official_menu": true
+  },
+  "menu": {
+    "file": "menu.json",
+    "menu_source_url": "https://calmabeachbar.com/m/",
+    "data_extracted_at": "2026-11-04",
+    "product_count": 222,
+    "preorder_enabled": false,
+    "menu_is_live_source_snapshot_not_official_inventory": true
+  },
+  "media": {
+    "cover": "images/Plajă tropicală cu șezlonguri goale.webp",
+    "gallery": [
+      "images/Plajă tropicală cu șezlonguri goale.webp",
+      "images/Plajă turcoaz cu munți în depărtare.webp",
+      "images/Pizza cu brânză pe blat metalic.webp",
+      "images/Oază de plajă cu pergolă și iarbă verdemânt.webp",
+      "images/Desert cu Profiterol și Ciocolată Albă.webp",
+      "images/Burger artizanal cu cartofi prăjiți pe tavă.webp",
+      "images/Martini espresso pe plajă însorită.webp",
+      "images/Cabana tropicală de pe plajă.webp",
+      "images/Grădină boho la barul de plajă.webp",
+      "images/Intrarea rustică a restaurantului Calma.webp",
+      "images/Oază de relaxare pe plajă.webp"
+    ],
+    "images_folder": "images/",
+    "awaiting_user_photos": true,
+    "expected_webp_images": 11,
+    "source_images_included_in_package": false
+  },
+  "nearby_businesses": [
+    {
+      "slug": "karavouzis-beach-bar",
+      "name": "Canopy Beach Bar / Karavouzis Beach Bar",
+      "category": "beach-bars",
+      "distance_m_straight_line_approx": 59,
+      "proximity_only_not_same_beach_assignment": true
+    },
+    {
+      "slug": "pinch-of-salt",
+      "name": "Pinch of Salt",
+      "category": "restaurants",
+      "distance_m_straight_line_approx": 496,
+      "proximity_only_not_same_beach_assignment": true
+    },
+    {
+      "slug": "oasis-grill-restaurant",
+      "name": "Oasis Grill Restaurant",
+      "category": "restaurants",
+      "distance_m_straight_line_approx": 568,
+      "proximity_only_not_same_beach_assignment": true
+    },
+    {
+      "slug": "cat-dive-center",
+      "name": "CAT Dive Center",
+      "category": "services",
+      "distance_m_straight_line_approx": 784,
+      "proximity_only_not_same_beach_assignment": true
+    }
+  ],
+  "i18n": {
+    "ro": {
+      "name": "Calma Beach Bar & Restaurant",
+      "tagline": "Relaxare la malul mării, în umbra pinilor de la Dasilio",
+      "summary": "Pe litoralul din Skala Prinos, Calma îmbină șezlonguri confortabile, zone de relaxare și un meniu amplu de cafea, cocktailuri și preparate mediteraneene.",
+      "description": "Calma Beach Bar & Restaurant oferă o experiență relaxată pe plaja Dasilio, în zona Skala Prinos. Umbrelele din stuf, cabanelele de plajă, șezlongurile și spațiile umbrite de pini creează un cadru potrivit pentru o zi la mare. Meniul publicat de local include mic dejun, salate, burgeri, preparate grecești, pește, deserturi, cafele și cocktailuri. Există și activități SUP în meniul oficial. Vizitatorii pot petrece aici câteva ore pe nisip sau se pot opri pentru o masă în zona de restaurant. În unele sectoare intrarea în apă are pietre, astfel că încălțămintea de apă poate fi utilă. Condițiile pentru șezlonguri, programul și disponibilitatea serviciilor se confirmă înainte de vizită."
+    },
+    "en": {
+      "name": "Calma Beach Bar & Restaurant",
+      "tagline": "Easygoing beachfront days beneath the pines at Dasilio",
+      "summary": "On the Skala Prinos shoreline, Calma pairs comfortable loungers and shaded beach spaces with a wide selection of Mediterranean food, coffee and cocktails.",
+      "description": "Calma Beach Bar & Restaurant is a relaxed seaside spot on the Dasilio shoreline near Skala Prinos. Thatched umbrellas, beach cabanas, sun loungers and pine-fringed corners provide room to unwind. Its published menu spans breakfast, salads, burgers, Greek dishes, fish, desserts, coffees and cocktails, with SUP rental also listed. Guests can settle in for a beach day or enjoy a meal at the restaurant area. Some stretches have stones at the water entry, so water shoes may be helpful. Check current opening dates, sunbed conditions and service availability with the venue."
+    },
+    "el": {
+      "name": "Calma Beach Bar & Restaurant",
+      "tagline": "Χαλάρωση δίπλα στη θάλασσα, κάτω από τα πεύκα στο Δασύλλιο",
+      "summary": "Στην ακτή της Σκάλας Πρίνου, το Calma συνδυάζει ξαπλώστρες και σκιερούς χώρους με μεσογειακές γεύσεις, καφέ και κοκτέιλ.",
+      "description": "Το Calma Beach Bar & Restaurant βρίσκεται στην παραλιακή ζώνη Δασυλλίου, κοντά στη Σκάλα Πρίνου. Ψάθινες ομπρέλες, ξαπλώστρες, καμπάνες και πεύκα δημιουργούν ένα ήρεμο καλοκαιρινό σκηνικό. Το δημοσιευμένο μενού περιλαμβάνει πρωινό, σαλάτες, μπέργκερ, ελληνικά πιάτα, ψάρια, γλυκά, καφέδες και κοκτέιλ, καθώς και ενοικίαση SUP. Σε ορισμένα σημεία η είσοδος στη θάλασσα έχει πέτρες. Επιβεβαιώστε τις ώρες λειτουργίας, τους όρους για τις ξαπλώστρες και τη διαθεσιμότητα πριν την επίσκεψη."
+    },
+    "de": {
+      "name": "Calma Beach Bar & Restaurant",
+      "tagline": "Entspannte Strandtage unter Pinien am Dasilio-Strand",
+      "summary": "An der Küste von Skala Prinos verbindet Calma bequeme Liegen und schattige Plätze mit mediterranen Speisen, Kaffee und Cocktails.",
+      "description": "Calma Beach Bar & Restaurant liegt am Dasilio-Strand bei Skala Prinos. Schilfschirme, Strand-Cabanas, Liegen und Pinien sorgen für eine entspannte Atmosphäre. Die veröffentlichte Speisekarte umfasst Frühstück, Salate, Burger, griechische Gerichte, Fisch, Desserts, Kaffee und Cocktails; auch SUP-Verleih wird aufgeführt. Stellenweise ist der Einstieg ins Meer steinig, daher können Badeschuhe hilfreich sein. Öffnungszeiten, Liegenregelungen und Verfügbarkeit bitte vor Ort bestätigen."
+    },
+    "bg": {
+      "name": "Calma Beach Bar & Restaurant",
+      "tagline": "Спокойни плажни дни под боровете на Дасилио",
+      "summary": "На брега край Скала Принос Calma предлага удобни шезлонги, сенчести кътчета, средиземноморска кухня, кафе и коктейли.",
+      "description": "Calma Beach Bar & Restaurant се намира на плажа Дасилио, близо до Скала Принос. Сламени чадъри, плажни кабани, шезлонги и борови дървета създават спокойна атмосфера. Публикуваното меню включва закуска, салати, бургери, гръцки ястия, риба, десерти, кафе и коктейли, както и SUP под наем. На някои места влизането в морето е каменисто, затова водните обувки могат да бъдат полезни. Проверете работното време, условията за шезлонгите и наличността на услугите преди посещение."
+    },
+    "sr": {
+      "name": "Calma Beach Bar & Restaurant",
+      "tagline": "Opušteni dani na plaži u hladovini borova na Dasiliju",
+      "summary": "Na obali kod Skale Prinos, Calma nudi udobne ležaljke, hladovinu, mediteransku hranu, kafu i koktele.",
+      "description": "Calma Beach Bar & Restaurant nalazi se na plaži Dasilio blizu Skale Prinos. Suncobrani od trske, kabane, ležaljke i borovi stvaraju prijatnu atmosferu za odmor. Objavljeni meni obuhvata doručak, salate, burgere, grčka jela, ribu, deserte, kafu i koktele, a naveden je i SUP za iznajmljivanje. Na pojedinim mestima ulazak u more je kamenit, pa obuća za vodu može biti korisna. Proverite radno vreme, uslove korišćenja ležaljki i dostupnost usluga pre dolaska."
+    }
+  },
+  "publication_status": "draft_pending_photos_operator_verification",
+  "ordering": {
+    "enabled": false,
+    "concept_spec_file": "ordering-concept.json",
+    "owner_approval_required": true
+  },
+  "last_prepared": "2026-11-04"
+}

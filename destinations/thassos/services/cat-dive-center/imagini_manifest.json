@@ -1,0 +1,117 @@
+{
+  "serviceId": "cat-dive-center",
+  "updatedAt": "2026-11-04",
+  "photos": [
+    {
+      "order": 1,
+      "file": "images/Patru scafandri în razele soarelui subacvatic.webp",
+      "originalFilename": "Patru scafandri în razele soarelui subacvatic.png",
+      "role": "hero",
+      "altEn": "Four scuba divers underwater in clear blue sea",
+      "width": 1529,
+      "height": 1029,
+      "format": "webp",
+      "source": "user_supplied",
+      "photographProvenance": "user_supplied_not_independently_verified",
+      "publicationPermission": "not_independently_verified"
+    },
+    {
+      "order": 2,
+      "file": "images/Scafandru în apele turcoaz.webp",
+      "originalFilename": "Scafandru în apele turcoaz.png",
+      "role": "diving",
+      "altEn": "Scuba diver swimming through turquoise Aegean waters",
+      "width": 1546,
+      "height": 1017,
+      "format": "webp",
+      "source": "user_supplied",
+      "photographProvenance": "user_supplied_not_independently_verified",
+      "publicationPermission": "not_independently_verified"
+    },
+    {
+      "order": 3,
+      "file": "images/Exploratori subacvatici în lumina turcoaz.webp",
+      "originalFilename": "Exploratori subacvatici în lumina turcoaz.png",
+      "role": "diving",
+      "altEn": "Two scuba divers exploring a sandy seabed",
+      "width": 1528,
+      "height": 1029,
+      "format": "webp",
+      "source": "user_supplied",
+      "photographProvenance": "user_supplied_not_independently_verified",
+      "publicationPermission": "not_independently_verified"
+    },
+    {
+      "order": 4,
+      "file": "images/Scafandru roșcat explorând reciful subacvatic.webp",
+      "originalFilename": "Scafandru roșcat explorând reciful subacvatic.png",
+      "role": "diving",
+      "altEn": "Diver observing an underwater rocky reef",
+      "width": 1448,
+      "height": 1086,
+      "format": "webp",
+      "source": "user_supplied",
+      "photographProvenance": "user_supplied_not_independently_verified",
+      "publicationPermission": "not_independently_verified"
+    },
+    {
+      "order": 5,
+      "file": "images/Scafandru hrănind pești tropicali.webp",
+      "originalFilename": "Scafandru hrănind pești tropicali.png",
+      "role": "marine-life",
+      "altEn": "Diver surrounded by colourful small fish underwater",
+      "width": 1530,
+      "height": 1028,
+      "format": "webp",
+      "source": "user_supplied",
+      "photographProvenance": "user_supplied_not_independently_verified",
+      "publicationPermission": "not_independently_verified"
+    },
+    {
+      "order": 6,
+      "file": "images/Magazinul de scufundări CAT Center.webp",
+      "originalFilename": "Magazinul de scufundări CAT Center.png",
+      "role": "center",
+      "altEn": "Entrance of the CAT Dive Center with SSI signage",
+      "width": 1440,
+      "height": 1092,
+      "format": "webp",
+      "source": "user_supplied",
+      "photographProvenance": "user_supplied_not_independently_verified",
+      "publicationPermission": "not_independently_verified"
+    },
+    {
+      "order": 7,
+      "file": "images/Echipamente de scufundări în centru SSI.webp",
+      "originalFilename": "Echipamente de scufundări în centru SSI.png",
+      "role": "equipment",
+      "altEn": "SSI dive center interior with scuba diving gear",
+      "width": 1335,
+      "height": 1178,
+      "format": "webp",
+      "source": "user_supplied",
+      "photographProvenance": "user_supplied_not_independently_verified",
+      "publicationPermission": "not_independently_verified"
+    }
+  ],
+  "hero": "images/Patru scafandri în razele soarelui subacvatic.webp",
+  "counts": {
+    "received": 8,
+    "publishedGalleryCandidates": 7,
+    "excludedForReview": 1
+  },
+  "excluded": [
+    {
+      "originalFilename": "Steagul Pinch of Salt la malul mării.png",
+      "file": "documents/needs-review/Steagul Pinch of Salt la malul mării.png",
+      "reason": "Banner visibly reads Pinch of Salt Restaurant, not CAT Dive Center",
+      "displayPublicly": false,
+      "includeInGallery": false
+    }
+  ],
+  "originalPhotosConvertedFrom": "PNG",
+  "optimizedPhotosFormat": "WebP",
+  "preservedPhotoNamesExceptExtension": true,
+  "publicationRights": "not_independently_verified",
+  "imageNotes": "Do not infer a CAT-branded restaurant or feeding-fish service from uploaded artwork. User-supplied photos are not independently authenticated."
+}

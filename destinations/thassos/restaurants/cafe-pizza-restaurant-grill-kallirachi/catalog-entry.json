@@ -1,0 +1,62 @@
+{
+  "id": "cafe-pizza-restaurant-grill-kallirachi",
+  "slug": "cafe-pizza-restaurant-grill-kallirachi",
+  "type": "restaurant",
+  "category": "restaurants",
+  "subcategory": "cafe-pizza-grill",
+  "zone": "skala-kallirachis",
+  "beachSlug": null,
+  "beachName": null,
+  "name": {
+    "ro": "Cafe Pizza Restaurant Grill Kallirachi",
+    "en": "Cafe Pizza Restaurant Grill Kallirachi",
+    "el": "Cafe Pizza Restaurant Grill Kallirachi",
+    "de": "Cafe Pizza Restaurant Grill Kallirachi",
+    "bg": "Cafe Pizza Restaurant Grill Kallirachi",
+    "sr": "Cafe Pizza Restaurant Grill Kallirachi"
+  },
+  "titleEn": "Cafe Pizza Restaurant Grill Kallirachi",
+  "titleRo": "Cafe Pizza Restaurant Grill Kallirachi",
+  "shortDescription": {
+    "ro": "Restaurant cu terasă pe promenada portului din Skala Kallirachis, unde poți savura preparate grecești, grill, pizza, fructe de mare și cafea cu vedere la mare.",
+    "en": "Relaxed harbourfront restaurant in Skala Kallirachis serving Greek favourites, grilled dishes, pizza, seafood and coffee beside the sea.",
+    "el": "Χαλαρό εστιατόριο στον παραλιακό δρόμο της Σκάλας Καλλιράχης, με ελληνικές γεύσεις, ψητά, πίτσα, θαλασσινά και καφέ δίπλα στη θάλασσα.",
+    "de": "Entspanntes Restaurant an der Hafenpromenade von Skala Kallirachis mit griechischen Gerichten, Grill, Pizza, Meeresfrüchten und Meerblick.",
+    "bg": "Спокоен ресторант край пристанището в Скала Каллирахис с гръцки ястия, скара, пица, морски дарове и кафе с изглед към морето.",
+    "sr": "Opušten restoran na šetalištu uz luku u Skala Kalirahisu, sa grčkim jelima, roštiljem, picom, morskim plodovima i pogledom na more."
+  },
+  "cuisine": [
+    "greek",
+    "mediterranean",
+    "pizza",
+    "grill",
+    "seafood"
+  ],
+  "tags": [
+    "harbourfront",
+    "seaview",
+    "terrace",
+    "pizza",
+    "gyros",
+    "seafood"
+  ],
+  "cover": "images/Terasa Kallirachi pe promenada marină.webp",
+  "image": "images/Terasa Kallirachi pe promenada marină.webp",
+  "latitude": 40.70871652635093,
+  "longitude": 24.53403846367154,
+  "rating": null,
+  "ratingCapturedAt": "2026-11-13",
+  "ratingNotLive": true,
+  "reviewCount": null,
+  "price": null,
+  "priceRangeIndicativeEUR": [
+    10,
+    30
+  ],
+  "partner": false,
+  "featured": false,
+  "active": false,
+  "mediaMissing": true,
+  "detailPath": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/restaurant.json",
+  "needsVerification": true
+}

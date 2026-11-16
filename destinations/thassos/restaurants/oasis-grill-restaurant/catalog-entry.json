@@ -1,0 +1,44 @@
+{
+  "id": "oasis-grill-restaurant",
+  "slug": "oasis-grill-restaurant",
+  "type": "restaurant",
+  "category": "restaurants",
+  "zone": "skala-prinos",
+  "beachSlug": null,
+  "name": {
+    "ro": "Oasis Grill Restaurant",
+    "en": "Oasis Grill Restaurant",
+    "el": "Oasis Grill Restaurant",
+    "de": "Oasis Grill Restaurant",
+    "bg": "Oasis Grill Restaurant",
+    "sr": "Oasis Grill Restaurant"
+  },
+  "titleEn": "Oasis Grill Restaurant",
+  "titleRo": "Oasis Grill Restaurant",
+  "shortDescription": {
+    "ro": "Tavernă grecească în Skala Prinos, cu terase în aer liber, atmosferă relaxată și preparate la grătar, pește și fructe de mare.",
+    "en": "Relaxed Greek taverna in Skala Prinos with outdoor dining, grilled seafood, traditional dishes and a welcoming island atmosphere.",
+    "el": "Χαλαρή ελληνική ταβέρνα στη Σκάλα Πρίνου, με υπαίθρια τραπεζάκια, ψητά θαλασσινά και παραδοσιακές γεύσεις.",
+    "de": "Entspannte griechische Taverne in Skala Prinos mit Außenterrasse, gegrilltem Fisch, Meeresfrüchten und traditionellen Gerichten.",
+    "bg": "Уютна гръцка таверна в Скала Принос с места на открито, морски дарове на скара и традиционни ястия.",
+    "sr": "Opuštena grčka taverna u Skali Prinos sa baštom, grilovanom ribom, morskim plodovima i tradicionalnim jelima."
+  },
+  "cuisine": [
+    "greek",
+    "mediterranean",
+    "seafood",
+    "grill"
+  ],
+  "cover": "images/Cafenea mediteraneană sub copac iluminat.webp",
+  "image": "images/Cafenea mediteraneană sub copac iluminat.webp",
+  "latitude": 40.75869763441532,
+  "longitude": 24.575549814169296,
+  "rating": 4.2,
+  "ratingCapturedAt": "2026-11-03",
+  "ratingNotLive": true,
+  "price": null,
+  "partner": false,
+  "featured": false,
+  "active": true,
+  "detailPath": "destinations/thassos/restaurants/oasis-grill-restaurant/restaurant.json"
+}

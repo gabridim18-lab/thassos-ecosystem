@@ -1,0 +1,338 @@
+{
+  "schemaVersion": "1.0",
+  "id": "karibou-seaside-tavern",
+  "slug": "karibou-seaside-tavern",
+  "type": "restaurant",
+  "category": "restaurants",
+  "subcategory": "traditional-greek-tavern",
+  "zone": "skala-prinos",
+  "beachSlug": "skala-prinos",
+  "beachName": "Prinos Beach",
+  "beachAliases": [
+    "Prinos Beach",
+    "Skala Prinos Beach"
+  ],
+  "beachLink": {
+    "slug": "skala-prinos",
+    "label": "Prinos Beach",
+    "dataPath": "destinations/thassos/beaches/skala-prinos/beach.json",
+    "relationship": "nearby_seaside_tavern",
+    "source": "user_confirmed_beach_association",
+    "note": "The user calls this beach Prinos Beach; the existing beach inventory uses skala-prinos as the slug. Recheck the live inventory before merging."
+  },
+  "name": "Karibou Seaside Tavern",
+  "titleEn": "Karibou Seaside Tavern",
+  "titleRo": "Karibou Seaside Tavern",
+  "translations": {
+    "ro": {
+      "name": "Karibou Seaside Tavern",
+      "shortDescription": "Tavernă grecească primitoare lângă Prinos Beach, cu terasă umbrită, grădină înflorită, pește, fructe de mare și preparate tradiționale.",
+      "description": "Lângă Prinos Beach, în zona liniștită Ormos Prinou din Thassos, Karibou Seaside Tavern îmbină gusturile tradiționale grecești cu o atmosferă de vacanță. Mesele cu fețe de masă turcoaz, terasa umbrită de pini și grădina plină de flori creează un loc plăcut pentru un prânz fără grabă sau o cină la apus.\n\nBucătăria pune accent pe pește și fructe de mare, preparate la grătar, salate și specialități grecești. În fotografiile primite se regăsesc platouri cu fructe de mare, pește la grătar, homar, preparate din carne și vinete coapte. Acestea sunt exemple vizuale, nu o garanție că toate preparatele sunt disponibile zilnic.\n\nApropierea de plajă, locurile spațioase de pe terasă și atmosfera relaxată fac din Karibou o alegere potrivită pentru familii, cupluri și grupuri de prieteni. La lăsarea serii, luminile calde ale grădinii completează experiența de tavernă grecească de pe coasta vestică a insulei."
+    },
+    "en": {
+      "name": "Karibou Seaside Tavern",
+      "shortDescription": "Welcoming Greek seaside tavern near Prinos Beach, with shaded garden seating, seafood, grilled dishes and traditional island flavours.",
+      "description": "Near Prinos Beach in the peaceful Ormos Prinou area of Thassos, Karibou Seaside Tavern brings together traditional Greek flavours and an easy-going island atmosphere. Turquoise-covered tables, pine-shaded outdoor seating and a flower-filled garden set the scene for a leisurely lunch or a memorable dinner at sunset.\n\nGreek and Mediterranean favourites include grilled fish, seafood, meat dishes, fresh salads and traditional recipes. The supplied photographs show seafood platters, grilled fish, lobster, grilled meat and roasted aubergine; these illustrate the dining experience rather than a confirmed daily menu.\n\nWith its welcoming garden terrace and proximity to the seafront, Karibou is a relaxed choice for couples, families and friends exploring western Thassos. As evening arrives, warm lights and the surrounding greenery create a particularly inviting setting."
+    },
+    "el": {
+      "name": "Karibou Seaside Tavern",
+      "shortDescription": "Φιλόξενη ελληνική παραθαλάσσια ταβέρνα κοντά στην παραλία Πρίνου, με σκιερό κήπο, θαλασσινά, ψητά και παραδοσιακές γεύσεις.",
+      "description": "Κοντά στην παραλία Πρίνου, στην ήσυχη περιοχή του Όρμου Πρίνου στη Θάσο, η Karibou Seaside Tavern συνδυάζει παραδοσιακές ελληνικές γεύσεις με χαλαρή νησιώτικη ατμόσφαιρα. Τα τραπέζια με τα τιρκουάζ τραπεζομάντιλα, η σκιερή βεράντα κάτω από τα πεύκα και ο ανθισμένος κήπος δημιουργούν ένα όμορφο σκηνικό για μεσημεριανό ή δείπνο στο ηλιοβασίλεμα.\n\nΗ γαστρονομική εμπειρία επικεντρώνεται σε ψάρια, θαλασσινά, ψητά κρέατα, σαλάτες και ελληνικές σπεσιαλιτέ. Οι φωτογραφίες που παρασχέθηκαν δείχνουν πιατέλες θαλασσινών, ψητό ψάρι, αστακό, κρέατα σχάρας και μελιτζάνα· δεν αποτελούν επιβεβαιωμένο καθημερινό μενού.\n\nΜε τον ευρύχωρο εξωτερικό χώρο και την εγγύτητα στη θάλασσα, η ταβέρνα είναι μια ευχάριστη επιλογή για οικογένειες, ζευγάρια και παρέες. Το βράδυ ο ζεστός φωτισμός ενισχύει τη φιλόξενη ατμόσφαιρα."
+    },
+    "de": {
+      "name": "Karibou Seaside Tavern",
+      "shortDescription": "Einladende griechische Taverne nahe dem Prinos Beach mit schattigem Garten, Fisch, Meeresfrüchten und traditionellen Spezialitäten.",
+      "description": "Nahe dem Prinos Beach im ruhigen Ormos Prinou auf Thassos verbindet die Karibou Seaside Tavern traditionelle griechische Küche mit entspannter Inselatmosphäre. Türkis gedeckte Tische, eine von Pinien beschattete Terrasse und ein blühender Garten laden zu einem gemütlichen Mittagessen oder Abendessen bei Sonnenuntergang ein.\n\nIm Mittelpunkt stehen Fisch, Meeresfrüchte, Grillgerichte, frische Salate und griechische Spezialitäten. Die bereitgestellten Fotos zeigen unter anderem Meeresfrüchteplatten, gegrillten Fisch, Hummer, Fleischgerichte und gebackene Auberginen. Sie sind keine Bestätigung einer täglich verfügbaren Speisekarte.\n\nDie Nähe zum Strand und der großzügige Außenbereich machen die Taverne zu einer schönen Wahl für Paare, Familien und Freundesgruppen. Abends sorgt die warme Beleuchtung für ein besonders gemütliches Ambiente."
+    },
+    "bg": {
+      "name": "Karibou Seaside Tavern",
+      "shortDescription": "Уютна гръцка таверна до плажа Принос със сенчеста градина, риба, морски дарове, ястия на скара и местни вкусове.",
+      "description": "Близо до плажа Принос, в спокойния район Ормос Приноу на остров Тасос, Karibou Seaside Tavern съчетава традиционни гръцки вкусове с непринудена островна атмосфера. Масите с тюркоазени покривки, сенчестата тераса сред боровете и цветната градина създават приятна обстановка за обяд или вечеря по залез.\n\nКухнята предлага гръцки и средиземноморски специалитети с акцент върху риба, морски дарове, месо на скара и свежи салати. Предоставените снимки показват плата с морски дарове, риба на скара, омар, месни ястия и печен патладжан; те не потвърждават ежедневно меню.\n\nБлизостта до морето и просторните места на открито правят таверната подходяща за семейства, двойки и приятелски компании. Вечер топлото осветление допълва уютната атмосфера."
+    },
+    "sr": {
+      "name": "Karibou Seaside Tavern",
+      "shortDescription": "Gostoljubiva grčka taverna blizu plaže Prinos, sa hladovinom u bašti, ribom, morskim plodovima i tradicionalnim jelima.",
+      "description": "U blizini plaže Prinos, u mirnom delu Ormos Prinou na Tasosu, Karibou Seaside Tavern spaja tradicionalne grčke ukuse i opuštenu ostrvsku atmosferu. Stolovi sa tirkiznim stolnjacima, terasa u hladu borova i vrt pun cveća pružaju prijatan ambijent za ručak ili večeru uz zalazak sunca.\n\nU ponudi se ističu riba, morski plodovi, jela sa roštilja, sveže salate i grčki specijaliteti. Dostavljene fotografije prikazuju morske plodove, ribu sa roštilja, jastoga, meso i pečeni patlidžan; one nisu potvrda svakodnevnog menija.\n\nBlizina obale i prostrana bašta čine tavernu dobrim izborom za porodice, parove i prijatelje. Uveče toplo osvetljenje dodatno ističe prijatnu atmosferu."
+    }
+  },
+  "title": {
+    "ro": "Karibou Seaside Tavern",
+    "en": "Karibou Seaside Tavern",
+    "el": "Karibou Seaside Tavern",
+    "de": "Karibou Seaside Tavern",
+    "bg": "Karibou Seaside Tavern",
+    "sr": "Karibou Seaside Tavern"
+  },
+  "shortDescription": {
+    "ro": "Tavernă grecească primitoare lângă Prinos Beach, cu terasă umbrită, grădină înflorită, pește, fructe de mare și preparate tradiționale.",
+    "en": "Welcoming Greek seaside tavern near Prinos Beach, with shaded garden seating, seafood, grilled dishes and traditional island flavours.",
+    "el": "Φιλόξενη ελληνική παραθαλάσσια ταβέρνα κοντά στην παραλία Πρίνου, με σκιερό κήπο, θαλασσινά, ψητά και παραδοσιακές γεύσεις.",
+    "de": "Einladende griechische Taverne nahe dem Prinos Beach mit schattigem Garten, Fisch, Meeresfrüchten und traditionellen Spezialitäten.",
+    "bg": "Уютна гръцка таверна до плажа Принос със сенчеста градина, риба, морски дарове, ястия на скара и местни вкусове.",
+    "sr": "Gostoljubiva grčka taverna blizu plaže Prinos, sa hladovinom u bašti, ribom, morskim plodovima i tradicionalnim jelima."
+  },
+  "description": {
+    "ro": "Lângă Prinos Beach, în zona liniștită Ormos Prinou din Thassos, Karibou Seaside Tavern îmbină gusturile tradiționale grecești cu o atmosferă de vacanță. Mesele cu fețe de masă turcoaz, terasa umbrită de pini și grădina plină de flori creează un loc plăcut pentru un prânz fără grabă sau o cină la apus.\n\nBucătăria pune accent pe pește și fructe de mare, preparate la grătar, salate și specialități grecești. În fotografiile primite se regăsesc platouri cu fructe de mare, pește la grătar, homar, preparate din carne și vinete coapte. Acestea sunt exemple vizuale, nu o garanție că toate preparatele sunt disponibile zilnic.\n\nApropierea de plajă, locurile spațioase de pe terasă și atmosfera relaxată fac din Karibou o alegere potrivită pentru familii, cupluri și grupuri de prieteni. La lăsarea serii, luminile calde ale grădinii completează experiența de tavernă grecească de pe coasta vestică a insulei.",
+    "en": "Near Prinos Beach in the peaceful Ormos Prinou area of Thassos, Karibou Seaside Tavern brings together traditional Greek flavours and an easy-going island atmosphere. Turquoise-covered tables, pine-shaded outdoor seating and a flower-filled garden set the scene for a leisurely lunch or a memorable dinner at sunset.\n\nGreek and Mediterranean favourites include grilled fish, seafood, meat dishes, fresh salads and traditional recipes. The supplied photographs show seafood platters, grilled fish, lobster, grilled meat and roasted aubergine; these illustrate the dining experience rather than a confirmed daily menu.\n\nWith its welcoming garden terrace and proximity to the seafront, Karibou is a relaxed choice for couples, families and friends exploring western Thassos. As evening arrives, warm lights and the surrounding greenery create a particularly inviting setting.",
+    "el": "Κοντά στην παραλία Πρίνου, στην ήσυχη περιοχή του Όρμου Πρίνου στη Θάσο, η Karibou Seaside Tavern συνδυάζει παραδοσιακές ελληνικές γεύσεις με χαλαρή νησιώτικη ατμόσφαιρα. Τα τραπέζια με τα τιρκουάζ τραπεζομάντιλα, η σκιερή βεράντα κάτω από τα πεύκα και ο ανθισμένος κήπος δημιουργούν ένα όμορφο σκηνικό για μεσημεριανό ή δείπνο στο ηλιοβασίλεμα.\n\nΗ γαστρονομική εμπειρία επικεντρώνεται σε ψάρια, θαλασσινά, ψητά κρέατα, σαλάτες και ελληνικές σπεσιαλιτέ. Οι φωτογραφίες που παρασχέθηκαν δείχνουν πιατέλες θαλασσινών, ψητό ψάρι, αστακό, κρέατα σχάρας και μελιτζάνα· δεν αποτελούν επιβεβαιωμένο καθημερινό μενού.\n\nΜε τον ευρύχωρο εξωτερικό χώρο και την εγγύτητα στη θάλασσα, η ταβέρνα είναι μια ευχάριστη επιλογή για οικογένειες, ζευγάρια και παρέες. Το βράδυ ο ζεστός φωτισμός ενισχύει τη φιλόξενη ατμόσφαιρα.",
+    "de": "Nahe dem Prinos Beach im ruhigen Ormos Prinou auf Thassos verbindet die Karibou Seaside Tavern traditionelle griechische Küche mit entspannter Inselatmosphäre. Türkis gedeckte Tische, eine von Pinien beschattete Terrasse und ein blühender Garten laden zu einem gemütlichen Mittagessen oder Abendessen bei Sonnenuntergang ein.\n\nIm Mittelpunkt stehen Fisch, Meeresfrüchte, Grillgerichte, frische Salate und griechische Spezialitäten. Die bereitgestellten Fotos zeigen unter anderem Meeresfrüchteplatten, gegrillten Fisch, Hummer, Fleischgerichte und gebackene Auberginen. Sie sind keine Bestätigung einer täglich verfügbaren Speisekarte.\n\nDie Nähe zum Strand und der großzügige Außenbereich machen die Taverne zu einer schönen Wahl für Paare, Familien und Freundesgruppen. Abends sorgt die warme Beleuchtung für ein besonders gemütliches Ambiente.",
+    "bg": "Близо до плажа Принос, в спокойния район Ормос Приноу на остров Тасос, Karibou Seaside Tavern съчетава традиционни гръцки вкусове с непринудена островна атмосфера. Масите с тюркоазени покривки, сенчестата тераса сред боровете и цветната градина създават приятна обстановка за обяд или вечеря по залез.\n\nКухнята предлага гръцки и средиземноморски специалитети с акцент върху риба, морски дарове, месо на скара и свежи салати. Предоставените снимки показват плата с морски дарове, риба на скара, омар, месни ястия и печен патладжан; те не потвърждават ежедневно меню.\n\nБлизостта до морето и просторните места на открито правят таверната подходяща за семейства, двойки и приятелски компании. Вечер топлото осветление допълва уютната атмосфера.",
+    "sr": "U blizini plaže Prinos, u mirnom delu Ormos Prinou na Tasosu, Karibou Seaside Tavern spaja tradicionalne grčke ukuse i opuštenu ostrvsku atmosferu. Stolovi sa tirkiznim stolnjacima, terasa u hladu borova i vrt pun cveća pružaju prijatan ambijent za ručak ili večeru uz zalazak sunca.\n\nU ponudi se ističu riba, morski plodovi, jela sa roštilja, sveže salate i grčki specijaliteti. Dostavljene fotografije prikazuju morske plodove, ribu sa roštilja, jastoga, meso i pečeni patlidžan; one nisu potvrda svakodnevnog menija.\n\nBlizina obale i prostrana bašta čine tavernu dobrim izborom za porodice, parove i prijatelje. Uveče toplo osvetljenje dodatno ističe prijatnu atmosferu."
+  },
+  "cuisine": [
+    "greek",
+    "mediterranean",
+    "seafood",
+    "grill"
+  ],
+  "cuisineTypes": [
+    "Greek",
+    "Mediterranean",
+    "Traditional Tavern",
+    "Seafood",
+    "Grill"
+  ],
+  "location": {
+    "country": "Greece",
+    "island": "Thassos",
+    "locality": "Ormos Prinou / Skala Prinos",
+    "address": "Ormos Prinou 640 10, Greece",
+    "latitude": 40.7600173202241,
+    "longitude": 24.562388716908448
+  },
+  "address": "Ormos Prinou 640 10, Greece",
+  "displayAddress": "Ormos Prinou, Thassos, Greece",
+  "coordinates": {
+    "lat": 40.7600173202241,
+    "lng": 24.562388716908448
+  },
+  "phone": "+30 2593 071462",
+  "links": {
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=40.7600173202241%2C24.562388716908448",
+    "website": null,
+    "facebook": null,
+    "instagram": "https://www.instagram.com/karibou_tavern/",
+    "booking": null
+  },
+  "google": {
+    "rating": null,
+    "reviewCount": 98,
+    "capturedAt": "2026-11-05",
+    "source": "user_provided_google_maps_details",
+    "liveUpdate": false,
+    "showIndividualReviews": false
+  },
+  "rating": null,
+  "ratingSource": "User supplied 98 Google reviews; numerical rating not provided",
+  "price": {
+    "rangePerPersonEUR": [
+      15,
+      30
+    ],
+    "source": "user_provided_google_maps_details",
+    "status": "indicative_unverified",
+    "showAsCurrent": false
+  },
+  "openingHours": {
+    "weekly": {
+      "monday": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thursday": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "friday": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "saturday": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sunday": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "source": "user_provided_google_maps_details",
+    "status": "reported_unverified_seasonal",
+    "confirmedCurrent": false,
+    "showOpenNow": false,
+    "timezone": "Europe/Athens"
+  },
+  "serviceOptions": [
+    "outdoor_seating",
+    "takeaway",
+    "dine_in"
+  ],
+  "highlights": [
+    "great_coffee",
+    "live_music_reported"
+  ],
+  "popularFor": [
+    "lunch",
+    "dinner",
+    "solo_dining"
+  ],
+  "offerings": [
+    "alcohol",
+    "beer",
+    "coffee",
+    "late_night_food",
+    "small_plates",
+    "spirits",
+    "vegan_options",
+    "vegetarian_options",
+    "wine"
+  ],
+  "diningOptions": [
+    "lunch",
+    "dinner",
+    "seating",
+    "table_service"
+  ],
+  "amenities": [
+    "bar_on_site",
+    "toilet",
+    "wifi",
+    "free_wifi"
+  ],
+  "atmosphere": [
+    "casual",
+    "cosy",
+    "quiet"
+  ],
+  "crowd": [
+    "family_friendly",
+    "groups",
+    "tourists"
+  ],
+  "planning": [
+    "accepts_reservations"
+  ],
+  "payments": [
+    "credit_cards",
+    "debit_cards",
+    "nfc_mobile_payments"
+  ],
+  "children": [
+    "good_for_kids",
+    "changing_tables",
+    "high_chairs",
+    "kids_menu"
+  ],
+  "parking": [
+    "free_street_parking",
+    "free_parking_lot",
+    "plenty_of_parking"
+  ],
+  "accessibility": {
+    "status": "not_provided"
+  },
+  "pets": [
+    "dogs_allowed",
+    "dogs_allowed_outside"
+  ],
+  "features": [
+    "traditional_tavern",
+    "outdoor_seating",
+    "shaded_garden",
+    "near_prinos_beach",
+    "greek_cuisine",
+    "seafood",
+    "grill",
+    "family_friendly",
+    "parking",
+    "wifi",
+    "sea_views"
+  ],
+  "heroImage": "images/Terasă de seară la Karibou Tavern.webp",
+  "image": "images/Terasă de seară la Karibou Tavern.webp",
+  "images": [
+    "images/Terasă de seară la Karibou Tavern.webp",
+    "images/Terasa mediteraneană cu vedere la mare.webp",
+    "images/Terasa tavernei grecești la malul mării.webp",
+    "images/Terasă mediteraneană la amurg.webp",
+    "images/Apus peste o intrare înflorită la mare.webp",
+    "images/Tavă marinărească cu fructe de mare prăjite.webp",
+    "images/Homar la grătar cu sosuri și salată.webp",
+    "images/Pește la grătar cu salată proaspătă.webp",
+    "images/Friptură la grătar cu garnituri rustice.webp",
+    "images/Vinete coapte cu roșii și pătrunjel.webp"
+  ],
+  "galleryImages": [
+    "images/Terasă de seară la Karibou Tavern.webp",
+    "images/Terasa mediteraneană cu vedere la mare.webp",
+    "images/Terasa tavernei grecești la malul mării.webp",
+    "images/Terasă mediteraneană la amurg.webp",
+    "images/Apus peste o intrare înflorită la mare.webp",
+    "images/Tavă marinărească cu fructe de mare prăjite.webp",
+    "images/Homar la grătar cu sosuri și salată.webp",
+    "images/Pește la grătar cu salată proaspătă.webp",
+    "images/Friptură la grătar cu garnituri rustice.webp",
+    "images/Vinete coapte cu roșii și pătrunjel.webp"
+  ],
+  "menuImages": [],
+  "menuFile": "menu.json",
+  "menus": {
+    "current": null,
+    "documentation": {
+      "file": "menu.json",
+      "source": "not_provided",
+      "showPricesPublicly": false
+    }
+  },
+  "reviews": {
+    "displayIndividualReviews": false,
+    "sourceRatingOnly": true,
+    "individualReviewTextsStored": false
+  },
+  "status": {
+    "content": "prepared_from_user_data",
+    "photoProvenance": "user_supplied",
+    "photos": "awaiting_user_webp_files",
+    "menu": "not_provided",
+    "hours": "reported_unverified",
+    "published": false,
+    "featured": false,
+    "active": false
+  },
+  "partner": false,
+  "featured": false,
+  "active": false,
+  "lastPrepared": "2026-11-05",
+  "dataNotes": {
+    "beach": "Link to Prinos Beach as confirmed by the user. Existing beach inventory path expected at destinations/thassos/beaches/skala-prinos/beach.json. Do not substitute Dasilio Beach merely because it is nearby.",
+    "rating": "The user provided 98 reviews but no numeric star rating; rating is null.",
+    "hours": "11:00–23:00 daily was reported in a supplied snapshot; not a live/open-now claim.",
+    "prices": "€15–30 per person is an indicative Google Maps band, not a current dish price list.",
+    "menu": "No official menu was supplied; no items or prices invented. Visible food photos do not establish full daily availability.",
+    "photos": "10 user-provided photos; source basenames preserved, only image references change from .png to .webp. Images are not bundled. Latest repeated uploads received a local (1) suffix, while original unsuffixed names are preserved in the manifest.",
+    "rights": "Publication rights were not independently verified.",
+    "reservations": "Restaurant accepts reservations per supplied listing, but no real-time booking or automatic confirmation has been integrated."
+  }
+}

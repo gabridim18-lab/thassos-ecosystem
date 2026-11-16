@@ -1,0 +1,113 @@
+{
+  "schema_version": 3,
+  "place_slug": "calma-beach-bar",
+  "beachSlug": "dasilio",
+  "cover_file": "Plajă tropicală cu șezlonguri goale.webp",
+  "image_count_expected": 11,
+  "images_in_archive": 0,
+  "image_handling": "User supplies optimized .webp images later. Exact original basenames are retained, with only .png -> .webp extension changed in the JSON references. No photos are bundled or transformed.",
+  "images": [
+    {
+      "order": 1,
+      "filename": "Plajă tropicală cu șezlonguri goale.webp",
+      "path": "images/Plajă tropicală cu șezlonguri goale.webp",
+      "role": "hero",
+      "description_ro": "Vedere spre zona de șezlonguri și mare",
+      "source_filename": "Plajă tropicală cu șezlonguri goale.png",
+      "file_expected": true
+    },
+    {
+      "order": 2,
+      "filename": "Plajă turcoaz cu munți în depărtare.webp",
+      "path": "images/Plajă turcoaz cu munți în depărtare.webp",
+      "role": "gallery",
+      "description_ro": "Panoramă a plajei și litoralului",
+      "source_filename": "Plajă turcoaz cu munți în depărtare.png",
+      "file_expected": true
+    },
+    {
+      "order": 3,
+      "filename": "Pizza cu brânză pe blat metalic.webp",
+      "path": "images/Pizza cu brânză pe blat metalic.webp",
+      "role": "food",
+      "description_ro": "Pizza",
+      "source_filename": "Pizza cu brânză pe blat metalic.png",
+      "file_expected": true
+    },
+    {
+      "order": 4,
+      "filename": "Oază de plajă cu pergolă și iarbă verdemânt.webp",
+      "path": "images/Oază de plajă cu pergolă și iarbă verdemânt.webp",
+      "role": "gallery",
+      "description_ro": "Zonă verde cu pergole și mare",
+      "source_filename": "Oază de plajă cu pergolă și iarbă verdemânt.png",
+      "file_expected": true
+    },
+    {
+      "order": 5,
+      "filename": "Desert cu Profiterol și Ciocolată Albă.webp",
+      "path": "images/Desert cu Profiterol și Ciocolată Albă.webp",
+      "role": "food",
+      "description_ro": "Desert cu profiterol",
+      "source_filename": "Desert cu Profiterol și Ciocolată Albă.png",
+      "file_expected": true
+    },
+    {
+      "order": 6,
+      "filename": "Burger artizanal cu cartofi prăjiți pe tavă.webp",
+      "path": "images/Burger artizanal cu cartofi prăjiți pe tavă.webp",
+      "role": "food",
+      "description_ro": "Burger cu cartofi prăjiți",
+      "source_filename": "Burger artizanal cu cartofi prăjiți pe tavă.png",
+      "file_expected": true
+    },
+    {
+      "order": 7,
+      "filename": "Martini espresso pe plajă însorită.webp",
+      "path": "images/Martini espresso pe plajă însorită.webp",
+      "role": "drinks",
+      "description_ro": "Cocktail cu cafea la plajă",
+      "source_filename": "Martini espresso pe plajă însorită.png",
+      "file_expected": true
+    },
+    {
+      "order": 8,
+      "filename": "Cabana tropicală de pe plajă.webp",
+      "path": "images/Cabana tropicală de pe plajă.webp",
+      "role": "gallery",
+      "description_ro": "Cabană și zonă de relaxare",
+      "source_filename": "Cabana tropicală de pe plajă.png",
+      "file_expected": true
+    },
+    {
+      "order": 9,
+      "filename": "Grădină boho la barul de plajă.webp",
+      "path": "images/Grădină boho la barul de plajă.webp",
+      "role": "gallery",
+      "description_ro": "Grădină și lounge boho",
+      "source_filename": "Grădină boho la barul de plajă.png",
+      "file_expected": true
+    },
+    {
+      "order": 10,
+      "filename": "Intrarea rustică a restaurantului Calma.webp",
+      "path": "images/Intrarea rustică a restaurantului Calma.webp",
+      "role": "exterior",
+      "description_ro": "Intrarea Calma",
+      "source_filename": "Intrarea rustică a restaurantului Calma.png",
+      "file_expected": true
+    },
+    {
+      "order": 11,
+      "filename": "Oază de relaxare pe plajă.webp",
+      "path": "images/Oază de relaxare pe plajă.webp",
+      "role": "gallery",
+      "description_ro": "Șezlonguri sub umbrele de paie",
+      "source_filename": "Oază de relaxare pe plajă.png",
+      "file_expected": true
+    }
+  ],
+  "ready_for_photo_manifest_update": false,
+  "media_files_uploaded_here": false,
+  "awaiting_user_webp_files": true
+}

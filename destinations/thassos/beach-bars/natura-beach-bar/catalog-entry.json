@@ -1,0 +1,30 @@
+{
+  "id": "gr-thassos-beach-bar-natura-beach-bar",
+  "slug": "natura-beach-bar",
+  "title": "Natura Beach Bar",
+  "type": "beach_bar",
+  "category": "beach-bars",
+  "beachSlug": "dasilio",
+  "nearbyBeachSlugs": [
+    "ilio-mare"
+  ],
+  "image": "images/Natura Beach Bar pe nisipul auriu.webp",
+  "featured": false,
+  "tags": [
+    "beach_bar",
+    "cocktails",
+    "sunbeds",
+    "sunset",
+    "food"
+  ],
+  "description": "A relaxed beach bar on the western coast of Thassos, with sunbeds, Greek summer flavors, coffee, cocktails and sunset views.",
+  "description_i18n": {
+    "en": "A relaxed beach bar on the western coast of Thassos, with sunbeds, Greek summer flavors, coffee, cocktails and sunset views.",
+    "ro": "Beach bar relaxant pe coasta vestică a insulei Thassos, cu șezlonguri, preparate pentru zile de vară, cafea, cocktailuri și priveliști la apus.",
+    "el": "Χαλαρό beach bar στη δυτική ακτή της Θάσου, με ξαπλώστρες, καφέ, κοκτέιλ, φαγητό και όμορφα ηλιοβασιλέματα.",
+    "de": "Entspannte Strandbar an der Westküste von Thassos mit Liegen, Kaffee, Cocktails, kleinen Gerichten und Sonnenuntergangsblick.",
+    "bg": "Спокоен плажен бар на западния бряг на Тасос с шезлонги, кафе, коктейли, храна и гледки към залеза.",
+    "sr": "Opušten bar na plaži na zapadnoj obali Tasosa, sa ležaljkama, kafom, koktelima, hranom i pogledom na zalazak sunca."
+  },
+  "detail_path": "destinations/thassos/beach-bars/natura-beach-bar/beach-bar.json"
+}

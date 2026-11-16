@@ -1,0 +1,47 @@
+{
+  "restaurantId": "karibou-seaside-tavern",
+  "preparedAt": "2026-11-05",
+  "sources": [
+    {
+      "type": "user_provided_google_maps_information",
+      "receivedBy": "2026-11-05",
+      "fields": [
+        "name",
+        "address",
+        "phone",
+        "instagram",
+        "coordinates",
+        "hours_snapshot",
+        "price_range",
+        "services",
+        "review_count",
+        "family_features",
+        "parking",
+        "pets"
+      ]
+    },
+    {
+      "type": "user_provided_editorial_description",
+      "receivedBy": "2026-11-05",
+      "fields": [
+        "cuisine",
+        "atmosphere",
+        "setting",
+        "specialties"
+      ]
+    },
+    {
+      "type": "user_provided_photographs",
+      "receivedBy": "2026-11-05",
+      "count": 10,
+      "notes": "Only names used; no image binaries included in ZIP."
+    },
+    {
+      "type": "user_explicit_beach_assignment",
+      "receivedBy": "2026-11-05",
+      "beach": "Prinos Beach",
+      "expectedExistingSlug": "skala-prinos"
+    }
+  ],
+  "verificationPolicy": "Menu, current hours, current price range, publication rights, and any recurring live music schedule are not independently verified."
+}

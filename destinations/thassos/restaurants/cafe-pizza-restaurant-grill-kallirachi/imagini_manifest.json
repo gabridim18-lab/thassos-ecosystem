@@ -1,0 +1,188 @@
+{
+  "restaurantId": "cafe-pizza-restaurant-grill-kallirachi",
+  "updatedAt": "2026-11-13",
+  "photos": [
+    {
+      "order": 1,
+      "role": "hero",
+      "scope": "restaurant",
+      "file": "images/Terasa Kallirachi pe promenada marină.webp",
+      "originalFilename": "Terasa Kallirachi pe promenada marină.png",
+      "expectedFilename": "Terasa Kallirachi pe promenada marină.webp",
+      "altEn": "Restaurant terrace, tables and Kallirachi sign on the seafront promenade",
+      "sourceDimensions": {
+        "width": 1671,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 2,
+      "role": "harbour",
+      "scope": "nearby_area",
+      "file": "images/Palmieri pe promenada de coastă.webp",
+      "originalFilename": "Palmieri pe promenada de coastă.png",
+      "expectedFilename": "Palmieri pe promenada de coastă.webp",
+      "altEn": "Palm-lined walkway beside Skala Kallirachis harbour",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 3,
+      "role": "surroundings",
+      "scope": "nearby_area",
+      "file": "images/Promenadă însorită cu palmieri și mare.webp",
+      "originalFilename": "Promenadă însorită cu palmieri și mare.png",
+      "expectedFilename": "Promenadă însorită cu palmieri și mare.webp",
+      "altEn": "Palm trees, waterfront and small harbour at Skala Kallirachis",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 4,
+      "role": "terrace",
+      "scope": "restaurant",
+      "file": "images/Cafenea pe promenada mării.webp",
+      "originalFilename": "Cafenea pe promenada mării.png",
+      "expectedFilename": "Cafenea pe promenada mării.webp",
+      "altEn": "Outdoor restaurant and café seating along the waterfront promenade",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 5,
+      "role": "harbour",
+      "scope": "nearby_area",
+      "file": "images/Ambarcațiuni luxoase în portul albastru.webp",
+      "originalFilename": "Ambarcațiuni luxoase în portul albastru.png",
+      "expectedFilename": "Ambarcațiuni luxoase în portul albastru.webp",
+      "altEn": "Boats moored in the blue waters of the nearby harbour",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 6,
+      "role": "food",
+      "scope": "food_example",
+      "file": "images/Frigărui cu cartofi, orez și legume.webp",
+      "originalFilename": "Frigărui cu cartofi, orez și legume.png",
+      "expectedFilename": "Frigărui cu cartofi, orez și legume.webp",
+      "altEn": "Grilled skewers with fries, rice and vegetables",
+      "sourceDimensions": {
+        "width": 1671,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 7,
+      "role": "food",
+      "scope": "food_example",
+      "file": "images/Calamar la grătar cu cartofi și salată.webp",
+      "originalFilename": "Calamar la grătar cu cartofi și salată.png",
+      "expectedFilename": "Calamar la grătar cu cartofi și salată.webp",
+      "altEn": "Grilled calamari with fries and a fresh salad",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 8,
+      "role": "food",
+      "scope": "food_example",
+      "file": "images/Gyros grecesc cu tzatziki și cartofi.webp",
+      "originalFilename": "Gyros grecesc cu tzatziki și cartofi.png",
+      "expectedFilename": "Gyros grecesc cu tzatziki și cartofi.webp",
+      "altEn": "Greek gyros served with tzatziki, onions and fries",
+      "sourceDimensions": {
+        "width": 1671,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 9,
+      "role": "food",
+      "scope": "food_example",
+      "file": "images/Gyros cu cartofi, tzatziki și legume.webp",
+      "originalFilename": "Gyros cu cartofi, tzatziki și legume.png",
+      "expectedFilename": "Gyros cu cartofi, tzatziki și legume.webp",
+      "altEn": "Gyros plate with potatoes, tzatziki and fresh vegetables",
+      "sourceDimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    },
+    {
+      "order": 10,
+      "role": "food",
+      "scope": "food_example",
+      "file": "images/Budincă aurie cu brânză topită pe masă rustică.webp",
+      "originalFilename": "Budincă aurie cu brânză topită pe masă rustică.png",
+      "expectedFilename": "Budincă aurie cu brânză topită pe masă rustică.webp",
+      "altEn": "Baked dish topped with melted cheese, vegetables and tomato",
+      "sourceDimensions": {
+        "width": 1671,
+        "height": 941
+      },
+      "expectedFormat": "webp",
+      "includedInArchive": false,
+      "userWillPrepareAndCopy": true,
+      "rightsToPublish": "not_independently_verified"
+    }
+  ],
+  "counts": {
+    "submitted": 10,
+    "unique": 10,
+    "expectedWebp": 10,
+    "includedInArchive": 0
+  },
+  "hero": "images/Terasa Kallirachi pe promenada marină.webp",
+  "preservedPhotoNamesExceptExtension": true,
+  "originalPhotosConvertedFrom": "png",
+  "optimizedPhotosFormat": "webp",
+  "imageNotes": "The user converts and copies the images; do not auto-rename names or edit image contents. Some photographs show the nearby harbour/promenade rather than the business itself.",
+  "expectedFolder": "destinations/thassos/restaurants/cafe-pizza-restaurant-grill-kallirachi/images/"
+}

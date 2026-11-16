@@ -1,0 +1,1048 @@
+{
+  "schema_version": "thassos-menu-v1",
+  "business_id": "gr-thassos-beach-bar-natura-beach-bar",
+  "business_slug": "natura-beach-bar",
+  "menu_year": 2026,
+  "source": {
+    "kind": "photos_supplied_by_user",
+    "images_supplied": 7,
+    "pages_transcribed": 7,
+    "source_date_label": "2026 — confirmed by user on 2026-11-06",
+    "transcription": "manual from visible photographed menu; verify every line and price with owner before enabling transactions"
+  },
+  "currency": "EUR",
+  "locale": "en",
+  "other_locales_fallback_to": "en",
+  "pricing_rule": "Prices from the supplied 2026 menu, not live or guaranteed.",
+  "notes": [
+    "Menu is catalog data only; online ordering, stock management and payment are not implemented.",
+    "Items with multiple flavors or spirit brands require customer options if future ordering is added.",
+    "All spirits served as 60 ml according to the menu.",
+    "Some frozen/pre-fried item markers are present in the source but should be checked before customer display."
+  ],
+  "ordering": {
+    "enabled": false,
+    "lounger_number_supported_in_future": true,
+    "umbrella_number_supported_in_future": true,
+    "fulfillment": "not_implemented",
+    "payment": "not_implemented"
+  },
+  "sections": [
+    {
+      "id": "coffee-tea",
+      "title_en": "Coffee & tea",
+      "categories": [
+        {
+          "id": "coffees",
+          "title_en": "Coffees",
+          "items": [
+            {
+              "id": "coffees-001",
+              "name_en": "Greek coffee",
+              "price_eur": 3.0,
+              "available": null
+            },
+            {
+              "id": "coffees-002",
+              "name_en": "Double Greek coffee",
+              "price_eur": 4.0,
+              "available": null
+            },
+            {
+              "id": "coffees-003",
+              "name_en": "Nescafé frappé",
+              "price_eur": 4.0,
+              "available": null
+            },
+            {
+              "id": "coffees-004",
+              "name_en": "Filter coffee",
+              "price_eur": 4.0,
+              "available": null
+            },
+            {
+              "id": "coffees-005",
+              "name_en": "Espresso",
+              "price_eur": 3.0,
+              "available": null
+            },
+            {
+              "id": "coffees-006",
+              "name_en": "Double espresso",
+              "price_eur": 4.0,
+              "available": null
+            },
+            {
+              "id": "coffees-007",
+              "name_en": "Cappuccino",
+              "price_eur": 4.0,
+              "available": null
+            },
+            {
+              "id": "coffees-008",
+              "name_en": "Cappuccino latte",
+              "price_eur": 4.5,
+              "available": null
+            },
+            {
+              "id": "coffees-009",
+              "name_en": "Double cappuccino",
+              "price_eur": 4.5,
+              "available": null
+            },
+            {
+              "id": "coffees-010",
+              "name_en": "Irish coffee",
+              "price_eur": 6.0,
+              "available": null
+            },
+            {
+              "id": "coffees-011",
+              "name_en": "Freddo espresso",
+              "price_eur": 4.0,
+              "available": null
+            },
+            {
+              "id": "coffees-012",
+              "name_en": "Freddo cappuccino",
+              "price_eur": 4.5,
+              "available": null
+            },
+            {
+              "id": "coffees-013",
+              "name_en": "Mochaccino (hot or iced)",
+              "price_eur": 6.0,
+              "available": null
+            },
+            {
+              "id": "coffees-014",
+              "name_en": "Tea",
+              "price_eur": 4.0,
+              "available": null,
+              "description_en": "Chamomile, mint, green tea with fruit, or English Breakfast"
+            },
+            {
+              "id": "coffees-015",
+              "name_en": "Frappé with ice cream",
+              "price_eur": 6.0,
+              "available": null
+            },
+            {
+              "id": "coffees-016",
+              "name_en": "Chocolate (hot or iced)",
+              "price_eur": 5.0,
+              "available": null
+            }
+          ]
+        },
+        {
+          "id": "natura-special-coffees",
+          "title_en": "Natura specials",
+          "items": [
+            {
+              "id": "natura-special-coffees-001",
+              "name_en": "Affogato",
+              "price_eur": 5.5,
+              "available": null,
+              "description_en": "Espresso, vanilla ice cream and chocolate truffle"
+            },
+            {
+              "id": "natura-special-coffees-002",
+              "name_en": "Techno frappé",
+              "price_eur": 6.0,
+              "available": null,
+              "description_en": "Frappé with Baileys"
+            },
+            {
+              "id": "natura-special-coffees-003",
+              "name_en": "Freddo cappuccino caramel",
+              "price_eur": 5.0,
+              "available": null,
+              "description_en": "With whipped cream"
+            },
+            {
+              "id": "natura-special-coffees-004",
+              "name_en": "Vegan cappuccino",
+              "price_eur": 4.5,
+              "available": null,
+              "description_en": "With almond milk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "title_en": "Soft drinks & juices",
+      "categories": [
+        {
+          "id": "soft-drinks",
+          "title_en": "Soft drinks",
+          "items": [
+            {
+              "id": "soft-drinks-001",
+              "name_en": "Packed juice 330 ml",
+              "price_eur": 3.5,
+              "available": null,
+              "description_en": "Orange, peach, apple, banana, sour cherry or pineapple"
+            },
+            {
+              "id": "soft-drinks-002",
+              "name_en": "Freshments 330 ml",
+              "price_eur": 3.5,
+              "available": null,
+              "description_en": "Orangeade, lemonade, gazoz or pink grapefruit soda"
+            },
+            {
+              "id": "soft-drinks-003",
+              "name_en": "Olympos iced tea 500 ml",
+              "price_eur": 4.5,
+              "available": null,
+              "description_en": "Black tea peach, green tea lemon or green tea tropical, 0% sugar"
+            },
+            {
+              "id": "soft-drinks-004",
+              "name_en": "Three Cents ginger beer 200 ml",
+              "price_eur": 5.0,
+              "available": null
+            },
+            {
+              "id": "soft-drinks-005",
+              "name_en": "Coca-Cola 250 ml",
+              "price_eur": 3.5,
+              "available": null,
+              "description_en": "Regular or zero"
+            },
+            {
+              "id": "soft-drinks-006",
+              "name_en": "Crodino 175 ml",
+              "price_eur": 5.0,
+              "available": null,
+              "description_en": "Non-alcoholic spritz"
+            },
+            {
+              "id": "soft-drinks-007",
+              "name_en": "Sparkling water 330 ml",
+              "price_eur": 3.5,
+              "available": null
+            },
+            {
+              "id": "soft-drinks-008",
+              "name_en": "Granita / slushed ice",
+              "price_eur": 5.0,
+              "available": null,
+              "description_en": "Lemon or strawberry"
+            },
+            {
+              "id": "soft-drinks-009",
+              "name_en": "Milkshake",
+              "price_eur": 6.5,
+              "available": null,
+              "description_en": "Chocolate, vanilla, strawberry, mango, Bueno or Lotus Biscoff"
+            },
+            {
+              "id": "soft-drinks-010",
+              "name_en": "Table water 500 ml",
+              "price_eur": 0.5,
+              "available": null
+            }
+          ]
+        },
+        {
+          "id": "vitamin-bar",
+          "title_en": "Vitamin bar",
+          "items": [
+            {
+              "id": "vitamin-bar-001",
+              "name_en": "Fresh orange juice",
+              "price_eur": 5.0,
+              "available": null
+            },
+            {
+              "id": "vitamin-bar-002",
+              "name_en": "Homemade lemonade",
+              "price_eur": 5.0,
+              "available": null
+            },
+            {
+              "id": "vitamin-bar-003",
+              "name_en": "Passion lemonade",
+              "price_eur": 5.5,
+              "available": null
+            },
+            {
+              "id": "vitamin-bar-004",
+              "name_en": "Strawberry lemonade",
+              "price_eur": 5.5,
+              "available": null
+            },
+            {
+              "id": "vitamin-bar-005",
+              "name_en": "Detox",
+              "price_eur": 5.0,
+              "available": null,
+              "description_en": "Cucumber, ginger, lime juice, stevia, peppermint and soda"
+            },
+            {
+              "id": "vitamin-bar-006",
+              "name_en": "Freshly blended juice",
+              "price_eur": 6.0,
+              "available": null,
+              "description_en": "Melon-banana-apple, peach-banana-pear or watermelon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "title_en": "Beach favorites & food",
+      "categories": [
+        {
+          "id": "burgers",
+          "title_en": "Burgers",
+          "items": [
+            {
+              "id": "burgers-001",
+              "name_en": "Cheeseburger",
+              "price_eur": 8.0,
+              "available": null,
+              "description_en": "Cheddar, cheese, mustard, ketchup and pickle sauce"
+            },
+            {
+              "id": "burgers-002",
+              "name_en": "Bacon burger",
+              "price_eur": 9.5,
+              "available": null,
+              "description_en": "Cheddar, cheese, mustard, pickle sauce, tomato, iceberg and bacon"
+            },
+            {
+              "id": "burgers-003",
+              "name_en": "Hangover burger",
+              "price_eur": 11.0,
+              "available": null,
+              "description_en": "Mustard, iceberg, cheddar, bacon, egg, caramelized onion and fresh pepper"
+            },
+            {
+              "id": "burgers-004",
+              "name_en": "Spicy beast",
+              "price_eur": 9.5,
+              "available": null,
+              "description_en": "Cheddar, bacon, onion, tomato, iceberg, mustard and spicy sauce"
+            },
+            {
+              "id": "burgers-005",
+              "name_en": "Los pollos Hermano’s",
+              "price_eur": 9.5,
+              "available": null,
+              "description_en": "Crispy chicken bites, iceberg, tomato, mustard and feta cheese sauce"
+            },
+            {
+              "id": "burgers-006",
+              "name_en": "Chaloumi burger",
+              "price_eur": 8.5,
+              "available": null,
+              "description_en": "Halloumi, iceberg, lemon dressing, caramelized onions and tomato"
+            }
+          ],
+          "notes_en": "All burgers are served with fries; ingredients summarized from the 2026 photographed menu."
+        },
+        {
+          "id": "pizza",
+          "title_en": "Pizza",
+          "items": [
+            {
+              "id": "pizza-001",
+              "name_en": "Margherita",
+              "price_eur": 11.0,
+              "available": null,
+              "description_en": "Fresh tomato and oregano"
+            },
+            {
+              "id": "pizza-002",
+              "name_en": "Special",
+              "price_eur": 12.0,
+              "available": null,
+              "description_en": "Peppers, pepperoni and bacon"
+            },
+            {
+              "id": "pizza-003",
+              "name_en": "Double pepperoni",
+              "price_eur": 12.0,
+              "available": null,
+              "description_en": "Two types of pepperoni slices"
+            },
+            {
+              "id": "pizza-004",
+              "name_en": "Mexican",
+              "price_eur": 12.0,
+              "available": null,
+              "description_en": "Tomato, peppers, onion, sweet corn and Tabasco"
+            },
+            {
+              "id": "pizza-005",
+              "name_en": "Chicken BBQ",
+              "price_eur": 13.0,
+              "available": null,
+              "description_en": "Chicken fillet, bacon and BBQ sauce"
+            },
+            {
+              "id": "pizza-006",
+              "name_en": "Gyros",
+              "price_eur": 13.0,
+              "available": null,
+              "description_en": "Pork gyros, onion, tomato and oregano"
+            }
+          ],
+          "notes_en": "All pizzas include tomato sauce, Gouda and mozzarella."
+        },
+        {
+          "id": "club-sandwich-snacks",
+          "title_en": "Club sandwiches & snacks",
+          "items": [
+            {
+              "id": "club-sandwich-snacks-001",
+              "name_en": "Club sandwich",
+              "price_eur": 8.0,
+              "available": null,
+              "description_en": "Served with fries; Gouda, ham, bacon, tomato, iceberg and mayonnaise"
+            },
+            {
+              "id": "club-sandwich-snacks-002",
+              "name_en": "Family club sandwich",
+              "price_eur": 16.0,
+              "available": null,
+              "description_en": "Double sandwich, triple fries"
+            },
+            {
+              "id": "club-sandwich-snacks-003",
+              "name_en": "French fries",
+              "price_eur": 5.0,
+              "available": null
+            },
+            {
+              "id": "club-sandwich-snacks-004",
+              "name_en": "Dirty fries",
+              "price_eur": 8.5,
+              "available": null,
+              "description_en": "Fries with bacon and cheddar sauce, served on tortilla with mayo"
+            },
+            {
+              "id": "club-sandwich-snacks-005",
+              "name_en": "Crispy chicken nuggets",
+              "price_eur": 8.5,
+              "available": null,
+              "description_en": "Served with fries and BBQ sauce"
+            },
+            {
+              "id": "club-sandwich-snacks-006",
+              "name_en": "Burrito",
+              "price_eur": 10.0,
+              "available": null,
+              "description_en": "Spicy chicken, sweet corn, tomato, green pepper, chip stick and feta cheese sauce; fries"
+            },
+            {
+              "id": "club-sandwich-snacks-007",
+              "name_en": "Double toasted sandwich",
+              "price_eur": 4.0,
+              "available": null,
+              "description_en": "Ham or turkey with Gouda cheese"
+            }
+          ]
+        },
+        {
+          "id": "salads",
+          "title_en": "Salads",
+          "items": [
+            {
+              "id": "salads-001",
+              "name_en": "Dakos salad",
+              "price_eur": 8.5,
+              "available": null,
+              "description_en": "Cretan rusk, tomato, feta, oregano, olives and extra virgin olive oil"
+            },
+            {
+              "id": "salads-002",
+              "name_en": "Greek salad",
+              "price_eur": 9.0,
+              "available": null,
+              "description_en": "Tomato, cucumber, onion, green pepper, olives, feta, oregano and extra virgin olive oil"
+            },
+            {
+              "id": "salads-003",
+              "name_en": "Natura salad",
+              "price_eur": 9.5,
+              "available": null,
+              "description_en": "Iceberg, tuna, sweet corn, cherry tomatoes, mini crackers and lemon dressing"
+            },
+            {
+              "id": "salads-004",
+              "name_en": "Caesar’s salad",
+              "price_eur": 9.5,
+              "available": null,
+              "description_en": "Iceberg, sweet corn, chicken fillet, parmesan, croutons and Caesar dressing"
+            },
+            {
+              "id": "salads-005",
+              "name_en": "Crispy bowl",
+              "price_eur": 9.5,
+              "available": null,
+              "description_en": "Crispy chicken, iceberg, cucumber, cherry tomatoes, sesame seeds and yogurt dressing"
+            }
+          ]
+        },
+        {
+          "id": "wraps",
+          "title_en": "Wraps",
+          "items": [
+            {
+              "id": "wraps-001",
+              "name_en": "Meat wrap",
+              "price_eur": 4.5,
+              "available": null,
+              "description_en": "Turkey or ham, Gouda cheese, tomato, iceberg and mayonnaise"
+            },
+            {
+              "id": "wraps-002",
+              "name_en": "Veggie wrap",
+              "price_eur": 4.5,
+              "available": null,
+              "description_en": "Tomato, iceberg, cucumber, sweet corn and feta cheese sauce"
+            },
+            {
+              "id": "wraps-003",
+              "name_en": "Tuna wrap",
+              "price_eur": 6.0,
+              "available": null,
+              "description_en": "Tomato, iceberg, tuna and mayonnaise"
+            },
+            {
+              "id": "wraps-004",
+              "name_en": "Chicken wrap",
+              "price_eur": 6.0,
+              "available": null,
+              "description_en": "Chicken fillet, iceberg, mustard, parmesan and yogurt sauce"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "title_en": "Desserts",
+      "categories": [
+        {
+          "id": "desserts",
+          "title_en": "Desserts & fruit",
+          "items": [
+            {
+              "id": "desserts-001",
+              "name_en": "Fresh fruit salad",
+              "price_eur": 10.0,
+              "available": null
+            },
+            {
+              "id": "desserts-002",
+              "name_en": "Stuffed melon with yogurt",
+              "price_eur": 9.0,
+              "available": null,
+              "description_en": "Yogurt, honey and walnuts"
+            },
+            {
+              "id": "desserts-003",
+              "name_en": "Stuffed melon with ice cream",
+              "price_eur": 9.5,
+              "available": null,
+              "description_en": "Vanilla ice cream and chocolate syrup"
+            },
+            {
+              "id": "desserts-004",
+              "name_en": "Yogurt with honey & walnuts",
+              "price_eur": 5.0,
+              "available": null
+            },
+            {
+              "id": "desserts-005",
+              "name_en": "Ice cream — 1 scoop",
+              "price_eur": 3.0,
+              "available": null,
+              "description_en": "Chocolate, vanilla, strawberry, mango, Bueno or Lotus Biscoff"
+            },
+            {
+              "id": "desserts-006",
+              "name_en": "Ice cream — 2 scoops",
+              "price_eur": 5.5,
+              "available": null,
+              "description_en": "Chocolate, vanilla, strawberry, mango, Bueno or Lotus Biscoff"
+            }
+          ]
+        },
+        {
+          "id": "sweet-jars",
+          "title_en": "Sweet jars (160–180 ml)",
+          "items": [
+            {
+              "id": "sweet-jars-001",
+              "name_en": "Profiterol",
+              "price_eur": 6.0,
+              "available": null,
+              "description_en": "Choux pastry, pastry cream, milk chocolate cream"
+            },
+            {
+              "id": "sweet-jars-002",
+              "name_en": "Coco mango",
+              "price_eur": 6.0,
+              "available": null,
+              "description_en": "Mango pulp with fruit pieces, coconut cream, crispy crumble, white chocolate and caramel wafer"
+            },
+            {
+              "id": "sweet-jars-003",
+              "name_en": "Banoffee",
+              "price_eur": 6.0,
+              "available": null,
+              "description_en": "Buttery biscuit base, caramel and banana cream, toffee topping"
+            },
+            {
+              "id": "sweet-jars-004",
+              "name_en": "Dubai dream",
+              "price_eur": 6.0,
+              "available": null,
+              "description_en": "Shredded pastry with pistachio praline and milk chocolate cream"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cocktails",
+      "title_en": "Cocktails",
+      "categories": [
+        {
+          "id": "margaritas",
+          "title_en": "Margaritas",
+          "items": [
+            {
+              "id": "margaritas-001",
+              "name_en": "Margarita classic",
+              "price_eur": 10.0,
+              "available": null,
+              "description_en": "Olmeca Silver, Cointreau, fresh lemon juice"
+            },
+            {
+              "id": "margaritas-002",
+              "name_en": "Frozen Margarita strawberry",
+              "price_eur": 11.0,
+              "available": null,
+              "description_en": "Olmeca Silver tequila, triple sec, fresh lemon, strawberry purée"
+            },
+            {
+              "id": "margaritas-003",
+              "name_en": "Yuzu elder Margarita",
+              "price_eur": 11.0,
+              "available": null,
+              "description_en": "Olmeca Silver tequila, triple sec, yuzu and lemon juice, elderflower extract"
+            },
+            {
+              "id": "margaritas-004",
+              "name_en": "Smoked & spicy Margarita",
+              "price_eur": 12.0,
+              "available": null,
+              "description_en": "Mezcal tequila, Cointreau, fresh lemon juice, Tabasco"
+            }
+          ]
+        },
+        {
+          "id": "classic-cocktails",
+          "title_en": "Classic cocktails",
+          "items": [
+            {
+              "id": "classic-cocktails-001",
+              "name_en": "Paloma",
+              "price_eur": 10.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-002",
+              "name_en": "Cuba Libre",
+              "price_eur": 10.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-003",
+              "name_en": "Negroni",
+              "price_eur": 11.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-004",
+              "name_en": "Mai Tai",
+              "price_eur": 10.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-005",
+              "name_en": "Caipirinha",
+              "price_eur": 10.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-006",
+              "name_en": "Piña Colada",
+              "price_eur": 10.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-007",
+              "name_en": "Zombie",
+              "price_eur": 11.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-008",
+              "name_en": "Moscow Mule",
+              "price_eur": 11.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-009",
+              "name_en": "Sex on the Beach",
+              "price_eur": 10.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-010",
+              "name_en": "Espresso Martini",
+              "price_eur": 11.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-011",
+              "name_en": "Whiskey Sour",
+              "price_eur": 10.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-012",
+              "name_en": "Bloody Mary",
+              "price_eur": 10.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-013",
+              "name_en": "Frozen Daiquiri (passion fruit or strawberry)",
+              "price_eur": 11.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-014",
+              "name_en": "Porn Star Martini",
+              "price_eur": 11.0,
+              "available": null
+            },
+            {
+              "id": "classic-cocktails-015",
+              "name_en": "Bramble",
+              "price_eur": 10.0,
+              "available": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spirits",
+      "title_en": "Spirits & aperitifs",
+      "categories": [
+        {
+          "id": "whisky",
+          "title_en": "Whisky",
+          "items": [
+            {
+              "id": "whisky-001",
+              "name_en": "Classic whisky",
+              "price_eur": 8.0,
+              "available": null,
+              "description_en": "Ballantine’s, Haig, Famous Grouse, Johnnie Red, Jim Beam, Bushmills"
+            },
+            {
+              "id": "whisky-002",
+              "name_en": "Premium whisky",
+              "price_eur": 9.0,
+              "available": null,
+              "description_en": "Chivas, Dimple, Jack Daniel’s, Johnnie Black, Tullamore, Jameson Black Barrel"
+            },
+            {
+              "id": "whisky-003",
+              "name_en": "Cardhu",
+              "price_eur": 11.0,
+              "available": null
+            },
+            {
+              "id": "whisky-004",
+              "name_en": "Glenfiddich",
+              "price_eur": 11.0,
+              "available": null
+            },
+            {
+              "id": "whisky-005",
+              "name_en": "Lagavulin 8",
+              "price_eur": 15.0,
+              "available": null
+            },
+            {
+              "id": "whisky-006",
+              "name_en": "Nikka from the Barrel",
+              "price_eur": 16.0,
+              "available": null
+            },
+            {
+              "id": "whisky-007",
+              "name_en": "Macallan 12",
+              "price_eur": 19.0,
+              "available": null
+            },
+            {
+              "id": "whisky-008",
+              "name_en": "Johnnie Blue",
+              "price_eur": 38.0,
+              "available": null
+            }
+          ]
+        },
+        {
+          "id": "rum",
+          "title_en": "Rum",
+          "items": [
+            {
+              "id": "rum-001",
+              "name_en": "Classic rum",
+              "price_eur": 8.0,
+              "available": null,
+              "description_en": "Havana 3 años, Bacardi, Captain Morgan, Pampero, Angostura"
+            },
+            {
+              "id": "rum-002",
+              "name_en": "Havana 7 años",
+              "price_eur": 9.0,
+              "available": null
+            },
+            {
+              "id": "rum-003",
+              "name_en": "Diplomatico",
+              "price_eur": 11.0,
+              "available": null
+            },
+            {
+              "id": "rum-004",
+              "name_en": "Matusalem",
+              "price_eur": 12.0,
+              "available": null
+            },
+            {
+              "id": "rum-005",
+              "name_en": "Don Papa",
+              "price_eur": 13.0,
+              "available": null
+            },
+            {
+              "id": "rum-006",
+              "name_en": "Bumbu",
+              "price_eur": 12.0,
+              "available": null
+            },
+            {
+              "id": "rum-007",
+              "name_en": "Zacapa 23 años",
+              "price_eur": 15.0,
+              "available": null
+            },
+            {
+              "id": "rum-008",
+              "name_en": "Plantation XO",
+              "price_eur": 15.0,
+              "available": null
+            }
+          ]
+        },
+        {
+          "id": "vodka",
+          "title_en": "Vodka",
+          "items": [
+            {
+              "id": "vodka-001",
+              "name_en": "Classic vodka",
+              "price_eur": 8.0,
+              "available": null,
+              "description_en": "Absolut, Stolichnaya, Smirnoff, Finlandia, Serkova"
+            },
+            {
+              "id": "vodka-002",
+              "name_en": "Cîroc",
+              "price_eur": 12.0,
+              "available": null
+            },
+            {
+              "id": "vodka-003",
+              "name_en": "Grey Goose",
+              "price_eur": 13.0,
+              "available": null
+            },
+            {
+              "id": "vodka-004",
+              "name_en": "Beneluxe Ice",
+              "price_eur": 12.0,
+              "available": null
+            },
+            {
+              "id": "vodka-005",
+              "name_en": "Beluga",
+              "price_eur": 13.0,
+              "available": null
+            },
+            {
+              "id": "vodka-006",
+              "name_en": "Belvedere",
+              "price_eur": 13.0,
+              "available": null
+            },
+            {
+              "id": "vodka-007",
+              "name_en": "Stolichnaya Elit",
+              "price_eur": 15.0,
+              "available": null
+            }
+          ]
+        },
+        {
+          "id": "gin",
+          "title_en": "Gin",
+          "items": [
+            {
+              "id": "gin-001",
+              "name_en": "London dry gin",
+              "price_eur": 8.0,
+              "available": null,
+              "description_en": "Beefeater, Tanqueray, Bombay"
+            },
+            {
+              "id": "gin-002",
+              "name_en": "Greek gin",
+              "price_eur": 9.0,
+              "available": null,
+              "description_en": "Dry River, Mataroa, Votanikon"
+            },
+            {
+              "id": "gin-003",
+              "name_en": "Hendrick’s",
+              "price_eur": 11.0,
+              "available": null
+            },
+            {
+              "id": "gin-004",
+              "name_en": "Malfy",
+              "price_eur": 11.0,
+              "available": null
+            },
+            {
+              "id": "gin-005",
+              "name_en": "Grace (Greek)",
+              "price_eur": 12.0,
+              "available": null
+            },
+            {
+              "id": "gin-006",
+              "name_en": "G’Vine",
+              "price_eur": 12.0,
+              "available": null
+            },
+            {
+              "id": "gin-007",
+              "name_en": "KI NO BI",
+              "price_eur": 15.0,
+              "available": null
+            },
+            {
+              "id": "gin-008",
+              "name_en": "Monkey 47",
+              "price_eur": 15.0,
+              "available": null
+            }
+          ]
+        },
+        {
+          "id": "tequila",
+          "title_en": "Tequila",
+          "items": [
+            {
+              "id": "tequila-001",
+              "name_en": "Classic tequila",
+              "price_eur": 8.0,
+              "available": null,
+              "description_en": "Olmeca, Jose Cuervo, Sierra"
+            },
+            {
+              "id": "tequila-002",
+              "name_en": "Herradura",
+              "price_eur": 11.0,
+              "available": null
+            },
+            {
+              "id": "tequila-003",
+              "name_en": "Don Julio",
+              "price_eur": 14.0,
+              "available": null
+            },
+            {
+              "id": "tequila-004",
+              "name_en": "Patrón",
+              "price_eur": 14.0,
+              "available": null
+            },
+            {
+              "id": "tequila-005",
+              "name_en": "Espolòn",
+              "price_eur": 10.0,
+              "available": null
+            },
+            {
+              "id": "tequila-006",
+              "name_en": "Olmeca Altos",
+              "price_eur": 10.0,
+              "available": null
+            },
+            {
+              "id": "tequila-007",
+              "name_en": "Del Maguey Vida",
+              "price_eur": 14.0,
+              "available": null
+            }
+          ]
+        },
+        {
+          "id": "aperitifs",
+          "title_en": "Liqueurs & aperitifs",
+          "items": [
+            {
+              "id": "aperitifs-001",
+              "name_en": "Liqueurs",
+              "price_eur": 8.0,
+              "available": null
+            },
+            {
+              "id": "aperitifs-002",
+              "name_en": "Aperitifs",
+              "price_eur": 8.0,
+              "available": null
+            },
+            {
+              "id": "aperitifs-003",
+              "name_en": "Ouzo",
+              "price_eur": 5.0,
+              "available": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

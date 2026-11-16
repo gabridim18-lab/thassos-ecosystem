@@ -1,0 +1,45 @@
+{
+  "id": "pinch-of-salt",
+  "slug": "pinch-of-salt",
+  "type": "restaurant",
+  "category": "restaurants",
+  "zone": "skala-prinos",
+  "beachSlug": null,
+  "name": {
+    "ro": "Pinch of Salt",
+    "en": "Pinch of Salt",
+    "el": "Pinch of Salt",
+    "de": "Pinch of Salt",
+    "bg": "Pinch of Salt",
+    "sr": "Pinch of Salt"
+  },
+  "titleEn": "Pinch of Salt",
+  "titleRo": "Pinch of Salt",
+  "shortDescription": {
+    "ro": "Restaurant grecesc și mediteranean în Skala Prinos, cu terasă luminoasă, atmosferă relaxată, preparate atent prezentate și locuri de luat masa lângă piscină.",
+    "en": "Contemporary Greek and Mediterranean dining in Skala Prinos, with an airy terrace, relaxed atmosphere, thoughtfully presented dishes and poolside seating.",
+    "el": "Σύγχρονο ελληνικό και μεσογειακό εστιατόριο στη Σκάλα Πρίνου, με φωτεινή βεράντα, χαλαρή ατμόσφαιρα, προσεγμένα πιάτα και τραπέζια δίπλα στην πισίνα.",
+    "de": "Modernes griechisch-mediterranes Restaurant in Skala Prinos mit luftiger Terrasse, entspannter Atmosphäre, liebevoll angerichteten Speisen und Sitzplätzen am Pool.",
+    "bg": "Съвременен гръцки и средиземноморски ресторант в Скала Принос с просторна тераса, спокойна атмосфера, красиво поднесени ястия и места до басейна.",
+    "sr": "Savremeni grčki i mediteranski restoran u Skali Prinos, sa prostranom terasom, opuštenom atmosferom, pažljivo serviranim jelima i mestima pored bazena."
+  },
+  "cuisine": [
+    "greek",
+    "mediterranean",
+    "contemporary",
+    "seafood"
+  ],
+  "cover": "images/Terasa mediteraneană la apus.webp",
+  "image": "images/Terasa mediteraneană la apus.webp",
+  "latitude": 40.75872891924579,
+  "longitude": 24.57461859075335,
+  "rating": null,
+  "ratingCapturedAt": "2026-11-03",
+  "ratingNotLive": true,
+  "reviewCount": 69,
+  "price": null,
+  "partner": false,
+  "featured": false,
+  "active": true,
+  "detailPath": "destinations/thassos/restaurants/pinch-of-salt/restaurant.json"
+}

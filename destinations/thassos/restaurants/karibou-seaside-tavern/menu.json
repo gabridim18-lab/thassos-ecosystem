@@ -1,0 +1,12 @@
+{
+  "restaurantId": "karibou-seaside-tavern",
+  "status": "not_provided",
+  "currentMenuAvailable": false,
+  "pricesConfirmed": false,
+  "sections": [],
+  "products": [],
+  "notes": "No official menu or prices have been provided. Dishes described editorially or visible in photographs must not be automatically treated as a current official menu.",
+  "ordering": {
+    "enabled": false
+  }
+}

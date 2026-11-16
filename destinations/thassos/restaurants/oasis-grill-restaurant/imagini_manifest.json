@@ -1,0 +1,186 @@
+{
+  "restaurantId": "oasis-grill-restaurant",
+  "updatedAt": "2026-11-03",
+  "photos": [
+    {
+      "order": 1,
+      "file": "images/Cafenea mediteraneană sub copac iluminat.webp",
+      "originalFilename": "Cafenea mediteraneană sub copac iluminat.png",
+      "role": "hero",
+      "altEn": "Terrace beneath the illuminated tree at dusk",
+      "width": 1536,
+      "height": 1024,
+      "format": "webp",
+      "source": "user_supplied_and_confirmed"
+    },
+    {
+      "order": 2,
+      "file": "images/Curte mediteraneană cu grătar rustic.webp",
+      "originalFilename": "Curte mediteraneană cu grătar rustic.png",
+      "role": "gallery",
+      "altEn": "Terrace and garden during daylight",
+      "width": 1483,
+      "height": 1061,
+      "format": "webp",
+      "source": "user_supplied_and_confirmed"
+    },
+    {
+      "order": 3,
+      "file": "images/Caracatiță la grătar cu garnituri proaspete.webp",
+      "originalFilename": "Caracatiță la grătar cu garnituri proaspete.png",
+      "role": "food",
+      "altEn": "Grilled octopus with sides",
+      "width": 1536,
+      "height": 1024,
+      "format": "webp",
+      "source": "user_supplied_and_confirmed"
+    },
+    {
+      "order": 4,
+      "file": "images/Creveți la grătar cu lămâie și sos balsamic.webp",
+      "originalFilename": "Creveți la grătar cu lămâie și sos balsamic.png",
+      "role": "food",
+      "altEn": "Grilled shrimps",
+      "width": 1672,
+      "height": 941,
+      "format": "webp",
+      "source": "user_supplied_and_confirmed"
+    },
+    {
+      "order": 5,
+      "file": "images/Pește la grătar în tavernă mediteraneană.webp",
+      "originalFilename": "Pește la grătar în tavernă mediteraneană.png",
+      "role": "food",
+      "altEn": "Grilled fish with potatoes",
+      "width": 1672,
+      "height": 941,
+      "format": "webp",
+      "source": "user_supplied_and_confirmed"
+    },
+    {
+      "order": 6,
+      "file": "images/Restaurant pe malul mării la apus.webp",
+      "originalFilename": "Restaurant pe malul mării la apus.png",
+      "role": "gallery",
+      "altEn": "Beachside seating",
+      "width": 1536,
+      "height": 1024,
+      "format": "webp",
+      "source": "user_supplied_and_confirmed"
+    },
+    {
+      "order": 7,
+      "file": "images/Platou grecesc cu dovlecei crocanți.webp",
+      "originalFilename": "Platou grecesc cu dovlecei crocanți.png",
+      "role": "food",
+      "altEn": "Fried zucchini with tzatziki",
+      "width": 1536,
+      "height": 1024,
+      "format": "webp",
+      "source": "user_supplied_and_confirmed"
+    },
+    {
+      "order": 8,
+      "file": "images/Cafenea rustică Irantiri la amurg.webp",
+      "originalFilename": "Cafenea rustică Irantiri la amurg.png",
+      "role": "gallery",
+      "altEn": "Outdoor bar and terrace at dusk",
+      "width": 1536,
+      "height": 1024,
+      "format": "webp",
+      "source": "user_supplied_and_confirmed"
+    },
+    {
+      "order": 9,
+      "file": "images/Terasa rustică la apus, lângă mare.webp",
+      "originalFilename": "Terasa rustică la apus, lângă mare.png",
+      "role": "gallery",
+      "altEn": "Seaside terrace during sunset",
+      "width": 1672,
+      "height": 941,
+      "format": "webp",
+      "source": "user_supplied_and_confirmed"
+    },
+    {
+      "order": 10,
+      "file": "images/Restaurant mediteranean la apus_VEVENT.webp",
+      "originalFilename": "Restaurant mediteranean la apus_VEVENT.png",
+      "role": "gallery",
+      "altEn": "Outdoor entrance and terrace in the evening",
+      "width": 1672,
+      "height": 941,
+      "format": "webp",
+      "source": "user_supplied_and_confirmed"
+    },
+    {
+      "order": 11,
+      "file": "images/Friptură la grătar cu cartofi prăjiți.webp",
+      "originalFilename": "Friptură la grătar cu cartofi prăjiți.png",
+      "role": "food",
+      "altEn": "Grilled meat with potatoes",
+      "width": 1672,
+      "height": 941,
+      "format": "webp",
+      "source": "user_supplied_and_confirmed"
+    }
+  ],
+  "menuScreenshots": [
+    {
+      "file": "documents/menu-2025/image(20261103-062323).png",
+      "section": "starters",
+      "year": 2025,
+      "isCurrent": false
+    },
+    {
+      "file": "documents/menu-2025/image(20261103-062336).png",
+      "section": "seafood",
+      "year": 2025,
+      "isCurrent": false
+    },
+    {
+      "file": "documents/menu-2025/image(20261103-062401).png",
+      "section": "meat",
+      "year": 2025,
+      "isCurrent": false
+    },
+    {
+      "file": "documents/menu-2025/image(20261103-062419).png",
+      "section": "salads_and_spreads",
+      "year": 2025,
+      "isCurrent": false
+    },
+    {
+      "file": "documents/menu-2025/image(20261103-062438).png",
+      "section": "vegetarian",
+      "year": 2025,
+      "isCurrent": false
+    },
+    {
+      "file": "documents/menu-2025/image(20261103-062613).png",
+      "section": "kids_menu",
+      "year": 2025,
+      "isCurrent": false
+    },
+    {
+      "file": "documents/menu-2025/image(20261103-062646).png",
+      "section": "seafood_photograph_of_printed_menu_duplicate",
+      "year": 2025,
+      "isCurrent": false
+    },
+    {
+      "file": "documents/menu-2025/image(20261103-062659).png",
+      "section": "drinks",
+      "year": 2025,
+      "isCurrent": false
+    }
+  ],
+  "counts": {
+    "restaurantPhotos": 11,
+    "menuSourceImages": 8
+  },
+  "hero": "images/Cafenea mediteraneană sub copac iluminat.webp",
+  "preservedPhotoNamesExceptExtension": true,
+  "originalPhotosConvertedFrom": "PNG",
+  "optimizedPhotosFormat": "WebP",
+  "imageNotes": "Images supplied and confirmed by the user as belonging to Oasis Grill Restaurant. Photos are not relabeled internally."
+}

@@ -1,0 +1,188 @@
+{
+  "schemaVersion": "1.0",
+  "serviceId": "cat-dive-center",
+  "serviceName": "CAT Dive Center (Center Action Thassos)",
+  "sourceDate": "2026-11-04",
+  "currency": "EUR",
+  "pricesAreCurrent": false,
+  "showPricesPublicly": false,
+  "bookingStatus": "contact_provider_no_live_inventory",
+  "generalNotice": {
+    "ro": "Tarifele, durata și locurile disponibile nu sunt confirmate. Contactează centrul și solicită detalii despre nivelul necesar, vârsta minimă și condițiile medicale înainte de rezervare.",
+    "en": "Prices, durations and availability are not confirmed. Contact the center for certification, age and medical requirements before booking.",
+    "el": "Οι τιμές, η διάρκεια και η διαθεσιμότητα δεν έχουν επιβεβαιωθεί. Επικοινωνήστε με το κέντρο για τις προϋποθέσεις πριν από την κράτηση.",
+    "de": "Preise, Dauer und Verfügbarkeit sind nicht bestätigt. Bitte erkundigen Sie sich vor der Buchung nach Voraussetzungen.",
+    "bg": "Цените, продължителността и наличността не са потвърдени. Свържете се с центъра преди резервация.",
+    "sr": "Cene, trajanje i dostupnost nisu potvrđeni. Obratite se centru pre rezervacije radi uslova učešća."
+  },
+  "activities": [
+    {
+      "id": "try-scuba",
+      "nameEn": "Try Scuba",
+      "descriptionEn": "Introduction to scuba diving for first-time participants with instructor guidance",
+      "level": "beginner",
+      "source": "official_website",
+      "priceEUR": null,
+      "priceStatus": "not_provided",
+      "durationMinutes": null,
+      "durationStatus": "not_provided",
+      "available": null,
+      "availabilityStatus": "confirm_with_provider",
+      "requirements": {
+        "minimumAge": null,
+        "certification": "no_prior_diving_experience_expected_confirm_with_provider",
+        "medicalFitness": "provider_screening_required_or_advised_confirm_details",
+        "parentalConsentForMinors": "confirm_with_provider"
+      },
+      "booking": {
+        "mode": "contact_provider",
+        "url": "https://centeractionthassos.com/",
+        "phone": "+30 694 064 4925"
+      }
+    },
+    {
+      "id": "ssi-courses",
+      "nameEn": "SSI Diving Courses",
+      "descriptionEn": "Structured training courses; specific certification and course prerequisites to be confirmed",
+      "level": "all_levels",
+      "source": "official_website_and_ssi_listing",
+      "priceEUR": null,
+      "priceStatus": "not_provided",
+      "durationMinutes": null,
+      "durationStatus": "not_provided",
+      "available": null,
+      "availabilityStatus": "confirm_with_provider",
+      "requirements": {
+        "minimumAge": null,
+        "certification": "confirm_with_provider",
+        "medicalFitness": "provider_screening_required_or_advised_confirm_details",
+        "parentalConsentForMinors": "confirm_with_provider"
+      },
+      "booking": {
+        "mode": "contact_provider",
+        "url": "https://centeractionthassos.com/",
+        "phone": "+30 694 064 4925"
+      }
+    },
+    {
+      "id": "fun-dives",
+      "nameEn": "Guided Fun Dives",
+      "descriptionEn": "Guided recreational dives; site selection depends on conditions and qualifications",
+      "level": "certified_divers",
+      "source": "official_website",
+      "priceEUR": null,
+      "priceStatus": "not_provided",
+      "durationMinutes": null,
+      "durationStatus": "not_provided",
+      "available": null,
+      "availabilityStatus": "confirm_with_provider",
+      "requirements": {
+        "minimumAge": null,
+        "certification": "confirm_with_provider",
+        "medicalFitness": "provider_screening_required_or_advised_confirm_details",
+        "parentalConsentForMinors": "confirm_with_provider"
+      },
+      "booking": {
+        "mode": "contact_provider",
+        "url": "https://centeractionthassos.com/",
+        "phone": "+30 694 064 4925"
+      }
+    },
+    {
+      "id": "snorkeling",
+      "nameEn": "Snorkeling",
+      "descriptionEn": "Snorkeling programs and guidance; availability to be confirmed",
+      "level": "general",
+      "source": "official_website",
+      "priceEUR": null,
+      "priceStatus": "not_provided",
+      "durationMinutes": null,
+      "durationStatus": "not_provided",
+      "available": null,
+      "availabilityStatus": "confirm_with_provider",
+      "requirements": {
+        "minimumAge": null,
+        "certification": "confirm_with_provider",
+        "medicalFitness": "provider_screening_required_or_advised_confirm_details",
+        "parentalConsentForMinors": "confirm_with_provider"
+      },
+      "booking": {
+        "mode": "contact_provider",
+        "url": "https://centeractionthassos.com/",
+        "phone": "+30 694 064 4925"
+      }
+    },
+    {
+      "id": "boat-dives",
+      "nameEn": "Boat Dives",
+      "descriptionEn": "Boat dives subject to certification level, schedule and sea conditions",
+      "level": "certified_divers",
+      "source": "ssi_listing",
+      "priceEUR": null,
+      "priceStatus": "not_provided",
+      "durationMinutes": null,
+      "durationStatus": "not_provided",
+      "available": null,
+      "availabilityStatus": "confirm_with_provider",
+      "requirements": {
+        "minimumAge": null,
+        "certification": "confirm_with_provider",
+        "medicalFitness": "provider_screening_required_or_advised_confirm_details",
+        "parentalConsentForMinors": "confirm_with_provider"
+      },
+      "booking": {
+        "mode": "contact_provider",
+        "url": "https://centeractionthassos.com/",
+        "phone": "+30 694 064 4925"
+      }
+    },
+    {
+      "id": "night-dives",
+      "nameEn": "Night Dives",
+      "descriptionEn": "Night dives for suitably qualified participants, subject to conditions",
+      "level": "qualified_divers",
+      "source": "ssi_listing",
+      "priceEUR": null,
+      "priceStatus": "not_provided",
+      "durationMinutes": null,
+      "durationStatus": "not_provided",
+      "available": null,
+      "availabilityStatus": "confirm_with_provider",
+      "requirements": {
+        "minimumAge": null,
+        "certification": "confirm_with_provider",
+        "medicalFitness": "provider_screening_required_or_advised_confirm_details",
+        "parentalConsentForMinors": "confirm_with_provider"
+      },
+      "booking": {
+        "mode": "contact_provider",
+        "url": "https://centeractionthassos.com/",
+        "phone": "+30 694 064 4925"
+      }
+    },
+    {
+      "id": "wreck-dives",
+      "nameEn": "Wreck Dives",
+      "descriptionEn": "Wreck-related diving activities subject to training and local conditions",
+      "level": "qualified_divers",
+      "source": "ssi_listing",
+      "priceEUR": null,
+      "priceStatus": "not_provided",
+      "durationMinutes": null,
+      "durationStatus": "not_provided",
+      "available": null,
+      "availabilityStatus": "confirm_with_provider",
+      "requirements": {
+        "minimumAge": null,
+        "certification": "confirm_with_provider",
+        "medicalFitness": "provider_screening_required_or_advised_confirm_details",
+        "parentalConsentForMinors": "confirm_with_provider"
+      },
+      "booking": {
+        "mode": "contact_provider",
+        "url": "https://centeractionthassos.com/",
+        "phone": "+30 694 064 4925"
+      }
+    }
+  ]
+}

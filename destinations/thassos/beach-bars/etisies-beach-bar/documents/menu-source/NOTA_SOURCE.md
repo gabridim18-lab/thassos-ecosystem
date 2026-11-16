@@ -1,0 +1,1 @@
+Menu photograph filename: image(20261105-202533).png. Supplied in chat, not included in archive. Menu extracted manually into menu.json. Date of menu photograph unknown. Confirm with operator before publication.

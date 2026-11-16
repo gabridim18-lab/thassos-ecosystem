@@ -1,0 +1,296 @@
+{
+  "schemaVersion": "1.0",
+  "id": "mpes-sto-psito",
+  "slug": "mpes-sto-psito",
+  "type": "snack-bar",
+  "category": "local-eats-drinks",
+  "zone": "skala-prinos",
+  "beachSlug": null,
+  "name": "Mpes Sto Psito — Greek Grill & Gyros",
+  "originalName": "ΜΠΕΣ ΣΤΟ ΨΗΤΟ",
+  "brandTransliteration": "Mpes Sto Psito",
+  "titleEn": "Mpes Sto Psito — Greek Grill & Gyros",
+  "titleRo": "Mpes Sto Psito — Greek Grill & Gyros",
+  "translations": {
+    "ro": {
+      "name": "Mpes Sto Psito — Greek Grill & Gyros",
+      "shortDescription": "Gyros, souvlaki și preparate grecești la grătar în Skala Prinos, aproape de port, cu terasă și opțiune takeaway.",
+      "description": "În Skala Prinos, aproape de portul de feribot din Thassos, Mpes Sto Psito este un local grecesc relaxat, dedicat preparatelor la grătar și gustărilor consistente. Aici poți alege gyros în pita moale, souvlaki, porții de carne la grătar, cartofi prăjiți și sosuri tradiționale.\n\nTerasa și posibilitatea de a comanda la pachet îl fac o oprire practică pentru un prânz rapid sau o cină fără formalități. Vizitatorii apreciază adesea porțiile generoase, personalul prietenos și raportul calitate-preț. Dacă preferi gyros cu tzatziki, cere explicit sosul la comandă.\n\nLocalul este potrivit pentru familii, cupluri sau călători care tranzitează Skala Prinos. Programul, disponibilitatea preparatelor și prețurile se pot modifica sezonier; verifică-le direct înainte de vizită."
+    },
+    "en": {
+      "name": "Mpes Sto Psito — Greek Grill & Gyros",
+      "shortDescription": "Greek gyros, souvlaki and freshly grilled favourites in Skala Prinos, near the ferry port, with outdoor seating and takeaway.",
+      "description": "In Skala Prinos, close to the Thassos ferry port, Mpes Sto Psito is a friendly Greek grill serving hearty street-food favourites. Choose from gyros in soft pita, souvlaki, grilled meat portions, French fries and classic Greek dips.\n\nOutdoor seating and takeaway make it a convenient stop for a quick lunch or an easy-going dinner. Visitors often praise the generous portions, welcoming service and value for money. If you like your gyros with tzatziki, it is worth asking for the sauce when ordering.\n\nA practical choice for families, couples and travellers passing through Skala Prinos. Hours, menu availability and prices may change with the season; confirm details directly before visiting."
+    },
+    "el": {
+      "name": "Mpes Sto Psito — Greek Grill & Gyros",
+      "shortDescription": "Γύρος, σουβλάκι και αγαπημένες γεύσεις της σχάρας στη Σκάλα Πρίνου, κοντά στο λιμάνι, με εξωτερικά τραπέζια και πακέτο.",
+      "description": "Στη Σκάλα Πρίνου, κοντά στο λιμάνι των φέρι της Θάσου, το Μπες στο Ψητό είναι ένα φιλικό ψητοπωλείο με αγαπημένες γεύσεις του ελληνικού street food. Εδώ θα βρείτε γύρο σε αφράτη πίτα, σουβλάκια, μερίδες κρεατικών, πατάτες τηγανητές και παραδοσιακά ντιπ.\n\nΤα τραπέζια στον εξωτερικό χώρο και η δυνατότητα για πακέτο το κάνουν βολική στάση για γρήγορο μεσημεριανό ή χαλαρό βραδινό. Οι επισκέπτες συχνά ξεχωρίζουν τις χορταστικές μερίδες, τη φιλική εξυπηρέτηση και τις προσιτές τιμές. Αν προτιμάτε τον γύρο με τζατζίκι, ζητήστε το κατά την παραγγελία.\n\nΚατάλληλο για οικογένειες, ζευγάρια και ταξιδιώτες που περνούν από τη Σκάλα Πρίνου. Ωράριο, διαθεσιμότητα πιάτων και τιμές ενδέχεται να αλλάζουν ανά εποχή."
+    },
+    "de": {
+      "name": "Mpes Sto Psito — Greek Grill & Gyros",
+      "shortDescription": "Gyros, Souvlaki und griechische Grillspezialitäten in Skala Prinos nahe dem Fährhafen, mit Außenterrasse und Speisen zum Mitnehmen.",
+      "description": "In Skala Prinos, unweit des Fährhafens von Thassos, lädt Mpes Sto Psito zu unkompliziertem griechischem Grillgenuss ein. Auf der Karte stehen Gyros in weichem Pitabrot, Souvlaki, Grillteller, Pommes frites und traditionelle Dips.\n\nMit Sitzplätzen im Freien und Speisen zum Mitnehmen eignet sich das Lokal für ein schnelles Mittagessen oder ein entspanntes Abendessen. Gäste loben häufig die großzügigen Portionen, das freundliche Personal und das gute Preis-Leistungs-Verhältnis. Wer Gyros mit Tzatziki mag, sollte die Sauce ausdrücklich bestellen.\n\nEine praktische Adresse für Familien, Paare und Reisende rund um Skala Prinos. Öffnungszeiten, Angebot und Preise können saisonal variieren und sollten vor dem Besuch bestätigt werden."
+    },
+    "bg": {
+      "name": "Mpes Sto Psito — Greek Grill & Gyros",
+      "shortDescription": "Гирос, сувлаки и гръцки специалитети на скара в Скала Принос, близо до фериботното пристанище, с външни маси и храна за вкъщи.",
+      "description": "В Скала Принос, близо до фериботното пристанище на Тасос, Mpes Sto Psito е приветливо гръцко заведение с любими специалитети на скара. Менюто предлага гирос в мека пита, сувлаки, месни порции на скара, пържени картофи и традиционни разядки.\n\nВъншните маси и възможността за храна за вкъщи го правят удобно място за бърз обяд или непринудена вечеря. Посетителите често харесват щедрите порции, любезното обслужване и доброто съотношение цена–качество. Ако предпочитате гирос с дзадзики, поискайте соса при поръчката.\n\nПодходящо за семейства, двойки и пътешественици, преминаващи през Скала Принос. Работното време, наличността на ястия и цените могат да се променят според сезона."
+    },
+    "sr": {
+      "name": "Mpes Sto Psito — Greek Grill & Gyros",
+      "shortDescription": "Giros, suvlaki i grčki specijaliteti sa roštilja u Skali Prinos, blizu trajektnog pristaništa, uz terasu i hranu za poneti.",
+      "description": "U Skali Prinos, blizu trajektnog pristaništa na Tasosu, Mpes Sto Psito je prijatan grčki gril sa omiljenim jelima ulične kuhinje. Na meniju su giros u mekoj piti, suvlaki, porcije mesa sa roštilja, pomfrit i tradicionalni umaci.\n\nBašta i mogućnost poručivanja za poneti čine ga praktičnim mestom za brz ručak ili opuštenu večeru. Gosti često ističu obilne porcije, ljubazno osoblje i dobar odnos cene i kvaliteta. Ako volite giros sa cacikijem, zatražite taj umak prilikom poručivanja.\n\nPogodno za porodice, parove i putnike koji prolaze kroz Skalu Prinos. Radno vreme, dostupnost jela i cene mogu se sezonski menjati; proverite ih pre posete."
+    }
+  },
+  "title": {
+    "ro": "Mpes Sto Psito — Greek Grill & Gyros",
+    "en": "Mpes Sto Psito — Greek Grill & Gyros",
+    "el": "Mpes Sto Psito — Greek Grill & Gyros",
+    "de": "Mpes Sto Psito — Greek Grill & Gyros",
+    "bg": "Mpes Sto Psito — Greek Grill & Gyros",
+    "sr": "Mpes Sto Psito — Greek Grill & Gyros"
+  },
+  "shortDescription": {
+    "ro": "Gyros, souvlaki și preparate grecești la grătar în Skala Prinos, aproape de port, cu terasă și opțiune takeaway.",
+    "en": "Greek gyros, souvlaki and freshly grilled favourites in Skala Prinos, near the ferry port, with outdoor seating and takeaway.",
+    "el": "Γύρος, σουβλάκι και αγαπημένες γεύσεις της σχάρας στη Σκάλα Πρίνου, κοντά στο λιμάνι, με εξωτερικά τραπέζια και πακέτο.",
+    "de": "Gyros, Souvlaki und griechische Grillspezialitäten in Skala Prinos nahe dem Fährhafen, mit Außenterrasse und Speisen zum Mitnehmen.",
+    "bg": "Гирос, сувлаки и гръцки специалитети на скара в Скала Принос, близо до фериботното пристанище, с външни маси и храна за вкъщи.",
+    "sr": "Giros, suvlaki i grčki specijaliteti sa roštilja u Skali Prinos, blizu trajektnog pristaništa, uz terasu i hranu za poneti."
+  },
+  "description": {
+    "ro": "În Skala Prinos, aproape de portul de feribot din Thassos, Mpes Sto Psito este un local grecesc relaxat, dedicat preparatelor la grătar și gustărilor consistente. Aici poți alege gyros în pita moale, souvlaki, porții de carne la grătar, cartofi prăjiți și sosuri tradiționale.\n\nTerasa și posibilitatea de a comanda la pachet îl fac o oprire practică pentru un prânz rapid sau o cină fără formalități. Vizitatorii apreciază adesea porțiile generoase, personalul prietenos și raportul calitate-preț. Dacă preferi gyros cu tzatziki, cere explicit sosul la comandă.\n\nLocalul este potrivit pentru familii, cupluri sau călători care tranzitează Skala Prinos. Programul, disponibilitatea preparatelor și prețurile se pot modifica sezonier; verifică-le direct înainte de vizită.",
+    "en": "In Skala Prinos, close to the Thassos ferry port, Mpes Sto Psito is a friendly Greek grill serving hearty street-food favourites. Choose from gyros in soft pita, souvlaki, grilled meat portions, French fries and classic Greek dips.\n\nOutdoor seating and takeaway make it a convenient stop for a quick lunch or an easy-going dinner. Visitors often praise the generous portions, welcoming service and value for money. If you like your gyros with tzatziki, it is worth asking for the sauce when ordering.\n\nA practical choice for families, couples and travellers passing through Skala Prinos. Hours, menu availability and prices may change with the season; confirm details directly before visiting.",
+    "el": "Στη Σκάλα Πρίνου, κοντά στο λιμάνι των φέρι της Θάσου, το Μπες στο Ψητό είναι ένα φιλικό ψητοπωλείο με αγαπημένες γεύσεις του ελληνικού street food. Εδώ θα βρείτε γύρο σε αφράτη πίτα, σουβλάκια, μερίδες κρεατικών, πατάτες τηγανητές και παραδοσιακά ντιπ.\n\nΤα τραπέζια στον εξωτερικό χώρο και η δυνατότητα για πακέτο το κάνουν βολική στάση για γρήγορο μεσημεριανό ή χαλαρό βραδινό. Οι επισκέπτες συχνά ξεχωρίζουν τις χορταστικές μερίδες, τη φιλική εξυπηρέτηση και τις προσιτές τιμές. Αν προτιμάτε τον γύρο με τζατζίκι, ζητήστε το κατά την παραγγελία.\n\nΚατάλληλο για οικογένειες, ζευγάρια και ταξιδιώτες που περνούν από τη Σκάλα Πρίνου. Ωράριο, διαθεσιμότητα πιάτων και τιμές ενδέχεται να αλλάζουν ανά εποχή.",
+    "de": "In Skala Prinos, unweit des Fährhafens von Thassos, lädt Mpes Sto Psito zu unkompliziertem griechischem Grillgenuss ein. Auf der Karte stehen Gyros in weichem Pitabrot, Souvlaki, Grillteller, Pommes frites und traditionelle Dips.\n\nMit Sitzplätzen im Freien und Speisen zum Mitnehmen eignet sich das Lokal für ein schnelles Mittagessen oder ein entspanntes Abendessen. Gäste loben häufig die großzügigen Portionen, das freundliche Personal und das gute Preis-Leistungs-Verhältnis. Wer Gyros mit Tzatziki mag, sollte die Sauce ausdrücklich bestellen.\n\nEine praktische Adresse für Familien, Paare und Reisende rund um Skala Prinos. Öffnungszeiten, Angebot und Preise können saisonal variieren und sollten vor dem Besuch bestätigt werden.",
+    "bg": "В Скала Принос, близо до фериботното пристанище на Тасос, Mpes Sto Psito е приветливо гръцко заведение с любими специалитети на скара. Менюто предлага гирос в мека пита, сувлаки, месни порции на скара, пържени картофи и традиционни разядки.\n\nВъншните маси и възможността за храна за вкъщи го правят удобно място за бърз обяд или непринудена вечеря. Посетителите често харесват щедрите порции, любезното обслужване и доброто съотношение цена–качество. Ако предпочитате гирос с дзадзики, поискайте соса при поръчката.\n\nПодходящо за семейства, двойки и пътешественици, преминаващи през Скала Принос. Работното време, наличността на ястия и цените могат да се променят според сезона.",
+    "sr": "U Skali Prinos, blizu trajektnog pristaništa na Tasosu, Mpes Sto Psito je prijatan grčki gril sa omiljenim jelima ulične kuhinje. Na meniju su giros u mekoj piti, suvlaki, porcije mesa sa roštilja, pomfrit i tradicionalni umaci.\n\nBašta i mogućnost poručivanja za poneti čine ga praktičnim mestom za brz ručak ili opuštenu večeru. Gosti često ističu obilne porcije, ljubazno osoblje i dobar odnos cene i kvaliteta. Ako volite giros sa cacikijem, zatražite taj umak prilikom poručivanja.\n\nPogodno za porodice, parove i putnike koji prolaze kroz Skalu Prinos. Radno vreme, dostupnost jela i cene mogu se sezonski menjati; proverite ih pre posete."
+  },
+  "cuisine": [
+    "greek",
+    "street_food",
+    "gyros",
+    "souvlaki"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "grill",
+    "fast_casual"
+  ],
+  "location": {
+    "country": "Greece",
+    "island": "Thassos",
+    "locality": "Skala Prinos",
+    "address": "ΣΚΑΛΑ, Prinos 640 10, Greece",
+    "latitude": null,
+    "longitude": null
+  },
+  "address": "ΣΚΑΛΑ, Prinos 640 10, Greece",
+  "displayAddress": "Skala Prinos, Thassos, Greece",
+  "coordinates": {
+    "lat": null,
+    "lng": null
+  },
+  "phone": "+30 694 001 8600",
+  "links": {
+    "googleMaps": null,
+    "googleMapsSearchQuery": "ΜΠΕΣ ΣΤΟ ΨΗΤΟ, Skala Prinos, Thassos",
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "booking": null
+  },
+  "google": {
+    "rating": 4.8,
+    "reviewCount": 279,
+    "capturedAt": "2026-11-04",
+    "source": "structured_google_business_result_from_search",
+    "liveUpdate": false,
+    "showIndividualReviews": false,
+    "providerPlaceId": "ChIJ08lmQo_rrhQRJSjtaXkZ9Ms"
+  },
+  "rating": 4.8,
+  "ratingSource": "Google business result snapshot, 2026-11-04",
+  "price": {
+    "rangePerPersonEUR": [
+      5,
+      10
+    ],
+    "reportedBy": 42,
+    "source": "user_provided_google_maps_snapshot",
+    "status": "indicative_unverified",
+    "showAsCurrent": false
+  },
+  "openingHours": {
+    "weekly": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [
+        {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      ],
+      "saturday": [
+        {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      ],
+      "sunday": [
+        {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "source": "user_provided_google_maps_snapshot_2026-11-04",
+    "capturedAt": "2026-11-04",
+    "status": "disputed_seasonal_hours",
+    "showAsGuaranteedCurrent": false,
+    "otherSource": "restaurantguru_page_reports_Tue-Sun_13:00-23:00"
+  },
+  "serviceOptions": [
+    "outdoor_seating",
+    "takeaway",
+    "dine_in"
+  ],
+  "highlights": [
+    "gyros",
+    "souvlaki",
+    "grilled_meats",
+    "near_ferry_port"
+  ],
+  "popularFor": [
+    "solo_dining",
+    "quick_meal"
+  ],
+  "offerings": [
+    "alcohol",
+    "quick_bite"
+  ],
+  "diningOptions": [
+    "lunch",
+    "dinner",
+    "seating",
+    "table_service"
+  ],
+  "amenities": [
+    "toilet",
+    "wifi",
+    "free_wifi"
+  ],
+  "atmosphere": [
+    "casual",
+    "cosy",
+    "quiet"
+  ],
+  "crowd": [
+    "groups",
+    "tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "credit_cards",
+    "debit_cards",
+    "nfc_mobile_payments"
+  ],
+  "children": [
+    "good_for_kids"
+  ],
+  "parking": [
+    "free_street_parking",
+    "free_parking_lot",
+    "plenty_of_parking"
+  ],
+  "accessibility": [
+    "wheelchair_accessible_toilet"
+  ],
+  "pets": [
+    "dogs_allowed"
+  ],
+  "features": [
+    "outdoor_seating",
+    "takeaway",
+    "wifi",
+    "family_friendly",
+    "close_to_port"
+  ],
+  "heroImage": "images/Taverna grecească lângă mare.webp",
+  "image": "images/Taverna grecească lângă mare.webp",
+  "images": [
+    "images/Taverna grecească lângă mare.webp",
+    "images/Farfurie grecească cu gyros și tzatziki.webp",
+    "images/Gyros crocant sub luminile nopții.webp",
+    "images/Cafenea la apus, lângă ferry.webp",
+    "images/Gyros, cartofi și bere Mythos la cafenea.webp",
+    "images/Ταβέρνα Μπες στο Ψητό τη Νύχτα.webp",
+    "images/Cafenea mediteraneană la apus.webp"
+  ],
+  "galleryImages": [
+    "images/Taverna grecească lângă mare.webp",
+    "images/Farfurie grecească cu gyros și tzatziki.webp",
+    "images/Gyros crocant sub luminile nopții.webp",
+    "images/Cafenea la apus, lângă ferry.webp",
+    "images/Gyros, cartofi și bere Mythos la cafenea.webp",
+    "images/Ταβέρνα Μπες στο Ψητό τη Νύχτα.webp",
+    "images/Cafenea mediteraneană la apus.webp"
+  ],
+  "menuImages": [
+    "documents/menu-captures/image(20261104-095703).png",
+    "documents/menu-captures/image(20261104-095723).png",
+    "documents/menu-captures/image(20261104-095746).png",
+    "documents/menu-captures/image(20261104-095800).png",
+    "documents/menu-captures/image(20261104-095812).png",
+    "documents/menu-captures/image(20261104-095830).png"
+  ],
+  "menuFile": "menu.json",
+  "menus": {
+    "documented": {
+      "file": "menu.json",
+      "year": null,
+      "showPricesPublicly": false
+    },
+    "current": null
+  },
+  "reviews": {
+    "displayIndividualReviews": false,
+    "sourceRatingOnly": true,
+    "individualReviewTextsStored": false
+  },
+  "status": {
+    "content": "prepared_awaiting_media",
+    "photoProvenance": "user_supplied",
+    "menu": "undated_menu_prices_unverified",
+    "hours": "disputed_unverified",
+    "published": false,
+    "featured": false,
+    "active": false
+  },
+  "partner": false,
+  "featured": false,
+  "active": false,
+  "lastPrepared": "2026-11-04",
+  "dataNotes": {
+    "images": "Intentionally omitted from this ZIP by user request. Copy matching .webp files to images/.",
+    "gps": "Exact restaurant coordinates not supplied or independently verified; coordinates intentionally null.",
+    "hours": "Google screenshot indicates Fri-Sun 12:00-21:00 only; another directory indicates Tue-Sun 13:00-23:00. Confirm before publishing.",
+    "menu": "Menu screenshots have no verified date; individual prices are reference only and hidden by default.",
+    "rating": "4.8 out of 5 and 279 reviews on 2026-11-04. Snapshot only, not live.",
+    "reviewPolicy": "No individual review excerpts included in public output.",
+    "otherBusinesses": "Businesses with same or similar Greek name in Halkidiki and Agistri are not this Thassos listing."
+  },
+  "subcategory": "snack-bar",
+  "tags": [
+    "gyros",
+    "souvlaki",
+    "greek-street-food",
+    "grill",
+    "takeaway",
+    "quick-bite"
+  ],
+  "venueId": "mpes-sto-psito"
+}

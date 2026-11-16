@@ -1,0 +1,245 @@
+{
+  "schema_version": 3,
+  "id": "gr-thassos-beach-bar-karavouzis",
+  "slug": "karavouzis-beach-bar",
+  "record_type": "beach_bar",
+  "destination_id": "gr-thassos",
+  "category": "beach-bars",
+  "subcategory": "beach_bar",
+  "area_slug": "skala-prinos",
+  "area_id": "gr-thassos-area-skala-prinos",
+  "beachSlug": "dasilio",
+  "nearby_beach_slugs": [
+    "dasilio"
+  ],
+  "primary_beach": {
+    "slug": "dasilio",
+    "id": "gr-thassos-beach-dasilio",
+    "name": "Dasilio Beach",
+    "path": "destinations/thassos/beaches/dasilio/beach.json",
+    "lat": 40.7609,
+    "lng": 24.56864,
+    "distance_m_straight_line_approx": 119,
+    "relationship": "on_beach_or_immediate_shoreline",
+    "distance_method": "haversine_to_representative_point_not_walking_route"
+  },
+  "identity": {
+    "google_listing_name": "Karavouzis beach bar",
+    "international_name": "Canopy Beach Bar",
+    "former_name": "Karavouzis Beach Bar",
+    "display_name_recommended": "Canopy Beach Bar",
+    "aliases": [
+      "Karavouzis beach bar",
+      "Karavouzi Bros",
+      "Karavouzi Brothers",
+      "Canopy Beach Bar"
+    ],
+    "brand_change": {
+      "date": "2026-05-03",
+      "source": "https://canopybeachbar.com/history/",
+      "verified_on_official_website": true,
+      "published_identity_review_recommended": true
+    },
+    "deduplication_note": "Same family, same business phone and location. Do not create a second independent beach bar entry for Canopy."
+  },
+  "location": {
+    "address": "Unnamed Road, Ormos Prinou 640 10, Greece",
+    "lat": 40.76051390492783,
+    "lng": 24.569963669099504,
+    "alternative_google_pin": {
+      "lat": 40.76054234768957,
+      "lng": 24.56995830468125
+    },
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=40.76051390492783%2C24.569963669099504",
+    "country": "GR",
+    "island": "Thassos",
+    "settlement": "Ormos Prinou / Skala Prinos",
+    "geolocation_note": "Coordinates given by user; linked beach derived from confirmed Dasilio record and nearby map evidence."
+  },
+  "contact": {
+    "phone_e164": "+306987557903",
+    "phone_display": "+30 698 755 7903",
+    "phone_verified_official": true,
+    "website_current_official": "https://canopybeachbar.com/",
+    "website_google_listing": "https://studioskaravouzi.com/",
+    "website_google_listing_status": "domain currently shows unrelated Greek accommodation aggregator; do not promote as official",
+    "email_official": "argiriskaravouzis@gmail.com",
+    "email_source": "https://canopybeachbar.com/contact/"
+  },
+  "hours": {
+    "official_website": {
+      "monday": "09:00–23:00",
+      "tuesday": "09:00–23:00",
+      "wednesday": "09:00–23:00",
+      "thursday": "09:00–23:00",
+      "friday": "09:00–23:00",
+      "saturday": "09:00–23:00",
+      "sunday": "09:00–23:00",
+      "url": "https://canopybeachbar.com/contact/"
+    },
+    "google_listing_user_supplied": {
+      "days": "daily",
+      "hours": "09:00–02:00"
+    },
+    "display_current_hours": false,
+    "status": "conflicting_sources_seasonal_verify",
+    "note": "Do not claim open now or guaranteed operating hours until verified for season."
+  },
+  "price_reference": {
+    "google_user_supplied_band": "€5–10 per person",
+    "reported_by_people": 6,
+    "display_as_current_price": false,
+    "note": "Google indicative band, not a verified menu or exact ticket price."
+  },
+  "reviews": {
+    "google_review_count_snapshot": 38,
+    "google_rating": null,
+    "review_examples_internal_only": true,
+    "public_individual_reviews": false,
+    "source": "user supplied Google Maps summary",
+    "live_sync": false
+  },
+  "offerings_reported": {
+    "beverages": [
+      "coffee",
+      "beer",
+      "wine",
+      "cocktails",
+      "spirits",
+      "non-alcoholic drinks"
+    ],
+    "food": [
+      "snacks",
+      "casual meals"
+    ],
+    "service_options": [
+      "outdoor seating",
+      "dine-in",
+      "delivery reported on Google"
+    ],
+    "facilities": [
+      "bar",
+      "toilet"
+    ],
+    "payments": [
+      "credit cards",
+      "debit cards",
+      "NFC mobile payments"
+    ],
+    "audience": [
+      "groups",
+      "tourists",
+      "families with children"
+    ],
+    "parking": [
+      "free street parking reported",
+      "free parking lot reported"
+    ],
+    "pets": [
+      "dogs allowed as reported on Google"
+    ]
+  },
+  "sunbeds": {
+    "available_as_photographed": true,
+    "fee_policy_confirmed": false,
+    "source_note": "A review reported consumption-based sunbed access/no fixed fee; may have changed; verify with operator."
+  },
+  "menu": {
+    "file": "menu.json",
+    "availability": "not_provided",
+    "public_prices_enabled": false
+  },
+  "media": {
+    "cover": "images/Apus peste un resort tropical.webp",
+    "gallery": [
+      "images/Apus peste un resort tropical.webp",
+      "images/Refugiu de Plajă cu Pizza și Marea.webp",
+      "images/Prânz mediteranean la Karyouli Beach Bar.webp",
+      "images/Paste cu fructe de mare la masă mediteraneană.webp",
+      "images/Musaca cu salată proaspătă.webp",
+      "images/Plajă însorită la Karavouzi Beach Bar.webp",
+      "images/Cafenea de plajă sub pergolă albă.webp",
+      "images/Refugiu de plajă la apus.webp",
+      "images/Stațiune de plajă Mythos la apus.webp",
+      "images/Femeie contemplând oceanul sub umbrele de paie.webp"
+    ],
+    "manifest": "imagini_manifest.json",
+    "images_included_in_zip": false,
+    "images_expected_format": "webp"
+  },
+  "nearby_businesses": [
+    {
+      "id": "pinch-of-salt",
+      "slug": "pinch-of-salt",
+      "category": "restaurant",
+      "name": "Pinch of Salt",
+      "distance_m_straight_line_approx": 439,
+      "beachSlug": null,
+      "note": "Nearby business only; do not inherit this venue’s Dasilio beachSlug"
+    },
+    {
+      "id": "oasis-grill-restaurant",
+      "slug": "oasis-grill-restaurant",
+      "category": "restaurant",
+      "name": "Oasis Grill Restaurant",
+      "distance_m_straight_line_approx": 512,
+      "beachSlug": null,
+      "note": "Nearby business only; do not inherit this venue’s Dasilio beachSlug"
+    },
+    {
+      "id": "cat-dive-center",
+      "slug": "cat-dive-center",
+      "category": "service",
+      "name": "CAT Dive Center",
+      "distance_m_straight_line_approx": 730,
+      "beachSlug": null,
+      "note": "Nearby service only; do not inherit this venue’s Dasilio beachSlug"
+    }
+  ],
+  "i18n": {
+    "ro": {
+      "name": "Canopy Beach Bar (fostul Karavouzis Beach Bar)",
+      "tagline": "Apusuri peste mare, șezlonguri și relaxare la Dasilio Beach",
+      "summary": "Pe plaja Dasilio, lângă Skala Prinos, beach barul cunoscut anterior drept Karavouzis Beach Bar oferă un cadru relaxat, cu șezlonguri, zone umbrite, băuturi și gustări aproape de apă.",
+      "description": "Pe țărmul împădurit al plajei Dasilio, în apropiere de Skala Prinos, acest beach bar este un loc plăcut pentru a combina înotul cu pauze lungi la soare. Șezlongurile, umbrelele din materiale naturale și spațiile de relaxare de pe nisip creează o atmosferă liniștită, iar pe măsură ce se apropie seara, lumina apusului dă locului un farmec aparte. Vizitatorii au menționat cafea, cocktailuri, gustări și servire amabilă. Localul apare încă în unele listări ca Karavouzis Beach Bar; afacerea familiei Karavouzis prezintă din 2026 numele Canopy Beach Bar. Condițiile de utilizare a șezlongurilor, programul și oferta pot varia sezonier și trebuie confirmate înaintea vizitei.",
+      "know": "Dasilio Beach (slug: dasilio), la aproximativ 120 m în linie dreaptă de pinul de referință al plajei. Contactul și orele afișate diferă între surse: sunați înainte de vizită. Nu există meniu complet verificat. Accesul cu animale și livrarea au fost raportate în listarea Google, nu reconfirmate independent."
+    },
+    "en": {
+      "name": "Canopy Beach Bar (formerly Karavouzis Beach Bar)",
+      "tagline": "Seaside sunsets, sun loungers and easygoing days at Dasilio Beach",
+      "summary": "On Dasilio Beach near Skala Prinos, the venue formerly known as Karavouzis Beach Bar offers laid-back seaside seating, loungers, drinks and casual food close to the water.",
+      "description": "Set along the pine-backed shore of Dasilio Beach, near Skala Prinos, this beach bar is an inviting spot to mix swimming with slow hours by the sea. Sun loungers, thatched parasols and relaxed seating areas shape its casual beach atmosphere, while late-afternoon light and sunsets add a special touch. Visitors have described coffee, cocktails, snacks and friendly service. Some online listings still use the name Karavouzis Beach Bar; the Karavouzis family business now presents itself as Canopy Beach Bar following a 2026 rebranding. Sunbed arrangements, operating hours and food choices may change by season, so checking ahead is recommended.",
+      "know": "Linked beach: Dasilio (slug dasilio), roughly 120 m straight-line distance to its reference point. Opening hours differ between Google and the brand website. No complete verified menu is available; confirm sunbed policies and availability directly."
+    },
+    "el": {
+      "name": "Canopy Beach Bar (πρώην Karavouzis Beach Bar)",
+      "tagline": "Ηλιοβασίλεμα, ξαπλώστρες και χαλάρωση στο Δασύλλιο",
+      "summary": "Στην παραλία Δασύλλιο, κοντά στη Σκάλα Πρίνου, το πρώην Karavouzis Beach Bar προσφέρει χαλαρή ατμόσφαιρα δίπλα στη θάλασσα, ξαπλώστρες, ποτά και ελαφριά γεύματα.",
+      "description": "Στην ακτή του Δασυλλίου, ανάμεσα στη θάλασσα και τα πεύκα, αυτό το beach bar προσφέρεται για χαλαρές καλοκαιρινές στιγμές. Ξαπλώστρες, ψάθινες ομπρέλες και σημεία ξεκούρασης δημιουργούν ευχάριστο περιβάλλον, ιδιαίτερα όταν πλησιάζει το ηλιοβασίλεμα. Επισκέπτες αναφέρουν καφέ, κοκτέιλ, σνακ και φιλική εξυπηρέτηση. Ο χώρος εμφανίζεται σε ορισμένους καταλόγους ως Karavouzis Beach Bar, ενώ η οικογενειακή επιχείρηση παρουσιάζεται πλέον ως Canopy Beach Bar μετά την αλλαγή ονομασίας το 2026. Το ωράριο, οι παροχές και οι όροι χρήσης των ξαπλωστρών χρειάζονται επιβεβαίωση πριν από την επίσκεψη.",
+      "know": "Συνδεδεμένη παραλία: Δασύλλιο (slug: dasilio). Περίπου 120 μ. σε ευθεία γραμμή από το ενδεικτικό σημείο της παραλίας. Δεν έχει επιβεβαιωθεί πλήρης τιμοκατάλογος."
+    },
+    "de": {
+      "name": "Canopy Beach Bar (ehemals Karavouzis Beach Bar)",
+      "tagline": "Sonnenuntergänge, Liegen und entspannte Stunden am Dasilio Beach",
+      "summary": "Am Dasilio Beach bei Skala Prinos bietet die frühere Karavouzis Beach Bar Liegen, Getränke, Snacks und eine entspannte Atmosphäre direkt am Meer.",
+      "description": "An der von Pinien gesäumten Küste des Dasilio Beach lädt diese Strandbar zu gemütlichen Stunden zwischen Schwimmen und Entspannen ein. Sonnenliegen, Strohdächer und luftige Sitzbereiche prägen das ruhige Strandgefühl, besonders am späten Nachmittag zum Sonnenuntergang. Besucher berichten von Kaffee, Cocktails, kleinen Gerichten und freundlichem Service. Manche Verzeichnisse nennen den Ort weiterhin Karavouzis Beach Bar; der Familienbetrieb tritt nach einer Umbenennung im Jahr 2026 als Canopy Beach Bar auf. Öffnungszeiten, Speisenangebot und Bedingungen für Strandliegen sollten vor dem Besuch direkt geprüft werden.",
+      "know": "Zugeordneter Strand: Dasilio (Slug: dasilio), rund 120 m Luftlinie vom Strand-Referenzpunkt. Die Öffnungszeiten unterscheiden sich je nach Quelle. Eine vollständige bestätigte Speisekarte liegt nicht vor."
+    },
+    "bg": {
+      "name": "Canopy Beach Bar (преди Karavouzis Beach Bar)",
+      "tagline": "Залези, шезлонги и спокойни дни на плаж Дасилио",
+      "summary": "На плаж Дасилио, близо до Скала Принос, бившият Karavouzis Beach Bar предлага шезлонги, напитки, леки храни и спокойна атмосфера край морето.",
+      "description": "На крайбрежието на Дасилио, сред борове и близо до морето, този плажен бар е приятно място за почивка между плуванията. Шезлонги, сламени чадъри и удобни кътове създават непринудено настроение, особено по залез. Посетители споменават кафе, коктейли, закуски и любезно обслужване. На някои места обектът все още фигурира като Karavouzis Beach Bar, но семейният бизнес използва името Canopy Beach Bar след промяна през 2026 г. Работното време, менюто и условията за шезлонгите е добре да се проверят предварително.",
+      "know": "Свързан плаж: Дасилио (slug: dasilio), приблизително 120 м по права линия от референтната точка на плажа. Няма потвърдено пълно меню."
+    },
+    "sr": {
+      "name": "Canopy Beach Bar (ranije Karavouzis Beach Bar)",
+      "tagline": "Zalasci sunca, ležaljke i opuštanje na plaži Dasilio",
+      "summary": "Na plaži Dasilio, blizu mesta Skala Prinos, nekadašnji Karavouzis Beach Bar nudi ležaljke, pića, lagane obroke i opušten boravak uz more.",
+      "description": "Na obali plaže Dasilio, uz borove i more, ovaj bar je prijatno mesto za predah između kupanja. Ležaljke, suncobrani od prirodnih materijala i udoban prostor za sedenje stvaraju mirnu letnju atmosferu, naročito pred zalazak sunca. Gosti pominju kafu, koktele, užine i ljubazno osoblje. Na nekim internet listama mesto se i dalje zove Karavouzis Beach Bar, dok se porodični posao nakon promene naziva 2026. predstavlja kao Canopy Beach Bar. Radno vreme, meni i pravila korišćenja ležaljki treba proveriti pre dolaska.",
+      "know": "Povezana plaža: Dasilio (slug: dasilio), približno 120 m vazdušnom linijom od referentne tačke plaže. Potpun potvrđen meni nije dostupan."
+    }
+  },
+  "last_prepared": "2026-11-04",
+  "publication_status": "ready_pending_images_and_seasonal_checks"
+}
